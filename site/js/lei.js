@@ -279,6 +279,8 @@ function mostrarErro(titulo, detalhe) {
   for (const s of ["#sec-vinculos", "#sec-alteracoes", "#sec-historico"]) $(s).hidden = true;
 }
 
+const temPagina = id => !urlLei(id).startsWith("lei.html") && !ehExterno(id);
+
 function irParaAncora() {
   if (!location.hash) return;
   const alvo = document.getElementById(decodeURIComponent(location.hash.slice(1)));
@@ -286,7 +288,8 @@ function irParaAncora() {
 }
 
 async function iniciar() {
-  let id = params.get("id");
+  // Nas páginas geradas (lei/<id>.html) o id vem no <body data-lei>.
+  let id = params.get("id") || document.body.dataset.lei;
   const ref = params.get("ref");
 
   if (!id && ref) {
@@ -300,6 +303,7 @@ async function iniciar() {
       return;
     }
     id = achado;
+    if (temPagina(id)) { location.replace(urlLei(id) + location.hash); return; }
     history.replaceState(null, "", urlLei(id) + location.hash);
   }
   if (!id) { mostrarErro("Nenhuma lei indicada", "Abra uma lei a partir da busca."); return; }
@@ -309,6 +313,12 @@ async function iniciar() {
     fetch(RAW + caminho).catch(() => null),
     buscarEntrada(id).catch(() => null),
   ]);
+  // lei.html?id= de uma norma do índice: vai para a página própria (lei/<id>),
+  // que é o endereço com prévia para compartilhar.
+  if (entrada && !document.body.dataset.lei && temPagina(id)) {
+    location.replace(urlLei(id) + location.hash);
+    return;
+  }
   if (!resposta || !resposta.ok) {
     mostrarErro("Lei não encontrada",
       `O arquivo ${caminho} não existe no acervo ctresb/leis (ou o GitHub não respondeu).`);
@@ -381,6 +391,18 @@ $("#ir-art").addEventListener("submit", ev => {
   else $("#art").setCustomValidity("Artigo não encontrado"), $("#art").reportValidity(), $("#art").setCustomValidity("");
 });
 window.addEventListener("hashchange", irParaAncora);
+// As páginas geradas têm <base href> apontando para a raiz do site, então um
+// href="#art-5" levaria para a página inicial. Mantém a âncora nesta página.
+if (document.querySelector("base")) {
+  document.addEventListener("click", ev => {
+    const a = ev.target.closest?.('a[href^="#"]');
+    if (!a || ev.defaultPrevented || ev.button || ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.altKey) return;
+    ev.preventDefault();
+    const alvo = a.getAttribute("href");
+    if (alvo === "#") { history.replaceState(null, "", location.pathname + location.search); scrollTo({ top: 0 }); }
+    else location.hash = alvo;
+  });
+}
 window.addEventListener("scroll", () => {
   $("#voltar-topo").classList.toggle("visivel", scrollY > 900);
 }, { passive: true });

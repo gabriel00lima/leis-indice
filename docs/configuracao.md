@@ -40,7 +40,17 @@ Sem esses segredos, o monitor e o índice continuam funcionando; só não há re
 - **Bot do Telegram**: no Telegram, fale com `@BotFather`, envie `/newbot` e siga as instruções; ele devolve o token.
 - **Chat ID**: mande qualquer mensagem para o seu bot e abra `https://api.telegram.org/bot<TOKEN>/getUpdates`; o número em `"chat":{"id": ...}` é o chat ID. Para um canal, adicione o bot como administrador e o ID começa com `-100`.
 
-## 4. Conferir que tudo rodou
+## 4. Google Search Console (opcional, para aparecer mais rápido no Google)
+
+O site já gera `sitemap.xml`, mas num endereço `github.io/leis-indice` o Google não lê o `robots.txt` do projeto, então o sitemap precisa ser enviado à mão uma vez:
+
+1. Abra `https://search.google.com/search-console` e adicione a propriedade do tipo **Prefixo do URL** com `https://gabriel00lima.github.io/leis-indice/`.
+2. Na verificação, escolha **Tag HTML**, copie só o valor de `content="..."` e me passe (ou coloque como `<meta name="google-site-verification" content="...">` no `<head>` de `site/index.html`). Depois do deploy, clique em **Verificar**.
+3. Em **Sitemaps**, envie `sitemap.xml`.
+
+Sem isso o Google acaba achando as páginas pelos links, só que mais devagar. As prévias no WhatsApp não dependem deste passo.
+
+## 5. Conferir que tudo rodou
 
 Na aba **Actions**, confira que os workflows do monitor, do índice e do deploy aparecem e terminam em verde. O deploy também roda sozinho uma vez por dia.
 
