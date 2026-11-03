@@ -38,8 +38,9 @@ Uma norma citada pode estar fora do escopo indexado:
 |---|---|
 | `index.json` | Manifesto: commit da fonte, totais e lista de partes |
 | `index/<pasta>.json` | Metadados de cada norma da categoria |
-| `links.json` | Todas as ligações (lista de arestas) + metadados das normas envolvidas |
-| `adjacencia/<pasta>.json` | As mesmas ligações agrupadas por norma, nos dois sentidos (para backlinks) |
+| `links.json` | Manifesto das partes de adjacência (é o que o site e o grafo leem) |
+| `adjacencia/<pasta>.json` | Ligações agrupadas por norma, nos dois sentidos (inclui backlinks) |
+| `arestas.json` | Todas as ligações como lista de arestas, com artigos envolvidos + metadados das normas |
 | `cache/<pasta>.json` | Uso interno: SHA de cada arquivo processado e referências brutas |
 | `estado.json` | Uso interno: último commit processado e versão do extrator |
 
@@ -58,7 +59,7 @@ Todos os JSON têm um item por linha, para que os diffs no git mostrem só o que
       "adjacencia": "adjacencia/leis-ordinarias.json",
       "tipo": "Lei Ordinária", "prefixo": "lei", "total": 16784 }
   ],
-  "links": { "arquivo": "links.json", "total": 62438, "por_tipo": { "cita": 49027, "altera": 9337, "revoga": 4074 } }
+  "links": { "arquivo": "links.json", "arestas": "arestas.json", "total": 62438, "por_tipo": { "cita": 49027, "altera": 9337, "revoga": 4074 } }
 }
 ```
 
@@ -80,6 +81,16 @@ Array, ordenado por `id`:
 Os campos vêm do frontmatter do acervo (a Constituição não tem frontmatter; seus metadados são fixos).
 
 ### `links.json`
+
+Manifesto no formato que o site e o grafo leem (`pasta` = segundo trecho do id; a Constituição usa `constituicao`):
+
+```json
+{"versao": 1,
+ "shards": [{"arquivo": "adjacencia/leis-ordinarias.json", "pasta": "leis-ordinarias"}],
+ "arestas": "arestas.json"}
+```
+
+### `arestas.json`
 
 ```json
 {"versao": 1,

@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-03T16:22:12+00:00",
+  "gerado_em": "2026-11-03T16:24:41+00:00",
   "fonte": {
     "repositorio": "ctresb/leis",
     "commit": "c9f21b4ab11aa0d7ca6fe861d75028e94219c2d6",
@@ -57,6 +57,7 @@
   ],
   "links": {
     "arquivo": "links.json",
+    "arestas": "arestas.json",
     "total": 62438,
     "por_tipo": {
       "cita": 49027,

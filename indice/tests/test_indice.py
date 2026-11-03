@@ -117,7 +117,9 @@ class TestConstrucaoIncremental(unittest.TestCase):
             r1 = construir.construir(fonte, saida)
             self.assertTrue(r1["completo"])
             self.assertEqual(r1["normas"], 2)
-            links = json.loads((saida / "links.json").read_text())["links"]
+            links = json.loads((saida / "arestas.json").read_text())["links"]
+            manifesto = json.loads((saida / "links.json").read_text())
+            self.assertIn({"arquivo": "adjacencia/leis-ordinarias.json", "pasta": "leis-ordinarias"}, manifesto["shards"])
             self.assertEqual([(l["de"][-15:], l["para"][-15:], l["tipo"]) for l in links],
                              [("lei-200-1991-01-01"[-15:], "lei-100-1990-01-01"[-15:], "cita")])
 

@@ -286,7 +286,14 @@ def construir(fonte: Path, saida: Path, completo: bool = False, baixar_textos: b
         '{"versao":' + str(VERSAO_FORMATO) + ',\n"leis":' + json_linhas(leis_links).rstrip()
         + ',\n"links":' + json_linhas(links).rstrip() + "\n}\n"
     )
-    mudou |= escrever(saida / "links.json", conteudo_links)
+    mudou |= escrever(saida / "arestas.json", conteudo_links)
+    # links.json: manifesto das partes de adjacência (formato lido pelo site e pelo grafo).
+    manifesto_links = {
+        "versao": VERSAO_FORMATO,
+        "shards": [{"arquivo": f"adjacencia/{cat}.json", "pasta": cat} for cat in cats],
+        "arestas": "arestas.json",
+    }
+    mudou |= escrever(saida / "links.json", json.dumps(manifesto_links, ensure_ascii=False, indent=2) + "\n")
 
     agora = dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()
     manifesto_antigo = ler_json(saida / "index.json", {})
@@ -298,6 +305,7 @@ def construir(fonte: Path, saida: Path, completo: bool = False, baixar_textos: b
         "shards": shards,
         "links": {
             "arquivo": "links.json",
+            "arestas": "arestas.json",
             "total": len(links),
             "por_tipo": {t: sum(1 for l in links if l["tipo"] == t) for t in ("cita", "altera", "revoga")},
         },
