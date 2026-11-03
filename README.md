@@ -7,7 +7,7 @@ Este repositório **não copia** o acervo. Ele guarda só dados derivados (índi
 ## O que o projeto faz
 
 1. **Monitor de mudanças**: acompanha os commits do acervo e avisa, com um resumo simples, quando uma lei é criada, alterada ou revogada.
-2. **Índice das leis federais**: uma GitHub Action lê só o que mudou (`git diff`) e atualiza os metadados em `data/` (título, tipo, número, data, ementa, revogação, URN).
+2. **Índice das leis federais**: uma GitHub Action baixa só os arquivos novos ou alterados do acervo e atualiza em `data/` os metadados (título, tipo, número, data, ementa, revogação, URN) e as ligações entre normas (cita, altera, revoga). Formato em [data/README.md](data/README.md).
 3. **Site navegável**: site estático com busca, links cruzados entre leis e histórico de alterações, publicado no GitHub Pages.
 4. **Grafo de leis**: visualização de quais leis citam, alteram ou revogam outras.
 
@@ -18,6 +18,7 @@ Depois da base federal (e da Constituição), a ideia é estender para leis esta
 | Pasta | Conteúdo |
 |---|---|
 | `monitor/` | Código do monitor de mudanças |
+| `indice/` | Código que gera o índice e as ligações em `data/` |
 | `data/` | Índice gerado automaticamente (não editar à mão) |
 | `site/` | Site estático publicado no GitHub Pages |
 | `site/grafo/` | Página do grafo de leis |

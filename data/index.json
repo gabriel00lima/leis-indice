@@ -1,0 +1,67 @@
+{
+  "versao": 1,
+  "gerado_em": "2026-11-03T16:22:12+00:00",
+  "fonte": {
+    "repositorio": "ctresb/leis",
+    "commit": "c9f21b4ab11aa0d7ca6fe861d75028e94219c2d6",
+    "escopo": [
+      "constituicao.md",
+      "federal/emendas-constitucionais",
+      "federal/leis-complementares",
+      "federal/leis-ordinarias",
+      "federal/decretos-lei"
+    ]
+  },
+  "total": 29572,
+  "shards": [
+    {
+      "categoria": "constituicao",
+      "arquivo": "index/constituicao.json",
+      "adjacencia": "adjacencia/constituicao.json",
+      "tipo": "Constituição",
+      "prefixo": "constituicao",
+      "total": 1
+    },
+    {
+      "categoria": "decretos-lei",
+      "arquivo": "index/decretos-lei.json",
+      "adjacencia": "adjacencia/decretos-lei.json",
+      "tipo": "Decreto-Lei",
+      "prefixo": "del",
+      "total": 12376
+    },
+    {
+      "categoria": "emendas-constitucionais",
+      "arquivo": "index/emendas-constitucionais.json",
+      "adjacencia": "adjacencia/emendas-constitucionais.json",
+      "tipo": "Emenda Constitucional",
+      "prefixo": "emc",
+      "total": 172
+    },
+    {
+      "categoria": "leis-complementares",
+      "arquivo": "index/leis-complementares.json",
+      "adjacencia": "adjacencia/leis-complementares.json",
+      "tipo": "Lei Complementar",
+      "prefixo": "lcp",
+      "total": 239
+    },
+    {
+      "categoria": "leis-ordinarias",
+      "arquivo": "index/leis-ordinarias.json",
+      "adjacencia": "adjacencia/leis-ordinarias.json",
+      "tipo": "Lei Ordinária",
+      "prefixo": "lei",
+      "total": 16784
+    }
+  ],
+  "links": {
+    "arquivo": "links.json",
+    "total": 62438,
+    "por_tipo": {
+      "cita": 49027,
+      "altera": 9337,
+      "revoga": 4074
+    }
+  }
+}
