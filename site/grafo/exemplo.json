@@ -1,0 +1,42 @@
+{
+  "versao": 1,
+  "gerado_em": "2026-11-03T00:00:00Z",
+  "exemplo": true,
+  "leis": {
+    "federal/constituicao/1988/constituicao-1988-10-05": {"titulo": "Constituição da República Federativa do Brasil de 1988", "tipo": "constituicao", "numero": "", "data": "1988-10-05", "ementa": "Constituição Federal.", "revogada": false},
+    "federal/leis-ordinarias/1990/lei-8078-1990-09-11": {"titulo": "Lei nº 8.078, de 11 de setembro de 1990", "tipo": "lei-ordinaria", "numero": "8078", "data": "1990-09-11", "ementa": "Dispõe sobre a proteção do consumidor e dá outras providências.", "revogada": false},
+    "federal/leis-ordinarias/2002/lei-10406-2002-01-10": {"titulo": "Lei nº 10.406, de 10 de janeiro de 2002", "tipo": "lei-ordinaria", "numero": "10406", "data": "2002-01-10", "ementa": "Institui o Código Civil.", "revogada": false},
+    "federal/leis-ordinarias/1916/lei-3071-1916-01-01": {"titulo": "Lei nº 3.071, de 1º de janeiro de 1916", "tipo": "lei-ordinaria", "numero": "3071", "data": "1916-01-01", "ementa": "Código Civil dos Estados Unidos do Brasil.", "revogada": true},
+    "federal/leis-ordinarias/2015/lei-13105-2015-03-16": {"titulo": "Lei nº 13.105, de 16 de março de 2015", "tipo": "lei-ordinaria", "numero": "13105", "data": "2015-03-16", "ementa": "Código de Processo Civil.", "revogada": false},
+    "federal/leis-ordinarias/1973/lei-5869-1973-01-11": {"titulo": "Lei nº 5.869, de 11 de janeiro de 1973", "tipo": "lei-ordinaria", "numero": "5869", "data": "1973-01-11", "ementa": "Institui o Código de Processo Civil.", "revogada": true},
+    "federal/leis-ordinarias/2018/lei-13709-2018-08-14": {"titulo": "Lei nº 13.709, de 14 de agosto de 2018", "tipo": "lei-ordinaria", "numero": "13709", "data": "2018-08-14", "ementa": "Lei Geral de Proteção de Dados Pessoais (LGPD).", "revogada": false},
+    "federal/leis-ordinarias/2019/lei-13853-2019-07-08": {"titulo": "Lei nº 13.853, de 8 de julho de 2019", "tipo": "lei-ordinaria", "numero": "13853", "data": "2019-07-08", "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018, para dispor sobre a proteção de dados pessoais e para criar a Autoridade Nacional de Proteção de Dados.", "revogada": false},
+    "federal/leis-ordinarias/2014/lei-12965-2014-04-23": {"titulo": "Lei nº 12.965, de 23 de abril de 2014", "tipo": "lei-ordinaria", "numero": "12965", "data": "2014-04-23", "ementa": "Estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil (Marco Civil da Internet).", "revogada": false},
+    "federal/leis-ordinarias/2021/lei-14181-2021-07-01": {"titulo": "Lei nº 14.181, de 1º de julho de 2021", "tipo": "lei-ordinaria", "numero": "14181", "data": "2021-07-01", "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para aperfeiçoar a disciplina do crédito ao consumidor e dispor sobre a prevenção e o tratamento do superendividamento.", "revogada": false},
+    "federal/leis-ordinarias/1995/lei-9099-1995-09-26": {"titulo": "Lei nº 9.099, de 26 de setembro de 1995", "tipo": "lei-ordinaria", "numero": "9099", "data": "1995-09-26", "ementa": "Dispõe sobre os Juizados Especiais Cíveis e Criminais e dá outras providências.", "revogada": false},
+    "federal/leis-ordinarias/1991/lei-8245-1991-10-18": {"titulo": "Lei nº 8.245, de 18 de outubro de 1991", "tipo": "lei-ordinaria", "numero": "8245", "data": "1991-10-18", "ementa": "Dispõe sobre as locações dos imóveis urbanos e os procedimentos a elas pertinentes.", "revogada": false},
+    "federal/leis-ordinarias/2011/lei-12527-2011-11-18": {"titulo": "Lei nº 12.527, de 18 de novembro de 2011", "tipo": "lei-ordinaria", "numero": "12527", "data": "2011-11-18", "ementa": "Regula o acesso a informações (Lei de Acesso à Informação).", "revogada": false}
+  },
+  "links": [
+    {"de": "federal/leis-ordinarias/1990/lei-8078-1990-09-11", "para": "federal/constituicao/1988/constituicao-1988-10-05", "tipo": "cita", "dispositivos": ["art. 5º, XXXII", "art. 170, V"]},
+    {"de": "federal/leis-ordinarias/2021/lei-14181-2021-07-01", "para": "federal/leis-ordinarias/1990/lei-8078-1990-09-11", "tipo": "altera", "dispositivos": ["art. 4º", "art. 5º", "art. 6º", "art. 51", "art. 54-A"]},
+    {"de": "federal/leis-ordinarias/2002/lei-10406-2002-01-10", "para": "federal/leis-ordinarias/1916/lei-3071-1916-01-01", "tipo": "revoga", "dispositivos": ["art. 2.045"]},
+    {"de": "federal/leis-ordinarias/2015/lei-13105-2015-03-16", "para": "federal/leis-ordinarias/1973/lei-5869-1973-01-11", "tipo": "revoga", "dispositivos": ["art. 1.046"]},
+    {"de": "federal/leis-ordinarias/2015/lei-13105-2015-03-16", "para": "federal/leis-ordinarias/2002/lei-10406-2002-01-10", "tipo": "altera", "dispositivos": ["art. 1.072"]},
+    {"de": "federal/leis-ordinarias/2015/lei-13105-2015-03-16", "para": "federal/leis-ordinarias/1995/lei-9099-1995-09-26", "tipo": "altera", "dispositivos": ["art. 1.062", "art. 1.066"]},
+    {"de": "federal/leis-ordinarias/2015/lei-13105-2015-03-16", "para": "federal/leis-ordinarias/1991/lei-8245-1991-10-18", "tipo": "cita", "dispositivos": ["art. 1.071"]},
+    {"de": "federal/leis-ordinarias/2015/lei-13105-2015-03-16", "para": "federal/constituicao/1988/constituicao-1988-10-05", "tipo": "cita", "dispositivos": ["art. 1º"]},
+    {"de": "federal/leis-ordinarias/2018/lei-13709-2018-08-14", "para": "federal/leis-ordinarias/2014/lei-12965-2014-04-23", "tipo": "altera", "dispositivos": ["art. 7º", "art. 16"]},
+    {"de": "federal/leis-ordinarias/2018/lei-13709-2018-08-14", "para": "federal/leis-ordinarias/1990/lei-8078-1990-09-11", "tipo": "cita", "dispositivos": ["art. 45"]},
+    {"de": "federal/leis-ordinarias/2018/lei-13709-2018-08-14", "para": "federal/leis-ordinarias/2011/lei-12527-2011-11-18", "tipo": "cita", "dispositivos": ["art. 23"]},
+    {"de": "federal/leis-ordinarias/2018/lei-13709-2018-08-14", "para": "federal/constituicao/1988/constituicao-1988-10-05", "tipo": "cita", "dispositivos": ["art. 1º"]},
+    {"de": "federal/leis-ordinarias/2019/lei-13853-2019-07-08", "para": "federal/leis-ordinarias/2018/lei-13709-2018-08-14", "tipo": "altera", "dispositivos": ["art. 1º", "art. 5º", "art. 55-A"]},
+    {"de": "federal/leis-ordinarias/2014/lei-12965-2014-04-23", "para": "federal/constituicao/1988/constituicao-1988-10-05", "tipo": "cita", "dispositivos": ["art. 5º"]},
+    {"de": "federal/leis-ordinarias/2014/lei-12965-2014-04-23", "para": "federal/leis-ordinarias/1990/lei-8078-1990-09-11", "tipo": "cita", "dispositivos": ["art. 7º, XIII"]},
+    {"de": "federal/leis-ordinarias/2014/lei-12965-2014-04-23", "para": "federal/leis-ordinarias/1995/lei-9099-1995-09-26", "tipo": "cita", "dispositivos": ["art. 19, § 3º"]},
+    {"de": "federal/leis-ordinarias/2002/lei-10406-2002-01-10", "para": "federal/leis-ordinarias/1991/lei-8245-1991-10-18", "tipo": "cita", "dispositivos": ["art. 2.036"]},
+    {"de": "federal/leis-ordinarias/1995/lei-9099-1995-09-26", "para": "federal/leis-ordinarias/1973/lei-5869-1973-01-11", "tipo": "cita", "dispositivos": ["art. 52"]},
+    {"de": "federal/leis-ordinarias/2011/lei-12527-2011-11-18", "para": "federal/constituicao/1988/constituicao-1988-10-05", "tipo": "cita", "dispositivos": ["art. 5º, XXXIII", "art. 37, § 3º, II"]},
+    {"de": "federal/leis-ordinarias/2021/lei-14181-2021-07-01", "para": "federal/leis-ordinarias/1945/decreto-lei-7661-1945-06-21", "tipo": "cita", "dispositivos": []}
+  ]
+}

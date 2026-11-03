@@ -1,0 +1,497 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Grafo de leis</title>
+<style>
+  :root {
+    --bg: #fbfaf7; --surface: #ffffff; --text: #1d1d1b; --muted: #6b6a66; --line: #e3e1db;
+    --accent: #2b5fab;
+    --cita: #7a7a74; --altera: #c27a12; --revoga: #c0392b;
+    --no: #ffffff; --no-borda: #3d3d3a; --no-centro: #2b5fab; --no-revogada: #b9b7b0;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #161615; --surface: #1f1f1d; --text: #ecebe6; --muted: #9c9a93; --line: #34332f;
+      --accent: #79a6ec;
+      --cita: #9a9992; --altera: #e3a03c; --revoga: #ea6a5c;
+      --no: #262624; --no-borda: #cfcdc6; --no-centro: #79a6ec; --no-revogada: #5c5b56;
+    }
+  }
+  * { box-sizing: border-box; }
+  [hidden] { display: none !important; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+    font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  a { color: var(--accent); }
+  header { padding: 16px; border-bottom: 1px solid var(--line); display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+  header h1 { font-size: 18px; margin: 0; margin-right: auto; }
+  header h1 a { color: inherit; text-decoration: none; }
+  .busca { position: relative; flex: 1 1 280px; max-width: 480px; }
+  .busca input { width: 100%; padding: 8px 10px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--text); font: inherit; }
+  .sugestoes { position: absolute; z-index: 5; left: 0; right: 0; top: 100%; margin: 4px 0 0; padding: 0; list-style: none;
+    background: var(--surface); border: 1px solid var(--line); border-radius: 6px; max-height: 320px; overflow: auto; }
+  .sugestoes li { padding: 6px 10px; cursor: pointer; }
+  .sugestoes li[aria-selected="true"], .sugestoes li:hover { background: var(--line); }
+  .sugestoes small { display: block; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .controles { display: flex; flex-wrap: wrap; gap: 14px; align-items: center; padding: 10px 16px; border-bottom: 1px solid var(--line); font-size: 14px; }
+  .controles label { display: inline-flex; gap: 5px; align-items: center; cursor: pointer; }
+  .controles select { font: inherit; background: var(--surface); color: var(--text); border: 1px solid var(--line); border-radius: 4px; padding: 2px 4px; }
+  .chip { display: inline-block; width: 18px; height: 3px; border-radius: 2px; }
+  main { display: grid; grid-template-columns: minmax(0, 1fr) 360px; min-height: calc(100vh - 120px); }
+  @media (max-width: 860px) { main { grid-template-columns: 1fr; } }
+  #palco { position: relative; height: clamp(380px, calc(100vh - 140px), 900px); }
+  @media (max-width: 860px) { #palco { height: 70vh; min-height: 360px; } }
+  svg { display: block; width: 100%; height: 100%; touch-action: none; }
+  .aresta { fill: none; stroke-width: 1.6; opacity: .85; }
+  .aresta.cita { stroke: var(--cita); stroke-dasharray: 4 3; }
+  .aresta.altera { stroke: var(--altera); }
+  .aresta.revoga { stroke: var(--revoga); stroke-width: 2.2; }
+  .no circle { fill: var(--no); stroke: var(--no-borda); stroke-width: 1.5; cursor: pointer; }
+  .no.centro circle { fill: var(--no-centro); stroke: var(--no-centro); }
+  .no.revogada circle { stroke: var(--no-revogada); stroke-dasharray: 2 2; }
+  .no.ausente circle { stroke: var(--muted); stroke-dasharray: 1 3; }
+  .no text { font-size: 11px; fill: var(--text); paint-order: stroke; stroke: var(--bg); stroke-width: 3px; pointer-events: none; }
+  .no.centro text { font-weight: 600; font-size: 12px; }
+  .esmaecido { opacity: .15; }
+  aside { border-left: 1px solid var(--line); padding: 16px; overflow: auto; max-height: calc(100vh - 120px); }
+  @media (max-width: 860px) { aside { border-left: 0; border-top: 1px solid var(--line); max-height: none; } }
+  aside h2 { font-size: 16px; margin: 0 0 4px; }
+  aside h3 { font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin: 18px 0 6px; }
+  aside p { margin: 0 0 8px; }
+  aside ul { list-style: none; padding: 0; margin: 0; }
+  aside li { padding: 5px 0; border-bottom: 1px solid var(--line); font-size: 14px; }
+  aside li button { all: unset; cursor: pointer; color: var(--accent); }
+  aside li button:focus-visible { outline: 2px solid var(--accent); }
+  .meta { color: var(--muted); font-size: 13px; }
+  .tag { font-size: 11px; padding: 1px 6px; border-radius: 10px; border: 1px solid currentColor; margin-left: 4px; white-space: nowrap; }
+  .tag.cita { color: var(--cita); } .tag.altera { color: var(--altera); } .tag.revoga { color: var(--revoga); }
+  .aviso { margin: 16px; padding: 10px 12px; border: 1px solid var(--altera); border-radius: 6px; font-size: 14px; }
+  .vazio { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; color: var(--muted); padding: 16px; text-align: center; }
+  #dica { position: absolute; pointer-events: none; background: var(--surface); border: 1px solid var(--line); border-radius: 6px;
+    padding: 6px 8px; font-size: 13px; max-width: 320px; display: none; box-shadow: 0 2px 8px rgba(0,0,0,.12); }
+</style>
+</head>
+<body>
+<header>
+  <h1><a href="../">Leis</a> · Grafo</h1>
+  <div class="busca">
+    <input id="busca" type="search" placeholder="Buscar lei por número ou título…" autocomplete="off"
+      role="combobox" aria-expanded="false" aria-controls="sugestoes" aria-label="Buscar lei">
+    <ul id="sugestoes" class="sugestoes" role="listbox" hidden></ul>
+  </div>
+</header>
+<div class="controles" role="group" aria-label="Filtros">
+  <label><input type="checkbox" data-tipo="cita" checked> <span class="chip" style="background:var(--cita)"></span> cita</label>
+  <label><input type="checkbox" data-tipo="altera" checked> <span class="chip" style="background:var(--altera)"></span> altera</label>
+  <label><input type="checkbox" data-tipo="revoga" checked> <span class="chip" style="background:var(--revoga)"></span> revoga</label>
+  <label>Direção
+    <select id="direcao">
+      <option value="ambas">ambas</option>
+      <option value="saida">o que esta lei afeta</option>
+      <option value="entrada">o que afeta esta lei</option>
+    </select>
+  </label>
+  <label>Profundidade
+    <select id="profundidade"><option value="1">1</option><option value="2">2</option></select>
+  </label>
+  <span class="meta" id="contagem"></span>
+</div>
+<div id="aviso-exemplo" class="aviso" hidden>
+  Mostrando <strong>dados de exemplo</strong> (o arquivo <code>data/links.json</code> ainda não foi encontrado).
+</div>
+<main>
+  <div id="palco">
+    <svg id="svg" aria-label="Grafo da vizinhança da lei selecionada" role="img">
+      <defs>
+        <marker id="seta-cita" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0L10,5L0,10z" fill="var(--cita)"/></marker>
+        <marker id="seta-altera" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0L10,5L0,10z" fill="var(--altera)"/></marker>
+        <marker id="seta-revoga" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0L10,5L0,10z" fill="var(--revoga)"/></marker>
+      </defs>
+      <g id="camada"><g id="arestas"></g><g id="nos"></g></g>
+    </svg>
+    <div id="vazio" class="vazio">Carregando…</div>
+    <div id="dica"></div>
+  </div>
+  <aside id="painel" aria-live="polite"></aside>
+</main>
+
+<script>
+(() => {
+  "use strict";
+
+  // ---- Configuração -------------------------------------------------------
+  // Fontes de dados, em ordem. ?dados=<url> na URL tem prioridade.
+  const FONTES = ["../data/links.json", "../../data/links.json"];
+  const EXEMPLO = "exemplo.json";
+  const URL_LEI = id => "../lei.html?id=" + encodeURIComponent(id);
+  const URL_FONTE = id => "https://github.com/ctresb/leis/blob/main/" + id + ".md";
+  const MAX_NOS = 150;          // acima disso, corta os vizinhos de profundidade 2
+  const ROTULO_MAX = 34;
+
+  const TIPOS = ["cita", "altera", "revoga"];
+  const VERBO = {
+    saida: { cita: "cita", altera: "altera", revoga: "revoga" },
+    entrada: { cita: "é citada por", altera: "é alterada por", revoga: "é revogada por" }
+  };
+
+  const $ = s => document.querySelector(s);
+  const svg = $("#svg"), gArestas = $("#arestas"), gNos = $("#nos"), camada = $("#camada");
+  const NS = "http://www.w3.org/2000/svg";
+  const params = new URLSearchParams(location.search);
+
+  let leis = {}, saida = new Map(), entrada = new Map(), ehExemplo = false;
+  let estado = {
+    id: params.get("id"),
+    tipos: new Set(TIPOS),
+    direcao: params.get("direcao") || "ambas",
+    profundidade: Number(params.get("profundidade")) || 1
+  };
+
+  // ---- Carregamento -------------------------------------------------------
+  async function carregarJSON(url) {
+    const r = await fetch(url, { cache: "no-cache" });
+    if (!r.ok) throw new Error(url + ": " + r.status);
+    return r.json();
+  }
+
+  async function carregar() {
+    const fontes = params.get("dados") ? [params.get("dados")] : FONTES;
+    for (const url of fontes) {
+      try { return await carregarJSON(url); } catch (e) { /* tenta a próxima */ }
+    }
+    ehExemplo = true;
+    return carregarJSON(EXEMPLO);
+  }
+
+  function indexar(dados) {
+    leis = dados.leis || {};
+    if (dados.exemplo) ehExemplo = true;
+    for (const l of dados.links || []) {
+      if (!l || !l.de || !l.para || l.de === l.para) continue;
+      const tipo = TIPOS.includes(l.tipo) ? l.tipo : "cita";
+      const aresta = { de: l.de, para: l.para, tipo, dispositivos: l.dispositivos || [] };
+      if (!saida.has(l.de)) saida.set(l.de, []);
+      if (!entrada.has(l.para)) entrada.set(l.para, []);
+      saida.get(l.de).push(aresta);
+      entrada.get(l.para).push(aresta);
+    }
+  }
+
+  // ---- Utilidades ---------------------------------------------------------
+  function info(id) {
+    return leis[id] || { titulo: tituloDoId(id), ausente: true };
+  }
+  function tituloDoId(id) {
+    // "federal/leis-ordinarias/1990/lei-8078-1990-09-11" -> "Lei 8078/1990"
+    const nome = (id.split("/").pop() || id);
+    const m = nome.match(/^(.*?)-(\d[\d.]*)-(\d{4})(?:-\d{2}-\d{2})?$/);
+    if (!m) return nome;
+    const tipo = m[1].replace(/-/g, " ");
+    return tipo.charAt(0).toUpperCase() + tipo.slice(1) + " " + m[2] + "/" + m[3];
+  }
+  function rotuloCurto(id) {
+    const i = info(id);
+    let t = i.titulo || id;
+    const m = t.match(/^(.*?nº\s*[\d.]+)(?:,\s*de\s+.*?(\d{4}))?/i);
+    if (m) t = m[1] + (m[2] ? "/" + m[2] : "");
+    if (/constitui/i.test(t) && i.data) t = "CF/" + i.data.slice(0, 4);
+    return t.length > ROTULO_MAX ? t.slice(0, ROTULO_MAX - 1) + "…" : t;
+  }
+  function el(tag, attrs = {}, pai) {
+    const e = document.createElementNS(NS, tag);
+    for (const k in attrs) e.setAttribute(k, attrs[k]);
+    if (pai) pai.appendChild(e);
+    return e;
+  }
+  function html(s) { return String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c])); }
+
+  // ---- Vizinhança ---------------------------------------------------------
+  function arestasDe(id) {
+    const r = [];
+    if (estado.direcao !== "entrada") for (const a of saida.get(id) || []) if (estado.tipos.has(a.tipo)) r.push(a);
+    if (estado.direcao !== "saida") for (const a of entrada.get(id) || []) if (estado.tipos.has(a.tipo)) r.push(a);
+    return r;
+  }
+
+  function vizinhanca(centro) {
+    const nivel = new Map([[centro, 0]]);
+    const arestas = new Map();
+    let fronteira = [centro];
+    for (let d = 1; d <= estado.profundidade; d++) {
+      const prox = [];
+      for (const id of fronteira) {
+        for (const a of arestasDe(id)) {
+          const outro = a.de === id ? a.para : a.de;
+          if (!nivel.has(outro)) {
+            if (d > 1 && nivel.size >= MAX_NOS) continue;
+            nivel.set(outro, d); prox.push(outro);
+          }
+          arestas.set(a.de + "\u0000" + a.para + "\u0000" + a.tipo, a);
+        }
+      }
+      fronteira = prox;
+    }
+    // só arestas cujos dois lados estão no recorte
+    const lista = [...arestas.values()].filter(a => nivel.has(a.de) && nivel.has(a.para));
+    return { nivel, arestas: lista };
+  }
+
+  // ---- Layout (força simples, centro fixo) -------------------------------
+  function layout(nivel, arestas, w, h) {
+    const nos = [...nivel.keys()].map((id, i) => {
+      const d = nivel.get(id);
+      const ang = (i / Math.max(1, nivel.size - 1)) * Math.PI * 2;
+      const raio = d === 0 ? 0 : d * Math.min(w, h) * 0.28;
+      return { id, d, x: w / 2 + Math.cos(ang) * raio, y: h / 2 + Math.sin(ang) * raio, vx: 0, vy: 0 };
+    });
+    const porId = new Map(nos.map(n => [n.id, n]));
+    // espalha nível 1 em círculo, separando entrada (esquerda) e saída (direita)
+    const n1 = nos.filter(n => n.d === 1);
+    const centro = nos.find(n => n.d === 0);
+    const lado = n => (saida.get(centro.id) || []).some(a => a.para === n.id) ? 1 : -1;
+    const dir = n1.filter(n => lado(n) > 0), esq = n1.filter(n => lado(n) < 0);
+    const R = Math.min(w, h) * 0.32;
+    const distribui = (grupo, a0, a1) => grupo.forEach((n, i) => {
+      const t = grupo.length === 1 ? 0.5 : i / (grupo.length - 1);
+      const a = a0 + (a1 - a0) * t;
+      n.x = w / 2 + Math.cos(a) * R; n.y = h / 2 + Math.sin(a) * R;
+    });
+    distribui(dir, -Math.PI * 0.42, Math.PI * 0.42);
+    distribui(esq, Math.PI * 0.58, Math.PI * 1.42);
+
+    const k = Math.sqrt((w * h) / Math.max(nos.length, 1)) * 0.55;
+    for (let it = 0; it < 260; it++) {
+      const temp = 1 - it / 260;
+      for (let i = 0; i < nos.length; i++) for (let j = i + 1; j < nos.length; j++) {
+        const a = nos[i], b = nos[j];
+        let dx = a.x - b.x, dy = a.y - b.y, d2 = dx * dx + dy * dy || 0.01;
+        const f = (k * k) / d2;
+        a.vx += dx * f * 0.05; a.vy += dy * f * 0.05; b.vx -= dx * f * 0.05; b.vy -= dy * f * 0.05;
+      }
+      for (const e of arestas) {
+        const a = porId.get(e.de), b = porId.get(e.para);
+        const dx = b.x - a.x, dy = b.y - a.y, d = Math.sqrt(dx * dx + dy * dy) || 0.01;
+        const f = (d - k * 1.3) / d * 0.04;
+        a.vx += dx * f; a.vy += dy * f; b.vx -= dx * f; b.vy -= dy * f;
+      }
+      for (const n of nos) {
+        if (n.d === 0) { n.x = w / 2; n.y = h / 2; n.vx = n.vy = 0; continue; }
+        n.vx += (w / 2 - n.x) * 0.002; n.vy += (h / 2 - n.y) * 0.002;
+        const lim = 18 * temp + 1;
+        n.x += Math.max(-lim, Math.min(lim, n.vx)); n.y += Math.max(-lim, Math.min(lim, n.vy));
+        n.vx *= 0.6; n.vy *= 0.6;
+      }
+    }
+    return porId;
+  }
+
+  // ---- Desenho ------------------------------------------------------------
+  let vista = { x: 0, y: 0, s: 1 };
+  function aplicarVista() { camada.setAttribute("transform", `translate(${vista.x},${vista.y}) scale(${vista.s})`); }
+
+  function desenhar() {
+    gArestas.replaceChildren(); gNos.replaceChildren();
+    const vazio = $("#vazio");
+    if (!estado.id) { vazio.textContent = "Busque uma lei acima para ver o que ela cita, altera ou revoga."; vazio.hidden = false; $("#contagem").textContent = ""; painelVazio(); return; }
+
+    const { nivel, arestas } = vizinhanca(estado.id);
+    const r = svg.getBoundingClientRect();
+    const w = Math.max(r.width, 280), h = Math.max(r.height, 300);
+    vista = { x: 0, y: 0, s: 1 }; aplicarVista();
+    vazio.hidden = nivel.size > 1;
+    if (nivel.size <= 1) vazio.textContent = "Nenhuma ligação encontrada com os filtros atuais.";
+    $("#contagem").textContent = `${nivel.size - 1} lei(s) ligada(s) · ${arestas.length} ligação(ões)`;
+
+    const pos = layout(nivel, arestas, w, h);
+    enquadrar(pos, w, h);
+    const RAIO = d => d === 0 ? 11 : d === 1 ? 7 : 5;
+
+    // arestas paralelas (mesmo par) ganham curvatura diferente
+    const pares = new Map();
+    for (const a of arestas) {
+      const chave = [a.de, a.para].sort().join("\u0000");
+      const n = pares.get(chave) || 0; pares.set(chave, n + 1); a._ordem = n;
+    }
+    for (const a of arestas) {
+      const p = pos.get(a.de), q = pos.get(a.para);
+      const dx = q.x - p.x, dy = q.y - p.y, d = Math.sqrt(dx * dx + dy * dy) || 1;
+      const rq = RAIO(q.d) + 3, rp = RAIO(p.d);
+      const x1 = p.x + dx / d * rp, y1 = p.y + dy / d * rp;
+      const x2 = q.x - dx / d * rq, y2 = q.y - dy / d * rq;
+      const curva = a._ordem * 18 * (a.de < a.para ? 1 : -1);
+      const mx = (x1 + x2) / 2 - dy / d * curva, my = (y1 + y2) / 2 + dx / d * curva;
+      const path = el("path", { d: `M${x1},${y1} Q${mx},${my} ${x2},${y2}`, class: "aresta " + a.tipo, "marker-end": `url(#seta-${a.tipo})` }, gArestas);
+      path.dataset.de = a.de; path.dataset.para = a.para;
+      path.addEventListener("mousemove", ev => dica(ev, `<strong>${html(rotuloCurto(a.de))}</strong> ${a.tipo} <strong>${html(rotuloCurto(a.para))}</strong>` + (a.dispositivos.length ? `<br><span class="meta">${html(a.dispositivos.join(", "))}</span>` : "")));
+      path.addEventListener("mouseleave", () => dica());
+    }
+
+    for (const [id, n] of pos) {
+      const i = info(id);
+      const g = el("g", { class: "no" + (n.d === 0 ? " centro" : "") + (i.revogada ? " revogada" : "") + (i.ausente ? " ausente" : ""),
+        transform: `translate(${n.x},${n.y})`, tabindex: 0, role: "button", "aria-label": (i.titulo || id) }, gNos);
+      g.dataset.id = id;
+      el("circle", { r: RAIO(n.d) }, g);
+      const t = el("text", { x: 0, y: -RAIO(n.d) - 5, "text-anchor": "middle" }, g);
+      if (n.d < 2 || nivel.size < 40) t.textContent = rotuloCurto(id);
+      g.addEventListener("click", () => irPara(id));
+      g.addEventListener("keydown", ev => { if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); irPara(id); } });
+      g.addEventListener("mouseenter", ev => destacar(id));
+      g.addEventListener("mousemove", ev => dica(ev, `<strong>${html(i.titulo || id)}</strong>` + (i.revogada ? ' <span class="tag revoga">revogada</span>' : "") + (i.ausente ? ' <span class="meta">(não indexada)</span>' : "") + (i.ementa ? `<br><span class="meta">${html(i.ementa)}</span>` : "")));
+      g.addEventListener("mouseleave", () => { destacar(); dica(); });
+    }
+    painel(estado.id);
+  }
+
+  // reposiciona os nós para caberem na área visível (sem escalar texto)
+  function enquadrar(pos, w, h) {
+    let x0 = Infinity, y0 = Infinity, x1 = -Infinity, y1 = -Infinity;
+    for (const n of pos.values()) { x0 = Math.min(x0, n.x); y0 = Math.min(y0, n.y); x1 = Math.max(x1, n.x); y1 = Math.max(y1, n.y); }
+    const mx = Math.min(90, w * 0.15), my = 36;   // folga para rótulos
+    const s = Math.min(1.4, (w - mx * 2) / Math.max(x1 - x0, 1), (h - my * 2) / Math.max(y1 - y0, 1));
+    const cx = (x0 + x1) / 2, cy = (y0 + y1) / 2;
+    for (const n of pos.values()) { n.x = w / 2 + (n.x - cx) * s; n.y = h / 2 + (n.y - cy) * s + 6; }
+  }
+
+  function destacar(id) {
+    const vizinhos = new Set(id ? [id] : []);
+    gArestas.querySelectorAll("path").forEach(p => {
+      const liga = !id || p.dataset.de === id || p.dataset.para === id;
+      p.classList.toggle("esmaecido", !liga);
+      if (id && liga) { vizinhos.add(p.dataset.de); vizinhos.add(p.dataset.para); }
+    });
+    gNos.querySelectorAll("g").forEach(g => g.classList.toggle("esmaecido", !!id && !vizinhos.has(g.dataset.id)));
+  }
+
+  function dica(ev, conteudo) {
+    const d = $("#dica");
+    if (!ev) { d.style.display = "none"; return; }
+    d.innerHTML = conteudo; d.style.display = "block";
+    const r = $("#palco").getBoundingClientRect();
+    let x = ev.clientX - r.left + 14, y = ev.clientY - r.top + 14;
+    if (x + 330 > r.width) x = Math.max(4, ev.clientX - r.left - 330);
+    d.style.left = x + "px"; d.style.top = y + "px";
+  }
+
+  // ---- Painel lateral (também é a versão acessível do grafo) -------------
+  function painelVazio() {
+    $("#painel").innerHTML = `<h2>Como usar</h2><p class="meta">Escolha uma lei na busca. O grafo mostra as leis que ela cita, altera ou revoga (à direita) e as que a citam, alteram ou revogam (à esquerda). Clique num nó para navegar.</p>`;
+  }
+
+  function painel(id) {
+    const i = info(id);
+    const grupos = (dir) => {
+      const lista = dir === "saida" ? (saida.get(id) || []) : (entrada.get(id) || []);
+      return TIPOS.map(tipo => {
+        const itens = lista.filter(a => a.tipo === tipo);
+        if (!itens.length) return "";
+        itens.sort((a, b) => (info(dir === "saida" ? b.para : b.de).data || "").localeCompare(info(dir === "saida" ? a.para : a.de).data || ""));
+        return `<h3>${html(VERBO[dir][tipo])} (${itens.length})</h3><ul>` + itens.map(a => {
+          const outro = dir === "saida" ? a.para : a.de;
+          const o = info(outro);
+          return `<li><button data-ir="${html(outro)}">${html(o.titulo || outro)}</button>` +
+            (o.revogada ? '<span class="tag revoga">revogada</span>' : "") +
+            (o.ausente ? '<span class="meta"> (não indexada)</span>' : "") +
+            (a.dispositivos.length ? `<div class="meta">${html(a.dispositivos.join(", "))}</div>` : "") + `</li>`;
+        }).join("") + `</ul>`;
+      }).join("");
+    };
+    $("#painel").innerHTML =
+      `<h2>${html(i.titulo || id)}</h2>` +
+      (i.revogada ? '<p><span class="tag revoga" style="margin:0">revogada</span></p>' : "") +
+      (i.ementa ? `<p>${html(i.ementa)}</p>` : "") +
+      (i.ausente ? `<p class="meta">Esta norma é citada, mas não está no índice.</p>` : "") +
+      `<p class="meta">${i.ausente ? "" : `<a href="${URL_LEI(id)}">Abrir lei</a> · `}<a href="${URL_FONTE(id)}" target="_blank" rel="noopener">Fonte</a></p>` +
+      grupos("saida") + grupos("entrada");
+    $("#painel").querySelectorAll("[data-ir]").forEach(b => b.addEventListener("click", () => irPara(b.dataset.ir)));
+  }
+
+  // ---- Navegação ----------------------------------------------------------
+  function irPara(id, substituir) {
+    estado.id = id;
+    const p = new URLSearchParams(location.search);
+    p.set("id", id);
+    history[substituir ? "replaceState" : "pushState"]({ id }, "", "?" + p.toString());
+    document.title = rotuloCurto(id) + " · Grafo de leis";
+    desenhar();
+  }
+  window.addEventListener("popstate", () => { estado.id = new URLSearchParams(location.search).get("id"); desenhar(); });
+
+  // ---- Busca --------------------------------------------------------------
+  let indiceBusca = [];
+  const normal = s => (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  function montarBusca() {
+    const ids = new Set([...Object.keys(leis), ...saida.keys(), ...entrada.keys()]);
+    indiceBusca = [...ids].map(id => {
+      const i = info(id);
+      const grau = (saida.get(id) || []).length + (entrada.get(id) || []).length;
+      return { id, titulo: i.titulo || id, ementa: i.ementa || "", grau,
+        texto: normal([i.titulo, i.ementa, i.numero, (i.numero || "").replace(/\B(?=(\d{3})+(?!\d))/g, "."), id].join(" ")) };
+    });
+  }
+  const inp = $("#busca"), sug = $("#sugestoes");
+  let sel = -1, resultados = [];
+  function buscar(q) {
+    const termos = normal(q).split(/\s+/).filter(Boolean);
+    if (!termos.length) return [];
+    return indiceBusca.filter(r => termos.every(t => r.texto.includes(t)))
+      .sort((a, b) => b.grau - a.grau).slice(0, 12);
+  }
+  function mostrarSugestoes() {
+    resultados = buscar(inp.value); sel = resultados.length ? 0 : -1;
+    sug.innerHTML = resultados.map((r, i) => `<li role="option" id="op-${i}" aria-selected="${i === sel}" data-i="${i}">${html(r.titulo)}<small>${html(r.ementa)}</small></li>`).join("");
+    sug.hidden = !resultados.length; inp.setAttribute("aria-expanded", String(!sug.hidden));
+  }
+  function escolher(i) {
+    const r = resultados[i]; if (!r) return;
+    sug.hidden = true; inp.value = ""; inp.blur(); irPara(r.id);
+  }
+  inp.addEventListener("input", mostrarSugestoes);
+  inp.addEventListener("keydown", ev => {
+    if (sug.hidden) return;
+    if (ev.key === "ArrowDown" || ev.key === "ArrowUp") {
+      ev.preventDefault(); sel = (sel + (ev.key === "ArrowDown" ? 1 : -1) + resultados.length) % resultados.length;
+      sug.querySelectorAll("li").forEach((li, i) => li.setAttribute("aria-selected", String(i === sel)));
+      inp.setAttribute("aria-activedescendant", "op-" + sel);
+    } else if (ev.key === "Enter") { ev.preventDefault(); escolher(sel); }
+    else if (ev.key === "Escape") { sug.hidden = true; }
+  });
+  sug.addEventListener("mousedown", ev => { const li = ev.target.closest("li"); if (li) { ev.preventDefault(); escolher(+li.dataset.i); } });
+  inp.addEventListener("blur", () => setTimeout(() => { sug.hidden = true; }, 100));
+
+  // ---- Filtros ------------------------------------------------------------
+  document.querySelectorAll("[data-tipo]").forEach(cb => cb.addEventListener("change", () => {
+    cb.checked ? estado.tipos.add(cb.dataset.tipo) : estado.tipos.delete(cb.dataset.tipo); desenhar();
+  }));
+  $("#direcao").value = estado.direcao;
+  $("#profundidade").value = String(estado.profundidade);
+  $("#direcao").addEventListener("change", e => { estado.direcao = e.target.value; desenhar(); });
+  $("#profundidade").addEventListener("change", e => { estado.profundidade = +e.target.value; desenhar(); });
+
+  // ---- Zoom e arraste -----------------------------------------------------
+  svg.addEventListener("wheel", ev => {
+    ev.preventDefault();
+    const r = svg.getBoundingClientRect(), mx = ev.clientX - r.left, my = ev.clientY - r.top;
+    const f = Math.exp(-ev.deltaY * 0.0015), s = Math.min(4, Math.max(0.3, vista.s * f));
+    vista.x = mx - (mx - vista.x) * (s / vista.s); vista.y = my - (my - vista.y) * (s / vista.s); vista.s = s; aplicarVista();
+  }, { passive: false });
+  let arrasto = null;
+  svg.addEventListener("pointerdown", ev => { if (ev.target.closest(".no")) return; arrasto = { x: ev.clientX - vista.x, y: ev.clientY - vista.y }; svg.setPointerCapture(ev.pointerId); });
+  svg.addEventListener("pointermove", ev => { if (!arrasto) return; vista.x = ev.clientX - arrasto.x; vista.y = ev.clientY - arrasto.y; aplicarVista(); });
+  svg.addEventListener("pointerup", () => { arrasto = null; });
+  let redim; window.addEventListener("resize", () => { clearTimeout(redim); redim = setTimeout(desenhar, 200); });
+
+  // ---- Início -------------------------------------------------------------
+  carregar().then(dados => {
+    indexar(dados); montarBusca();
+    $("#aviso-exemplo").hidden = !ehExemplo;
+    if (!estado.id && ehExemplo) estado.id = "federal/leis-ordinarias/2018/lei-13709-2018-08-14";
+    if (estado.id) irPara(estado.id, true); else desenhar();
+  }).catch(e => {
+    $("#vazio").textContent = "Não foi possível carregar os dados do grafo (" + e.message + ").";
+  });
+})();
+</script>
+</body>
+</html>
