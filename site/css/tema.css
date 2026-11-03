@@ -1,0 +1,97 @@
+/* Tema "Leis do Brasil": cores da bandeira em versão sóbria.
+   Compartilhado pelo site (css/estilo.css) e pelo grafo (grafo/).
+   Use as variáveis semânticas (--inst-*, --primaria, --amarelo, --azul,
+   --fundo, --superficie, --texto...) em vez dos valores diretos. */
+
+:root {
+  /* Paleta base */
+  --br-verde-950: #032616;
+  --br-verde-900: #053a22;
+  --br-verde-800: #075230;
+  --br-verde-700: #0a6b3d;
+  --br-verde-600: #11874e;
+  --br-verde-100: #e2f2e8;
+  --br-amarelo: #f2c12e;
+  --br-amarelo-claro: #f6cf55;
+  --br-amarelo-escuro: #a87900;
+  --br-amarelo-100: #fdf2cc;
+  --br-azul-900: #0b2456;
+  --br-azul-700: #163f8f;
+  --br-azul-600: #1f56b8;
+  --br-azul-100: #e6eefb;
+  --br-vermelho: #b4372a;
+  --br-vermelho-100: #fbe8e5;
+
+  /* Semânticas */
+  --inst-900: var(--br-verde-900);   /* faixas institucionais: topo da home, rodapé */
+  --inst-800: var(--br-verde-800);
+  --primaria: var(--br-verde-700);   /* botões, números de destaque */
+  --primaria-forte: var(--br-verde-800);
+  --amarelo: var(--br-amarelo);      /* acento sobre fundo escuro */
+  --amarelo-escuro: var(--br-amarelo-escuro); /* acento sobre fundo claro */
+  --azul: var(--br-azul-600);        /* dados: citações */
+  --azul-escuro: var(--br-azul-700); /* títulos do texto legal */
+
+  --fundo: #f6f6f2;
+  --superficie: #ffffff;
+  --superficie-2: #eff1ec;
+  --texto: #17211c;
+  --suave: #56625b;
+  --mais-suave: #87918b;
+  --borda: #dfe3dc;
+  --destaque: var(--br-azul-700);    /* links */
+  --destaque-fundo: var(--br-azul-100);
+  --verde: var(--br-verde-700);
+  --verde-fundo: var(--br-verde-100);
+  --alerta: var(--br-vermelho);
+  --alerta-fundo: var(--br-vermelho-100);
+  --aviso-fundo: var(--br-amarelo-100);
+  --marca-art: #fff3c4;
+
+  /* Relações (grafo e painéis) */
+  --rel-cita: var(--br-azul-600);
+  --rel-altera: var(--br-amarelo-escuro);
+  --rel-revoga: var(--br-vermelho);
+
+  --sombra: 0 1px 2px rgb(16 32 24 / .05), 0 4px 16px rgb(16 32 24 / .06);
+  --sombra-forte: 0 2px 4px rgb(16 32 24 / .06), 0 12px 32px rgb(16 32 24 / .12);
+  --faixa-bandeira: linear-gradient(90deg, var(--br-verde-700) 0 62%, var(--br-amarelo) 62% 81%, var(--br-azul-700) 81% 100%);
+
+  --serif: "Source Serif 4", "Iowan Old Style", Charter, Georgia, serif;
+  --sans: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --raio: 14px;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --primaria: var(--br-verde-600);
+    --azul: #5b8fe6;
+    --azul-escuro: #8fb3f2;
+    --fundo: #0d1411; --superficie: #141d18; --superficie-2: #1a251f; --texto: #e6ece8;
+    --suave: #a2aea7; --mais-suave: #7b8780; --borda: #26332c;
+    --destaque: #8fb3f2; --destaque-fundo: #172743;
+    --verde: #62cf96; --verde-fundo: #133325;
+    --alerta: #ff9d90; --alerta-fundo: #3b1f1c; --aviso-fundo: #3a3112; --marca-art: #3a3218;
+    --amarelo-escuro: #e0b53a;
+    --rel-cita: #5b8fe6; --rel-altera: #e0b53a; --rel-revoga: #ff7f70;
+    --sombra: 0 1px 2px rgb(0 0 0 / .3), 0 4px 16px rgb(0 0 0 / .25);
+    --sombra-forte: 0 2px 4px rgb(0 0 0 / .3), 0 12px 32px rgb(0 0 0 / .4);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --primaria: var(--br-verde-600);
+  --azul: #5b8fe6;
+  --azul-escuro: #8fb3f2;
+  --fundo: #0d1411; --superficie: #141d18; --superficie-2: #1a251f; --texto: #e6ece8;
+  --suave: #a2aea7; --mais-suave: #7b8780; --borda: #26332c;
+  --destaque: #8fb3f2; --destaque-fundo: #172743;
+  --verde: #62cf96; --verde-fundo: #133325;
+  --alerta: #ff9d90; --alerta-fundo: #3b1f1c; --aviso-fundo: #3a3112; --marca-art: #3a3218;
+  --amarelo-escuro: #e0b53a;
+  --rel-cita: #5b8fe6; --rel-altera: #e0b53a; --rel-revoga: #ff7f70;
+  --sombra: 0 1px 2px rgb(0 0 0 / .3), 0 4px 16px rgb(0 0 0 / .25);
+  --sombra-forte: 0 2px 4px rgb(0 0 0 / .3), 0 12px 32px rgb(0 0 0 / .4);
+  color-scheme: dark;
+}
