@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lei — Leis do Brasil</title>
+<link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+<header class="topo">
+  <a class="marca" href="./">Leis do Brasil</a>
+  <form class="busca-mini" action="./" role="search">
+    <input name="q" type="search" placeholder="Buscar outra lei" aria-label="Buscar outra lei">
+  </form>
+  <nav><a href="./">Busca</a><a href="grafo/">Grafo</a></nav>
+</header>
+
+<div class="pagina-lei">
+  <aside class="lateral" id="lateral">
+    <form id="ir-art" class="ir-art">
+      <label for="art">Ir para o art.</label>
+      <input id="art" inputmode="numeric" placeholder="ex.: 5" autocomplete="off">
+    </form>
+    <h2>Sumário</h2>
+    <nav id="sumario" class="sumario"><p class="vazio">Carregando…</p></nav>
+  </aside>
+
+  <main id="conteudo">
+    <header class="cabecalho-lei" id="cabecalho">
+      <p class="meta" id="meta"></p>
+      <h1 id="titulo">Carregando…</h1>
+      <p class="ementa" id="ementa"></p>
+      <p class="acoes" id="acoes"></p>
+    </header>
+    <article id="texto" class="texto"></article>
+  </main>
+
+  <aside class="painel" id="painel">
+    <section id="sec-vinculos">
+      <h2>Relações</h2>
+      <div id="vinculos"><p class="vazio">Carregando…</p></div>
+    </section>
+    <section id="sec-alteracoes">
+      <h2>Alterações anotadas no texto</h2>
+      <p class="dica">Normas citadas nas notas de redação, acréscimo e revogação, em ordem cronológica.</p>
+      <ol id="alteracoes" class="linha-tempo"><li class="vazio">Carregando…</li></ol>
+    </section>
+    <section id="sec-historico">
+      <h2>Histórico no git</h2>
+      <p class="dica">Commits do acervo que mexeram neste arquivo.</p>
+      <ol id="historico" class="commits"><li class="vazio">Carregando…</li></ol>
+      <p id="historico-link"></p>
+    </section>
+  </aside>
+</div>
+
+<footer class="rodape">
+  Texto carregado de <a href="https://github.com/ctresb/leis">ctresb/leis</a>. Não substitui a publicação oficial.
+</footer>
+<script type="module" src="js/lei.js"></script>
+</body>
+</html>

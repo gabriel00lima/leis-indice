@@ -1,0 +1,96 @@
+# Site navegável das leis
+
+Site estático (HTML + JS, sem framework e sem etapa de compilação) para buscar e ler as normas federais do acervo [ctresb/leis](https://github.com/ctresb/leis).
+
+O site **não copia os textos**: cada página de lei baixa o `.md` direto de `raw.githubusercontent.com/ctresb/leis/main/` quando é aberta. Este repositório guarda só o índice (`data/`).
+
+## Páginas
+
+| Página | O que faz |
+| --- | --- |
+| `index.html` | Busca por número, título ou assunto, com filtros de tipo, situação e ordem. A URL guarda a busca (`?q=8078&tipo=Lei%20Ordinária`). |
+| `lei.html?id=<id>` | Texto da norma com sumário, âncoras por artigo (`#art-5`, `#art-11-a`), links cruzados, relações (de `links.json`), alterações anotadas no texto e histórico de commits do arquivo. |
+| `lei.html?ref=<prefixo>:<número>:<ano>` | Resolve uma citação sem data completa (ex. `lei:8078:1990`) pelo índice e redireciona para a norma. |
+| `grafo/?id=<id>` | Visualização do grafo (mantida em `site/grafo/`). |
+
+`<id>` é o caminho da norma no ctresb/leis sem `.md`, ex. `federal/leis-ordinarias/1990/lei-8078-1990-09-11`. A Constituição de 1988 é `constituicao`.
+
+## Links cruzados
+
+`js/citacoes.js` reconhece no texto citações como "Lei nº 9.008, de 21/3/1995", "Decreto-Lei nº 2.848, de 7 de dezembro de 1940", "Lei nº 8.078/90", "Lei Complementar nº 101, de 2000" e "Constituição Federal", inclusive com artigo ("art. 170 da Constituição Federal" leva a `#art-170`).
+
+- Com data completa, o link vai direto para o id montado (`federal/<pasta>/<ano>/<prefixo>-<número>-<AAAA-MM-DD>`).
+- Sem data completa, o link usa `?ref=` e o índice resolve.
+- "art. 12" sem outra norma depois (ou com "desta Lei") vira link para o artigo na mesma página.
+
+As notas em itálico do acervo ("*(Redação dada pela Lei nº …)*") viram a lista "Alterações anotadas no texto", em ordem cronológica e com os artigos afetados.
+
+## Dados que o site lê
+
+O site procura `data/index.json`. Se não achar, usa `exemplo/` (22 normas reais, geradas por `node scripts/gerar_exemplo_site.mjs`) e mostra um aviso.
+
+### `data/index.json`
+
+Pode ser um **array** de entradas ou um **manifesto** que aponta para partes:
+
+```json
+{
+  "gerado_em": "2026-11-03T12:00:00Z",
+  "total": 192000,
+  "shards": [
+    { "arquivo": "index/leis-ordinarias.json", "tipo": "Lei Ordinária", "prefixo": "lei", "total": 16784 }
+  ]
+}
+```
+
+`arquivo` é relativo a `data/`. Cada parte é um array de entradas, ou `{ "campos": [...], "linhas": [[...]] }` para economizar espaço. `tipo` (opcional) deixa a busca carregar só a parte do tipo filtrado; `prefixo` (opcional) acelera a resolução de `?ref=`.
+
+Entrada:
+
+```json
+{
+  "id": "federal/leis-ordinarias/1990/lei-8078-1990-09-11",
+  "path": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
+  "titulo": "Lei nº 8.078 de 11/09/1990",
+  "tipo": "Lei Ordinária",
+  "numero": "8078",
+  "data": "1990-09-11",
+  "ementa": "Dispõe sobre a proteção do consumidor e dá outras providências.",
+  "revogada": false,
+  "urn": "urn:lex:br:federal:lei:1990-09-11;8078"
+}
+```
+
+### `data/links.json`
+
+Objeto `id -> relações`, todas listas de ids:
+
+```json
+{
+  "federal/leis-ordinarias/1990/lei-8078-1990-09-11": {
+    "cita": [], "altera": [], "revoga": [],
+    "citada_por": [], "alterada_por": [], "revogada_por": []
+  }
+}
+```
+
+Também aceita um manifesto `{ "shards": [{ "arquivo": "links/leis-ordinarias.json", "pasta": "leis-ordinarias" }] }`, em que `pasta` é o segundo trecho do id.
+
+## Rodar localmente
+
+```bash
+bash site/build.sh            # gera _site/ com site/ + data/
+python3 -m http.server -d _site 8000
+```
+
+Abra http://localhost:8000. Precisa de servidor HTTP (os módulos JS não carregam via `file://`).
+
+## Publicação
+
+O workflow de GitHub Pages roda `bash site/build.sh` e publica `_site/`. Todos os caminhos são relativos, então o site funciona em `/leis-indice/`.
+
+## Limites conhecidos
+
+- O histórico usa a API pública do GitHub (60 consultas por hora por IP sem login). Ao passar disso, a página mostra o link para o histórico no GitHub.
+- O reconhecimento de citações é por expressão regular: citações com formato incomum ficam sem link.
+- Bibliotecas em `vendor/`: marked 12.0.2 e DOMPurify 3.1.6 (licenças ao lado).
