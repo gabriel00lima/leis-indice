@@ -48,8 +48,14 @@ _ANO = (
     r"|\d{1,2}\s*[./-]\s*\d{1,2}\s*[./-]\s*)?(?P<ano2>\d{4}|\d{2})(?!\d))?"
 )
 
+# "Lei federal nº", "Lei Complementar Estadual nº", "Lei paulista nº"...: indica a esfera
+# da norma citada (importa nas leis estaduais, que citam leis dos dois tipos).
+_ESFERA = (
+    r"(?:\s+(?:(?P<fed>federal|nacional)|(?P<est>estadual|paulista|mineira|fluminense)))?"
+)
+
 REF_RE = re.compile(
-    r"(?<![\w-])(?:" + _TIPO_GRUPOS + r")"
+    r"(?<![\w-])(?:" + _TIPO_GRUPOS + r")" + _ESFERA +
     r"\s*(?:n(?:\.\s*|\s*)?[º°o]\.?|n\.|nº\.?|n°)?\s*"
     + _NUM + _ANO,
     re.IGNORECASE,
@@ -60,6 +66,21 @@ CONSTITUICAO_RE = re.compile(
     r"|\bCF(?:/88|/1988)?\b",
 )
 DATA_CONSTITUICAO = "1988-10-05"
+
+# Constituição do próprio estado, citada por normas estaduais (SP e RJ: 05/10/1989,
+# MG: 21/09/1989). Resolvida para a constituição da UF da norma que cita.
+CONSTITUICAO_ESTADUAL_RE = re.compile(
+    r"\bConstitui[çc][ãa]o\s+(?:do\s+Estado|Estadual|Paulista|Mineira|Fluminense)\b"
+    r"|\bConstitui[çc][ãa]o\s+Pol[íi]tica\s+do\s+Estado\b",
+    re.IGNORECASE,
+)
+DATA_CONSTITUICAO_ESTADUAL = "1989-09-21"
+
+PROJETO_ANTES = re.compile(r"projetos?\s+de\s*$|\bP\.?\s*$", re.IGNORECASE)
+
+# Sufixos do prefixo que indicam a esfera explícita da norma citada.
+FEDERAL = ":federal"
+ESTADUAL = ":estadual"
 
 # Códigos citados pelo nome. (expressão, data mínima da norma que cita,
 # data máxima, prefixo, número, ano). Só vale como "cita".
@@ -217,29 +238,43 @@ def _fmt_artigo(num: str, letra: str | None) -> str:
     return f"art. {num}{sufixo}" + (f"-{letra.upper()}" if letra else "")
 
 
-def referencias_em(texto: str, ano_citante: int | None, data_citante: str):
-    """Todas as referências a normas num trecho: [(prefixo, numero, ano, inicio, fim)]."""
+def referencias_em(texto: str, ano_citante: int | None, data_citante: str, estadual: bool = False):
+    """Todas as referências a normas num trecho: [(prefixo, numero, ano, inicio, fim)].
+
+    O prefixo pode vir com sufixo de esfera (":federal", ":estadual") quando o texto diz
+    "Lei federal nº…" ou "Lei estadual nº…". Os códigos citados pelo nome saem sempre como
+    federais. Com estadual=True (norma de um estado), "Constituição do Estado" vira o
+    prefixo "constituicao-estadual".
+    """
     refs = []
     for m in REF_RE.finditer(texto):
+        # "Projeto de Lei nº 908, de 2017" (comum nas leis paulistas) não é uma norma.
+        if PROJETO_ANTES.search(texto, max(0, m.start() - 30), m.start()):
+            continue
         prefixo = _prefixo(m)
+        sufixo = FEDERAL if m.group("fed") else ESTADUAL if m.group("est") else ""
         # "Lei 1" solto sem "nº" e sem ano é ruído frequente; exige pelo menos um dos dois
         # para números curtos.
-        entre_tipo_e_numero = texto[m.end("t" + str(_INDICE[prefixo])):m.start("num")]
+        fim_tipo = max(m.end("t" + str(_INDICE[prefixo])), m.end("fed"), m.end("est"))
+        entre_tipo_e_numero = texto[fim_tipo:m.start("num")]
         tem_n = bool(re.search(r"n", entre_tipo_e_numero, re.IGNORECASE))
         ano = _ano(m, ano_citante)
         if not tem_n and ano is None and len(m.group("num")) < 3:
             continue
-        refs.append((prefixo, _numero(m), ano, m.start(), m.end()))
+        refs.append((prefixo + sufixo, _numero(m), ano, m.start(), m.end()))
     if data_citante >= DATA_CONSTITUICAO:
         for m in CONSTITUICAO_RE.finditer(texto):
             refs.append(("constituicao", "", 1988, m.start(), m.end()))
+    if estadual and data_citante >= DATA_CONSTITUICAO_ESTADUAL:
+        for m in CONSTITUICAO_ESTADUAL_RE.finditer(texto):
+            refs.append(("constituicao-estadual", "", 1989, m.start(), m.end()))
     for rx, dmin, dmax, prefixo, num, ano in CODIGOS:
         if (dmin and data_citante and data_citante < dmin) or (
             dmax and data_citante and data_citante > dmax
         ):
             continue
         for m in rx.finditer(texto):
-            refs.append((prefixo, num, ano, m.start(), m.end()))
+            refs.append((prefixo + FEDERAL, num, ano, m.start(), m.end()))
     refs.sort(key=lambda r: r[3])
     # remove sobreposições (ex.: "Código Penal" dentro de outra referência)
     saida, fim = [], -1
@@ -285,13 +320,14 @@ def _paragrafos(corpo: str):
         yield artigo, p
 
 
-def extrair_referencias(corpo: str, data_citante: str) -> list[list]:
+def extrair_referencias(corpo: str, data_citante: str, estadual: bool = False) -> list[list]:
     """Referências de uma norma, agregadas.
 
     Cada item: [direcao, prefixo, numero, ano, tipo, dispositivos]
       direcao "sai":    esta norma -> norma referida   (cita/altera/revoga)
       direcao "entra":  norma referida -> esta norma   (anotação "Redação dada pela Lei X")
       dispositivos: artigos da norma DE DESTINO do link (quando conhecidos).
+      prefixo pode ter sufixo de esfera (ver referencias_em).
     """
     try:
         ano_citante = int(data_citante[:4])
@@ -313,7 +349,7 @@ def extrair_referencias(corpo: str, data_citante: str) -> list[list]:
         # 1) anotações entre parênteses
         for pm in PAREN_RE.finditer(par):
             conteudo = pm.group(1)
-            refs = referencias_em(conteudo, ano_citante, data_citante)
+            refs = referencias_em(conteudo, ano_citante, data_citante, estadual)
             if not refs:
                 continue
             ocupado.append((pm.start(), pm.end()))
@@ -332,7 +368,7 @@ def extrair_referencias(corpo: str, data_citante: str) -> list[list]:
                 add("sai", r, "cita", None)
         # 2) texto corrido
         refs = [
-            r for r in referencias_em(par, ano_citante, data_citante)
+            r for r in referencias_em(par, ano_citante, data_citante, estadual)
             if not any(a <= r[3] < b for a, b in ocupado)
         ]
         if not refs:

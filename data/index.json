@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-03T16:24:41+00:00",
+  "gerado_em": "2026-11-03T20:58:05+00:00",
   "fonte": {
     "repositorio": "ctresb/leis",
     "commit": "c9f21b4ab11aa0d7ca6fe861d75028e94219c2d6",
@@ -9,10 +9,46 @@
       "federal/emendas-constitucionais",
       "federal/leis-complementares",
       "federal/leis-ordinarias",
-      "federal/decretos-lei"
+      "federal/decretos-lei",
+      "estaduais/SP/constituicao",
+      "estaduais/SP/emendas-constitucionais",
+      "estaduais/SP/leis-complementares",
+      "estaduais/SP/leis-ordinarias",
+      "estaduais/SP/decretos-lei",
+      "estaduais/SP/decretos-lei-complementares",
+      "estaduais/RJ/constituicao",
+      "estaduais/RJ/leis-ordinarias",
+      "estaduais/MG/constituicao",
+      "estaduais/MG/emendas-constitucionais",
+      "estaduais/MG/leis-complementares",
+      "estaduais/MG/leis-ordinarias",
+      "estaduais/MG/leis-delegadas",
+      "estaduais/MG/leis-constitucionais",
+      "estaduais/MG/decretos-lei"
     ]
   },
-  "total": 29572,
+  "total": 97841,
+  "total_federal": 29572,
+  "estaduais": {
+    "SP": {
+      "nome": "São Paulo",
+      "total": 40203,
+      "links": 46867,
+      "arestas": "arestas/estaduais/SP.json"
+    },
+    "RJ": {
+      "nome": "Rio de Janeiro",
+      "total": 1335,
+      "links": 2027,
+      "arestas": "arestas/estaduais/RJ.json"
+    },
+    "MG": {
+      "nome": "Minas Gerais",
+      "total": 26731,
+      "links": 28852,
+      "arestas": "arestas/estaduais/MG.json"
+    }
+  },
   "shards": [
     {
       "categoria": "constituicao",
@@ -20,15 +56,9 @@
       "adjacencia": "adjacencia/constituicao.json",
       "tipo": "Constituição",
       "prefixo": "constituicao",
-      "total": 1
-    },
-    {
-      "categoria": "decretos-lei",
-      "arquivo": "index/decretos-lei.json",
-      "adjacencia": "adjacencia/decretos-lei.json",
-      "tipo": "Decreto-Lei",
-      "prefixo": "del",
-      "total": 12376
+      "total": 1,
+      "esfera": "federal",
+      "raiz": "constituicao"
     },
     {
       "categoria": "emendas-constitucionais",
@@ -36,7 +66,9 @@
       "adjacencia": "adjacencia/emendas-constitucionais.json",
       "tipo": "Emenda Constitucional",
       "prefixo": "emc",
-      "total": 172
+      "total": 172,
+      "esfera": "federal",
+      "raiz": "federal/emendas-constitucionais"
     },
     {
       "categoria": "leis-complementares",
@@ -44,7 +76,9 @@
       "adjacencia": "adjacencia/leis-complementares.json",
       "tipo": "Lei Complementar",
       "prefixo": "lcp",
-      "total": 239
+      "total": 239,
+      "esfera": "federal",
+      "raiz": "federal/leis-complementares"
     },
     {
       "categoria": "leis-ordinarias",
@@ -52,17 +86,194 @@
       "adjacencia": "adjacencia/leis-ordinarias.json",
       "tipo": "Lei Ordinária",
       "prefixo": "lei",
-      "total": 16784
+      "total": 16784,
+      "esfera": "federal",
+      "raiz": "federal/leis-ordinarias"
+    },
+    {
+      "categoria": "decretos-lei",
+      "arquivo": "index/decretos-lei.json",
+      "adjacencia": "adjacencia/decretos-lei.json",
+      "tipo": "Decreto-Lei",
+      "prefixo": "del",
+      "total": 12376,
+      "esfera": "federal",
+      "raiz": "federal/decretos-lei"
+    },
+    {
+      "categoria": "estaduais/SP/constituicao",
+      "arquivo": "index/estaduais/SP/constituicao.json",
+      "adjacencia": "adjacencia/estaduais/SP.json",
+      "tipo": "Constituição Estadual",
+      "prefixo": "constituicao-estadual",
+      "total": 1,
+      "esfera": "estadual",
+      "raiz": "estaduais/SP/constituicao",
+      "uf": "SP"
+    },
+    {
+      "categoria": "estaduais/SP/emendas-constitucionais",
+      "arquivo": "index/estaduais/SP/emendas-constitucionais.json",
+      "adjacencia": "adjacencia/estaduais/SP.json",
+      "tipo": "Emenda Constitucional",
+      "prefixo": "emc",
+      "total": 116,
+      "esfera": "estadual",
+      "raiz": "estaduais/SP/emendas-constitucionais",
+      "uf": "SP"
+    },
+    {
+      "categoria": "estaduais/SP/leis-complementares",
+      "arquivo": "index/estaduais/SP/leis-complementares.json",
+      "adjacencia": "adjacencia/estaduais/SP.json",
+      "tipo": "Lei Complementar",
+      "prefixo": "lcp",
+      "total": 1421,
+      "esfera": "estadual",
+      "raiz": "estaduais/SP/leis-complementares",
+      "uf": "SP"
+    },
+    {
+      "categoria": "estaduais/SP/leis-ordinarias",
+      "arquivo": "index/estaduais/SP/leis-ordinarias.json",
+      "adjacencia": "adjacencia/estaduais/SP.json",
+      "tipo": "Lei Ordinária",
+      "prefixo": "lei",
+      "total": 35158,
+      "esfera": "estadual",
+      "raiz": "estaduais/SP/leis-ordinarias",
+      "uf": "SP"
+    },
+    {
+      "categoria": "estaduais/SP/decretos-lei",
+      "arquivo": "index/estaduais/SP/decretos-lei.json",
+      "adjacencia": "adjacencia/estaduais/SP.json",
+      "tipo": "Decreto-Lei",
+      "prefixo": "del",
+      "total": 3484,
+      "esfera": "estadual",
+      "raiz": "estaduais/SP/decretos-lei",
+      "uf": "SP"
+    },
+    {
+      "categoria": "estaduais/SP/decretos-lei-complementares",
+      "arquivo": "index/estaduais/SP/decretos-lei-complementares.json",
+      "adjacencia": "adjacencia/estaduais/SP.json",
+      "tipo": "Decreto-Lei Complementar",
+      "prefixo": "dlc",
+      "total": 23,
+      "esfera": "estadual",
+      "raiz": "estaduais/SP/decretos-lei-complementares",
+      "uf": "SP"
+    },
+    {
+      "categoria": "estaduais/RJ/constituicao",
+      "arquivo": "index/estaduais/RJ/constituicao.json",
+      "adjacencia": "adjacencia/estaduais/RJ.json",
+      "tipo": "Constituição Estadual",
+      "prefixo": "constituicao-estadual",
+      "total": 1,
+      "esfera": "estadual",
+      "raiz": "estaduais/RJ/constituicao",
+      "uf": "RJ"
+    },
+    {
+      "categoria": "estaduais/RJ/leis-ordinarias",
+      "arquivo": "index/estaduais/RJ/leis-ordinarias.json",
+      "adjacencia": "adjacencia/estaduais/RJ.json",
+      "tipo": "Lei Ordinária",
+      "prefixo": "lei",
+      "total": 1334,
+      "esfera": "estadual",
+      "raiz": "estaduais/RJ/leis-ordinarias",
+      "uf": "RJ"
+    },
+    {
+      "categoria": "estaduais/MG/constituicao",
+      "arquivo": "index/estaduais/MG/constituicao.json",
+      "adjacencia": "adjacencia/estaduais/MG.json",
+      "tipo": "Constituição Estadual",
+      "prefixo": "constituicao-estadual",
+      "total": 1,
+      "esfera": "estadual",
+      "raiz": "estaduais/MG/constituicao",
+      "uf": "MG"
+    },
+    {
+      "categoria": "estaduais/MG/emendas-constitucionais",
+      "arquivo": "index/estaduais/MG/emendas-constitucionais.json",
+      "adjacencia": "adjacencia/estaduais/MG.json",
+      "tipo": "Emenda Constitucional",
+      "prefixo": "emc",
+      "total": 150,
+      "esfera": "estadual",
+      "raiz": "estaduais/MG/emendas-constitucionais",
+      "uf": "MG"
+    },
+    {
+      "categoria": "estaduais/MG/leis-complementares",
+      "arquivo": "index/estaduais/MG/leis-complementares.json",
+      "adjacencia": "adjacencia/estaduais/MG.json",
+      "tipo": "Lei Complementar",
+      "prefixo": "lcp",
+      "total": 189,
+      "esfera": "estadual",
+      "raiz": "estaduais/MG/leis-complementares",
+      "uf": "MG"
+    },
+    {
+      "categoria": "estaduais/MG/leis-ordinarias",
+      "arquivo": "index/estaduais/MG/leis-ordinarias.json",
+      "adjacencia": "adjacencia/estaduais/MG.json",
+      "tipo": "Lei Ordinária",
+      "prefixo": "lei",
+      "total": 26055,
+      "esfera": "estadual",
+      "raiz": "estaduais/MG/leis-ordinarias",
+      "uf": "MG"
+    },
+    {
+      "categoria": "estaduais/MG/leis-delegadas",
+      "arquivo": "index/estaduais/MG/leis-delegadas.json",
+      "adjacencia": "adjacencia/estaduais/MG.json",
+      "tipo": "Lei Delegada",
+      "prefixo": "ldl",
+      "total": 184,
+      "esfera": "estadual",
+      "raiz": "estaduais/MG/leis-delegadas",
+      "uf": "MG"
+    },
+    {
+      "categoria": "estaduais/MG/leis-constitucionais",
+      "arquivo": "index/estaduais/MG/leis-constitucionais.json",
+      "adjacencia": "adjacencia/estaduais/MG.json",
+      "tipo": "Lei Constitucional",
+      "prefixo": "lct",
+      "total": 19,
+      "esfera": "estadual",
+      "raiz": "estaduais/MG/leis-constitucionais",
+      "uf": "MG"
+    },
+    {
+      "categoria": "estaduais/MG/decretos-lei",
+      "arquivo": "index/estaduais/MG/decretos-lei.json",
+      "adjacencia": "adjacencia/estaduais/MG.json",
+      "tipo": "Decreto-Lei",
+      "prefixo": "del",
+      "total": 133,
+      "esfera": "estadual",
+      "raiz": "estaduais/MG/decretos-lei",
+      "uf": "MG"
     }
   ],
   "links": {
     "arquivo": "links.json",
     "arestas": "arestas.json",
-    "total": 62438,
+    "total": 140197,
     "por_tipo": {
-      "cita": 49027,
-      "altera": 9337,
-      "revoga": 4074
+      "cita": 117355,
+      "altera": 15662,
+      "revoga": 7180
     }
   }
 }
