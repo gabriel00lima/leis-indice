@@ -1,0 +1,73 @@
+name: Deploy do site
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "site/**"
+      - "data/**"
+      - ".github/workflows/deploy-site.yml"
+  schedule:
+    - cron: "30 9 * * *" # 06:30 em Brasília, reserva caso outro workflow não dispare o deploy
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gerar o site
+        run: |
+          set -euo pipefail
+          rm -rf _site
+          if [ -f site/build.sh ]; then
+            echo "Usando site/build.sh"
+            bash site/build.sh
+          elif [ -d site ]; then
+            echo "Sem build.sh: publicando site/ como está"
+            cp -r site _site
+            if [ -d data ]; then
+              mkdir -p _site/data
+              cp -r data/. _site/data/
+            fi
+          else
+            echo "Pasta site/ ainda não existe: publicando página provisória"
+            mkdir -p _site
+            printf '%s\n' '<!doctype html><meta charset="utf-8"><title>leis-indice</title><p>Site em construção.</p>' > _site/index.html
+          fi
+          test -f _site/index.html || { echo "::error::_site/index.html não foi gerado"; exit 1; }
+          touch _site/.nojekyll
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
