@@ -1,0 +1,14 @@
+name: Jurisprudência (sonda)
+on:
+  push:
+    branches: [claude/project-thread-zpodkh]
+    paths: ["integracoes/jurisprudencia/**", ".github/workflows/jurisprudencia.yml"]
+jobs:
+  sondar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python integracoes/jurisprudencia/sondar.py
