@@ -1,0 +1,78 @@
+name: Projetos de lei da Câmara
+
+on:
+  schedule:
+    - cron: "30 8 * * *"   # todo dia, depois do índice (08:00 UTC) e antes do deploy
+  workflow_dispatch:
+    inputs:
+      todos:
+        description: "Baixar todos os anos de novo (ignora o cache)"
+        type: boolean
+        default: false
+  push:
+    branches: [claude/project-thread-f4dhig]
+    paths: [integracoes/camara/**, .github/workflows/camara.yml]
+
+permissions:
+  contents: write   # commitar data/camara/
+  actions: write    # disparar o deploy do site
+
+concurrency:
+  group: camara
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Testes
+        run: python -m unittest discover -s integracoes/camara/tests -v
+
+      # Resumos por ano (fora do git). Se o cache sumir, todos os anos são baixados de novo.
+      - name: Restaurar cache dos anos
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ runner.temp }}/camara-cache
+          key: camara-v1-${{ github.run_id }}
+          restore-keys: camara-v1-
+
+      - name: Atualizar data/camara/
+        run: |
+          python integracoes/camara/coletar.py --data data --cache "$RUNNER_TEMP/camara-cache" \
+            ${{ inputs.todos && '--todos' || '' }}
+
+      - name: Salvar cache dos anos
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: ${{ runner.temp }}/camara-cache
+          key: camara-v1-${{ github.run_id }}
+
+      - name: Commitar
+        id: commit
+        run: |
+          git add data/camara/
+          if git diff --cached --quiet; then
+            echo "Nada mudou."; echo "commitou=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "câmara: atualiza projetos de lei em data/camara/"
+          for i in 1 2 3 4; do
+            git pull --rebase -q origin "${GITHUB_REF_NAME}" && git push -q && break
+            sleep $((i * 5))
+          done
+          echo "commitou=true" >> "$GITHUB_OUTPUT"
+
+      - name: Disparar deploy do site
+        if: steps.commit.outputs.commitou == 'true' && github.ref_name == github.event.repository.default_branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-site.yml --ref "${GITHUB_REF_NAME}" || echo "deploy-site.yml não disparado"
