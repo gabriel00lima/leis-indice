@@ -3,59 +3,93 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Lei — Leis do Brasil</title>
+<title>Lei · Leis do Brasil</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/estilo.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2314305e'/%3E%3Ctext x='32' y='45' font-family='Georgia' font-size='38' text-anchor='middle' fill='%23f2c14e'%3E%C2%A7%3C/text%3E%3C/svg%3E">
 </head>
-<body>
+<body class="pagina-da-lei">
 <header class="topo">
-  <a class="marca" href="./">Leis do Brasil</a>
-  <form class="busca-mini" action="./" role="search">
-    <input name="q" type="search" placeholder="Buscar outra lei" aria-label="Buscar outra lei">
-  </form>
-  <nav><a href="./">Busca</a><a href="grafo/">Grafo</a></nav>
+  <div class="topo-dentro">
+    <a class="marca" href="./"><span class="selo-marca" aria-hidden="true">§</span>Leis do Brasil</a>
+    <form class="busca-mini" action="./" role="search">
+      <svg class="icone-busca" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input name="q" type="search" placeholder="Buscar outra lei" aria-label="Buscar outra lei">
+    </form>
+    <nav class="menu">
+      <a href="./#principais">Leis principais</a>
+      <a href="grafo/">Grafo</a>
+    </nav>
+  </div>
 </header>
+
+<section class="cabecalho-lei">
+  <div class="cabecalho-dentro">
+    <nav class="trilha" id="trilha" aria-label="Você está em"><a href="./">Início</a></nav>
+    <div class="selos" id="selos"></div>
+    <h1 id="titulo">Carregando…</h1>
+    <p class="subtitulo-lei" id="subtitulo" hidden></p>
+    <p class="ementa" id="ementa"></p>
+    <div class="cabecalho-rodape">
+      <dl class="contadores" id="contadores"></dl>
+      <div class="acoes" id="acoes"></div>
+    </div>
+  </div>
+</section>
 
 <div class="pagina-lei">
   <aside class="lateral" id="lateral">
-    <form id="ir-art" class="ir-art">
-      <label for="art">Ir para o art.</label>
-      <input id="art" inputmode="numeric" placeholder="ex.: 5" autocomplete="off">
-    </form>
-    <h2>Sumário</h2>
-    <nav id="sumario" class="sumario"><p class="vazio">Carregando…</p></nav>
+    <div class="caixa">
+      <form id="ir-art" class="ir-art">
+        <label for="art">Ir para o artigo</label>
+        <div class="ir-art-campo">
+          <span aria-hidden="true">Art.</span>
+          <input id="art" inputmode="numeric" placeholder="5" autocomplete="off">
+          <button type="submit" aria-label="Ir">→</button>
+        </div>
+      </form>
+    </div>
+    <div class="caixa">
+      <h2>Sumário</h2>
+      <nav id="sumario" class="sumario"><p class="vazio">Carregando…</p></nav>
+    </div>
   </aside>
 
   <main id="conteudo">
-    <header class="cabecalho-lei" id="cabecalho">
-      <p class="meta" id="meta"></p>
-      <h1 id="titulo">Carregando…</h1>
-      <p class="ementa" id="ementa"></p>
-      <p class="acoes" id="acoes"></p>
-    </header>
+    <div id="carregando-texto" class="esqueleto" aria-hidden="true">
+      <span></span><span></span><span></span><span></span><span></span>
+    </div>
     <article id="texto" class="texto"></article>
   </main>
 
   <aside class="painel" id="painel">
-    <section id="sec-vinculos">
-      <h2>Relações</h2>
+    <section class="caixa" id="sec-vinculos">
+      <h2>Relações com outras normas</h2>
       <div id="vinculos"><p class="vazio">Carregando…</p></div>
     </section>
-    <section id="sec-alteracoes">
-      <h2>Alterações anotadas no texto</h2>
-      <p class="dica">Normas citadas nas notas de redação, acréscimo e revogação, em ordem cronológica.</p>
+    <section class="caixa" id="sec-alteracoes">
+      <h2>Linha do tempo das alterações</h2>
+      <p class="dica">Leis citadas nas notas de redação, acréscimo e revogação do texto.</p>
       <ol id="alteracoes" class="linha-tempo"><li class="vazio">Carregando…</li></ol>
     </section>
-    <section id="sec-historico">
-      <h2>Histórico no git</h2>
-      <p class="dica">Commits do acervo que mexeram neste arquivo.</p>
+    <section class="caixa" id="sec-historico">
+      <h2>Histórico no acervo</h2>
+      <p class="dica">Commits que mexeram neste arquivo.</p>
       <ol id="historico" class="commits"><li class="vazio">Carregando…</li></ol>
-      <p id="historico-link"></p>
+      <p id="historico-link" class="mais-link"></p>
     </section>
   </aside>
 </div>
 
+<a href="#" class="topo-pagina" id="voltar-topo" aria-label="Voltar ao topo">↑</a>
+
 <footer class="rodape">
-  Texto carregado de <a href="https://github.com/ctresb/leis">ctresb/leis</a>. Não substitui a publicação oficial.
+  <div class="rodape-dentro rodape-simples">
+    <p>Texto carregado do acervo aberto <a href="https://github.com/ctresb/leis">ctresb/leis</a>. Não substitui a publicação oficial no Diário Oficial da União.</p>
+    <p><a href="./">Início</a> · <a href="grafo/">Grafo</a> · <a href="https://github.com/gabriel00lima/leis-indice">Código no GitHub</a></p>
+  </div>
 </footer>
 <script type="module" src="js/lei.js"></script>
 </body>

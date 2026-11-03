@@ -123,7 +123,7 @@
   // ---- Configuração -------------------------------------------------------
   // Bases de dados, em ordem (relativas a grafo/). ?dados=<base> tem prioridade.
   // Formato: o mesmo do site (ver site/README.md): index.json + links.json.
-  const BASES = ["../data/", "../exemplo/"];
+  const BASES = ["../data/", "../../data/", "../exemplo/"]; // ../../data/ cobre o Pages em modo "Deploy from a branch"
   const URL_LEI = id => "../lei.html?id=" + encodeURIComponent(id);
   const URL_FONTE = id => "https://github.com/ctresb/leis/blob/main/" + ((leis[id] && leis[id].path) || id + ".md");
   const MAX_NOS = 150;          // acima disso, corta os vizinhos de profundidade 2

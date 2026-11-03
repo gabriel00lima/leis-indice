@@ -8,7 +8,7 @@ O site **não copia os textos**: cada página de lei baixa o `.md` direto de `ra
 
 | Página | O que faz |
 | --- | --- |
-| `index.html` | Busca por número, título ou assunto, com filtros de tipo, situação e ordem. A URL guarda a busca (`?q=8078&tipo=Lei%20Ordinária`). |
+| `index.html` | Página inicial (apresentação, leis principais, mais citadas e mais alteradas, números do acervo, normas recentes) e busca por número, apelido, título ou assunto, com filtros de tipo, situação e ordem. A URL guarda a busca (`?q=8078&tipo=Lei%20Ordinária`). |
 | `lei.html?id=<id>` | Texto da norma com sumário, âncoras por artigo (`#art-5`, `#art-11-a`), links cruzados, relações (de `links.json`), alterações anotadas no texto e histórico de commits do arquivo. |
 | `lei.html?ref=<prefixo>:<número>:<ano>` | Resolve uma citação sem data completa (ex. `lei:8078:1990`) pelo índice e redireciona para a norma. |
 | `grafo/?id=<id>` | Visualização do grafo (mantida em `site/grafo/`). |
@@ -76,6 +76,10 @@ Objeto `id -> relações`, todas listas de ids:
 
 Também aceita um manifesto `{ "shards": [{ "arquivo": "links/leis-ordinarias.json", "pasta": "leis-ordinarias" }] }`, em que `pasta` é o segundo trecho do id.
 
+### `destaques.json`
+
+Estatísticas e listas da página inicial, calculadas a partir de `data/` por `site/destaques.py` (no build e à mão). A versão commitada em `site/destaques.json` é usada quando o build não roda.
+
 ## Rodar localmente
 
 ```bash
@@ -88,6 +92,8 @@ Abra http://localhost:8000. Precisa de servidor HTTP (os módulos JS não carreg
 ## Publicação
 
 O workflow de GitHub Pages roda `bash site/build.sh` e publica `_site/`. Todos os caminhos são relativos, então o site funciona em `/leis-indice/`.
+
+Se o Pages estiver em "Deploy from a branch" (raiz da `main`), o `index.html` da raiz redireciona para `site/` e o site lê os dados em `../data/`. Funciona, mas o modo recomendado é "GitHub Actions" (ver `docs/configuracao.md`).
 
 ## Limites conhecidos
 
