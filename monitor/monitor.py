@@ -72,6 +72,21 @@ def abrir_issue(titulo: str, corpo: str) -> str:
     return r["html_url"]
 
 
+def avisar_telegram(texto: str) -> None:
+    """Envia o aviso pelo Telegram, se TELEGRAM_BOT_TOKEN e TELEGRAM_CHAT_ID existirem."""
+    token, chat = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
+    if not (token and chat):
+        return
+    if len(texto) > 4000:
+        texto = texto[:4000] + "\n[...]"
+    dados = urllib.parse.urlencode({"chat_id": chat, "text": texto,
+                                    "disable_web_page_preview": "true"}).encode()
+    try:
+        urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", dados, timeout=30)
+    except urllib.error.URLError as e:
+        print(f"  aviso: Telegram falhou ({e.__class__.__name__})")
+
+
 # ---------------------------------------------------------------- comparação
 
 RE_ART = re.compile(r"^\*\*(Art\.\s*[\dA-Za-zºo°\-]+\.?)\*\*")
@@ -201,7 +216,7 @@ def ler_lista() -> list[str]:
 
 
 def montar_relatorio(caminho: str, sha_a: str, sha_n: str, commits: list[dict],
-                     antigo: str | None, novo: str | None) -> tuple[str, str]:
+                     antigo: str | None, novo: str | None) -> tuple[str, str, str]:
     titulo_lei = caminho
     if novo or antigo:
         titulo_lei = separar(novo or antigo)[0].get("titulo", caminho)
@@ -230,7 +245,7 @@ def montar_relatorio(caminho: str, sha_a: str, sha_n: str, commits: list[dict],
     if diff:
         corte = diff if len(diff) < 20_000 else diff[:20_000] + "\n[... cortado ...]\n"
         corpo += f"\n<details><summary>Diff</summary>\n\n```diff\n{corte}```\n</details>\n"
-    return f"Mudança: {titulo_lei}", corpo
+    return f"Mudança: {titulo_lei}", corpo, resumo
 
 
 def verificar(caminho: str, visto: str | None, *, abrir: bool) -> str | None:
@@ -253,9 +268,11 @@ def verificar(caminho: str, visto: str | None, *, abrir: bool) -> str | None:
         novos.append(c)
     print(f"* {caminho}: {len(novos)} commit(s) novo(s)")
     antigo, novo = baixar(caminho, visto), baixar(caminho, mais_novo)
-    titulo, corpo = montar_relatorio(caminho, visto, mais_novo, novos, antigo, novo)
+    titulo, corpo, resumo = montar_relatorio(caminho, visto, mais_novo, novos, antigo, novo)
     if abrir:
-        print(f"  issue: {abrir_issue(titulo, corpo)}")
+        url = abrir_issue(titulo, corpo)
+        print(f"  issue: {url}")
+        avisar_telegram(f"{titulo}\n\n{resumo}\n\n{url}")
     else:
         print(f"\n--- {titulo} ---\n{corpo}\n")
     return mais_novo
