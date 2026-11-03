@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leis do Brasil — busca</title>
+<meta name="description" content="Busca nas leis federais do acervo ctresb/leis, com links entre normas e histórico de alterações.">
+<link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+<header class="topo">
+  <a class="marca" href="./">Leis do Brasil</a>
+  <nav><a href="./">Busca</a><a href="grafo/">Grafo</a><a href="https://github.com/ctresb/leis">Acervo</a></nav>
+</header>
+
+<main class="busca">
+  <div id="aviso-exemplo" class="aviso" hidden>
+    Usando <strong>dados de exemplo</strong> (22 normas). O índice completo aparece aqui quando <code>data/index.json</code> for publicado.
+  </div>
+
+  <h1>Buscar leis federais</h1>
+  <form id="form" role="search">
+    <input id="q" name="q" type="search" autocomplete="off" autofocus
+      placeholder="Número, título ou assunto. Ex.: 8.078, consumidor, lei 13709 2018">
+    <div class="filtros">
+      <label>Tipo <select id="tipo" name="tipo"><option value="">Todos</option></select></label>
+      <label>Situação
+        <select id="sit" name="sit">
+          <option value="">Todas</option>
+          <option value="vigente">Vigentes</option>
+          <option value="revogada">Revogadas</option>
+        </select>
+      </label>
+      <label>Ordem
+        <select id="ordem" name="ordem">
+          <option value="">Relevância</option>
+          <option value="recentes">Mais recentes</option>
+          <option value="antigas">Mais antigas</option>
+        </select>
+      </label>
+    </div>
+  </form>
+
+  <p id="status" class="status" aria-live="polite"></p>
+  <ol id="resultados" class="resultados"></ol>
+  <button id="mais" class="botao" hidden>Mostrar mais</button>
+
+  <section id="atalhos" class="atalhos">
+    <h2>Mais consultadas</h2>
+    <ul>
+      <li><a href="lei.html?id=constituicao">Constituição Federal</a></li>
+      <li><a href="lei.html?id=federal%2Fleis-ordinarias%2F2002%2Flei-10406-2002-01-10">Código Civil</a></li>
+      <li><a href="lei.html?id=federal%2Fdecretos-lei%2F1940%2Fdel-2848-1940-12-07">Código Penal</a></li>
+      <li><a href="lei.html?id=federal%2Fdecretos-lei%2F1943%2Fdel-5452-1943-05-01">CLT</a></li>
+      <li><a href="lei.html?id=federal%2Fleis-ordinarias%2F1990%2Flei-8078-1990-09-11">Código de Defesa do Consumidor</a></li>
+      <li><a href="lei.html?id=federal%2Fleis-ordinarias%2F1966%2Flei-5172-1966-10-25">Código Tributário Nacional</a></li>
+      <li><a href="lei.html?id=federal%2Fleis-ordinarias%2F1990%2Flei-8069-1990-07-13">Estatuto da Criança e do Adolescente</a></li>
+      <li><a href="lei.html?id=federal%2Fleis-ordinarias%2F1997%2Flei-9503-1997-09-23">Código de Trânsito</a></li>
+      <li><a href="lei.html?id=federal%2Fleis-ordinarias%2F2018%2Flei-13709-2018-08-14">LGPD</a></li>
+      <li><a href="lei.html?id=federal%2Fleis-ordinarias%2F2014%2Flei-12965-2014-04-23">Marco Civil da Internet</a></li>
+    </ul>
+  </section>
+</main>
+
+<footer class="rodape">
+  Textos de <a href="https://github.com/ctresb/leis">ctresb/leis</a>, carregados direto do GitHub. Não substitui a publicação oficial.
+</footer>
+<script type="module" src="js/busca.js"></script>
+</body>
+</html>
