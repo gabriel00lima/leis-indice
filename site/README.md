@@ -11,6 +11,7 @@ O site **não copia os textos**: cada página de lei baixa o `.md` direto de `ra
 | `index.html` | Página inicial (apresentação, leis principais, mais citadas e mais alteradas, números do acervo, normas recentes) e busca por número, apelido, título ou assunto, com filtros de tipo, situação e ordem. A URL guarda a busca (`?q=8078&tipo=Lei%20Ordinária`). |
 | `lei.html?id=<id>` | Texto da norma com sumário, âncoras por artigo (`#art-5`, `#art-11-a`), links cruzados, relações (de `links.json`), alterações anotadas no texto e histórico de commits do arquivo. |
 | `lei.html?ref=<prefixo>:<número>:<ano>` | Resolve uma citação sem data completa (ex. `lei:8078:1990`) pelo índice e redireciona para a norma. |
+| `lei/<id>` | Mesma página da lei, pré-gerada no build por `site/paginas.py` (ver "Páginas para buscadores e prévias"). É o endereço que o site usa nos links quando existe. |
 | `grafo/?id=<id>` | Visualização do grafo (mantida em `site/grafo/`). |
 
 `<id>` é o caminho da norma no ctresb/leis sem `.md`, ex. `federal/leis-ordinarias/1990/lei-8078-1990-09-11`. A Constituição de 1988 é `constituicao`.
@@ -79,6 +80,20 @@ Também aceita um manifesto `{ "shards": [{ "arquivo": "links/leis-ordinarias.js
 ### `destaques.json`
 
 Estatísticas e listas da página inicial, calculadas a partir de `data/` por `site/destaques.py` (no build e à mão). A versão commitada em `site/destaques.json` é usada quando o build não roda.
+
+## Páginas para buscadores e prévias
+
+O Google e o WhatsApp não rodam o JavaScript da página, então `lei.html?id=` aparece para eles quase vazia. No build, `site/paginas.py` gera em `_site/`:
+
+- `lei/<id>.html` para cada norma do índice: cópia de `lei.html` com `<title>`, `description`, `canonical`, Open Graph, Twitter card, JSON-LD (`schema.org/Legislation`) e o cabeçalho (título e ementa) já preenchidos. Um `<base href>` aponta para a raiz e `lei.js` lê o id em `<body data-lei>`; o resto da página continua igual. O Pages serve o arquivo sem a extensão (`/leis-indice/lei/federal/leis-ordinarias/1990/lei-8078-1990-09-11`).
+- `sitemap.xml` (índice) e `sitemaps/<categoria>.xml`, `robots.txt` e `404.html`. A 404 manda `lei/<id>` sem página (norma ainda fora do índice) para `lei.html?id=<id>`.
+- As metatags gerais em `index.html` e `grafo/index.html`, e `<meta name="leis:paginas">` nas páginas, que faz `urlLei()` apontar para `lei/<id>`. Sem o build (por exemplo, Pages em "Deploy from a branch"), os links continuam em `lei.html?id=`.
+
+`lei.html?id=` de uma norma do índice redireciona para `lei/<id>`, para que o endereço copiado seja o que tem prévia.
+
+As imagens de prévia (1200×630) ficam em `site/og/` e são commitadas: `padrao.jpg`, `tipo-<pasta>.jpg` e uma por lei principal (`<nome-do-arquivo>.jpg`). Para refazer depois de mudar as principais ou o visual: `node scripts/gerar_previas.mjs` (precisa do Playwright).
+
+O endereço público vem de `SITE_URL` (padrão `https://gabriel00lima.github.io/leis-indice/`). São cerca de 6 KB por norma, uns 190 MB para as 29,5 mil federais (14 MB compactado no envio ao Pages).
 
 ## Rodar localmente
 
