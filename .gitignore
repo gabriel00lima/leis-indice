@@ -1,0 +1,34 @@
+# Saída de build do site
+_site/
+site/_site/
+site/pagefind/
+dist/
+build/
+
+# Clones temporários do acervo (nunca commitar)
+leis/
+.cache/
+tmp/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Segredos e ambiente local
+.env
+.env.*
+!.env.example
+
+# Sistema e editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
