@@ -1,0 +1,39 @@
+name: Testes
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+    paths:
+      - "indice/**"
+      - "api/**"
+      - "site/build.sh"
+      - ".github/workflows/testes.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  testes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Extrator do índice
+        run: python -m unittest discover -s indice/tests -v
+
+      - name: Gerador da API
+        run: python -m unittest discover -s api/tests -v
+
+      - name: Build do site com a API (dados reais de data/)
+        run: |
+          bash site/build.sh
+          test -f _site/api/v1/index.json
+          test -f _site/api/v1/normas/constituicao.json
+          test -f _site/api/v1/busca/federal.json
+          echo "Arquivos da API: $(find _site/api -type f | wc -l)"

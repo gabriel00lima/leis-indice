@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>API pública · Leis do Brasil</title>
+<meta name="description" content="API gratuita e sem cadastro com os metadados e as ligações das leis federais do Brasil, em arquivos JSON estáticos atualizados todos os dias.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/estilo.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23053a22'/%3E%3Ctext x='32' y='45' font-family='Georgia' font-size='38' text-anchor='middle' fill='%23f2c14e'%3E%C2%A7%3C/text%3E%3C/svg%3E">
+<style>
+  .doc { max-width: 52rem; margin: 0 auto; padding: 2.5rem 1rem 4rem; }
+  .doc h2 { font-family: var(--serif); font-weight: 600; font-size: 1.7rem; margin: 3rem 0 .6rem; }
+  .doc h3 { font-size: 1.05rem; margin: 2rem 0 .5rem; }
+  .doc p, .doc li { line-height: 1.65; }
+  .doc pre { background: var(--inst-900); color: #e8efe9; padding: 1rem 1.1rem; border-radius: 12px; overflow-x: auto; font-size: .86rem; line-height: 1.55; }
+  .doc pre code { background: none; padding: 0; color: inherit; font-size: inherit; }
+  .doc table { border-collapse: collapse; width: 100%; font-size: .92rem; display: block; overflow-x: auto; }
+  .doc th, .doc td { border-bottom: 1px solid var(--borda); padding: .55rem .6rem; text-align: left; vertical-align: top; }
+  .doc th { font-size: .78rem; text-transform: uppercase; letter-spacing: .05em; color: var(--suave); }
+  .doc td code { white-space: nowrap; }
+  .doc .nota { background: var(--superficie); border: 1px solid var(--borda); border-left: 3px solid var(--amarelo); border-radius: 0 12px 12px 0; padding: .8rem 1rem; color: var(--suave); }
+  .teste { background: var(--superficie); border: 1px solid var(--borda); border-radius: 14px; padding: 1.1rem; margin-top: 1rem; }
+  .teste form { display: flex; gap: .5rem; flex-wrap: wrap; align-items: center; }
+  .teste select, .teste input { font: inherit; padding: .5rem .7rem; border: 1px solid var(--borda); border-radius: 10px; background: var(--fundo); color: var(--texto); }
+  .teste input { flex: 1 1 8rem; min-width: 0; }
+  .teste button { font: inherit; font-weight: 600; padding: .5rem 1rem; border: 0; border-radius: 10px; background: var(--primaria); color: #fff; cursor: pointer; }
+  .teste .url { white-space: pre-line; font-size: .85rem; color: var(--suave); margin: .8rem 0 .4rem; overflow-wrap: anywhere; }
+  .teste pre { max-height: 26rem; margin: 0; }
+  .cabecalho-lei .ementa { font-family: var(--serif); }
+</style>
+</head>
+<body>
+<header class="topo">
+  <div class="topo-dentro">
+    <a class="marca" href="./"><span class="selo-marca" aria-hidden="true">§</span>Leis do Brasil</a>
+    <nav class="menu">
+      <a href="./#principais">Leis principais</a>
+      <a href="grafo/">Grafo</a>
+      <a class="menu-gh" href="https://github.com/gabriel00lima/leis-indice">GitHub</a>
+    </nav>
+  </div>
+</header>
+
+<section class="cabecalho-lei">
+  <div class="cabecalho-dentro">
+    <nav class="trilha" aria-label="Você está em"><a href="./">Início</a></nav>
+    <h1>API pública</h1>
+    <p class="ementa">Metadados e ligações de todas as normas do índice em JSON, de graça e sem cadastro. São arquivos estáticos gerados a cada atualização do índice: basta um <code>fetch</code>.</p>
+  </div>
+</section>
+
+<main class="doc">
+  <p>Endereço base:</p>
+  <pre><code id="base">https://gabriel00lima.github.io/leis-indice/api/v1/</code></pre>
+  <p>Todas as respostas são JSON em UTF-8 e podem ser lidas de qualquer site (CORS liberado). Não há chave nem cadastro. O texto das normas não está na API: cada norma traz o link para o Markdown no acervo <a href="https://github.com/ctresb/leis">ctresb/leis</a>.</p>
+
+  <div class="teste" id="teste">
+    <strong>Experimente</strong>
+    <form id="form-teste">
+      <select id="t-prefixo" aria-label="Tipo">
+        <option value="lei">Lei</option>
+        <option value="lcp">Lei Complementar</option>
+        <option value="del">Decreto-Lei</option>
+        <option value="emc">Emenda Constitucional</option>
+      </select>
+      <input id="t-numero" value="8078" inputmode="numeric" aria-label="Número">
+      <button type="submit">Consultar</button>
+    </form>
+    <p class="url" id="t-url"></p>
+    <pre><code id="t-saida">Escolha o tipo, digite o número e clique em Consultar.</code></pre>
+  </div>
+
+  <h2>Rotas</h2>
+  <table>
+    <thead><tr><th>Rota</th><th>O que devolve</th></tr></thead>
+    <tbody>
+      <tr><td><code>index.json</code></td><td>Visão geral: data da atualização, commit do acervo, totais, jurisdições e listas disponíveis.</td></tr>
+      <tr><td><code>normas/{id}.json</code></td><td>Uma norma: metadados, links para o texto e todas as ligações (cita, altera, revoga e o inverso), com os artigos envolvidos.</td></tr>
+      <tr><td><code>ref/{jurisdicao}/{prefixo}/{numero}.json</code></td><td>Acha a norma pelo número, ex. <code>ref/federal/lei/8078.json</code>. Devolve uma lista, porque o mesmo número pode se repetir em anos diferentes.</td></tr>
+      <tr><td><code>listas/{lista}.json</code></td><td>Todas as normas de uma categoria, ex. <code>listas/federal/leis-complementares.json</code>.</td></tr>
+      <tr><td><code>busca/{jurisdicao}.json</code></td><td>Todas as normas da jurisdição num arquivo só, com a ementa resumida, para busca no navegador. <code>busca/federal.json</code> tem uns 7,6 MB (1,4 MB comprimido).</td></tr>
+    </tbody>
+  </table>
+
+  <h3>Identificador (<code>{id}</code>)</h3>
+  <p>É o caminho do arquivo no acervo sem o <code>.md</code>: <code>federal/leis-ordinarias/1990/lei-8078-1990-09-11</code>. A Constituição de 1988 é <code>constituicao</code>. Quem não sabe o id começa por <code>ref/</code> ou por <code>busca/</code>.</p>
+
+  <h3>Prefixos e jurisdições</h3>
+  <p>Prefixos: <code>lei</code> (lei ordinária), <code>lcp</code> (lei complementar), <code>del</code> (decreto-lei), <code>emc</code> (emenda constitucional). Jurisdição: <code>federal</code> hoje. Leis estaduais entram com a sigla da UF em minúsculas (<code>sp</code>, <code>rj</code>, <code>mg</code>) e ids que começam por <code>estaduais/SP/…</code>; o <code>index.json</code> lista o que existe.</p>
+
+  <h2>Exemplos</h2>
+  <h3>JavaScript</h3>
+<pre><code>const API = "https://gabriel00lima.github.io/leis-indice/api/v1/";
+
+// 1. Achar a Lei 8.078 pelo número
+const ref = await fetch(API + "ref/federal/lei/8078.json").then(r =&gt; r.json());
+
+// 2. Abrir a norma
+const cdc = await fetch(API + ref.normas[0].api).then(r =&gt; r.json());
+console.log(cdc.titulo, cdc.totais);   // "Lei nº 8.078 de 11/09/1990" { cita: 8, ... }
+
+// 3. Quem alterou o CDC, e em quais artigos
+for (const l of cdc.ligacoes.alterada_por) console.log(l.titulo, l.dispositivos ?? []);
+
+// 4. O texto, direto do acervo
+const texto = await fetch(cdc.texto.markdown).then(r =&gt; r.text());</code></pre>
+
+  <h3>Python</h3>
+<pre><code>import requests
+API = "https://gabriel00lima.github.io/leis-indice/api/v1/"
+cf = requests.get(API + "normas/constituicao.json").json()
+print(cf["totais"]["alterada_por"], "normas alteraram a Constituição")</code></pre>
+
+  <h3>Terminal</h3>
+<pre><code>curl -s https://gabriel00lima.github.io/leis-indice/api/v1/ref/federal/lcp/101.json</code></pre>
+
+  <h2>Formato</h2>
+  <h3><code>normas/{id}.json</code></h3>
+<pre><code>{
+  "versao": 1,
+  "id": "federal/leis-ordinarias/1990/lei-8078-1990-09-11",
+  "titulo": "Lei nº 8.078 de 11/09/1990",
+  "tipo": "Lei Ordinária",
+  "numero": "8078",
+  "data": "1990-09-11",
+  "ementa": "Dispõe sobre a proteção do consumidor e dá outras providências.",
+  "revogada": false,
+  "urn": "urn:lex:br:federal:lei:1990-09-11;8078",
+  "apelido": "Código de Defesa do Consumidor",      // só nas leis mais conhecidas
+  "jurisdicao": { "esfera": "federal", "uf": null },
+  "lista": "federal/leis-ordinarias",
+  "texto": { "markdown": "https://raw.githubusercontent.com/ctresb/leis/main/…md", "github": "…" },
+  "paginas": { "lei": "…/lei.html?id=…", "grafo": "…/grafo/?id=…" },
+  "totais": { "cita": 8, "altera": 1, "revoga": 0, "citada_por": 75, "alterada_por": 16, "revogada_por": 1 },
+  "ligacoes": {
+    "cita": [
+      { "id": "constituicao", "titulo": "Constituição da República…", "tipo": "Constituição",
+        "data": "1988-10-05", "revogada": false, "api": "normas/constituicao.json",
+        "dispositivos": ["art. 5º", "art. 170"] }
+    ],
+    "altera": [], "revoga": [], "citada_por": [], "alterada_por": [], "revogada_por": []
+  }
+}</code></pre>
+  <ul>
+    <li><code>cita</code>, <code>altera</code> e <code>revoga</code>: normas que esta cita, altera ou revoga. Os campos terminados em <code>_por</code> são o caminho inverso.</li>
+    <li><code>dispositivos</code>: artigos <strong>da norma citada, alterada ou revogada</strong>, quando identificados. Em <code>alterada_por</code>, são os artigos desta norma que a outra alterou. Ausente quando não identificado ou quando a ligação vale para a norma inteira.</li>
+    <li><code>api</code>: caminho da norma vizinha, relativo à base. Vizinhos com <code>"indexada": false</code> estão fora do índice (ex. decretos ou <code>externo:dec-4453-1922</code>, citações que não foram achadas no acervo).</li>
+  </ul>
+
+  <h3><code>listas/…</code> e <code>busca/…</code></h3>
+  <p>Para ficarem menores, vêm como colunas e linhas:</p>
+<pre><code>{ "versao": 1, "total": 239,
+  "campos": ["id", "titulo", "tipo", "numero", "data", "revogada", "ementa"],
+  "linhas": [["federal/leis-complementares/2000/lcp-101-2000-05-04", "Lei Complementar nº 101 de 04/05/2000",
+              "Lei Complementar", "101", "2000-05-04", false, "Estabelece normas de finanças públicas…"]] }
+
+// Para virar objetos:
+const normas = dados.linhas.map(l =&gt; Object.fromEntries(dados.campos.map((c, i) =&gt; [c, l[i]])));</code></pre>
+
+  <h2>Atualização e limites</h2>
+  <ul>
+    <li>O índice é atualizado todo dia de manhã a partir do acervo <a href="https://github.com/ctresb/leis">ctresb/leis</a>; <code>index.json</code> traz <code>gerado_em</code> e o commit usado.</li>
+    <li>É só leitura: não há filtros nem paginação no servidor. Para consultas próprias, baixe <code>busca/</code> ou <code>listas/</code> e filtre no seu código.</li>
+    <li>As ligações são extraídas automaticamente do texto e podem ter erros. Como explicado em <a href="https://github.com/gabriel00lima/leis-indice/blob/main/data/README.md">data/README.md</a>, não substitui a publicação oficial.</li>
+    <li>A versão está no caminho (<code>/v1/</code>). Campos novos podem aparecer; mudanças que quebram compatibilidade vão para <code>/v2/</code>.</li>
+  </ul>
+  <p class="nota">Código do gerador: <a href="https://github.com/gabriel00lima/leis-indice/tree/main/api">api/</a> no GitHub.</p>
+</main>
+
+<footer class="rodape">
+  <div class="rodape-dentro rodape-simples">
+    <a class="marca" href="./"><span class="selo-marca" aria-hidden="true">§</span>Leis do Brasil</a>
+  </div>
+</footer>
+
+<script>
+  // Base relativa a esta página, para funcionar também em cópias do site.
+  const API = new URL("api/v1/", location.href).href;
+  document.getElementById("base").textContent = API;
+  const saida = document.getElementById("t-saida");
+  document.getElementById("form-teste").addEventListener("submit", async (ev) => {
+    ev.preventDefault();
+    const prefixo = document.getElementById("t-prefixo").value;
+    const numero = document.getElementById("t-numero").value.replace(/[^0-9a-z]/gi, "").toLowerCase();
+    if (!numero) return;
+    const url = `${API}ref/federal/${prefixo}/${numero}.json`;
+    document.getElementById("t-url").textContent = "GET " + url;
+    saida.textContent = "Carregando…";
+    try {
+      const r = await fetch(url);
+      if (!r.ok) { saida.textContent = r.status === 404 ? "Nenhuma norma com esse número (404)." : `Erro ${r.status}`; return; }
+      const ref = await r.json();
+      const norma = await fetch(API + ref.normas[ref.normas.length - 1].api).then((x) => x.json());
+      for (const k of Object.keys(norma.ligacoes)) {
+        const n = norma.ligacoes[k].length;
+        if (n > 3) norma.ligacoes[k] = [...norma.ligacoes[k].slice(0, 3), `… mais ${n - 3}`];
+      }
+      document.getElementById("t-url").textContent = `GET ${url}\nGET ${API}${ref.normas[ref.normas.length - 1].api}`;
+      saida.textContent = JSON.stringify(norma, null, 2);
+    } catch (e) {
+      saida.textContent = "Não foi possível consultar: " + e.message;
+    }
+  });
+</script>
+</body>
+</html>
