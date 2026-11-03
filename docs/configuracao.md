@@ -2,11 +2,7 @@
 
 Estes passos só o dono do repositório consegue fazer, pelas configurações do GitHub. Faça na ordem; cada um leva um ou dois minutos.
 
-## 1. Fazer o merge dos PRs
-
-Cada parte do projeto chega por um pull request separado (organização, monitor, índice, site, grafo). Revise e faça o merge na `main`. A ordem sugerida é: organização do repositório → índice → site → grafo → monitor.
-
-## 2. Ativar o GitHub Pages
+## 1. Ativar o GitHub Pages
 
 1. Abra **Settings → Pages** (`https://github.com/gabriel00lima/leis-indice/settings/pages`).
 2. Em **Build and deployment → Source**, escolha **GitHub Actions**.
@@ -16,7 +12,7 @@ O site fica em `https://gabriel00lima.github.io/leis-indice/`.
 
 > Em repositório privado, o Pages exige plano pago (GitHub Pro ou superior). Em repositório público é gratuito.
 
-## 3. Permissões das Actions
+## 2. Permissões das Actions
 
 O índice e o monitor fazem commits automáticos em `data/`, então as Actions precisam poder escrever:
 
@@ -26,7 +22,7 @@ O índice e o monitor fazem commits automáticos em `data/`, então as Actions p
 
 Se a `main` tiver regra de proteção que exija PR, as Actions não conseguirão commitar direto. Nesse caso, permita o bot `github-actions` como exceção ou deixe a `main` sem essa regra.
 
-## 4. Segredos (Settings → Secrets and variables → Actions)
+## 3. Segredos (Settings → Secrets and variables → Actions)
 
 Abra `https://github.com/gabriel00lima/leis-indice/settings/secrets/actions` e clique em **New repository secret** para cada um que for usar:
 
@@ -44,7 +40,7 @@ Sem esses segredos, o monitor e o índice continuam funcionando; só não há re
 - **Bot do Telegram**: no Telegram, fale com `@BotFather`, envie `/newbot` e siga as instruções; ele devolve o token.
 - **Chat ID**: mande qualquer mensagem para o seu bot e abra `https://api.telegram.org/bot<TOKEN>/getUpdates`; o número em `"chat":{"id": ...}` é o chat ID. Para um canal, adicione o bot como administrador e o ID começa com `-100`.
 
-## 5. Conferir que tudo rodou
+## 4. Conferir que tudo rodou
 
 Na aba **Actions**, confira que os workflows do monitor, do índice e do deploy aparecem e terminam em verde. O deploy também roda sozinho uma vez por dia.
 
