@@ -1,23 +1,147 @@
-import { manifesto, listaShards, carregarTudo, usandoExemplo, urlLei, formatarData, normalizarTexto } from "./dados.js";
+import {
+  manifesto, listaShards, carregarTudo, usandoExemplo, urlLei, formatarData, normalizarTexto,
+  destaques, numeroBR, APELIDOS,
+} from "./dados.js";
 
 const $ = s => document.querySelector(s);
 const form = $("#form"), q = $("#q"), tipoSel = $("#tipo"), sit = $("#sit"), ordem = $("#ordem");
-const status = $("#status"), lista = $("#resultados"), mais = $("#mais"), atalhos = $("#atalhos");
+const status = $("#status"), lista = $("#resultados"), mais = $("#mais");
+const areaInicio = $("#area-inicio"), areaResultados = $("#area-resultados"), carregando = $("#carregando");
 
-const POR_PAGINA = 50;
-let entradas = null;        // índice carregado (todas as normas ou só um tipo)
-let tipoCarregado = undefined;
-let achados = [], mostrados = 0;
-
-function preparar(e) {
-  if (e._busca) return e;
-  e._busca = normalizarTexto(`${e.titulo} ${e.tipo} ${e.ementa}`);
-  e._numero = String(e.numero || "").replace(/\D/g, "");
-  e._ano = String(e.data || "").slice(0, 4);
+function el(tag, attrs = {}, ...filhos) {
+  const e = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) {
+    if (v == null) continue;
+    if (k === "texto") e.textContent = v; else e.setAttribute(k, v);
+  }
+  e.append(...filhos);
   return e;
 }
 
-// Pontuação simples: número exato > ano > título > ementa.
+const ano = d => String(d || "").slice(0, 4);
+const SIGLAS = {
+  "Lei Ordinária": "Lei", "Decreto-Lei": "DL", "Lei Complementar": "LC",
+  "Emenda Constitucional": "EC", "Constituição": "CF",
+};
+
+// ================= página inicial =================
+
+function cartaoPrincipal(p) {
+  const a = el("a", { class: "cartao-lei", href: urlLei(p.id) },
+    el("span", { class: "etiqueta", texto: SIGLAS[p.tipo] ? `${p.tipo} · ${ano(p.data)}` : ano(p.data) }),
+    el("h3", { texto: p.apelido }),
+    el("p", { class: "cartao-titulo", texto: p.titulo }),
+    el("p", { class: "cartao-desc", texto: p.descricao }),
+    el("p", { class: "cartao-numeros" },
+      el("span", {}, el("strong", { texto: numeroBR(p.citada_por) }), " citações"),
+      el("span", {}, el("strong", { texto: numeroBR(p.alterada_por) }), " leis alteraram")));
+  return a;
+}
+
+function itemRanking(e, i, max, rotulo) {
+  const pct = Math.max(4, Math.round(100 * e.total / max));
+  return el("li", {},
+    el("span", { class: "posicao", texto: String(i + 1) }),
+    el("div", { class: "ranking-corpo" },
+      el("a", { href: urlLei(e.id), texto: APELIDOS[e.id] || e.titulo }),
+      el("span", { class: "ranking-sub", texto: APELIDOS[e.id] ? e.titulo : (e.ementa || "") }),
+      el("span", { class: "trilho" }, el("span", { class: "preenchido", style: `width:${pct}%` }))),
+    el("span", { class: "ranking-valor", title: rotulo }, numeroBR(e.total)));
+}
+
+async function montarInicio() {
+  let d;
+  try { d = await destaques(); } catch { d = null; }
+  if (!d) {
+    for (const s of ["#principais", "#numeros"]) $(s).hidden = true;
+    return;
+  }
+
+  // Números do topo
+  const stat = (k, v) => { const x = document.querySelector(`[data-stat="${k}"]`); if (x) x.textContent = v; };
+  stat("total", numeroBR(d.total));
+  stat("ligacoes", numeroBR(d.ligacoes));
+  stat("desde", ano(d.mais_antiga));
+  stat("atualizado", formatarData(String(d.gerado_em || "").slice(0, 10)));
+
+  // Leis principais
+  $("#lista-principais").replaceChildren(...d.principais.map(cartaoPrincipal));
+
+  // Rankings
+  const maxC = d.mais_citadas[0]?.total || 1;
+  $("#mais-citadas").replaceChildren(...d.mais_citadas.map((e, i) => itemRanking(e, i, maxC, "citações")));
+  const maxA = d.mais_alteradas[0]?.total || 1;
+  $("#mais-alteradas").replaceChildren(...d.mais_alteradas.map((e, i) => itemRanking(e, i, maxA, "leis que alteraram")));
+
+  // Por tipo
+  const tipos = [...d.por_tipo].sort((a, b) => b.total - a.total);
+  $("#por-tipo").replaceChildren(...tipos.map(t =>
+    el("a", { class: "cartao-tipo", href: "?tipo=" + encodeURIComponent(t.tipo) + "&ordem=recentes" },
+      el("span", { class: "tipo-numero", texto: numeroBR(t.total) }),
+      el("span", { class: "tipo-nome", texto: t.total === 1 ? t.tipo : plural(t.tipo) }),
+      el("span", { class: "tipo-sub", texto: t.revogadas ? `${numeroBR(t.revogadas)} revogadas` : "vigente" }))));
+  $("#texto-numeros").textContent =
+    `${numeroBR(d.total)} normas federais indexadas, de ${ano(d.mais_antiga)} até hoje. ` +
+    `${numeroBR(d.revogadas)} estão marcadas como revogadas no acervo.`;
+
+  // Por década (barras)
+  const maxD = Math.max(...d.por_decada.map(x => x.total));
+  $("#por-decada").replaceChildren(...d.por_decada.map(x => {
+    const h = Math.max(2, Math.round(100 * x.total / maxD));
+    return el("div", { class: "barra", title: `${x.decada}s: ${numeroBR(x.total)} normas` },
+      el("span", { class: "barra-valor", texto: x.total >= maxD * 0.12 ? numeroBR(x.total) : "" }),
+      el("span", { class: "barra-coluna", style: `height:${h}%` }),
+      el("span", { class: "barra-rotulo", texto: x.decada % 20 === 0 ? String(x.decada) : "" }));
+  }));
+
+  // Ligações
+  const lt = d.ligacoes_por_tipo || {};
+  $("#ligacoes").replaceChildren(
+    el("p", { class: "ligacoes-titulo" }, el("strong", { texto: numeroBR(d.ligacoes) }), " ligações entre normas extraídas do texto"),
+    el("div", { class: "ligacoes-barra" },
+      ...[["cita", "citações"], ["altera", "alterações"], ["revoga", "revogações"]].map(([k, r]) =>
+        el("span", { class: "seg seg-" + k, style: `flex:${lt[k] || 0}`, title: `${numeroBR(lt[k])} ${r}` }))),
+    el("p", { class: "ligacoes-legenda" },
+      ...[["cita", "citações"], ["altera", "alterações"], ["revoga", "revogações"]].map(([k, r]) =>
+        el("span", {}, el("i", { class: "seg-" + k }), `${numeroBR(lt[k])} ${r}`))));
+
+  // Recentes
+  $("#recentes").replaceChildren(...d.recentes.map(e =>
+    el("li", {},
+      el("span", { class: "data-recente", texto: formatarData(e.data) }),
+      el("div", {},
+        el("a", { href: urlLei(e.id), texto: e.titulo }),
+        el("p", { texto: e.ementa || "" })))));
+
+  // Rodapé
+  const c = d.fonte?.commit;
+  $("#rodape-indice").replaceChildren(
+    `${numeroBR(d.total)} normas, gerado em ${formatarData(String(d.gerado_em).slice(0, 10))}`,
+    ...(c ? [el("br"), "Commit do acervo: ", el("a", { href: `https://github.com/ctresb/leis/commit/${c}`, texto: c.slice(0, 7) })] : []));
+}
+
+function plural(t) {
+  return { "Lei Ordinária": "Leis ordinárias", "Decreto-Lei": "Decretos-leis", "Lei Complementar": "Leis complementares",
+    "Emenda Constitucional": "Emendas constitucionais", "Constituição": "Constituição" }[t] || t;
+}
+
+// ================= busca =================
+
+const POR_PAGINA = 40;
+let entradas = null;
+let tipoCarregado = undefined;
+let achados = [], mostrados = 0, termosAtuais = [];
+
+function preparar(e) {
+  if (e._busca) return e;
+  const apelido = APELIDOS[e.id] || "";
+  e._apelido = normalizarTexto(apelido);
+  e._busca = normalizarTexto(`${apelido} ${e.titulo} ${e.tipo} ${e.ementa}`);
+  e._numero = String(e.numero || "").replace(/\D/g, "");
+  e._ano = ano(e.data);
+  return e;
+}
+
 function pontuar(e, termos) {
   let p = 0;
   for (const t of termos) {
@@ -28,56 +152,87 @@ function pontuar(e, termos) {
       else if (e._busca.includes(t)) p += 5;
       else return 0;
     } else if (e._busca.includes(t)) {
-      p += normalizarTexto(e.titulo).includes(t) ? 10 : 3;
+      p += e._apelido.includes(t) ? 60 : normalizarTexto(e.titulo).includes(t) ? 10 : 3;
     } else {
       return 0;
     }
   }
+  if (APELIDOS[e.id]) p += 5;
+  if (!e.revogada) p += 1;
   return p;
 }
 
 function termosDe(texto) {
   return normalizarTexto(texto)
-    .replace(/\b(n[ºo°]|numero|de|da|do|das|dos|e)\b/g, " ")
+    .replace(/\b(n[ºo°]|numero|de|da|do|das|dos|e|a|o)\b/g, " ")
     .split(/\s+/).filter(Boolean)
-    // "8.078/90" -> "8078"
     .map(t => /^[\d.]+(\/\d{2,4})?$/.test(t) ? t.split("/")[0].replace(/\./g, "") : t);
+}
+
+// Destaca os termos buscados num texto (sem innerHTML).
+function realcar(texto, termos) {
+  const frag = document.createDocumentFragment();
+  const palavras = termos.filter(t => t.length > 2 && !/^\d+$/.test(t));
+  if (!palavras.length || !texto) { frag.append(texto || ""); return frag; }
+  const norm = normalizarTexto(texto);
+  const marcas = [];
+  for (const t of palavras) {
+    let i = norm.indexOf(t);
+    while (i >= 0) { marcas.push([i, i + t.length]); i = norm.indexOf(t, i + t.length); }
+  }
+  marcas.sort((a, b) => a[0] - b[0]);
+  let pos = 0;
+  for (const [ini, fim] of marcas) {
+    if (ini < pos) continue;
+    frag.append(texto.slice(pos, ini), el("mark", { texto: texto.slice(ini, fim) }));
+    pos = fim;
+  }
+  frag.append(texto.slice(pos));
+  return frag;
 }
 
 async function garantirIndice() {
   const tipo = tipoSel.value || null;
   const shards = await listaShards();
-  const porTipo = shards.some(s => s.tipo);
-  const alvo = porTipo ? tipo : null;
+  const alvo = shards.some(s => s.tipo) ? tipo : null;
   if (entradas && (tipoCarregado === null || tipoCarregado === alvo)) return;
-  status.textContent = "Carregando índice…";
-  entradas = (await carregarTudo((f, t) => {
-    if (t > 1) status.textContent = `Carregando índice… ${f} de ${t} partes`;
-  }, alvo)).map(preparar);
-  tipoCarregado = alvo;
+  carregando.hidden = false;
+  status.textContent = "Carregando o índice (só na primeira busca)…";
+  try {
+    entradas = (await carregarTudo((f, t) => {
+      if (t > 1) status.textContent = `Carregando o índice… ${f} de ${t} partes`;
+      carregando.firstElementChild.style.width = Math.round(100 * f / t) + "%";
+    }, alvo)).map(preparar);
+    tipoCarregado = alvo;
+  } finally {
+    carregando.hidden = true;
+  }
 }
 
 async function buscar() {
   const texto = q.value.trim();
   const params = new URLSearchParams();
   if (texto) params.set("q", texto);
-  for (const [k, el] of [["tipo", tipoSel], ["sit", sit], ["ordem", ordem]]) if (el.value) params.set(k, el.value);
+  for (const [k, e] of [["tipo", tipoSel], ["sit", sit], ["ordem", ordem]]) if (e.value) params.set(k, e.value);
   history.replaceState(null, "", params.toString() ? "?" + params : location.pathname);
 
   const filtrando = texto || tipoSel.value || sit.value;
-  atalhos.hidden = !!filtrando;
-  if (!filtrando) { lista.innerHTML = ""; status.textContent = ""; mais.hidden = true; return; }
+  areaInicio.hidden = !!filtrando;
+  areaResultados.hidden = !filtrando;
+  document.body.classList.toggle("buscando", !!filtrando);
+  if (!filtrando) return;
 
+  $("#titulo-resultados").textContent = texto ? `Resultados para “${texto}”` : (tipoSel.value ? plural(tipoSel.value) : "Normas");
   try { await garantirIndice(); }
   catch (err) { status.textContent = "Não foi possível carregar o índice: " + err.message; return; }
 
-  const termos = termosDe(texto);
+  termosAtuais = termosDe(texto);
   achados = [];
   for (const e of entradas) {
     if (tipoSel.value && e.tipo !== tipoSel.value) continue;
     if (sit.value === "vigente" && e.revogada) continue;
     if (sit.value === "revogada" && !e.revogada) continue;
-    const p = termos.length ? pontuar(e, termos) : 1;
+    const p = termosAtuais.length ? pontuar(e, termosAtuais) : 1;
     if (p) achados.push([p, e]);
   }
   const porData = (a, b) => String(b[1].data).localeCompare(String(a[1].data));
@@ -86,8 +241,10 @@ async function buscar() {
   else achados.sort((a, b) => b[0] - a[0] || porData(a, b));
 
   const n = achados.length;
-  status.textContent = n ? `${n.toLocaleString("pt-BR")} ${n === 1 ? "norma encontrada" : "normas encontradas"}` : "Nenhuma norma encontrada.";
-  lista.innerHTML = "";
+  status.textContent = n
+    ? `${numeroBR(n)} ${n === 1 ? "norma encontrada" : "normas encontradas"} em ${numeroBR(entradas.length)}`
+    : "Nenhuma norma encontrada. Tente o número sem pontos (ex.: 8078) ou outra palavra.";
+  lista.replaceChildren();
   mostrados = 0;
   mostrarMais();
 }
@@ -95,19 +252,18 @@ async function buscar() {
 function mostrarMais() {
   const frag = document.createDocumentFragment();
   for (const [, e] of achados.slice(mostrados, mostrados + POR_PAGINA)) {
-    const li = document.createElement("li");
-    li.innerHTML = `
-      <a class="titulo" href="${urlLei(e.id)}"></a>
-      <span class="meta"></span>
-      <p class="ementa"></p>`;
-    li.querySelector(".titulo").textContent = e.titulo || e.id;
-    li.querySelector(".meta").textContent = [e.tipo, formatarData(e.data)].filter(Boolean).join(" · ");
-    if (e.revogada) {
-      const b = document.createElement("span");
-      b.className = "selo revogada"; b.textContent = "Revogada";
-      li.querySelector(".meta").append(" ", b);
-    }
-    li.querySelector(".ementa").textContent = e.ementa || "";
+    const apelido = APELIDOS[e.id];
+    const meta = el("div", { class: "resultado-meta" },
+      el("span", { class: "chip", texto: e.tipo || "Norma" }),
+      el("span", { texto: formatarData(e.data) }));
+    if (e.revogada) meta.append(el("span", { class: "chip chip-revogada", texto: "Revogada" }));
+    const titulo = el("a", { class: "resultado-titulo", href: urlLei(e.id) });
+    titulo.append(realcar(apelido || e.titulo || e.id, termosAtuais));
+    const li = el("li", { class: "resultado" + (e.revogada ? " revogada" : "") }, meta, titulo);
+    if (apelido) li.append(el("p", { class: "resultado-sub", texto: e.titulo }));
+    const em = el("p", { class: "resultado-ementa" });
+    em.append(realcar(e.ementa || "", termosAtuais));
+    li.append(em);
     frag.append(li);
   }
   mostrados += POR_PAGINA;
@@ -117,7 +273,6 @@ function mostrarMais() {
 
 async function iniciar() {
   if (await usandoExemplo().catch(() => false)) $("#aviso-exemplo").hidden = false;
-  // Tipos disponíveis: do manifesto (shards por tipo) ou do índice único.
   const m = await manifesto().catch(() => null);
   let tipos = [];
   if (m?.shards) tipos = [...new Set(m.shards.map(s => s.tipo).filter(Boolean))];
@@ -129,12 +284,13 @@ async function iniciar() {
   tipoSel.value = p.get("tipo") || "";
   sit.value = p.get("sit") || "";
   ordem.value = p.get("ordem") || "";
+  montarInicio();
   buscar();
 }
 
 let espera;
-q.addEventListener("input", () => { clearTimeout(espera); espera = setTimeout(buscar, 250); });
-for (const el of [tipoSel, sit, ordem]) el.addEventListener("change", buscar);
-form.addEventListener("submit", ev => { ev.preventDefault(); buscar(); });
+q.addEventListener("input", () => { clearTimeout(espera); espera = setTimeout(buscar, 300); });
+for (const e of [tipoSel, sit, ordem]) e.addEventListener("change", buscar);
+form.addEventListener("submit", ev => { ev.preventDefault(); buscar(); areaResultados.scrollIntoView({ behavior: "smooth" }); });
 mais.addEventListener("click", mostrarMais);
 iniciar();

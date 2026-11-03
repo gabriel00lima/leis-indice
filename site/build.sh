@@ -10,11 +10,16 @@ saida="$raiz/_site"
 rm -rf -- "${saida:?}"
 mkdir -p "$saida"
 cp -R "$raiz/site/." "$saida/"
-rm -f "$saida/build.sh" "$saida/README.md"
+rm -f "$saida/build.sh" "$saida/README.md" "$saida/destaques.py"
 
 if [ -d "$raiz/data" ]; then
   mkdir -p "$saida/data"
   cp -R "$raiz/data/." "$saida/data/"
+fi
+
+# Estatísticas e listas da página inicial, recalculadas a partir de data/.
+if [ -f "$raiz/data/index.json" ] && command -v python3 >/dev/null; then
+  python3 "$raiz/site/destaques.py" --data "$raiz/data" --saida "$saida/destaques.json"
 fi
 
 touch "$saida/.nojekyll"

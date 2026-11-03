@@ -8,7 +8,8 @@ export const RAW = "https://raw.githubusercontent.com/ctresb/leis/main/";
 export const GITHUB = "https://github.com/ctresb/leis";
 export const API = "https://api.github.com/repos/ctresb/leis";
 
-const BASES = ["data/", "exemplo/"];
+// "../data/" cobre o Pages em modo "Deploy from a branch" (site servido em /site/).
+const BASES = ["data/", "../data/", "exemplo/"];
 let base = null;
 
 async function json(url) {
@@ -120,9 +121,23 @@ export async function vinculos(id) {
   return null;
 }
 
+// Estatísticas e listas pré-calculadas para a página inicial (site/destaques.py).
+export async function destaques() {
+  return json("destaques.json");
+}
+
+// Normas citadas mas fora do acervo/índice têm id "externo:<prefixo>-<número>[-<ano>]".
+export const ehExterno = id => String(id).startsWith("externo:");
+
 // Rótulo curto de uma norma a partir do id, sem precisar do índice.
 export function rotuloDoId(id) {
   if (id === "constituicao") return "Constituição Federal de 1988";
+  const ext = /^externo:([a-z]+)-([\d.]+)(?:-(\d{4}))?/.exec(id);
+  if (ext) {
+    const nomesExt = { lei: "Lei", lcp: "Lei Complementar", del: "Decreto-Lei", dec: "Decreto",
+      dlg: "Decreto Legislativo", mpv: "Medida Provisória", emc: "Emenda Constitucional", ldl: "Lei Delegada" };
+    return `${nomesExt[ext[1]] || ext[1]} nº ${Number(ext[2]).toLocaleString("pt-BR")}${ext[3] ? "/" + ext[3] : ""}`;
+  }
   const m = /\/([a-z]+)-(\d+)(?:-[a-z0-9]+)*?-(\d{4})-\d{2}-\d{2}$/.exec(id);
   if (!m) return id.split("/").pop();
   const nomes = { lei: "Lei", lcp: "Lei Complementar", del: "Decreto-Lei", dec: "Decreto",
@@ -132,6 +147,10 @@ export function rotuloDoId(id) {
 }
 
 export function urlLei(id, ancora) {
+  if (ehExterno(id)) {
+    const m = /^externo:[a-z]+-([\d.]+)(?:-(\d{4}))?/.exec(id);
+    return "./?q=" + encodeURIComponent(m ? m[1] + (m[2] ? " " + m[2] : "") : id);
+  }
   return "lei.html?id=" + encodeURIComponent(id) + (ancora ? "#" + ancora : "");
 }
 
@@ -140,6 +159,39 @@ export function formatarData(d) {
   const [a, m, dia] = String(d).split("-");
   return dia ? `${dia}/${m}/${a}` : d;
 }
+
+export const numeroBR = n => Number(n || 0).toLocaleString("pt-BR");
+
+// Apelidos conhecidos, usados no cabeçalho da lei e na busca.
+export const APELIDOS = {
+  "constituicao": "Constituição Federal",
+  "federal/leis-ordinarias/2002/lei-10406-2002-01-10": "Código Civil",
+  "federal/decretos-lei/1940/del-2848-1940-12-07": "Código Penal",
+  "federal/decretos-lei/1943/del-5452-1943-05-01": "CLT",
+  "federal/leis-ordinarias/1990/lei-8078-1990-09-11": "Código de Defesa do Consumidor",
+  "federal/leis-ordinarias/2015/lei-13105-2015-03-16": "Código de Processo Civil",
+  "federal/decretos-lei/1941/del-3689-1941-10-03": "Código de Processo Penal",
+  "federal/leis-ordinarias/1966/lei-5172-1966-10-25": "Código Tributário Nacional",
+  "federal/leis-ordinarias/1990/lei-8069-1990-07-13": "Estatuto da Criança e do Adolescente",
+  "federal/leis-ordinarias/1997/lei-9503-1997-09-23": "Código de Trânsito Brasileiro",
+  "federal/leis-ordinarias/2018/lei-13709-2018-08-14": "LGPD",
+  "federal/leis-ordinarias/2014/lei-12965-2014-04-23": "Marco Civil da Internet",
+  "federal/leis-ordinarias/2006/lei-11340-2006-08-07": "Lei Maria da Penha",
+  "federal/leis-ordinarias/2021/lei-14133-2021-04-01": "Nova Lei de Licitações",
+  "federal/leis-complementares/2000/lcp-101-2000-05-04": "Lei de Responsabilidade Fiscal",
+  "federal/decretos-lei/1942/del-4657-1942-09-04": "LINDB",
+  "federal/leis-ordinarias/1990/lei-8112-1990-12-11": "Estatuto dos Servidores Públicos Federais",
+  "federal/leis-ordinarias/2003/lei-10741-2003-10-01": "Estatuto da Pessoa Idosa",
+  "federal/leis-ordinarias/1996/lei-9394-1996-12-20": "Lei de Diretrizes e Bases da Educação",
+  "federal/leis-ordinarias/1984/lei-7210-1984-07-11": "Lei de Execução Penal",
+  "federal/leis-ordinarias/2011/lei-12527-2011-11-18": "Lei de Acesso à Informação",
+  "federal/leis-ordinarias/2006/lei-11343-2006-08-23": "Lei de Drogas",
+  "federal/leis-ordinarias/1992/lei-8429-1992-06-02": "Lei de Improbidade Administrativa",
+  "federal/leis-ordinarias/1995/lei-9099-1995-09-26": "Lei dos Juizados Especiais",
+  "federal/leis-ordinarias/1993/lei-8666-1993-06-21": "Lei de Licitações (1993)",
+  "federal/leis-ordinarias/1991/lei-8213-1991-07-24": "Lei de Benefícios da Previdência",
+  "federal/leis-ordinarias/2015/lei-13146-2015-07-06": "Estatuto da Pessoa com Deficiência",
+};
 
 export function normalizarTexto(s) {
   return String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
