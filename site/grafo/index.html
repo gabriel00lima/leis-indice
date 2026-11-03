@@ -98,7 +98,7 @@
   <span class="meta" id="contagem"></span>
 </div>
 <div id="aviso-exemplo" class="aviso" hidden>
-  Mostrando <strong>dados de exemplo</strong> (o arquivo <code>data/links.json</code> ainda não foi encontrado).
+  Mostrando <strong>dados de exemplo</strong> (o índice em <code>data/</code> ainda não foi publicado).
 </div>
 <main>
   <div id="palco">
@@ -121,15 +121,16 @@
   "use strict";
 
   // ---- Configuração -------------------------------------------------------
-  // Fontes de dados, em ordem. ?dados=<url> na URL tem prioridade.
-  const FONTES = ["../data/links.json", "../../data/links.json"];
-  const EXEMPLO = "exemplo.json";
+  // Bases de dados, em ordem (relativas a grafo/). ?dados=<base> tem prioridade.
+  // Formato: o mesmo do site (ver site/README.md): index.json + links.json.
+  const BASES = ["../data/", "../exemplo/"];
   const URL_LEI = id => "../lei.html?id=" + encodeURIComponent(id);
-  const URL_FONTE = id => "https://github.com/ctresb/leis/blob/main/" + id + ".md";
+  const URL_FONTE = id => "https://github.com/ctresb/leis/blob/main/" + ((leis[id] && leis[id].path) || id + ".md");
   const MAX_NOS = 150;          // acima disso, corta os vizinhos de profundidade 2
   const ROTULO_MAX = 34;
 
   const TIPOS = ["cita", "altera", "revoga"];
+  const INVERSO = { citada_por: "cita", alterada_por: "altera", revogada_por: "revoga" };
   const VERBO = {
     saida: { cita: "cita", altera: "altera", revoga: "revoga" },
     entrada: { cita: "é citada por", altera: "é alterada por", revoga: "é revogada por" }
@@ -140,7 +141,9 @@
   const NS = "http://www.w3.org/2000/svg";
   const params = new URLSearchParams(location.search);
 
-  let leis = {}, saida = new Map(), entrada = new Map(), ehExemplo = false;
+  const leis = {};                       // id -> entrada do index.json (carregadas sob demanda)
+  const saida = new Map(), entrada = new Map(), expandidos = new Set();
+  let base = null, ehExemplo = false;
   let estado = {
     id: params.get("id"),
     tipos: new Set(TIPOS),
@@ -149,53 +152,109 @@
   };
 
   // ---- Carregamento -------------------------------------------------------
-  async function carregarJSON(url) {
-    const r = await fetch(url, { cache: "no-cache" });
+  async function json(url) {
+    const r = await fetch(url);
     if (!r.ok) throw new Error(url + ": " + r.status);
     return r.json();
   }
+  const pastaDe = id => id.split("/")[1] || id;
 
-  async function carregar() {
-    const fontes = params.get("dados") ? [params.get("dados")] : FONTES;
-    for (const url of fontes) {
-      try { return await carregarJSON(url); } catch (e) { /* tenta a próxima */ }
-    }
-    ehExemplo = true;
-    return carregarJSON(EXEMPLO);
+  // index.json: array de entradas ou manifesto { shards: [{ arquivo, tipo?, prefixo? }] }
+  let manifestoP = null;
+  function manifesto() {
+    if (!manifestoP) manifestoP = (async () => {
+      const bases = params.get("dados") ? [params.get("dados").replace(/\/?$/, "/")] : BASES;
+      for (const b of bases) {
+        try {
+          const m = await json(b + "index.json");
+          base = b; ehExemplo = /exemplo\/$/.test(b);
+          if (Array.isArray(m)) { guardar(m); return { shards: [] }; }
+          return m;
+        } catch (e) { /* tenta a próxima base */ }
+      }
+      throw new Error("índice não encontrado em data/index.json");
+    })();
+    return manifestoP;
+  }
+  function guardar(entradas) { for (const e of entradas) if (e && e.id) leis[e.id] = e; }
+  function normalizar(d) {
+    if (Array.isArray(d)) return d;
+    if (d && d.campos && d.linhas) return d.linhas.map(l => Object.fromEntries(d.campos.map((c, i) => [c, l[i]])));
+    return (d && d.entradas) || [];
+  }
+  const cache = new Map();
+  function arquivo(caminho, transformar) {
+    if (!cache.has(caminho)) cache.set(caminho, json(base + caminho).then(transformar || (x => x)).catch(() => transformar ? transformar([]) : {}));
+    return cache.get(caminho);
+  }
+  async function carregarShardIndice(s) { guardar(await arquivo(s.arquivo, normalizar)); }
+
+  // Metadados das normas exibidas: carrega só as partes do índice das pastas envolvidas.
+  async function garantirInfo(ids) {
+    const m = await manifesto();
+    if (!m.shards || !m.shards.length) return;
+    const pastas = new Set([...ids].filter(id => !leis[id]).map(pastaDe));
+    const alvos = m.shards.filter(s => [...pastas].some(p => s.arquivo.includes(p)));
+    await Promise.all(alvos.map(carregarShardIndice));
+  }
+  // Busca precisa de tudo; carregado só quando o campo de busca é usado.
+  let tudoP = null;
+  function carregarIndiceInteiro() {
+    if (!tudoP) tudoP = manifesto().then(m => Promise.all((m.shards || []).map(carregarShardIndice))).then(montarBusca);
+    return tudoP;
   }
 
-  function indexar(dados) {
-    leis = dados.leis || {};
-    if (dados.exemplo) ehExemplo = true;
-    for (const l of dados.links || []) {
-      if (!l || !l.de || !l.para || l.de === l.para) continue;
-      const tipo = TIPOS.includes(l.tipo) ? l.tipo : "cita";
-      const aresta = { de: l.de, para: l.para, tipo, dispositivos: l.dispositivos || [] };
-      if (!saida.has(l.de)) saida.set(l.de, []);
-      if (!entrada.has(l.para)) entrada.set(l.para, []);
-      saida.get(l.de).push(aresta);
-      entrada.get(l.para).push(aresta);
+  // links.json: objeto id -> { cita, altera, revoga, citada_por, alterada_por, revogada_por }
+  // ou manifesto { shards: [{ arquivo, pasta }] }.
+  let linksP = null;
+  async function vinculos(id) {
+    await manifesto();
+    if (!linksP) linksP = json(base + "links.json").catch(() => ({}));
+    const l = await linksP;
+    if (!l.shards) return l[id] || null;
+    const s = l.shards.find(x => x.pasta === pastaDe(id));
+    for (const x of (s ? [s] : l.shards)) {
+      const d = await arquivo(x.arquivo);
+      if (d[id]) return d[id];
     }
+    return null;
+  }
+  function addAresta(a) {
+    const chave = a.de + "\u0000" + a.para + "\u0000" + a.tipo;
+    const lista = saida.get(a.de) || [];
+    if (lista.some(x => x.para === a.para && x.tipo === a.tipo)) return;
+    lista.push(a); saida.set(a.de, lista);
+    if (!entrada.has(a.para)) entrada.set(a.para, []);
+    entrada.get(a.para).push(a);
+  }
+  async function expandir(id) {
+    if (expandidos.has(id)) return;
+    expandidos.add(id);
+    const v = await vinculos(id);
+    if (!v) return;
+    for (const tipo of TIPOS) for (const outro of v[tipo] || []) if (outro !== id) addAresta({ de: id, para: outro, tipo, dispositivos: [] });
+    for (const k in INVERSO) for (const outro of v[k] || []) if (outro !== id) addAresta({ de: outro, para: id, tipo: INVERSO[k], dispositivos: [] });
   }
 
   // ---- Utilidades ---------------------------------------------------------
   function info(id) {
-    return leis[id] || { titulo: tituloDoId(id), ausente: true };
+    return leis[id] || { titulo: rotuloDoId(id), ausente: true };
   }
-  function tituloDoId(id) {
-    // "federal/leis-ordinarias/1990/lei-8078-1990-09-11" -> "Lei 8078/1990"
-    const nome = (id.split("/").pop() || id);
-    const m = nome.match(/^(.*?)-(\d[\d.]*)-(\d{4})(?:-\d{2}-\d{2})?$/);
-    if (!m) return nome;
-    const tipo = m[1].replace(/-/g, " ");
-    return tipo.charAt(0).toUpperCase() + tipo.slice(1) + " " + m[2] + "/" + m[3];
+  function rotuloDoId(id) {
+    if (id === "constituicao") return "Constituição Federal de 1988";
+    const m = /\/([a-z]+)-(\d+)(?:-[a-z0-9]+)*?-(\d{4})-\d{2}-\d{2}$/.exec(id);
+    if (!m) return id.split("/").pop();
+    const nomes = { lei: "Lei", lcp: "Lei Complementar", del: "Decreto-Lei", dec: "Decreto",
+      dlg: "Decreto Legislativo", mpv: "Medida Provisória", emc: "Emenda Constitucional", ldl: "Lei Delegada" };
+    return `${nomes[m[1]] || m[1]} nº ${Number(m[2]).toLocaleString("pt-BR")}/${m[3]}`;
   }
   function rotuloCurto(id) {
+    if (id === "constituicao") return "CF/1988";
     const i = info(id);
     let t = i.titulo || id;
-    const m = t.match(/^(.*?nº\s*[\d.]+)(?:,\s*de\s+.*?(\d{4}))?/i);
-    if (m) t = m[1] + (m[2] ? "/" + m[2] : "");
-    if (/constitui/i.test(t) && i.data) t = "CF/" + i.data.slice(0, 4);
+    const m = t.match(/^(.*?nº\s*[\d.]+)\D.*?(\d{4})\b/i);
+    if (m) t = m[1] + "/" + m[2];
+    else if (/constitui/i.test(t) && i.data) t = "CF/" + i.data.slice(0, 4);
     return t.length > ROTULO_MAX ? t.slice(0, ROTULO_MAX - 1) + "…" : t;
   }
   function el(tag, attrs = {}, pai) {
@@ -214,12 +273,13 @@
     return r;
   }
 
-  function vizinhanca(centro) {
+  async function vizinhanca(centro) {
     const nivel = new Map([[centro, 0]]);
     const arestas = new Map();
     let fronteira = [centro];
     for (let d = 1; d <= estado.profundidade; d++) {
       const prox = [];
+      await Promise.all(fronteira.map(expandir));
       for (const id of fronteira) {
         for (const a of arestasDe(id)) {
           const outro = a.de === id ? a.para : a.de;
@@ -234,6 +294,7 @@
     }
     // só arestas cujos dois lados estão no recorte
     const lista = [...arestas.values()].filter(a => nivel.has(a.de) && nivel.has(a.para));
+    await garantirInfo(nivel.keys());
     return { nivel, arestas: lista };
   }
 
@@ -290,12 +351,16 @@
   let vista = { x: 0, y: 0, s: 1 };
   function aplicarVista() { camada.setAttribute("transform", `translate(${vista.x},${vista.y}) scale(${vista.s})`); }
 
-  function desenhar() {
-    gArestas.replaceChildren(); gNos.replaceChildren();
+  let geracao = 0;
+  async function desenhar() {
+    const minha = ++geracao;
     const vazio = $("#vazio");
-    if (!estado.id) { vazio.textContent = "Busque uma lei acima para ver o que ela cita, altera ou revoga."; vazio.hidden = false; $("#contagem").textContent = ""; painelVazio(); return; }
+    if (!estado.id) { gArestas.replaceChildren(); gNos.replaceChildren(); vazio.textContent = "Busque uma lei acima para ver o que ela cita, altera ou revoga."; vazio.hidden = false; $("#contagem").textContent = ""; painelVazio(); return; }
 
-    const { nivel, arestas } = vizinhanca(estado.id);
+    const { nivel, arestas } = await vizinhanca(estado.id);
+    if (minha !== geracao) return;          // outra navegação começou no meio
+    gArestas.replaceChildren(); gNos.replaceChildren();
+    document.title = rotuloCurto(estado.id) + " · Grafo de leis";
     const r = svg.getBoundingClientRect();
     const w = Math.max(r.width, 280), h = Math.max(r.height, 300);
     vista = { x: 0, y: 0, s: 1 }; aplicarVista();
@@ -413,7 +478,6 @@
     const p = new URLSearchParams(location.search);
     p.set("id", id);
     history[substituir ? "replaceState" : "pushState"]({ id }, "", "?" + p.toString());
-    document.title = rotuloCurto(id) + " · Grafo de leis";
     desenhar();
   }
   window.addEventListener("popstate", () => { estado.id = new URLSearchParams(location.search).get("id"); desenhar(); });
@@ -422,21 +486,20 @@
   let indiceBusca = [];
   const normal = s => (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
   function montarBusca() {
-    const ids = new Set([...Object.keys(leis), ...saida.keys(), ...entrada.keys()]);
-    indiceBusca = [...ids].map(id => {
-      const i = info(id);
-      const grau = (saida.get(id) || []).length + (entrada.get(id) || []).length;
-      return { id, titulo: i.titulo || id, ementa: i.ementa || "", grau,
-        texto: normal([i.titulo, i.ementa, i.numero, (i.numero || "").replace(/\B(?=(\d{3})+(?!\d))/g, "."), id].join(" ")) };
-    });
+    indiceBusca = Object.values(leis).map(i => ({ id: i.id, titulo: i.titulo || i.id, ementa: i.ementa || "", data: i.data || "",
+      numero: String(i.numero || ""),
+      texto: normal([i.titulo, i.ementa, i.tipo, i.numero, String(i.numero || "").replace(/\B(?=(\d{3})+(?!\d))/g, "."), i.id].join(" ")) }));
+    if (inp.value) mostrarSugestoes();
   }
   const inp = $("#busca"), sug = $("#sugestoes");
   let sel = -1, resultados = [];
   function buscar(q) {
     const termos = normal(q).split(/\s+/).filter(Boolean);
     if (!termos.length) return [];
+    const num = termos.find(t => /^\d[\d.]*$/.test(t));
+    const n = num && num.replace(/\./g, "");
     return indiceBusca.filter(r => termos.every(t => r.texto.includes(t)))
-      .sort((a, b) => b.grau - a.grau).slice(0, 12);
+      .sort((a, b) => (n ? (b.numero === n) - (a.numero === n) : 0) || b.data.localeCompare(a.data)).slice(0, 12);
   }
   function mostrarSugestoes() {
     resultados = buscar(inp.value); sel = resultados.length ? 0 : -1;
@@ -447,6 +510,7 @@
     const r = resultados[i]; if (!r) return;
     sug.hidden = true; inp.value = ""; inp.blur(); irPara(r.id);
   }
+  inp.addEventListener("focus", () => carregarIndiceInteiro());
   inp.addEventListener("input", mostrarSugestoes);
   inp.addEventListener("keydown", ev => {
     if (sug.hidden) return;
@@ -483,10 +547,9 @@
   let redim; window.addEventListener("resize", () => { clearTimeout(redim); redim = setTimeout(desenhar, 200); });
 
   // ---- Início -------------------------------------------------------------
-  carregar().then(dados => {
-    indexar(dados); montarBusca();
+  manifesto().then(() => {
     $("#aviso-exemplo").hidden = !ehExemplo;
-    if (!estado.id && ehExemplo) estado.id = "federal/leis-ordinarias/2018/lei-13709-2018-08-14";
+    if (!estado.id && ehExemplo) estado.id = "federal/leis-ordinarias/1990/lei-8078-1990-09-11";
     if (estado.id) irPara(estado.id, true); else desenhar();
   }).catch(e => {
     $("#vazio").textContent = "Não foi possível carregar os dados do grafo (" + e.message + ").";
