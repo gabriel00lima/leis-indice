@@ -1,0 +1,26 @@
+{
+  "versao": 1,
+  "shards": [
+    {
+      "arquivo": "adjacencia/constituicao.json",
+      "pasta": "constituicao"
+    },
+    {
+      "arquivo": "adjacencia/decretos-lei.json",
+      "pasta": "decretos-lei"
+    },
+    {
+      "arquivo": "adjacencia/emendas-constitucionais.json",
+      "pasta": "emendas-constitucionais"
+    },
+    {
+      "arquivo": "adjacencia/leis-complementares.json",
+      "pasta": "leis-complementares"
+    },
+    {
+      "arquivo": "adjacencia/leis-ordinarias.json",
+      "pasta": "leis-ordinarias"
+    }
+  ],
+  "arestas": "arestas.json"
+}
