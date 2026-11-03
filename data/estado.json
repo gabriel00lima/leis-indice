@@ -1,0 +1,11 @@
+{
+  "commit": "c9f21b4ab11aa0d7ca6fe861d75028e94219c2d6",
+  "versao_extrator": 1,
+  "escopo": [
+    "constituicao.md",
+    "federal/emendas-constitucionais",
+    "federal/leis-complementares",
+    "federal/leis-ordinarias",
+    "federal/decretos-lei"
+  ]
+}

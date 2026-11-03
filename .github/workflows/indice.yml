@@ -1,0 +1,73 @@
+name: Índice das leis federais
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # todo dia às 05:00 (horário de Brasília), antes do deploy das 06:30
+  workflow_dispatch:
+    inputs:
+      completo:
+        description: "Reprocessar todas as normas (ignora o cache)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # commitar data/
+  actions: write    # disparar o deploy do site
+
+concurrency:
+  group: indice
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Testes do extrator
+        run: python -m unittest discover -s indice/tests -v
+
+      # Clone "blobless" e raso: só a árvore de arquivos (~60 MB), sem nenhum texto.
+      # O script baixa depois apenas os .md novos ou alterados.
+      - name: Clonar a árvore do acervo
+        run: |
+          for i in 1 2 3 4; do
+            git clone --filter=blob:none --no-checkout --depth 1 \
+              https://github.com/ctresb/leis.git "$RUNNER_TEMP/leis" && break
+            rm -rf "$RUNNER_TEMP/leis"; sleep $((i * 10))
+          done
+
+      - name: Atualizar data/
+        id: indice
+        run: |
+          python indice/construir.py --fonte "$RUNNER_TEMP/leis" --saida data \
+            ${{ inputs.completo && '--completo' || '' }}
+
+      - name: Commitar
+        id: commit
+        run: |
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Nada mudou."; echo "commitou=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "índice: atualiza data/ ($(jq -r .commit data/estado.json | cut -c1-7) do ctresb/leis)"
+          for i in 1 2 3 4; do
+            git pull --rebase -q origin "${GITHUB_REF_NAME}" && git push -q && break
+            sleep $((i * 5))
+          done
+          echo "commitou=true" >> "$GITHUB_OUTPUT"
+
+      # Commits feitos com o GITHUB_TOKEN não disparam outros workflows por push,
+      # então o deploy do site é chamado explicitamente.
+      - name: Disparar deploy do site
+        if: steps.commit.outputs.commitou == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-site.yml --ref "${GITHUB_REF_NAME}" || echo "deploy-site.yml não disparado"
