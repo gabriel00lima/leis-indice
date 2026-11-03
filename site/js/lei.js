@@ -3,7 +3,7 @@ import DOMPurify from "../vendor/purify.es.mjs";
 import { regexCitacao, interpretar, citacoes, chave, ID_CONSTITUICAO } from "./citacoes.js";
 import {
   RAW, GITHUB, API, buscarEntrada, resolverChave, vinculos, rotuloDoId, urlLei,
-  formatarData, usandoExemplo,
+  formatarData, usandoExemplo, ehExterno, numeroBR, APELIDOS,
 } from "./dados.js";
 
 const $ = s => document.querySelector(s);
@@ -186,30 +186,60 @@ function mostrarAlteracoes(grupos) {
 // ---------- vínculos (links.json) ----------
 
 const ROTULOS = [
-  ["alterada_por", "Alterada por"], ["revogada_por", "Revogada por"],
-  ["altera", "Altera"], ["revoga", "Revoga"], ["cita", "Cita"], ["citada_por", "Citada por"],
+  ["alterada_por", "Alterada por"], ["revogada_por", "Revogada (no todo ou em parte) por"],
+  ["altera", "Altera"], ["revoga", "Revoga (no todo ou em parte)"], ["cita", "Cita"], ["citada_por", "Citada por"],
 ];
+
+function itemVinculo(outro) {
+  const nome = APELIDOS[outro] || rotuloDoId(outro);
+  if (ehExterno(outro)) {
+    return el("li", { class: "externo" },
+      el("a", { href: urlLei(outro), title: "Fora do índice: procurar na busca", texto: nome }),
+      el("span", { class: "fora", texto: "fora do índice" }));
+  }
+  return el("li", {}, el("a", { href: urlLei(outro), texto: nome }));
+}
 
 async function mostrarVinculos(id) {
   const box = $("#vinculos");
   const v = await vinculos(id).catch(() => null);
   box.innerHTML = "";
-  const grafo = el("p", {}, el("a", { href: "grafo/?id=" + encodeURIComponent(id), class: "botao", texto: "Ver no grafo" }));
+  const grafo = el("a", { href: "grafo/?id=" + encodeURIComponent(id), class: "botao botao-cheio", texto: "Explorar no grafo →" });
   if (!v || !ROTULOS.some(([k]) => v[k]?.length)) {
-    box.append(el("p", { class: "vazio", texto: "Sem relações registradas no índice." }), grafo);
-    return;
+    box.append(el("p", { class: "vazio", texto: "Nenhuma relação registrada no índice para esta norma." }), grafo);
+    return v;
   }
   for (const [k, rotulo] of ROTULOS) {
     const ids = v[k] || [];
     if (!ids.length) continue;
-    const det = el("details", { open: ids.length <= 6 ? "" : null },
-      el("summary", {}, rotulo + " ", el("span", { class: "contagem", texto: String(ids.length) })));
+    const det = el("details", { class: "rel rel-" + k, open: ids.length <= 5 ? "" : null },
+      el("summary", {}, el("span", { texto: rotulo }), el("span", { class: "contagem", texto: numeroBR(ids.length) })));
     const ul = el("ul");
-    for (const outro of ids) ul.append(el("li", {}, el("a", { href: urlLei(outro), texto: rotuloDoId(outro) })));
+    const LIMITE = 60;
+    for (const outro of ids.slice(0, LIMITE)) ul.append(itemVinculo(outro));
+    if (ids.length > LIMITE) {
+      const resto = el("li", {}, el("button", { class: "link-botao", type: "button", texto: `Mostrar mais ${numeroBR(ids.length - LIMITE)}` }));
+      resto.firstChild.addEventListener("click", () => {
+        resto.replaceWith(...ids.slice(LIMITE).map(itemVinculo));
+      });
+      ul.append(resto);
+    }
     det.append(ul);
     box.append(det);
   }
   box.append(grafo);
+  return v;
+}
+
+function mostrarContadores(v) {
+  const dl = $("#contadores");
+  dl.replaceChildren();
+  if (!v) return;
+  for (const [k, r] of [["citada_por", "normas citam esta"], ["alterada_por", "leis alteraram esta"], ["cita", "normas citadas aqui"]]) {
+    const n = (v[k] || []).length;
+    if (!n && k !== "citada_por") continue;
+    dl.append(el("div", {}, el("dd", { texto: numeroBR(n) }), el("dt", { texto: r })));
+  }
 }
 
 // ---------- histórico git (API do GitHub) ----------
@@ -241,6 +271,7 @@ async function mostrarHistorico(caminho) {
 // ---------- página ----------
 
 function mostrarErro(titulo, detalhe) {
+  $("#carregando-texto").hidden = true;
   $("#titulo").textContent = titulo;
   $("#texto").replaceChildren(el("p", { class: "erro", texto: detalhe }),
     el("p", {}, el("a", { href: "./", class: "botao", texto: "Voltar à busca" })));
@@ -290,23 +321,43 @@ async function iniciar() {
     info.tipo = "Constituição"; info.data = "1988-10-05";
   }
 
-  document.title = (info.titulo || rotuloDoId(id)) + " — Leis do Brasil";
-  $("#titulo").textContent = info.titulo || rotuloDoId(id);
-  const meta = $("#meta");
-  meta.textContent = [info.tipo, formatarData(info.data), info.versao_texto].filter(Boolean).join(" · ");
-  if (info.revogada) meta.append(" ", el("span", { class: "selo revogada", texto: "Revogada" }));
-  if (await usandoExemplo().catch(() => false)) meta.append(" ", el("span", { class: "selo", texto: "índice de exemplo" }));
+  const apelido = APELIDOS[id];
+  const tituloLei = info.titulo || rotuloDoId(id);
+  document.title = (apelido ? `${apelido} (${tituloLei})` : tituloLei) + " · Leis do Brasil";
+  $("#titulo").textContent = apelido || tituloLei;
+  if (apelido && apelido !== tituloLei) { $("#subtitulo").textContent = tituloLei; $("#subtitulo").hidden = false; }
+
+  const trilha = $("#trilha");
+  if (info.tipo) trilha.append(el("a", { href: "./?tipo=" + encodeURIComponent(info.tipo) + "&ordem=recentes", texto: info.tipo }));
+  if (info.data && id !== ID_CONSTITUICAO) trilha.append(el("span", { texto: String(info.data).slice(0, 4) }));
+
+  const selos = $("#selos");
+  selos.append(el("span", { class: info.revogada ? "chip chip-revogada" : "chip chip-vigente", texto: info.revogada ? "Revogada" : "Em vigor" }));
+  if (info.data) selos.append(el("span", { class: "chip chip-neutro", texto: "Publicada em " + formatarData(info.data) }));
+  if (info.versao_texto) selos.append(el("span", { class: "chip chip-neutro", texto: "Texto " + info.versao_texto }));
+  if (await usandoExemplo().catch(() => false)) selos.append(el("span", { class: "chip", texto: "índice de exemplo" }));
   $("#ementa").textContent = info.ementa || "";
+
   const acoes = $("#acoes");
-  if (info.fonte) acoes.append(el("a", { href: info.fonte, texto: "Fonte oficial" }));
-  acoes.append(el("a", { href: `${GITHUB}/blob/main/${caminho}`, texto: "Ver no GitHub" }));
-  acoes.append(el("a", { href: `${GITHUB}/commits/main/${caminho}`, texto: "Histórico" }));
-  acoes.append(el("a", { href: "grafo/?id=" + encodeURIComponent(id), texto: "Grafo" }));
+  const icone = d => { const s = document.createElementNS("http://www.w3.org/2000/svg", "svg"); s.setAttribute("viewBox", "0 0 24 24"); s.setAttribute("aria-hidden", "true"); s.innerHTML = d; return s; };
+  const acao = (href, texto, d) => el("a", { href, class: "acao" }, icone(d), texto);
+  if (info.fonte) acoes.append(acao(info.fonte, "Fonte oficial", '<path d="M4 4h16v16H4z"/><path d="M8 9h8M8 13h8M8 17h5"/>'));
+  acoes.append(acao(`${GITHUB}/blob/main/${caminho}`, "Ver no GitHub", '<path d="M8 4 3 12l5 8M16 4l5 8-5 8"/>'));
+  acoes.append(acao(`${GITHUB}/commits/main/${caminho}`, "Histórico", '<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>'));
+  acoes.append(acao("grafo/?id=" + encodeURIComponent(id), "Grafo", '<circle cx="5" cy="12" r="2.5"/><circle cx="19" cy="5" r="2.5"/><circle cx="19" cy="19" r="2.5"/><path d="M7.3 11 16.7 6M7.3 13l9.4 5"/>'));
+  const copiar = el("button", { type: "button", class: "acao" }, icone('<rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V5a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h3"/>'), "Copiar link");
+  copiar.addEventListener("click", async () => {
+    try { await navigator.clipboard.writeText(location.href); copiar.lastChild.textContent = "Link copiado"; }
+    catch { copiar.lastChild.textContent = "Não deu para copiar"; }
+    setTimeout(() => { copiar.lastChild.textContent = "Copiar link"; }, 2000);
+  });
+  acoes.append(copiar);
 
   // O título já está no cabeçalho; tira o "# Título" repetido do começo do texto.
   const semTitulo = corpo.replace(/^\s*#\s+[^\n]+\n/, "");
   const html = DOMPurify.sanitize(marked.parse(semTitulo, { gfm: true }));
   const texto = $("#texto");
+  $("#carregando-texto").hidden = true;
   texto.innerHTML = html;
   for (const a of texto.querySelectorAll("a[href^='http']")) a.rel = "noopener";
 
@@ -316,7 +367,7 @@ async function iniciar() {
   mostrarAlteracoes(coletarAlteracoes(texto, id));
   irParaAncora();
 
-  mostrarVinculos(id);
+  mostrarVinculos(id).then(mostrarContadores);
   mostrarHistorico(caminho);
 }
 
@@ -330,5 +381,8 @@ $("#ir-art").addEventListener("submit", ev => {
   else $("#art").setCustomValidity("Artigo não encontrado"), $("#art").reportValidity(), $("#art").setCustomValidity("");
 });
 window.addEventListener("hashchange", irParaAncora);
+window.addEventListener("scroll", () => {
+  $("#voltar-topo").classList.toggle("visivel", scrollY > 900);
+}, { passive: true });
 
 iniciar().catch(err => mostrarErro("Erro ao abrir a lei", err.message));

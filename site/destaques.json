@@ -1,0 +1,629 @@
+{
+ "gerado_em": "2026-11-03T16:24:41+00:00",
+ "fonte": {
+  "repositorio": "ctresb/leis",
+  "commit": "c9f21b4ab11aa0d7ca6fe861d75028e94219c2d6",
+  "escopo": [
+   "constituicao.md",
+   "federal/emendas-constitucionais",
+   "federal/leis-complementares",
+   "federal/leis-ordinarias",
+   "federal/decretos-lei"
+  ]
+ },
+ "total": 29572,
+ "revogadas": 1196,
+ "ligacoes": 62438,
+ "ligacoes_por_tipo": {
+  "cita": 49027,
+  "altera": 9337,
+  "revoga": 4074
+ },
+ "mais_antiga": "1822-10-14",
+ "por_tipo": [
+  {
+   "tipo": "Constituição",
+   "pasta": "constituicao",
+   "total": 1,
+   "revogadas": 0
+  },
+  {
+   "tipo": "Decreto-Lei",
+   "pasta": "decretos-lei",
+   "total": 12376,
+   "revogadas": 445
+  },
+  {
+   "tipo": "Emenda Constitucional",
+   "pasta": "emendas-constitucionais",
+   "total": 172,
+   "revogadas": 2
+  },
+  {
+   "tipo": "Lei Complementar",
+   "pasta": "leis-complementares",
+   "total": 239,
+   "revogadas": 18
+  },
+  {
+   "tipo": "Lei Ordinária",
+   "pasta": "leis-ordinarias",
+   "total": 16784,
+   "revogadas": 731
+  }
+ ],
+ "por_decada": [
+  {
+   "decada": 1820,
+   "total": 36
+  },
+  {
+   "decada": 1830,
+   "total": 101
+  },
+  {
+   "decada": 1840,
+   "total": 25
+  },
+  {
+   "decada": 1850,
+   "total": 56
+  },
+  {
+   "decada": 1860,
+   "total": 46
+  },
+  {
+   "decada": 1870,
+   "total": 59
+  },
+  {
+   "decada": 1880,
+   "total": 83
+  },
+  {
+   "decada": 1890,
+   "total": 87
+  },
+  {
+   "decada": 1900,
+   "total": 55
+  },
+  {
+   "decada": 1910,
+   "total": 32
+  },
+  {
+   "decada": 1920,
+   "total": 24
+  },
+  {
+   "decada": 1930,
+   "total": 2460
+  },
+  {
+   "decada": 1940,
+   "total": 9016
+  },
+  {
+   "decada": 1950,
+   "total": 2763
+  },
+  {
+   "decada": 1960,
+   "total": 2965
+  },
+  {
+   "decada": 1970,
+   "total": 1923
+  },
+  {
+   "decada": 1980,
+   "total": 1986
+  },
+  {
+   "decada": 1990,
+   "total": 2030
+  },
+  {
+   "decada": 2000,
+   "total": 2306
+  },
+  {
+   "decada": 2010,
+   "total": 1867
+  },
+  {
+   "decada": 2020,
+   "total": 1652
+  }
+ ],
+ "principais": [
+  {
+   "id": "constituicao",
+   "titulo": "Constituição da República Federativa do Brasil de 1988",
+   "tipo": "Constituição",
+   "numero": "",
+   "data": "1988-10-05",
+   "ementa": "",
+   "revogada": false,
+   "apelido": "Constituição Federal",
+   "descricao": "A lei maior do país: direitos fundamentais, organização do Estado e dos Poderes.",
+   "citada_por": 1707,
+   "alterada_por": 136
+  },
+  {
+   "id": "federal/leis-ordinarias/2002/lei-10406-2002-01-10",
+   "titulo": "Lei nº 10.406 de 10/01/2002",
+   "tipo": "Lei Ordinária",
+   "numero": "10406",
+   "data": "2002-01-10",
+   "ementa": "Institui o Código Civil.",
+   "revogada": false,
+   "apelido": "Código Civil",
+   "descricao": "Pessoas, contratos, propriedade, família e sucessões.",
+   "citada_por": 150,
+   "alterada_por": 56
+  },
+  {
+   "id": "federal/decretos-lei/1940/del-2848-1940-12-07",
+   "titulo": "Decreto-Lei nº 2.848 de 07/12/1940",
+   "tipo": "Decreto-Lei",
+   "numero": "2848",
+   "data": "1940-12-07",
+   "ementa": "Código Penal.",
+   "revogada": false,
+   "apelido": "Código Penal",
+   "descricao": "Crimes e penas.",
+   "citada_por": 306,
+   "alterada_por": 109
+  },
+  {
+   "id": "federal/decretos-lei/1943/del-5452-1943-05-01",
+   "titulo": "Decreto-Lei nº 5.452 de 01/05/1943",
+   "tipo": "Decreto-Lei",
+   "numero": "5452",
+   "data": "1943-05-01",
+   "ementa": "Aprova a Consolidação das Leis do Trabalho.",
+   "revogada": false,
+   "apelido": "CLT",
+   "descricao": "Consolidação das Leis do Trabalho.",
+   "citada_por": 537,
+   "alterada_por": 195
+  },
+  {
+   "id": "federal/leis-ordinarias/1990/lei-8078-1990-09-11",
+   "titulo": "Lei nº 8.078 de 11/09/1990",
+   "tipo": "Lei Ordinária",
+   "numero": "8078",
+   "data": "1990-09-11",
+   "ementa": "Dispõe sobre a proteção do consumidor e dá outras providências.",
+   "revogada": false,
+   "apelido": "Código de Defesa do Consumidor",
+   "descricao": "Direitos de quem compra e deveres de quem vende.",
+   "citada_por": 75,
+   "alterada_por": 16
+  },
+  {
+   "id": "federal/leis-ordinarias/2015/lei-13105-2015-03-16",
+   "titulo": "Lei nº 13.105 de 16/03/2015",
+   "tipo": "Lei Ordinária",
+   "numero": "13105",
+   "data": "2015-03-16",
+   "ementa": "Código de Processo Civil.",
+   "revogada": false,
+   "apelido": "Código de Processo Civil",
+   "descricao": "Como tramitam os processos cíveis.",
+   "citada_por": 78,
+   "alterada_por": 19
+  },
+  {
+   "id": "federal/decretos-lei/1941/del-3689-1941-10-03",
+   "titulo": "Decreto-Lei nº 3.689 de 03/10/1941",
+   "tipo": "Decreto-Lei",
+   "numero": "3689",
+   "data": "1941-10-03",
+   "ementa": "Código de Processo Penal.",
+   "revogada": false,
+   "apelido": "Código de Processo Penal",
+   "descricao": "Investigação e processo criminal.",
+   "citada_por": 142,
+   "alterada_por": 64
+  },
+  {
+   "id": "federal/leis-ordinarias/1966/lei-5172-1966-10-25",
+   "titulo": "Lei nº 5.172 de 25/10/1966",
+   "tipo": "Lei Ordinária",
+   "numero": "5172",
+   "data": "1966-10-25",
+   "ementa": "Dispõe sobre o Sistema Tributário Nacional e institui normas gerais de direito tributário aplicáveis à União, Estados e Municípios.",
+   "revogada": false,
+   "apelido": "Código Tributário Nacional",
+   "descricao": "Regras gerais sobre tributos.",
+   "citada_por": 125,
+   "alterada_por": 16
+  },
+  {
+   "id": "federal/leis-ordinarias/1990/lei-8069-1990-07-13",
+   "titulo": "Lei nº 8.069 de 13/07/1990",
+   "tipo": "Lei Ordinária",
+   "numero": "8069",
+   "data": "1990-07-13",
+   "ementa": "Dispõe sobre o ESTATUTO DA CRIANÇA E DO ADOLESCENTE, e dá outras providências.",
+   "revogada": false,
+   "apelido": "Estatuto da Criança e do Adolescente",
+   "descricao": "Proteção integral a crianças e adolescentes.",
+   "citada_por": 101,
+   "alterada_por": 53
+  },
+  {
+   "id": "federal/leis-ordinarias/1997/lei-9503-1997-09-23",
+   "titulo": "Lei nº 9.503 de 23/09/1997",
+   "tipo": "Lei Ordinária",
+   "numero": "9503",
+   "data": "1997-09-23",
+   "ementa": "Institui o Código de Trânsito Brasileiro.",
+   "revogada": false,
+   "apelido": "Código de Trânsito Brasileiro",
+   "descricao": "Trânsito, habilitação e infrações.",
+   "citada_por": 69,
+   "alterada_por": 56
+  },
+  {
+   "id": "federal/leis-ordinarias/2018/lei-13709-2018-08-14",
+   "titulo": "Lei nº 13.709 de 14/08/2018",
+   "tipo": "Lei Ordinária",
+   "numero": "13709",
+   "data": "2018-08-14",
+   "ementa": "Lei Geral de Proteção de Dados Pessoais (LGPD).",
+   "revogada": false,
+   "apelido": "LGPD",
+   "descricao": "Lei Geral de Proteção de Dados Pessoais.",
+   "citada_por": 49,
+   "alterada_por": 6
+  },
+  {
+   "id": "federal/leis-ordinarias/2014/lei-12965-2014-04-23",
+   "titulo": "Lei nº 12.965 de 23/04/2014",
+   "tipo": "Lei Ordinária",
+   "numero": "12965",
+   "data": "2014-04-23",
+   "ementa": "Estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil.",
+   "revogada": false,
+   "apelido": "Marco Civil da Internet",
+   "descricao": "Direitos e deveres no uso da internet.",
+   "citada_por": 4,
+   "alterada_por": 1
+  },
+  {
+   "id": "federal/leis-ordinarias/2006/lei-11340-2006-08-07",
+   "titulo": "Lei nº 11.340 de 07/08/2006",
+   "tipo": "Lei Ordinária",
+   "numero": "11340",
+   "data": "2006-08-07",
+   "ementa": "Cria mecanismos para coibir a violência doméstica e familiar contra a mulher, nos termos do § 8º do art. 226 da Constituição Federal, da Convenção sobre a Eliminação de Todas as Formas de Discriminação contra as Mulhe…",
+   "revogada": false,
+   "apelido": "Lei Maria da Penha",
+   "descricao": "Combate à violência doméstica contra a mulher.",
+   "citada_por": 48,
+   "alterada_por": 26
+  },
+  {
+   "id": "federal/leis-ordinarias/2021/lei-14133-2021-04-01",
+   "titulo": "Lei nº 14.133 de 01/04/2021",
+   "tipo": "Lei Ordinária",
+   "numero": "14133",
+   "data": "2021-04-01",
+   "ementa": "Lei de Licitações e Contratos Administrativos.",
+   "revogada": false,
+   "apelido": "Nova Lei de Licitações",
+   "descricao": "Compras e contratos da administração pública.",
+   "citada_por": 27,
+   "alterada_por": 6
+  },
+  {
+   "id": "federal/leis-complementares/2000/lcp-101-2000-05-04",
+   "titulo": "Lei Complementar nº 101 de 04/05/2000",
+   "tipo": "Lei Complementar",
+   "numero": "101",
+   "data": "2000-05-04",
+   "ementa": "Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e dá outras providências.",
+   "revogada": false,
+   "apelido": "Lei de Responsabilidade Fiscal",
+   "descricao": "Limites de gasto e endividamento público.",
+   "citada_por": 229,
+   "alterada_por": 14
+  },
+  {
+   "id": "federal/decretos-lei/1942/del-4657-1942-09-04",
+   "titulo": "Decreto-Lei nº 4.657 de 04/09/1942",
+   "tipo": "Decreto-Lei",
+   "numero": "4657",
+   "data": "1942-09-04",
+   "ementa": "Lei de introdução ao Código Civil Brasileiro.",
+   "revogada": false,
+   "apelido": "LINDB",
+   "descricao": "Lei de Introdução às Normas do Direito Brasileiro.",
+   "citada_por": 18,
+   "alterada_por": 8
+  }
+ ],
+ "mais_citadas": [
+  {
+   "id": "constituicao",
+   "titulo": "Constituição da República Federativa do Brasil de 1988",
+   "tipo": "Constituição",
+   "numero": "",
+   "data": "1988-10-05",
+   "ementa": "",
+   "revogada": false,
+   "total": 1707
+  },
+  {
+   "id": "federal/decretos-lei/1943/del-5452-1943-05-01",
+   "titulo": "Decreto-Lei nº 5.452 de 01/05/1943",
+   "tipo": "Decreto-Lei",
+   "numero": "5452",
+   "data": "1943-05-01",
+   "ementa": "Aprova a Consolidação das Leis do Trabalho.",
+   "revogada": false,
+   "total": 537
+  },
+  {
+   "id": "federal/emendas-constitucionais/2001/emc-32-2001-09-11",
+   "titulo": "Emenda Constitucional nº 32 de 11/09/2001",
+   "tipo": "Emenda Constitucional",
+   "numero": "32",
+   "data": "2001-09-11",
+   "ementa": "Altera dispositivos dos arts. 48, 57, 61, 62, 64, 66, 84, 88 e 246 da Constituição Federal, e dá outras providências.",
+   "revogada": false,
+   "total": 314
+  },
+  {
+   "id": "federal/decretos-lei/1937/del-96-1937-12-22",
+   "titulo": "Decreto-Lei nº 96 de 22/12/1937",
+   "tipo": "Decreto-Lei",
+   "numero": "96",
+   "data": "1937-12-22",
+   "ementa": "Dispõe sobre a administração do Distrito Federal.",
+   "revogada": false,
+   "total": 308
+  },
+  {
+   "id": "federal/decretos-lei/1940/del-2848-1940-12-07",
+   "titulo": "Decreto-Lei nº 2.848 de 07/12/1940",
+   "tipo": "Decreto-Lei",
+   "numero": "2848",
+   "data": "1940-12-07",
+   "ementa": "Código Penal.",
+   "revogada": false,
+   "total": 306
+  },
+  {
+   "id": "federal/leis-ordinarias/1964/lei-4320-1964-03-17",
+   "titulo": "Lei nº 4.320 de 17/03/1964",
+   "tipo": "Lei Ordinária",
+   "numero": "4320",
+   "data": "1964-03-17",
+   "ementa": "Estatui Normas Gerais de Direito Financeiro para elaboração e contrôle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal.",
+   "revogada": false,
+   "total": 289
+  },
+  {
+   "id": "federal/leis-ordinarias/1970/lei-5645-1970-12-10",
+   "titulo": "Lei nº 5.645 de 10/12/1970",
+   "tipo": "Lei Ordinária",
+   "numero": "5645",
+   "data": "1970-12-10",
+   "ementa": "Estabelece diretrizes para a classificação de cargos do Serviço Civil da União e das autarquias federais, e dá outras providências.",
+   "revogada": false,
+   "total": 230
+  },
+  {
+   "id": "federal/leis-complementares/2000/lcp-101-2000-05-04",
+   "titulo": "Lei Complementar nº 101 de 04/05/2000",
+   "tipo": "Lei Complementar",
+   "numero": "101",
+   "data": "2000-05-04",
+   "ementa": "Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e dá outras providências.",
+   "revogada": false,
+   "total": 229
+  },
+  {
+   "id": "federal/leis-ordinarias/1916/lei-3071-1916-01-01",
+   "titulo": "Lei nº 3.071 de 01/01/1916",
+   "tipo": "Lei Ordinária",
+   "numero": "3071",
+   "data": "1916-01-01",
+   "ementa": "Código Civil dos Estados Unidos do Brasil.",
+   "revogada": true,
+   "total": 214
+  },
+  {
+   "id": "federal/leis-ordinarias/1990/lei-8112-1990-12-11",
+   "titulo": "Lei nº 8.112 de 11/12/1990",
+   "tipo": "Lei Ordinária",
+   "numero": "8112",
+   "data": "1990-12-11",
+   "ementa": "Dispõe sobre o Regime Jurídico dos Servidores Públicos Civis da União, das autarquias e das fundações públicas federais",
+   "revogada": false,
+   "total": 197
+  }
+ ],
+ "mais_alteradas": [
+  {
+   "id": "federal/decretos-lei/1943/del-5452-1943-05-01",
+   "titulo": "Decreto-Lei nº 5.452 de 01/05/1943",
+   "tipo": "Decreto-Lei",
+   "numero": "5452",
+   "data": "1943-05-01",
+   "ementa": "Aprova a Consolidação das Leis do Trabalho.",
+   "revogada": false,
+   "total": 195
+  },
+  {
+   "id": "constituicao",
+   "titulo": "Constituição da República Federativa do Brasil de 1988",
+   "tipo": "Constituição",
+   "numero": "",
+   "data": "1988-10-05",
+   "ementa": "",
+   "revogada": false,
+   "total": 136
+  },
+  {
+   "id": "federal/decretos-lei/1940/del-2848-1940-12-07",
+   "titulo": "Decreto-Lei nº 2.848 de 07/12/1940",
+   "tipo": "Decreto-Lei",
+   "numero": "2848",
+   "data": "1940-12-07",
+   "ementa": "Código Penal.",
+   "revogada": false,
+   "total": 109
+  },
+  {
+   "id": "federal/leis-ordinarias/1996/lei-9394-1996-12-20",
+   "titulo": "Lei nº 9.394 de 20/12/1996",
+   "tipo": "Lei Ordinária",
+   "numero": "9394",
+   "data": "1996-12-20",
+   "ementa": "Estabelece as diretrizes e bases da educação nacional.",
+   "revogada": false,
+   "total": 77
+  },
+  {
+   "id": "federal/leis-ordinarias/1991/lei-8212-1991-07-24",
+   "titulo": "Lei nº 8.212 de 24/07/1991",
+   "tipo": "Lei Ordinária",
+   "numero": "8212",
+   "data": "1991-07-24",
+   "ementa": "Dispõe sobre a organização da Seguridade Social, institui Plano de Custeio, e dá outras providências. ; ;",
+   "revogada": false,
+   "total": 76
+  },
+  {
+   "id": "federal/leis-ordinarias/1991/lei-8213-1991-07-24",
+   "titulo": "Lei nº 8.213 de 24/07/1991",
+   "tipo": "Lei Ordinária",
+   "numero": "8213",
+   "data": "1991-07-24",
+   "ementa": "Dispõe sobre os Planos de Benefícios da Previdência Social e dá outras providências.",
+   "revogada": false,
+   "total": 73
+  },
+  {
+   "id": "federal/leis-ordinarias/1973/lei-6015-1973-12-31",
+   "titulo": "Lei nº 6.015 de 31/12/1973",
+   "tipo": "Lei Ordinária",
+   "numero": "6015",
+   "data": "1973-12-31",
+   "ementa": "Dispõe sobre os registros públicos e dá outras providências.",
+   "revogada": false,
+   "total": 69
+  },
+  {
+   "id": "federal/decretos-lei/1941/del-3689-1941-10-03",
+   "titulo": "Decreto-Lei nº 3.689 de 03/10/1941",
+   "tipo": "Decreto-Lei",
+   "numero": "3689",
+   "data": "1941-10-03",
+   "ementa": "Código de Processo Penal.",
+   "revogada": false,
+   "total": 64
+  },
+  {
+   "id": "federal/leis-ordinarias/1973/lei-5869-1973-01-11",
+   "titulo": "Lei nº 5.869 de 11/01/1973",
+   "tipo": "Lei Ordinária",
+   "numero": "5869",
+   "data": "1973-01-11",
+   "ementa": "Institui o Código de Processo Civil.",
+   "revogada": true,
+   "total": 64
+  },
+  {
+   "id": "federal/leis-ordinarias/1997/lei-9503-1997-09-23",
+   "titulo": "Lei nº 9.503 de 23/09/1997",
+   "tipo": "Lei Ordinária",
+   "numero": "9503",
+   "data": "1997-09-23",
+   "ementa": "Institui o Código de Trânsito Brasileiro.",
+   "revogada": false,
+   "total": 56
+  }
+ ],
+ "recentes": [
+  {
+   "id": "federal/leis-ordinarias/2026/lei-15526-2026-09-29",
+   "titulo": "Lei nº 15.526 de 29/09/2026",
+   "tipo": "Lei Ordinária",
+   "numero": "15526",
+   "data": "2026-09-29",
+   "ementa": "Altera a Lei nº 8.171, de 17 de janeiro de 1991, a Lei nº 10.823, de 19 de dezembro de 2003, e a Lei Complementar nº 137, de 26 de agosto de 2010, para aperfeiçoar o marco legal do seguro rural.",
+   "revogada": false
+  },
+  {
+   "id": "federal/leis-ordinarias/2026/lei-15525-2026-09-28",
+   "titulo": "Lei nº 15.525 de 28/09/2026",
+   "tipo": "Lei Ordinária",
+   "numero": "15525",
+   "data": "2026-09-28",
+   "ementa": "Altera a Lei nº 7.689, de 15 de dezembro de 1988, a Lei nº 9.249, de 26 de dezembro de 1995, e a Lei nº 9.430, de 27 de dezembro de 1996, para fixar a alíquota da Contribuição Social sobre o Lucro Líquido (CSLL) das s…",
+   "revogada": false
+  },
+  {
+   "id": "federal/leis-ordinarias/2026/lei-15524-2026-09-28",
+   "titulo": "Lei nº 15.524 de 28/09/2026",
+   "tipo": "Lei Ordinária",
+   "numero": "15524",
+   "data": "2026-09-28",
+   "ementa": "Dispõe sobre a Estratégia Nacional de Controle e Avaliação da Qualidade da Assistência à Saúde prestada pela Iniciativa Privada; e altera a Lei nº 9.782, de 26 de janeiro de 1999.",
+   "revogada": false
+  },
+  {
+   "id": "federal/leis-ordinarias/2026/lei-15523-2026-09-28",
+   "titulo": "Lei nº 15.523 de 28/09/2026",
+   "tipo": "Lei Ordinária",
+   "numero": "15523",
+   "data": "2026-09-28",
+   "ementa": "Altera a Lei nº 13.756, de 12 de dezembro de 2018, para definir percentual de arrecadação da loteria de prognósticos numéricos a ser destinado ao Comitê Brasileiro de Clubes (CBC).",
+   "revogada": false
+  },
+  {
+   "id": "federal/leis-ordinarias/2026/lei-15522-2026-09-28",
+   "titulo": "Lei nº 15.522 de 28/09/2026",
+   "tipo": "Lei Ordinária",
+   "numero": "15522",
+   "data": "2026-09-28",
+   "ementa": "Dispõe sobre as diretrizes para o desenvolvimento do futebol feminino no País; e altera as Leis nºs 14.193, de 6 de agosto de 2021, 14.597, de 14 de junho de 2023 (Lei Geral do Esporte), e 15.421, de 1º de junho de 2026.",
+   "revogada": false
+  },
+  {
+   "id": "federal/leis-ordinarias/2026/lei-15521-2026-09-24",
+   "titulo": "Lei nº 15.521 de 24/09/2026",
+   "tipo": "Lei Ordinária",
+   "numero": "15521",
+   "data": "2026-09-24",
+   "ementa": "Transforma os Centros Federais de Educação Tecnológica de Minas Gerais e do Rio de Janeiro, respectivamente, na Universidade Federal de Ciência e Inovação de Minas Gerais (UFCI/MG) e na Universidade Federal de Ciência…",
+   "revogada": false
+  },
+  {
+   "id": "federal/leis-ordinarias/2026/lei-15520-2026-09-24",
+   "titulo": "Lei nº 15.520 de 24/09/2026",
+   "tipo": "Lei Ordinária",
+   "numero": "15520",
+   "data": "2026-09-24",
+   "ementa": "Cria a Universidade Federal da Fronteira Norte.",
+   "revogada": false
+  },
+  {
+   "id": "federal/leis-ordinarias/2026/lei-15519-2026-09-22",
+   "titulo": "Lei nº 15.519 de 22/09/2026",
+   "tipo": "Lei Ordinária",
+   "numero": "15519",
+   "data": "2026-09-22",
+   "ementa": "Dispõe sobre o exercício da atividade de psicopedagogia.",
+   "revogada": false
+  }
+ ]
+}
