@@ -1,0 +1,124 @@
+{
+  "explicadas": [
+    {
+      "slug": "constituicao",
+      "lei": "constituicao",
+      "nome": "Constituição Federal",
+      "sigla": "CF/1988",
+      "resumo": "A lei mais importante do país. Define os direitos de todos, como o Estado se organiza e os limites do poder.",
+      "para_quem": "Todo mundo. Nenhuma outra lei pode contrariá-la.",
+      "revisado_em": "2026-11-03",
+      "origem": "escrito à mão",
+      "ordem": 1,
+      "artigos_citados": 23
+    },
+    {
+      "slug": "clt",
+      "lei": "federal/decretos-lei/1943/del-5452-1943-05-01",
+      "nome": "CLT",
+      "sigla": "Consolidação das Leis do Trabalho",
+      "resumo": "As regras do emprego com carteira assinada: jornada, salário, férias, descanso, demissão e direitos da trabalhadora gestante.",
+      "para_quem": "Quem trabalha com carteira assinada, quem contrata e quem quer saber se a relação de trabalho é um emprego.",
+      "revisado_em": "2026-11-03",
+      "origem": "escrito à mão",
+      "ordem": 2,
+      "artigos_citados": 32
+    },
+    {
+      "slug": "cdc",
+      "lei": "federal/leis-ordinarias/1990/lei-8078-1990-09-11",
+      "nome": "Código de Defesa do Consumidor",
+      "sigla": "CDC",
+      "resumo": "Protege quem compra produtos e contrata serviços, e diz o que lojas, fabricantes e prestadores devem garantir.",
+      "para_quem": "Qualquer pessoa que compra ou contrata algo para uso próprio, e as empresas que vendem.",
+      "revisado_em": "2026-11-03",
+      "origem": "escrito à mão",
+      "ordem": 3,
+      "artigos_citados": 18
+    },
+    {
+      "slug": "inquilinato",
+      "lei": "federal/leis-ordinarias/1991/lei-8245-1991-10-18",
+      "nome": "Lei do Inquilinato",
+      "sigla": "Lei 8.245/91",
+      "resumo": "Regras do aluguel de imóveis urbanos, para casa ou comércio, com direitos e deveres de inquilino e proprietário.",
+      "para_quem": "Quem aluga um imóvel, quem coloca imóvel para alugar e imobiliárias.",
+      "revisado_em": "2026-11-03",
+      "origem": "escrito à mão",
+      "ordem": 4,
+      "artigos_citados": 20
+    },
+    {
+      "slug": "codigo-civil",
+      "lei": "federal/leis-ordinarias/2002/lei-10406-2002-01-10",
+      "nome": "Código Civil",
+      "sigla": "Lei 10.406/2002",
+      "resumo": "As regras da vida civil do nascimento à herança: contratos, dívidas, indenizações, propriedade, casamento e família.",
+      "para_quem": "Todo mundo que assina contrato, compra um imóvel, se casa, tem filhos ou recebe herança.",
+      "revisado_em": "2026-11-03",
+      "origem": "escrito à mão",
+      "ordem": 5,
+      "artigos_citados": 33
+    },
+    {
+      "slug": "eca",
+      "lei": "federal/leis-ordinarias/1990/lei-8069-1990-07-13",
+      "nome": "Estatuto da Criança e do Adolescente",
+      "sigla": "ECA",
+      "resumo": "Garante os direitos de crianças e adolescentes e diz o que família, escola, sociedade e Estado devem fazer para protegê-los.",
+      "para_quem": "Pais, responsáveis, professores, profissionais de saúde e quem convive com menores de 18 anos.",
+      "revisado_em": "2026-11-03",
+      "origem": "escrito à mão",
+      "ordem": 6,
+      "artigos_citados": 22
+    },
+    {
+      "slug": "lgpd",
+      "lei": "federal/leis-ordinarias/2018/lei-13709-2018-08-14",
+      "nome": "LGPD",
+      "sigla": "Lei Geral de Proteção de Dados",
+      "resumo": "Diz como empresas e governo podem coletar e usar dados pessoais, e quais direitos você tem sobre os seus dados.",
+      "para_quem": "Qualquer pessoa cujos dados são coletados, e toda empresa ou órgão público que lida com dados de clientes, funcionários ou cidadãos.",
+      "revisado_em": "2026-11-03",
+      "origem": "escrito à mão",
+      "ordem": 7,
+      "artigos_citados": 16
+    },
+    {
+      "slug": "ctb",
+      "lei": "federal/leis-ordinarias/1997/lei-9503-1997-09-23",
+      "nome": "Código de Trânsito Brasileiro",
+      "sigla": "CTB",
+      "resumo": "Regras para motoristas, motociclistas, ciclistas e pedestres, com as infrações, multas, pontos na CNH e crimes de trânsito.",
+      "para_quem": "Quem dirige, anda de moto ou bicicleta, transporta crianças ou atravessa a rua.",
+      "revisado_em": "2026-11-03",
+      "origem": "escrito à mão",
+      "ordem": 8,
+      "artigos_citados": 22
+    },
+    {
+      "slug": "maria-da-penha",
+      "lei": "federal/leis-ordinarias/2006/lei-11340-2006-08-07",
+      "nome": "Lei Maria da Penha",
+      "sigla": "Lei 11.340/2006",
+      "resumo": "Protege mulheres contra a violência doméstica e familiar, com medidas protetivas rápidas e punição mais dura para o agressor.",
+      "para_quem": "Mulheres em situação de violência, familiares, vizinhos, amigos e profissionais que atendem vítimas.",
+      "revisado_em": "2026-11-03",
+      "origem": "escrito à mão",
+      "ordem": 9,
+      "artigos_citados": 13
+    },
+    {
+      "slug": "estatuto-pessoa-idosa",
+      "lei": "federal/leis-ordinarias/2003/lei-10741-2003-10-01",
+      "nome": "Estatuto da Pessoa Idosa",
+      "sigla": "Lei 10.741/2003",
+      "resumo": "Direitos de quem tem 60 anos ou mais, como prioridade no atendimento, transporte gratuito, meia-entrada e proteção contra abusos.",
+      "para_quem": "Pessoas com 60 anos ou mais, suas famílias, cuidadores e quem presta serviços ao público.",
+      "revisado_em": "2026-11-03",
+      "origem": "escrito à mão",
+      "ordem": 10,
+      "artigos_citados": 15
+    }
+  ]
+}

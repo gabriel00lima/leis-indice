@@ -9,6 +9,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/estilo.css">
+<link rel="stylesheet" href="css/explicadas.css">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23053a22'/%3E%3Ctext x='32' y='45' font-family='Georgia' font-size='38' text-anchor='middle' fill='%23f2c14e'%3E%C2%A7%3C/text%3E%3C/svg%3E">
 </head>
 <body class="inicio">
@@ -17,6 +18,7 @@
     <a class="marca" href="./"><span class="selo-marca" aria-hidden="true">§</span>Leis do Brasil</a>
     <nav class="menu">
       <a href="#principais">Leis principais</a>
+      <a href="explicada.html">Lei explicada</a>
       <a href="#numeros">O acervo</a>
       <a href="grafo/">Grafo</a>
       <a href="#como-funciona">Como funciona</a>
@@ -99,7 +101,19 @@
     <div class="grade-cartoes" id="lista-principais"></div>
   </section>
 
-  <section class="faixa faixa-clara">
+  <section class="faixa faixa-clara" id="explicadas">
+    <div>
+      <header class="cabeca-secao">
+        <p class="sobretitulo-secao">Lei explicada</p>
+        <h2>As leis do dia a dia, sem juridiquês</h2>
+        <p>Resumos em linguagem simples, com link para cada artigo citado. Servem para orientar e não substituem um advogado.</p>
+      </header>
+      <div class="grade-explicadas" id="lista-explicadas"></div>
+      <p class="explicadas-mais"><a class="botao" href="explicada.html">Ver todas as leis explicadas →</a></p>
+    </div>
+  </section>
+
+  <section class="faixa">
     <div class="duas-colunas">
       <div>
         <header class="cabeca-secao">
@@ -186,6 +200,7 @@
       <h3>Projeto</h3>
       <ul>
         <li><a href="https://github.com/gabriel00lima/leis-indice">Código no GitHub</a></li>
+        <li><a href="explicada.html">Lei explicada</a></li>
         <li><a href="grafo/">Grafo de leis</a></li>
         <li><a href="https://github.com/ctresb/leis">Acervo de origem</a></li>
       </ul>
@@ -197,5 +212,6 @@
   </div>
 </footer>
 <script type="module" src="js/busca.js"></script>
+<script type="module" src="js/explicadas-inicio.js"></script>
 </body>
 </html>
