@@ -46,4 +46,4 @@ Na aba **Actions**, confira que os workflows do monitor, do índice e do deploy 
 
 ---
 
-Os nomes exatos dos segredos podem mudar conforme os PRs do monitor e do índice forem finalizados; o README de cada pasta é a referência final.
+Os nomes dos segredos do monitor acima são os definitivos; o README de cada pasta tem os detalhes.

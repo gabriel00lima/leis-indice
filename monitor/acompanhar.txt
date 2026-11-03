@@ -1,0 +1,15 @@
+# Leis acompanhadas pelo monitor.
+# Uma por linha, com o caminho do arquivo dentro de https://github.com/ctresb/leis
+# Para achar o caminho, abra a lei no GitHub e copie o trecho depois de /blob/main/
+# Linhas começando com # são ignoradas.
+
+constituicao.md                                      # Constituição Federal
+federal/leis-ordinarias/1990/lei-8078-1990-09-11.md  # Código de Defesa do Consumidor
+federal/leis-ordinarias/2002/lei-10406-2002-01-10.md # Código Civil
+federal/decretos-lei/1943/del-5452-1943-05-01.md     # CLT
+federal/decretos-lei/1940/del-2848-1940-12-07.md     # Código Penal
+federal/leis-ordinarias/2015/lei-13105-2015-03-16.md # Código de Processo Civil
+federal/decretos-lei/1941/del-3689-1941-10-03.md     # Código de Processo Penal
+federal/leis-ordinarias/1966/lei-5172-1966-10-25.md  # Código Tributário Nacional
+federal/leis-ordinarias/1990/lei-8069-1990-07-13.md  # ECA
+federal/leis-ordinarias/2018/lei-13709-2018-08-14.md # LGPD
