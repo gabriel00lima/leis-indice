@@ -1,0 +1,57 @@
+/* Jurisprudência por artigo (js/jurisprudencia.js). Usa as variáveis de tema.css. */
+
+.juris-selo {
+  display: inline-flex; align-items: center; gap: .3rem; vertical-align: .1em;
+  margin-left: .25rem; padding: .1rem .55rem .1rem .45rem;
+  border: 1px solid var(--borda); border-radius: 999px; background: var(--superficie);
+  font: 600 .72rem/1.5 var(--sans); color: var(--azul-escuro); cursor: pointer; white-space: nowrap;
+}
+.juris-selo:hover, .juris-selo[aria-expanded="true"] { border-color: var(--destaque); background: var(--destaque-fundo); color: var(--destaque); }
+.juris-selo:focus-visible { outline: 2px solid var(--destaque); outline-offset: 2px; }
+.juris-icone { font-size: .9em; color: var(--amarelo-escuro); }
+
+.juris-artigo {
+  margin: .4rem 0 1.2rem; padding: .8rem 1rem; border: 1px solid var(--borda);
+  border-left: 3px solid var(--azul); border-radius: 0 10px 10px 0; background: var(--superficie);
+  font-family: var(--sans); font-size: .9rem; line-height: 1.5;
+}
+.juris-cab { display: flex; justify-content: space-between; gap: 1rem; align-items: baseline; margin-bottom: .5rem; }
+.juris-cab strong { font-size: .8rem; text-transform: uppercase; letter-spacing: .05em; color: var(--suave); }
+.juris-cab span { font-size: .8rem; color: var(--mais-suave); font-variant-numeric: tabular-nums; }
+
+.juris-lista { list-style: none; margin: 0; padding: 0; }
+.juris-lista li { padding: .6rem 0; border-top: 1px solid var(--borda); }
+.juris-lista li:first-child { border-top: 0; padding-top: 0; }
+.juris-proc { display: flex; flex-wrap: wrap; gap: .4rem; align-items: baseline; font-weight: 600; }
+.juris-proc a { color: var(--destaque); }
+.juris-tema { font-size: .72rem; font-weight: 600; padding: 0 .45rem; border-radius: 999px; background: var(--aviso-fundo); color: var(--amarelo-escuro); }
+.juris-meta { font-size: .78rem; color: var(--suave); }
+.juris-ementa { margin: .3rem 0 0 !important; font-size: .84rem; color: var(--texto); }
+.juris-mais { border-top: 0 !important; }
+.juris-bloco .dica { margin: .4rem 0 0; }
+
+.juris-caixa .juris-numeros { display: flex; gap: 1.4rem; margin: 0 0 .8rem; }
+.juris-numeros div { display: flex; flex-direction: column; }
+.juris-numeros dd { margin: 0; font-size: 1.35rem; font-weight: 800; letter-spacing: -.02em; font-variant-numeric: tabular-nums; color: var(--azul-escuro); }
+.juris-numeros dt { font-size: .75rem; color: var(--suave); line-height: 1.3; }
+.juris-top { list-style: none; margin: .3rem 0 .8rem; padding: 0; font-size: .86rem; }
+.juris-top li { display: grid; grid-template-columns: 5.2rem 1fr auto; gap: .5rem; align-items: center; padding: .18rem 0; }
+.juris-top a { text-decoration: none; font-weight: 600; }
+.juris-barra { height: .4rem; border-radius: 999px; background: var(--superficie-2); position: relative; overflow: hidden; }
+.juris-barra::after { content: ""; position: absolute; inset: 0 auto 0 0; width: var(--p, 0%); background: var(--azul); border-radius: inherit; }
+.juris-caixa .contagem { font-size: .78rem; color: var(--suave); font-variant-numeric: tabular-nums; }
+.juris-caixa details.rel { border-top: 1px solid var(--borda); padding: .5rem 0; font-size: .86rem; }
+.juris-caixa details .juris-lista { margin-top: .5rem; font-size: .84rem; }
+
+.juris-datajud { border-top: 1px solid var(--borda); margin-top: .6rem; padding-top: .8rem; }
+.juris-datajud h3 { font-size: .75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .07em; color: var(--suave); margin: 0 0 .4rem; }
+.juris-grande { margin: 0 0 .5rem; font-size: .84rem; color: var(--suave); }
+.juris-grande strong { display: block; font-size: 1.35rem; font-weight: 800; color: var(--primaria); font-variant-numeric: tabular-nums; }
+.juris-assuntos { list-style: none; margin: 0 0 .5rem; padding: 0; font-size: .84rem; }
+.juris-assuntos li { display: flex; justify-content: space-between; gap: .8rem; padding: .2rem 0; border-top: 1px dashed var(--borda); }
+.juris-assuntos li:first-child { border-top: 0; }
+
+@media (max-width: 640px) {
+  .juris-artigo { margin-inline: -.3rem; padding: .7rem .8rem; }
+  .juris-cab { flex-direction: column; gap: 0; }
+}

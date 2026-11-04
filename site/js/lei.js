@@ -47,7 +47,7 @@ function hrefCitacao(ref) {
 
 // ---------- links cruzados no texto ----------
 
-const RE_ART_INTERNO = /\barts?\.\s*(\d+)[º°]?(?:-([A-Z]))?/g;
+const RE_ART_INTERNO = /\barts?\.\s*(\d{1,3}(?:\.\d{3})+|\d+)[º°]?(?:-([A-Z]))?/g;
 
 function linkarTexto(no, idAtual) {
   const texto = no.nodeValue;
@@ -61,7 +61,7 @@ function linkarTexto(no, idAtual) {
       const depois = trecho.slice(m.index + m[0].length, m.index + m[0].length + 80);
       const deOutra = !/^[^.;]{0,60}?\s(?:desta|deste|nesta|neste)\b/.test(depois) &&
         /^\s*(?:,[^.;]{0,50})?\s+d[aoe]s?\s+(?!presente)/.test(depois);
-      const alvo = idArtigo(m[1], m[2]);
+      const alvo = idArtigo(m[1].replace(/\./g, ""), m[2]);
       if (deOutra || !document.getElementById(alvo)) continue;
       partes.push(trecho.slice(i, m.index), el("a", { href: "#" + alvo, class: "ref-interna", texto: m[0] }));
       i = m.index + m[0].length;
@@ -105,9 +105,10 @@ function marcarArtigos(raiz) {
   for (const p of raiz.querySelectorAll("p")) {
     const forte = p.firstElementChild;
     if (!forte || forte.tagName !== "STRONG" || p.firstChild !== forte) continue;
-    const m = /^Art\.\s*(\d+)(?:[º°.])?(?:\s*-\s*([A-Z])\b)?/.exec(forte.textContent.trim());
+    // "Art. 1.022." tem ponto de milhar: o id é art-1022.
+    const m = /^Art\.\s*(\d{1,3}(?:\.\d{3})+|\d+)(?:[º°.])?(?:\s*-\s*([A-Z])\b)?/.exec(forte.textContent.trim());
     if (!m) continue;
-    const id = idArtigo(m[1], m[2]);
+    const id = idArtigo(m[1].replace(/\./g, ""), m[2]);
     if (document.getElementById(id)) continue;
     p.id = id;
     p.classList.add("artigo");
