@@ -31,7 +31,8 @@ jobs:
     # A Imprensa Nacional pode recusar (403) os IPs dos runners do GitHub. Nesse caso,
     # cadastre um runner próprio com o rótulo "dou" e crie a variável DOU_RUNNER=dou
     # (passo a passo em docs/configuracao.md).
-    runs-on: ${{ vars.DOU_RUNNER || 'ubuntu-latest' }}
+    # Em PR roda sempre no GitHub: código de PR (até de fork) nunca roda na sua máquina.
+    runs-on: ${{ github.event_name != 'pull_request' && vars.DOU_RUNNER || 'ubuntu-latest' }}
     timeout-minutes: 120
     defaults:
       run:
