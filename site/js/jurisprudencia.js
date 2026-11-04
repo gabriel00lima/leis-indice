@@ -184,8 +184,8 @@ async function iniciar() {
   const indice = await json("indice.json");
   if (!indice?.leis) return; // sem dados publicados: a página fica como está
   const texto = await esperarTexto();
-  // Com ?ref=, o lei.js troca a URL por ?id= depois de resolver.
-  const id = new URLSearchParams(location.search).get("id");
+  // Com ?ref=, o lei.js troca a URL por ?id= depois de resolver; em lei/<id>.html o id vem de <body data-lei>.
+  const id = new URLSearchParams(location.search).get("id") || document.body.dataset.lei;
   const lei = id && indice.leis[id];
   if (!lei) return;
   const [resumo, datajud] = await Promise.all([
