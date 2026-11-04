@@ -50,6 +50,7 @@
 .juris-assuntos { list-style: none; margin: 0 0 .5rem; padding: 0; font-size: .84rem; }
 .juris-assuntos li { display: flex; justify-content: space-between; gap: .8rem; padding: .2rem 0; border-top: 1px dashed var(--borda); }
 .juris-assuntos li:first-child { border-top: 0; }
+.juris-assuntos .contagem { flex: none; align-self: flex-start; white-space: nowrap; }
 
 @media (max-width: 640px) {
   .juris-artigo { margin-inline: -.3rem; padding: .7rem .8rem; }

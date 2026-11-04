@@ -367,7 +367,7 @@ def coletar_datajud(cfg: dict, saida: Path) -> None:
                     print(f"  {l['slug']}: assunto não encontrado no {tribunal.upper()}: {nome}")
                     continue
                 chaves_reais += [k for k, _ in achados]
-                assuntos.append({"nome": achados[0][0].strip(), "total": sum(n for _, n in achados)})
+                assuntos.append({"nome": re.sub(r"\s+", " ", achados[0][0]).strip(), "total": sum(n for _, n in achados)})
             if not assuntos:
                 continue
             try:

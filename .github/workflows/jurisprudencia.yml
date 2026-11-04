@@ -12,9 +12,6 @@ on:
         default: todas
   pull_request:
     paths: ["integracoes/jurisprudencia/**", ".github/workflows/jurisprudencia.yml", "site/js/jurisprudencia.js"]
-  push:
-    branches: [claude/project-thread-zpodkh]   # temporário: gera os primeiros dados no branch do PR
-    paths: ["integracoes/jurisprudencia/**", ".github/workflows/jurisprudencia.yml", "site/js/jurisprudencia.js"]
 
 permissions:
   contents: write   # commitar data/jurisprudencia/
