@@ -152,7 +152,8 @@
   // ======================= Configuração =======================
   // Bases de dados (relativas a grafo/). ?dados=<pasta> tem prioridade. Formato: site/README.md.
   const BASES = ["../data/", "../../data/", "../exemplo/"]; // ../../data/ cobre o Pages em modo "Deploy from a branch"
-  const URL_LEI = id => "../lei.html?id=" + encodeURIComponent(id);
+  const PAGINAS = (document.querySelector('meta[name="leis:paginas"]') || {}).content; // páginas lei/<id> do build
+  const URL_LEI = id => PAGINAS ? "../" + PAGINAS + id.split("/").map(encodeURIComponent).join("/") : "../lei.html?id=" + encodeURIComponent(id);
   const URL_FONTE = id => "https://github.com/ctresb/leis/blob/main/" + ((leis[id] && leis[id].path) || id + ".md");
   const POR_GRUPO_TELA = () => (innerWidth < 640 ? 6 : 10); // nós visíveis por grupo (direção × tipo) antes do "+X"
   const PASSO_EXPANDIR = 20; // quantos aparecem a mais a cada clique no "+X"

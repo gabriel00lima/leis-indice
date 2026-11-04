@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>O acervo em números · Leis do Brasil</title>
+<meta name="description" content="Quantas leis federais o Brasil tem, por tipo e por década, e quantas ligações de citação, alteração e revogação existem entre elas.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/estilo.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23053a22'/%3E%3Ctext x='32' y='45' font-family='Georgia' font-size='38' text-anchor='middle' fill='%23f2c14e'%3E%C2%A7%3C/text%3E%3C/svg%3E">
+</head>
+<body class="sobre">
+<header class="topo topo-com-menu">
+  <div class="topo-dentro">
+    <a class="marca" href="./"><span class="selo-marca" aria-hidden="true">§</span>Leis do Brasil</a>
+    <button class="menu-botao" type="button" aria-expanded="false" aria-controls="menu-principal">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path class="tracos" d="M4 7h16M4 12h16M4 17h16"/><path class="xis" d="M6 6l12 12M18 6 6 18"/></svg>
+      Menu
+    </button>
+    <nav class="menu" id="menu-principal">
+      <a href="./#principais">Leis principais</a>
+      <a href="explicada.html">Lei explicada</a>
+      <a href="sobre.html" aria-current="page">O acervo</a>
+      <a href="grafo/">Grafo</a>
+      <a href="./#como-funciona">Como funciona</a>
+      <a href="api.html">API</a>
+      <a class="menu-gh" href="https://github.com/gabriel00lima/leis-indice">GitHub</a>
+    </nav>
+  </div>
+</header>
+
+<main class="pagina-sobre">
+  <section class="faixa" id="numeros">
+    <nav class="trilha" aria-label="Você está em"><a href="./">Início</a><span>O acervo</span></nav>
+    <header class="cabeca-secao">
+      <p class="sobretitulo-secao">O acervo em números</p>
+      <h1>Mais de dois séculos de legislação</h1>
+      <p id="texto-numeros">Normas federais indexadas por tipo e por década de publicação.</p>
+    </header>
+    <dl class="numeros-sobre">
+      <div><dt>normas indexadas</dt><dd data-stat="total">—</dd></div>
+      <div><dt>marcadas como revogadas</dt><dd data-stat="revogadas">—</dd></div>
+      <div><dt>ligações entre normas</dt><dd data-stat="ligacoes">—</dd></div>
+      <div><dt>norma mais antiga</dt><dd data-stat="desde">—</dd></div>
+    </dl>
+    <h2 class="titulo-bloco">Por tipo</h2>
+    <div class="grade-tipos" id="por-tipo"></div>
+    <figure class="grafico-decadas">
+      <figcaption>Normas indexadas por década</figcaption>
+      <div class="barras" id="por-decada" role="img" aria-label="Gráfico de normas por década"></div>
+    </figure>
+    <div class="ligacoes" id="ligacoes"></div>
+    <p class="dica" id="fonte-indice"></p>
+  </section>
+</main>
+
+<footer class="rodape">
+  <div class="rodape-dentro">
+    <div>
+      <a class="marca" href="./"><span class="selo-marca" aria-hidden="true">§</span>Leis do Brasil</a>
+      <p>Textos do acervo aberto <a href="https://github.com/ctresb/leis">ctresb/leis</a>, carregados direto do GitHub. Não substitui a publicação oficial no Diário Oficial da União.</p>
+    </div>
+    <div>
+      <h3>Projeto</h3>
+      <ul>
+        <li><a href="https://github.com/gabriel00lima/leis-indice">Código no GitHub</a></li>
+        <li><a href="explicada.html">Lei explicada</a></li>
+        <li><a href="grafo/">Grafo de leis</a></li>
+        <li><a href="sobre.html">O acervo em números</a></li>
+        <li><a href="api.html">API pública (JSON)</a></li>
+        <li><a href="https://github.com/ctresb/leis">Acervo de origem</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3>Índice</h3>
+      <p id="rodape-indice" class="rodape-mudo">Carregando…</p>
+    </div>
+  </div>
+</footer>
+<script type="module" src="js/sobre.js"></script>
+<script src="js/menu.js" defer></script>
+</body>
+</html>

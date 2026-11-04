@@ -28,9 +28,10 @@ Abra `https://github.com/gabriel00lima/leis-indice/settings/secrets/actions` e c
 
 | Segredo | Para quê | Obrigatório? |
 |---|---|---|
-| `ANTHROPIC_API_KEY` | Resumos em linguagem simples das mudanças nas leis (monitor) | Só se quiser resumos por IA |
+| `ANTHROPIC_API_KEY` | Resumos em linguagem simples das mudanças nas leis (monitor) e rascunhos da "Lei explicada" | Só se quiser resumos por IA |
 | `TELEGRAM_BOT_TOKEN` | Enviar os alertas do monitor pelo Telegram | Só se quiser alertas no Telegram |
 | `TELEGRAM_CHAT_ID` | Chat ou canal que recebe os alertas | Junto com o token |
+| `DATAJUD_API_KEY` | Chave da API pública do DataJud (jurisprudência) | Não: a coleta já lê a chave pública na wiki do CNJ; só use se ela parar de funcionar |
 
 Sem esses segredos, o monitor e o índice continuam funcionando; só não há resumo por IA nem envio de mensagem.
 
@@ -40,6 +41,7 @@ Sem esses segredos, o monitor e o índice continuam funcionando; só não há re
 - **Bot do Telegram**: no Telegram, fale com `@BotFather`, envie `/newbot` e siga as instruções; ele devolve o token.
 - **Chat ID**: mande qualquer mensagem para o seu bot e abra `https://api.telegram.org/bot<TOKEN>/getUpdates`; o número em `"chat":{"id": ...}` é o chat ID. Para um canal, adicione o bot como administrador e o ID começa com `-100`.
 
+<<<<<<< HEAD
 ## 4. Diário Oficial: runner próprio (só se o site da Imprensa Nacional bloquear o GitHub)
 
 A coleta do DOU (`.github/workflows/dou.yml`) baixa os ZIPs mensais de `in.gov.br`. O site da Imprensa Nacional
@@ -57,6 +59,21 @@ como o seu computador. Uma vez por mês basta; se o computador estiver desligado
    seguintes só baixam o mês novo.
 
 Só o workflow do DOU usa esse runner; os outros continuam nos servidores do GitHub. Para desfazer, apague a variável.
+=======
+### Rascunhos da "Lei explicada" com IA (opcional)
+
+Os resumos da "Lei explicada" já estão escritos no repositório e não dependem de IA. Para pedir um rascunho novo pela aba **Actions → Lei explicada → Run workflow**, além do segredo `ANTHROPIC_API_KEY`, marque em **Settings → Actions → General** a opção **Allow GitHub Actions to create and approve pull requests**: o workflow abre um PR com o rascunho para revisão.
+
+## 4. Google Search Console (opcional, para aparecer mais rápido no Google)
+
+O site já gera `sitemap.xml`, mas num endereço `github.io/leis-indice` o Google não lê o `robots.txt` do projeto, então o sitemap precisa ser enviado à mão uma vez:
+
+1. Abra `https://search.google.com/search-console` e adicione a propriedade do tipo **Prefixo do URL** com `https://gabriel00lima.github.io/leis-indice/`.
+2. Na verificação, escolha **Tag HTML**, copie só o valor de `content="..."` e me passe (ou coloque como `<meta name="google-site-verification" content="...">` no `<head>` de `site/index.html`). Depois do deploy, clique em **Verificar**.
+3. Em **Sitemaps**, envie `sitemap.xml`.
+
+Sem isso o Google acaba achando as páginas pelos links, só que mais devagar. As prévias no WhatsApp não dependem deste passo.
+>>>>>>> origin/main
 
 ## 5. Conferir que tudo rodou
 

@@ -1,0 +1,54 @@
+name: Testes
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+    paths:
+      - "indice/**"
+      - "api/**"
+      - "integracoes/camara/**"
+      - "integracoes/dou/**"
+      - "site/build.sh"
+      - "site/js/**"
+      - ".github/workflows/testes.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  testes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Extrator do índice
+        run: python -m unittest discover -s indice/tests -v
+
+      - name: Citação ABNT (site)
+        run: node --test site/js/tests/abnt.test.mjs
+
+      - name: Coleta da Câmara
+        run: python -m unittest discover -s integracoes/camara/tests -v
+
+      - name: Versões dos artigos (site)
+        run: node --test site/js/tests/versoes.test.mjs
+
+      - name: Coleta do Diário Oficial
+        run: python -m unittest discover -s integracoes/dou/tests -v
+
+      - name: Gerador da API
+        run: python -m unittest discover -s api/tests -v
+
+      - name: Build do site com a API (dados reais de data/)
+        run: |
+          bash site/build.sh
+          test -f _site/api/v1/index.json
+          test -f _site/api/v1/normas/constituicao.json
+          test -f _site/api/v1/busca/federal.json
+          echo "Arquivos da API: $(find _site/api -type f | wc -l)"

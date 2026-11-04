@@ -1,0 +1,68 @@
+/* ================= Comparar versões de um artigo (js/comparar.js) ================= */
+
+.botao-versoes {
+  display: inline-flex; align-items: center; gap: .3rem; vertical-align: middle;
+  margin-left: .25rem; padding: .1rem .55rem; border-radius: 99px; cursor: pointer;
+  font: 600 .72rem/1.5 var(--sans); letter-spacing: .01em; white-space: nowrap;
+  color: var(--rel-altera); background: transparent;
+  border: 1px solid color-mix(in srgb, var(--rel-altera) 45%, transparent);
+}
+.botao-versoes::before { content: "⇄"; font-size: .85em; }
+.botao-versoes:hover, .botao-versoes[aria-expanded="true"] {
+  background: color-mix(in srgb, var(--rel-altera) 12%, transparent); border-color: var(--rel-altera);
+}
+
+.versoes {
+  margin: 1rem -.5rem 1.6rem; padding: 1rem 1rem 1.1rem; border-radius: var(--raio);
+  background: var(--superficie); border: 1px solid var(--borda); box-shadow: var(--sombra);
+  border-top: 3px solid var(--rel-altera); font-family: var(--sans); font-size: .92rem;
+  scroll-margin-top: 5rem;
+}
+.versoes-topo { display: flex; align-items: center; gap: .8rem; margin-bottom: .6rem; }
+.versoes-topo h3 { margin: 0; font-size: 1rem; flex: 1; color: var(--texto); }
+.versoes-fechar {
+  background: none; border: 0; cursor: pointer; font-size: 1.4rem; line-height: 1; color: var(--suave);
+  padding: 0 .2rem; border-radius: 6px;
+}
+.versoes-fechar:hover { color: var(--texto); }
+
+.versoes-lista { list-style: none; margin: 0; padding: 0 0 0 1.1rem; border-left: 2px solid var(--borda); }
+.versoes-evento { position: relative; margin: 0 0 1.1rem; }
+.versoes-evento::before {
+  content: ""; position: absolute; left: calc(-1.1rem - 6px); top: .45rem; width: 10px; height: 10px;
+  border-radius: 50%; background: var(--superficie); border: 2px solid var(--rel-altera);
+}
+.versoes-quando { display: flex; flex-wrap: wrap; align-items: baseline; gap: .5rem; margin-bottom: .45rem; }
+.versoes-data { font-weight: 700; font-variant-numeric: tabular-nums; color: var(--texto); }
+.versoes-quando a { font-weight: 600; }
+
+.versao-mudanca { border: 1px solid var(--borda); border-radius: 10px; padding: .6rem .7rem .7rem; margin-bottom: .55rem; background: var(--fundo); }
+.versao-cabeca { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem; margin-bottom: .45rem; font-size: .85rem; }
+.versao-tipo {
+  font-size: .7rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em;
+  padding: .05rem .45rem; border-radius: 99px; background: var(--superficie-2); color: var(--suave);
+}
+.tipo-alterou .versao-tipo { background: color-mix(in srgb, var(--rel-altera) 16%, transparent); color: var(--rel-altera); }
+.tipo-acrescentou .versao-tipo { background: var(--verde-fundo); color: var(--verde); }
+.tipo-revogou .versao-tipo, .tipo-vetou .versao-tipo { background: var(--alerta-fundo); color: var(--alerta); }
+.versao-vigor { font-size: .72rem; font-weight: 600; color: var(--verde); }
+.versao-vigor::before { content: "● "; font-size: .8em; }
+
+.versao-lado-a-lado { display: grid; grid-template-columns: 1fr 1fr; gap: .6rem; }
+.versao-coluna { min-width: 0; background: var(--superficie); border: 1px solid var(--borda); border-radius: 8px; padding: .5rem .65rem; }
+.versao-rotulo { font-size: .7rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--suave); margin-bottom: .3rem; }
+.lado-antes .versao-rotulo { color: var(--alerta); }
+.lado-depois .versao-rotulo { color: var(--verde); }
+.versao-texto { font-family: var(--serif); font-size: .98rem; line-height: 1.55; white-space: pre-line; overflow-wrap: anywhere; }
+.versao-texto del { background: var(--alerta-fundo); color: var(--alerta); text-decoration-thickness: 1px; border-radius: 3px; }
+.versao-texto ins { background: var(--verde-fundo); color: var(--verde); text-decoration: none; border-radius: 3px; }
+.versao-vazia { color: var(--suave); font-style: italic; font-size: .88rem; }
+.versao-obs { margin: .45rem 0 0; font-size: .78rem; color: var(--suave); }
+.versoes-nota { margin: .3rem 0 0; font-size: .78rem; color: var(--suave); }
+
+@media (max-width: 640px) {
+  .versoes { margin-inline: -.25rem; padding: .8rem .75rem; }
+  .versao-lado-a-lado { grid-template-columns: 1fr; }
+  .versoes-lista { padding-left: .8rem; }
+  .versoes-evento::before { left: calc(-.8rem - 6px); }
+}
