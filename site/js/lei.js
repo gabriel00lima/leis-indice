@@ -5,6 +5,7 @@ import {
   RAW, GITHUB, API, buscarEntrada, resolverChave, vinculos, rotuloDoId, urlLei,
   formatarData, usandoExemplo, ehExterno, numeroBR, APELIDOS,
 } from "./dados.js";
+import { citacaoABNT, rotuloArtigo } from "./abnt.js";
 
 const $ = s => document.querySelector(s);
 const params = new URLSearchParams(location.search);
@@ -101,6 +102,8 @@ function linkarTudo(raiz, idAtual) {
 
 // ---------- âncoras de artigos e sumário ----------
 
+let idPagina = null;
+
 function marcarArtigos(raiz) {
   for (const p of raiz.querySelectorAll("p")) {
     const forte = p.firstElementChild;
@@ -113,6 +116,10 @@ function marcarArtigos(raiz) {
     p.classList.add("artigo");
     const a = el("a", { href: "#" + id, class: "ancora", "aria-label": "Link para este artigo", texto: "#" });
     p.prepend(a);
+    if (idPagina) {
+      const citar = el("button", { type: "button", class: "citar-art", "data-art": id, title: "Citar este artigo (ABNT)", texto: "Citar" });
+      forte.after(" ", citar);
+    }
   }
   let n = 0;
   for (const h of raiz.querySelectorAll("h2, h3, h4, h5")) if (!h.id) h.id = "sec-" + ++n;
@@ -268,6 +275,40 @@ async function mostrarHistorico(caminho) {
   }
 }
 
+// ---------- citação ABNT ----------
+
+let infoPagina = {};
+
+async function copiarTexto(botao, texto) {
+  const antes = botao.textContent;
+  try { await navigator.clipboard.writeText(texto); botao.textContent = "Copiado"; }
+  catch { botao.textContent = "Selecione e copie"; }
+  setTimeout(() => { botao.textContent = antes; }, 1800);
+}
+
+function linhaCitacao(rotulo, valor, dica) {
+  const campo = el("p", { class: "citacao-valor", texto: valor });
+  const botao = el("button", { type: "button", class: "botao", texto: "Copiar" });
+  botao.addEventListener("click", () => copiarTexto(botao, valor));
+  return el("div", { class: "citacao-linha" },
+    el("div", { class: "citacao-rotulo" }, el("strong", { texto: rotulo }), dica ? el("span", { texto: dica }) : ""),
+    campo, botao);
+}
+
+function abrirCitacao(artigo) {
+  const c = citacaoABNT(idPagina, infoPagina, { artigo });
+  if (!c) return;
+  const link = location.href.split("#")[0] + (artigo ? "#" + artigo : "");
+  const dlg = $("#citacao");
+  const corpo = $("#citacao-corpo");
+  $("#citacao-titulo").textContent = artigo ? "Citar o " + rotuloArtigo(artigo) : "Citar esta norma";
+  corpo.replaceChildren(
+    linhaCitacao("Referência", c.referencia, "ABNT NBR 6023, para a lista de referências"),
+    linhaCitacao("Citação no texto", c.chamada, "ABNT NBR 10520, autor-data"),
+    linhaCitacao("Link direto", link, artigo ? "abre a página já no artigo" : ""));
+  dlg.showModal();
+}
+
 // ---------- página ----------
 
 function mostrarErro(titulo, detalhe) {
@@ -362,6 +403,12 @@ async function iniciar() {
     setTimeout(() => { copiar.lastChild.textContent = "Copiar link"; }, 2000);
   });
   acoes.append(copiar);
+  infoPagina = info;
+  if (citacaoABNT(id, info)) {
+    const citar = el("button", { type: "button", class: "acao" }, icone('<path d="M7 7h4v4c0 3-1.5 5-4 6M15 7h4v4c0 3-1.5 5-4 6"/>'), "Citar (ABNT)");
+    citar.addEventListener("click", () => abrirCitacao(null));
+    acoes.append(citar);
+  }
 
   // O título já está no cabeçalho; tira o "# Título" repetido do começo do texto.
   const semTitulo = corpo.replace(/^\s*#\s+[^\n]+\n/, "");
@@ -371,6 +418,7 @@ async function iniciar() {
   texto.innerHTML = html;
   for (const a of texto.querySelectorAll("a[href^='http']")) a.rel = "noopener";
 
+  idPagina = citacaoABNT(id, info) ? id : null;
   marcarArtigos(texto);
   linkarTudo(texto, id);
   montarSumario(texto);
@@ -389,6 +437,13 @@ $("#ir-art").addEventListener("submit", ev => {
   const alvo = idArtigo(m[1], m[2]);
   if (document.getElementById(alvo)) location.hash = alvo;
   else $("#art").setCustomValidity("Artigo não encontrado"), $("#art").reportValidity(), $("#art").setCustomValidity("");
+});
+$("#texto").addEventListener("click", ev => {
+  const b = ev.target.closest?.(".citar-art");
+  if (b) abrirCitacao(b.dataset.art);
+});
+$("#citacao").addEventListener("click", ev => {
+  if (ev.target === ev.currentTarget || ev.target.closest(".citacao-fechar")) ev.currentTarget.close();
 });
 window.addEventListener("hashchange", irParaAncora);
 // As páginas geradas têm <base href> apontando para a raiz do site, então um
