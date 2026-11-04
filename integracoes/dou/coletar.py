@@ -112,6 +112,11 @@ def paragrafos(texto_html: str) -> list[str]:
 # ---------------------------------------------------------------------------
 # Rede
 # ---------------------------------------------------------------------------
+class AcessoNegado(RuntimeError):
+    """A Imprensa Nacional recusou o pedido (HTTP 403). Costuma acontecer com IPs de
+    data center, como os dos runners do GitHub; ver docs/configuracao.md."""
+
+
 def abrir(url: str, tentativas: int = 4, tempo: int = 60):
     ultimo = None
     for i in range(tentativas):
@@ -121,6 +126,8 @@ def abrir(url: str, tentativas: int = 4, tempo: int = 60):
         except urllib.error.HTTPError as e:
             if e.code in (400, 404):
                 raise
+            if e.code == 403:
+                raise AcessoNegado(f"{url} respondeu 403 (acesso negado)") from e
             ultimo = e
         except OSError as e:
             ultimo = e
@@ -136,6 +143,8 @@ def links_do_mes(ano: int, mes: int) -> list[tuple[str, str]]:
     url = URL_BASE + "?" + urllib.parse.urlencode({"ano": ano, "mes": MESES[mes - 1]})
     try:
         pagina = abrir(url).read().decode("utf-8", "replace")
+    except AcessoNegado:
+        raise
     except urllib.error.HTTPError:
         return []
     padrao = re.compile(
@@ -484,9 +493,18 @@ def main(argv=None) -> int:
     p.add_argument("--desde", default=DESDE, help="primeiro mês (AAAA-MM)")
     p.add_argument("--mes", help="processar só este mês (AAAA-MM), mesmo se já processado")
     p.add_argument("--max-meses", type=int, default=MAX_MESES)
+    p.add_argument("--tolerar-bloqueio", action="store_true",
+                   help="sai com 0 (só aviso) se a Imprensa Nacional responder 403")
     p.add_argument("--zip", type=Path, nargs="+", help="processar ZIP(s) locais em vez de baixar")
     args = p.parse_args(argv)
-    return coletar(args)
+    try:
+        return coletar(args)
+    except AcessoNegado as e:
+        # Sem dados novos, mas os existentes continuam válidos: não derruba a Action
+        # todo dia. O aviso aparece no resumo da execução.
+        print(f"::warning::A Imprensa Nacional negou o acesso a partir desta máquina: {e}. "
+              "Veja docs/configuracao.md (runner próprio para o DOU).")
+        return 0 if args.tolerar_bloqueio else 3
 
 
 if __name__ == "__main__":
