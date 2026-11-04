@@ -151,8 +151,14 @@ export function urlLei(id, ancora) {
     const m = /^externo:[a-z]+-([\d.]+)(?:-(\d{4}))?/.exec(id);
     return "./?q=" + encodeURIComponent(m ? m[1] + (m[2] ? " " + m[2] : "") : id);
   }
-  return "lei.html?id=" + encodeURIComponent(id) + (ancora ? "#" + ancora : "");
+  const hash = ancora ? "#" + ancora : "";
+  // Com o build completo (site/paginas.py), cada norma tem página própria em lei/<id>,
+  // com título e prévia para buscadores e WhatsApp. Sem ele, só existe lei.html?id=.
+  if (PAGINAS) return PAGINAS + id.split("/").map(encodeURIComponent).join("/") + hash;
+  return "lei.html?id=" + encodeURIComponent(id) + hash;
 }
+
+const PAGINAS = document.querySelector('meta[name="leis:paginas"]')?.content || "";
 
 export function formatarData(d) {
   if (!d) return "";
