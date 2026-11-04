@@ -9,6 +9,7 @@ on:
       - "api/**"
       - "integracoes/camara/**"
       - "textos/**"
+      - "integracoes/senado/**"
       - "site/build.sh"
       - "site/js/**"
       - ".github/workflows/testes.yml"
@@ -42,6 +43,9 @@ jobs:
 
       - name: Versões dos artigos (site)
         run: node --test site/js/tests/versoes.test.mjs
+
+      - name: Coleta do Senado
+        run: python -m unittest discover -s integracoes/senado/tests -v
 
       - name: Gerador da API
         run: python -m unittest discover -s api/tests -v

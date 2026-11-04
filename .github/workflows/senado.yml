@@ -1,0 +1,94 @@
+name: Dados do Senado
+
+# Histórico de alterações e decisões do STF (ADI, ADC, ADPF...) de cada norma,
+# consultados na API de Dados Abertos do Senado pela URN. Coleta lenta e incremental:
+# o Senado não documenta limites, então são no máximo 1.500 consultas (~45 min) por dia.
+
+on:
+  schedule:
+    - cron: "0 10 * * *"   # 07:00 em Brasília, depois do índice (05:00)
+  workflow_dispatch:
+    inputs:
+      limite:
+        description: "Máximo de consultas nesta execução"
+        type: number
+        default: 1500
+  pull_request:
+    paths:
+      - "integracoes/senado/**"
+      - ".github/workflows/senado.yml"
+
+permissions:
+  contents: write   # commitar data/senado/
+  actions: write    # disparar o deploy do site
+
+concurrency:
+  group: senado
+  cancel-in-progress: false
+
+jobs:
+  testes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Testes do conversor
+        run: python -m unittest discover -s integracoes/senado/tests -v
+      - name: Consulta de verdade (3 normas, sem gravar no repositório)
+        if: github.event_name == 'pull_request'
+        run: |
+          python integracoes/senado/coletar.py --data data --pausa 2 --ids \
+            federal/leis-ordinarias/1997/lei-9504-1997-09-30 \
+            federal/leis-ordinarias/1990/lei-8078-1990-09-11 \
+            federal/decretos-lei/1943/del-5452-1943-05-01
+          python - <<'PY'
+          import json, pathlib
+          base = pathlib.Path("data/senado")
+          estado = json.loads((base / "estado.json").read_text())["normas"]
+          print(json.dumps(estado, ensure_ascii=False, indent=1))
+          assert all(e.get("achou", True) for e in estado.values()), "alguma URN não foi encontrada"
+          clt = json.loads((base / "normas/federal/decretos-lei/1943/del-5452-1943-05-01.json").read_text())
+          assert clt["alteracoes"] and clt["controle"], "CLT sem alterações ou decisões"
+          print(len(clt["alteracoes"]), "alterações e", len(clt["controle"]), "decisões na CLT")
+          for c in clt["controle"][:5]:
+              print(c["data"], c["nome"], [d["efeito"] for d in c["dispositivos"]][:5])
+          PY
+
+  coletar:
+    needs: testes
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Consultar o Senado
+        run: python integracoes/senado/coletar.py --data data --limite "${{ inputs.limite || 1500 }}" --tempo 2700
+
+      - name: Commitar
+        id: commit
+        run: |
+          git add data/senado/
+          if git diff --cached --quiet; then
+            echo "Nada mudou."; echo "commitou=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "senado: atualiza data/senado/ ($(jq -r '.consultadas' data/senado/estado.json) de $(jq -r '.total_indice' data/senado/estado.json) normas)"
+          for i in 1 2 3 4; do
+            git pull --rebase -q origin "${GITHUB_REF_NAME}" && git push -q && break
+            sleep $((i * 5))
+          done
+          echo "commitou=true" >> "$GITHUB_OUTPUT"
+
+      # Commits feitos com o GITHUB_TOKEN não disparam outros workflows por push.
+      - name: Disparar deploy do site
+        if: steps.commit.outputs.commitou == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-site.yml --ref "${GITHUB_REF_NAME}" || echo "deploy-site.yml não disparado"
