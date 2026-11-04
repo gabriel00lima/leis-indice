@@ -35,5 +35,14 @@ if [ -f "$raiz/data/index.json" ] && [ -f "$raiz/api/gerar.py" ] && command -v p
     || echo "::warning::API não gerada (api/gerar.py falhou)"
 fi
 
+# Busca dentro do texto das leis principais (Pagefind, um registro por artigo).
+# Baixa os textos do ctresb/leis na hora; nada é commitado. Ver textos/README.md.
+# Se falhar (sem Node, sem rede), o site sai sem essa busca e a busca por título segue igual.
+if [ -f "$saida/destaques.json" ] && [ -f "$raiz/textos/indexar.mjs" ] && command -v npm >/dev/null; then
+  { [ -d "$raiz/textos/node_modules/pagefind" ] || npm ci --prefix "$raiz/textos" --no-audit --no-fund --silent; } \
+    && node "$raiz/textos/indexar.mjs" --site "$saida" \
+    || echo "::warning::Busca no texto não gerada (textos/indexar.mjs falhou)"
+fi
+
 touch "$saida/.nojekyll"
 echo "Site gerado em $saida"

@@ -2,6 +2,7 @@ import {
   manifesto, listaShards, carregarTudo, usandoExemplo, urlLei, formatarData, normalizarTexto,
   destaques, numeroBR, APELIDOS,
 } from "./dados.js";
+import { buscarNoTexto } from "./busca-texto.js";
 
 const $ = s => document.querySelector(s);
 const form = $("#form"), q = $("#q"), tipoSel = $("#tipo"), sit = $("#sit"), ordem = $("#ordem");
@@ -235,6 +236,7 @@ async function buscar() {
   if (!filtrando) return;
 
   $("#titulo-resultados").textContent = texto ? `Resultados para “${texto}”` : (tipoSel.value ? plural(tipoSel.value) : "Normas");
+  buscarNoTexto(texto, lista, { ocultar: sit.value === "revogada" });
   try { await garantirIndice(); }
   catch (err) { status.textContent = "Não foi possível carregar o índice: " + err.message; return; }
 
@@ -255,7 +257,7 @@ async function buscar() {
   const n = achados.length;
   status.textContent = n
     ? `${numeroBR(n)} ${n === 1 ? "norma encontrada" : "normas encontradas"} em ${numeroBR(entradas.length)}`
-    : "Nenhuma norma encontrada. Tente o número sem pontos (ex.: 8078) ou outra palavra.";
+    : "Nenhuma norma com isso no título ou na ementa. Tente o número sem pontos (ex.: 8078) ou outra palavra.";
   lista.replaceChildren();
   mostrados = 0;
   mostrarMais();

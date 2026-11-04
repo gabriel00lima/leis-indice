@@ -1,11 +1,13 @@
 import { marked } from "../vendor/marked.esm.js";
 import DOMPurify from "../vendor/purify.es.mjs";
+import { prepararComparacao } from "./comparar.js";
 import { regexCitacao, interpretar, citacoes, chave, ID_CONSTITUICAO } from "./citacoes.js";
 import {
   RAW, GITHUB, API, buscarEntrada, resolverChave, vinculos, rotuloDoId, urlLei,
   formatarData, usandoExemplo, ehExterno, numeroBR, APELIDOS,
 } from "./dados.js";
 import { citacaoABNT, rotuloArtigo } from "./abnt.js";
+import { textoNormasLeg, linkarArtigos, urlNormas } from "./normas-leg.js";
 
 const $ = s => document.querySelector(s);
 const params = new URLSearchParams(location.search);
@@ -361,13 +363,35 @@ async function iniciar() {
     location.replace(urlLei(id) + location.hash);
     return;
   }
+  // Sem o arquivo do ctresb/leis, tenta o texto guardado do normas.leg.br (data/normas-leg/).
+  let alternativo = null;
   if (!resposta || !resposta.ok) {
-    mostrarErro("Lei não encontrada",
-      `O arquivo ${caminho} não existe no acervo ctresb/leis (ou o GitHub não respondeu).`);
-    return;
+    alternativo = entrada ? await textoNormasLeg(id).catch(() => null) : null;
+    if (!alternativo) {
+      mostrarErro("Lei não encontrada",
+        `O arquivo ${caminho} não existe no acervo ctresb/leis (ou o GitHub não respondeu).`);
+      const link = urlNormas(entrada?.urn);
+      if (link) $("#texto").append(el("p", {}, el("a", { href: link, rel: "noopener", texto: "Ver esta norma no normas.leg.br" })));
+      return;
+    }
   }
-  const [fm, corpo] = lerFrontmatter(await resposta.text());
+  let [fm, corpo] = alternativo ? [{}, alternativo.texto_md] : lerFrontmatter(await resposta.text());
   const info = { ...(entrada || {}), ...fm };
+  // Alguns arquivos do acervo trazem só a retificação ou "<<ANEXO>>", sem nenhum artigo
+  // (comum em decretos). Aí usa o texto do normas.leg.br, se houver, ou avisa.
+  let avisoTexto = null;
+  const linkNormas = info.fonte || urlNormas(info.urn);
+  if (alternativo) {
+    avisoTexto = "O acervo ctresb/leis não respondeu. Este é o texto do normas.leg.br, montado artigo por artigo.";
+  } else if (corpo.length < 1500 && !/\bArt\b|\bArt\.|\bArtigo\b/i.test(corpo.replace(/^\s*#\s+[^\n]+\n/, ""))) {
+    alternativo = await textoNormasLeg(id).catch(() => null);
+    if (alternativo) {
+      corpo = alternativo.texto_md;
+      avisoTexto = "O acervo ctresb/leis não traz o texto desta norma. Este é o texto do normas.leg.br, montado artigo por artigo.";
+    } else {
+      avisoTexto = "O acervo traz só este trecho (retificação, anexo ou republicação), sem o texto completo da norma.";
+    }
+  }
   if (id === ID_CONSTITUICAO && !info.titulo) {
     info.titulo = "Constituição da República Federativa do Brasil de 1988";
     info.tipo = "Constituição"; info.data = "1988-10-05";
@@ -393,7 +417,7 @@ async function iniciar() {
   const acoes = $("#acoes");
   const icone = d => { const s = document.createElementNS("http://www.w3.org/2000/svg", "svg"); s.setAttribute("viewBox", "0 0 24 24"); s.setAttribute("aria-hidden", "true"); s.innerHTML = d; return s; };
   const acao = (href, texto, d) => el("a", { href, class: "acao" }, icone(d), texto);
-  if (info.fonte) acoes.append(acao(info.fonte, "Fonte oficial", '<path d="M4 4h16v16H4z"/><path d="M8 9h8M8 13h8M8 17h5"/>'));
+  if (linkNormas) acoes.append(acao(linkNormas, "Fonte oficial", '<path d="M4 4h16v16H4z"/><path d="M8 9h8M8 13h8M8 17h5"/>'));
   acoes.append(acao(`${GITHUB}/blob/main/${caminho}`, "Ver no GitHub", '<path d="M8 4 3 12l5 8M16 4l5 8-5 8"/>'));
   acoes.append(acao(`${GITHUB}/commits/main/${caminho}`, "Histórico", '<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>'));
   acoes.append(acao("grafo/?id=" + encodeURIComponent(id), "Grafo", '<circle cx="5" cy="12" r="2.5"/><circle cx="19" cy="5" r="2.5"/><circle cx="19" cy="19" r="2.5"/><path d="M7.3 11 16.7 6M7.3 13l9.4 5"/>'));
@@ -418,12 +442,19 @@ async function iniciar() {
   $("#carregando-texto").hidden = true;
   texto.innerHTML = html;
   for (const a of texto.querySelectorAll("a[href^='http']")) a.rel = "noopener";
+  if (avisoTexto) {
+    const aviso = el("p", { class: "aviso-fonte", texto: avisoTexto + " " });
+    if (linkNormas) aviso.append(el("a", { href: linkNormas, rel: "noopener", texto: "Ver no normas.leg.br" }));
+    texto.prepend(aviso);
+  }
 
   idPagina = citacaoABNT(id, info) ? id : null;
   marcarArtigos(texto);
   linkarTudo(texto, id);
+  linkarArtigos(texto, id).catch(() => {});
   montarSumario(texto);
   mostrarAlteracoes(coletarAlteracoes(texto, id));
+  prepararComparacao({ raiz: texto, id, corpo, info }).catch(() => {});
   irParaAncora();
 
   mostrarVinculos(id).then(mostrarContadores);

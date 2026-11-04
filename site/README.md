@@ -12,6 +12,7 @@ O site **não copia os textos**: cada página de lei baixa o `.md` direto de `ra
 | `lei.html?id=<id>` | Texto da norma com sumário, âncoras por artigo (`#art-5`, `#art-11-a`), links cruzados, relações (de `links.json`), alterações anotadas no texto e histórico de commits do arquivo. |
 | `lei.html?ref=<prefixo>:<número>:<ano>` | Resolve uma citação sem data completa (ex. `lei:8078:1990`) pelo índice e redireciona para a norma. |
 | `lei/<id>` | Mesma página da lei, pré-gerada no build por `site/paginas.py` (ver "Páginas para buscadores e prévias"). É o endereço que o site usa nos links quando existe. |
+| `pagefind/` | Índice de busca no texto das leis principais, gerado no build por `textos/indexar.mjs` (ver `textos/README.md`). A busca da página inicial mostra os artigos encontrados em "Dentro do texto das leis". |
 | `grafo/?id=<id>` | Visualização do grafo (mantida em `site/grafo/`). |
 | `explicada.html` | "Lei explicada": lista dos resumos em linguagem simples. Com `?lei=<slug>` (ex. `?lei=cdc`), mostra o resumo completo. |
 
@@ -36,6 +37,26 @@ Resumos em linguagem simples das leis mais usadas, em `explicadas/<slug>.md`. Ca
 - Depois de criar ou editar um resumo, rode `python3 scripts/explicadas.py`: ele confere o cabeçalho, baixa o texto de cada lei e verifica se todos os artigos citados existem, e regenera `explicadas/index.json`. O workflow `explicadas.yml` roda a mesma conferência em cada PR.
 - Rascunho com IA (opcional): `python3 scripts/explicadas_ia.py --slug <slug> [--lei <id> --nome <nome>]` com `ANTHROPIC_API_KEY`, ou pela aba Actions (workflow "Lei explicada" → Run workflow), que abre um PR. O arquivo sai com `origem: gerado com IA` e o site avisa o leitor; revise antes do merge.
 - Os resumos não são aconselhamento jurídico; o aviso aparece em todas as páginas que os exibem.
+
+## Comparar versões de um artigo
+
+Cada artigo alterado ganha o botão **Comparar versões**. Ele abre, abaixo do artigo, uma linha do tempo com cada
+lei que mexeu nele e, para cada dispositivo (caput, parágrafo, inciso, alínea), a redação de antes e a de depois
+lado a lado, com as palavras que saíram e entraram marcadas. O endereço `#versoes-art-39` abre a comparação direto.
+
+O acervo guarda só o texto em vigor (o histórico git de cada arquivo não tem as redações antigas), então as versões
+são reconstruídas no navegador, sem dados pré-gerados:
+
+1. Leis candidatas: as citadas nas notas "*(Redação dada pela Lei nº …)*" do artigo e as ligações `alterada_por` e
+   `revogada_por` da API (`api/v1/normas/<id>.json`) cujos `dispositivos` incluem o artigo.
+2. O `.md` de cada uma é baixado do acervo e `js/versoes.js` lê os comandos ("O art. 39 da Lei nº 8.078 … passa a
+   vigorar acrescido do seguinte inciso:") e o texto entre aspas que vem depois.
+3. Na Constituição, a redação original de 1988 vem de `fonte/constituicao.htm` do acervo (compilado do Planalto,
+   que mantém as redações antigas tachadas).
+4. Quando a lei alteradora não está no acervo ou não traz a redação, a nota do texto em vigor ainda indica o que ela
+   mudou; a coluna "antes" fica em branco quando nenhuma fonte tem a redação anterior.
+
+Testes: `node --test site/js/tests/versoes.test.mjs` (rodam no workflow `testes.yml`).
 
 ## Dados que o site lê
 
