@@ -31,6 +31,7 @@ Abra `https://github.com/gabriel00lima/leis-indice/settings/secrets/actions` e c
 | `ANTHROPIC_API_KEY` | Resumos em linguagem simples das mudanças nas leis (monitor) e rascunhos da "Lei explicada" | Só se quiser resumos por IA |
 | `TELEGRAM_BOT_TOKEN` | Enviar os alertas do monitor pelo Telegram | Só se quiser alertas no Telegram |
 | `TELEGRAM_CHAT_ID` | Chat ou canal que recebe os alertas | Junto com o token |
+| `DATAJUD_API_KEY` | Chave da API pública do DataJud (jurisprudência) | Não: a coleta já lê a chave pública na wiki do CNJ; só use se ela parar de funcionar |
 
 Sem esses segredos, o monitor e o índice continuam funcionando; só não há resumo por IA nem envio de mensagem.
 

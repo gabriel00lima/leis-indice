@@ -1,0 +1,85 @@
+name: Jurisprudência
+
+on:
+  schedule:
+    - cron: "30 7 * * 1"   # segunda, 04:30 (Brasília). O STJ publica os espelhos uma vez por mês.
+  workflow_dispatch:
+    inputs:
+      fonte:
+        description: "Qual fonte atualizar"
+        type: choice
+        options: [todas, stj, datajud]
+        default: todas
+  pull_request:
+    paths: ["integracoes/jurisprudencia/**", ".github/workflows/jurisprudencia.yml", "site/js/jurisprudencia.js"]
+
+permissions:
+  contents: write   # commitar data/jurisprudencia/
+  actions: write    # disparar o deploy do site
+
+concurrency:
+  group: jurisprudencia-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  testes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python -m unittest discover -s integracoes/jurisprudencia/tests -v
+      - name: Sintaxe do script do site
+        run: node --check site/js/jurisprudencia.js
+
+  coletar:
+    needs: testes
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+
+      # Extratos compactos de cada arquivo mensal do STJ: só baixa de novo o que mudou.
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/juris-stj
+          key: juris-stj-${{ github.run_id }}
+          restore-keys: juris-stj-
+
+      - name: STJ (espelhos de acórdãos)
+        if: inputs.fonte != 'datajud'
+        run: python integracoes/jurisprudencia/coletar.py stj --saida data/jurisprudencia
+
+      - name: DataJud (CNJ)
+        if: inputs.fonte != 'stj'
+        continue-on-error: true   # API instável; mantém os números anteriores
+        env:
+          DATAJUD_API_KEY: ${{ secrets.DATAJUD_API_KEY }}   # opcional; sem ele lê a chave pública da wiki
+        run: python integracoes/jurisprudencia/coletar.py datajud --saida data/jurisprudencia
+
+      - name: Commitar
+        id: commit
+        run: |
+          python integracoes/jurisprudencia/coletar.py indice --saida data/jurisprudencia
+          git add data/jurisprudencia/
+          if git diff --cached --quiet; then
+            echo "Nada mudou."; echo "commitou=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "jurisprudência: atualiza data/jurisprudencia/"
+          for i in 1 2 3 4; do
+            git pull --rebase -q origin "${GITHUB_REF_NAME}" && git push -q && break
+            sleep $((i * 5))
+          done
+          echo "commitou=true" >> "$GITHUB_OUTPUT"
+
+      - name: Disparar deploy do site
+        if: steps.commit.outputs.commitou == 'true' && github.ref_name == 'main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-site.yml --ref main || echo "deploy-site.yml não disparado"
