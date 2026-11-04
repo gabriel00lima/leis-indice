@@ -47,7 +47,8 @@ function itemProjeto(p, comRelacao) {
 
 async function idDaPagina() {
   const params = new URLSearchParams(location.search);
-  const id = params.get("id");
+  // Nas páginas geradas (lei/<id>.html, site/paginas.py) o id vem no <body data-lei>.
+  const id = params.get("id") || document.body.dataset.lei;
   if (id) return id;
   const ref = params.get("ref");
   return ref ? resolverChave(ref).catch(() => null) : null;
