@@ -193,6 +193,9 @@ def pagina_da_lei(modelo, e, url_site, imagens, apelidos):
 
     doc = modelo
     doc = trocar_titulo(doc, titulo_pag)
+    # Feed RSS da norma (site/feeds.py): leitores de RSS acham sozinhos pelo endereço da página.
+    bloco += (f'\n<link rel="alternate" type="application/rss+xml" title="{esc(titulo_og)}: alterações" '
+              f'href="{esc(url_site)}feed/{esc(id_)}.xml">')
     doc = inserir_no_head(doc, f'<base href="{base}">\n{bloco}')
     doc = re.sub(r"<body([^>]*)>", lambda m: f'<body{m.group(1)} data-lei="{esc(id_)}">', doc, count=1)
     doc = re.sub(r'(<h1 id="titulo">)[^<]*(</h1>)', lambda m: m.group(1) + esc(apelido or nome) + m.group(2), doc, count=1)

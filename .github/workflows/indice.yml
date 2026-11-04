@@ -48,6 +48,13 @@ jobs:
           python indice/construir.py --fonte "$RUNNER_TEMP/leis" --saida data \
             ${{ inputs.completo && '--completo' || '' }}
 
+      # Compara o cache novo com o do último commit e anota em data/novidades.json
+      # as normas novas e as mudanças de texto (artigo por artigo). É a base dos
+      # feeds RSS por lei do botão "Seguir". Se falhar, o índice sai mesmo assim.
+      - name: Registrar novidades
+        continue-on-error: true
+        run: python indice/novidades.py --fonte "$RUNNER_TEMP/leis" --data data
+
       - name: Commitar
         id: commit
         run: |

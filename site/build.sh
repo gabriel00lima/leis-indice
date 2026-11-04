@@ -10,7 +10,7 @@ saida="$raiz/_site"
 rm -rf -- "${saida:?}"
 mkdir -p "$saida"
 cp -R "$raiz/site/." "$saida/"
-rm -f "$saida/build.sh" "$saida/README.md" "$saida/destaques.py" "$saida/paginas.py"
+rm -f "$saida/build.sh" "$saida/README.md" "$saida/destaques.py" "$saida/paginas.py" "$saida/feeds.py"
 
 if [ -d "$raiz/data" ]; then
   mkdir -p "$saida/data"
@@ -26,6 +26,13 @@ fi
 # buscadores e WhatsApp, mais sitemap.xml, robots.txt e 404.html.
 if [ -f "$raiz/data/index.json" ] && command -v python3 >/dev/null; then
   python3 "$raiz/site/paginas.py" --site "$saida"
+fi
+
+# Um feed RSS por norma (feed/<id>.xml) e o geral (feed/novidades.xml): é o que
+# o botão "Seguir" da página da lei entrega. Ver site/feeds.py.
+if [ -f "$raiz/data/index.json" ] && command -v python3 >/dev/null; then
+  python3 "$raiz/site/feeds.py" --site "$saida" --monitor "$raiz/monitor/novidades.json" \
+    || echo "::warning::feeds RSS não gerados (site/feeds.py falhou)"
 fi
 
 # API pública em JSON estático (_site/api/v1/), derivada de data/. Ver api/README.md.

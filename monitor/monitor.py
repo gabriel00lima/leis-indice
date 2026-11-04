@@ -27,6 +27,9 @@ RAW = "https://raw.githubusercontent.com"
 AQUI = Path(__file__).resolve().parent
 LISTA = AQUI / "acompanhar.txt"
 ESTADO = AQUI / "estado.json"
+# Avisos já publicados, lidos pelo feed RSS de cada lei (site/feeds.py).
+NOVIDADES = AQUI / "novidades.json"
+MAX_NOVIDADES = 500
 MODELO = "claude-opus-5-5"
 LIMITE_DIFF = 60_000  # caracteres de diff enviados ao resumo
 
@@ -248,6 +251,22 @@ def montar_relatorio(caminho: str, sha_a: str, sha_n: str, commits: list[dict],
     return f"Mudança: {titulo_lei}", corpo, resumo
 
 
+def registrar_novidade(caminho: str, titulo: str, resumo: str, issue: str | None) -> None:
+    """Guarda o aviso em monitor/novidades.json (mais novo primeiro)."""
+    import datetime as dt
+    try:
+        lista = json.loads(NOVIDADES.read_text(encoding="utf-8"))
+    except (FileNotFoundError, json.JSONDecodeError):
+        lista = []
+    item = {"em": dt.date.today().isoformat(), "id": caminho.removesuffix(".md"),
+            "titulo": titulo, "resumo": resumo}
+    if issue:
+        item["issue"] = issue
+    lista.insert(0, item)
+    NOVIDADES.write_text(json.dumps(lista[:MAX_NOVIDADES], ensure_ascii=False, indent=1) + "\n",
+                         encoding="utf-8")
+
+
 def verificar(caminho: str, visto: str | None, *, abrir: bool) -> str | None:
     commits = commits_do_arquivo(caminho)
     if not commits:
@@ -273,6 +292,7 @@ def verificar(caminho: str, visto: str | None, *, abrir: bool) -> str | None:
         url = abrir_issue(titulo, corpo)
         print(f"  issue: {url}")
         avisar_telegram(f"{titulo}\n\n{resumo}\n\n{url}")
+        registrar_novidade(caminho, titulo, resumo, url)
     else:
         print(f"\n--- {titulo} ---\n{corpo}\n")
     return mais_novo

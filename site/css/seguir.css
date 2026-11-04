@@ -1,0 +1,39 @@
+/* Botão "Seguir" e o diálogo com o feed RSS da lei (js/seguir.js). */
+.acao-seguir { border-color: var(--primaria); color: var(--primaria); font-weight: 600; }
+.acao-seguir:hover { background: var(--verde-fundo); border-color: var(--primaria); color: var(--primaria); }
+
+.seguir-dialogo {
+  width: min(34rem, calc(100vw - 2rem)); max-height: calc(100vh - 2rem); overflow: auto;
+  padding: 1.5rem; border: 1px solid var(--borda); border-radius: var(--raio);
+  background: var(--superficie); color: var(--texto); box-shadow: var(--sombra-forte);
+  font-family: var(--sans);
+}
+.seguir-dialogo::backdrop { background: rgb(10 20 15 / .45); }
+.seguir-dialogo h2 { margin: 0 2rem .4rem 0; font-family: var(--serif); font-size: 1.4rem; }
+.seguir-dialogo h3 { margin: 1.3rem 0 .4rem; font-size: .95rem; }
+.seguir-intro { margin: 0 0 1rem; color: var(--suave); }
+.seguir-fechar {
+  position: absolute; top: .7rem; right: .8rem; width: 2rem; height: 2rem; border: 0; border-radius: 50%;
+  background: none; color: var(--suave); font-size: 1.5rem; line-height: 1; cursor: pointer;
+}
+.seguir-fechar:hover { background: var(--fundo); color: var(--texto); }
+.seguir-campo { display: flex; gap: .5rem; }
+.seguir-campo input {
+  flex: 1; min-width: 0; padding: .55rem .7rem; border: 1px solid var(--borda); border-radius: 8px;
+  background: var(--fundo); color: var(--texto); font: .85rem ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+.seguir-copiar { margin: 0; padding: .55rem .9rem; border: 0; border-radius: 8px; cursor: pointer; font-weight: 600; white-space: nowrap; }
+.seguir-modos { margin: 1.1rem 0 0; display: grid; grid-template-columns: auto 1fr; gap: .45rem 1rem; font-size: .9rem; }
+.seguir-modos dt { font-weight: 600; }
+.seguir-modos dd { margin: 0; color: var(--suave); }
+.seguir-ultimas { list-style: none; margin: 0; padding: 0; font-size: .9rem; }
+.seguir-ultimas li { display: flex; justify-content: space-between; gap: 1rem; padding: .45rem 0; border-top: 1px solid var(--borda); }
+.seguir-ultimas span { color: var(--suave); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.seguir-vazio, .seguir-geral { margin: .3rem 0 0; font-size: .9rem; color: var(--suave); }
+.seguir-geral { margin-top: 1rem; }
+
+@media (max-width: 30rem) {
+  .seguir-modos { grid-template-columns: 1fr; gap: .15rem; }
+  .seguir-modos dd { margin-bottom: .5rem; }
+  .seguir-campo { flex-direction: column; }
+}
