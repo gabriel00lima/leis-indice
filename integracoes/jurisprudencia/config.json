@@ -1,0 +1,70 @@
+{
+  "_doc": "Normas acompanhadas e parâmetros das fontes. Formato explicado no README.md desta pasta.",
+  "stj": {
+    "ckan": "https://dadosabertos.web.stj.jus.br/api/3/action/",
+    "prefixo_pacotes": "espelhos-de-acordaos-",
+    "decisoes_por_artigo": 5,
+    "tamanho_ementa": 260
+  },
+  "datajud": {
+    "url": "https://api-publica.datajud.cnj.jus.br/api_publica_{tribunal}/_search",
+    "pagina_da_chave": "https://datajud-wiki.cnj.jus.br/api-publica/acesso",
+    "chave_reserva": "cDZHYzlZa0JadVREZDJCendQbXY6SkJlTzNjLV9TRENyQk1RdnFKZGRQdw=="
+  },
+  "leis": [
+    {
+      "id": "constituicao", "slug": "cf", "nome": "Constituição Federal",
+      "stj": "CFB:****** ANO:1988"
+    },
+    {
+      "id": "federal/leis-ordinarias/2002/lei-10406-2002-01-10", "slug": "cc", "nome": "Código Civil",
+      "stj": "LEI:010406 ANO:2002",
+      "datajud": { "tribunal": "stj", "assuntos": [
+        "Indenização por Dano Moral", "Indenização por Dano Material", "Promessa de Compra e Venda",
+        "Compra e Venda", "Alienação Fiduciária", "Obrigação de Fazer / Não Fazer", "Seguro",
+        "Locação de Imóvel", "Alimentos", "Inventário e Partilha", "Usucapião Extraordinária",
+        "Responsabilidade Civil", "Posse", "Esbulho / Turbação / Ameaça", "Condomínio"
+      ] }
+    },
+    {
+      "id": "federal/leis-ordinarias/2015/lei-13105-2015-03-16", "slug": "cpc", "nome": "Código de Processo Civil",
+      "stj": "LEI:013105 ANO:2015",
+      "datajud": { "tribunal": "stj", "assuntos": [
+        "Efeito Suspensivo / Impugnação / Embargos à Execução", "Liquidação / Cumprimento / Execução",
+        "Honorários Advocatícios", "Assistência Judiciária Gratuita", "Tutela de Urgência",
+        "Antecipação de Tutela / Tutela Específica", "Penhora / Depósito/ Avaliação",
+        "Multa Cominatória / Astreintes", "Competência", "Prescrição e Decadência",
+        "Valor da Causa", "Litigância de Má-Fé", "Custas", "Citação"
+      ] }
+    },
+    {
+      "id": "federal/leis-ordinarias/1990/lei-8078-1990-09-11", "slug": "cdc", "nome": "Código de Defesa do Consumidor",
+      "stj": "LEI:008078 ANO:1990",
+      "datajud": { "tribunal": "stj", "assuntos": [
+        "Contratos Bancários", "Bancários", "Planos de Saúde", "Seguro", "Prestação de Serviços",
+        "Responsabilidade do Fornecedor", "Práticas Abusivas", "Cláusulas Abusivas",
+        "Fornecimento de Energia Elétrica", "Fornecimento de Água", "Telefonia", "Transporte Aéreo",
+        "Cartão de Crédito", "Inclusão Indevida em Cadastro de Inadimplentes", "Interpretação / Revisão de Contrato"
+      ] }
+    },
+    {
+      "id": "federal/decretos-lei/1943/del-5452-1943-05-01", "slug": "clt", "nome": "CLT",
+      "stj": "DEL:005452 ANO:1943",
+      "datajud": { "tribunal": "tst", "assuntos": [
+        "Horas Extras", "Adicional de Insalubridade", "Adicional de Periculosidade", "Intervalo Intrajornada",
+        "Rescisão Indireta", "Verbas Rescisórias", "Multa do Artigo 477 da CLT", "Multa do Artigo 467 da CLT",
+        "Reconhecimento de Relação de Emprego", "Justa Causa / Falta Grave", "Indenização por Dano Moral",
+        "FGTS", "Honorários na Justiça do Trabalho", "Responsabilidade Solidária / Subsidiária", "Equiparação Salarial"
+      ] }
+    },
+    {
+      "id": "federal/decretos-lei/1940/del-2848-1940-12-07", "slug": "cp", "nome": "Código Penal",
+      "stj": "DEL:002848 ANO:1940",
+      "datajud": { "tribunal": "stj", "assuntos": [
+        "Homicídio Qualificado", "Roubo Majorado", "Furto Qualificado", "Receptação", "Crime Tentado",
+        "Pena Privativa de Liberdade", "Roubo", "Furto", "Estelionato", "Estupro de vulnerável",
+        "Homicídio Simples", "Extorsão", "Lesão Corporal", "Dosimetria da Pena", "Regime inicial"
+      ] }
+    }
+  ]
+}
