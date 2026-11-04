@@ -1,0 +1,94 @@
+/* Página "Publicado no Diário Oficial". Cores e fontes de ../css/tema.css. */
+.menu a[aria-current="page"] { color: var(--texto); font-weight: 600; }
+
+.dou-cabeca {
+  color: #fff; position: relative; overflow: hidden;
+  background:
+    radial-gradient(40rem 22rem at 105% -20%, rgb(242 193 46 / .16), transparent 60%),
+    linear-gradient(180deg, var(--br-verde-950), var(--inst-900) 60%, var(--inst-800));
+}
+.dou-cabeca-dentro { max-width: 76rem; margin: 0 auto; padding: 3rem 1rem 2.2rem; }
+.dou-cabeca h1 { font-family: var(--serif); font-weight: 600; font-size: clamp(1.9rem, 4.4vw, 3rem); margin: 0 0 .7rem; letter-spacing: -.02em; }
+.dou-cabeca .lead { margin-bottom: 1.6rem; }
+.dou-numeros {
+  display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; margin: 0;
+  background: rgb(255 255 255 / .12); border: 1px solid rgb(255 255 255 / .12); border-radius: var(--raio); overflow: hidden;
+}
+.dou-numeros div { background: rgb(3 38 22 / .5); padding: .9rem 1.1rem; display: flex; flex-direction: column-reverse; }
+.dou-numeros dt { font-size: .8rem; color: rgb(255 255 255 / .6); }
+.dou-numeros dd { margin: 0; font-size: 1.45rem; font-weight: 700; letter-spacing: -.02em; font-variant-numeric: tabular-nums; }
+
+.dou-pagina { max-width: 76rem; margin: 0 auto; padding: 1.6rem 1rem 3rem; display: grid; grid-template-columns: minmax(0, 1fr) 22rem; gap: 1.6rem; align-items: start; }
+.dou-lateral { position: sticky; top: 5rem; }
+
+.dou-filtros { background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio); padding: .9rem 1rem; margin-bottom: 1rem; box-shadow: var(--sombra); }
+.dou-tipos { display: flex; flex-wrap: wrap; gap: .4rem; margin-bottom: .8rem; }
+.dou-tipos button {
+  cursor: pointer; border: 1px solid var(--borda); background: var(--superficie); color: var(--suave);
+  font-size: .84rem; font-weight: 600; padding: .3rem .8rem; border-radius: 99px;
+}
+.dou-tipos button span { font-weight: 500; color: var(--mais-suave); margin-left: .25rem; font-variant-numeric: tabular-nums; }
+.dou-tipos button[aria-pressed="true"] { background: var(--inst-800); border-color: var(--inst-800); color: #fff; }
+.dou-tipos button[aria-pressed="true"] span { color: rgb(255 255 255 / .7); }
+.dou-filtros-linha { display: flex; flex-wrap: wrap; gap: .6rem 1.2rem; align-items: center; font-size: .88rem; color: var(--suave); }
+.dou-filtros-linha label { display: inline-flex; align-items: center; gap: .45rem; }
+.dou-q { flex: 1; min-width: 12rem; }
+.dou-q input { flex: 1; min-width: 0; }
+.dou-check input { width: 1rem; height: 1rem; accent-color: var(--primaria); }
+
+.status { color: var(--suave); font-size: .9rem; margin: 0 0 .8rem; }
+.dou-feed { list-style: none; margin: 0; padding: 0; display: grid; gap: .8rem; }
+.ato {
+  display: grid; grid-template-columns: 4.2rem minmax(0, 1fr); gap: 1rem;
+  background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio); padding: 1rem 1.2rem; box-shadow: var(--sombra);
+}
+.ato-dia { text-align: center; border-right: 1px dashed var(--borda); padding-right: .9rem; line-height: 1.1; }
+.ato-dia strong { display: block; font-size: 1.6rem; font-weight: 700; color: var(--primaria); font-variant-numeric: tabular-nums; }
+.ato-dia span { font-size: .75rem; text-transform: uppercase; letter-spacing: .06em; color: var(--suave); }
+.ato-topo { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem .6rem; margin-bottom: .3rem; }
+.ato h3 { font-family: var(--serif); font-size: 1.15rem; font-weight: 600; margin: 0; }
+.ato h3 a { color: var(--texto); text-decoration: none; }
+.ato h3 a:hover { color: var(--destaque); text-decoration: underline; }
+.ato-ementa { margin: .2rem 0 .5rem; color: var(--suave); font-size: .93rem; }
+.tipo-lei { background: var(--verde-fundo); color: var(--verde); }
+.tipo-mpv { background: var(--aviso-fundo); color: var(--amarelo-escuro); }
+.tipo-emc { background: var(--destaque-fundo); color: var(--azul-escuro); }
+.ato-rel { display: flex; flex-wrap: wrap; align-items: baseline; gap: .3rem .4rem; margin: .25rem 0; font-size: .85rem; }
+.ato-rel > b { font-size: .72rem; text-transform: uppercase; letter-spacing: .06em; margin-right: .2rem; }
+.rel-altera > b { color: var(--rel-altera); }
+.rel-revoga > b { color: var(--rel-revoga); }
+.rel-cita > b { color: var(--rel-cita); }
+.ato-rel a { text-decoration: none; background: var(--superficie-2); color: var(--texto); padding: .1rem .55rem; border-radius: 99px; }
+.ato-rel a:hover { background: var(--destaque-fundo); color: var(--destaque); }
+.ato-links { display: flex; flex-wrap: wrap; gap: .3rem 1rem; margin-top: .6rem; font-size: .85rem; }
+.ato-links .fora { color: var(--mais-suave); }
+
+.dou-monitor, .dou-fora { list-style: none; margin: 0 0 .4rem; padding: 0; font-size: .88rem; }
+.dou-monitor li, .dou-fora li { padding: .45rem 0; border-top: 1px solid var(--borda); }
+.dou-monitor li:first-child, .dou-fora li:first-child { border-top: 0; }
+.dou-monitor .linha { display: flex; justify-content: space-between; gap: .6rem; align-items: center; }
+.dou-monitor a, .dou-fora a { color: var(--texto); font-weight: 600; text-decoration: none; }
+.dou-monitor a:hover, .dou-fora a:hover { color: var(--destaque); text-decoration: underline; }
+.dou-monitor small, .dou-fora small { display: block; color: var(--suave); }
+.sit { font-size: .72rem; font-weight: 700; padding: .12rem .5rem; border-radius: 99px; white-space: nowrap; }
+.sit-em_dia { background: var(--verde-fundo); color: var(--verde); }
+.sit-acervo_atrasado { background: var(--alerta-fundo); color: var(--alerta); }
+.sit-monitor_pendente, .sit-nao_verificado { background: var(--aviso-fundo); color: var(--amarelo-escuro); }
+
+/* Seção "No Diário Oficial" na página da lei */
+.dou-na-lei ol { list-style: none; margin: 0; padding: 0; font-size: .88rem; }
+.dou-na-lei li { padding: .45rem 0; border-top: 1px solid var(--borda); }
+.dou-na-lei li:first-child { border-top: 0; }
+.dou-na-lei small { display: block; color: var(--suave); }
+.dou-na-lei b { font-size: .7rem; text-transform: uppercase; letter-spacing: .06em; margin-right: .3rem; }
+
+@media (max-width: 60rem) {
+  .dou-pagina { grid-template-columns: 1fr; }
+  .dou-lateral { position: static; }
+}
+@media (max-width: 40rem) {
+  .dou-numeros { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .ato { grid-template-columns: 1fr; gap: .4rem; padding: .9rem 1rem; }
+  .ato-dia { text-align: left; border-right: 0; padding: 0; display: flex; gap: .4rem; align-items: baseline; }
+  .ato-dia strong { display: inline; font-size: 1rem; }
+}
