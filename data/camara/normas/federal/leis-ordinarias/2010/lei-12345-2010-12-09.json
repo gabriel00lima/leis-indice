@@ -1,0 +1,6 @@
+{
+"id":"federal/leis-ordinarias/2010/lei-12345-2010-12-09",
+"origem":[],
+"tramitando":[{"id": 2352300, "sigla": "PL 1295/2023", "ementa": "Altera a Lei nº 12.345, de 9 de dezembro de 2010, que fixa critérios para instituição de datas comemorativas, para permitir que as audiências públicas e consultas ocorram de forma presencial ou por meio remoto.", "apresentacao": "2023-03-21", "situacao": "Aguardando Designação de Relator(a)", "atualizado": "2024-06-06", "url": "https://www.camara.leg.br/propostas-legislativas/2352300", "relacao": "altera"}, {"id": 2394150, "sigla": "PL 4849/2023", "ementa": "Altera a Lei nº 12.345, de 9 de dezembro de 2010.", "apresentacao": "2023-10-04", "situacao": "Tramitando em Conjunto", "atualizado": "2024-06-06", "url": "https://www.camara.leg.br/propostas-legislativas/2394150", "relacao": "altera"}, {"id": 2419863, "sigla": "PL 5574/2023", "ementa": "Altera a Lei nº 12.345, de 9 de dezembro de 2010, para aperfeiçoar a definição dos critérios para instituição de datas comemorativas.", "apresentacao": "2024-03-07", "situacao": "Tramitando em Conjunto", "atualizado": "2024-06-06", "url": "https://www.camara.leg.br/propostas-legislativas/2419863", "relacao": "altera"}],
+"encerrados":3
+}

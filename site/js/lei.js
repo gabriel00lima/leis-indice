@@ -1,10 +1,12 @@
 import { marked } from "../vendor/marked.esm.js";
 import DOMPurify from "../vendor/purify.es.mjs";
+import { prepararComparacao } from "./comparar.js";
 import { regexCitacao, interpretar, citacoes, chave, ID_CONSTITUICAO } from "./citacoes.js";
 import {
   RAW, GITHUB, API, buscarEntrada, resolverChave, vinculos, rotuloDoId, urlLei,
   formatarData, usandoExemplo, ehExterno, numeroBR, APELIDOS,
 } from "./dados.js";
+import { citacaoABNT, rotuloArtigo } from "./abnt.js";
 
 const $ = s => document.querySelector(s);
 const params = new URLSearchParams(location.search);
@@ -101,11 +103,13 @@ function linkarTudo(raiz, idAtual) {
 
 // ---------- âncoras de artigos e sumário ----------
 
+let idPagina = null;
+
 function marcarArtigos(raiz) {
   for (const p of raiz.querySelectorAll("p")) {
     const forte = p.firstElementChild;
     if (!forte || forte.tagName !== "STRONG" || p.firstChild !== forte) continue;
-    // "Art. 1.022." tem ponto de milhar: o id é art-1022.
+    // "Art. 1.196." (Código Civil) tem ponto de milhar: vira art-1196.
     const m = /^Art\.\s*(\d{1,3}(?:\.\d{3})+|\d+)(?:[º°.])?(?:\s*-\s*([A-Z])\b)?/.exec(forte.textContent.trim());
     if (!m) continue;
     const id = idArtigo(m[1].replace(/\./g, ""), m[2]);
@@ -114,6 +118,10 @@ function marcarArtigos(raiz) {
     p.classList.add("artigo");
     const a = el("a", { href: "#" + id, class: "ancora", "aria-label": "Link para este artigo", texto: "#" });
     p.prepend(a);
+    if (idPagina) {
+      const citar = el("button", { type: "button", class: "citar-art", "data-art": id, title: "Citar este artigo (ABNT)", texto: "Citar" });
+      forte.after(" ", citar);
+    }
   }
   let n = 0;
   for (const h of raiz.querySelectorAll("h2, h3, h4, h5")) if (!h.id) h.id = "sec-" + ++n;
@@ -269,6 +277,40 @@ async function mostrarHistorico(caminho) {
   }
 }
 
+// ---------- citação ABNT ----------
+
+let infoPagina = {};
+
+async function copiarTexto(botao, texto) {
+  const antes = botao.textContent;
+  try { await navigator.clipboard.writeText(texto); botao.textContent = "Copiado"; }
+  catch { botao.textContent = "Selecione e copie"; }
+  setTimeout(() => { botao.textContent = antes; }, 1800);
+}
+
+function linhaCitacao(rotulo, valor, dica) {
+  const campo = el("p", { class: "citacao-valor", texto: valor });
+  const botao = el("button", { type: "button", class: "botao", texto: "Copiar" });
+  botao.addEventListener("click", () => copiarTexto(botao, valor));
+  return el("div", { class: "citacao-linha" },
+    el("div", { class: "citacao-rotulo" }, el("strong", { texto: rotulo }), dica ? el("span", { texto: dica }) : ""),
+    campo, botao);
+}
+
+function abrirCitacao(artigo) {
+  const c = citacaoABNT(idPagina, infoPagina, { artigo });
+  if (!c) return;
+  const link = location.href.split("#")[0] + (artigo ? "#" + artigo : "");
+  const dlg = $("#citacao");
+  const corpo = $("#citacao-corpo");
+  $("#citacao-titulo").textContent = artigo ? "Citar o " + rotuloArtigo(artigo) : "Citar esta norma";
+  corpo.replaceChildren(
+    linhaCitacao("Referência", c.referencia, "ABNT NBR 6023, para a lista de referências"),
+    linhaCitacao("Citação no texto", c.chamada, "ABNT NBR 10520, autor-data"),
+    linhaCitacao("Link direto", link, artigo ? "abre a página já no artigo" : ""));
+  dlg.showModal();
+}
+
 // ---------- página ----------
 
 function mostrarErro(titulo, detalhe) {
@@ -280,6 +322,8 @@ function mostrarErro(titulo, detalhe) {
   for (const s of ["#sec-vinculos", "#sec-alteracoes", "#sec-historico"]) $(s).hidden = true;
 }
 
+const temPagina = id => !urlLei(id).startsWith("lei.html") && !ehExterno(id);
+
 function irParaAncora() {
   if (!location.hash) return;
   const alvo = document.getElementById(decodeURIComponent(location.hash.slice(1)));
@@ -287,7 +331,8 @@ function irParaAncora() {
 }
 
 async function iniciar() {
-  let id = params.get("id");
+  // Nas páginas geradas (lei/<id>.html) o id vem no <body data-lei>.
+  let id = params.get("id") || document.body.dataset.lei;
   const ref = params.get("ref");
 
   if (!id && ref) {
@@ -301,6 +346,7 @@ async function iniciar() {
       return;
     }
     id = achado;
+    if (temPagina(id)) { location.replace(urlLei(id) + location.hash); return; }
     history.replaceState(null, "", urlLei(id) + location.hash);
   }
   if (!id) { mostrarErro("Nenhuma lei indicada", "Abra uma lei a partir da busca."); return; }
@@ -310,6 +356,12 @@ async function iniciar() {
     fetch(RAW + caminho).catch(() => null),
     buscarEntrada(id).catch(() => null),
   ]);
+  // lei.html?id= de uma norma do índice: vai para a página própria (lei/<id>),
+  // que é o endereço com prévia para compartilhar.
+  if (entrada && !document.body.dataset.lei && temPagina(id)) {
+    location.replace(urlLei(id) + location.hash);
+    return;
+  }
   if (!resposta || !resposta.ok) {
     mostrarErro("Lei não encontrada",
       `O arquivo ${caminho} não existe no acervo ctresb/leis (ou o GitHub não respondeu).`);
@@ -353,6 +405,12 @@ async function iniciar() {
     setTimeout(() => { copiar.lastChild.textContent = "Copiar link"; }, 2000);
   });
   acoes.append(copiar);
+  infoPagina = info;
+  if (citacaoABNT(id, info)) {
+    const citar = el("button", { type: "button", class: "acao" }, icone('<path d="M7 7h4v4c0 3-1.5 5-4 6M15 7h4v4c0 3-1.5 5-4 6"/>'), "Citar (ABNT)");
+    citar.addEventListener("click", () => abrirCitacao(null));
+    acoes.append(citar);
+  }
 
   // O título já está no cabeçalho; tira o "# Título" repetido do começo do texto.
   const semTitulo = corpo.replace(/^\s*#\s+[^\n]+\n/, "");
@@ -362,10 +420,12 @@ async function iniciar() {
   texto.innerHTML = html;
   for (const a of texto.querySelectorAll("a[href^='http']")) a.rel = "noopener";
 
+  idPagina = citacaoABNT(id, info) ? id : null;
   marcarArtigos(texto);
   linkarTudo(texto, id);
   montarSumario(texto);
   mostrarAlteracoes(coletarAlteracoes(texto, id));
+  prepararComparacao({ raiz: texto, id, corpo, info }).catch(() => {});
   irParaAncora();
 
   mostrarVinculos(id).then(mostrarContadores);
@@ -381,7 +441,26 @@ $("#ir-art").addEventListener("submit", ev => {
   if (document.getElementById(alvo)) location.hash = alvo;
   else $("#art").setCustomValidity("Artigo não encontrado"), $("#art").reportValidity(), $("#art").setCustomValidity("");
 });
+$("#texto").addEventListener("click", ev => {
+  const b = ev.target.closest?.(".citar-art");
+  if (b) abrirCitacao(b.dataset.art);
+});
+$("#citacao").addEventListener("click", ev => {
+  if (ev.target === ev.currentTarget || ev.target.closest(".citacao-fechar")) ev.currentTarget.close();
+});
 window.addEventListener("hashchange", irParaAncora);
+// As páginas geradas têm <base href> apontando para a raiz do site, então um
+// href="#art-5" levaria para a página inicial. Mantém a âncora nesta página.
+if (document.querySelector("base")) {
+  document.addEventListener("click", ev => {
+    const a = ev.target.closest?.('a[href^="#"]');
+    if (!a || ev.defaultPrevented || ev.button || ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.altKey) return;
+    ev.preventDefault();
+    const alvo = a.getAttribute("href");
+    if (alvo === "#") { history.replaceState(null, "", location.pathname + location.search); scrollTo({ top: 0 }); }
+    else location.hash = alvo;
+  });
+}
 window.addEventListener("scroll", () => {
   $("#voltar-topo").classList.toggle("visivel", scrollY > 900);
 }, { passive: true });
