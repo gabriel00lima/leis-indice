@@ -1,5 +1,6 @@
 import { marked } from "../vendor/marked.esm.js";
 import DOMPurify from "../vendor/purify.es.mjs";
+import { prepararComparacao } from "./comparar.js";
 import { regexCitacao, interpretar, citacoes, chave, ID_CONSTITUICAO } from "./citacoes.js";
 import {
   RAW, GITHUB, API, buscarEntrada, resolverChave, vinculos, rotuloDoId, urlLei,
@@ -424,6 +425,7 @@ async function iniciar() {
   linkarTudo(texto, id);
   montarSumario(texto);
   mostrarAlteracoes(coletarAlteracoes(texto, id));
+  prepararComparacao({ raiz: texto, id, corpo, info }).catch(() => {});
   irParaAncora();
 
   mostrarVinculos(id).then(mostrarContadores);
