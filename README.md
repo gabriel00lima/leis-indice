@@ -242,7 +242,7 @@ Para acompanhar outra lei no monitor, basta acrescentar o caminho dela em [`moni
 
 ## Licença e fontes
 
-O código está sob a licença [MIT](LICENSE).
+
 
 Textos de leis e atos oficiais não são protegidos por direito autoral no Brasil (Lei nº 9.610/1998, art. 8º, IV). Os dados derivados em `data/` vêm do acervo [ctresb/leis](https://github.com/ctresb/leis), que deve ser citado como fonte, e das fontes públicas listadas acima.
 
