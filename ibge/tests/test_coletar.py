@@ -43,6 +43,14 @@ class TestColetar(unittest.TestCase):
         ufs = [l[2] for l in coletar.normalizar_municipios(bruto)]
         self.assertEqual(ufs, ["MT", "SP"])
 
+    def test_espelho_csv(self):
+        e, m = coletar.do_espelho(
+            "\ufeffcodigo_uf,uf,nome,latitude,longitude,regiao\n35,SP,São Paulo,-22,-48,Sudeste\n",
+            "codigo_ibge,nome,latitude,longitude,capital,codigo_uf\n3550308,São Paulo,-23,-46,1,35\n",
+        )
+        self.assertEqual(coletar.normalizar_estados(e)[0]["regiao"], {"codigo": 3, "sigla": "SE", "nome": "Sudeste"})
+        self.assertEqual(coletar.normalizar_municipios(m), [[3550308, "São Paulo", "SP", "sao-paulo", 1]])
+
     def test_validar_rejeita_resposta_incompleta(self):
         with self.assertRaises(SystemExit):
             coletar.validar(coletar.normalizar_estados([UF_SP]), [])

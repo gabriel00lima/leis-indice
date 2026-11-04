@@ -6,7 +6,10 @@ Coleta a [API de Localidades do IBGE](https://servicodados.ibge.gov.br/api/docs/
 - Script: `python ibge/coletar.py --saida data/ibge` (só biblioteca padrão).
 - Action: [`ibge.yml`](../.github/workflows/ibge.yml), todo dia 1 do mês, manualmente
   ("Run workflow") e quando `ibge/` muda na `main`. Em PRs roda os testes e a coleta, sem commitar.
-- Se a API devolver menos de 27 UFs ou de 5.500 municípios, nada é gravado e a Action falha.
+- Se a API do IBGE não responder (ela às vezes recusa conexões dos runners do GitHub, fora do Brasil),
+  o script usa o espelho em CSV [kelvins/municipios-brasileiros](https://github.com/kelvins/municipios-brasileiros),
+  com os mesmos códigos do IBGE; `index.json` registra qual fonte foi usada.
+- Se a resposta vier com menos de 27 UFs ou de 5.500 municípios, nada é gravado e a Action falha.
 - O manifesto guarda um `sha256` do conteúdo: sem mudança no IBGE, não há commit.
 
 ## Arquivos em `data/ibge/` (não edite à mão)
