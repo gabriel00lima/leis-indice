@@ -9,6 +9,8 @@ on:
       - "api/**"
       - "integracoes/camara/**"
       - "integracoes/dou/**"
+      - "textos/**"
+      - "integracoes/senado/**"
       - "site/build.sh"
       - "site/js/**"
       - ".github/workflows/testes.yml"
@@ -27,6 +29,10 @@ jobs:
         with:
           python-version: "3.12"
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
       - name: Extrator do índice
         run: python -m unittest discover -s indice/tests -v
 
@@ -42,8 +48,14 @@ jobs:
       - name: Coleta do Diário Oficial
         run: python -m unittest discover -s integracoes/dou/tests -v
 
+      - name: Coleta do Senado
+        run: python -m unittest discover -s integracoes/senado/tests -v
+
       - name: Gerador da API
         run: python -m unittest discover -s api/tests -v
+
+      - name: Divisão em artigos da busca no texto
+        run: node --test textos/tests/*.test.mjs
 
       - name: Build do site com a API (dados reais de data/)
         run: |
@@ -52,3 +64,6 @@ jobs:
           test -f _site/api/v1/normas/constituicao.json
           test -f _site/api/v1/busca/federal.json
           echo "Arquivos da API: $(find _site/api -type f | wc -l)"
+          test -f _site/pagefind/pagefind.js
+          test -f _site/pagefind/leis.json
+          echo "Busca no texto: $(du -sh _site/pagefind | cut -f1)"

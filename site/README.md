@@ -12,6 +12,7 @@ O site **não copia os textos**: cada página de lei baixa o `.md` direto de `ra
 | `lei.html?id=<id>` | Texto da norma com sumário, âncoras por artigo (`#art-5`, `#art-11-a`), links cruzados, relações (de `links.json`), alterações anotadas no texto e histórico de commits do arquivo. |
 | `lei.html?ref=<prefixo>:<número>:<ano>` | Resolve uma citação sem data completa (ex. `lei:8078:1990`) pelo índice e redireciona para a norma. |
 | `lei/<id>` | Mesma página da lei, pré-gerada no build por `site/paginas.py` (ver "Páginas para buscadores e prévias"). É o endereço que o site usa nos links quando existe. |
+| `pagefind/` | Índice de busca no texto das leis principais, gerado no build por `textos/indexar.mjs` (ver `textos/README.md`). A busca da página inicial mostra os artigos encontrados em "Dentro do texto das leis". |
 | `grafo/?id=<id>` | Visualização do grafo (mantida em `site/grafo/`). |
 | `explicada.html` | "Lei explicada": lista dos resumos em linguagem simples. Com `?lei=<slug>` (ex. `?lei=cdc`), mostra o resumo completo. |
 
