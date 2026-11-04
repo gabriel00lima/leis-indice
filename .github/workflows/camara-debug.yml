@@ -1,0 +1,23 @@
+name: camara-debug
+on:
+  push:
+    branches: [claude/project-thread-f4dhig]
+    paths: [.github/workflows/camara-debug.yml]
+jobs:
+  d:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          curl -sSf -A "leis-indice" -o p.json https://dadosabertos.camara.leg.br/arquivos/proposicoes/json/proposicoes-2019.json
+          python3 - <<'PY'
+          import json, collections
+          d = json.load(open("p.json"))["dados"]
+          print(list(d[0].keys()))
+          print(json.dumps(d[0], ensure_ascii=False)[:1500])
+          for p in d:
+              if (p["siglaTipo"], p["numero"]) in (("PLN", 11), ("MPV", 881), ("PL", 1)):
+                  print(json.dumps(p, ensure_ascii=False))
+          c = collections.Counter(bool(p.get("urnFinal")) for p in d)
+          print("urnFinal preenchido:", c)
+          print([p["urnFinal"] for p in d if p.get("urnFinal")][:20])
+          PY

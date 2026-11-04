@@ -9,9 +9,6 @@ on:
         description: "Baixar todos os anos de novo (ignora o cache)"
         type: boolean
         default: false
-  push:
-    branches: [claude/project-thread-f4dhig]
-    paths: [integracoes/camara/**, .github/workflows/camara.yml]
 
 permissions:
   contents: write   # commitar data/camara/

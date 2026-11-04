@@ -110,7 +110,7 @@ def normas_alteradas(ementa: str, data: str) -> list[tuple[str, str, int | None,
 _ENCERRADA = re.compile(
     r"arquivad|arquivo|transformad[oa]\s+em\s+norma|norma\s+jur[íi]dica|retirad|vetad|"
     r"perdeu\s+a\s+efic|efic[áa]cia\s+encerrada|prejudicad|devolvid|rejeitad|"
-    r"tramita[çc][ãa]o\s+encerrada|cancelad|sem\s+efeito|promulgad|"
+    r"tramita[çc][ãa]o\s+(?:encerrada|finalizada)|cancelad|sem\s+efeito|promulgad|"
     r"transformad[oa]\s+em\s+nova\s+proposi|declarad[oa]\s+(?:inconstit|prejud)",
     re.IGNORECASE,
 )

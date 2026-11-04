@@ -43,7 +43,7 @@ class TestEmenta(unittest.TestCase):
         self.assertTrue(em.em_tramitacao("Pronta para Pauta no Plenário (PLEN)"))
         self.assertTrue(em.em_tramitacao("Aguardando Apreciação pelo Senado Federal"))
         for s in ("Arquivada", "Transformado em Norma Jurídica", "Retirado pelo(a) Autor(a)",
-                  "Aguardando Remessa ao Arquivo", "Perdeu a Eficácia", "Vetado totalmente", "", None):
+                  "Aguardando Remessa ao Arquivo", "Tramitação Finalizada", "Perdeu a Eficácia", "Vetado totalmente", "", None):
             self.assertFalse(em.em_tramitacao(s), s)
 
     def test_norma_gerada(self):
