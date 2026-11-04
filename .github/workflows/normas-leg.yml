@@ -1,0 +1,94 @@
+name: Coletar normas.leg.br
+
+# Busca no normas.leg.br a estrutura artigo por artigo das normas do índice e grava
+# em data/normas-leg/ (a API de lá não aceita chamadas do navegador: não tem CORS).
+# Cada execução trabalha no máximo ~25 minutos; as normas ainda não consultadas
+# entram nas próximas. Ver normas_leg/README.md.
+
+on:
+  schedule:
+    - cron: "15 10 * * *"   # todo dia às 07:15 (Brasília), depois do índice
+  workflow_dispatch:
+    inputs:
+      minutos:
+        description: "Tempo máximo de coleta, em minutos"
+        default: "25"
+  pull_request:
+    paths:
+      - "normas_leg/**"
+      - ".github/workflows/normas-leg.yml"
+
+permissions:
+  contents: write
+  actions: write    # disparar o deploy do site
+
+concurrency:
+  group: normas-leg
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Testes do coletor
+        run: python -m unittest discover -s normas_leg/tests -v
+
+      # Em PR só roda uma amostra, sem commitar, para ver que a API responde como esperado.
+      - name: Amostra (PR)
+        if: github.event_name == 'pull_request'
+        run: |
+          python normas_leg/coletar.py --data data --ids constituicao \
+            federal/leis-ordinarias/2018/lei-13709-2018-08-14 \
+            federal/leis-ordinarias/1990/lei-8078-1990-09-11
+          python - <<'PY'
+          import json
+          d = json.load(open("data/normas-leg/constituicao.json"))
+          assert len(d["artigos"]) > 240, len(d["artigos"])
+          assert d["artigos"]["art-5"] == "art5"
+          assert "**Art. 5º**" in d["texto_md"], d["texto_md"][:500]
+          print("CF:", len(d["artigos"]), "artigos,", len(d["texto_md"]), "caracteres")
+          PY
+
+      # Blobs de até 1500 bytes vêm junto: bastam para achar as normas sem texto no acervo.
+      - name: Clonar o acervo (só arquivos pequenos)
+        if: github.event_name != 'pull_request'
+        run: |
+          for i in 1 2 3 4; do
+            git clone -q --filter=blob:limit=1500 --no-checkout --depth 1 \
+              https://github.com/ctresb/leis.git "$RUNNER_TEMP/leis" && break
+            rm -rf "$RUNNER_TEMP/leis"; sleep $((i * 10))
+          done
+
+      - name: Coletar
+        if: github.event_name != 'pull_request'
+        run: python normas_leg/coletar.py --data data --fonte "$RUNNER_TEMP/leis" --minutos "${{ inputs.minutos || '25' }}"
+
+      - name: Commitar
+        id: commit
+        if: github.event_name != 'pull_request'
+        run: |
+          git add data/normas-leg
+          if git diff --cached --quiet; then
+            echo "Nada mudou."; echo "commitou=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "normas.leg.br: atualiza data/normas-leg"
+          for i in 1 2 3 4; do
+            git pull --rebase -q origin "${GITHUB_REF_NAME}" && git push -q && break
+            sleep $((i * 5))
+          done
+          echo "commitou=true" >> "$GITHUB_OUTPUT"
+
+      - name: Disparar deploy do site
+        if: steps.commit.outputs.commitou == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-site.yml --ref "${GITHUB_REF_NAME}" || echo "deploy-site.yml não disparado"
