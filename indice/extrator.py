@@ -9,6 +9,7 @@ referências antigas a ela passam a ser resolvidas sem reprocessar o texto.
 
 from __future__ import annotations
 
+import html
 import re
 import unicodedata
 
@@ -26,7 +27,7 @@ _TIPOS = [
     (r"decreto\s+legislativo", "dlg"),
     (r"decreto", "dec"),
     (r"emenda\s+constitucional\s+de\s+revis[ãa]o", "emr"),
-    (r"emenda\s+constitucional|emc\b", "emc"),
+    (r"emenda\s+constitucional|emenda\s+[àa]\s+constitui[çc][ãa]o|emc\b", "emc"),
     (r"medida\s+provis[óo]ria|mpv?\b", "mpv"),
     (r"lei", "lei"),
 ]
@@ -103,12 +104,17 @@ CODIGOS = [(re.compile(p), *resto) for p, *resto in CODIGOS]
 # Anotações entre parênteses deixadas pelos compiladores (Planalto/Câmara).
 PAREN_RE = re.compile(r"\(([^()]{3,500})\)")
 ALTERA_KW = re.compile(
-    r"reda[çc][ãa]o\s+dada|acrescid|inclu[íi]d|renumerad|alterad|"
+    r"reda[çc][ãa]o\s+dada|acrescid|acrescentad|inclu[íi]d|renumerad|alterad|"
     r"com\s+nova\s+reda[çc][ãa]o|transformad",
     re.IGNORECASE,
 )
 REVOGA_KW = re.compile(r"revogad", re.IGNORECASE)
 VETO_KW = re.compile(r"vetad", re.IGNORECASE)
+
+# Notas de alteração em linha própria, sem parênteses, como nos acervos estaduais:
+#   SP: "*- Inciso I com redação dada pela Lei nº 9.000, de 1995.*"
+#   RJ: "\\* Nova redação dada pela Emenda Constitucional nº 51/2011"
+NOTA_LINHA = re.compile(r"^(?:\*\s*-|\\\*|_\s*-)\s*")
 
 # Parágrafos de dispositivos que revogam ou alteram outras normas.
 REVOGA_PARAGRAFO = re.compile(
@@ -181,12 +187,16 @@ def metadados(caminho: str, texto: str) -> tuple[dict, str]:
     elif not meta.get("titulo"):
         m = re.search(r"^#\s+(.+)$", corpo, re.MULTILINE)
         meta.setdefault("titulo", m.group(1).strip() if m else caminho)
+    def texto(v) -> str:
+        # Algumas ementas estaduais (SP) vêm com HTML: <a href='/norma/28593'>Lei nº…</a>.
+        return html.unescape(re.sub(r"<[^>]{1,300}>", "", str(v))).strip()
+
     return {
-        "titulo": str(meta.get("titulo", "")).strip(),
+        "titulo": texto(meta.get("titulo", "")),
         "tipo": str(meta.get("tipo", "")).strip(),
         "numero": str(meta.get("numero", "")).strip(),
         "data": str(meta.get("data", "")).strip(),
-        "ementa": str(meta.get("ementa", "")).strip(),
+        "ementa": texto(meta.get("ementa", "")),
         "revogada": bool(meta.get("revogada", False)),
         "urn": str(meta.get("urn", "")).strip(),
     }, corpo
@@ -346,19 +356,26 @@ def extrair_referencias(corpo: str, data_citante: str, estadual: bool = False) -
         if par.startswith("# "):
             continue  # título do próprio arquivo
         ocupado: list[tuple[int, int]] = []
+        # 0) nota em linha própria: o parágrafo inteiro é tratado como uma anotação
+        nota = NOTA_LINHA.match(par)
+        anotacoes = (
+            [(0, len(par), par[nota.end():].strip("*_ "))] if nota and len(par) < 600
+            else [(pm.start(), pm.end(), pm.group(1)) for pm in PAREN_RE.finditer(par)]
+        )
         # 1) anotações entre parênteses
-        for pm in PAREN_RE.finditer(par):
-            conteudo = pm.group(1)
+        for ini, fim, conteudo in anotacoes:
             refs = referencias_em(conteudo, ano_citante, data_citante, estadual)
             if not refs:
                 continue
-            ocupado.append((pm.start(), pm.end()))
+            ocupado.append((ini, fim))
             if VETO_KW.search(conteudo) and not ALTERA_KW.search(conteudo):
                 continue
+            # "Norma revogada pela Lei X" vale para a norma inteira, não para o artigo.
+            onde = None if re.match(r"(?i)norma\b", conteudo) else artigo
             if REVOGA_KW.search(conteudo[: refs[0][3]]):
-                add("entra", refs[0], "revoga", artigo)
+                add("entra", refs[0], "revoga", onde)
             elif ALTERA_KW.search(conteudo[: refs[0][3]]):
-                add("entra", refs[0], "altera", artigo)
+                add("entra", refs[0], "altera", onde)
             else:
                 for r in refs:
                     add("sai", r, "cita", _artigo_citado(conteudo, r[3]))

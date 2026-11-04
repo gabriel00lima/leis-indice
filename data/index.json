@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-03T20:58:05+00:00",
+  "gerado_em": "2026-11-04T01:01:39+00:00",
   "fonte": {
     "repositorio": "ctresb/leis",
     "commit": "c9f21b4ab11aa0d7ca6fe861d75028e94219c2d6",
@@ -33,19 +33,19 @@
     "SP": {
       "nome": "São Paulo",
       "total": 40203,
-      "links": 46867,
+      "links": 47007,
       "arestas": "arestas/estaduais/SP.json"
     },
     "RJ": {
       "nome": "Rio de Janeiro",
       "total": 1335,
-      "links": 2027,
+      "links": 2055,
       "arestas": "arestas/estaduais/RJ.json"
     },
     "MG": {
       "nome": "Minas Gerais",
       "total": 26731,
-      "links": 28852,
+      "links": 28694,
       "arestas": "arestas/estaduais/MG.json"
     }
   },
@@ -269,11 +269,11 @@
   "links": {
     "arquivo": "links.json",
     "arestas": "arestas.json",
-    "total": 140197,
+    "total": 140211,
     "por_tipo": {
-      "cita": 117355,
-      "altera": 15662,
-      "revoga": 7180
+      "cita": 115443,
+      "altera": 16545,
+      "revoga": 8223
     }
   }
 }

@@ -39,6 +39,37 @@ export async function usandoExemplo() {
   return base === "exemplo/";
 }
 
+// ================= esferas (federal / estadual) =================
+
+export const UFS = { SP: "São Paulo", RJ: "Rio de Janeiro", MG: "Minas Gerais" };
+
+// "SP" para ids estaduais (estaduais/SP/...) e externos estaduais (externo:lei-5-1950-sp).
+export function ufDoId(id) {
+  const s = String(id);
+  const m = /^estaduais\/([A-Z]{2})\//.exec(s) || /^externo:.*-([a-z]{2})$/.exec(s);
+  return m ? m[1].toUpperCase() : null;
+}
+export const ehEstadual = id => !!ufDoId(id);
+
+// Âmbito da busca: "" = federais (padrão, o mais leve), "SP"/"RJ"/"MG", "estaduais" ou "todas".
+export function noAmbito(ambito, uf) {
+  if (!ambito) return !uf;
+  if (ambito === "todas") return true;
+  if (ambito === "estaduais") return !!uf;
+  return uf === ambito;
+}
+const ufDoShard = s => s.uf || (s.esfera === "estadual" ? (/estaduais\/([A-Z]{2})/.exec(s.arquivo || "") || [])[1] : null) || null;
+
+// Shard em que um id deveria estar (pelo campo "raiz" do manifesto).
+function shardsDoId(shards, id) {
+  if (shards.some(s => s.raiz)) {
+    return shards.filter(s => s.raiz && (id === s.raiz || id.startsWith(s.raiz + "/")));
+  }
+  const pasta = id.split("/")[1];
+  return [...shards].sort((a, b) =>
+    (b.arquivo?.includes(pasta) ? 1 : 0) - (a.arquivo?.includes(pasta) ? 1 : 0));
+}
+
 // Shards: { arquivo, tipo?, total? }. Índice em array único vira um shard só.
 export async function listaShards() {
   const m = await manifesto();
@@ -65,9 +96,10 @@ function normalizar(d) {
   return d.entradas || [];
 }
 
-// Carrega todos os shards (ou só os de um tipo), avisando o progresso.
-export async function carregarTudo(aoProgredir, tipo) {
-  const shards = (await listaShards()).filter(s => !tipo || !s.tipo || s.tipo === tipo);
+// Carrega os shards de um tipo e de um âmbito (padrão: só os federais), avisando o progresso.
+export async function carregarTudo(aoProgredir, tipo, ambito = "") {
+  const shards = (await listaShards()).filter(s =>
+    (!tipo || !s.tipo || s.tipo === tipo) && (!s.arquivo || noAmbito(ambito, ufDoShard(s))));
   let feitos = 0;
   const partes = await Promise.all(shards.map(async s => {
     const e = await carregarShard(s);
@@ -80,9 +112,7 @@ export async function carregarTudo(aoProgredir, tipo) {
 // Acha uma entrada do índice pelo id, carregando só o shard provável.
 export async function buscarEntrada(id) {
   const shards = await listaShards();
-  const pasta = id.split("/")[1];
-  const ordenados = [...shards].sort((a, b) =>
-    (b.arquivo?.includes(pasta) ? 1 : 0) - (a.arquivo?.includes(pasta) ? 1 : 0));
+  const ordenados = shards[0]?.arquivo ? shardsDoId(shards, id) : shards;
   for (const s of ordenados) {
     const e = (await carregarShard(s)).find(x => x.id === id);
     if (e) return e;
@@ -91,13 +121,27 @@ export async function buscarEntrada(id) {
 }
 
 // Resolve tipo+número+ano para um id do índice (citações sem data completa).
-export async function resolverChave(k) {
-  const [prefixo] = k.split(":");
+// Com uf (citação dentro de uma lei estadual), procura primeiro no estado e depois nas
+// federais; "constituicao-estadual::" dá a Constituição do estado.
+export async function resolverChave(k, uf = null) {
+  const [prefixo, numero, ano] = k.split(":");
   const shards = await listaShards();
-  for (const s of shards) {
+  const casa = id => {
+    const c = chaveDoId(id);
+    if (!c) return false;
+    const [p, n, a] = c.split(":");
+    return p === prefixo && n === numero && (!ano || a === ano);
+  };
+  const ordem = uf
+    ? [...shards.filter(s => ufDoShard(s) === uf), ...shards.filter(s => !ufDoShard(s))]
+    : shards.filter(s => !s.arquivo || !ufDoShard(s));
+  for (const s of ordem) {
     if (s.arquivo && s.prefixo && s.prefixo !== prefixo) continue;
-    const e = (await carregarShard(s)).find(x => chaveDoId(x.id) === k);
-    if (e) return e.id;
+    const entradas = await carregarShard(s);
+    if (prefixo === "constituicao-estadual") return entradas[0]?.id || null;
+    // a mais recente, quando o número se repete (sem ano)
+    const achados = entradas.filter(x => casa(x.id));
+    if (achados.length) return achados.sort((a, b) => String(b.data).localeCompare(String(a.data)))[0].id;
   }
   return null;
 }
@@ -112,7 +156,8 @@ export async function vinculos(id) {
   if (!l.shards) return l[id] || null;
   const pasta = id.split("/")[1] || id;
   const s = l.shards.find(x => x.pasta === pasta) || null;
-  const alvos = s ? [s] : l.shards;
+  // Sem parte própria (ex.: decreto fora do índice), não há vínculos guardados.
+  const alvos = s ? [s] : l.shards.some(x => x.esfera) ? [] : l.shards;
   for (const x of alvos) {
     if (!cacheShard.has("links:" + x.arquivo)) cacheShard.set("links:" + x.arquivo, json(base + x.arquivo).catch(() => ({})));
     const d = await cacheShard.get("links:" + x.arquivo);
@@ -129,14 +174,39 @@ export async function destaques() {
 // Normas citadas mas fora do acervo/índice têm id "externo:<prefixo>-<número>[-<ano>]".
 export const ehExterno = id => String(id).startsWith("externo:");
 
+// Nome do tipo pela pasta das normas estaduais.
+export const NOMES_PASTA = {
+  "leis-ordinarias": "Lei", "leis-complementares": "Lei Complementar", "emendas-constitucionais": "Emenda Constitucional",
+  "decretos-lei": "Decreto-Lei", "decretos-lei-complementares": "Decreto-Lei Complementar", "leis-delegadas": "Lei Delegada",
+  "leis-constitucionais": "Lei Constitucional", "decretos": "Decreto", "decretos-legislativos": "Decreto Legislativo",
+  "decretos-nao-numerados": "Decreto", "resolucoes": "Resolução", "deliberacoes": "Deliberação", "portarias": "Portaria",
+};
+
+// Partes de um id estadual: { uf, pasta, numero, ano }.
+export function partesEstaduais(id) {
+  const m = /^estaduais\/([A-Z]{2})\/([a-z-]+)\/(\d{4})\/([^/]+)$/.exec(String(id));
+  if (!m) return null;
+  const n = /^[a-z]+-(\d+)-(\d{4})/.exec(m[4]);
+  return { uf: m[1], pasta: m[2], numero: n ? n[1] : null, ano: n ? n[2] : m[3] };
+}
+
 // Rótulo curto de uma norma a partir do id, sem precisar do índice.
 export function rotuloDoId(id) {
   if (id === "constituicao") return "Constituição Federal de 1988";
-  const ext = /^externo:([a-z]+)-([\d.]+)(?:-(\d{4}))?/.exec(id);
+  const ext = /^externo:([a-z]+)-([\d.]+)(?:-(\d{4}))?(?:-([a-z]{2}))?$/.exec(id);
   if (ext) {
     const nomesExt = { lei: "Lei", lcp: "Lei Complementar", del: "Decreto-Lei", dec: "Decreto",
       dlg: "Decreto Legislativo", mpv: "Medida Provisória", emc: "Emenda Constitucional", ldl: "Lei Delegada" };
-    return `${nomesExt[ext[1]] || ext[1]} nº ${Number(ext[2]).toLocaleString("pt-BR")}${ext[3] ? "/" + ext[3] : ""}`;
+    return `${nomesExt[ext[1]] || ext[1]} nº ${Number(ext[2]).toLocaleString("pt-BR")}${ext[3] ? "/" + ext[3] : ""}` +
+      (ext[4] ? ` (${ext[4].toUpperCase()})` : "");
+  }
+  const est = partesEstaduais(id);
+  if (est) {
+    if (est.pasta === "constituicao") return `Constituição do Estado de ${UFS[est.uf] || est.uf}`;
+    const nome = NOMES_PASTA[est.pasta] || "Norma";
+    return est.numero
+      ? `${nome} nº ${Number(est.numero).toLocaleString("pt-BR")}/${est.ano} (${est.uf})`
+      : `${nome} de ${est.ano} (${est.uf})`;
   }
   const m = /\/([a-z]+)-(\d+)(?:-[a-z0-9]+)*?-(\d{4})-\d{2}-\d{2}$/.exec(id);
   if (!m) return id.split("/").pop();
@@ -149,12 +219,14 @@ export function rotuloDoId(id) {
 export function urlLei(id, ancora) {
   if (ehExterno(id)) {
     const m = /^externo:[a-z]+-([\d.]+)(?:-(\d{4}))?/.exec(id);
-    return "./?q=" + encodeURIComponent(m ? m[1] + (m[2] ? " " + m[2] : "") : id);
+    const uf = ufDoId(id);
+    return "./?q=" + encodeURIComponent(m ? m[1] + (m[2] ? " " + m[2] : "") : id) + (uf ? "&ambito=" + uf : "");
   }
   const hash = ancora ? "#" + ancora : "";
   // Com o build completo (site/paginas.py), cada norma tem página própria em lei/<id>,
   // com título e prévia para buscadores e WhatsApp. Sem ele, só existe lei.html?id=.
-  if (PAGINAS) return PAGINAS + id.split("/").map(encodeURIComponent).join("/") + hash;
+  // As estaduais ainda não têm página própria (deixariam o site acima do limite de 1 GB do Pages).
+  if (PAGINAS && !ufDoId(id)) return PAGINAS + id.split("/").map(encodeURIComponent).join("/") + hash;
   return "lei.html?id=" + encodeURIComponent(id) + hash;
 }
 
