@@ -7,6 +7,7 @@ on:
       - "site/**"
       - "data/**"
       - "api/**"
+      - "textos/**"
       - ".github/workflows/deploy-site.yml"
   schedule:
     - cron: "30 9 * * *" # 06:30 em Brasília, reserva caso outro workflow não dispare o deploy

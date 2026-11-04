@@ -24,6 +24,7 @@ Depois da base federal (e da Constituição), a ideia é estender para leis esta
 | `site/` | Site estático publicado no GitHub Pages |
 | `site/grafo/` | Página do grafo de leis |
 | `integracoes/camara/` | Coleta dos projetos de lei da Câmara dos Deputados (gera `data/camara/`) |
+| `textos/` | Busca dentro do texto das leis principais (índice Pagefind gerado no build) |
 | `docs/` | Documentação e passos de configuração |
 | `.github/workflows/` | Automação: monitor, atualização do índice e deploy do site |
 
