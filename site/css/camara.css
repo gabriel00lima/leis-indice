@@ -1,0 +1,11 @@
+/* Seção "Na Câmara dos Deputados" da página da lei (site/js/camara.js). */
+#sec-camara h3 { font-size: .82rem; text-transform: uppercase; letter-spacing: .04em; color: var(--suave); margin: 1rem 0 .4rem; }
+#sec-camara h3:first-of-type { margin-top: .4rem; }
+.projetos { list-style: none; padding: 0; margin: 0; }
+.projeto { padding: .55rem 0; border-top: 1px solid var(--borda); }
+.projeto:first-child { border-top: 0; }
+.projeto-sigla { font-weight: 600; }
+.projeto-rel { margin-left: .4rem; font-size: .7rem; vertical-align: middle; }
+.projeto-ementa { margin: .2rem 0 0; font-size: .88rem; line-height: 1.4; overflow-wrap: anywhere; }
+.projeto-meta { margin: .2rem 0 0; font-size: .78rem; color: var(--suave); }
+.projetos-mais { margin-top: .5rem; }

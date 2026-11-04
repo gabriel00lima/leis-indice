@@ -10,6 +10,7 @@ Este repositório **não copia** o acervo. Ele guarda só dados derivados (índi
 2. **Índice das leis federais**: uma GitHub Action baixa só os arquivos novos ou alterados do acervo e atualiza em `data/` os metadados (título, tipo, número, data, ementa, revogação, URN) e as ligações entre normas (cita, altera, revoga). Formato em [data/README.md](data/README.md).
 3. **Site navegável**: site estático com busca, links cruzados entre leis e histórico de alterações, publicado no GitHub Pages.
 4. **Grafo de leis**: visualização de quais leis citam, alteram ou revogam outras.
+5. **Projetos na Câmara**: na página de cada lei, o projeto que deu origem a ela e os projetos em tramitação que a alteram, a partir dos dados abertos da Câmara ([integracoes/camara/](integracoes/camara/README.md)).
 
 Depois da base federal (e da Constituição), a ideia é estender para leis estaduais e municipais.
 
@@ -22,6 +23,7 @@ Depois da base federal (e da Constituição), a ideia é estender para leis esta
 | `data/` | Índice gerado automaticamente (não editar à mão) |
 | `site/` | Site estático publicado no GitHub Pages |
 | `site/grafo/` | Página do grafo de leis |
+| `integracoes/camara/` | Coleta dos projetos de lei da Câmara dos Deputados (gera `data/camara/`) |
 | `docs/` | Documentação e passos de configuração |
 | `.github/workflows/` | Automação: monitor, atualização do índice e deploy do site |
 

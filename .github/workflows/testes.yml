@@ -7,6 +7,7 @@ on:
     paths:
       - "indice/**"
       - "api/**"
+      - "integracoes/camara/**"
       - "site/build.sh"
       - "site/js/**"
       - ".github/workflows/testes.yml"
@@ -30,6 +31,9 @@ jobs:
 
       - name: Citação ABNT (site)
         run: node --test site/js/tests/abnt.test.mjs
+
+      - name: Coleta da Câmara
+        run: python -m unittest discover -s integracoes/camara/tests -v
 
       - name: Gerador da API
         run: python -m unittest discover -s api/tests -v
