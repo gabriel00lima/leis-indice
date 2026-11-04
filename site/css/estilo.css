@@ -301,6 +301,28 @@ input:focus-visible, select:focus-visible, button:focus-visible, a:focus-visible
 .artigo:target { background: var(--marca-art); box-shadow: 0 0 0 4px var(--marca-art); }
 .ancora { position: absolute; left: -1.4rem; top: .25rem; opacity: 0; text-decoration: none; color: var(--mais-suave); font-family: var(--sans); font-size: .9rem; }
 .artigo:hover .ancora, .ancora:focus { opacity: 1; }
+.citar-art {
+  font: 500 .72rem/1 var(--sans); color: var(--suave); background: transparent; border: 1px solid var(--borda);
+  border-radius: 99px; padding: .2rem .5rem; margin-left: .2rem; vertical-align: .15em; cursor: pointer;
+  opacity: 0; transition: opacity .15s;
+}
+.artigo:hover .citar-art, .artigo:target .citar-art, .citar-art:focus-visible { opacity: 1; }
+.citar-art:hover { color: var(--destaque); border-color: var(--destaque); }
+@media (hover: none) { .citar-art { opacity: 1; } }
+
+.citacao { border: 0; padding: 0; background: transparent; max-width: min(40rem, calc(100vw - 2rem)); width: 100%; color: var(--texto); }
+.citacao::backdrop { background: rgb(0 0 0 / .45); }
+.citacao-caixa { background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio); padding: 1.1rem 1.2rem; }
+.citacao-topo { display: flex; justify-content: space-between; align-items: center; gap: 1rem; margin-bottom: .6rem; }
+.citacao-topo h2 { margin: 0; font-size: 1.05rem; }
+.citacao-fechar { border: 0; background: transparent; font-size: 1.5rem; line-height: 1; color: var(--suave); cursor: pointer; padding: .2rem .4rem; }
+.citacao-linha { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: .4rem .8rem; align-items: start; padding: .8rem 0; border-top: 1px solid var(--borda); }
+.citacao-rotulo { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: .2rem .6rem; align-items: baseline; font-size: .85rem; }
+.citacao-rotulo span { color: var(--suave); font-size: .8rem; }
+.citacao-valor { margin: 0; font-family: var(--serif); font-size: .98rem; line-height: 1.5; overflow-wrap: anywhere; user-select: all; }
+.citacao-linha .botao { padding: .4rem .8rem; font-size: .85rem; }
+.citacao .dica { margin: .6rem 0 0; font-size: .8rem; color: var(--suave); }
+
 .ref-externa { color: var(--destaque); text-decoration: none; border-bottom: 1px solid color-mix(in srgb, var(--destaque) 40%, transparent); }
 .ref-externa:hover { background: var(--destaque-fundo); border-bottom-color: var(--destaque); }
 .texto em .ref-externa { color: var(--destaque); }
