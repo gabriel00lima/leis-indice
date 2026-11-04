@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1937/del-96-1937-12-22",
+"urn": "urn:lex:br:federal:decreto.lei:1937-12-22;96",
+"consultado_em": "2026-11-04",
+"codigo": "522832",
+"nome": "Decreto-Lei nº 96 de 22/12/1937",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1937-12-24", "descricao": "Publicação Original [Diário Oficial da União de 24/12/1937] (p. 25522, col. 2)"}
+],
+"alteracoes": [
+{"data": "1945-05-29", "nome": "Decreto-Lei nº 7.589 de 29/05/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-7589-1945-05-29"}
+],
+"controle": []
+}

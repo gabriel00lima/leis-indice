@@ -1,0 +1,41 @@
+{
+"id": "federal/leis-ordinarias/2001/lei-10257-2001-07-10",
+"urn": "urn:lex:br:federal:lei:2001-07-10;10257",
+"consultado_em": "2026-11-04",
+"codigo": "552133",
+"nome": "Lei nº 10.257 de 10/07/2001",
+"apelidos": [
+"Estatuto da Cidade (2001)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2001-07-11", "descricao": "Publicação Original [Diário Oficial da União de 11/07/2001] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "2001-07-17", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 17/07/2001] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2001-08-24", "nome": "Medida Provisória nº 2.180-35 de 24/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 53", "art": "53", "acao": "revogou"}]},
+{"data": "2004-04-02", "nome": "Decreto nº 5.031 de 02/04/2004", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2008-05-08", "nome": "Lei nº 11.673 de 08/05/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 50", "art": "50", "acao": "alterou"}], "id": "federal/leis-ordinarias/2008/lei-11673-2008-05-08"},
+{"data": "2009-03-25", "nome": "Medida Provisória nº 459 de 25/03/2009", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2009-07-07", "nome": "Lei nº 11.977 de 07/07/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 5", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-11977-2009-07-07"},
+{"data": "2010-10-22", "nome": "Decreto nº 7.341 de 22/10/2010", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2011-10-11", "nome": "Medida Provisória nº 547 de 11/10/2011", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 42-A", "art": "42-a", "acao": "acrescentou"}]},
+{"data": "2012-04-10", "nome": "Lei nº 12.608 de 10/04/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 6, Alínea h", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 41, caput, Inciso 6", "art": "41", "acao": "acrescentou"}, {"dispositivo": "Art. 42-A", "art": "42-a", "acao": "acrescentou"}, {"dispositivo": "Art. 42-B", "art": "42-b", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2012/lei-12608-2012-04-10"},
+{"data": "2013-06-05", "nome": "Medida Provisória nº 618 de 05/06/2013", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 31", "art": "31", "acao": "correlato"}, {"dispositivo": "Art. 33, § 1", "art": "33", "acao": "correlato"}, {"dispositivo": "Art. 35", "art": "35", "acao": "correlato"}]},
+{"data": "2013-07-02", "nome": "Lei nº 12.836 de 02/07/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 17", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 32, § 2, Inciso 3", "art": "32", "acao": "acrescentou"}, {"dispositivo": "Art. 33, § 6", "art": "33", "acao": "alterou"}, {"dispositivo": "Art. 33, § 6, Inciso 8", "art": "33", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2013/lei-12836-2013-07-02"},
+{"data": "2014-06-02", "nome": "Lei nº 12.983 de 02/06/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 42-A, caput, Inciso 6", "art": "42-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2014/lei-12983-2014-06-02"},
+{"data": "2015-01-12", "nome": "Lei nº 13.089 de 12/01/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 34-A", "art": "34-a", "acao": "acrescentou"}, {"dispositivo": "Art. 34-A, Parágrafo Único", "art": "34-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2015/lei-13089-2015-01-12"},
+{"data": "2015-04-20", "nome": "Lei nº 13.116 de 20/04/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 18", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 3, caput, Inciso 4", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2015/lei-13116-2015-04-20"},
+{"data": "2015-07-06", "nome": "Lei nº 13.146 de 06/07/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 4", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 41, § 3", "art": "41", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2015/lei-13146-2015-07-06"},
+{"data": "2017-06-07", "nome": "Decreto nº 9.076 de 07/06/2017", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 43, caput, Inciso 3", "art": "43", "acao": "regulamentou"}]},
+{"data": "2017-07-11", "nome": "Lei nº 13.465 de 11/07/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, caput", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 46, caput", "art": "46", "acao": "alterou"}, {"dispositivo": "Art. 46, § 1", "art": "46", "acao": "alterou"}, {"dispositivo": "Art. 46, § 2", "art": "46", "acao": "alterou"}, {"dispositivo": "Art. 46, § 3", "art": "46", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2017/lei-13465-2017-07-11"},
+{"data": "2018-08-02", "nome": "Lei nº 13.699 de 02/08/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 19", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2018/lei-13699-2018-08-02"},
+{"data": "2021-08-30", "nome": "Medida Provisória nº 1.065 de 30/08/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 57-A, caput", "art": "57-a", "acao": "acrescentou"}, {"dispositivo": "Art. 57-A, Parágrafo Único", "art": "57-a", "acao": "acrescentou"}]},
+{"data": "2021-12-23", "nome": "Lei nº 14.273 de 23/12/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 57-A, caput", "art": "57-a", "acao": "acrescentou"}, {"dispositivo": "Art. 57-A, Parágrafo Único", "art": "57-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2021/lei-14273-2021-12-23"},
+{"data": "2022-12-21", "nome": "Lei nº 14.489 de 21/12/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 20", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14489-2022-12-21"},
+{"data": "2023-11-23", "nome": "Lei nº 14.729 de 23/11/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 42-B, caput, Inciso 8", "art": "42-b", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14729-2023-11-23"},
+{"data": "2023-12-11", "nome": "Decreto nº 11.819 de 11/12/2023", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 20", "art": "2", "acao": "regulamentou"}]},
+{"data": "2024-05-02", "nome": "Lei nº 14.849 de 02/05/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 37, caput, Inciso 5", "art": "37", "acao": "alterou"}], "id": "federal/leis-ordinarias/2024/lei-14849-2024-05-02"},
+{"data": "2026-01-07", "nome": "Lei nº 15.333 de 07/01/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, Inciso 21", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15333-2026-01-07"}
+],
+"controle": []
+}

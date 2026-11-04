@@ -1,0 +1,40 @@
+{
+"id": "federal/leis-ordinarias/1987/lei-7596-1987-04-10",
+"urn": "urn:lex:br:federal:lei:1987-04-10;7596",
+"consultado_em": "2026-11-04",
+"codigo": "549472",
+"nome": "Lei nº 7.596 de 10/04/1987",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1987-04-13", "descricao": "Publicação Original [Diário Oficial da União de 13/04/1987] (p. 5253, col. 1)"}
+],
+"alteracoes": [
+{"data": "1987-07-23", "nome": "Decreto nº 94.664 de 23/07/1987", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1987-10-02", "nome": "Decreto nº 94.993 de 02/10/1987", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1987-10-27", "nome": "Decreto-Lei nº 2.365 de 27/10/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2365-1987-10-27"},
+{"data": "1988-01-29", "nome": "Decreto nº 95.689 de 29/01/1988", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1989-10-24", "nome": "Medida Provisória nº 95 de 24/10/1989", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "correlato"}]},
+{"data": "1989-11-14", "nome": "Medida Provisória nº 106 de 14/11/1989", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "ressalvou"}]},
+{"data": "1989-12-12", "nome": "Lei nº 7.923 de 12/12/1989", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "correlato"}], "id": "federal/leis-ordinarias/1989/lei-7923-1989-12-12"},
+{"data": "1990-01-09", "nome": "Lei nº 7.995 de 09/01/1990", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "correlato"}], "id": "federal/leis-ordinarias/1990/lei-7995-1990-01-09"},
+{"data": "1990-08-21", "nome": "Medida Provisória nº 209 de 21/08/1990", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "correlato"}]},
+{"data": "1990-09-21", "nome": "Medida Provisória nº 228 de 21/09/1990", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "correlato"}]},
+{"data": "1990-10-24", "nome": "Medida Provisória nº 251 de 24/10/1990", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "correlato"}]},
+{"data": "1990-11-23", "nome": "Medida Provisória nº 268 de 23/11/1990", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "correlato"}]},
+{"data": "1991-01-16", "nome": "Lei nº 8.168 de 16/01/1991", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [{"dispositivo": "Art. 3, § 1, Alínea b", "art": "3", "acao": "com novo tratamento da matéria"}], "id": "federal/leis-ordinarias/1991/lei-8168-1991-01-16"},
+{"data": "1991-08-13", "nome": "Lei nº 8.216 de 13/08/1991", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "correlato"}], "id": "federal/leis-ordinarias/1991/lei-8216-1991-08-13"},
+{"data": "1991-10-11", "nome": "Decreto nº 228 de 11/10/1991", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1991-10-14", "nome": "Lei nº 8.243 de 14/10/1991", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8243-1991-10-14"},
+{"data": "1991-12-17", "nome": "Lei nº 8.270 de 17/12/1991", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8270-1991-12-17"},
+{"data": "1992-07-07", "nome": "Decreto nº 597 de 07/07/1992", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1992-07-20", "nome": "Lei nº 8.445 de 20/07/1992", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1992/lei-8445-1992-07-20"},
+{"data": "1992-09-17", "nome": "Lei nº 8.460 de 17/09/1992", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1992/lei-8460-1992-09-17"},
+{"data": "1993-02-19", "nome": "Decreto nº 760 de 19/02/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-11-05", "nome": "Decreto de 05/11/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1995-09-22", "nome": "Medida Provisória nº 1.115 de 22/09/1995", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1995-10-26", "nome": "Medida Provisória nº 1.160 de 26/10/1995", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2006-05-29", "nome": "Medida Provisória nº 295 de 29/05/2006", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2006-09-08", "nome": "Lei nº 11.344 de 08/09/2006", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [], "id": "federal/leis-ordinarias/2006/lei-11344-2006-09-08"}
+],
+"controle": []
+}

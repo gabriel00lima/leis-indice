@@ -1,0 +1,31 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9099-1995-09-26",
+"urn": "urn:lex:br:federal:lei:1995-09-26;9099",
+"consultado_em": "2026-11-04",
+"codigo": "550975",
+"nome": "Lei nº 9.099 de 26/09/1995",
+"apelidos": [
+"Lei dos Juizados Especiais Cíveis e Criminais (1995)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-09-27", "descricao": "Publicação Original [Diário Oficial da União de 27/09/1995] (p. 15033, col. 1)"}
+],
+"alteracoes": [
+{"data": "1999-09-27", "nome": "Lei nº 9.839 de 27/09/1999", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1999/lei-9839-1999-09-27"},
+{"data": "2001-07-12", "nome": "Lei nº 10.259 de 12/07/2001", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2001/lei-10259-2001-07-12"},
+{"data": "2002-05-13", "nome": "Lei nº 10.455 de 13/05/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 69, Parágrafo Único", "art": "69", "acao": "alterou"}], "id": "federal/leis-ordinarias/2002/lei-10455-2002-05-13"},
+{"data": "2006-06-28", "nome": "Lei nº 11.313 de 28/06/2006", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 60", "art": "60", "acao": "alterou"}, {"dispositivo": "Art. 61", "art": "61", "acao": "alterou"}], "id": "federal/leis-ordinarias/2006/lei-11313-2006-06-28"},
+{"data": "2009-12-16", "nome": "Lei nº 12.126 de 16/12/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8, § 1", "art": "8", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-12126-2009-12-16"},
+{"data": "2009-12-18", "nome": "Lei nº 12.137 de 18/12/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9, § 4", "art": "9", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-12137-2009-12-18"},
+{"data": "2012-10-16", "nome": "Lei nº 12.726 de 16/10/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 95, Parágrafo Único", "art": "95", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2012/lei-12726-2012-10-16"},
+{"data": "2014-08-07", "nome": "Lei Complementar nº 147 de 07/08/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8, § 1, Inciso 2", "art": "8", "acao": "alterou"}], "id": "federal/leis-complementares/2014/lcp-147-2014-08-07"},
+{"data": "2015-03-16", "nome": "Lei nº 13.105 de 16/03/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 48", "art": "48", "acao": "alterou"}, {"dispositivo": "Art. 50", "art": "50", "acao": "alterou"}, {"dispositivo": "Art. 83", "art": "83", "acao": "alterou"}], "id": "federal/leis-ordinarias/2015/lei-13105-2015-03-16"},
+{"data": "2018-01-09", "nome": "Lei nº 13.603 de 09/01/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 62, caput", "art": "62", "acao": "alterou"}], "id": "federal/leis-ordinarias/2018/lei-13603-2018-01-09"},
+{"data": "2018-10-31", "nome": "Lei nº 13.728 de 31/10/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12-A, caput", "art": "12-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2018/lei-13728-2018-10-31"},
+{"data": "2020-04-24", "nome": "Lei nº 13.994 de 24/04/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 22, Parágrafo Único", "art": "22", "acao": "renumerou"}, {"dispositivo": "Art. 22, § 2", "art": "22", "acao": "acrescentou"}, {"dispositivo": "Art. 23, caput", "art": "23", "acao": "alterou"}], "id": "federal/leis-ordinarias/2020/lei-13994-2020-04-24"},
+{"data": "2021-11-22", "nome": "Lei nº 14.245 de 22/11/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 81, § 1-A, apenas o Caput", "art": "81", "acao": "acrescentou"}, {"dispositivo": "Art. 81, § 1-A, Inciso 1", "art": "81", "acao": "acrescentou"}, {"dispositivo": "Art. 81, § 1-A, Inciso 2", "art": "81", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2021/lei-14245-2021-11-22"}
+],
+"controle": [
+{"data": "2020-12-04", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.264 de 04/12/2020", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 60, caput", "art": "60", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 60, Parágrafo Único", "art": "60", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "5264"}}
+]
+}

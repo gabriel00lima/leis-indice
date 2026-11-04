@@ -1,0 +1,46 @@
+{
+"id": "federal/decretos-lei/1940/del-2920-1940-12-30",
+"urn": "urn:lex:br:federal:decreto.lei:1940-12-30;2920",
+"consultado_em": "2026-11-04",
+"codigo": "528014",
+"nome": "Decreto-Lei nº 2.920 de 30/12/1940",
+"apelidos": [
+"Lei Orçamentária Anual (LOA) (1941)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1940-12-30", "descricao": "Publicação Original [Diário Oficial da União - Suplemento de 30/12/1940] (p. 1, col. 1)"},
+{"tipo": "REP", "data": "1940-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1940 - vol. 007] (p. 354, col. 1)"}
+],
+"alteracoes": [
+{"data": "1941-03-26", "nome": "Decreto-Lei nº 3.150 de 26/03/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3150-1941-03-26"},
+{"data": "1941-04-08", "nome": "Decreto-Lei nº 3.177 de 08/04/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3177-1941-04-08"},
+{"data": "1941-04-30", "nome": "Decreto-Lei nº 3.223 de 30/04/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3223-1941-04-30"},
+{"data": "1941-05-08", "nome": "Decreto-Lei nº 3.246 de 08/05/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3246-1941-05-08"},
+{"data": "1941-05-09", "nome": "Decreto-Lei nº 3.255 de 09/05/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3255-1941-05-09"},
+{"data": "1941-05-16", "nome": "Decreto-Lei nº 3.278 de 16/05/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3278-1941-05-16"},
+{"data": "1941-06-05", "nome": "Decreto-Lei nº 3.331 de 05/06/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3331-1941-06-05"},
+{"data": "1941-06-06", "nome": "Decreto-Lei nº 3.332 de 06/06/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3332-1941-06-06"},
+{"data": "1941-06-12", "nome": "Decreto-Lei nº 3.340 de 12/06/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3340-1941-06-12"},
+{"data": "1941-06-26", "nome": "Decreto-Lei nº 3.373 de 26/06/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3373-1941-06-26"},
+{"data": "1941-06-30", "nome": "Decreto-Lei nº 3.376 de 30/06/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3376-1941-06-30"},
+{"data": "1941-07-24", "nome": "Decreto-Lei nº 3.457 de 24/07/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3457-1941-07-24"},
+{"data": "1941-08-11", "nome": "Decreto-Lei nº 3.485 de 11/08/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3485-1941-08-11"},
+{"data": "1941-08-28", "nome": "Decreto-Lei nº 3.561 de 28/08/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3561-1941-08-28"},
+{"data": "1941-09-01", "nome": "Decreto-Lei nº 3.576 de 01/09/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3576-1941-09-01"},
+{"data": "1941-09-01", "nome": "Decreto-Lei nº 3.578 de 01/09/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3578-1941-09-01"},
+{"data": "1941-09-04", "nome": "Decreto-Lei nº 3.589 de 04/09/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3589-1941-09-04"},
+{"data": "1941-09-04", "nome": "Decreto-Lei nº 3.593 de 04/09/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3593-1941-09-04"},
+{"data": "1941-09-05", "nome": "Decreto-Lei nº 3.598 de 05/09/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3598-1941-09-05"},
+{"data": "1941-09-10", "nome": "Decreto-Lei nº 3.603 de 10/09/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3603-1941-09-10"},
+{"data": "1941-09-12", "nome": "Decreto-Lei nº 3.614 de 12/09/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3614-1941-09-12"},
+{"data": "1941-09-30", "nome": "Decreto-Lei nº 3.665 de 30/09/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3665-1941-09-30"},
+{"data": "1941-10-09", "nome": "Decreto-Lei nº 3.698 de 09/10/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3698-1941-10-09"},
+{"data": "1941-10-15", "nome": "Decreto-Lei nº 3.716 de 15/10/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3716-1941-10-15"},
+{"data": "1941-10-22", "nome": "Decreto-Lei nº 3.737 de 22/10/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3737-1941-10-22"},
+{"data": "1941-10-29", "nome": "Decreto-Lei nº 3.774 de 29/10/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3774-1941-10-29"},
+{"data": "1941-11-04", "nome": "Decreto-Lei nº 3.794 de 04/11/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3794-1941-11-04"},
+{"data": "1941-12-04", "nome": "Decreto-Lei nº 3.884 de 04/12/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3884-1941-12-04"},
+{"data": "1941-12-11", "nome": "Decreto-Lei nº 3.927 de 11/12/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3927-1941-12-11"}
+],
+"controle": []
+}

@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10404-2002-01-09",
+"urn": "urn:lex:br:federal:lei:2002-01-09;10404",
+"consultado_em": "2026-11-04",
+"codigo": "552280",
+"nome": "Lei nº 10.404 de 09/01/2002",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-01-10", "descricao": "Publicação Original [Diário Oficial da União de 10/01/2002] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2002-05-22", "nome": "Decreto nº 4.247 de 22/05/2002", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2004-07-15", "nome": "Medida Provisória nº 198 de 15/07/2004", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "2004-11-25", "nome": "Lei nº 10.971 de 25/11/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-10971-2004-11-25"},
+{"data": "2012-05-11", "nome": "Medida Provisória nº 568 de 11/05/2012", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8, Parágrafo Único", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 9-A, Parágrafo Único", "art": "9-a", "acao": "acrescentou"}, {"dispositivo": "Art. 9-B, Parágrafo Único", "art": "9-b", "acao": "acrescentou"}]},
+{"data": "2012-08-07", "nome": "Lei nº 12.702 de 07/08/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 9-A", "art": "9-a", "acao": "acrescentou"}, {"dispositivo": "Art. 9-B", "art": "9-b", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2012/lei-12702-2012-08-07"},
+{"data": "2016-07-29", "nome": "Lei nº 13.328 de 29/07/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9-B, § 1", "art": "9-b", "acao": "acrescentou"}, {"dispositivo": "Art. 9-B, Parágrafo Único", "art": "9-b", "acao": "revogou"}, {"dispositivo": "Art. 9-B, § 2", "art": "9-b", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2016/lei-13328-2016-07-29"},
+{"data": "2024-12-31", "nome": "Medida Provisória nº 1.286 de 31/12/2024", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, Parágrafo Único", "art": "5", "acao": "revogou"}]},
+{"data": "2025-06-02", "nome": "Lei nº 15.141 de 02/06/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, Parágrafo Único", "art": "5", "acao": "revogou"}], "id": "federal/leis-ordinarias/2025/lei-15141-2025-06-02"}
+],
+"controle": []
+}

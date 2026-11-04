@@ -1,0 +1,41 @@
+{
+"id": "federal/leis-ordinarias/2009/lei-12096-2009-11-24",
+"urn": "urn:lex:br:federal:lei:2009-11-24;12096",
+"consultado_em": "2026-11-04",
+"codigo": "580788",
+"nome": "Lei nº 12.096 de 24/11/2009",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2009-11-25", "descricao": "Publicação Original [Diário Oficial da União de 25/11/2009] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2009-12-14", "nome": "Decreto nº 7.031 de 14/12/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "prorrogação de prazo"}]},
+{"data": "2010-04-23", "nome": "Medida Provisória nº 487 de 23/04/2010", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2010-06-29", "nome": "Medida Provisória nº 492 de 29/06/2010", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 7", "art": "1", "acao": "acrescentou"}]},
+{"data": "2010-09-06", "nome": "Medida Provisória nº 501 de 06/09/2010", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 5", "art": "1", "acao": "alterou"}]},
+{"data": "2011-03-03", "nome": "Lei nº 12.385 de 03/03/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2011/lei-12385-2011-03-03"},
+{"data": "2011-03-04", "nome": "Medida Provisória nº 526 de 04/03/2011", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2011-07-21", "nome": "Lei nº 12.453 de 21/07/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2011/lei-12453-2011-07-21"},
+{"data": "2011-08-02", "nome": "Medida Provisória nº 541 de 02/08/2011", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2011-12-14", "nome": "Lei nº 12.545 de 14/12/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2011/lei-12545-2011-12-14"},
+{"data": "2012-04-03", "nome": "Medida Provisória nº 564 de 03/04/2012", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2012-08-30", "nome": "Lei nº 12.712 de 30/08/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2012/lei-12712-2012-08-30"},
+{"data": "2012-10-09", "nome": "Decreto de 09/10/2012", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "correlato"}]},
+{"data": "2012-12-06", "nome": "Medida Provisória nº 594 de 06/12/2012", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 10", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, § 11", "art": "1", "acao": "acrescentou"}]},
+{"data": "2012-12-28", "nome": "Medida Provisória nº 600 de 28/12/2012", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 11", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 12", "art": "1", "acao": "acrescentou"}]},
+{"data": "2013-02-18", "nome": "Medida Provisória nº 606 de 18/02/2013", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1, Alínea a", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, caput, Inciso 1, Alínea b", "art": "1", "acao": "acrescentou"}]},
+{"data": "2013-05-16", "nome": "Lei nº 12.814 de 16/05/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12814-2013-05-16"},
+{"data": "2013-06-06", "nome": "Medida Provisória nº 619 de 06/06/2013", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1, Alínea a", "art": "1", "acao": "alterou"}]},
+{"data": "2013-06-20", "nome": "Lei nº 12.833 de 20/06/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12833-2013-06-20"},
+{"data": "2013-10-24", "nome": "Lei nº 12.873 de 24/10/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1, Alínea a", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12873-2013-10-24"},
+{"data": "2013-12-26", "nome": "Medida Provisória nº 633 de 26/12/2013", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 1", "art": "1", "acao": "alterou"}]},
+{"data": "2014-06-18", "nome": "Lei nº 13.000 de 18/06/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 15", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2014/lei-13000-2014-06-18"},
+{"data": "2014-11-13", "nome": "Lei nº 13.043 de 13/11/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1, Alínea a", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2014/lei-13043-2014-11-13"},
+{"data": "2014-12-19", "nome": "Medida Provisória nº 663 de 19/12/2014", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 1", "art": "1", "acao": "alterou"}]},
+{"data": "2015-05-21", "nome": "Lei nº 13.126 de 21/05/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1-A", "art": "1-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2015/lei-13126-2015-05-21"},
+{"data": "2015-06-09", "nome": "Lei nº 13.132 de 09/06/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 17", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, § 17, Inciso 1", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, § 17, Inciso 2", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2015/lei-13132-2015-06-09"},
+{"data": "2015-12-30", "nome": "Medida Provisória nº 707 de 30/12/2015", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1-A, § 1", "art": "1-a", "acao": "alterou"}]},
+{"data": "2016-06-14", "nome": "Lei nº 13.295 de 14/06/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1-A, caput, Inciso 2, apenas o Caput", "art": "1-a", "acao": "alterou"}, {"dispositivo": "Art. 1-A, caput, Inciso 2, Alínea b", "art": "1-a", "acao": "alterou"}, {"dispositivo": "Art. 1-A, § 1", "art": "1-a", "acao": "alterou"}], "id": "federal/leis-ordinarias/2016/lei-13295-2016-06-14"}
+],
+"controle": []
+}

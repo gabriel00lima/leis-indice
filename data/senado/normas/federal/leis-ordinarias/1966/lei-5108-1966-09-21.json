@@ -1,0 +1,35 @@
+{
+"id": "federal/leis-ordinarias/1966/lei-5108-1966-09-21",
+"urn": "urn:lex:br:federal:lei:1966-09-21;5108",
+"consultado_em": "2026-11-04",
+"codigo": "546966",
+"nome": "Lei nº 5.108 de 21/09/1966",
+"apelidos": [
+"Código Nacional de Trânsito (CNT) (1966)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-09-22", "descricao": "Publicação Original [Diário Oficial da União de 22/09/1966] (p. 10971, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-02-28", "nome": "Decreto-Lei nº 237 de 28/02/1967", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1967/del-237-1967-02-28"},
+{"data": "1967-05-31", "nome": "Decreto nº 60.788 de 31/05/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1968-01-16", "nome": "Decreto nº 62.127 de 16/01/1968", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1969-05-16", "nome": "Decreto-Lei nº 584 de 16/05/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-584-1969-05-16"},
+{"data": "1969-10-02", "nome": "Decreto-Lei nº 912 de 02/10/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-912-1969-10-02"},
+{"data": "1971-08-16", "nome": "Lei nº 5.693 de 16/08/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5693-1971-08-16"},
+{"data": "1972-11-10", "nome": "Lei nº 5.820 de 10/11/1972", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5820-1972-11-10"},
+{"data": "1973-10-04", "nome": "Decreto nº 72.873 de 04/10/1973", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1974-10-25", "nome": "Lei nº 6.124 de 25/10/1974", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1974/lei-6124-1974-10-25"},
+{"data": "1975-12-15", "nome": "Lei nº 6.308 de 15/12/1975", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 42", "art": "42", "acao": "alterou"}], "id": "federal/leis-ordinarias/1975/lei-6308-1975-12-15"},
+{"data": "1976-10-27", "nome": "Lei nº 6.369 de 27/10/1976", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/1976/lei-6369-1976-10-27"},
+{"data": "1978-09-30", "nome": "Lei nº 6.575 de 30/09/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1978/lei-6575-1978-09-30"},
+{"data": "1979-12-04", "nome": "Lei nº 6.731 de 04/12/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 65", "art": "65", "acao": "alterou"}, {"dispositivo": "Art. 66", "art": "66", "acao": "alterou"}, {"dispositivo": "Art. 67", "art": "67", "acao": "alterou"}, {"dispositivo": "Art. 70", "art": "70", "acao": "alterou"}, {"dispositivo": "Art. 71", "art": "71", "acao": "alterou"}, {"dispositivo": "Art. 72", "art": "72", "acao": "alterou"}, {"dispositivo": "Art. 73", "art": "73", "acao": "revogou"}, {"dispositivo": "Art. 74", "art": "74", "acao": "alterou"}, {"dispositivo": "Art. 75", "art": "75", "acao": "revogou"}, {"dispositivo": "Art. 76", "art": "76", "acao": "revogou"}, {"dispositivo": "Art. 77", "art": "77", "acao": "alterou"}, {"dispositivo": "Art. 79", "art": "79", "acao": "alterou"}, {"dispositivo": "Art. 80, § 2", "art": "80", "acao": "revogou"}, {"dispositivo": "Art. 96, § 1, Alínea e", "art": "96", "acao": "revogou"}], "id": "federal/leis-ordinarias/1979/lei-6731-1979-12-04"},
+{"data": "1982-09-20", "nome": "Lei nº 7.031 de 20/09/1982", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 88", "art": "88", "acao": "alterou"}], "id": "federal/leis-ordinarias/1982/lei-7031-1982-09-20"},
+{"data": "1982-12-02", "nome": "Lei nº 7.052 de 02/12/1982", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 2", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 60", "art": "60", "acao": "alterou"}], "id": "federal/leis-ordinarias/1982/lei-7052-1982-12-02"},
+{"data": "1983-11-07", "nome": "Lei nº 7.138 de 07/11/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 72, § 2", "art": "72", "acao": "alterou"}], "id": "federal/leis-ordinarias/1983/lei-7138-1983-11-07"},
+{"data": "1988-07-21", "nome": "Decreto-Lei nº 2.448 de 21/07/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 89, caput, Inciso 39, Alínea h", "art": "89", "acao": "alterou"}, {"dispositivo": "Art. 94, Parágrafo Único", "art": "94", "acao": "alterou"}, {"dispositivo": "Art. 107, § 3, Inciso 1", "art": "107", "acao": "alterou"}, {"dispositivo": "Art. 107, § 3, Inciso 2", "art": "107", "acao": "alterou"}, {"dispositivo": "Art. 107, § 3, Inciso 3", "art": "107", "acao": "alterou"}, {"dispositivo": "Art. 107, § 3, Inciso 4", "art": "107", "acao": "alterou"}, {"dispositivo": "Art. 111", "art": "111", "acao": "alterou"}], "id": "federal/decretos-lei/1988/del-2448-1988-07-21"},
+{"data": "1990-06-20", "nome": "Lei nº 8.052 de 20/06/1990", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 38", "art": "38", "acao": "alterou"}], "id": "federal/leis-ordinarias/1990/lei-8052-1990-06-20"},
+{"data": "1997-09-23", "nome": "Lei nº 9.503 de 23/09/1997", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9503-1997-09-23"}
+],
+"controle": []
+}

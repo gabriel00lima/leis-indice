@@ -1,0 +1,34 @@
+{
+"id": "federal/leis-ordinarias/2011/lei-12527-2011-11-18",
+"urn": "urn:lex:br:federal:lei:2011-11-18;12527",
+"consultado_em": "2026-11-04",
+"codigo": "584383",
+"nome": "Lei nº 12.527 de 18/11/2011",
+"apelidos": [
+"Lei de Acesso à Informação (LAI) (2011)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2011-11-18", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 18/11/2011] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2011-11-18", "nome": "Mensagem de Veto Parcial nº 523 de 18/11/2011", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2011-11-18", "nome": "Mensagem de Veto Parcial nº 523 de 18/11/2011", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2011-11-18", "nome": "Mensagem de Veto Parcial nº 523 de 18/11/2011", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2011-11-18", "nome": "Mensagem de Veto Parcial nº 523 de 18/11/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 19, caput", "art": "19", "acao": "veto"}, {"dispositivo": "Art. 19, § 1", "art": "19", "acao": "veto"}, {"dispositivo": "Art. 35, caput", "art": "35", "acao": "veto"}]},
+{"data": "2012-05-16", "nome": "Decreto nº 7.724 de 16/05/2012", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2012-11-14", "nome": "Decreto nº 7.845 de 14/11/2012", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 25", "art": "25", "acao": "regulamentou"}, {"dispositivo": "Art. 27", "art": "27", "acao": "regulamentou"}, {"dispositivo": "Art. 29", "art": "29", "acao": "regulamentou"}, {"dispositivo": "Art. 35, § 5", "art": "35", "acao": "regulamentou"}, {"dispositivo": "Art. 37", "art": "37", "acao": "regulamentou"}]},
+{"data": "2016-05-11", "nome": "Decreto nº 8.777 de 11/05/2016", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 40", "art": "40", "acao": "correlato"}]},
+{"data": "2017-06-26", "nome": "Lei nº 13.460 de 26/06/2017", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2017/lei-13460-2017-06-26"},
+{"data": "2018-08-14", "nome": "Lei nº 13.709 de 14/08/2018", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2018/lei-13709-2018-08-14"},
+{"data": "2019-10-09", "nome": "Decreto nº 10.046 de 09/10/2019", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2020-02-06", "nome": "Lei nº 13.979 de 06/02/2020", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2020/lei-13979-2020-02-06"},
+{"data": "2021-03-29", "nome": "Lei nº 14.129 de 29/03/2021", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14129-2021-03-29"},
+{"data": "2021-03-29", "nome": "Lei nº 14.129 de 29/03/2021", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14129-2021-03-29"},
+{"data": "2021-03-29", "nome": "Lei nº 14.129 de 29/03/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12, caput", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 12, § 1", "art": "12", "acao": "acrescentou"}, {"dispositivo": "Art. 12, Parágrafo Único", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 12, § 2", "art": "12", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2021/lei-14129-2021-03-29"},
+{"data": "2022-05-24", "nome": "Lei nº 14.345 de 24/05/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, caput, Inciso 8", "art": "7", "acao": "vetado"}], "id": "federal/leis-ordinarias/2022/lei-14345-2022-05-24"},
+{"data": "2022-05-24", "nome": "Lei nº 14.345 de 24/05/2022", "tipo": "Acréscimo Vetado", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14345-2022-05-24"},
+{"data": "2022-05-24", "nome": "Lei nº 14.345 de 24/05/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14345-2022-05-24"},
+{"data": "2025-06-02", "nome": "Lei nº 15.141 de 02/06/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8-A", "art": "8-a", "acao": "acrescentou"}, {"dispositivo": "Art. 8-B, caput", "art": "8-b", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2025/lei-15141-2025-06-02"}
+],
+"controle": []
+}

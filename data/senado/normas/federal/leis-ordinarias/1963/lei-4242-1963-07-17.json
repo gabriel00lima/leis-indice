@@ -1,0 +1,27 @@
+{
+"id": "federal/leis-ordinarias/1963/lei-4242-1963-07-17",
+"urn": "urn:lex:br:federal:lei:1963-07-17;4242",
+"consultado_em": "2026-11-04",
+"codigo": "546088",
+"nome": "Lei nº 4.242 de 17/07/1963",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1963-07-18", "descricao": "Publicação Original [Diário Oficial da União de 18/07/1963] (p. 6233, col. 1)"}
+],
+"alteracoes": [
+{"data": "1963-08-25", "nome": "Decreto nº 52.400 de 25/08/1963", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1964-03-16", "nome": "Decreto nº 53.704 de 16/03/1964", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1964-06-26", "nome": "Lei nº 4.345 de 26/06/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4345-1964-06-26"},
+{"data": "1964-07-16", "nome": "Lei nº 4.357 de 16/07/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4357-1964-07-16"},
+{"data": "1964-08-31", "nome": "Lei nº 4.400 de 31/08/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4400-1964-08-31"},
+{"data": "1964-10-27", "nome": "Lei nº 4.439 de 27/10/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4439-1964-10-27"},
+{"data": "1969-10-21", "nome": "Decreto-Lei nº 1.013 de 21/10/1969", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1969/del-1013-1969-10-21"},
+{"data": "1972-10-10", "nome": "Lei nº 5.809 de 10/10/1972", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 19", "art": "19", "acao": "revogou"}], "id": "federal/leis-ordinarias/1972/lei-5809-1972-10-10"},
+{"data": "1974-10-24", "nome": "Decreto-Lei nº 1.349 de 24/10/1974", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1974/del-1349-1974-10-24"},
+{"data": "1975-10-14", "nome": "Decreto nº 76.440 de 14/10/1975", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1981-06-29", "nome": "Lei nº 6.923 de 29/06/1981", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1981/lei-6923-1981-06-29"},
+{"data": "1990-07-04", "nome": "Lei nº 8.059 de 04/07/1990", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 30", "art": "30", "acao": "revogou"}], "id": "federal/leis-ordinarias/1990/lei-8059-1990-07-04"},
+{"data": "2019-12-16", "nome": "Lei nº 13.954 de 16/12/2019", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2019/lei-13954-2019-12-16"}
+],
+"controle": []
+}

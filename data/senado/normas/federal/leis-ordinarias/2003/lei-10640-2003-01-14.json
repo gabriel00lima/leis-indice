@@ -1,0 +1,34 @@
+{
+"id": "federal/leis-ordinarias/2003/lei-10640-2003-01-14",
+"urn": "urn:lex:br:federal:lei:2003-01-14;10640",
+"consultado_em": "2026-11-04",
+"codigo": "552516",
+"nome": "Lei nº 10.640 de 14/01/2003",
+"apelidos": [
+"Lei Orçamentária Anual (LOA) (2003)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2003-01-15", "descricao": "Publicação Original [Diário Oficial da União de 15/01/2003] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "2003-01-16", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 16/01/2003] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "2003-07-07", "descricao": "Retificação (Seq. 2) [Diário Oficial da União de 07/07/2003] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2003-02-10", "nome": "Decreto nº 4.591 de 10/02/2003", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2003-03-13", "nome": "Decreto nº 4.614 de 13/03/2003", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2003-05-27", "nome": "Lei nº 10.681 de 27/05/2003", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2003/lei-10681-2003-05-27"},
+{"data": "2003-06-18", "nome": "Lei nº 10.692 de 18/06/2003", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2003/lei-10692-2003-06-18"},
+{"data": "2003-09-02", "nome": "Lei nº 10.727 de 02/09/2003", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2003/lei-10727-2003-09-02"},
+{"data": "2003-09-10", "nome": "Decreto Legislativo do Congresso Nacional nº 4 de 10/09/2003", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2003-09-10", "nome": "Decreto Legislativo do Congresso Nacional nº 5 de 10/09/2003", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2003-09-10", "nome": "Decreto Legislativo do Congresso Nacional nº 6 de 10/09/2003", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2003-11-14", "nome": "Decreto Legislativo do Congresso Nacional nº 12 de 14/11/2003", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2003-12-03", "nome": "Decreto Legislativo do Congresso Nacional nº 16 de 03/12/2003", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2003-12-03", "nome": "Decreto Legislativo do Congresso Nacional nº 17 de 03/12/2003", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2003-12-03", "nome": "Decreto Legislativo do Congresso Nacional nº 18 de 03/12/2003", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2003-12-03", "nome": "Decreto Legislativo do Congresso Nacional nº 19 de 03/12/2003", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2003-12-03", "nome": "Decreto Legislativo do Congresso Nacional nº 21 de 03/12/2003", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2003-12-11", "nome": "Lei nº 10.804 de 11/12/2003", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2003/lei-10804-2003-12-11"},
+{"data": "2004-02-11", "nome": "Decreto Legislativo do Congresso Nacional nº 1 de 11/02/2004", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

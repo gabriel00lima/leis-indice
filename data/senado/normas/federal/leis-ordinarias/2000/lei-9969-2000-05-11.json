@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2000/lei-9969-2000-05-11",
+"urn": "urn:lex:br:federal:lei:2000-05-11;9969",
+"consultado_em": "2026-11-04",
+"codigo": "551845",
+"nome": "Lei nº 9.969 de 11/05/2000",
+"apelidos": [
+"Lei Orçamentária Anual (LOA) (2000)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-05-12", "descricao": "Publicação Original [Diário Oficial da União de 12/05/2000] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2000-05-18", "nome": "Decreto nº 3.473 de 18/05/2000", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2000-05-22", "nome": "Decreto nº 3.476 de 22/05/2000", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2000-12-21", "nome": "Decreto de 21/12/2000 ( seq-sf: 3 )", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2000-12-27", "nome": "Decreto de 27/12/2000 ( seq-sf: 2 )", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

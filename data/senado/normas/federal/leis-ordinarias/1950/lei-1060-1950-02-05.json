@@ -1,0 +1,31 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1060-1950-02-05",
+"urn": "urn:lex:br:federal:lei:1950-02-05;1060",
+"consultado_em": "2026-11-04",
+"codigo": "542667",
+"nome": "Lei nº 1.060 de 05/02/1950",
+"apelidos": [
+"Lei da Assistência Judiciária (1950)",
+"Lei da Justiça Gratuita (1950)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-02-13", "descricao": "Publicação Original [Diário Oficial da União de 13/02/1950] (p. 2161, col. 1)"}
+],
+"alteracoes": [
+{"data": "1959-11-17", "nome": "Decreto nº 47.261 de 17/11/1959", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1970-06-26", "nome": "Lei nº 5.584 de 26/06/1970", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1970/lei-5584-1970-06-26"},
+{"data": "1973-12-27", "nome": "Lei nº 6.014 de 27/12/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-6014-1973-12-27"},
+{"data": "1975-10-08", "nome": "Lei nº 6.248 de 08/10/1975", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 16", "art": "16", "acao": "alterou"}], "id": "federal/leis-ordinarias/1975/lei-6248-1975-10-08"},
+{"data": "1977-11-14", "nome": "Lei nº 6.465 de 14/11/1977", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14", "art": "14", "acao": "alterou"}], "id": "federal/leis-ordinarias/1977/lei-6465-1977-11-14"},
+{"data": "1979-05-30", "nome": "Lei nº 6.654 de 30/05/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/1979/lei-6654-1979-05-30"},
+{"data": "1979-10-29", "nome": "Lei nº 6.707 de 29/10/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 1", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/1979/lei-6707-1979-10-29"},
+{"data": "1980-11-12", "nome": "Lei nº 6.848 de 12/11/1980", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1980/lei-6848-1980-11-12"},
+{"data": "1984-12-18", "nome": "Lei nº 7.288 de 18/12/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/1984/lei-7288-1984-12-18"},
+{"data": "1986-07-04", "nome": "Lei nº 7.510 de 04/07/1986", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/1986/lei-7510-1986-07-04"},
+{"data": "1989-11-08", "nome": "Lei nº 7.871 de 08/11/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}], "id": "federal/leis-ordinarias/1989/lei-7871-1989-11-08"},
+{"data": "2001-12-06", "nome": "Lei nº 10.317 de 06/12/2001", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 6", "art": "3", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2001/lei-10317-2001-12-06"},
+{"data": "2009-10-07", "nome": "Lei Complementar nº 132 de 07/10/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 7", "art": "3", "acao": "acrescentou"}], "id": "federal/leis-complementares/2009/lcp-132-2009-10-07"},
+{"data": "2015-03-16", "nome": "Lei nº 13.105 de 16/03/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 17", "art": "17", "acao": "revogou"}], "id": "federal/leis-ordinarias/2015/lei-13105-2015-03-16"}
+],
+"controle": []
+}

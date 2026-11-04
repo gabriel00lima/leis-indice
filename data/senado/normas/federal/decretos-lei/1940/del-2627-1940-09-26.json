@@ -1,0 +1,28 @@
+{
+"id": "federal/decretos-lei/1940/del-2627-1940-09-26",
+"urn": "urn:lex:br:federal:decreto.lei:1940-09-26;2627",
+"consultado_em": "2026-11-04",
+"codigo": "527721",
+"nome": "Decreto-Lei nº 2.627 de 26/09/1940",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1940-10-01", "descricao": "Publicação Original [Diário Oficial da União de 01/10/1940] (p. 18711, col. 1)"}
+],
+"alteracoes": [
+{"data": "1941-07-07", "nome": "Decreto-Lei nº 3.391 de 07/07/1941", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 170", "art": "170", "acao": "alterou"}], "id": "federal/decretos-lei/1941/del-3391-1941-07-07"},
+{"data": "1942-09-23", "nome": "Decreto-Lei nº 4.736 de 23/09/1942", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4736-1942-09-23"},
+{"data": "1944-01-29", "nome": "Decreto-Lei nº 6.230 de 29/01/1944", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1944/del-6230-1944-01-29"},
+{"data": "1944-05-02", "nome": "Decreto-Lei nº 6.464 de 02/05/1944", "tipo": "Ressalva Permanente da Norma no todo", "dispositivos": [], "id": "federal/decretos-lei/1944/del-6464-1944-05-02"},
+{"data": "1946-01-05", "nome": "Decreto-Lei nº 8.563 de 05/01/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-8563-1946-01-05"},
+{"data": "1946-09-06", "nome": "Decreto-Lei nº 9.783 de 06/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9783-1946-09-06"},
+{"data": "1951-08-13", "nome": "Decreto nº 29.887 de 13/08/1951", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1954-08-23", "nome": "Lei nº 2.300 de 23/08/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2300-1954-08-23"},
+{"data": "1958-02-22", "nome": "Lei nº 3.369 de 22/02/1958", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1958/lei-3369-1958-02-22"},
+{"data": "1965-07-14", "nome": "Lei nº 4.728 de 14/07/1965", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4728-1965-07-14"},
+{"data": "1967-02-28", "nome": "Decreto-Lei nº 305 de 28/02/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1967/del-305-1967-02-28"},
+{"data": "1970-07-03", "nome": "Lei nº 5.589 de 03/07/1970", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1970/lei-5589-1970-07-03"},
+{"data": "1974-03-13", "nome": "Lei nº 6.024 de 13/03/1974", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1974/lei-6024-1974-03-13"},
+{"data": "2019-05-08", "nome": "Decreto nº 9.787 de 08/05/2019", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 59", "art": "59", "acao": "correlato"}]}
+],
+"controle": []
+}

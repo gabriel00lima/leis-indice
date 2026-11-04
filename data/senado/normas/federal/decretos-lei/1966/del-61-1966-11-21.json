@@ -1,0 +1,43 @@
+{
+"id": "federal/decretos-lei/1966/del-61-1966-11-21",
+"urn": "urn:lex:br:federal:decreto.lei:1966-11-21;61",
+"consultado_em": "2026-11-04",
+"codigo": "522764",
+"nome": "Decreto-Lei nº 61 de 21/11/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-22", "descricao": "Publicação Original [Diário Oficial da União de 22/11/1966] (p. 13501, col. 4)"}
+],
+"alteracoes": [
+{"data": "1966-12-08", "nome": "Lei nº 5.189 de 08/12/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5189-1966-12-08"},
+{"data": "1967-02-27", "nome": "Decreto-Lei nº 208 de 27/02/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1967/del-208-1967-02-27"},
+{"data": "1967-10-18", "nome": "Decreto-Lei nº 335 de 18/10/1967", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1967/del-335-1967-10-18"},
+{"data": "1967-12-28", "nome": "Decreto-Lei nº 343 de 28/12/1967", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1967/del-343-1967-12-28"},
+{"data": "1969-08-28", "nome": "Decreto-Lei nº 799 de 28/08/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-799-1969-08-28"},
+{"data": "1969-09-08", "nome": "Decreto-Lei nº 833 de 08/09/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-833-1969-09-08"},
+{"data": "1969-09-11", "nome": "Decreto-Lei nº 859 de 11/09/1969", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1969/del-859-1969-09-11"},
+{"data": "1970-03-12", "nome": "Decreto-Lei nº 1.091 de 12/03/1970", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1970/del-1091-1970-03-12"},
+{"data": "1971-12-03", "nome": "Lei nº 5.761 de 03/12/1971", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5761-1971-12-03"},
+{"data": "1971-12-09", "nome": "Decreto-Lei nº 1.195 de 09/12/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1971/del-1195-1971-12-09"},
+{"data": "1972-05-15", "nome": "Decreto-Lei nº 1.220 de 15/05/1972", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1972/del-1220-1972-05-15"},
+{"data": "1973-07-05", "nome": "Decreto-Lei nº 1.279 de 05/07/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1973/del-1279-1973-07-05"},
+{"data": "1973-09-10", "nome": "Lei nº 5.917 de 10/09/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-5917-1973-09-10"},
+{"data": "1973-12-26", "nome": "Decreto-Lei nº 1.296 de 26/12/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1973/del-1296-1973-12-26"},
+{"data": "1974-08-22", "nome": "Decreto-Lei nº 1.340 de 22/08/1974", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/decretos-lei/1974/del-1340-1974-08-22"},
+{"data": "1975-09-18", "nome": "Decreto nº 76.290 de 18/09/1975", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "1975-10-09", "nome": "Decreto nº 76.405 de 09/10/1975", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1975-10-09", "nome": "Decreto-Lei nº 1.420 de 09/10/1975", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/decretos-lei/1975/del-1420-1975-10-09"},
+{"data": "1976-11-30", "nome": "Decreto nº 78.857 de 30/11/1976", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "1976-12-28", "nome": "Decreto-Lei nº 1.511 de 28/12/1976", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1976/del-1511-1976-12-28"},
+{"data": "1977-05-05", "nome": "Decreto nº 79.657 de 05/05/1977", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1977-12-23", "nome": "Decreto-Lei nº 1.597 de 23/12/1977", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1977/del-1597-1977-12-23"},
+{"data": "1977-12-30", "nome": "Decreto-Lei nº 1.599 de 30/12/1977", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1977/del-1599-1977-12-30"},
+{"data": "1979-07-31", "nome": "Decreto nº 83.802 de 31/07/1979", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1979-08-02", "nome": "Decreto-Lei nº 1.691 de 02/08/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/decretos-lei/1979/del-1691-1979-08-02"},
+{"data": "1980-10-06", "nome": "Decreto-Lei nº 1.807 de 06/10/1980", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1980/del-1807-1980-10-06"},
+{"data": "1984-12-20", "nome": "Decreto-Lei nº 2.184 de 20/12/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 3", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1984/del-2184-1984-12-20"},
+{"data": "1988-05-19", "nome": "Decreto-Lei nº 2.433 de 19/05/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}], "id": "federal/decretos-lei/1988/del-2433-1988-05-19"},
+{"data": "1988-12-20", "nome": "Lei nº 7.693 de 20/12/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 8", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1988/lei-7693-1988-12-20"}
+],
+"controle": []
+}

@@ -1,0 +1,33 @@
+{
+"id": "federal/decretos-lei/1941/del-3960-1941-12-19",
+"urn": "urn:lex:br:federal:decreto.lei:1941-12-19;3960",
+"consultado_em": "2026-11-04",
+"codigo": "529047",
+"nome": "Decreto-Lei nº 3.960 de 19/12/1941",
+"apelidos": [
+"Lei Orçamentária Anual (LOA) (1942)"
+],
+"publicacoes": [
+{"tipo": "REP", "data": "1941-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1941 - vol. 007] (p. 670, col. 1)"}
+],
+"alteracoes": [
+{"data": "1942-04-30", "nome": "Decreto-Lei nº 4.284 de 30/04/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4284-1942-04-30"},
+{"data": "1942-05-21", "nome": "Decreto-Lei nº 4.316 de 21/05/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4316-1942-05-21"},
+{"data": "1942-06-09", "nome": "Decreto-Lei nº 4.368 de 09/06/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4368-1942-06-09"},
+{"data": "1942-06-29", "nome": "Decreto-Lei nº 4.416 de 29/06/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4416-1942-06-29"},
+{"data": "1942-07-17", "nome": "Decreto-Lei nº 4.489 de 17/07/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4489-1942-07-17"},
+{"data": "1942-07-30", "nome": "Decreto-Lei nº 4.531 de 30/07/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4531-1942-07-30"},
+{"data": "1942-07-31", "nome": "Decreto-Lei nº 4.542 de 31/07/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4542-1942-07-31"},
+{"data": "1942-08-12", "nome": "Decreto-Lei nº 4.571 de 12/08/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4571-1942-08-12"},
+{"data": "1942-08-13", "nome": "Decreto-Lei nº 4.585 de 13/08/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4585-1942-08-13"},
+{"data": "1942-08-18", "nome": "Decreto-Lei nº 4.592 de 18/08/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4592-1942-08-18"},
+{"data": "1942-09-10", "nome": "Decreto-Lei nº 4.682 de 10/09/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4682-1942-09-10"},
+{"data": "1942-10-07", "nome": "Decreto-Lei nº 4.808 de 07/10/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4808-1942-10-07"},
+{"data": "1942-10-21", "nome": "Decreto-Lei nº 4.855 de 21/10/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4855-1942-10-21"},
+{"data": "1942-11-06", "nome": "Decreto-Lei nº 4.933 de 06/11/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4933-1942-11-06"},
+{"data": "1942-11-06", "nome": "Decreto-Lei nº 4.935 de 06/11/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4935-1942-11-06"},
+{"data": "1942-11-19", "nome": "Decreto-Lei nº 4.969 de 19/11/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4969-1942-11-19"},
+{"data": "1942-11-19", "nome": "Decreto-Lei nº 4.970 de 19/11/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4970-1942-11-19"}
+],
+"controle": []
+}

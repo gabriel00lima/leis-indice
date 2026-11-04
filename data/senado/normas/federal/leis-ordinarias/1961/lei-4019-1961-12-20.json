@@ -1,0 +1,29 @@
+{
+"id": "federal/leis-ordinarias/1961/lei-4019-1961-12-20",
+"urn": "urn:lex:br:federal:lei:1961-12-20;4019",
+"consultado_em": "2026-11-04",
+"codigo": "545851",
+"nome": "Lei nº 4.019 de 20/12/1961",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-01-05", "descricao": "Publicação Original [Diário Oficial da União de 05/01/1962] (p. 145, col. 1)"}
+],
+"alteracoes": [
+{"data": "1962-03-30", "nome": "Decreto do Conselho de MInistros nº 807 de 30/03/1962", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1962-03-30", "nome": "Decreto do Conselho de MInistros nº 807 de 30/03/1962", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1962-11-10", "nome": "Resolução da Câmara dos Deputados nº 72 de 10/11/1962", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1963-07-17", "nome": "Lei nº 4.242 de 17/07/1963", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1963/lei-4242-1963-07-17"},
+{"data": "1963-07-30", "nome": "Resolução do Senado Federal nº 16 de 30/07/1963", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1964-06-26", "nome": "Lei nº 4.345 de 26/06/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4345-1964-06-26"},
+{"data": "1968-12-20", "nome": "Decreto-Lei nº 376 de 20/12/1968", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1968/del-376-1968-12-20"},
+{"data": "1969-08-06", "nome": "Decreto-Lei nº 728 de 06/08/1969", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1969/del-728-1969-08-06"},
+{"data": "1971-06-14", "nome": "Lei nº 5.660 de 14/06/1971", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5660-1971-06-14"},
+{"data": "1971-06-21", "nome": "Lei nº 5.663 de 21/06/1971", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5663-1971-06-21"},
+{"data": "1972-12-06", "nome": "Lei nº 5.843 de 06/12/1972", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5843-1972-12-06"},
+{"data": "1973-07-09", "nome": "Lei nº 5.900 de 09/07/1973", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-5900-1973-07-09"},
+{"data": "1973-07-09", "nome": "Lei nº 5.901 de 09/07/1973", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-5901-1973-07-09"},
+{"data": "1975-12-11", "nome": "Lei nº 6.286 de 11/12/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1975/lei-6286-1975-12-11"},
+{"data": "1975-12-15", "nome": "Lei nº 6.303 de 15/12/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1975/lei-6303-1975-12-15"}
+],
+"controle": []
+}

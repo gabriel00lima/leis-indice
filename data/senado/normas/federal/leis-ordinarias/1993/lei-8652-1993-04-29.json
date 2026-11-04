@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1993/lei-8652-1993-04-29",
+"urn": "urn:lex:br:federal:lei:1993-04-29;8652",
+"consultado_em": "2026-11-04",
+"codigo": "550528",
+"nome": "Lei nº 8.652 de 29/04/1993",
+"apelidos": [
+"Lei Orçamentária Anual (LOA) (1993)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-04-30", "descricao": "Publicação Original [Diário Oficial da União de 30/04/1993] (p. 5713, col. 1)"}
+],
+"alteracoes": [
+{"data": "1993-06-30", "nome": "Medida Provisória nº 331 de 30/06/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-09-24", "nome": "Medida Provisória nº 354 de 24/09/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-12-30", "nome": "Medida Provisória nº 405 de 30/12/1993", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

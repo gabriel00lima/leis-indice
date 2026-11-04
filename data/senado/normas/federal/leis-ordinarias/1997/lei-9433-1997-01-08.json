@@ -1,0 +1,33 @@
+{
+"id": "federal/leis-ordinarias/1997/lei-9433-1997-01-08",
+"urn": "urn:lex:br:federal:lei:1997-01-08;9433",
+"consultado_em": "2026-11-04",
+"codigo": "551309",
+"nome": "Lei nº 9.433 de 08/01/1997",
+"apelidos": [
+"Lei de Gestão de Recursos Hídricos (1997)",
+"Lei da Política Nacional de Recursos Hídricos (1997)",
+"Lei das Águas (1997)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1997-01-09", "descricao": "Publicação Original [Diário Oficial da União de 09/01/1997] (p. 470, col. 1)"}
+],
+"alteracoes": [
+{"data": "1998-06-03", "nome": "Decreto nº 2.612 de 03/06/1998", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2000-07-17", "nome": "Lei nº 9.984 de 17/07/2000", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 33", "art": "33", "acao": "alterou"}, {"dispositivo": "Art. 35, caput, Inciso 9", "art": "35", "acao": "alterou"}, {"dispositivo": "Art. 46", "art": "46", "acao": "alterou"}], "id": "federal/leis-ordinarias/2000/lei-9984-2000-07-17"},
+{"data": "2003-03-11", "nome": "Decreto nº 4.613 de 11/03/2003", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2004-02-11", "nome": "Medida Provisória nº 165 de 11/02/2004", "tipo": "Regulamentação Provisória de Norma", "dispositivos": [{"dispositivo": "Art. 51", "art": "51", "acao": "regulamentou"}]},
+{"data": "2004-06-09", "nome": "Lei nº 10.881 de 09/06/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 51", "art": "51", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-10881-2004-06-09"},
+{"data": "2010-09-20", "nome": "Lei nº 12.334 de 20/09/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 35, caput, Inciso 11", "art": "35", "acao": "acrescentou"}, {"dispositivo": "Art. 35, caput, Inciso 12", "art": "35", "acao": "acrescentou"}, {"dispositivo": "Art. 35, caput, Inciso 13", "art": "35", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2010/lei-12334-2010-09-20"},
+{"data": "2017-10-30", "nome": "Lei nº 13.501 de 30/10/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 4", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2017/lei-13501-2017-10-30"},
+{"data": "2019-01-01", "nome": "Medida Provisória nº 870 de 01/01/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 36, caput, Inciso 1", "art": "36", "acao": "alterou"}, {"dispositivo": "Art. 36, caput, Inciso 2", "art": "36", "acao": "alterou"}, {"dispositivo": "Art. 45, caput", "art": "45", "acao": "alterou"}]},
+{"data": "2019-06-18", "nome": "Lei nº 13.844 de 18/06/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 36, caput, Inciso 1", "art": "36", "acao": "alterou"}, {"dispositivo": "Art. 36, caput, Inciso 2", "art": "36", "acao": "alterou"}, {"dispositivo": "Art. 45, caput", "art": "45", "acao": "alterou"}], "id": "federal/leis-ordinarias/2019/lei-13844-2019-06-18"},
+{"data": "2019-09-03", "nome": "Decreto nº 10.000 de 03/09/2019", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 34", "art": "34", "acao": "regulamentou"}, {"dispositivo": "Art. 35", "art": "35", "acao": "regulamentou"}, {"dispositivo": "Art. 36", "art": "36", "acao": "regulamentou"}]},
+{"data": "2020-09-30", "nome": "Lei nº 14.066 de 30/09/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 50, caput", "art": "50", "acao": "alterou"}, {"dispositivo": "Art. 50, caput, Inciso 2", "art": "50", "acao": "alterou"}], "id": "federal/leis-ordinarias/2020/lei-14066-2020-09-30"},
+{"data": "2020-12-14", "nome": "Decreto nº 10.576 de 14/12/2020", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2023-01-01", "nome": "Medida Provisória nº 1.154 de 01/01/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 36, caput, Inciso 1", "art": "36", "acao": "alterou"}, {"dispositivo": "Art. 36, caput, Inciso 2", "art": "36", "acao": "alterou"}, {"dispositivo": "Art. 45, caput", "art": "45", "acao": "alterou"}]},
+{"data": "2023-06-19", "nome": "Lei nº 14.600 de 19/06/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 36, caput, Inciso 1", "art": "36", "acao": "alterou"}, {"dispositivo": "Art. 36, caput, Inciso 2", "art": "36", "acao": "alterou"}, {"dispositivo": "Art. 45, caput", "art": "45", "acao": "alterou"}], "id": "federal/leis-ordinarias/2023/lei-14600-2023-06-19"},
+{"data": "2025-11-24", "nome": "Lei nº 15.269 de 24/11/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, caput, Inciso 4", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, caput, Inciso 5", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 3, caput, Inciso 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 7", "art": "3", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2025/lei-15269-2025-11-24"}
+],
+"controle": []
+}

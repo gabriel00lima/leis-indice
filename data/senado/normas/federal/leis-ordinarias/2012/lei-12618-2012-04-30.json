@@ -1,0 +1,29 @@
+{
+"id": "federal/leis-ordinarias/2012/lei-12618-2012-04-30",
+"urn": "urn:lex:br:federal:lei:2012-04-30;12618",
+"consultado_em": "2026-11-04",
+"codigo": "589541",
+"nome": "Lei nº 12.618 de 30/04/2012",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2012-05-02", "descricao": "Publicação Original [Diário Oficial da União de 02/05/2012] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2015-11-04", "nome": "Lei nº 13.183 de 04/11/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2015/lei-13183-2015-11-04"},
+{"data": "2016-07-29", "nome": "Lei nº 13.328 de 29/07/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 7", "art": "3", "acao": "reabertura de prazo"}], "id": "federal/leis-ordinarias/2016/lei-13328-2016-07-29"},
+{"data": "2018-09-25", "nome": "Medida Provisória nº 853 de 25/09/2018", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, § 7", "art": "3", "acao": "reabertura de prazo"}]},
+{"data": "2019-02-21", "nome": "Lei nº 13.809 de 21/02/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 7", "art": "3", "acao": "reabertura de prazo"}], "id": "federal/leis-ordinarias/2019/lei-13809-2019-02-21"},
+{"data": "2021-03-29", "nome": "Lei nº 14.129 de 29/03/2021", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "correlato"}], "id": "federal/leis-ordinarias/2021/lei-14129-2021-03-29"},
+{"data": "2021-04-14", "nome": "Medida Provisória nº 1.042 de 14/04/2021", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 16, § 1", "art": "16", "acao": "correlato"}]},
+{"data": "2022-05-25", "nome": "Medida Provisória nº 1.119 de 25/05/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, § 7", "art": "3", "acao": "reabertura de prazo"}, {"dispositivo": "Art. 4, § 1, apenas o Caput", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 1, Inciso 1", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 4, § 1, Inciso 2", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 4, § 1, Inciso 3", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 5, § 8", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 8, caput", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8, caput, Inciso 1", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 11, § 3, apenas o Caput", "art": "11", "acao": "acrescentou"}, {"dispositivo": "Art. 11, § 3, Inciso 1", "art": "11", "acao": "acrescentou"}, {"dispositivo": "Art. 11, § 3, Inciso 2", "art": "11", "acao": "acrescentou"}]},
+{"data": "2022-10-26", "nome": "Lei nº 14.463 de 26/10/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, § 7", "art": "3", "acao": "reabertura de prazo"}, {"dispositivo": "Art. 4, § 1, apenas o Caput", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 1, Inciso 1", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 4, § 1, Inciso 2", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 4, § 1, Inciso 3", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 5, § 8", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 8, caput", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8, caput, Inciso 1", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 11, § 3, apenas o Caput", "art": "11", "acao": "acrescentou"}, {"dispositivo": "Art. 11, § 3, Inciso 1", "art": "11", "acao": "acrescentou"}, {"dispositivo": "Art. 11, § 3, Inciso 2", "art": "11", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14463-2022-10-26"},
+{"data": "2024-12-31", "nome": "Medida Provisória nº 1.286 de 31/12/2024", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5, § 3-A", "art": "5", "acao": "acrescentou"}]},
+{"data": "2025-06-02", "nome": "Lei nº 15.141 de 02/06/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, § 3-A", "art": "5", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2025/lei-15141-2025-06-02"}
+],
+"controle": [
+{"data": "2025-11-10", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.863 de 10/11/2025", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "4863"}},
+{"data": "2025-11-10", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.885 de 10/11/2025", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "4885"}},
+{"data": "2025-11-10", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.893 de 10/11/2025", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "4893"}},
+{"data": "2025-11-10", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.946 de 10/11/2025", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "4946"}}
+]
+}

@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7715-1989-01-03",
+"urn": "urn:lex:br:federal:lei:1989-01-03;7715",
+"consultado_em": "2026-11-04",
+"codigo": "549591",
+"nome": "Lei nº 7.715 de 03/01/1989",
+"apelidos": [
+"Lei Orçamentária Anual (LOA) (1989)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-01-04", "descricao": "Publicação Original [Diário Oficial da União de 04/01/1989] (p. 233, col. 1)"},
+{"tipo": "RET", "data": "1989-03-20", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 20/03/1989] (p. 4259, col. 1)"}
+],
+"alteracoes": [
+{"data": "1989-03-21", "nome": "Decreto nº 97.587 de 21/03/1989", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

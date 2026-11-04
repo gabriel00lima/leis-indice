@@ -1,0 +1,34 @@
+{
+"id": "federal/leis-ordinarias/1994/lei-8935-1994-11-18",
+"urn": "urn:lex:br:federal:lei:1994-11-18;8935",
+"consultado_em": "2026-11-04",
+"codigo": "550811",
+"nome": "Lei nº 8.935 de 18/11/1994",
+"apelidos": [
+"Lei dos Notários e Registradores (1994)",
+"Lei dos Cartórios (1994)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1994-11-21", "descricao": "Publicação Original [Diário Oficial da União de 21/11/1994] (p. 17500, col. 2)"}
+],
+"alteracoes": [
+{"data": "1997-12-10", "nome": "Lei nº 9.534 de 10/12/1997", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 45", "art": "45", "acao": "alterou"}], "id": "federal/leis-ordinarias/1997/lei-9534-1997-12-10"},
+{"data": "1999-08-10", "nome": "Lei nº 9.812 de 10/08/1999", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 39, caput, Inciso 6", "art": "39", "acao": "alterou"}], "id": "federal/leis-ordinarias/1999/lei-9812-1999-08-10"},
+{"data": "2002-07-09", "nome": "Lei nº 10.506 de 09/07/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 16", "art": "16", "acao": "alterou"}], "id": "federal/leis-ordinarias/2002/lei-10506-2002-07-09"},
+{"data": "2008-10-02", "nome": "Lei nº 11.789 de 02/10/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 45", "art": "45", "acao": "alterou"}], "id": "federal/leis-ordinarias/2008/lei-11789-2008-10-02"},
+{"data": "2015-06-19", "nome": "Lei nº 13.137 de 19/06/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 22, caput", "art": "22", "acao": "alterou"}], "id": "federal/leis-ordinarias/2015/lei-13137-2015-06-19"},
+{"data": "2016-05-10", "nome": "Lei nº 13.286 de 10/05/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 22, caput", "art": "22", "acao": "alterou"}, {"dispositivo": "Art. 22, Parágrafo Único", "art": "22", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2016/lei-13286-2016-05-10"},
+{"data": "2017-10-06", "nome": "Lei nº 13.489 de 06/10/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 18, Parágrafo Único", "art": "18", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2017/lei-13489-2017-10-06"},
+{"data": "2021-09-27", "nome": "Lei nº 14.206 de 27/09/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 42-A, caput", "art": "42-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2021/lei-14206-2021-09-27"},
+{"data": "2021-12-27", "nome": "Medida Provisória nº 1.085 de 27/12/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 30, caput, Inciso 14", "art": "30", "acao": "alterou"}, {"dispositivo": "Art. 30, caput, Inciso 15", "art": "30", "acao": "acrescentou"}, {"dispositivo": "Art. 42-A, caput", "art": "42-a", "acao": "revogou"}]},
+{"data": "2022-06-27", "nome": "Lei nº 14.382 de 27/06/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, Parágrafo Único", "art": "7", "acao": "renumerou"}, {"dispositivo": "Art. 7, § 2", "art": "7", "acao": "acrescentou"}, {"dispositivo": "Art. 7, § 3", "art": "7", "acao": "vetado"}, {"dispositivo": "Art. 7, § 4", "art": "7", "acao": "vetado"}, {"dispositivo": "Art. 7, § 5", "art": "7", "acao": "acrescentou"}, {"dispositivo": "Art. 30, caput, Inciso 14", "art": "30", "acao": "alterou"}, {"dispositivo": "Art. 30, caput, Inciso 15", "art": "30", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14382-2022-06-27"},
+{"data": "2023-10-30", "nome": "Lei nº 14.711 de 30/10/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6-A, caput", "art": "6-a", "acao": "acrescentou"}, {"dispositivo": "Art. 6-A, § 1", "art": "6-a", "acao": "acrescentou"}, {"dispositivo": "Art. 6-A, § 2", "art": "6-a", "acao": "acrescentou"}, {"dispositivo": "Art. 7, § 6", "art": "7", "acao": "vetado"}, {"dispositivo": "Art. 7, § 7", "art": "7", "acao": "vetado"}, {"dispositivo": "Art. 7-A", "art": "7-a", "acao": "acrescentou"}, {"dispositivo": "Art. 7-A", "art": "7-a", "acao": "vetado"}, {"dispositivo": "Art. 7-A, § 4", "art": "7-a", "acao": "vetado"}, {"dispositivo": "Art. 7-A, § 5", "art": "7-a", "acao": "vetado"}, {"dispositivo": "Art. 39, § 3", "art": "39", "acao": "vetado"}, {"dispositivo": "Art. 39, § 4", "art": "39", "acao": "vetado"}], "id": "federal/leis-ordinarias/2023/lei-14711-2023-10-30"},
+{"data": "2026-09-21", "nome": "Lei nº 15.509 de 21/09/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 34, Parágrafo Único", "art": "34", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15509-2026-09-21"}
+],
+"controle": [
+{"data": "2019-10-03", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 1.531 de 03/10/2019", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 25, § 2", "art": "25", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "1531"}},
+{"data": "2021-06-07", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 1.183 de 07/06/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 20", "art": "20", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}], "decisao": {"classe": "ADI", "numero": "1183"}},
+{"data": "2021-06-07", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 1.183 de 07/06/2021", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 39, caput, Inciso 2", "art": "39", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 48, caput", "art": "48", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 48, § 1", "art": "48", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 48, § 2", "art": "48", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "1183"}},
+{"data": "2023-09-01", "nome": "Acórdão da Ação Declaratória de Constitucionalidade nº 14 de 01/09/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 16", "art": "16", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}], "decisao": {"classe": "ADC", "numero": "14"}}
+]
+}
