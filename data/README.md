@@ -43,6 +43,7 @@ Uma norma citada pode estar fora do escopo indexado:
 | `arestas.json` | Todas as ligações como lista de arestas, com artigos envolvidos + metadados das normas |
 | `cache/<pasta>.json` | Uso interno: SHA de cada arquivo processado e referências brutas |
 | `estado.json` | Uso interno: último commit processado e versão do extrator |
+| `novidades.json` | Normas novas e mudanças de texto detectadas a cada execução (artigos incluídos, alterados e removidos), base dos feeds RSS por lei. Gerado por [`indice/novidades.py`](../indice/novidades.py) |
 
 Todos os JSON têm um item por linha, para que os diffs no git mostrem só o que mudou.
 

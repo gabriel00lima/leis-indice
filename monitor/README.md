@@ -20,8 +20,19 @@ API do GitHub e, só se houver mudança, baixa as duas versões daquele arquivo.
 - **Aviso no Telegram (opcional):** crie os segredos `TELEGRAM_BOT_TOKEN` e
   `TELEGRAM_CHAT_ID` (passo a passo em [docs/configuracao.md](../docs/configuracao.md)).
 
+## Seguir qualquer lei pelo site
+
+O monitor cobre só as leis da lista. Para qualquer norma do índice, o botão
+**Seguir** na página da lei entrega um feed RSS (`feed/<id>.xml`, gerado por
+[`site/feeds.py`](../site/feeds.py)) com as normas que a alteraram ou revogaram e
+as mudanças de texto no acervo. Os avisos deste monitor entram no feed da lei
+correspondente (com o resumo e o link da issue), via `novidades.json`. Para
+receber por e-mail ou Telegram sem servidor, o visitante cola o link do feed num
+serviço de RSS por e-mail ou num bot de RSS do Telegram.
+
 ## Arquivos
 
 - `monitor.py`: o monitor.
 - `acompanhar.txt`: a lista de leis.
 - `estado.json`: último commit visto de cada lei (gerado automaticamente).
+- `novidades.json`: avisos já publicados, lidos pelos feeds RSS (gerado automaticamente).

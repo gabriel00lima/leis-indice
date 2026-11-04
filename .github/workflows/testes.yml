@@ -47,4 +47,6 @@ jobs:
           test -f _site/api/v1/index.json
           test -f _site/api/v1/normas/constituicao.json
           test -f _site/api/v1/busca/federal.json
+          test -f _site/feed/constituicao.xml
+          test -f _site/feed/novidades.xml
           echo "Arquivos da API: $(find _site/api -type f | wc -l)"
