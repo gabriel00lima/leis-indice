@@ -1,0 +1,86 @@
+/* "Lei explicada": página própria, cartões da home e destaque na página da lei.
+   Usa só as variáveis de tema.css, então segue o modo claro e o escuro. */
+
+.selo-explicada {
+  display: inline-flex; align-items: center; gap: .4rem; margin: 0 0 .6rem;
+  font-size: .75rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+  color: var(--verde); background: var(--verde-fundo); padding: .25rem .7rem; border-radius: 99px;
+}
+
+/* ---------- textos dos resumos ---------- */
+.explicada-texto { font-size: 1.04rem; line-height: 1.7; }
+.explicada-texto h2 {
+  font-family: var(--serif); font-size: 1.55rem; font-weight: 600; margin: 2.6rem 0 .8rem;
+  padding-top: 1.4rem; border-top: 1px solid var(--borda);
+}
+.explicada-texto h2:first-child { margin-top: 0; padding-top: 0; border-top: 0; }
+.explicada-texto p { margin: .7rem 0; }
+.explicada-texto ul { padding-left: 1.2rem; margin: .8rem 0; }
+.explicada-texto li { margin: .55rem 0; }
+.explicada-texto li::marker { color: var(--amarelo-escuro); }
+.explicada-texto strong { color: var(--texto); }
+.explicada-texto p > strong:only-child { display: block; font-size: 1.05rem; margin-top: 1.4rem; color: var(--primaria); }
+.explicada-texto a.ref-artigo {
+  white-space: nowrap; font-size: .9em; font-weight: 600; text-decoration: none;
+  background: var(--destaque-fundo); padding: 0 .3em; border-radius: 5px;
+}
+.explicada-texto a.ref-artigo:hover { text-decoration: underline; }
+.tabela-rolagem { overflow-x: auto; margin: 1rem 0; }
+.explicada-texto table { border-collapse: collapse; width: 100%; font-size: .94rem; }
+.explicada-texto th, .explicada-texto td { text-align: left; padding: .55rem .7rem; border-bottom: 1px solid var(--borda); vertical-align: top; }
+.explicada-texto th { font-size: .78rem; text-transform: uppercase; letter-spacing: .05em; color: var(--suave); }
+
+/* ---------- página explicada.html ---------- */
+.cabecalho-explicada { background: var(--superficie); border-bottom: 1px solid var(--borda); }
+.cabecalho-explicada-dentro { max-width: 64rem; margin: 0 auto; padding: 2.2rem 1rem 1.8rem; }
+.cabecalho-explicada h1 { font-family: var(--serif); font-weight: 600; font-size: clamp(1.9rem, 4vw, 2.8rem); margin: 0; }
+.explicada-resumo {
+  font-family: var(--serif); font-size: 1.2rem; color: var(--suave); max-width: 46rem;
+  margin: .9rem 0 0; border-left: 3px solid var(--amarelo); padding-left: 1rem;
+}
+.explicada-publico { margin: .9rem 0 0; font-size: .95rem; color: var(--suave); max-width: 46rem; }
+.cabecalho-explicada .acoes { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: 1.2rem; }
+.cabecalho-explicada .acoes .botao-cheio { margin-top: 0; }
+
+.explicada-corpo { max-width: 64rem; margin: 0 auto; padding: 2rem 1rem 3rem; }
+.explicada-leitura { display: grid; grid-template-columns: 13rem minmax(0, 1fr); gap: 2.5rem; align-items: start; }
+.explicada-indice { position: sticky; top: 5rem; font-size: .88rem; }
+.explicada-indice ol { list-style: none; margin: 0; padding: 0; }
+.explicada-indice a { display: block; padding: .3rem .5rem; border-radius: 6px; color: var(--texto); text-decoration: none; }
+.explicada-indice a:hover { background: var(--superficie-2); color: var(--destaque); }
+.aviso-explicada { margin-top: 2.5rem; }
+
+.grade-explicadas { display: grid; grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr)); gap: 1rem; }
+.cartao-explicada {
+  display: flex; flex-direction: column; gap: .35rem; padding: 1.3rem; text-decoration: none; color: inherit;
+  background: var(--superficie); border: 1px solid var(--borda); border-top: 3px solid var(--primaria);
+  border-radius: var(--raio); box-shadow: var(--sombra);
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.cartao-explicada:hover { transform: translateY(-3px); box-shadow: var(--sombra-forte); }
+.cartao-explicada h3 { font-family: var(--serif); font-size: 1.3rem; font-weight: 600; margin: 0; }
+.cartao-explicada .cartao-desc { margin: .2rem 0 .6rem; font-size: .92rem; color: var(--suave); flex: 1; }
+.cartao-rodape { display: flex; justify-content: space-between; gap: 1rem; font-size: .8rem; color: var(--suave); padding-top: .8rem; border-top: 1px solid var(--borda); }
+.cartao-ler { color: var(--destaque); font-weight: 600; }
+.explicadas-mais { margin-top: 1.5rem; }
+
+/* ---------- destaque na página da lei ---------- */
+.destaque-explicada {
+  margin: 0 0 2rem; padding: 1.4rem 1.5rem; border-radius: var(--raio);
+  background: var(--superficie); border: 1px solid var(--borda); border-left: 4px solid var(--primaria);
+  box-shadow: var(--sombra);
+}
+.destaque-explicada h2 { font-family: var(--serif); font-size: 1.35rem; font-weight: 600; margin: 0 0 .6rem; }
+.explicada-intro { font-size: 1rem; }
+.explicada-pontos { margin-top: .8rem; border-top: 1px solid var(--borda); padding-top: .6rem; }
+.explicada-pontos summary { cursor: pointer; font-weight: 600; color: var(--destaque); padding: .3rem 0; }
+.explicada-pontos .explicada-texto { font-size: .97rem; }
+.destaque-explicada-rodape { margin-top: 1rem; }
+.destaque-explicada-rodape .botao-cheio { margin-top: 0; }
+.destaque-explicada-rodape .dica { margin: .8rem 0 0; font-size: .8rem; }
+
+@media (max-width: 52rem) {
+  .explicada-leitura { grid-template-columns: minmax(0, 1fr); gap: 1rem; }
+  .explicada-indice { position: static; }
+  .destaque-explicada { padding: 1.1rem 1rem; }
+}

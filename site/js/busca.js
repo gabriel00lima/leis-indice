@@ -40,20 +40,58 @@ function cartaoPrincipal(p) {
 
 function itemRanking(e, i, max, rotulo) {
   const pct = Math.max(4, Math.round(100 * e.total / max));
-  return el("li", {},
+  const nome = el("a", { href: urlLei(e.id), texto: APELIDOS[e.id] || e.titulo });
+  return el("li", { class: e.revogada ? "revogada" : null },
     el("span", { class: "posicao", texto: String(i + 1) }),
     el("div", { class: "ranking-corpo" },
-      el("a", { href: urlLei(e.id), texto: APELIDOS[e.id] || e.titulo }),
+      el("span", { class: "ranking-nome" }, nome,
+        ...(e.revogada ? [el("span", { class: "chip chip-revogada", texto: "Revogada" })] : [])),
       el("span", { class: "ranking-sub", texto: APELIDOS[e.id] ? e.titulo : (e.ementa || "") }),
       el("span", { class: "trilho" }, el("span", { class: "preenchido", style: `width:${pct}%` }))),
     el("span", { class: "ranking-valor", title: rotulo }, numeroBR(e.total)));
+}
+
+// "Ver todas": a grade começa recolhida (o CSS mostra as primeiras).
+function montarVerTodas(total) {
+  const grade = $("#lista-principais"), botao = $("#ver-principais");
+  botao.hidden = total <= 6;
+  botao.textContent = `Ver todas as ${total} leis principais`;
+  botao.addEventListener("click", () => {
+    const abrir = grade.classList.toggle("recolhida") === false;
+    botao.setAttribute("aria-expanded", String(abrir));
+    botao.textContent = abrir ? "Mostrar menos" : `Ver todas as ${total} leis principais`;
+    if (!abrir) $("#principais").scrollIntoView({ block: "start" });
+  });
+}
+
+// Abas "Mais citadas" / "Mais alteradas".
+function montarAbas() {
+  const abas = [...document.querySelectorAll('.abas [role="tab"]')];
+  const escolher = aba => {
+    for (const a of abas) {
+      const sel = a === aba;
+      a.setAttribute("aria-selected", String(sel));
+      a.tabIndex = sel ? 0 : -1;
+      $("#" + a.getAttribute("aria-controls")).hidden = !sel;
+    }
+    $("#desc-ranking").textContent = aba.dataset.desc;
+  };
+  abas.forEach((a, i) => {
+    a.addEventListener("click", () => escolher(a));
+    a.addEventListener("keydown", ev => {
+      const passo = { ArrowRight: 1, ArrowLeft: -1 }[ev.key];
+      if (!passo) return;
+      const prox = abas[(i + passo + abas.length) % abas.length];
+      escolher(prox); prox.focus();
+    });
+  });
 }
 
 async function montarInicio() {
   let d;
   try { d = await destaques(); } catch { d = null; }
   if (!d) {
-    for (const s of ["#principais", "#numeros"]) $(s).hidden = true;
+    for (const s of ["#principais", "#rankings"]) $(s).hidden = true;
     return;
   }
 
@@ -61,49 +99,18 @@ async function montarInicio() {
   const stat = (k, v) => { const x = document.querySelector(`[data-stat="${k}"]`); if (x) x.textContent = v; };
   stat("total", numeroBR(d.total));
   stat("ligacoes", numeroBR(d.ligacoes));
-  stat("desde", ano(d.mais_antiga));
   stat("atualizado", formatarData(String(d.gerado_em || "").slice(0, 10)));
 
   // Leis principais
   $("#lista-principais").replaceChildren(...d.principais.map(cartaoPrincipal));
+  montarVerTodas(d.principais.length);
 
   // Rankings
   const maxC = d.mais_citadas[0]?.total || 1;
   $("#mais-citadas").replaceChildren(...d.mais_citadas.map((e, i) => itemRanking(e, i, maxC, "citações")));
   const maxA = d.mais_alteradas[0]?.total || 1;
   $("#mais-alteradas").replaceChildren(...d.mais_alteradas.map((e, i) => itemRanking(e, i, maxA, "leis que alteraram")));
-
-  // Por tipo
-  const tipos = [...d.por_tipo].sort((a, b) => b.total - a.total);
-  $("#por-tipo").replaceChildren(...tipos.map(t =>
-    el("a", { class: "cartao-tipo", href: "?tipo=" + encodeURIComponent(t.tipo) + "&ordem=recentes" },
-      el("span", { class: "tipo-numero", texto: numeroBR(t.total) }),
-      el("span", { class: "tipo-nome", texto: t.total === 1 ? t.tipo : plural(t.tipo) }),
-      el("span", { class: "tipo-sub", texto: t.revogadas ? `${numeroBR(t.revogadas)} revogadas` : "vigente" }))));
-  $("#texto-numeros").textContent =
-    `${numeroBR(d.total_federal ?? d.total)} normas federais indexadas, de ${ano(d.mais_antiga)} até hoje. ` +
-    `${numeroBR(d.revogadas)} estão marcadas como revogadas no acervo.`;
-
-  // Por década (barras)
-  const maxD = Math.max(...d.por_decada.map(x => x.total));
-  $("#por-decada").replaceChildren(...d.por_decada.map(x => {
-    const h = Math.max(2, Math.round(100 * x.total / maxD));
-    return el("div", { class: "barra", title: `${x.decada}s: ${numeroBR(x.total)} normas` },
-      el("span", { class: "barra-valor", texto: x.total >= maxD * 0.12 ? numeroBR(x.total) : "" }),
-      el("span", { class: "barra-coluna", style: `height:${h}%` }),
-      el("span", { class: "barra-rotulo", texto: x.decada % 20 === 0 ? String(x.decada) : "" }));
-  }));
-
-  // Ligações
-  const lt = d.ligacoes_por_tipo || {};
-  $("#ligacoes").replaceChildren(
-    el("p", { class: "ligacoes-titulo" }, el("strong", { texto: numeroBR(d.ligacoes) }), " ligações entre normas extraídas do texto"),
-    el("div", { class: "ligacoes-barra" },
-      ...[["cita", "citações"], ["altera", "alterações"], ["revoga", "revogações"]].map(([k, r]) =>
-        el("span", { class: "seg seg-" + k, style: `flex:${lt[k] || 0}`, title: `${numeroBR(lt[k])} ${r}` }))),
-    el("p", { class: "ligacoes-legenda" },
-      ...[["cita", "citações"], ["altera", "alterações"], ["revoga", "revogações"]].map(([k, r]) =>
-        el("span", {}, el("i", { class: "seg-" + k }), `${numeroBR(lt[k])} ${r}`))));
+  montarAbas();
 
   // Leis estaduais
   montarEstaduais(d.estaduais || []);
@@ -115,6 +122,11 @@ async function montarInicio() {
       el("div", {},
         el("a", { href: urlLei(e.id), texto: e.titulo }),
         el("p", { texto: e.ementa || "" })))));
+  const ultima = d.recentes[0]?.data;
+  if (ultima) {
+    $("#texto-recentes").replaceChildren("A mais nova é de ", el("strong", { texto: formatarData(ultima) }),
+      ". O acervo de origem leva algumas semanas para incluir o que sai no Diário Oficial.");
+  }
 
   // Rodapé
   const c = d.fonte?.commit;

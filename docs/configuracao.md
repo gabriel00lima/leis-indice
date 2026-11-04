@@ -28,9 +28,10 @@ Abra `https://github.com/gabriel00lima/leis-indice/settings/secrets/actions` e c
 
 | Segredo | Para quê | Obrigatório? |
 |---|---|---|
-| `ANTHROPIC_API_KEY` | Resumos em linguagem simples das mudanças nas leis (monitor) | Só se quiser resumos por IA |
+| `ANTHROPIC_API_KEY` | Resumos em linguagem simples das mudanças nas leis (monitor) e rascunhos da "Lei explicada" | Só se quiser resumos por IA |
 | `TELEGRAM_BOT_TOKEN` | Enviar os alertas do monitor pelo Telegram | Só se quiser alertas no Telegram |
 | `TELEGRAM_CHAT_ID` | Chat ou canal que recebe os alertas | Junto com o token |
+| `DATAJUD_API_KEY` | Chave da API pública do DataJud (jurisprudência) | Não: a coleta já lê a chave pública na wiki do CNJ; só use se ela parar de funcionar |
 
 Sem esses segredos, o monitor e o índice continuam funcionando; só não há resumo por IA nem envio de mensagem.
 
@@ -39,6 +40,10 @@ Sem esses segredos, o monitor e o índice continuam funcionando; só não há re
 - **Chave da Anthropic**: crie em `https://console.anthropic.com/settings/keys`. Recomenda-se definir um limite de gastos mensal no console.
 - **Bot do Telegram**: no Telegram, fale com `@BotFather`, envie `/newbot` e siga as instruções; ele devolve o token.
 - **Chat ID**: mande qualquer mensagem para o seu bot e abra `https://api.telegram.org/bot<TOKEN>/getUpdates`; o número em `"chat":{"id": ...}` é o chat ID. Para um canal, adicione o bot como administrador e o ID começa com `-100`.
+
+### Rascunhos da "Lei explicada" com IA (opcional)
+
+Os resumos da "Lei explicada" já estão escritos no repositório e não dependem de IA. Para pedir um rascunho novo pela aba **Actions → Lei explicada → Run workflow**, além do segredo `ANTHROPIC_API_KEY`, marque em **Settings → Actions → General** a opção **Allow GitHub Actions to create and approve pull requests**: o workflow abre um PR com o rascunho para revisão.
 
 ## 4. Google Search Console (opcional, para aparecer mais rápido no Google)
 

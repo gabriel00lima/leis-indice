@@ -1,10 +1,12 @@
 import { marked } from "../vendor/marked.esm.js";
 import DOMPurify from "../vendor/purify.es.mjs";
+import { prepararComparacao } from "./comparar.js";
 import { regexCitacao, interpretar, citacoes, chave, ID_CONSTITUICAO } from "./citacoes.js";
 import {
   RAW, GITHUB, API, buscarEntrada, resolverChave, vinculos, rotuloDoId, urlLei,
   formatarData, usandoExemplo, ehExterno, numeroBR, APELIDOS, UFS, ufDoId,
 } from "./dados.js";
+import { citacaoABNT, rotuloArtigo } from "./abnt.js";
 
 const $ = s => document.querySelector(s);
 const params = new URLSearchParams(location.search);
@@ -60,7 +62,7 @@ function hrefCitacao(ref) {
 
 // ---------- links cruzados no texto ----------
 
-const RE_ART_INTERNO = /\b(?:arts?\.|[Aa]rtigos?)\s*(\d+)[º°]?(?:-([A-Z]))?/g;
+const RE_ART_INTERNO = /\b(?:arts?\.|[Aa]rtigos?)\s*(\d{1,3}(?:\.\d{3})+|\d+)[º°]?(?:-([A-Z]))?/g;
 
 function linkarTexto(no, idAtual) {
   const texto = no.nodeValue;
@@ -74,7 +76,7 @@ function linkarTexto(no, idAtual) {
       const depois = trecho.slice(m.index + m[0].length, m.index + m[0].length + 80);
       const deOutra = !/^[^.;]{0,60}?\s(?:desta|deste|nesta|neste)\b/.test(depois) &&
         /^\s*(?:,[^.;]{0,50})?\s+d[aoe]s?\s+(?!presente)/.test(depois);
-      const alvo = idArtigo(m[1], m[2]);
+      const alvo = idArtigo(m[1].replace(/\./g, ""), m[2]);
       if (deOutra || !document.getElementById(alvo)) continue;
       partes.push(trecho.slice(i, m.index), el("a", { href: "#" + alvo, class: "ref-interna", texto: m[0] }));
       i = m.index + m[0].length;
@@ -116,18 +118,25 @@ function linkarTudo(raiz, idAtual) {
 
 // ---------- âncoras de artigos e sumário ----------
 
+let idPagina = null;
+
 function marcarArtigos(raiz) {
   for (const p of raiz.querySelectorAll("p")) {
     const forte = p.firstElementChild;
     if (!forte || forte.tagName !== "STRONG" || p.firstChild !== forte) continue;
-    const m = /^Art(?:igo)?\.?\s*(\d+)(?:[º°.])?(?:\s*-\s*([A-Z])\b)?/.exec(forte.textContent.trim());
+    // "Art. 1.196." (Código Civil) tem ponto de milhar: vira art-1196.
+    const m = /^Art(?:igo)?\.?\s*(\d{1,3}(?:\.\d{3})+|\d+)(?:[º°.])?(?:\s*-\s*([A-Z])\b)?/.exec(forte.textContent.trim());
     if (!m) continue;
-    const id = idArtigo(m[1], m[2]);
+    const id = idArtigo(m[1].replace(/\./g, ""), m[2]);
     if (document.getElementById(id)) continue;
     p.id = id;
     p.classList.add("artigo");
     const a = el("a", { href: "#" + id, class: "ancora", "aria-label": "Link para este artigo", texto: "#" });
     p.prepend(a);
+    if (idPagina) {
+      const citar = el("button", { type: "button", class: "citar-art", "data-art": id, title: "Citar este artigo (ABNT)", texto: "Citar" });
+      forte.after(" ", citar);
+    }
   }
   let n = 0;
   for (const h of raiz.querySelectorAll("h2, h3, h4, h5")) if (!h.id) h.id = "sec-" + ++n;
@@ -283,6 +292,40 @@ async function mostrarHistorico(caminho) {
   }
 }
 
+// ---------- citação ABNT ----------
+
+let infoPagina = {};
+
+async function copiarTexto(botao, texto) {
+  const antes = botao.textContent;
+  try { await navigator.clipboard.writeText(texto); botao.textContent = "Copiado"; }
+  catch { botao.textContent = "Selecione e copie"; }
+  setTimeout(() => { botao.textContent = antes; }, 1800);
+}
+
+function linhaCitacao(rotulo, valor, dica) {
+  const campo = el("p", { class: "citacao-valor", texto: valor });
+  const botao = el("button", { type: "button", class: "botao", texto: "Copiar" });
+  botao.addEventListener("click", () => copiarTexto(botao, valor));
+  return el("div", { class: "citacao-linha" },
+    el("div", { class: "citacao-rotulo" }, el("strong", { texto: rotulo }), dica ? el("span", { texto: dica }) : ""),
+    campo, botao);
+}
+
+function abrirCitacao(artigo) {
+  const c = citacaoABNT(idPagina, infoPagina, { artigo });
+  if (!c) return;
+  const link = location.href.split("#")[0] + (artigo ? "#" + artigo : "");
+  const dlg = $("#citacao");
+  const corpo = $("#citacao-corpo");
+  $("#citacao-titulo").textContent = artigo ? "Citar o " + rotuloArtigo(artigo) : "Citar esta norma";
+  corpo.replaceChildren(
+    linhaCitacao("Referência", c.referencia, "ABNT NBR 6023, para a lista de referências"),
+    linhaCitacao("Citação no texto", c.chamada, "ABNT NBR 10520, autor-data"),
+    linhaCitacao("Link direto", link, artigo ? "abre a página já no artigo" : ""));
+  dlg.showModal();
+}
+
 // ---------- página ----------
 
 function mostrarErro(titulo, detalhe) {
@@ -385,6 +428,12 @@ async function iniciar() {
     setTimeout(() => { copiar.lastChild.textContent = "Copiar link"; }, 2000);
   });
   acoes.append(copiar);
+  infoPagina = info;
+  if (citacaoABNT(id, info)) {
+    const citar = el("button", { type: "button", class: "acao" }, icone('<path d="M7 7h4v4c0 3-1.5 5-4 6M15 7h4v4c0 3-1.5 5-4 6"/>'), "Citar (ABNT)");
+    citar.addEventListener("click", () => abrirCitacao(null));
+    acoes.append(citar);
+  }
 
   // O título já está no cabeçalho; tira o "# Título" repetido do começo do texto.
   const semTitulo = corpo.replace(/^\s*#\s+[^\n]+\n/, "");
@@ -394,10 +443,12 @@ async function iniciar() {
   texto.innerHTML = html;
   for (const a of texto.querySelectorAll("a[href^='http']")) a.rel = "noopener";
 
+  idPagina = citacaoABNT(id, info) ? id : null;
   marcarArtigos(texto);
   linkarTudo(texto, id);
   montarSumario(texto);
   mostrarAlteracoes(coletarAlteracoes(texto, id));
+  prepararComparacao({ raiz: texto, id, corpo, info }).catch(() => {});
   irParaAncora();
 
   mostrarVinculos(id).then(mostrarContadores);
@@ -412,6 +463,13 @@ $("#ir-art").addEventListener("submit", ev => {
   const alvo = idArtigo(m[1], m[2]);
   if (document.getElementById(alvo)) location.hash = alvo;
   else $("#art").setCustomValidity("Artigo não encontrado"), $("#art").reportValidity(), $("#art").setCustomValidity("");
+});
+$("#texto").addEventListener("click", ev => {
+  const b = ev.target.closest?.(".citar-art");
+  if (b) abrirCitacao(b.dataset.art);
+});
+$("#citacao").addEventListener("click", ev => {
+  if (ev.target === ev.currentTarget || ev.target.closest(".citacao-fechar")) ev.currentTarget.close();
 });
 window.addEventListener("hashchange", irParaAncora);
 // As páginas geradas têm <base href> apontando para a raiz do site, então um
