@@ -1,0 +1,14 @@
+{
+  "versao": 1,
+  "fonte": "https://dadosabertos.camara.leg.br/arquivos/proposicoes/json/",
+  "anos": [
+    1946,
+    2026
+  ],
+  "proposicoes_ligadas": 56529,
+  "proposicoes_tramitando": 23611,
+  "normas_com_projetos": 1530,
+  "normas_com_origem": 777,
+  "arquivo": "camara/normas/<id>.json",
+  "gerado_em": "2026-11-04T01:06:43+00:00"
+}

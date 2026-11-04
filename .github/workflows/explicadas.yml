@@ -1,0 +1,98 @@
+name: Lei explicada
+
+on:
+  pull_request:
+    paths:
+      - "site/explicadas/**"
+      - "scripts/explicadas*.py"
+      - ".github/workflows/explicadas.yml"
+  push:
+    branches: [main]
+    paths:
+      - "site/explicadas/**"
+      - "scripts/explicadas*.py"
+      - ".github/workflows/explicadas.yml"
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: "Arquivo em site/explicadas/ sem .md (ex.: cdc, ou um nome novo)"
+        required: true
+      lei:
+        description: "Só para resumo novo: id da lei (ex.: federal/leis-ordinarias/2015/lei-13105-2015-03-16)"
+        required: false
+      nome:
+        description: "Só para resumo novo: nome popular (ex.: Código de Processo Civil)"
+        required: false
+
+permissions:
+  contents: read
+
+jobs:
+  conferir:
+    if: github.event_name != 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Conferir resumos, artigos citados e index.json
+        run: python3 scripts/explicadas.py --verificar
+
+  gerar:
+    # Rascunho com IA: abre um PR para revisão humana. Precisa do segredo ANTHROPIC_API_KEY
+    # e de "Allow GitHub Actions to create and approve pull requests" (docs/configuracao.md).
+    if: github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Verificar segredo
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -z "$ANTHROPIC_API_KEY" ]; then
+            echo "::error::Cadastre o segredo ANTHROPIC_API_KEY (veja docs/configuracao.md)."
+            exit 1
+          fi
+      - run: pip install -r scripts/requirements-explicadas.txt
+      - name: Gerar rascunho
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLUG: ${{ inputs.slug }}
+          LEI: ${{ inputs.lei }}
+          NOME: ${{ inputs.nome }}
+        run: |
+          args=(--slug "$SLUG")
+          [ -n "$LEI" ] && args+=(--lei "$LEI")
+          [ -n "$NOME" ] && args+=(--nome "$NOME")
+          python3 scripts/explicadas_ia.py "${args[@]}"
+      - name: Conferir artigos citados
+        id: conferir
+        continue-on-error: true
+        run: python3 scripts/explicadas.py 2>&1 | tee conferencia.txt
+      - name: Abrir PR para revisão
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SLUG: ${{ inputs.slug }}
+        run: |
+          ramo="explicadas/ia-$SLUG-$(date +%Y%m%d%H%M)"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$ramo"
+          git add site/explicadas/
+          git commit -m "Lei explicada: rascunho com IA para $SLUG"
+          git push origin "$ramo"
+          {
+            echo "Rascunho gerado com IA. Revise o texto e confira os artigos citados antes do merge."
+            echo
+            echo '```'
+            cat conferencia.txt
+            echo '```'
+          } > corpo.md
+          gh pr create --title "Lei explicada: rascunho de $SLUG" --body-file corpo.md --base main --head "$ramo"

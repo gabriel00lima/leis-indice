@@ -215,8 +215,9 @@ function caixaAlteracoes(d) {
 
 async function iniciar() {
   const texto = await textoPronto();
-  // lei.js troca ?ref= por ?id= quando resolve a norma.
-  const id = new URLSearchParams(location.search).get("id");
+  // lei.js troca ?ref= por ?id= quando resolve a norma; nas páginas geradas
+  // (lei/<id>.html, site/paginas.py) o id vem no <body data-lei>.
+  const id = new URLSearchParams(location.search).get("id") || document.body.dataset.lei;
   if (!id) return;
   const d = await carregar(id);
   if (!d || (!d.alteracoes?.length && !d.controle?.length)) return;
