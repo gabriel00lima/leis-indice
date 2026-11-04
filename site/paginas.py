@@ -271,7 +271,8 @@ def main():
     img_site = f"{url_site}og/padrao.jpg" if "padrao" in imagens else None
     for rel, url, titulo in (("index.html", url_site, f"{NOME_SITE} · busca e leitura das leis federais"),
                              ("grafo/index.html", url_site + "grafo/", f"Grafo das leis · {NOME_SITE}"),
-                             ("explicada.html", url_site + "explicada.html", f"Lei explicada · {NOME_SITE}")):
+                             ("explicada.html", url_site + "explicada.html", f"Lei explicada · {NOME_SITE}"),
+                             ("sobre.html", url_site + "sobre.html", f"O acervo em números · {NOME_SITE}")):
         p = site / rel
         if not p.exists():
             continue
@@ -310,7 +311,7 @@ def main():
             (site / "sitemaps" / parte).write_text(sitemap(urls[i:i + 50000]), encoding="utf-8")
             mapas.append(parte)
 
-    (site / "sitemaps" / "paginas.xml").write_text(sitemap([url_site, url_site + "grafo/"]), encoding="utf-8")
+    (site / "sitemaps" / "paginas.xml").write_text(sitemap([url_site, url_site + "grafo/", url_site + "sobre.html"]), encoding="utf-8")
     mapas.insert(0, "paginas.xml")
     indice = ['<?xml version="1.0" encoding="UTF-8"?>',
               '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']

@@ -13,13 +13,17 @@
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23053a22'/%3E%3Ctext x='32' y='45' font-family='Georgia' font-size='38' text-anchor='middle' fill='%23f2c14e'%3E%C2%A7%3C/text%3E%3C/svg%3E">
 </head>
 <body class="inicio">
-<header class="topo">
+<header class="topo topo-com-menu">
   <div class="topo-dentro">
     <a class="marca" href="./"><span class="selo-marca" aria-hidden="true">§</span>Leis do Brasil</a>
-    <nav class="menu">
+    <button class="menu-botao" type="button" aria-expanded="false" aria-controls="menu-principal">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path class="tracos" d="M4 7h16M4 12h16M4 17h16"/><path class="xis" d="M6 6l12 12M18 6 6 18"/></svg>
+      Menu
+    </button>
+    <nav class="menu" id="menu-principal">
       <a href="#principais">Leis principais</a>
       <a href="explicada.html">Lei explicada</a>
-      <a href="#numeros">O acervo</a>
+      <a href="sobre.html">O acervo</a>
       <a href="grafo/">Grafo</a>
       <a href="#como-funciona">Como funciona</a>
       <a href="api.html">API</a>
@@ -30,14 +34,14 @@
 
 <section class="heroi">
   <div class="heroi-dentro">
-    <p class="sobretitulo"><span class="pulso" aria-hidden="true"></span> Acervo aberto, atualizado todos os dias</p>
+    <p class="sobretitulo"><span class="pulso" aria-hidden="true"></span> <span class="so-largo">Acervo aberto, atualizado todos os dias</span><span class="so-celular">Atualizado todo dia</span></p>
     <h1>As leis federais do Brasil, <em>fáceis de achar e de ler.</em></h1>
-    <p class="lead">Busque por número, apelido ou assunto. Cada lei abre com sumário, artigos com link próprio, citações que viram links e a linha do tempo das alterações.</p>
+    <p class="lead">Busque por número, apelido ou assunto.<span class="so-largo"> Cada lei abre com sumário, artigos com link próprio, citações que viram links e a linha do tempo das alterações.</span></p>
 
     <form id="form" class="caixa-busca" role="search">
       <svg class="icone-busca" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
       <input id="q" name="q" type="search" autocomplete="off"
-        placeholder="Ex.: 8.078, consumidor, Lei 13.709/2018" aria-label="Buscar leis">
+        placeholder="Ex.: 8.078 ou consumidor" aria-label="Buscar leis">
       <button type="submit" class="botao-busca">Buscar</button>
     </form>
     <p class="sugestoes">Experimente:
@@ -49,11 +53,11 @@
     </p>
 
     <dl class="numeros-heroi" id="numeros-heroi">
-      <div><dt>normas indexadas</dt><dd data-stat="total">—</dd></div>
+      <div><dt>normas federais</dt><dd data-stat="total">—</dd></div>
       <div><dt>ligações entre leis</dt><dd data-stat="ligacoes">—</dd></div>
-      <div><dt>desde</dt><dd data-stat="desde">—</dd></div>
-      <div><dt>índice atualizado em</dt><dd data-stat="atualizado">—</dd></div>
+      <div><dt>índice conferido em</dt><dd data-stat="atualizado">—</dd></div>
     </dl>
+    <p class="link-acervo"><a href="sobre.html">Ver o acervo em números →</a></p>
   </div>
 </section>
 
@@ -93,13 +97,35 @@
     Usando <strong>dados de exemplo</strong>. O índice completo aparece aqui quando <code>data/index.json</code> for publicado.
   </div>
 
+  <section class="faixa-recursos" id="como-funciona" aria-label="Como funciona">
+    <ul class="recursos-curtos">
+      <li>
+        <span class="recurso-icone" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1"/><path d="M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></svg></span>
+        <div><strong>Links cruzados</strong><span>Cada citação a outra lei vira link, e cada artigo tem endereço próprio.</span></div>
+      </li>
+      <li>
+        <span class="recurso-icone" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></span>
+        <div><strong>Linha do tempo</strong><span>Quais leis alteraram cada norma, quando e em quais artigos.</span></div>
+      </li>
+      <li>
+        <a class="recurso-link" href="grafo/"><span class="recurso-icone" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="5" cy="12" r="2.5"/><circle cx="19" cy="5" r="2.5"/><circle cx="19" cy="19" r="2.5"/><path d="M7.3 11 16.7 6M7.3 13l9.4 5"/></svg></span>
+        <div><strong>Grafo de leis</strong><span>Veja quem cita, altera ou revoga quem.</span></div></a>
+      </li>
+      <li>
+        <span class="recurso-icone" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M6 8a6 6 0 1 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10 21a2 2 0 0 0 4 0"/></svg></span>
+        <div><strong>Monitor de mudanças</strong><span>Um robô confere o acervo todo dia e avisa quando uma lei muda.</span></div>
+      </li>
+    </ul>
+  </section>
+
   <section class="faixa" id="principais">
     <header class="cabeca-secao">
       <p class="sobretitulo-secao">Comece por aqui</p>
       <h2>Leis principais</h2>
       <p>Os códigos e estatutos mais consultados, com quantas outras normas citam e alteram cada um.</p>
     </header>
-    <div class="grade-cartoes" id="lista-principais"></div>
+    <div class="grade-cartoes recolhida" id="lista-principais"></div>
+    <p class="ver-todas"><button type="button" class="botao" id="ver-principais" aria-expanded="false" aria-controls="lista-principais" hidden>Ver todas as leis principais</button></p>
   </section>
 
   <section class="faixa faixa-clara" id="explicadas">
@@ -114,81 +140,33 @@
     </div>
   </section>
 
-  <section class="faixa">
-    <div class="duas-colunas">
-      <div>
-        <header class="cabeca-secao">
-          <p class="sobretitulo-secao">Relações</p>
-          <h2>Mais citadas</h2>
-          <p>Normas que mais aparecem citadas no texto de outras.</p>
-        </header>
-        <ol class="ranking" id="mais-citadas"></ol>
-      </div>
-      <div>
-        <header class="cabeca-secao">
-          <p class="sobretitulo-secao">Mudanças</p>
-          <h2>Mais alteradas</h2>
-          <p>Normas modificadas pelo maior número de leis diferentes.</p>
-        </header>
-        <ol class="ranking ranking-alt" id="mais-alteradas"></ol>
-      </div>
-    </div>
-  </section>
-
-  <section class="faixa" id="numeros">
+  <section class="faixa" id="rankings">
     <header class="cabeca-secao">
-      <p class="sobretitulo-secao">O acervo em números</p>
-      <h2>Mais de dois séculos de legislação</h2>
-      <p id="texto-numeros">Normas federais indexadas por tipo e por década de publicação.</p>
+      <p class="sobretitulo-secao">Relações</p>
+      <h2>As normas que mais pesam</h2>
+      <p id="desc-ranking">Normas que mais aparecem citadas no texto de outras.</p>
     </header>
-    <div class="grade-tipos" id="por-tipo"></div>
-    <figure class="grafico-decadas">
-      <figcaption>Normas indexadas por década</figcaption>
-      <div class="barras" id="por-decada" role="img" aria-label="Gráfico de normas por década"></div>
-    </figure>
-    <div class="ligacoes" id="ligacoes"></div>
+    <div class="abas" role="tablist" aria-label="Rankings">
+      <button type="button" role="tab" id="aba-citadas" aria-controls="mais-citadas" aria-selected="true"
+        data-desc="Normas que mais aparecem citadas no texto de outras.">Mais citadas</button>
+      <button type="button" role="tab" id="aba-alteradas" aria-controls="mais-alteradas" aria-selected="false" tabindex="-1"
+        data-desc="Normas modificadas pelo maior número de leis diferentes.">Mais alteradas</button>
+    </div>
+    <ol class="ranking" id="mais-citadas" role="tabpanel" aria-labelledby="aba-citadas"></ol>
+    <ol class="ranking ranking-alt" id="mais-alteradas" role="tabpanel" aria-labelledby="aba-alteradas" hidden></ol>
   </section>
 
   <section class="faixa faixa-clara">
     <div>
       <header class="cabeca-secao">
         <p class="sobretitulo-secao">Novidades</p>
-        <h2>Promulgadas recentemente</h2>
-        <p>As normas mais novas do índice, pela data de publicação.</p>
+        <h2>As normas mais novas do acervo</h2>
+        <p id="texto-recentes">Pela data de publicação. O acervo de origem leva algumas semanas para incluir o que sai no Diário Oficial.</p>
       </header>
       <ol class="lista-recentes" id="recentes"></ol>
     </div>
   </section>
 
-  <section class="faixa" id="como-funciona">
-    <header class="cabeca-secao">
-      <p class="sobretitulo-secao">Como funciona</p>
-      <h2>Feito para ler lei sem sofrimento</h2>
-    </header>
-    <div class="grade-recursos">
-      <article class="recurso">
-        <div class="recurso-icone" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1"/><path d="M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></svg></div>
-        <h3>Links cruzados</h3>
-        <p>“Conforme o art. 170 da Constituição” vira link direto para o artigo. Cada artigo tem endereço próprio para compartilhar.</p>
-      </article>
-      <article class="recurso">
-        <div class="recurso-icone" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></div>
-        <h3>Linha do tempo</h3>
-        <p>Veja quais leis alteraram cada norma, quando e em quais artigos, além do histórico de commits do texto.</p>
-      </article>
-      <article class="recurso">
-        <div class="recurso-icone" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="5" cy="12" r="2.5"/><circle cx="19" cy="5" r="2.5"/><circle cx="19" cy="19" r="2.5"/><path d="M7.3 11 16.7 6M7.3 13l9.4 5"/></svg></div>
-        <h3>Grafo de leis</h3>
-        <p>Explore visualmente quem cita, altera ou revoga quem, a partir de qualquer norma.</p>
-        <a href="grafo/">Abrir o grafo →</a>
-      </article>
-      <article class="recurso">
-        <div class="recurso-icone" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M6 8a6 6 0 1 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10 21a2 2 0 0 0 4 0"/></svg></div>
-        <h3>Monitor de mudanças</h3>
-        <p>Um robô confere o acervo todo dia e avisa, com um resumo simples, quando uma lei acompanhada muda.</p>
-      </article>
-    </div>
-  </section>
 </main>
 
 <footer class="rodape">
@@ -203,6 +181,7 @@
         <li><a href="https://github.com/gabriel00lima/leis-indice">Código no GitHub</a></li>
         <li><a href="explicada.html">Lei explicada</a></li>
         <li><a href="grafo/">Grafo de leis</a></li>
+        <li><a href="sobre.html">O acervo em números</a></li>
         <li><a href="api.html">API pública (JSON)</a></li>
         <li><a href="https://github.com/ctresb/leis">Acervo de origem</a></li>
       </ul>
@@ -214,6 +193,7 @@
   </div>
 </footer>
 <script type="module" src="js/busca.js"></script>
+<script src="js/menu.js" defer></script>
 <script type="module" src="js/explicadas-inicio.js"></script>
 </body>
 </html>
