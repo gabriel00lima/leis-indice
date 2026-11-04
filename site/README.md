@@ -13,6 +13,7 @@ O site **não copia os textos**: cada página de lei baixa o `.md` direto de `ra
 | `lei.html?ref=<prefixo>:<número>:<ano>` | Resolve uma citação sem data completa (ex. `lei:8078:1990`) pelo índice e redireciona para a norma. |
 | `lei/<id>` | Mesma página da lei, pré-gerada no build por `site/paginas.py` (ver "Páginas para buscadores e prévias"). É o endereço que o site usa nos links quando existe. |
 | `grafo/?id=<id>` | Visualização do grafo (mantida em `site/grafo/`). |
+| `explicada.html` | "Lei explicada": lista dos resumos em linguagem simples. Com `?lei=<slug>` (ex. `?lei=cdc`), mostra o resumo completo. |
 
 `<id>` é o caminho da norma no ctresb/leis sem `.md`, ex. `federal/leis-ordinarias/1990/lei-8078-1990-09-11`. A Constituição de 1988 é `constituicao`.
 
@@ -25,6 +26,16 @@ O site **não copia os textos**: cada página de lei baixa o `.md` direto de `ra
 - "art. 12" sem outra norma depois (ou com "desta Lei") vira link para o artigo na mesma página.
 
 As notas em itálico do acervo ("*(Redação dada pela Lei nº …)*") viram a lista "Alterações anotadas no texto", em ordem cronológica e com os artigos afetados.
+
+## Lei explicada
+
+Resumos em linguagem simples das leis mais usadas, em `explicadas/<slug>.md`. Cada arquivo tem um cabeçalho (`lei`, `nome`, `sigla`, `ordem`, `resumo`, `para_quem`, `revisado_em`, `origem`) e as seções `## Em poucas palavras`, `## O que você precisa saber`, `## Situações comuns` e `## Onde procurar ajuda` (opcionalmente `## Prazos que importam`).
+
+- Artigos citados são links `[art. 49](#art-49)`; o site transforma em link para o artigo na página da lei. Outras normas: `lei.html?id=...#art-7` ou `lei.html?ref=lei:9099:1995`.
+- A página da lei (`js/explicada-na-lei.js`) mostra em destaque "Em poucas palavras" e "O que você precisa saber"; a home lista os resumos (`js/explicadas-inicio.js`).
+- Depois de criar ou editar um resumo, rode `python3 scripts/explicadas.py`: ele confere o cabeçalho, baixa o texto de cada lei e verifica se todos os artigos citados existem, e regenera `explicadas/index.json`. O workflow `explicadas.yml` roda a mesma conferência em cada PR.
+- Rascunho com IA (opcional): `python3 scripts/explicadas_ia.py --slug <slug> [--lei <id> --nome <nome>]` com `ANTHROPIC_API_KEY`, ou pela aba Actions (workflow "Lei explicada" → Run workflow), que abre um PR. O arquivo sai com `origem: gerado com IA` e o site avisa o leitor; revise antes do merge.
+- Os resumos não são aconselhamento jurídico; o aviso aparece em todas as páginas que os exibem.
 
 ## Dados que o site lê
 

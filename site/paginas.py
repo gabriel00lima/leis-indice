@@ -270,7 +270,8 @@ def main():
                       "histórico de alterações e grafo de relações.")
     img_site = f"{url_site}og/padrao.jpg" if "padrao" in imagens else None
     for rel, url, titulo in (("index.html", url_site, f"{NOME_SITE} · busca e leitura das leis federais"),
-                             ("grafo/index.html", url_site + "grafo/", f"Grafo das leis · {NOME_SITE}")):
+                             ("grafo/index.html", url_site + "grafo/", f"Grafo das leis · {NOME_SITE}"),
+                             ("explicada.html", url_site + "explicada.html", f"Lei explicada · {NOME_SITE}")):
         p = site / rel
         if not p.exists():
             continue
