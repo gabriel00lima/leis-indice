@@ -1,0 +1,102 @@
+name: Diário Oficial da União
+
+on:
+  schedule:
+    - cron: "30 10 * * *"   # todo dia às 07:30 (Brasília); só baixa quando sai um mês novo
+  workflow_dispatch:
+    inputs:
+      mes:
+        description: "Reprocessar só este mês (AAAA-MM). Vazio = meses novos"
+        type: string
+        default: ""
+      max_meses:
+        description: "Máximo de meses baixados nesta execução"
+        type: string
+        default: "8"
+  pull_request:
+    paths:
+      - "integracoes/dou/**"
+      - ".github/workflows/dou.yml"
+
+permissions:
+  contents: write   # commitar data/dou/
+  actions: write    # disparar o deploy do site
+
+concurrency:
+  group: dou-${{ github.event_name == 'pull_request' && github.ref || 'main' }}
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    # A Imprensa Nacional pode recusar (403) os IPs dos runners do GitHub. Nesse caso,
+    # cadastre um runner próprio com o rótulo "dou" e crie a variável DOU_RUNNER=dou
+    # (passo a passo em docs/configuracao.md).
+    # Em PR roda sempre no GitHub: código de PR (até de fork) nunca roda na sua máquina.
+    runs-on: ${{ github.event_name != 'pull_request' && vars.DOU_RUNNER || 'ubuntu-latest' }}
+    timeout-minutes: 120
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Testes
+        run: python -m unittest discover -s integracoes/dou/tests -v
+
+      # Só a árvore de arquivos do acervo, para saber quais normas já têm arquivo.
+      - name: Clonar a árvore do acervo
+        run: |
+          for i in 1 2 3 4; do
+            git clone --filter=blob:none --no-checkout --depth 1 \
+              https://github.com/ctresb/leis.git "$RUNNER_TEMP/leis" && break
+            rm -rf "$RUNNER_TEMP/leis"; sleep $((i * 10))
+          done
+
+      # Em PR: baixa um mês de verdade numa pasta temporária, sem commitar,
+      # para conferir que a página e o formato da Imprensa Nacional não mudaram.
+      - name: Teste com dados reais (PR)
+        if: github.event_name == 'pull_request'
+        continue-on-error: true   # depende do site da Imprensa Nacional aceitar o runner
+        run: |
+          mkdir -p "$RUNNER_TEMP/dou"
+          python integracoes/dou/coletar.py --acervo "$RUNNER_TEMP/leis" \
+            --saida "$RUNNER_TEMP/dou" --desde "$(date -u -d "$(date -u +%Y-%m-15) -3 month" +%Y-%m)" --max-meses 1
+          python integracoes/dou/conferir.py --saida "$RUNNER_TEMP/dou"
+          test "$(jq .total "$RUNNER_TEMP/dou/index.json")" -gt 0
+          jq -c '.[0:5][] | {data, identifica, norma, altera, revoga, cita: (.cita|length)}' "$RUNNER_TEMP"/dou/meses/*.json
+
+      - name: Coletar
+        if: github.event_name != 'pull_request'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          python integracoes/dou/coletar.py --acervo "$RUNNER_TEMP/leis" --saida data/dou --tolerar-bloqueio \
+            --max-meses "${{ inputs.max_meses || '8' }}" ${{ inputs.mes && format('--mes {0}', inputs.mes) || '' }}
+          python integracoes/dou/conferir.py --saida data/dou
+
+      - name: Commitar
+        id: commit
+        if: github.event_name != 'pull_request'
+        run: |
+          git add data/dou/
+          if git diff --cached --quiet; then
+            echo "Nada mudou."; echo "commitou=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "dou: atualiza data/dou/ ($(jq .total data/dou/index.json) atos)"
+          for i in 1 2 3 4; do
+            git pull --rebase -q origin "${GITHUB_REF_NAME}" && git push -q && break
+            sleep $((i * 5))
+          done
+          echo "commitou=true" >> "$GITHUB_OUTPUT"
+
+      - name: Disparar deploy do site
+        if: steps.commit.outputs.commitou == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-site.yml --ref "${GITHUB_REF_NAME}" || echo "deploy-site.yml não disparado"

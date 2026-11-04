@@ -147,3 +147,10 @@ Se o Pages estiver em "Deploy from a branch" (raiz da `main`), o `index.html` da
 - O histórico usa a API pública do GitHub (60 consultas por hora por IP sem login). Ao passar disso, a página mostra o link para o histórico no GitHub.
 - O reconhecimento de citações é por expressão regular: citações com formato incomum ficam sem link.
 - Bibliotecas em `vendor/`: marked 12.0.2 e DOMPurify 3.1.6 (licenças ao lado).
+
+## Diário Oficial (`dou/`)
+
+`dou/index.html` mostra os atos normativos publicados no DOU (dados em `data/dou/`, gerados por
+[`integracoes/dou/`](../integracoes/dou/README.md)). `dou/na-lei.js`, carregado por `lei.html`,
+acrescenta ao painel da lei a seção "No Diário Oficial" quando há atos ligados a ela. O código da
+integração fica todo em `dou/` para não conflitar com o resto do site.

@@ -8,6 +8,7 @@ on:
       - "indice/**"
       - "api/**"
       - "integracoes/camara/**"
+      - "integracoes/dou/**"
       - "textos/**"
       - "integracoes/senado/**"
       - "site/build.sh"
@@ -43,6 +44,9 @@ jobs:
 
       - name: Versões dos artigos (site)
         run: node --test site/js/tests/versoes.test.mjs
+
+      - name: Coleta do Diário Oficial
+        run: python -m unittest discover -s integracoes/dou/tests -v
 
       - name: Coleta do Senado
         run: python -m unittest discover -s integracoes/senado/tests -v

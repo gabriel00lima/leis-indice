@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Diário Oficial · Leis do Brasil</title>
+<meta name="description" content="Leis, decretos e medidas provisórias publicados no Diário Oficial da União, ligados às leis que eles alteram, revogam e citam.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/estilo.css">
+<link rel="stylesheet" href="dou.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23053a22'/%3E%3Ctext x='32' y='45' font-family='Georgia' font-size='38' text-anchor='middle' fill='%23f2c14e'%3E%C2%A7%3C/text%3E%3C/svg%3E">
+</head>
+<body class="pagina-dou">
+<header class="topo">
+  <div class="topo-dentro">
+    <a class="marca" href="../"><span class="selo-marca" aria-hidden="true">§</span>Leis do Brasil</a>
+    <nav class="menu">
+      <a href="../#principais">Leis principais</a>
+      <a href="./" aria-current="page">Diário Oficial</a>
+      <a href="../grafo/">Grafo</a>
+      <a class="menu-gh" href="https://github.com/gabriel00lima/leis-indice">GitHub</a>
+    </nav>
+  </div>
+</header>
+
+<section class="dou-cabeca">
+  <div class="dou-cabeca-dentro">
+    <p class="sobretitulo">Diário Oficial da União · Seção 1</p>
+    <h1>Publicado no Diário Oficial</h1>
+    <p class="lead">Leis, emendas, medidas provisórias e decretos federais à medida que saem no DOU, com links para as leis que cada ato altera, revoga ou cita.</p>
+    <dl class="dou-numeros" id="numeros">
+      <div><dt>atos normativos</dt><dd data-n="total">—</dd></div>
+      <div><dt>período</dt><dd data-n="periodo">—</dd></div>
+      <div><dt>alteram leis do índice</dt><dd data-n="alteram">—</dd></div>
+      <div><dt>ainda fora do acervo</dt><dd data-n="fora">—</dd></div>
+    </dl>
+  </div>
+</section>
+
+<div class="dou-pagina">
+  <main>
+    <form class="dou-filtros" id="filtros" onsubmit="return false">
+      <div class="dou-tipos" id="tipos" role="group" aria-label="Tipo de ato"></div>
+      <div class="dou-filtros-linha">
+        <label>Mês <select id="mes"><option value="">Mais recentes</option></select></label>
+        <label class="dou-q">Filtrar <input id="q" type="search" placeholder="número ou assunto" autocomplete="off"></label>
+        <label class="dou-check"><input id="so-altera" type="checkbox"> Só os que alteram ou revogam leis</label>
+      </div>
+    </form>
+    <p id="status" class="status" aria-live="polite">Carregando…</p>
+    <ol id="feed" class="dou-feed"></ol>
+    <p class="mais-link"><button id="mais" class="botao" type="button" hidden>Mostrar mais</button></p>
+  </main>
+
+  <aside class="dou-lateral">
+    <section class="caixa" id="sec-monitor">
+      <h2>Conferência com o monitor</h2>
+      <p class="dica">Leis acompanhadas pelo monitor que o DOU alterou, e se o acervo já registrou a mudança.</p>
+      <ul id="monitor" class="dou-monitor"><li class="vazio">Carregando…</li></ul>
+      <p class="dica" id="conferido"></p>
+    </section>
+    <section class="caixa" id="sec-fora">
+      <h2>Publicados e ainda fora do acervo</h2>
+      <p class="dica">Atos que saíram no DOU há mais de uma semana e ainda não têm arquivo no ctresb/leis.</p>
+      <ul id="fora" class="dou-fora"><li class="vazio">Carregando…</li></ul>
+    </section>
+    <section class="caixa">
+      <h2>Sobre os dados</h2>
+      <p class="dica">Vêm dos <a href="https://www.in.gov.br/acesso-a-informacao/dados-abertos/base-de-dados">dados abertos da Imprensa Nacional</a>, publicados por mês com cerca de duas semanas de atraso. Entram só atos numerados; portarias e atos de pessoal ficam de fora. A publicação oficial é a do DOU.</p>
+    </section>
+  </aside>
+</div>
+
+<footer class="rodape">
+  <div class="rodape-dentro rodape-simples">
+    <p>Dados abertos da Imprensa Nacional (CC0) e acervo <a href="https://github.com/ctresb/leis">ctresb/leis</a>. Não substitui a publicação oficial no Diário Oficial da União.</p>
+    <p><a href="../">Início</a> · <a href="../grafo/">Grafo</a> · <a href="https://github.com/gabriel00lima/leis-indice">Código no GitHub</a></p>
+  </div>
+</footer>
+<script type="module" src="dou.js"></script>
+</body>
+</html>

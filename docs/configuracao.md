@@ -41,6 +41,25 @@ Sem esses segredos, o monitor e o índice continuam funcionando; só não há re
 - **Bot do Telegram**: no Telegram, fale com `@BotFather`, envie `/newbot` e siga as instruções; ele devolve o token.
 - **Chat ID**: mande qualquer mensagem para o seu bot e abra `https://api.telegram.org/bot<TOKEN>/getUpdates`; o número em `"chat":{"id": ...}` é o chat ID. Para um canal, adicione o bot como administrador e o ID começa com `-100`.
 
+<<<<<<< HEAD
+## 4. Diário Oficial: runner próprio (só se o site da Imprensa Nacional bloquear o GitHub)
+
+A coleta do DOU (`.github/workflows/dou.yml`) baixa os ZIPs mensais de `in.gov.br`. O site da Imprensa Nacional
+responde **403 (acesso negado)** aos servidores do GitHub, então a coleta precisa rodar numa máquina no Brasil,
+como o seu computador. Uma vez por mês basta; se o computador estiver desligado, a execução do dia seguinte pega.
+
+1. Abra **Settings → Actions → Runners → New self-hosted runner** (`https://github.com/gabriel00lima/leis-indice/settings/actions/runners/new`).
+2. Escolha o sistema (macOS, Linux ou Windows) e rode os comandos que a página mostra. Quando o `config` perguntar
+   os rótulos (*labels*), digite `dou`.
+3. Deixe o runner rodando (`./run.sh`, ou instale como serviço com `./svc.sh install && ./svc.sh start`).
+   A máquina precisa de `git`, `bash` e `jq` (no Windows, use o Git Bash).
+4. Em **Settings → Secrets and variables → Actions → Variables** (`https://github.com/gabriel00lima/leis-indice/settings/variables/actions`),
+   crie a variável `DOU_RUNNER` com o valor `dou`.
+5. Rode **Actions → Diário Oficial da União → Run workflow**. A primeira vez baixa até 8 meses (alguns GB); as
+   seguintes só baixam o mês novo.
+
+Só o workflow do DOU usa esse runner; os outros continuam nos servidores do GitHub. Para desfazer, apague a variável.
+=======
 ### Rascunhos da "Lei explicada" com IA (opcional)
 
 Os resumos da "Lei explicada" já estão escritos no repositório e não dependem de IA. Para pedir um rascunho novo pela aba **Actions → Lei explicada → Run workflow**, além do segredo `ANTHROPIC_API_KEY`, marque em **Settings → Actions → General** a opção **Allow GitHub Actions to create and approve pull requests**: o workflow abre um PR com o rascunho para revisão.
@@ -54,6 +73,7 @@ O site já gera `sitemap.xml`, mas num endereço `github.io/leis-indice` o Googl
 3. Em **Sitemaps**, envie `sitemap.xml`.
 
 Sem isso o Google acaba achando as páginas pelos links, só que mais devagar. As prévias no WhatsApp não dependem deste passo.
+>>>>>>> origin/main
 
 ## 5. Conferir que tudo rodou
 
