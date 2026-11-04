@@ -108,6 +108,20 @@ class TestOrdem(unittest.TestCase):
         self.assertEqual([n["id"] for n in fila], ["b", "a", "c", "d"])
 
 
+class TestConsulta(unittest.TestCase):
+    def test_content_length_errado(self):
+        import http.client
+        from unittest import mock
+
+        class Resp:
+            def __enter__(self): return self
+            def __exit__(self, *a): return False
+            def read(self): raise http.client.IncompleteRead(b'{"ok": 1}', 10)
+
+        with mock.patch("urllib.request.urlopen", return_value=Resp()):
+            self.assertEqual(coletar.consultar("urn:lex:br:federal:lei:1990-09-11;8078"), {"ok": 1})
+
+
 class TestResumoArquivo(unittest.TestCase):
     def test_adi_json(self):
         with tempfile.TemporaryDirectory() as d:

@@ -15,6 +15,7 @@ sobrecarga (429/503). Uso: python integracoes/senado/coletar.py --data data [--l
 from __future__ import annotations
 
 import argparse
+import http.client
 import json
 import os
 import sys
@@ -110,7 +111,12 @@ def consultar(urn: str, timeout: int = 90) -> dict | None:
                                  headers={"Accept": "application/json", "User-Agent": USER_AGENT})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
-            corpo = r.read()
+            try:
+                corpo = r.read()
+            except http.client.IncompleteRead as e:
+                # Respostas grandes (ex.: CLT, ~800 KB) às vezes chegam inteiras, mas com
+                # Content-Length maior que o corpo. Aproveita o que veio se for JSON válido.
+                corpo = e.partial
     except urllib.error.HTTPError as e:
         if e.code == 404:
             return None
