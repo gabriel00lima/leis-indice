@@ -1,12 +1,16 @@
 // Destaque "Lei explicada" no topo do texto da lei, quando existe resumo para ela.
-// Fica separado de lei.js: só lê o id da URL (depois que lei.js resolve ?ref=) e
-// insere a caixa antes do texto.
+// Fica separado de lei.js: só lê o id da página (depois que lei.js resolve ?ref=) e
+// insere a caixa antes do texto. Os links "#art-N" ficam na mesma página (lei.js cuida
+// do <base href> das páginas geradas).
 import { explicadaDaLei, carregarExplicada, renderizar, textoRevisao, AVISO, el } from "./explicadas.js";
 
 let feito = false;
 
+// lei.html?id=<id>, ou a página gerada lei/<id> (site/paginas.py), que traz o id em <body data-lei>.
+const idDaPagina = () => new URLSearchParams(location.search).get("id") || document.body.dataset.lei;
+
 async function mostrar() {
-  const id = new URLSearchParams(location.search).get("id");
+  const id = idDaPagina();
   if (!id || feito) return;
   feito = true;
   const e = await explicadaDaLei(id);
@@ -41,7 +45,7 @@ async function mostrar() {
 }
 
 const params = new URLSearchParams(location.search);
-if (params.get("id")) {
+if (idDaPagina()) {
   mostrar();
 } else if (params.get("ref")) {
   // lei.js troca ?ref= por ?id= e depois preenche o título; espera isso acontecer.

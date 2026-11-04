@@ -2,7 +2,7 @@
 // Usado pela página explicada.html, pelo destaque na página da lei e pela home.
 import { marked } from "../vendor/marked.esm.js";
 import DOMPurify from "../vendor/purify.es.mjs";
-import { formatarData } from "./dados.js";
+import { formatarData, urlLei } from "./dados.js";
 
 const BASE = "explicadas/";
 
@@ -56,14 +56,14 @@ export async function carregarExplicada(slug) {
 }
 
 // Converte Markdown em HTML seguro. Links "#art-5" apontam para a lei do resumo:
-// na página da própria lei ficam como âncora; nas outras páginas viram lei.html?id=...#art-5.
+// na página da própria lei ficam como âncora; nas outras viram link para a lei (urlLei).
 export function renderizar(md, leiId, { mesmaPagina = false } = {}) {
   const div = document.createElement("div");
   div.innerHTML = DOMPurify.sanitize(marked.parse(md, { gfm: true }));
   for (const a of div.querySelectorAll("a[href]")) {
     const href = a.getAttribute("href");
     if (href.startsWith("#art-")) {
-      if (!mesmaPagina) a.setAttribute("href", "lei.html?id=" + encodeURIComponent(leiId) + href);
+      if (!mesmaPagina) a.setAttribute("href", urlLei(leiId, href.slice(1)));
       a.classList.add("ref-artigo");
     } else if (/^https?:/.test(href)) {
       a.rel = "noopener";

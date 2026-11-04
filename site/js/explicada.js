@@ -1,6 +1,7 @@
 import {
   listaExplicadas, explicadaPorSlug, carregarExplicada, renderizar, textoRevisao, AVISO, el, cartaoExplicada,
 } from "./explicadas.js";
+import { urlLei } from "./dados.js";
 
 const $ = s => document.querySelector(s);
 const params = new URLSearchParams(location.search);
@@ -45,7 +46,7 @@ async function mostrarExplicada(slug) {
     $("#publico").hidden = false;
   }
   $("#acoes").replaceChildren(
-    el("a", { class: "botao botao-cheio", href: "lei.html?id=" + encodeURIComponent(e.lei), texto: "Ler o texto completo da lei" }),
+    el("a", { class: "botao botao-cheio", href: urlLei(e.lei), texto: "Ler o texto completo da lei" }),
     el("a", { class: "botao", href: "explicada.html", texto: "Outras leis explicadas" }));
 
   const texto = $("#texto-explicada");
