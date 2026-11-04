@@ -42,6 +42,6 @@ Ele roda em todo push na `main` que mexa em `site/` ou `data/`, uma vez por dia 
 
 Algumas coisas só o dono do repositório pode ativar (GitHub Pages, segredos, permissões das Actions). A lista está em [docs/configuracao.md](docs/configuracao.md).
 
-## Licença
+
 
 O código está sob a licença MIT (veja [LICENSE](LICENSE)). Os textos de leis e atos oficiais não são protegidos por direito autoral no Brasil (Lei nº 9.610/1998, art. 8º, IV); os dados derivados em `data/` vêm do acervo [ctresb/leis](https://github.com/ctresb/leis), que deve ser citado como fonte.
