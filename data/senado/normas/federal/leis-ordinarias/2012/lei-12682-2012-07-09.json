@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2012/lei-12682-2012-07-09",
+"urn": "urn:lex:br:federal:lei:2012-07-09;12682",
+"consultado_em": "2026-11-04",
+"codigo": "589605",
+"nome": "Lei nº 12.682 de 09/07/2012",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2012-07-10", "descricao": "Publicação Original [Diário Oficial da União de 10/07/2012] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2019-04-30", "nome": "Medida Provisória nº 881 de 30/04/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "acrescentou"}]},
+{"data": "2019-09-20", "nome": "Lei nº 13.874 de 20/09/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2019/lei-13874-2019-09-20"},
+{"data": "2020-03-18", "nome": "Decreto nº 10.278 de 18/03/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "regulamentou"}]},
+{"data": "2021-03-29", "nome": "Lei nº 14.129 de 29/03/2021", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "correlato"}], "id": "federal/leis-ordinarias/2021/lei-14129-2021-03-29"},
+{"data": "2021-03-29", "nome": "Lei nº 14.129 de 29/03/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2021/lei-14129-2021-03-29"}
+],
+"controle": []
+}

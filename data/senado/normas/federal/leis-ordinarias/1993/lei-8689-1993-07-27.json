@@ -1,0 +1,38 @@
+{
+"id": "federal/leis-ordinarias/1993/lei-8689-1993-07-27",
+"urn": "urn:lex:br:federal:lei:1993-07-27;8689",
+"consultado_em": "2026-11-04",
+"codigo": "550565",
+"nome": "Lei nº 8.689 de 27/07/1993",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-07-28", "descricao": "Publicação Original [Diário Oficial da União de 28/07/1993] (p. 10573, col. 1)"}
+],
+"alteracoes": [
+{"data": "1993-08-31", "nome": "Decreto nº 907 de 31/08/1993", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1993-11-17", "nome": "Decreto nº 987 de 17/11/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-11-30", "nome": "Medida Provisória nº 379 de 30/11/1993", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "1993-12-30", "nome": "Medida Provisória nº 405 de 30/12/1993", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "1994-01-28", "nome": "Medida Provisória nº 421 de 28/01/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "1994-02-28", "nome": "Medida Provisória nº 440 de 28/02/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "1994-03-30", "nome": "Medida Provisória nº 464 de 30/03/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "1994-04-29", "nome": "Medida Provisória nº 489 de 29/04/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "1994-05-06", "nome": "Medida Provisória nº 494 de 06/05/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "alterou"}]},
+{"data": "1994-05-27", "nome": "Medida Provisória nº 515 de 27/05/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "1994-06-07", "nome": "Medida Provisória nº 523 de 07/06/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "alterou"}]},
+{"data": "1994-06-21", "nome": "Lei nº 8.896 de 21/06/1994", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/1994/lei-8896-1994-06-21"},
+{"data": "1994-07-07", "nome": "Medida Provisória nº 547 de 07/07/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "reabertura de prazo"}]},
+{"data": "1994-08-06", "nome": "Medida Provisória nº 572 de 06/08/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "reabertura de prazo"}]},
+{"data": "1994-09-06", "nome": "Medida Provisória nº 604 de 06/09/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "reabertura de prazo"}]},
+{"data": "1994-10-06", "nome": "Medida Provisória nº 643 de 06/10/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "reabertura de prazo"}]},
+{"data": "1994-11-03", "nome": "Medida Provisória nº 689 de 03/11/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "reabertura de prazo"}]},
+{"data": "1994-12-02", "nome": "Medida Provisória nº 739 de 02/12/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "reabertura de prazo"}]},
+{"data": "1994-12-30", "nome": "Medida Provisória nº 798 de 30/12/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "reabertura de prazo"}]},
+{"data": "1995-01-27", "nome": "Medida Provisória nº 862 de 27/01/1995", "tipo": "Ratificação Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "ratificado provisoriamente"}]},
+{"data": "1995-02-24", "nome": "Lei nº 8.993 de 24/02/1995", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "reabertura de prazo"}], "id": "federal/leis-ordinarias/1995/lei-8993-1995-02-24"},
+{"data": "2001-02-06", "nome": "Lei nº 10.180 de 06/02/2001", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "correlato"}], "id": "federal/leis-ordinarias/2001/lei-10180-2001-02-06"},
+{"data": "2011-07-06", "nome": "Lei nº 12.438 de 06/07/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 12, Parágrafo Único", "art": "12", "acao": "alterou"}], "id": "federal/leis-ordinarias/2011/lei-12438-2011-07-06"},
+{"data": "2012-01-13", "nome": "Lei Complementar nº 141 de 13/01/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}], "id": "federal/leis-complementares/2012/lcp-141-2012-01-13"}
+],
+"controle": []
+}

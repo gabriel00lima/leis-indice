@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1997/lei-9528-1997-12-10",
+"urn": "urn:lex:br:federal:lei:1997-12-10;9528",
+"consultado_em": "2026-11-04",
+"codigo": "551404",
+"nome": "Lei nº 9.528 de 10/12/1997",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1997-12-11", "descricao": "Publicação Original [Diário Oficial da União de 11/12/1997] (p. 29426, col. 1)"}
+],
+"alteracoes": [
+{"data": "2001-07-09", "nome": "Lei nº 10.256 de 09/07/2001", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}], "id": "federal/leis-ordinarias/2001/lei-10256-2001-07-09"},
+{"data": "2007-03-16", "nome": "Medida Provisória nº 359 de 16/03/2007", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]},
+{"data": "2018-01-09", "nome": "Lei nº 13.606 de 09/01/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, Parágrafo Único, apenas o Caput", "art": "6", "acao": "acrescentou"}, {"dispositivo": "Art. 6, Parágrafo Único, Inciso 1", "art": "6", "acao": "acrescentou"}, {"dispositivo": "Art. 6, Parágrafo Único, Inciso 2", "art": "6", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2018/lei-13606-2018-01-09"}
+],
+"controle": []
+}

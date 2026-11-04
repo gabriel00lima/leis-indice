@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1959/lei-3577-1959-07-04",
+"urn": "urn:lex:br:federal:lei:1959-07-04;3577",
+"consultado_em": "2026-11-04",
+"codigo": "545393",
+"nome": "Lei nº 3.577 de 04/07/1959",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1959-07-04", "descricao": "Publicação Original [Diário Oficial da União de 04/07/1959] (p. 15257, col. 1)"}
+],
+"alteracoes": [
+{"data": "1962-06-01", "nome": "Decreto do Conselho de MInistros nº 1.117 de 01/06/1962", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1966-09-29", "nome": "Lei nº 5.127 de 29/09/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5127-1966-09-29"},
+{"data": "1971-09-22", "nome": "Decreto nº 69.261 de 22/09/1971", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1974-05-02", "nome": "Lei nº 6.037 de 02/05/1974", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1974/lei-6037-1974-05-02"},
+{"data": "1977-09-01", "nome": "Decreto-Lei nº 1.572 de 01/09/1977", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1977/del-1572-1977-09-01"}
+],
+"controle": []
+}

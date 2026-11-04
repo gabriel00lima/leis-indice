@@ -1,0 +1,25 @@
+{
+"id": "federal/leis-complementares/2020/lcp-172-2020-04-15",
+"urn": "urn:lex:br:federal:lei.complementar:2020-04-15;172",
+"consultado_em": "2026-11-04",
+"codigo": "32111870",
+"nome": "Lei Complementar nº 172 de 15/04/2020",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2020-04-16", "descricao": "Publicação Original [Diário Oficial da União de 16/04/2020] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-05-06", "nome": "Lei Complementar nº 181 de 06/05/2021", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/2021/lcp-181-2021-05-06"},
+{"data": "2021-05-06", "nome": "Lei Complementar nº 181 de 06/05/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, caput", "art": "5", "acao": "alterou"}], "id": "federal/leis-complementares/2021/lcp-181-2021-05-06"},
+{"data": "2022-12-06", "nome": "Lei Complementar nº 197 de 06/12/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 1", "art": "2", "acao": "ressalvou"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "alterou"}], "id": "federal/leis-complementares/2022/lcp-197-2022-12-06"},
+{"data": "2022-12-06", "nome": "Lei Complementar nº 197 de 06/12/2022", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-complementares/2022/lcp-197-2022-12-06"},
+{"data": "2022-12-06", "nome": "Lei Complementar nº 197 de 06/12/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/2022/lcp-197-2022-12-06"},
+{"data": "2022-12-06", "nome": "Lei Complementar nº 197 de 06/12/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/2022/lcp-197-2022-12-06"},
+{"data": "2024-05-09", "nome": "Lei Complementar nº 205 de 09/05/2024", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/2024/lcp-205-2024-05-09"},
+{"data": "2024-05-09", "nome": "Lei Complementar nº 205 de 09/05/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, caput", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, § 1", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 5, § 2", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 5-A, caput", "art": "5-a", "acao": "acrescentou"}, {"dispositivo": "Art. 5-A, § 1", "art": "5-a", "acao": "acrescentou"}, {"dispositivo": "Art. 5-A, § 2", "art": "5-a", "acao": "acrescentou"}], "id": "federal/leis-complementares/2024/lcp-205-2024-05-09"},
+{"data": "2025-09-18", "nome": "Lei Complementar nº 217 de 18/09/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, caput", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, § 1", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, § 2", "art": "5", "acao": "vetado"}], "id": "federal/leis-complementares/2025/lcp-217-2025-09-18"},
+{"data": "2025-09-18", "nome": "Lei Complementar nº 217 de 18/09/2025", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/2025/lcp-217-2025-09-18"},
+{"data": "2025-09-18", "nome": "Lei Complementar nº 217 de 18/09/2025", "tipo": "Alteração Vetada", "dispositivos": [], "id": "federal/leis-complementares/2025/lcp-217-2025-09-18"}
+],
+"controle": []
+}

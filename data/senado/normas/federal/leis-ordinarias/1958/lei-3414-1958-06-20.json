@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1958/lei-3414-1958-06-20",
+"urn": "urn:lex:br:federal:lei:1958-06-20;3414",
+"consultado_em": "2026-11-04",
+"codigo": "545229",
+"nome": "Lei nº 3.414 de 20/06/1958",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1958-06-21", "descricao": "Publicação Original [Diário Oficial da União de 21/06/1958] (p. 14177, col. 1)"}
+],
+"alteracoes": [
+{"data": "1959-01-28", "nome": "Decreto nº 45.359 de 28/01/1959", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1959-09-25", "nome": "Decreto nº 46.904 de 25/09/1959", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1961-01-27", "nome": "Decreto nº 50.160 de 27/01/1961", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1964-10-27", "nome": "Lei nº 4.439 de 27/10/1964", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, Parágrafo Único", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}], "id": "federal/leis-ordinarias/1964/lei-4439-1964-10-27"}
+],
+"controle": []
+}

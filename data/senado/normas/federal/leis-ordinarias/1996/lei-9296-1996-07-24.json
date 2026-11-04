@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1996/lei-9296-1996-07-24",
+"urn": "urn:lex:br:federal:lei:1996-07-24;9296",
+"consultado_em": "2026-11-04",
+"codigo": "551172",
+"nome": "Lei nº 9.296 de 24/07/1996",
+"apelidos": [
+"Lei da Escuta Telefônica (1996)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1996-07-25", "descricao": "Publicação Original [Diário Oficial da União de 25/07/1996] (p. 13757, col. 1)"}
+],
+"alteracoes": [
+{"data": "2001-04-11", "nome": "Lei nº 10.217 de 11/04/2001", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2001/lei-10217-2001-04-11"},
+{"data": "2019-09-05", "nome": "Lei nº 13.869 de 05/09/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, caput", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 10, caput, Pena", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 10, Parágrafo Único", "art": "10", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2019/lei-13869-2019-09-05"},
+{"data": "2019-12-24", "nome": "Lei nº 13.964 de 24/12/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8-A", "art": "8-a", "acao": "acrescentou"}, {"dispositivo": "Art. 8-A, § 2", "art": "8-a", "acao": "acrescentou"}, {"dispositivo": "Art. 8-A, § 2", "art": "8-a", "acao": "vetado"}, {"dispositivo": "Art. 8-A, § 4", "art": "8-a", "acao": "acrescentou"}, {"dispositivo": "Art. 8-A, § 4", "art": "8-a", "acao": "vetado"}, {"dispositivo": "Art. 10-A, caput", "art": "10-a", "acao": "acrescentou"}, {"dispositivo": "Art. 10-A, § 1", "art": "10-a", "acao": "acrescentou"}, {"dispositivo": "Art. 10-A, § 2", "art": "10-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2019/lei-13964-2019-12-24"}
+],
+"controle": []
+}

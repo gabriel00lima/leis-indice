@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10560-2002-11-13",
+"urn": "urn:lex:br:federal:lei:2002-11-13;10560",
+"consultado_em": "2026-11-04",
+"codigo": "552436",
+"nome": "Lei nº 10.560 de 13/11/2002",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-11-14", "descricao": "Publicação Original [Diário Oficial da União de 14/11/2002] (p. 7, col. 2)"}
+],
+"alteracoes": [
+{"data": "2004-04-30", "nome": "Lei nº 10.865 de 30/04/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-10865-2004-04-30"},
+{"data": "2004-12-29", "nome": "Lei nº 11.051 de 29/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11051-2004-12-29"},
+{"data": "2008-09-25", "nome": "Lei nº 11.787 de 25/09/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2008/lei-11787-2008-09-25"},
+{"data": "2022-03-11", "nome": "Lei Complementar nº 192 de 11/03/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "ressalvou"}], "id": "federal/leis-complementares/2022/lcp-192-2022-03-11"},
+{"data": "2023-01-01", "nome": "Medida Provisória nº 1.157 de 01/01/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "ressalvou"}]},
+{"data": "2023-02-28", "nome": "Medida Provisória nº 1.163 de 28/02/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "ressalvou"}]}
+],
+"controle": []
+}

@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7783-1989-06-28",
+"urn": "urn:lex:br:federal:lei:1989-06-28;7783",
+"consultado_em": "2026-11-04",
+"codigo": "549659",
+"nome": "Lei nº 7.783 de 28/06/1989",
+"apelidos": [
+"Lei de Greve (1989)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-06-29", "descricao": "Publicação Original [Diário Oficial da União de 29/06/1989] (p. 10561, col. 1)"}
+],
+"alteracoes": [
+{"data": "2018-12-20", "nome": "Medida Provisória nº 866 de 20/12/2018", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10, caput, Inciso 10", "art": "10", "acao": "alterou"}]},
+{"data": "2019-06-18", "nome": "Lei nº 13.846 de 18/06/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, caput, Inciso 12", "art": "10", "acao": "acrescentou"}, {"dispositivo": "Art. 10, caput, Inciso 13", "art": "10", "acao": "acrescentou"}, {"dispositivo": "Art. 10, caput, Inciso 14", "art": "10", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2019/lei-13846-2019-06-18"},
+{"data": "2019-11-19", "nome": "Lei nº 13.903 de 19/11/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, caput, Inciso 10", "art": "10", "acao": "alterou"}], "id": "federal/leis-ordinarias/2019/lei-13903-2019-11-19"},
+{"data": "2020-04-04", "nome": "Medida Provisória nº 945 de 04/04/2020", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10, caput, Inciso 15", "art": "10", "acao": "acrescentou"}]},
+{"data": "2020-07-06", "nome": "Lei nº 14.020 de 06/07/2020", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2020/lei-14020-2020-07-06"},
+{"data": "2020-08-24", "nome": "Lei nº 14.047 de 24/08/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, caput, Inciso 15", "art": "10", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2020/lei-14047-2020-08-24"}
+],
+"controle": []
+}

@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1991/lei-8315-1991-12-23",
+"urn": "urn:lex:br:federal:lei:1991-12-23;8315",
+"consultado_em": "2026-11-04",
+"codigo": "550191",
+"nome": "Lei nº 8.315 de 23/12/1991",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1991-12-24", "descricao": "Publicação Original [Diário Oficial da União de 24/12/1991] (p. 30264, col. 1)"}
+],
+"alteracoes": [
+{"data": "1992-06-10", "nome": "Decreto nº 566 de 10/06/1992", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2012-01-18", "nome": "Lei nº 12.594 de 18/01/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2012/lei-12594-2012-01-18"},
+{"data": "2019-06-05", "nome": "Lei nº 13.840 de 05/06/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "renumerou"}, {"dispositivo": "Anexo 1 Art. 2", "art": null, "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2019/lei-13840-2019-06-05"},
+{"data": "2019-11-11", "nome": "Medida Provisória nº 905 de 11/11/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "ressalvou"}]}
+],
+"controle": []
+}

@@ -1,0 +1,33 @@
+{
+"id": "federal/leis-ordinarias/2005/lei-11134-2005-07-15",
+"urn": "urn:lex:br:federal:lei:2005-07-15;11134",
+"consultado_em": "2026-11-04",
+"codigo": "570583",
+"nome": "Lei nº 11.134 de 15/07/2005",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2005-07-18", "descricao": "Publicação Original [Diário Oficial da União de 18/07/2005] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "2005-07-19", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 19/07/2005] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "2005-08-16", "descricao": "Retificação (Seq. 2) [Diário Oficial da União de 16/08/2005] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2006-06-29", "nome": "Medida Provisória nº 307 de 29/06/2006", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}]},
+{"data": "2006-06-29", "nome": "Medida Provisória nº 308 de 29/06/2006", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 24", "art": "24", "acao": "revogou"}, {"dispositivo": "Art. 26", "art": "26", "acao": "revogou"}, {"dispositivo": "Anexo 6", "art": null, "acao": "revogou"}, {"dispositivo": "Anexo 7", "art": null, "acao": "revogou"}]},
+{"data": "2006-10-19", "nome": "Lei nº 11.360 de 19/10/2006", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2006/lei-11360-2006-10-19"},
+{"data": "2006-10-19", "nome": "Lei nº 11.361 de 19/10/2006", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 24", "art": "24", "acao": "revogou"}, {"dispositivo": "Art. 26", "art": "26", "acao": "revogou"}, {"dispositivo": "Anexo 6", "art": null, "acao": "revogou"}, {"dispositivo": "Anexo 7", "art": null, "acao": "revogou"}], "id": "federal/leis-ordinarias/2006/lei-11361-2006-10-19"},
+{"data": "2007-11-13", "nome": "Medida Provisória nº 401 de 13/11/2007", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1-A", "art": "1-a", "acao": "alterou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}]},
+{"data": "2008-04-24", "nome": "Lei nº 11.663 de 24/04/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1-A", "art": "1-a", "acao": "alterou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2008/lei-11663-2008-04-24"},
+{"data": "2008-05-08", "nome": "Medida Provisória nº 426 de 08/05/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}]},
+{"data": "2008-07-28", "nome": "Lei nº 11.757 de 28/07/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2008/lei-11757-2008-07-28"},
+{"data": "2009-11-06", "nome": "Lei nº 12.086 de 06/11/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "revogou"}, {"dispositivo": "Anexo 3", "art": null, "acao": "revogou"}], "id": "federal/leis-ordinarias/2009/lei-12086-2009-11-06"},
+{"data": "2013-04-24", "nome": "Lei nº 12.804 de 24/04/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1-A", "art": "1-a", "acao": "alterou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 1-A", "art": null, "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2013/lei-12804-2013-04-24"},
+{"data": "2018-07-10", "nome": "Lei nº 13.690 de 10/07/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 29-A", "art": "29-a", "acao": "acrescentou"}, {"dispositivo": "Art. 29-A, § 4", "art": "29-a", "acao": "vetado"}], "id": "federal/leis-ordinarias/2018/lei-13690-2018-07-10"},
+{"data": "2020-05-26", "nome": "Medida Provisória nº 971 de 26/05/2020", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 29-A, caput, Inciso 1", "art": "29-a", "acao": "alterou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}]},
+{"data": "2020-09-22", "nome": "Lei nº 14.059 de 22/09/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 29-A, caput, Inciso 1", "art": "29-a", "acao": "alterou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2020/lei-14059-2020-09-22"},
+{"data": "2023-07-18", "nome": "Medida Provisória nº 1.181 de 18/07/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}]},
+{"data": "2023-11-14", "nome": "Lei nº 14.724 de 14/11/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1-B, caput", "art": "1-b", "acao": "acrescentou"}, {"dispositivo": "Art. 1-B, caput", "art": "1-b", "acao": "vetado"}, {"dispositivo": "Art. 29-A, caput, Inciso 13", "art": "29-a", "acao": "vetado"}, {"dispositivo": "Art. 29-A, § 1", "art": "29-a", "acao": "vetado"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2023/lei-14724-2023-11-14"},
+{"data": "2025-12-01", "nome": "Medida Provisória nº 1.326 de 01/12/2025", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}]},
+{"data": "2026-04-27", "nome": "Lei nº 15.395 de 27/04/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 29-A, § 3", "art": "29-a", "acao": "alterou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2026/lei-15395-2026-04-27"}
+],
+"controle": []
+}

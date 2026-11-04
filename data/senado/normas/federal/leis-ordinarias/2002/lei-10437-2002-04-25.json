@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10437-2002-04-25",
+"urn": "urn:lex:br:federal:lei:2002-04-25;10437",
+"consultado_em": "2026-11-04",
+"codigo": "552313",
+"nome": "Lei nº 10.437 de 25/04/2002",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-04-26", "descricao": "Publicação Original [Diário Oficial da União de 26/04/2002] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2002-10-25", "nome": "Medida Provisória nº 77 de 25/10/2002", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2003-03-28", "nome": "Lei nº 10.646 de 28/03/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2003/lei-10646-2003-03-28"},
+{"data": "2003-03-31", "nome": "Medida Provisória nº 114 de 31/03/2003", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 1", "art": "2", "acao": "alterou"}]},
+{"data": "2003-07-02", "nome": "Lei nº 10.696 de 02/07/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 1", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2003/lei-10696-2003-07-02"},
+{"data": "2019-07-08", "nome": "Decreto nº 9.905 de 08/07/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 1", "art": "2", "acao": "ressalvou"}]}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1976/lei-6389-1976-12-09",
+"urn": "urn:lex:br:federal:lei:1976-12-09;6389",
+"consultado_em": "2026-11-04",
+"codigo": "548265",
+"nome": "Lei nº 6.389 de 09/12/1976",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1976-12-10", "descricao": "Publicação Original [Diário Oficial da União de 10/12/1976] (p. 16102, col. 2)"}
+],
+"alteracoes": [
+{"data": "1978-02-22", "nome": "Decreto-Lei nº 1.604 de 22/02/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1978/del-1604-1978-02-22"},
+{"data": "1990-07-12", "nome": "Lei nº 8.067 de 12/07/1990", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, Parágrafo Único, Alínea a", "art": "5", "acao": "alterou"}], "id": "federal/leis-ordinarias/1990/lei-8067-1990-07-12"}
+],
+"controle": []
+}

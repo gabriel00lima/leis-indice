@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1992/lei-8405-1992-01-09",
+"urn": "urn:lex:br:federal:lei:1992-01-09;8405",
+"consultado_em": "2026-11-04",
+"codigo": "550281",
+"nome": "Lei nº 8.405 de 09/01/1992",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1992-01-10", "descricao": "Publicação Original [Diário Oficial da União de 10/01/1992] (p. 365, col. 1)"}
+],
+"alteracoes": [
+{"data": "2007-07-11", "nome": "Lei nº 11.502 de 11/07/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}], "id": "federal/leis-ordinarias/2007/lei-11502-2007-07-11"},
+{"data": "2012-03-20", "nome": "Medida Provisória nº 562 de 20/03/2012", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2012-07-25", "nome": "Lei nº 12.695 de 25/07/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2012/lei-12695-2012-07-25"},
+{"data": "2012-11-08", "nome": "Medida Provisória nº 586 de 08/11/2012", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 6", "art": "2", "acao": "acrescentou"}]},
+{"data": "2013-04-24", "nome": "Lei nº 12.801 de 24/04/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 6", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2013/lei-12801-2013-04-24"}
+],
+"controle": []
+}

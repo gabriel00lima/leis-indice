@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10453-2002-05-13",
+"urn": "urn:lex:br:federal:lei:2002-05-13;10453",
+"consultado_em": "2026-11-04",
+"codigo": "552329",
+"nome": "Lei nº 10.453 de 13/05/2002",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-05-14", "descricao": "Publicação Original [Diário Oficial da União de 14/05/2002] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2002-06-12", "nome": "Decreto nº 4.267 de 12/06/2002", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "regulamentou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "regulamentou"}]},
+{"data": "2002-06-28", "nome": "Decreto nº 4.292 de 28/06/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "prorrogação de prazo"}]},
+{"data": "2002-08-30", "nome": "Decreto nº 4.353 de 30/08/2002", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "regulamentou"}]},
+{"data": "2002-11-29", "nome": "Decreto nº 4.491 de 29/11/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "prorrogação de prazo"}]},
+{"data": "2011-12-23", "nome": "Medida Provisória nº 554 de 23/12/2011", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "2012-06-14", "nome": "Lei nº 12.666 de 14/06/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2012/lei-12666-2012-06-14"}
+],
+"controle": []
+}

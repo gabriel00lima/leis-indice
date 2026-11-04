@@ -1,0 +1,35 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4923-1965-12-23",
+"urn": "urn:lex:br:federal:lei:1965-12-23;4923",
+"consultado_em": "2026-11-04",
+"codigo": "546780",
+"nome": "Lei nº 4.923 de 23/12/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-12-29", "descricao": "Publicação Original [Diário Oficial da União de 29/12/1965] (p. 13537, col. 2)"}
+],
+"alteracoes": [
+{"data": "1966-04-05", "nome": "Decreto nº 58.155 de 05/04/1966", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1966-06-21", "nome": "Decreto nº 58.684 de 21/06/1966", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1966-09-13", "nome": "Lei nº 5.107 de 13/09/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5107-1966-09-13"},
+{"data": "1967-02-24", "nome": "Decreto-Lei nº 193 de 24/02/1967", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1967/del-193-1967-02-24"},
+{"data": "1970-06-18", "nome": "Decreto-Lei nº 1.107 de 18/06/1970", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1970/del-1107-1970-06-18"},
+{"data": "1971-11-22", "nome": "Lei nº 5.737 de 22/11/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5737-1971-11-22"},
+{"data": "1976-04-01", "nome": "Decreto nº 77.362 de 01/04/1976", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1976-08-31", "nome": "Decreto nº 78.339 de 31/08/1976", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1986-04-30", "nome": "Decreto nº 92.608 de 30/04/1986", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2000-12-14", "nome": "Medida Provisória nº 1.952-31 de 14/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2000-12-27", "nome": "Medida Provisória nº 2.076-32 de 27/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2001-01-26", "nome": "Medida Provisória nº 2.076-33 de 26/01/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2001-02-23", "nome": "Medida Provisória nº 2.076-34 de 23/02/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2001-03-27", "nome": "Medida Provisória nº 2.076-35 de 27/03/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2001-04-26", "nome": "Medida Provisória nº 2.076-36 de 26/04/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2001-05-24", "nome": "Medida Provisória nº 2.076-37 de 24/05/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2001-06-21", "nome": "Medida Provisória nº 2.076-38 de 21/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2001-06-28", "nome": "Medida Provisória nº 2.164-39 de 28/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2001-07-27", "nome": "Medida Provisória nº 2.164-40 de 27/07/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2001-08-24", "nome": "Medida Provisória nº 2.164-41 de 24/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2019-11-11", "nome": "Medida Provisória nº 905 de 11/11/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10, caput", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 10, Parágrafo Único", "art": "10", "acao": "revogou"}]}
+],
+"controle": []
+}

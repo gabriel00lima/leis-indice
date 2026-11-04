@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2009/lei-12086-2009-11-06",
+"urn": "urn:lex:br:federal:lei:2009-11-06;12086",
+"consultado_em": "2026-11-04",
+"codigo": "580778",
+"nome": "Lei nº 12.086 de 06/11/2009",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2009-11-09", "descricao": "Publicação Original [Diário Oficial da União de 09/11/2009] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2016-12-22", "nome": "Medida Provisória nº 760 de 22/12/2016", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 32", "art": "32", "acao": "alterou"}, {"dispositivo": "Art. 36, caput", "art": "36", "acao": "alterou"}, {"dispositivo": "Art. 37-A, caput", "art": "37-a", "acao": "acrescentou"}, {"dispositivo": "Art. 79, caput", "art": "79", "acao": "alterou"}, {"dispositivo": "Art. 79, caput, Inciso 1", "art": "79", "acao": "alterou"}]},
+{"data": "2016-12-29", "nome": "Medida Provisória nº 765 de 29/12/2016", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 32, caput, Inciso 4", "art": "32", "acao": "revogou"}]},
+{"data": "2017-06-26", "nome": "Lei nº 13.459 de 26/06/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 32", "art": "32", "acao": "alterou"}, {"dispositivo": "Art. 32, caput, Inciso 3", "art": "32", "acao": "vetado"}, {"dispositivo": "Art. 32, caput, Inciso 4", "art": "32", "acao": "revogou"}, {"dispositivo": "Art. 32, § 4", "art": "32", "acao": "vetado"}, {"dispositivo": "Art. 36, caput", "art": "36", "acao": "alterou"}, {"dispositivo": "Art. 37-A, caput", "art": "37-a", "acao": "acrescentou"}, {"dispositivo": "Art. 79", "art": "79", "acao": "alterou"}, {"dispositivo": "Art. 79, caput, Inciso 1", "art": "79", "acao": "ressalvou"}, {"dispositivo": "Art. 79, § 5", "art": "79", "acao": "vetado"}, {"dispositivo": "Art. 114, caput", "art": "114", "acao": "alterou"}], "id": "federal/leis-ordinarias/2017/lei-13459-2017-06-26"},
+{"data": "2017-07-10", "nome": "Lei nº 13.464 de 10/07/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 32, caput, Inciso 4", "art": "32", "acao": "revogou"}], "id": "federal/leis-ordinarias/2017/lei-13464-2017-07-10"},
+{"data": "2023-11-14", "nome": "Lei nº 14.724 de 14/11/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 38, § 1, Inciso 6", "art": "38", "acao": "vetado"}], "id": "federal/leis-ordinarias/2023/lei-14724-2023-11-14"},
+{"data": "2026-04-27", "nome": "Lei nº 15.395 de 27/04/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, caput, Inciso 5", "art": "6", "acao": "vetado"}, {"dispositivo": "Art. 6, Parágrafo Único", "art": "6", "acao": "vetado"}, {"dispositivo": "Art. 69, caput, Inciso 5", "art": "69", "acao": "vetado"}, {"dispositivo": "Art. 69, Parágrafo Único", "art": "69", "acao": "vetado"}, {"dispositivo": "Art. 114, § 1, Inciso 5", "art": "114", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15395-2026-04-27"}
+],
+"controle": []
+}

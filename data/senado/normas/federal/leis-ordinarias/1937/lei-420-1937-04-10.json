@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1937/lei-420-1937-04-10",
+"urn": "urn:lex:br:federal:lei:1937-04-10;420",
+"consultado_em": "2026-11-04",
+"codigo": "541741",
+"nome": "Lei nº 420 de 10/04/1937",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1937-04-15", "descricao": "Publicação Original [Diário Oficial da União de 15/04/1937] (p. 8376, col. 1)"}
+],
+"alteracoes": [
+{"data": "1942-09-21", "nome": "Decreto-Lei nº 4.718 de 21/09/1942", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 15", "art": "15", "acao": "revogou"}], "id": "federal/decretos-lei/1942/del-4718-1942-09-21"}
+],
+"controle": []
+}

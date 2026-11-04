@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1991/lei-8185-1991-05-14",
+"urn": "urn:lex:br:federal:lei:1991-05-14;8185",
+"consultado_em": "2026-11-04",
+"codigo": "550061",
+"nome": "Lei nº 8.185 de 14/05/1991",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1991-05-15", "descricao": "Publicação Original [Diário Oficial da União de 15/05/1991] (p. 9185, col. 1)"}
+],
+"alteracoes": [
+{"data": "1992-01-10", "nome": "Lei nº 8.407 de 10/01/1992", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 1", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "alterou"}, {"dispositivo": "Art. 25", "art": "25", "acao": "alterou"}, {"dispositivo": "Art. 25, caput, Inciso 5", "art": "25", "acao": "alterou"}, {"dispositivo": "Art. 25, caput, Inciso 6", "art": "25", "acao": "alterou"}, {"dispositivo": "Art. 34", "art": "34", "acao": "alterou"}, {"dispositivo": "Art. 35, § 4", "art": "35", "acao": "alterou"}, {"dispositivo": "Art. 44, § 1", "art": "44", "acao": "alterou"}, {"dispositivo": "Art. 45", "art": "45", "acao": "alterou"}, {"dispositivo": "Art. 49", "art": "49", "acao": "alterou"}, {"dispositivo": "Art. 60", "art": "60", "acao": "alterou"}, {"dispositivo": "Art. 61", "art": "61", "acao": "alterou"}, {"dispositivo": "Art. 71", "art": "71", "acao": "alterou"}, {"dispositivo": "Art. 75", "art": "75", "acao": "alterou"}, {"dispositivo": "Art. 78", "art": "78", "acao": "alterou"}, {"dispositivo": "Art. 78, caput, Inciso 1", "art": "78", "acao": "alterou"}], "id": "federal/leis-ordinarias/1992/lei-8407-1992-01-10"},
+{"data": "1995-12-26", "nome": "Lei nº 9.248 de 26/12/1995", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 32, caput, Inciso 4", "art": "32", "acao": "alterou"}], "id": "federal/leis-ordinarias/1995/lei-9248-1995-12-26"},
+{"data": "1998-09-08", "nome": "Lei nº 9.699 de 08/09/1998", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 18", "art": "18", "acao": "alterou"}, {"dispositivo": "Art. 25", "art": "25", "acao": "alterou"}, {"dispositivo": "Art. 25, caput, Inciso 7-A", "art": "25", "acao": "acrescentou"}, {"dispositivo": "Art. 33", "art": "33", "acao": "alterou"}], "id": "federal/leis-ordinarias/1998/lei-9699-1998-09-08"},
+{"data": "1999-11-10", "nome": "Lei nº 9.868 de 10/11/1999", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8, caput, Inciso 1, Alínea n", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8, § 3", "art": "8", "acao": "alterou"}], "id": "federal/leis-ordinarias/1999/lei-9868-1999-11-10"},
+{"data": "2003-12-10", "nome": "Lei nº 10.801 de 10/12/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 1", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 2", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "alterou"}, {"dispositivo": "Art. 18, caput, Inciso 10-A", "art": "18", "acao": "revogou"}], "id": "federal/leis-ordinarias/2003/lei-10801-2003-12-10"},
+{"data": "2008-06-13", "nome": "Lei nº 11.697 de 13/06/2008", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2008/lei-11697-2008-06-13"}
+],
+"controle": []
+}

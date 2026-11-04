@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2010/lei-12309-2010-08-09",
+"urn": "urn:lex:br:federal:lei:2010-08-09;12309",
+"consultado_em": "2026-11-04",
+"codigo": "575951",
+"nome": "Lei nº 12.309 de 09/08/2010",
+"apelidos": [
+"Lei de Diretrizes Orçamentárias (LDO) (2011)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2010-08-10", "descricao": "Publicação Original [Diário Oficial da União de 10/08/2010] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2010-12-30", "nome": "Lei nº 12.377 de 30/12/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 20, caput, Inciso 13", "art": "20", "acao": "alterou"}, {"dispositivo": "Anexo 3", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2010/lei-12377-2010-12-30"},
+{"data": "2011-03-01", "nome": "Decreto nº 7.445 de 01/03/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 4", "art": null, "acao": "alterou"}]}
+],
+"controle": []
+}

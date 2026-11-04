@@ -1,0 +1,32 @@
+{
+"id": "federal/leis-ordinarias/2020/lei-13988-2020-04-14",
+"urn": "urn:lex:br:federal:lei:2020-04-14;13988",
+"consultado_em": "2026-11-04",
+"codigo": "32103727",
+"nome": "Lei nº 13.988 de 14/04/2020",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2020-04-14", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 14/04/2020] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2020-10-14", "nome": "Lei nº 14.073 de 14/10/2020", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "correlato"}], "id": "federal/leis-ordinarias/2020/lei-14073-2020-10-14"},
+{"data": "2021-05-03", "nome": "Lei nº 14.148 de 03/05/2021", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14148-2021-05-03"},
+{"data": "2022-06-21", "nome": "Lei nº 14.375 de 21/06/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 4, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2, caput, Inciso 1", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 10-A, caput", "art": "10-a", "acao": "acrescentou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 13, caput", "art": "13", "acao": "alterou"}, {"dispositivo": "Art. 14, caput", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 14, caput, Inciso 5", "art": "14", "acao": "revogou"}, {"dispositivo": "Art. 14, Parágrafo Único", "art": "14", "acao": "acrescentou"}, {"dispositivo": "Art. 27-A, caput", "art": "27-a", "acao": "acrescentou"}, {"dispositivo": "Art. 27-A, caput, Inciso 1", "art": "27-a", "acao": "acrescentou"}, {"dispositivo": "Art. 27-A, caput, Inciso 2", "art": "27-a", "acao": "acrescentou"}, {"dispositivo": "Art. 27-A, caput, Inciso 3", "art": "27-a", "acao": "acrescentou"}, {"dispositivo": "Art. 27-A, Parágrafo Único", "art": "27-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14375-2022-06-21"},
+{"data": "2022-06-21", "nome": "Lei nº 14.375 de 21/06/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14375-2022-06-21"},
+{"data": "2022-06-21", "nome": "Lei nº 14.375 de 21/06/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14375-2022-06-21"},
+{"data": "2023-01-12", "nome": "Medida Provisória nº 1.160 de 12/01/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 27-B, caput", "art": "27-b", "acao": "acrescentou"}]},
+{"data": "2023-01-12", "nome": "Medida Provisória nº 1.160 de 12/01/2023", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2023-06-15", "nome": "Ato do Presidente do Congresso Nacional nº 41 de 15/06/2023", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2023-09-20", "nome": "Lei nº 14.689 de 20/09/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 4, Inciso 3", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 10, caput", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 17, § 1, Inciso 3", "art": "17", "acao": "alterou"}, {"dispositivo": "Art. 17, § 2", "art": "17", "acao": "alterou"}, {"dispositivo": "Art. 17, § 4", "art": "17", "acao": "acrescentou"}, {"dispositivo": "Art. 19, § 1, Inciso 2", "art": "19", "acao": "revogou"}, {"dispositivo": "Art. 19, § 3", "art": "19", "acao": "alterou"}, {"dispositivo": "Art. 20, caput, Inciso 2, Alínea b", "art": "20", "acao": "revogou"}, {"dispositivo": "Art. 22-A, caput", "art": "22-a", "acao": "acrescentou"}, {"dispositivo": "Art. 27-A, caput, Inciso 3", "art": "27-a", "acao": "alterou"}], "id": "federal/leis-ordinarias/2023/lei-14689-2023-09-20"},
+{"data": "2023-09-20", "nome": "Lei nº 14.689 de 20/09/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14689-2023-09-20"},
+{"data": "2023-09-20", "nome": "Lei nº 14.689 de 20/09/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14689-2023-09-20"},
+{"data": "2023-09-20", "nome": "Lei nº 14.689 de 20/09/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14689-2023-09-20"},
+{"data": "2024-09-16", "nome": "Lei nº 14.973 de 16/09/2024", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14973-2024-09-16"},
+{"data": "2024-09-16", "nome": "Lei nº 14.973 de 16/09/2024", "tipo": "Acréscimo Vetado", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14973-2024-09-16"},
+{"data": "2024-09-16", "nome": "Lei nº 14.973 de 16/09/2024", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 22-C, § 2", "art": "22-c", "acao": "correlato"}], "id": "federal/leis-ordinarias/2024/lei-14973-2024-09-16"},
+{"data": "2024-09-16", "nome": "Lei nº 14.973 de 16/09/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 15-A, caput", "art": "15-a", "acao": "vetado"}, {"dispositivo": "Art. 15-A, § 1", "art": "15-a", "acao": "vetado"}, {"dispositivo": "Art. 15-A, § 2", "art": "15-a", "acao": "vetado"}, {"dispositivo": "Art. 22-B, caput", "art": "22-b", "acao": "acrescentou"}, {"dispositivo": "Art. 22-B, Parágrafo Único", "art": "22-b", "acao": "acrescentou"}, {"dispositivo": "Art. 22-C, caput", "art": "22-c", "acao": "acrescentou"}, {"dispositivo": "Art. 22-C, § 1", "art": "22-c", "acao": "acrescentou"}, {"dispositivo": "Art. 22-C, § 2", "art": "22-c", "acao": "acrescentou"}, {"dispositivo": "Art. 22-D", "art": "22-d", "acao": "acrescentou"}, {"dispositivo": "Art. 22-E, caput", "art": "22-e", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2024/lei-14973-2024-09-16"},
+{"data": "2025-01-22", "nome": "Lei nº 15.103 de 22/01/2025", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2025/lei-15103-2025-01-22"},
+{"data": "2025-01-22", "nome": "Lei nº 15.103 de 22/01/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11, § 13", "art": "11", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2025/lei-15103-2025-01-22"}
+],
+"controle": []
+}

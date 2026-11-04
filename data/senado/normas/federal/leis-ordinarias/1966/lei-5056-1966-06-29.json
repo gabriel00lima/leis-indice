@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1966/lei-5056-1966-06-29",
+"urn": "urn:lex:br:federal:lei:1966-06-29;5056",
+"consultado_em": "2026-11-04",
+"codigo": "546914",
+"nome": "Lei nº 5.056 de 29/06/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-07-05", "descricao": "Publicação Original [Diário Oficial da União de 05/07/1966] (p. 7331, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-11-01", "nome": "Decreto-Lei nº 25 de 01/11/1966", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1966/del-25-1966-11-01"},
+{"data": "1986-12-09", "nome": "Decreto nº 93.667 de 09/12/1986", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1988-02-03", "nome": "Lei nº 7.652 de 03/02/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "revogou"}, {"dispositivo": "Art. 14", "art": "14", "acao": "revogou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "revogou"}, {"dispositivo": "Art. 16", "art": "16", "acao": "revogou"}, {"dispositivo": "Art. 17", "art": "17", "acao": "revogou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "revogou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "revogou"}, {"dispositivo": "Art. 20", "art": "20", "acao": "revogou"}], "id": "federal/leis-ordinarias/1988/lei-7652-1988-02-03"},
+{"data": "1991-12-30", "nome": "Lei nº 8.391 de 30/12/1991", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8391-1991-12-30"}
+],
+"controle": []
+}

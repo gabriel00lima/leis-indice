@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-complementares/2001/lcp-105-2001-01-10",
+"urn": "urn:lex:br:federal:lei.complementar:2001-01-10;105",
+"consultado_em": "2026-11-04",
+"codigo": "572860",
+"nome": "Lei Complementar nº 105 de 10/01/2001",
+"apelidos": [
+"Lei do Sigilo Bancário (2001)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2001-01-11", "descricao": "Publicação Original [Diário Oficial da União de 11/01/2001] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2001-01-10", "nome": "Decreto nº 3.724 de 10/01/2001", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "regulamentou"}]},
+{"data": "2002-11-28", "nome": "Decreto nº 4.489 de 28/11/2002", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "regulamentou"}]},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "correlato"}]},
+{"data": "2016-01-13", "nome": "Lei nº 13.254 de 13/01/2016", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2016/lei-13254-2016-01-13"},
+{"data": "2017-06-07", "nome": "Medida Provisória nº 784 de 07/06/2017", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2019-04-08", "nome": "Lei Complementar nº 166 de 08/04/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 3, Inciso 7", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-complementares/2019/lcp-166-2019-04-08"},
+{"data": "2025-12-26", "nome": "Lei Complementar nº 224 de 26/12/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 3, Inciso 8", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-complementares/2025/lcp-224-2025-12-26"}
+],
+"controle": []
+}

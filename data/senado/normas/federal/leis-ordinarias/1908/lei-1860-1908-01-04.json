@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1908/lei-1860-1908-01-04",
+"urn": "urn:lex:br:federal:lei:1908-01-04;1860",
+"consultado_em": "2026-11-04",
+"codigo": "543620",
+"nome": "Lei nº 1.860 de 04/01/1908",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1908-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1908 - vol. 001] (p. 11, col. 1)"}
+],
+"alteracoes": [
+{"data": "1917-12-07", "nome": "Decreto nº 12.738 de 07/12/1917", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 52", "art": "52", "acao": "suspensão"}, {"dispositivo": "Art. 53", "art": "53", "acao": "suspensão"}]}
+],
+"controle": []
+}

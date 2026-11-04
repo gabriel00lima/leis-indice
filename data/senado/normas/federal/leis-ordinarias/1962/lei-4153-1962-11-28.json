@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1962/lei-4153-1962-11-28",
+"urn": "urn:lex:br:federal:lei:1962-11-28;4153",
+"consultado_em": "2026-11-04",
+"codigo": "545995",
+"nome": "Lei nº 4.153 de 28/11/1962",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-11-30", "descricao": "Publicação Original [Diário Oficial da União de 30/11/1962] (p. 12333, col. 1)"}
+],
+"alteracoes": [
+{"data": "1964-08-28", "nome": "Lei nº 4.388 de 28/08/1964", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4388-1964-08-28"}
+],
+"controle": []
+}

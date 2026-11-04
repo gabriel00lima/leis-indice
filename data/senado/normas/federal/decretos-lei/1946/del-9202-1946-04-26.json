@@ -1,0 +1,41 @@
+{
+"id": "federal/decretos-lei/1946/del-9202-1946-04-26",
+"urn": "urn:lex:br:federal:decreto.lei:1946-04-26;9202",
+"consultado_em": "2026-11-04",
+"codigo": "534240",
+"nome": "Decreto-Lei nº 9.202 de 26/04/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-04-27", "descricao": "Publicação Original [Diário Oficial da União de 27/04/1946] (p. 6225, col. 2)"},
+{"tipo": "RET", "data": "1946-05-03", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 03/05/1946] (p. 6623, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-08-16", "nome": "Decreto-Lei nº 9.589 de 16/08/1946", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9589-1946-08-16"},
+{"data": "1946-08-30", "nome": "Decreto-Lei nº 9.677 de 30/08/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9677-1946-08-30"},
+{"data": "1946-09-04", "nome": "Decreto-Lei nº 9.733 de 04/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9733-1946-09-04"},
+{"data": "1947-12-30", "nome": "Decreto nº 24.270 de 30/12/1947", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1949-01-06", "nome": "Decreto nº 26.157 de 06/01/1949", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1949-01-06", "nome": "Lei nº 607 de 06/01/1949", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1949/lei-607-1949-01-06"},
+{"data": "1950-10-28", "nome": "Lei nº 1.220 de 28/10/1950", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1950/lei-1220-1950-10-28"},
+{"data": "1951-01-17", "nome": "Decreto nº 29.152 de 17/01/1951", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1951-01-17", "nome": "Decreto nº 29.153 de 17/01/1951", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1951-03-07", "nome": "Decreto nº 29.332 de 07/03/1951", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1951-12-31", "nome": "Decreto nº 30.357 de 31/12/1951", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1953-11-05", "nome": "Lei nº 2.060 de 05/11/1953", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1953/lei-2060-1953-11-05"},
+{"data": "1953-12-17", "nome": "Decreto nº 34.815 de 17/12/1953", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1954-01-18", "nome": "Lei nº 2.171 de 18/01/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2171-1954-01-18"},
+{"data": "1954-12-31", "nome": "Decreto nº 36.711 de 31/12/1954", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1956-04-23", "nome": "Decreto nº 39.068 de 23/04/1956", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1957-01-09", "nome": "Decreto nº 40.738 de 09/01/1957", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1958-12-31", "nome": "Decreto nº 45.195 de 31/12/1958", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1960-01-20", "nome": "Decreto nº 47.693 de 20/01/1960", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1960-01-20", "nome": "Decreto nº 47.693 de 20/01/1960", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1960-12-15", "nome": "Decreto nº 49.539 de 15/12/1960", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": []},
+{"data": "1961-07-27", "nome": "Decreto nº 51.068 de 27/07/1961", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1962-11-12", "nome": "Decreto do Conselho de MInistros nº 1.516 de 12/11/1962", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1963-09-30", "nome": "Decreto nº 52.587 de 30/09/1963", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1969-10-21", "nome": "Decreto-Lei nº 995 de 21/10/1969", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1969/del-995-1969-10-21"},
+{"data": "1972-10-10", "nome": "Lei nº 5.809 de 10/10/1972", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 15, § 2", "art": "15", "acao": "revogou"}, {"dispositivo": "Art. 15, § 3", "art": "15", "acao": "revogou"}, {"dispositivo": "Art. 17", "art": "17", "acao": "revogou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "revogou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "revogou"}], "id": "federal/leis-ordinarias/1972/lei-5809-1972-10-10"}
+],
+"controle": []
+}

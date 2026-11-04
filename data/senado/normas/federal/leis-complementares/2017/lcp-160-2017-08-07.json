@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-complementares/2017/lcp-160-2017-08-07",
+"urn": "urn:lex:br:federal:lei.complementar:2017-08-07;160",
+"consultado_em": "2026-11-04",
+"codigo": "17745016",
+"nome": "Lei Complementar nº 160 de 07/08/2017",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2017-08-08", "descricao": "Publicação Original [Diário Oficial da União de 08/08/2017] (p. 8, col. 2)"},
+{"tipo": "VET", "data": "2017-11-23", "descricao": "Publicação de Veto Rejeitado [Diário Oficial da União de 23/11/2017] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2017-08-07", "nome": "Mensagem de Veto Parcial nº 276 de 07/08/2017", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2017-08-07", "nome": "Mensagem de Veto Parcial nº 276 de 07/08/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "veto"}, {"dispositivo": "Art. 10, caput", "art": "10", "acao": "veto"}]},
+{"data": "2017-08-07", "nome": "Mensagem de Veto Parcial nº 276 de 07/08/2017", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-12-19", "nome": "Lei Complementar nº 170 de 19/12/2019", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/2019/lcp-170-2019-12-19"},
+{"data": "2019-12-19", "nome": "Lei Complementar nº 170 de 19/12/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 2, Inciso 1", "art": "3", "acao": "alterou"}], "id": "federal/leis-complementares/2019/lcp-170-2019-12-19"},
+{"data": "2021-10-27", "nome": "Lei Complementar nº 186 de 27/10/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 2, Inciso 2", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, § 2, Inciso 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, § 2, Inciso 4", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, § 2-A", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, § 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, § 8", "art": "3", "acao": "alterou"}], "id": "federal/leis-complementares/2021/lcp-186-2021-10-27"},
+{"data": "2021-10-27", "nome": "Lei Complementar nº 186 de 27/10/2021", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/2021/lcp-186-2021-10-27"}
+],
+"controle": []
+}

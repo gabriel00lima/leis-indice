@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-217-1948-01-15",
+"urn": "urn:lex:br:federal:lei:1948-01-15;217",
+"consultado_em": "2026-11-04",
+"codigo": "541309",
+"nome": "Lei nº 217 de 15/01/1948",
+"apelidos": [
+"Lei Orgânica do Distrito Federal (1948) (LODF)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-01-20", "descricao": "Publicação Original [Diário Oficial da União de 20/01/1948] (p. 801, col. 1)"}
+],
+"alteracoes": [
+{"data": "1951-05-29", "nome": "Resolução do Senado Federal nº 6 de 29/05/1951", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1951-10-05", "nome": "Lei nº 1.448 de 05/10/1951", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1951/lei-1448-1951-10-05"},
+{"data": "1955-04-07", "nome": "Lei nº 2.452 de 07/04/1955", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 40", "art": "40", "acao": "alterou"}], "id": "federal/leis-ordinarias/1955/lei-2452-1955-04-07"},
+{"data": "1956-02-17", "nome": "Lei nº 2.730 de 17/02/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2730-1956-02-17"},
+{"data": "1956-03-13", "nome": "Lei nº 2.746 de 13/03/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2746-1956-03-13"},
+{"data": "1956-05-10", "nome": "Lei nº 2.777 de 10/05/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2777-1956-05-10"},
+{"data": "1964-12-10", "nome": "Lei nº 4.545 de 10/12/1964", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4545-1964-12-10"}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1947/lei-162-1947-12-02",
+"urn": "urn:lex:br:federal:lei:1947-12-02;162",
+"consultado_em": "2026-11-04",
+"codigo": "541191",
+"nome": "Lei nº 162 de 02/12/1947",
+"apelidos": [
+"Lei Orçamentária Anual (LOA) (1948)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1947-12-10", "descricao": "Publicação Original [Diário Oficial da União de 10/12/1947] (p. 15589, col. 1)"}
+],
+"alteracoes": [
+{"data": "1948-11-03", "nome": "Lei nº 463 de 03/11/1948", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1948/lei-463-1948-11-03"}
+],
+"controle": []
+}

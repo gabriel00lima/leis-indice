@@ -1,0 +1,24 @@
+{
+"id": "federal/decretos-lei/1945/del-8527-1945-12-31",
+"urn": "urn:lex:br:federal:decreto.lei:1945-12-31;8527",
+"consultado_em": "2026-11-04",
+"codigo": "533567",
+"nome": "Decreto-Lei nº 8.527 de 31/12/1945",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-12-31", "descricao": "Publicação Original [Coleção de Leis do Brasil de 31/12/1946 - vol. 001] (p. 578, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-04-27", "nome": "Decreto-Lei nº 9.203 de 27/04/1946", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 273, § 2", "art": "273", "acao": "alterou"}], "id": "federal/decretos-lei/1946/del-9203-1946-04-27"},
+{"data": "1946-05-31", "nome": "Decreto-Lei nº 9.311 de 31/05/1946", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 232", "art": "232", "acao": "alterou"}], "id": "federal/decretos-lei/1946/del-9311-1946-05-31"},
+{"data": "1946-09-12", "nome": "Decreto-Lei nº 9.843 de 12/09/1946", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 234", "art": "234", "acao": "alterou"}], "id": "federal/decretos-lei/1946/del-9843-1946-09-12"},
+{"data": "1949-03-06", "nome": "Lei nº 647 de 06/03/1949", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 303", "art": "303", "acao": "alterou"}, {"dispositivo": "Art. 304", "art": "304", "acao": "alterou"}, {"dispositivo": "Art. 365", "art": "365", "acao": "alterou"}], "id": "federal/leis-ordinarias/1949/lei-647-1949-03-06"},
+{"data": "1950-12-28", "nome": "Lei nº 1.301 de 28/12/1950", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1950/lei-1301-1950-12-28"},
+{"data": "1952-11-17", "nome": "Lei nº 1.734-A de 17/11/1952", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 142", "art": "142", "acao": "alterou"}, {"dispositivo": "Art. 153", "art": "153", "acao": "alterou"}, {"dispositivo": "Art. 188", "art": "188", "acao": "alterou"}], "id": "federal/leis-ordinarias/1952/lei-1734-a-1952-11-17"},
+{"data": "1953-01-03", "nome": "Lei nº 1.801-A de 03/01/1953", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 103", "art": "103", "acao": "alterou"}], "id": "federal/leis-ordinarias/1953/lei-1801-a-1953-01-03"},
+{"data": "1956-10-12", "nome": "Lei nº 2.910 de 12/10/1956", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 67, Parágrafo Único", "art": "67", "acao": "acrescentou"}, {"dispositivo": "Art. 221", "art": "221", "acao": "alterou"}, {"dispositivo": "Art. 243", "art": "243", "acao": "alterou"}, {"dispositivo": "Art. 244", "art": "244", "acao": "alterou"}], "id": "federal/leis-ordinarias/1956/lei-2910-1956-10-12"},
+{"data": "1958-07-20", "nome": "Lei nº 3.434 de 20/07/1958", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1958/lei-3434-1958-07-20"},
+{"data": "1960-04-14", "nome": "Lei nº 3.754 de 14/04/1960", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1960/lei-3754-1960-04-14"}
+],
+"controle": []
+}

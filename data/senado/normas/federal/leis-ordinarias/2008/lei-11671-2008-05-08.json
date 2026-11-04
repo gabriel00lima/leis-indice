@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11671-2008-05-08",
+"urn": "urn:lex:br:federal:lei:2008-05-08;11671",
+"consultado_em": "2026-11-04",
+"codigo": "569510",
+"nome": "Lei nº 11.671 de 08/05/2008",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-05-09", "descricao": "Publicação Original [Diário Oficial da União de 09/05/2008] (p. 11, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-06-18", "nome": "Decreto nº 6.877 de 18/06/2009", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2019-12-24", "nome": "Lei nº 13.964 de 24/12/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 10, § 1", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 11-A, caput", "art": "11-a", "acao": "acrescentou"}, {"dispositivo": "Art. 11-B, caput", "art": "11-b", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2019/lei-13964-2019-12-24"},
+{"data": "2026-05-11", "nome": "Lei nº 15.407 de 11/05/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 6", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, § 7", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, § 8", "art": "3", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15407-2026-05-11"}
+],
+"controle": []
+}

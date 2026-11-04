@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-complementares/2009/lcp-129-2009-01-08",
+"urn": "urn:lex:br:federal:lei.complementar:2009-01-08;129",
+"consultado_em": "2026-11-04",
+"codigo": "572884",
+"nome": "Lei Complementar nº 129 de 08/01/2009",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2009-01-09", "descricao": "Publicação Original [Diário Oficial da União de 09/01/2009] (p. 3, col. 2)"}
+],
+"alteracoes": [
+{"data": "2011-05-04", "nome": "Decreto nº 7.471 de 04/05/2011", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2013-08-14", "nome": "Decreto nº 8.067 de 14/08/2013", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 16", "art": "16", "acao": "regulamentou"}, {"dispositivo": "Art. 17", "art": "17", "acao": "regulamentou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "regulamentou"}]},
+{"data": "2017-07-06", "nome": "Medida Provisória nº 785 de 06/07/2017", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 7, caput, Inciso 2", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 16", "art": "16", "acao": "alterou"}, {"dispositivo": "Art. 17, § 7", "art": "17", "acao": "alterou"}]},
+{"data": "2017-12-07", "nome": "Lei nº 13.530 de 07/12/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, caput, Inciso 2", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 16", "art": "16", "acao": "alterou"}, {"dispositivo": "Art. 17, § 7", "art": "17", "acao": "alterou"}], "id": "federal/leis-ordinarias/2017/lei-13530-2017-12-07"},
+{"data": "2018-06-19", "nome": "Lei nº 13.682 de 19/06/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 16, § 6", "art": "16", "acao": "alterou"}, {"dispositivo": "Art. 17, § 7", "art": "17", "acao": "alterou"}], "id": "federal/leis-ordinarias/2018/lei-13682-2018-06-19"},
+{"data": "2019-05-30", "nome": "Decreto nº 9.810 de 30/05/2019", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2019-12-02", "nome": "Decreto nº 10.152 de 02/12/2019", "tipo": "Aprovação de Regulamento", "dispositivos": [{"dispositivo": "Art. 17, caput", "art": "17", "acao": "regulamentou"}]},
+{"data": "2026-06-16", "nome": "Lei Complementar nº 231 de 16/06/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 16, § 7", "art": "16", "acao": "acrescentou"}], "id": "federal/leis-complementares/2026/lcp-231-2026-06-16"}
+],
+"controle": []
+}

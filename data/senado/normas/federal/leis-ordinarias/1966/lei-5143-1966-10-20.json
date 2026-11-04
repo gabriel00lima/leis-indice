@@ -1,0 +1,27 @@
+{
+"id": "federal/leis-ordinarias/1966/lei-5143-1966-10-20",
+"urn": "urn:lex:br:federal:lei:1966-10-20;5143",
+"consultado_em": "2026-11-04",
+"codigo": "547001",
+"nome": "Lei nº 5.143 de 20/10/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-10-24", "descricao": "Publicação Original [Diário Oficial da União de 24/10/1966] (p. 12203, col. 2)"}
+],
+"alteracoes": [
+{"data": "1967-06-08", "nome": "Decreto nº 60.838 de 08/06/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1969-10-07", "nome": "Decreto-Lei nº 914 de 07/10/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-914-1969-10-07"},
+{"data": "1973-04-18", "nome": "Decreto-Lei nº 1.269 de 18/04/1973", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1973/del-1269-1973-04-18"},
+{"data": "1975-07-08", "nome": "Decreto nº 75.953 de 08/07/1975", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1975-12-16", "nome": "Lei nº 6.312 de 16/12/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1975/lei-6312-1975-12-16"},
+{"data": "1978-10-06", "nome": "Decreto-Lei nº 1.638 de 06/10/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1978/del-1638-1978-10-06"},
+{"data": "1987-12-18", "nome": "Decreto-Lei nº 2.391 de 18/12/1987", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}], "id": "federal/decretos-lei/1987/del-2391-1987-12-18"},
+{"data": "1993-11-12", "nome": "Decreto nº 985 de 12/11/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1997-05-02", "nome": "Decreto nº 2.219 de 02/05/1997", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2002-12-03", "nome": "Decreto nº 4.494 de 03/12/2002", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2007-12-14", "nome": "Decreto nº 6.306 de 14/12/2007", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2019-12-09", "nome": "Medida Provisória nº 909 de 09/12/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}]},
+{"data": "2020-06-02", "nome": "Lei nº 14.007 de 02/06/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}], "id": "federal/leis-ordinarias/2020/lei-14007-2020-06-02"}
+],
+"controle": []
+}

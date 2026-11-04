@@ -1,0 +1,41 @@
+{
+"id": "federal/leis-ordinarias/1975/lei-6205-1975-04-29",
+"urn": "urn:lex:br:federal:lei:1975-04-29;6205",
+"consultado_em": "2026-11-04",
+"codigo": "548081",
+"nome": "Lei nº 6.205 de 29/04/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-04-30", "descricao": "Publicação Original [Diário Oficial da União de 30/04/1975] (p. 5073, col. 1)"}
+],
+"alteracoes": [
+{"data": "1975-05-08", "nome": "Decreto nº 75.704 de 08/05/1975", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1976-04-29", "nome": "Decreto nº 77.511 de 29/04/1976", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1977-04-28", "nome": "Decreto nº 79.611 de 28/04/1977", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1978-05-04", "nome": "Decreto nº 81.624 de 04/05/1978", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1978-10-20", "nome": "Lei nº 6.583 de 20/10/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1978/lei-6583-1978-10-20"},
+{"data": "1978-12-16", "nome": "Lei nº 6.615 de 16/12/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1978/lei-6615-1978-12-16"},
+{"data": "1979-05-02", "nome": "Decreto nº 83.398 de 02/05/1979", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1979-10-30", "nome": "Lei nº 6.708 de 30/10/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 3", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1979/lei-6708-1979-10-30"},
+{"data": "1979-11-01", "nome": "Decreto nº 84.144 de 01/11/1979", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1980-04-30", "nome": "Decreto nº 84.675 de 30/04/1980", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1980-10-31", "nome": "Decreto nº 85.311 de 31/10/1980", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1981-04-29", "nome": "Decreto nº 85.951 de 29/04/1981", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1981-10-29", "nome": "Decreto nº 86.515 de 29/10/1981", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1981-12-22", "nome": "Decreto nº 86.763 de 22/12/1981", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1981-12-22", "nome": "Decreto-Lei nº 1.901 de 22/12/1981", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1981/del-1901-1981-12-22"},
+{"data": "1982-04-30", "nome": "Decreto nº 87.140 de 30/04/1982", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "alterou"}]},
+{"data": "1982-10-29", "nome": "Decreto nº 87.744 de 29/10/1982", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1983-04-30", "nome": "Decreto nº 88.268 de 30/04/1983", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1983-10-31", "nome": "Decreto nº 88.931 de 31/10/1983", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1983-11-09", "nome": "Decreto-Lei nº 2.068 de 09/11/1983", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2068-1983-11-09"},
+{"data": "1984-05-02", "nome": "Decreto nº 89.609 de 02/05/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "alterou"}]},
+{"data": "1984-11-06", "nome": "Decreto nº 90.395 de 06/11/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "alterou"}]},
+{"data": "1985-04-30", "nome": "Decreto nº 91.215 de 30/04/1985", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1985-11-01", "nome": "Decreto nº 91.862 de 01/11/1985", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1985-12-19", "nome": "Decreto nº 92.181 de 19/12/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "1986-01-31", "nome": "Decreto nº 92.353 de 31/01/1986", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1987-03-12", "nome": "Decreto nº 94.089 de 12/03/1987", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "alterou"}]}
+],
+"controle": []
+}

@@ -1,0 +1,25 @@
+{
+"id": "federal/leis-ordinarias/1986/lei-7505-1986-07-02",
+"urn": "urn:lex:br:federal:lei:1986-07-02;7505",
+"consultado_em": "2026-11-04",
+"codigo": "549381",
+"nome": "Lei nº 7.505 de 02/07/1986",
+"apelidos": [
+"Lei Sarney (1986)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-07-03", "descricao": "Publicação Original [Diário Oficial da União de 03/07/1986] (p. 9763, col. 1)"}
+],
+"alteracoes": [
+{"data": "1986-10-03", "nome": "Decreto nº 93.335 de 03/10/1986", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1986-12-22", "nome": "Decreto nº 93.852 de 22/12/1986", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 15", "art": "15", "acao": "alterou"}]},
+{"data": "1988-02-26", "nome": "Decreto nº 95.756 de 26/02/1988", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1988-12-07", "nome": "Decreto nº 97.165 de 07/12/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "alterou"}]},
+{"data": "1990-03-15", "nome": "Medida Provisória nº 161 de 15/03/1990", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1990-04-12", "nome": "Lei nº 8.034 de 12/04/1990", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1990/lei-8034-1990-04-12"},
+{"data": "1990-12-14", "nome": "Medida Provisória nº 284 de 14/12/1990", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1990-12-27", "nome": "Lei nº 8.134 de 27/12/1990", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1990/lei-8134-1990-12-27"},
+{"data": "1991-12-23", "nome": "Lei nº 8.313 de 23/12/1991", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8313-1991-12-23"}
+],
+"controle": []
+}

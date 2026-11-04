@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/2006/lei-11361-2006-10-19",
+"urn": "urn:lex:br:federal:lei:2006-10-19;11361",
+"consultado_em": "2026-11-04",
+"codigo": "572146",
+"nome": "Lei nº 11.361 de 19/10/2006",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2006-10-20", "descricao": "Publicação Original [Diário Oficial da União de 20/10/2006] (p. 38, col. 1)"}
+],
+"alteracoes": [
+{"data": "2007-11-13", "nome": "Medida Provisória nº 401 de 13/11/2007", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 3", "art": null, "acao": "alterou"}]},
+{"data": "2008-04-24", "nome": "Lei nº 11.663 de 24/04/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 3", "art": null, "acao": "revogou"}], "id": "federal/leis-ordinarias/2008/lei-11663-2008-04-24"},
+{"data": "2013-04-24", "nome": "Lei nº 12.804 de 24/04/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12804-2013-04-24"},
+{"data": "2020-05-26", "nome": "Medida Provisória nº 971 de 26/05/2020", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}]},
+{"data": "2020-09-22", "nome": "Lei nº 14.059 de 22/09/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2020/lei-14059-2020-09-22"},
+{"data": "2023-07-18", "nome": "Medida Provisória nº 1.181 de 18/07/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}]},
+{"data": "2023-11-14", "nome": "Lei nº 14.724 de 14/11/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 16", "art": "2", "acao": "vetado"}, {"dispositivo": "Art. 4-A, caput", "art": "4-a", "acao": "acrescentou"}, {"dispositivo": "Art. 4-A, caput", "art": "4-a", "acao": "vetado"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2023/lei-14724-2023-11-14"},
+{"data": "2025-12-01", "nome": "Medida Provisória nº 1.326 de 01/12/2025", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}]},
+{"data": "2026-04-27", "nome": "Lei nº 15.395 de 27/04/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 4", "art": "4", "acao": "vetado"}, {"dispositivo": "Art. 4-A, caput", "art": "4-a", "acao": "vetado"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2026/lei-15395-2026-04-27"}
+],
+"controle": []
+}

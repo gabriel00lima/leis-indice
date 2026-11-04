@@ -1,0 +1,29 @@
+{
+"id": "federal/decretos-lei/1980/del-1804-1980-09-03",
+"urn": "urn:lex:br:federal:decreto.lei:1980-09-03;1804",
+"consultado_em": "2026-11-04",
+"codigo": "526218",
+"nome": "Decreto-Lei nº 1.804 de 03/09/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-09-04", "descricao": "Publicação Original [Diário Oficial da União de 04/09/1980] (p. 17481, col. 2)"},
+{"tipo": "RET", "data": "1980-09-05", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 05/09/1980] (p. 17612, col. 2)"}
+],
+"alteracoes": [
+{"data": "1980-11-27", "nome": "Decreto Legislativo nº 128 de 27/11/1980", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1991-12-30", "nome": "Lei nº 8.383 de 30/12/1991", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1991/lei-8383-1991-12-30"},
+{"data": "1994-11-18", "nome": "Medida Provisória nº 722 de 18/11/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 3", "art": "1", "acao": "revogou"}]},
+{"data": "1994-12-20", "nome": "Medida Provisória nº 776 de 20/12/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 3", "art": "1", "acao": "revogou"}]},
+{"data": "1995-01-19", "nome": "Medida Provisória nº 843 de 19/01/1995", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 3", "art": "1", "acao": "revogou"}]},
+{"data": "1995-02-16", "nome": "Medida Provisória nº 903 de 16/02/1995", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 3", "art": "1", "acao": "revogou"}]},
+{"data": "1995-03-16", "nome": "Lei nº 9.001 de 16/03/1995", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 3", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/1995/lei-9001-1995-03-16"},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2024-06-27", "nome": "Lei nº 14.902 de 27/06/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 2-A", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 2, caput, Inciso 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/2024/lei-14902-2024-06-27"},
+{"data": "2024-06-28", "nome": "Medida Provisória nº 1.236 de 28/06/2024", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2-B, apenas o Caput", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, § 2-B, Inciso 1", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, § 2-B, Inciso 2", "art": "1", "acao": "acrescentou"}]},
+{"data": "2024-10-25", "nome": "Medida Provisória nº 1.271 de 25/10/2024", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2024-12-23", "nome": "Lei nº 15.071 de 23/12/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 2-B, apenas o Caput", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, § 2-B, Inciso 1", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, § 2-B, Inciso 2", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 2-A, caput", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-A, caput, Inciso 1", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-A, caput, Inciso 2", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-A, Parágrafo Único", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-B, caput", "art": "2-b", "acao": "acrescentou"}, {"dispositivo": "Art. 2-B, caput, Inciso 1", "art": "2-b", "acao": "acrescentou"}, {"dispositivo": "Art. 2-B, caput, Inciso 2", "art": "2-b", "acao": "vetado"}], "id": "federal/leis-ordinarias/2024/lei-15071-2024-12-23"},
+{"data": "2026-05-12", "nome": "Medida Provisória nº 1.357 de 12/05/2026", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 2-B, apenas o Caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2-B, caput, Inciso 2", "art": "2-b", "acao": "alterou"}]},
+{"data": "2026-09-10", "nome": "Lei nº 15.502 de 10/09/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1-A, caput", "art": "1-a", "acao": "acrescentou"}, {"dispositivo": "Art. 1-B, caput", "art": "1-b", "acao": "acrescentou"}, {"dispositivo": "Art. 1-B, Parágrafo Único", "art": "1-b", "acao": "acrescentou"}, {"dispositivo": "Art. 3-A, caput", "art": "3-a", "acao": "acrescentou"}, {"dispositivo": "Art. 3-A, § 1", "art": "3-a", "acao": "acrescentou"}, {"dispositivo": "Art. 3-A, § 2", "art": "3-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15502-2026-09-10"}
+],
+"controle": []
+}

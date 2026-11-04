@@ -1,0 +1,31 @@
+{
+"id": "federal/leis-complementares/2021/lcp-187-2021-12-16",
+"urn": "urn:lex:br:federal:lei.complementar:2021-12-16;187",
+"consultado_em": "2026-11-04",
+"codigo": "35289040",
+"nome": "Lei Complementar nº 187 de 16/12/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-12-17", "descricao": "Publicação Original [Diário Oficial da União de 17/12/2021] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "2021-12-17", "descricao": "Retificação (Seq. 1) [Diário Oficial da União - Edição Extra de 17/12/2021 - nº 237-A] (p. 1, col. 1)"},
+{"tipo": "VEP", "data": "2022-07-08", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União - Edição Extra de 08/07/2022 - nº 128-B] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-12-16", "nome": "Mensagem de Veto Parcial nº 702 de 16/12/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-12-16", "nome": "Mensagem de Veto Parcial nº 702 de 16/12/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-12-16", "nome": "Mensagem de Veto Parcial nº 702 de 16/12/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, caput, Inciso 5", "art": "7", "acao": "vetado"}, {"dispositivo": "Art. 13, § 2, Inciso 13", "art": "13", "acao": "vetado"}, {"dispositivo": "Art. 18, § 4", "art": "18", "acao": "vetado"}, {"dispositivo": "Art. 25, § 3", "art": "25", "acao": "vetado"}, {"dispositivo": "Art. 28, caput", "art": "28", "acao": "vetado"}, {"dispositivo": "Art. 28, § 1", "art": "28", "acao": "vetado"}, {"dispositivo": "Art. 28, § 2", "art": "28", "acao": "vetado"}, {"dispositivo": "Art. 28, § 3", "art": "28", "acao": "vetado"}, {"dispositivo": "Art. 28, § 4", "art": "28", "acao": "vetado"}, {"dispositivo": "Art. 31, § 6", "art": "31", "acao": "vetado"}, {"dispositivo": "Art. 40, § 2", "art": "40", "acao": "vetado"}, {"dispositivo": "Art. 40, § 4", "art": "40", "acao": "vetado"}, {"dispositivo": "Art. 41, Parágrafo Único", "art": "41", "acao": "vetado"}, {"dispositivo": "Art. 42, caput", "art": "42", "acao": "vetado"}]},
+{"data": "2021-12-16", "nome": "Mensagem de Veto Parcial nº 702 de 16/12/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-12-16", "nome": "Mensagem de Veto Parcial nº 702 de 16/12/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-12-16", "nome": "Mensagem de Veto Parcial nº 702 de 16/12/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-12-16", "nome": "Mensagem de Veto Parcial nº 702 de 16/12/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-12-16", "nome": "Mensagem de Veto Parcial nº 702 de 16/12/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-12-16", "nome": "Mensagem de Veto Parcial nº 702 de 16/12/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-12-16", "nome": "Mensagem de Veto Parcial nº 702 de 16/12/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-12-16", "nome": "Mensagem de Veto Parcial nº 702 de 16/12/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-05-25", "nome": "Lei nº 14.350 de 25/05/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14350-2022-05-25"},
+{"data": "2022-05-25", "nome": "Lei nº 14.350 de 25/05/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 21, caput", "art": "21", "acao": "alterou"}, {"dispositivo": "Art. 22, caput", "art": "22", "acao": "alterou"}], "id": "federal/leis-ordinarias/2022/lei-14350-2022-05-25"},
+{"data": "2023-11-21", "nome": "Decreto nº 11.791 de 21/11/2023", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2026-08-06", "nome": "Lei nº 15.486 de 06/08/2026", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 38, § 2", "art": "38", "acao": "correlato"}], "id": "federal/leis-ordinarias/2026/lei-15486-2026-08-06"}
+],
+"controle": []
+}

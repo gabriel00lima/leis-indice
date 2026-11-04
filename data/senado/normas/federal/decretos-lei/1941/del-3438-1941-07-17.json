@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1941/del-3438-1941-07-17",
+"urn": "urn:lex:br:federal:decreto.lei:1941-07-17;3438",
+"consultado_em": "2026-11-04",
+"codigo": "528525",
+"nome": "Decreto-Lei nº 3.438 de 17/07/1941",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1941-07-22", "descricao": "Publicação Original [Diário Oficial da União de 22/07/1941] (p. 14649, col. 1)"},
+{"tipo": "REP", "data": "1941-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1941 - vol. 005] (p. 131, col. 1)"}
+],
+"alteracoes": [
+{"data": "2015-08-31", "nome": "Medida Provisória nº 691 de 31/08/2015", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2015-12-30", "nome": "Lei nº 13.240 de 30/12/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2015/lei-13240-2015-12-30"}
+],
+"controle": []
+}

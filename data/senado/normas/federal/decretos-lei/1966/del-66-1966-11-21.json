@@ -1,0 +1,25 @@
+{
+"id": "federal/decretos-lei/1966/del-66-1966-11-21",
+"urn": "urn:lex:br:federal:decreto.lei:1966-11-21;66",
+"consultado_em": "2026-11-04",
+"codigo": "522774",
+"nome": "Decreto-Lei nº 66 de 21/11/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-22", "descricao": "Publicação Original [Diário Oficial da União de 22/11/1966] (p. 13505, col. 4)"}
+],
+"alteracoes": [
+{"data": "1967-02-10", "nome": "Decreto-Lei nº 158 de 10/02/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/decretos-lei/1967/del-158-1967-02-10"},
+{"data": "1967-03-11", "nome": "Decreto nº 60.368 de 11/03/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1967-03-14", "nome": "Decreto nº 60.466 de 14/03/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1967-03-14", "nome": "Decreto nº 60.501 de 14/03/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1969-09-05", "nome": "Decreto-Lei nº 821 de 05/09/1969", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1969/del-821-1969-09-05"},
+{"data": "1972-11-30", "nome": "Lei nº 5.831 de 30/11/1972", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5831-1972-11-30"},
+{"data": "1973-06-08", "nome": "Lei nº 5.890 de 08/06/1973", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-5890-1973-06-08"},
+{"data": "1975-10-23", "nome": "Decreto-Lei nº 1.422 de 23/10/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1975/del-1422-1975-10-23"},
+{"data": "1975-12-23", "nome": "Decreto nº 76.900 de 23/12/1975", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1982-09-09", "nome": "Decreto-Lei nº 1.958 de 09/09/1982", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1958-1982-09-09"},
+{"data": "1982-11-23", "nome": "Decreto-Lei nº 1.967 de 23/11/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1967-1982-11-23"}
+],
+"controle": []
+}

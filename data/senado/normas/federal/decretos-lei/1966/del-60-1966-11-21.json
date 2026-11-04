@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1966/del-60-1966-11-21",
+"urn": "urn:lex:br:federal:decreto.lei:1966-11-21;60",
+"consultado_em": "2026-11-04",
+"codigo": "522762",
+"nome": "Decreto-Lei nº 60 de 21/11/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-22", "descricao": "Publicação Original [Diário Oficial da União de 22/11/1966] (p. 13501, col. 2)"}
+],
+"alteracoes": [
+{"data": "1967-03-13", "nome": "Decreto nº 60.443 de 13/03/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1969-07-03", "nome": "Decreto-Lei nº 668 de 03/07/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-668-1969-07-03"},
+{"data": "1970-12-03", "nome": "Lei nº 5.636 de 03/12/1970", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1970/lei-5636-1970-12-03"},
+{"data": "1971-12-16", "nome": "Lei nº 5.764 de 16/12/1971", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5764-1971-12-16"},
+{"data": "1977-04-26", "nome": "Resolução do Senado Federal nº 9 de 26/04/1977", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 16", "art": "16", "acao": "alterou"}]}
+],
+"controle": []
+}

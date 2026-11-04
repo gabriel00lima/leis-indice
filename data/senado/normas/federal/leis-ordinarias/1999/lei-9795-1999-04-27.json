@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1999/lei-9795-1999-04-27",
+"urn": "urn:lex:br:federal:lei:1999-04-27;9795",
+"consultado_em": "2026-11-04",
+"codigo": "551671",
+"nome": "Lei nº 9.795 de 27/04/1999",
+"apelidos": [
+"Lei da Política Nacional de Educação Ambiental (1999)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1999-04-28", "descricao": "Publicação Original [Diário Oficial da União de 28/04/1999] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2002-06-25", "nome": "Decreto nº 4.281 de 25/06/2002", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2010-08-02", "nome": "Lei nº 12.305 de 02/08/2010", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2010/lei-12305-2010-08-02"},
+{"data": "2022-07-04", "nome": "Lei nº 14.393 de 04/07/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 13-A, caput", "art": "13-a", "acao": "acrescentou"}, {"dispositivo": "Art. 13-A, § 1", "art": "13-a", "acao": "acrescentou"}, {"dispositivo": "Art. 13-A, § 2", "art": "13-a", "acao": "acrescentou"}, {"dispositivo": "Art. 13-A, § 3", "art": "13-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14393-2022-07-04"},
+{"data": "2024-07-17", "nome": "Lei nº 14.926 de 17/07/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, caput, Inciso 8", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 5, caput, Inciso 9", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 8, § 3, Inciso 2-A", "art": "8", "acao": "acrescentou"}, {"dispositivo": "Art. 10, § 4", "art": "10", "acao": "acrescentou"}, {"dispositivo": "Art. 10, § 5", "art": "10", "acao": "acrescentou"}, {"dispositivo": "Art. 13, Parágrafo Único, Inciso 8", "art": "13", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2024/lei-14926-2024-07-17"}
+],
+"controle": []
+}

@@ -1,0 +1,26 @@
+{
+"id": "federal/decretos-lei/1942/del-4166-1942-03-11",
+"urn": "urn:lex:br:federal:decreto.lei:1942-03-11;4166",
+"consultado_em": "2026-11-04",
+"codigo": "529252",
+"nome": "Decreto-Lei nº 4.166 de 11/03/1942",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1942-03-12", "descricao": "Publicação Original [Diário Oficial da União de 12/03/1942] (p. 3918, col. 1)"}
+],
+"alteracoes": [
+{"data": "1942-03-30", "nome": "Decreto-Lei nº 4.216 de 30/03/1942", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "prorrogação de prazo"}], "id": "federal/decretos-lei/1942/del-4216-1942-03-30"},
+{"data": "1942-04-30", "nome": "Decreto-Lei nº 4.283 de 30/04/1942", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "prorrogação de prazo"}], "id": "federal/decretos-lei/1942/del-4283-1942-04-30"},
+{"data": "1942-06-02", "nome": "Decreto-Lei nº 4.353 de 02/06/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4353-1942-06-02"},
+{"data": "1942-10-07", "nome": "Decreto-Lei nº 4.806 de 07/10/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4806-1942-10-07"},
+{"data": "1943-10-01", "nome": "Decreto nº 13.560 de 01/10/1943", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1946-02-27", "nome": "Decreto-Lei nº 9.025 de 27/02/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9025-1946-02-27"},
+{"data": "1946-04-03", "nome": "Decreto-Lei nº 9.123 de 03/04/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9123-1946-04-03"},
+{"data": "1946-04-11", "nome": "Decreto nº 20.971 de 11/04/1946", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1946-09-03", "nome": "Decreto-Lei nº 9.727 de 03/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9727-1946-09-03"},
+{"data": "1947-06-10", "nome": "Decreto nº 23.179 de 10/06/1947", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1948-06-22", "nome": "Lei nº 291 de 22/06/1948", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1948/lei-291-1948-06-22"},
+{"data": "1949-02-09", "nome": "Decreto nº 26.336 de 09/02/1949", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

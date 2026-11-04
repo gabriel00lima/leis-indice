@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1939/del-1514-1939-08-16",
+"urn": "urn:lex:br:federal:decreto.lei:1939-08-16;1514",
+"consultado_em": "2026-11-04",
+"codigo": "525648",
+"nome": "Decreto-Lei nº 1.514 de 16/08/1939",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1939-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1939 - vol. 006] (p. 234, col. 1)"}
+],
+"alteracoes": [
+{"data": "1941-09-13", "nome": "Decreto-Lei nº 3.615 de 13/09/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3615-1941-09-13"}
+],
+"controle": []
+}

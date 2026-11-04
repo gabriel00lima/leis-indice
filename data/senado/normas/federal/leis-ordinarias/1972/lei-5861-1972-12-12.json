@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1972/lei-5861-1972-12-12",
+"urn": "urn:lex:br:federal:lei:1972-12-12;5861",
+"consultado_em": "2026-11-04",
+"codigo": "547737",
+"nome": "Lei nº 5.861 de 12/12/1972",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1972-12-13", "descricao": "Publicação Original [Diário Oficial da União de 13/12/1972] (p. 11129, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-05-16", "nome": "Lei nº 6.531 de 16/05/1978", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Item 7", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/1978/lei-6531-1978-05-16"},
+{"data": "1980-08-25", "nome": "Lei nº 6.816 de 25/08/1980", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1980/lei-6816-1980-08-25"}
+],
+"controle": []
+}

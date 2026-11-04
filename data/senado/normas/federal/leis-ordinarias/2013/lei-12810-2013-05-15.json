@@ -1,0 +1,27 @@
+{
+"id": "federal/leis-ordinarias/2013/lei-12810-2013-05-15",
+"urn": "urn:lex:br:federal:lei:2013-05-15;12810",
+"consultado_em": "2026-11-04",
+"codigo": "588186",
+"nome": "Lei nº 12.810 de 15/05/2013",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2013-05-16", "descricao": "Publicação Original [Diário Oficial da União de 16/05/2013] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2015-06-19", "nome": "Lei nº 13.137 de 19/06/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 4", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2015/lei-13137-2015-06-19"},
+{"data": "2017-04-06", "nome": "Medida Provisória nº 775 de 06/04/2017", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 26", "art": "26", "acao": "alterou"}, {"dispositivo": "Art. 26-A, caput", "art": "26-a", "acao": "acrescentou"}, {"dispositivo": "Art. 26-A, caput, Inciso 1", "art": "26-a", "acao": "acrescentou"}, {"dispositivo": "Art. 26-A, caput, Inciso 2", "art": "26-a", "acao": "acrescentou"}]},
+{"data": "2017-06-07", "nome": "Medida Provisória nº 784 de 07/06/2017", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 29, caput", "art": "29", "acao": "alterou"}, {"dispositivo": "Art. 29, caput, Inciso 1", "art": "29", "acao": "acrescentou"}, {"dispositivo": "Art. 29, caput, Inciso 2", "art": "29", "acao": "acrescentou"}]},
+{"data": "2017-08-28", "nome": "Lei nº 13.476 de 28/08/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 26", "art": "26", "acao": "alterou"}, {"dispositivo": "Art. 26-A, caput", "art": "26-a", "acao": "acrescentou"}, {"dispositivo": "Art. 26-A, caput, Inciso 1", "art": "26-a", "acao": "acrescentou"}, {"dispositivo": "Art. 26-A, caput, Inciso 2", "art": "26-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2017/lei-13476-2017-08-28"},
+{"data": "2017-11-13", "nome": "Lei nº 13.506 de 13/11/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 29, caput", "art": "29", "acao": "alterou"}], "id": "federal/leis-ordinarias/2017/lei-13506-2017-11-13"},
+{"data": "2020-04-07", "nome": "Lei nº 13.986 de 07/04/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 28, Parágrafo Único", "art": "28", "acao": "alterou"}], "id": "federal/leis-ordinarias/2020/lei-13986-2020-04-07"},
+{"data": "2020-04-07", "nome": "Lei nº 13.986 de 07/04/2020", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2020/lei-13986-2020-04-07"},
+{"data": "2021-12-27", "nome": "Medida Provisória nº 1.085 de 27/12/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 32", "art": "32", "acao": "revogou"}]},
+{"data": "2022-03-15", "nome": "Medida Provisória nº 1.103 de 15/03/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 31", "art": "31", "acao": "revogou"}]},
+{"data": "2022-06-27", "nome": "Lei nº 14.382 de 27/06/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 32", "art": "32", "acao": "revogou"}], "id": "federal/leis-ordinarias/2022/lei-14382-2022-06-27"},
+{"data": "2022-08-03", "nome": "Lei nº 14.430 de 03/08/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 31", "art": "31", "acao": "revogou"}], "id": "federal/leis-ordinarias/2022/lei-14430-2022-08-03"},
+{"data": "2022-09-21", "nome": "Medida Provisória nº 1.138 de 21/09/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 19", "art": "19", "acao": "revogou"}]},
+{"data": "2023-02-28", "nome": "Lei nº 14.537 de 28/02/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 19", "art": "19", "acao": "revogou"}], "id": "federal/leis-ordinarias/2023/lei-14537-2023-02-28"}
+],
+"controle": []
+}

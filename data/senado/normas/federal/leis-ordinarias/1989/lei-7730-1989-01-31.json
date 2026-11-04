@@ -1,0 +1,29 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7730-1989-01-31",
+"urn": "urn:lex:br:federal:lei:1989-01-31;7730",
+"consultado_em": "2026-11-04",
+"codigo": "549606",
+"nome": "Lei nº 7.730 de 31/01/1989",
+"apelidos": [
+"Lei do Plano Verão (1989)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-02-01", "descricao": "Publicação Original [Diário Oficial da União de 01/02/1989] (p. 1745, col. 1)"}
+],
+"alteracoes": [
+{"data": "1989-02-15", "nome": "Medida Provisória nº 39 de 15/02/1989", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 30, § 2", "art": "30", "acao": "revogou"}, {"dispositivo": "Art. 30, § 3", "art": "30", "acao": "revogou"}]},
+{"data": "1989-02-28", "nome": "Lei nº 7.737 de 28/02/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 16", "art": "16", "acao": "alterou"}], "id": "federal/leis-ordinarias/1989/lei-7737-1989-02-28"},
+{"data": "1989-03-08", "nome": "Medida Provisória nº 40 de 08/03/1989", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 15, § 1", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 15, § 2", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 15, § 3", "art": "15", "acao": "alterou"}]},
+{"data": "1989-03-09", "nome": "Lei nº 7.738 de 09/03/1989", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7738-1989-03-09"},
+{"data": "1989-03-30", "nome": "Medida Provisória nº 44 de 30/03/1989", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 18, § 2", "art": "18", "acao": "alterou"}]},
+{"data": "1989-04-19", "nome": "Medida Provisória nº 48 de 19/04/1989", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1989-05-02", "nome": "Lei nº 7.764 de 02/05/1989", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7764-1989-05-02"},
+{"data": "1989-05-11", "nome": "Medida Provisória nº 54 de 11/05/1989", "tipo": "Regulamentação Provisória de Norma", "dispositivos": []},
+{"data": "1989-05-22", "nome": "Medida Provisória nº 57 de 22/05/1989", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1989-05-26", "nome": "Lei nº 7.769 de 26/05/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 18, § 1", "art": "18", "acao": "alterou"}], "id": "federal/leis-ordinarias/1989/lei-7769-1989-05-26"},
+{"data": "1989-05-30", "nome": "Decreto nº 97.793 de 30/05/1989", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1989-06-08", "nome": "Lei nº 7.774 de 08/06/1989", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7774-1989-06-08"},
+{"data": "1989-06-19", "nome": "Lei nº 7.777 de 19/06/1989", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7777-1989-06-19"}
+],
+"controle": []
+}

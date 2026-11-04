@@ -1,0 +1,24 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11770-2008-09-09",
+"urn": "urn:lex:br:federal:lei:2008-09-09;11770",
+"consultado_em": "2026-11-04",
+"codigo": "582192",
+"nome": "Lei nº 11.770 de 09/09/2008",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-09-10", "descricao": "Publicação Original [Diário Oficial da União de 10/09/2008] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-12-23", "nome": "Decreto nº 7.052 de 23/12/2009", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2016-03-08", "nome": "Lei nº 13.257 de 08/03/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 3, caput", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 1", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, caput, Inciso 2", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 4, caput", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, Parágrafo Único", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "alterou"}], "id": "federal/leis-ordinarias/2016/lei-13257-2016-03-08"},
+{"data": "2016-05-03", "nome": "Decreto nº 8.737 de 03/05/2016", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2021-11-10", "nome": "Decreto nº 10.854 de 10/11/2021", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2022-05-04", "nome": "Medida Provisória nº 1.116 de 04/05/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 3", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, § 4", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1-A, caput", "art": "1-a", "acao": "acrescentou"}, {"dispositivo": "Art. 1-A, § 1", "art": "1-a", "acao": "acrescentou"}, {"dispositivo": "Art. 1-A, § 2", "art": "1-a", "acao": "acrescentou"}]},
+{"data": "2022-09-21", "nome": "Lei nº 14.457 de 21/09/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 3", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, § 4", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1-A, caput", "art": "1-a", "acao": "acrescentou"}, {"dispositivo": "Art. 1-A, § 1, Inciso 1", "art": "1-a", "acao": "acrescentou"}, {"dispositivo": "Art. 1-A, § 1, Inciso 2", "art": "1-a", "acao": "acrescentou"}, {"dispositivo": "Art. 1-A, § 2", "art": "1-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14457-2022-09-21"},
+{"data": "2022-09-21", "nome": "Lei nº 14.457 de 21/09/2022", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14457-2022-09-21"},
+{"data": "2026-03-31", "nome": "Lei nº 15.371 de 31/03/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Ementa", "art": null, "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 2", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2026/lei-15371-2026-03-31"}
+],
+"controle": [
+{"data": "2026-09-23", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 7.495 de 23/09/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}], "decisao": {"classe": "ADI", "numero": "7495"}}
+]
+}

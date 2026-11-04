@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1953/lei-1886-1953-06-11",
+"urn": "urn:lex:br:federal:lei:1953-06-11;1886",
+"consultado_em": "2026-11-04",
+"codigo": "543647",
+"nome": "Lei nº 1.886 de 11/06/1953",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1953-06-13", "descricao": "Publicação Original [Diário Oficial da União de 13/06/1953] (p. 10521, col. 1)"}
+],
+"alteracoes": [
+{"data": "1956-01-04", "nome": "Decreto nº 38.513 de 04/01/1956", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1957-03-31", "nome": "Lei nº 3.119 de 31/03/1957", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1957/lei-3119-1957-03-31"},
+{"data": "1957-12-20", "nome": "Lei nº 3.353 de 20/12/1957", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1957/lei-3353-1957-12-20"}
+],
+"controle": []
+}

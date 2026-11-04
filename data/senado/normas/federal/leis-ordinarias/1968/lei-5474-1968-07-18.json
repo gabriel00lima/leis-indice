@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5474-1968-07-18",
+"urn": "urn:lex:br:federal:lei:1968-07-18;5474",
+"consultado_em": "2026-11-04",
+"codigo": "547343",
+"nome": "Lei nº 5.474 de 18/07/1968",
+"apelidos": [
+"Lei das Duplicatas (1968)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-07-19", "descricao": "Publicação Original [Diário Oficial da União de 19/07/1968] (p. 6121, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-01-27", "nome": "Decreto-Lei nº 436 de 27/01/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-436-1969-01-27"},
+{"data": "1977-11-01", "nome": "Lei nº 6.458 de 01/11/1977", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, § 2", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 16", "art": "16", "acao": "alterou"}, {"dispositivo": "Art. 17", "art": "17", "acao": "alterou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "alterou"}, {"dispositivo": "Art. 22, § 4", "art": "22", "acao": "alterou"}], "id": "federal/leis-ordinarias/1977/lei-6458-1977-11-01"},
+{"data": "2018-12-20", "nome": "Lei nº 13.775 de 20/12/2018", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2018/lei-13775-2018-12-20"},
+{"data": "2021-05-18", "nome": "Medida Provisória nº 1.051 de 18/05/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 20, caput", "art": "20", "acao": "alterou"}, {"dispositivo": "Art. 20, caput, Inciso 1", "art": "20", "acao": "acrescentou"}, {"dispositivo": "Art. 20, caput, Inciso 2", "art": "20", "acao": "acrescentou"}, {"dispositivo": "Art. 20, § 1", "art": "20", "acao": "revogou"}, {"dispositivo": "Art. 20, § 2", "art": "20", "acao": "revogou"}, {"dispositivo": "Art. 20, § 3", "art": "20", "acao": "revogou"}]},
+{"data": "2021-09-27", "nome": "Lei nº 14.206 de 27/09/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 20, caput", "art": "20", "acao": "alterou"}, {"dispositivo": "Art. 20, caput, Inciso 1", "art": "20", "acao": "acrescentou"}, {"dispositivo": "Art. 20, caput, Inciso 2", "art": "20", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2021/lei-14206-2021-09-27"},
+{"data": "2022-01-07", "nome": "Lei nº 14.301 de 07/01/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 15, caput, Inciso 2, Alínea b", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 15, § 3", "art": "15", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14301-2022-01-07"}
+],
+"controle": []
+}

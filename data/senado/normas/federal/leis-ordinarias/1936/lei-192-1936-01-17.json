@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1936/lei-192-1936-01-17",
+"urn": "urn:lex:br:federal:lei:1936-01-17;192",
+"consultado_em": "2026-11-04",
+"codigo": "541258",
+"nome": "Lei nº 192 de 17/01/1936",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1936-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1936 - vol. 001] (p. 58, col. 1)"}
+],
+"alteracoes": [
+{"data": "1944-10-05", "nome": "Decreto-Lei nº 6.928 de 05/10/1944", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1944/del-6928-1944-10-05"}
+],
+"controle": []
+}

@@ -1,0 +1,21 @@
+{
+"id": "federal/decretos-lei/1969/del-411-1969-01-08",
+"urn": "urn:lex:br:federal:decreto.lei:1969-01-08;411",
+"consultado_em": "2026-11-04",
+"codigo": "523458",
+"nome": "Decreto-Lei nº 411 de 08/01/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-01-09", "descricao": "Publicação Original [Diário Oficial da União de 09/01/1969] (p. 217, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-09-09", "nome": "Ato Institucional nº 15 de 09/09/1969", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1969-10-01", "nome": "Decreto nº 65.258 de 01/10/1969", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1972-04-03", "nome": "Decreto nº 70.354 de 03/04/1972", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1975-07-08", "nome": "Decreto nº 75.948 de 08/07/1975", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1979-07-04", "nome": "Lei nº 6.669 de 04/07/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 21", "art": "21", "acao": "alterou"}], "id": "federal/leis-ordinarias/1979/lei-6669-1979-07-04"},
+{"data": "1979-10-03", "nome": "Lei nº 6.693 de 03/10/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6693-1979-10-03"},
+{"data": "1981-05-27", "nome": "Lei nº 6.909 de 27/05/1981", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1981/lei-6909-1981-05-27"}
+],
+"controle": []
+}

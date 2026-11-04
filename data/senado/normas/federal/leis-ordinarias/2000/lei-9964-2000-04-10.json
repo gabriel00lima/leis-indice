@@ -1,0 +1,36 @@
+{
+"id": "federal/leis-ordinarias/2000/lei-9964-2000-04-10",
+"urn": "urn:lex:br:federal:lei:2000-04-10;9964",
+"consultado_em": "2026-11-04",
+"codigo": "551840",
+"nome": "Lei nº 9.964 de 10/04/2000",
+"apelidos": [
+"Lei do Programa de Recuperação Fiscal (Refis) (2000)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-04-11", "descricao": "Publicação Original [Diário Oficial da União de 11/04/2000] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2000-04-24", "nome": "Decreto nº 3.431 de 24/04/2000", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2000-09-14", "nome": "Lei nº 10.002 de 14/09/2000", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2000/lei-10002-2000-09-14"},
+{"data": "2000-09-29", "nome": "Medida Provisória nº 2.061 de 29/09/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 4, Inciso 1", "art": "2", "acao": "alterou"}]},
+{"data": "2000-10-31", "nome": "Medida Provisória nº 2.061-1 de 31/10/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 4, Inciso 1", "art": "2", "acao": "alterou"}]},
+{"data": "2000-11-30", "nome": "Medida Provisória nº 2.061-2 de 30/11/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 4, Inciso 1", "art": "2", "acao": "alterou"}]},
+{"data": "2000-12-27", "nome": "Decreto nº 3.712 de 27/12/2000", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2000-12-27", "nome": "Medida Provisória nº 2.061-3 de 27/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 4, Inciso 1", "art": "2", "acao": "alterou"}]},
+{"data": "2001-01-25", "nome": "Medida Provisória nº 2.061-4 de 25/01/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 4, Inciso 1", "art": "2", "acao": "alterou"}]},
+{"data": "2001-02-14", "nome": "Lei nº 10.189 de 14/02/2001", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 4, Inciso 1", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2001/lei-10189-2001-02-14"},
+{"data": "2009-05-27", "nome": "Lei nº 11.941 de 27/05/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 2, Inciso 2", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2009/lei-11941-2009-05-27"},
+{"data": "2017-01-04", "nome": "Medida Provisória nº 766 de 04/01/2017", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, § 1", "art": "3", "acao": "ressalvou"}]},
+{"data": "2017-05-31", "nome": "Medida Provisória nº 783 de 31/05/2017", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, § 1", "art": "3", "acao": "ressalvou"}]},
+{"data": "2017-07-31", "nome": "Medida Provisória nº 793 de 31/07/2017", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, § 1", "art": "3", "acao": "ressalvou"}]},
+{"data": "2017-10-24", "nome": "Lei nº 13.496 de 24/10/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 1", "art": "3", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2017/lei-13496-2017-10-24"},
+{"data": "2018-01-09", "nome": "Lei nº 13.606 de 09/01/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 1", "art": "3", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2018/lei-13606-2018-01-09"},
+{"data": "2022-03-17", "nome": "Medida Provisória nº 1.107 de 17/03/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}]},
+{"data": "2022-06-21", "nome": "Lei nº 14.375 de 21/06/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 1", "art": "3", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2022/lei-14375-2022-06-21"},
+{"data": "2023-05-30", "nome": "Lei nº 14.592 de 30/05/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 1", "art": "3", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2023/lei-14592-2023-05-30"}
+],
+"controle": [
+{"data": "2024-06-21", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 7.370 de 21/06/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}, {"dispositivo": "Art. 9", "art": "9", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}], "decisao": {"classe": "ADI", "numero": "7370"}}
+]
+}

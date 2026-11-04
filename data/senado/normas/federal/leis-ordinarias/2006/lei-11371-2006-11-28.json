@@ -1,0 +1,28 @@
+{
+"id": "federal/leis-ordinarias/2006/lei-11371-2006-11-28",
+"urn": "urn:lex:br:federal:lei:2006-11-28;11371",
+"consultado_em": "2026-11-04",
+"codigo": "572156",
+"nome": "Lei nº 11.371 de 28/11/2006",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2006-11-29", "descricao": "Publicação Original [Diário Oficial da União de 29/11/2006] (p. 4, col. 1)"}
+],
+"alteracoes": [
+{"data": "2008-12-15", "nome": "Medida Provisória nº 451 de 15/12/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 16", "art": "16", "acao": "alterou"}]},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2009-06-04", "nome": "Lei nº 11.945 de 04/06/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 16", "art": "16", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-11945-2009-06-04"},
+{"data": "2011-06-24", "nome": "Lei nº 12.431 de 24/06/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 16", "art": "16", "acao": "alterou"}], "id": "federal/leis-ordinarias/2011/lei-12431-2011-06-24"},
+{"data": "2014-11-13", "nome": "Lei nº 13.043 de 13/11/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 16", "art": "16", "acao": "alterou"}], "id": "federal/leis-ordinarias/2014/lei-13043-2014-11-13"},
+{"data": "2017-06-07", "nome": "Medida Provisória nº 784 de 07/06/2017", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 7, caput", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 7, Parágrafo Único", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 12, caput", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 12, § 1", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 12, § 2", "art": "12", "acao": "revogou"}]},
+{"data": "2017-06-07", "nome": "Medida Provisória nº 784 de 07/06/2017", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2017-11-13", "nome": "Lei nº 13.506 de 13/11/2017", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2017/lei-13506-2017-11-13"},
+{"data": "2017-11-13", "nome": "Lei nº 13.506 de 13/11/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, caput", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 7, Parágrafo Único", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 12, caput", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 12, § 1", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 12, § 2", "art": "12", "acao": "revogou"}], "id": "federal/leis-ordinarias/2017/lei-13506-2017-11-13"},
+{"data": "2019-11-26", "nome": "Medida Provisória nº 907 de 26/11/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 16", "art": "16", "acao": "alterou"}]},
+{"data": "2020-05-22", "nome": "Lei nº 14.002 de 22/05/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 16, caput", "art": "16", "acao": "alterou"}, {"dispositivo": "Art. 16, caput, Inciso 1", "art": "16", "acao": "vetado"}, {"dispositivo": "Art. 16, caput, Inciso 2", "art": "16", "acao": "alterou"}], "id": "federal/leis-ordinarias/2020/lei-14002-2020-05-22"},
+{"data": "2021-12-29", "nome": "Lei nº 14.286 de 29/12/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 1, § 2", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2, caput", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 7, caput", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 7, Parágrafo Único", "art": "7", "acao": "revogou"}], "id": "federal/leis-ordinarias/2021/lei-14286-2021-12-29"},
+{"data": "2021-12-31", "nome": "Medida Provisória nº 1.094 de 31/12/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 16", "art": "16", "acao": "alterou"}]},
+{"data": "2022-05-31", "nome": "Lei nº 14.355 de 31/05/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 16, caput", "art": "16", "acao": "alterou"}, {"dispositivo": "Art. 16, caput, Inciso 2", "art": "16", "acao": "alterou"}, {"dispositivo": "Art. 16, caput, Inciso 3", "art": "16", "acao": "alterou"}, {"dispositivo": "Art. 16, caput, Inciso 4", "art": "16", "acao": "alterou"}, {"dispositivo": "Art. 16, caput, Inciso 5", "art": "16", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14355-2022-05-31"}
+],
+"controle": []
+}

@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/1952/lei-1628-1952-06-20",
+"urn": "urn:lex:br:federal:lei:1952-06-20;1628",
+"consultado_em": "2026-11-04",
+"codigo": "543339",
+"nome": "Lei nº 1.628 de 20/06/1952",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1952-06-20", "descricao": "Publicação Original [Diário Oficial da União de 20/06/1952] (p. 10017, col. 1)"}
+],
+"alteracoes": [
+{"data": "1954-11-29", "nome": "Lei nº 2.354 de 29/11/1954", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2354-1954-11-29"},
+{"data": "1955-08-02", "nome": "Decreto nº 37.686 de 02/08/1955", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "regulamentou"}]},
+{"data": "1956-11-26", "nome": "Lei nº 2.973 de 26/11/1956", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2973-1956-11-26"},
+{"data": "1965-06-16", "nome": "Lei nº 4.679 de 16/06/1965", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4679-1965-06-16"},
+{"data": "1967-01-12", "nome": "Lei nº 5.199 de 12/01/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1967/lei-5199-1967-01-12"},
+{"data": "1971-06-21", "nome": "Decreto nº 68.786 de 21/06/1971", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1971-06-21", "nome": "Lei nº 5.662 de 21/06/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5662-1971-06-21"},
+{"data": "1973-12-18", "nome": "Lei nº 6.000 de 18/12/1973", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 15, caput, Alínea e", "art": "15", "acao": "revogou"}, {"dispositivo": "Art. 15, caput, Alínea f", "art": "15", "acao": "revogou"}], "id": "federal/leis-ordinarias/1973/lei-6000-1973-12-18"}
+],
+"controle": []
+}

@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1975/lei-6216-1975-06-30",
+"urn": "urn:lex:br:federal:lei:1975-06-30;6216",
+"consultado_em": "2026-11-04",
+"codigo": "548092",
+"nome": "Lei nº 6.216 de 30/06/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-07-01", "descricao": "Publicação Original [Diário Oficial da União de 01/07/1975] (p. 7897, col. 2)"},
+{"tipo": "RET", "data": "1975-07-04", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 04/07/1975] (p. 8185, col. 4)"}
+],
+"alteracoes": [
+{"data": "1979-09-17", "nome": "Lei nº 6.688 de 17/09/1979", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6688-1979-09-17"},
+{"data": "1979-11-19", "nome": "Lei nº 6.724 de 19/11/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6724-1979-11-19"},
+{"data": "1979-12-05", "nome": "Lei nº 6.739 de 05/12/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6739-1979-12-05"}
+],
+"controle": []
+}

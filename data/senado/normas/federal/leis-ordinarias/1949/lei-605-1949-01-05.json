@@ -1,0 +1,34 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-605-1949-01-05",
+"urn": "urn:lex:br:federal:lei:1949-01-05;605",
+"consultado_em": "2026-11-04",
+"codigo": "542134",
+"nome": "Lei nº 605 de 05/01/1949",
+"apelidos": [
+"Lei do Repouso Semanal Remunerado (1949)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-01-14", "descricao": "Publicação Original [Diário Oficial da União de 14/01/1949] (p. 633, col. 1)"}
+],
+"alteracoes": [
+{"data": "1949-08-12", "nome": "Decreto nº 27.048 de 12/08/1949", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1949-10-18", "nome": "Decreto nº 27.322 de 18/10/1949", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1956-04-26", "nome": "Lei nº 2.761 de 26/04/1956", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2761-1956-04-26"},
+{"data": "1965-11-01", "nome": "Decreto nº 57.146 de 01/11/1965", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1966-12-27", "nome": "Decreto-Lei nº 86 de 27/12/1966", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1966/del-86-1966-12-27"},
+{"data": "1979-08-14", "nome": "Decreto nº 83.842 de 14/08/1979", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1983-05-30", "nome": "Decreto nº 88.341 de 30/05/1983", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1985-03-12", "nome": "Decreto nº 91.100 de 12/03/1985", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1985-12-09", "nome": "Lei nº 7.415 de 09/12/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, caput, Alínea a", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 7, caput, Alínea b", "art": "7", "acao": "alterou"}], "id": "federal/leis-ordinarias/1985/lei-7415-1985-12-09"},
+{"data": "1987-07-30", "nome": "Decreto nº 94.709 de 30/07/1987", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1995-09-12", "nome": "Lei nº 9.093 de 12/09/1995", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "revogou"}], "id": "federal/leis-ordinarias/1995/lei-9093-1995-09-12"},
+{"data": "2006-07-19", "nome": "Lei nº 11.324 de 19/07/2006", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, caput, Alínea a", "art": "5", "acao": "revogou"}], "id": "federal/leis-ordinarias/2006/lei-11324-2006-07-19"},
+{"data": "2011-12-08", "nome": "Lei nº 12.544 de 08/12/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}], "id": "federal/leis-ordinarias/2011/lei-12544-2011-12-08"},
+{"data": "2019-10-14", "nome": "Decreto nº 10.060 de 14/10/2019", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2019-11-11", "nome": "Medida Provisória nº 905 de 11/11/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}, {"dispositivo": "Art. 12, caput", "art": "12", "acao": "alterou"}]},
+{"data": "2021-03-26", "nome": "Lei nº 14.128 de 26/03/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, § 4", "art": "6", "acao": "acrescentou"}, {"dispositivo": "Art. 6, § 5", "art": "6", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2021/lei-14128-2021-03-26"},
+{"data": "2021-11-10", "nome": "Decreto nº 10.854 de 10/11/2021", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2024-09-09", "nome": "Lei nº 14.967 de 09/09/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2024/lei-14967-2024-09-09"}
+],
+"controle": []
+}

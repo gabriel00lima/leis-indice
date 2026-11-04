@@ -1,0 +1,29 @@
+{
+"id": "federal/decretos-lei/1972/del-1248-1972-11-29",
+"urn": "urn:lex:br:federal:decreto.lei:1972-11-29;1248",
+"consultado_em": "2026-11-04",
+"codigo": "525117",
+"nome": "Decreto-Lei nº 1.248 de 29/11/1972",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1972-11-30", "descricao": "Publicação Original [Diário Oficial da União de 30/11/1972] (p. 10673, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-02-26", "nome": "Decreto nº 71.866 de 26/02/1973", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1973-04-04", "nome": "Decreto Legislativo nº 2 de 04/04/1973", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1973-04-18", "nome": "Decreto-Lei nº 1.269 de 18/04/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1973/del-1269-1973-04-18"},
+{"data": "1975-12-16", "nome": "Decreto-Lei nº 1.435 de 16/12/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1975/del-1435-1975-12-16"},
+{"data": "1976-09-22", "nome": "Decreto nº 78.450 de 22/09/1976", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1976-12-20", "nome": "Decreto-Lei nº 1.499 de 20/12/1976", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/decretos-lei/1976/del-1499-1976-12-20"},
+{"data": "1977-04-26", "nome": "Decreto Legislativo nº 12 de 26/04/1977", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1978-07-06", "nome": "Decreto-Lei nº 1.629 de 06/07/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1978/del-1629-1978-07-06"},
+{"data": "1979-12-03", "nome": "Decreto-Lei nº 1.721 de 03/12/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/decretos-lei/1979/del-1721-1979-12-03"},
+{"data": "1981-12-16", "nome": "Decreto-Lei nº 1.894 de 16/12/1981", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1981/del-1894-1981-12-16"},
+{"data": "1984-06-26", "nome": "Decreto-Lei nº 2.134 de 26/06/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "prorrogação de prazo"}, {"dispositivo": "Art. 4", "art": "4", "acao": "prorrogação de prazo"}], "id": "federal/decretos-lei/1984/del-2134-1984-06-26"},
+{"data": "1988-02-10", "nome": "Decreto-Lei nº 2.413 de 10/02/1988", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "correlato"}, {"dispositivo": "Art. 4", "art": "4", "acao": "correlato"}], "id": "federal/decretos-lei/1988/del-2413-1988-02-10"},
+{"data": "1997-11-14", "nome": "Medida Provisória nº 1.602 de 14/11/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2019-06-27", "nome": "Decreto nº 9.889 de 27/06/2019", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "correlato"}]}
+],
+"controle": []
+}

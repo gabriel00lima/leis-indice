@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2009/lei-12058-2009-10-13",
+"urn": "urn:lex:br:federal:lei:2009-10-13;12058",
+"consultado_em": "2026-11-04",
+"codigo": "580750",
+"nome": "Lei nº 12.058 de 13/10/2009",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2009-10-14", "descricao": "Publicação Original [Diário Oficial da União de 14/10/2009] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-12-29", "nome": "Medida Provisória nº 478 de 29/12/2009", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 30", "art": "30", "acao": "revogou"}]},
+{"data": "2010-07-27", "nome": "Medida Provisória nº 497 de 27/07/2010", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 32", "art": "32", "acao": "alterou"}, {"dispositivo": "Art. 33", "art": "33", "acao": "alterou"}, {"dispositivo": "Art. 34", "art": "34", "acao": "alterou"}]},
+{"data": "2010-12-20", "nome": "Lei nº 12.350 de 20/12/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 32, caput, Inciso 1", "art": "32", "acao": "alterou"}, {"dispositivo": "Art. 32, caput, Inciso 2", "art": "32", "acao": "alterou"}, {"dispositivo": "Art. 33", "art": "33", "acao": "alterou"}, {"dispositivo": "Art. 34", "art": "34", "acao": "alterou"}], "id": "federal/leis-ordinarias/2010/lei-12350-2010-12-20"},
+{"data": "2011-06-24", "nome": "Lei nº 12.431 de 24/06/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 32, caput, Inciso 2", "art": "32", "acao": "alterou"}, {"dispositivo": "Art. 32, Parágrafo Único, Inciso 1", "art": "32", "acao": "alterou"}], "id": "federal/leis-ordinarias/2011/lei-12431-2011-06-24"},
+{"data": "2013-03-08", "nome": "Medida Provisória nº 609 de 08/03/2013", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 32, caput, Inciso 1", "art": "32", "acao": "alterou"}, {"dispositivo": "Art. 32, caput, Inciso 2", "art": "32", "acao": "revogou"}, {"dispositivo": "Art. 33", "art": "33", "acao": "alterou"}, {"dispositivo": "Art. 33, § 7", "art": "33", "acao": "alterou"}, {"dispositivo": "Art. 34", "art": "34", "acao": "alterou"}]},
+{"data": "2013-07-09", "nome": "Lei nº 12.839 de 09/07/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 32, caput, Inciso 1", "art": "32", "acao": "alterou"}, {"dispositivo": "Art. 32, caput, Inciso 2", "art": "32", "acao": "revogou"}, {"dispositivo": "Art. 33", "art": "33", "acao": "alterou"}, {"dispositivo": "Art. 33, § 7", "art": "33", "acao": "alterou"}, {"dispositivo": "Art. 34", "art": "34", "acao": "alterou"}, {"dispositivo": "Art. 34, § 1", "art": "34", "acao": "alterou"}, {"dispositivo": "Art. 34, § 2", "art": "34", "acao": "alterou"}, {"dispositivo": "Art. 34, § 4", "art": "34", "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12839-2013-07-09"}
+],
+"controle": []
+}

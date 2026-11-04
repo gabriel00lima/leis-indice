@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/2000/lei-10048-2000-11-08",
+"urn": "urn:lex:br:federal:lei:2000-11-08;10048",
+"consultado_em": "2026-11-04",
+"codigo": "551924",
+"nome": "Lei nº 10.048 de 08/11/2000",
+"apelidos": [
+"Lei do Atendimento Prioritário (2000)",
+"Lei da Prioridade (2000)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-11-09", "descricao": "Publicação Original [Diário Oficial da União de 09/11/2000] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2003-10-01", "nome": "Lei nº 10.741 de 01/10/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2003/lei-10741-2003-10-01"},
+{"data": "2004-12-02", "nome": "Decreto nº 5.296 de 02/12/2004", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2012-10-09", "nome": "Decreto nº 7.823 de 09/10/2012", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2015-07-06", "nome": "Lei nº 13.146 de 06/07/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2015/lei-13146-2015-07-06"},
+{"data": "2022-06-01", "nome": "Lei nº 14.364 de 01/06/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14364-2022-06-01"},
+{"data": "2023-07-19", "nome": "Lei nº 14.626 de 19/07/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 3, caput", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2023/lei-14626-2023-07-19"}
+],
+"controle": []
+}

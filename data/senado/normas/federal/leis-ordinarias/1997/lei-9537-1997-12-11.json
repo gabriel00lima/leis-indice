@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/1997/lei-9537-1997-12-11",
+"urn": "urn:lex:br:federal:lei:1997-12-11;9537",
+"consultado_em": "2026-11-04",
+"codigo": "551413",
+"nome": "Lei nº 9.537 de 11/12/1997",
+"apelidos": [
+"Lei de Segurança do Tráfego Aquaviário (1997)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1997-12-12", "descricao": "Publicação Original [Diário Oficial da União de 12/12/1997] (p. 29510, col. 2)"}
+],
+"alteracoes": [
+{"data": "1998-05-18", "nome": "Decreto nº 2.596 de 18/05/1998", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2004-07-06", "nome": "Decreto nº 5.129 de 06/07/2004", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2009-07-06", "nome": "Lei nº 11.970 de 06/07/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4-A", "art": "4-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2009/lei-11970-2009-07-06"},
+{"data": "2024-01-15", "nome": "Lei nº 14.813 de 15/01/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 22", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 12, § 1", "art": "12", "acao": "acrescentou"}, {"dispositivo": "Art. 12, § 2", "art": "12", "acao": "acrescentou"}, {"dispositivo": "Art. 12, § 3", "art": "12", "acao": "acrescentou"}, {"dispositivo": "Art. 12-A, caput", "art": "12-a", "acao": "acrescentou"}, {"dispositivo": "Art. 12-A, Parágrafo Único", "art": "12-a", "acao": "acrescentou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "alterou"}, {"dispositivo": "Art. 14, Parágrafo Único, apenas o Caput", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 14, Parágrafo Único, Inciso 1", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 14, Parágrafo Único, Inciso 2", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 15-A", "art": "15-a", "acao": "acrescentou"}, {"dispositivo": "Art. 15-B, caput", "art": "15-b", "acao": "acrescentou"}, {"dispositivo": "Art. 15-C", "art": "15-c", "acao": "acrescentou"}, {"dispositivo": "Art. 24, § 2", "art": "24", "acao": "revogou"}], "id": "federal/leis-ordinarias/2024/lei-14813-2024-01-15"},
+{"data": "2025-06-02", "nome": "Decreto nº 12.481 de 02/06/2025", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

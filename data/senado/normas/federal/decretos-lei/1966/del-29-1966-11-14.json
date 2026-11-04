@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1966/del-29-1966-11-14",
+"urn": "urn:lex:br:federal:decreto.lei:1966-11-14;29",
+"consultado_em": "2026-11-04",
+"codigo": "522700",
+"nome": "Decreto-Lei nº 29 de 14/11/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-16", "descricao": "Publicação Original [Diário Oficial da União de 16/11/1966] (p. 13211, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-03-06", "nome": "Decreto nº 60.301 de 06/03/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1984-12-03", "nome": "Lei nº 7.262 de 03/12/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/1984/lei-7262-1984-12-03"}
+],
+"controle": []
+}

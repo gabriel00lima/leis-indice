@@ -1,0 +1,21 @@
+{
+"id": "federal/decretos-lei/1946/del-9295-1946-05-27",
+"urn": "urn:lex:br:federal:decreto.lei:1946-05-27;9295",
+"consultado_em": "2026-11-04",
+"codigo": "534334",
+"nome": "Decreto-Lei nº 9.295 de 27/05/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-05-28", "descricao": "Publicação Original [Diário Oficial da União de 28/05/1946] (p. 7889, col. 2)"}
+],
+"alteracoes": [
+{"data": "1946-09-03", "nome": "Decreto-Lei nº 9.710 de 03/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9710-1946-09-03"},
+{"data": "1948-01-14", "nome": "Decreto nº 24.337 de 14/01/1948", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1948-12-22", "nome": "Lei nº 570 de 22/12/1948", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1948/lei-570-1948-12-22"},
+{"data": "1964-08-31", "nome": "Lei nº 4.399 de 31/08/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4399-1964-08-31"},
+{"data": "1977-01-18", "nome": "Decreto nº 79.137 de 18/01/1977", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2010-06-11", "nome": "Lei nº 12.249 de 11/06/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 21", "art": "21", "acao": "alterou"}, {"dispositivo": "Art. 22", "art": "22", "acao": "alterou"}, {"dispositivo": "Art. 23", "art": "23", "acao": "alterou"}, {"dispositivo": "Art. 27", "art": "27", "acao": "alterou"}, {"dispositivo": "Art. 36-A", "art": "36-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2010/lei-12249-2010-06-11"},
+{"data": "2020-08-17", "nome": "Lei nº 14.039 de 17/08/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 25, § 1", "art": "25", "acao": "acrescentou"}, {"dispositivo": "Art. 25, § 2", "art": "25", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2020/lei-14039-2020-08-17"}
+],
+"controle": []
+}

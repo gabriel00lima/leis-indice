@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2004/lei-10835-2004-01-08",
+"urn": "urn:lex:br:federal:lei:2004-01-08;10835",
+"consultado_em": "2026-11-04",
+"codigo": "552711",
+"nome": "Lei nº 10.835 de 08/01/2004",
+"apelidos": [
+"Lei Suplicy (2004)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2004-01-09", "descricao": "Publicação Original [Diário Oficial da União de 09/01/2004] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-12-29", "nome": "Lei nº 14.284 de 29/12/2021", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "correlato"}, {"dispositivo": "Art. 1, § 1", "art": "1", "acao": "correlato"}], "id": "federal/leis-ordinarias/2021/lei-14284-2021-12-29"},
+{"data": "2022-05-18", "nome": "Lei nº 14.342 de 18/05/2022", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "correlato"}, {"dispositivo": "Art. 1, § 1", "art": "1", "acao": "correlato"}], "id": "federal/leis-ordinarias/2022/lei-14342-2022-05-18"}
+],
+"controle": []
+}

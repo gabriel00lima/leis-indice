@@ -1,0 +1,20 @@
+{
+"id": "federal/decretos-lei/1971/del-1191-1971-10-27",
+"urn": "urn:lex:br:federal:decreto.lei:1971-10-27;1191",
+"consultado_em": "2026-11-04",
+"codigo": "525003",
+"nome": "Decreto-Lei nº 1.191 de 27/10/1971",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1971-10-27", "descricao": "Publicação Original [Diário Oficial da União de 27/10/1971] (p. 8683, col. 1)"}
+],
+"alteracoes": [
+{"data": "1971-11-25", "nome": "Decreto Legislativo nº 83 de 25/11/1971", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1974-07-23", "nome": "Decreto-Lei nº 1.338 de 23/07/1974", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}], "id": "federal/decretos-lei/1974/del-1338-1974-07-23"},
+{"data": "1975-12-30", "nome": "Decreto-Lei nº 1.439 de 30/12/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1975/del-1439-1975-12-30"},
+{"data": "1978-01-18", "nome": "Decreto-Lei nº 1.601 de 18/01/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1978/del-1601-1978-01-18"},
+{"data": "1991-03-28", "nome": "Lei nº 8.181 de 28/03/1991", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11, § 2", "art": "11", "acao": "revogou"}], "id": "federal/leis-ordinarias/1991/lei-8181-1991-03-28"},
+{"data": "2022-12-14", "nome": "Lei nº 14.476 de 14/12/2022", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14476-2022-12-14"}
+],
+"controle": []
+}

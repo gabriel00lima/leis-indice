@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2012/lei-12608-2012-04-10",
+"urn": "urn:lex:br:federal:lei:2012-04-10;12608",
+"consultado_em": "2026-11-04",
+"codigo": "589531",
+"nome": "Lei nº 12.608 de 10/04/2012",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2012-04-11", "descricao": "Publicação Original [Diário Oficial da União de 11/04/2012] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2012-04-10", "nome": "Lei nº 12.608 de 10/04/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, caput, Inciso 14", "art": "6", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2012/lei-12608-2012-04-10"},
+{"data": "2020-12-24", "nome": "Decreto nº 10.593 de 24/12/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2021-04-27", "nome": "Decreto nº 10.689 de 27/04/2021", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2021-05-03", "nome": "Decreto nº 10.692 de 03/05/2021", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2023-12-12", "nome": "Lei nº 14.750 de 12/12/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, Parágrafo Único, Inciso 2", "art": "1", "acao": "vetado"}, {"dispositivo": "Art. 2, caput", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 5, caput, Inciso 3", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, caput, Inciso 9", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, caput, Inciso 16", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 5, caput, Inciso 17", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 6, caput, Inciso 5", "art": "6", "acao": "vetado"}, {"dispositivo": "Art. 6, caput, Inciso 14", "art": "6", "acao": "acrescentou"}, {"dispositivo": "Art. 6, caput, Inciso 14", "art": "6", "acao": "vetado"}, {"dispositivo": "Art. 6, § 1, Inciso 3", "art": "6", "acao": "acrescentou"}, {"dispositivo": "Art. 6, § 2", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 7, Parágrafo Único", "art": "7", "acao": "renumerou"}, {"dispositivo": "Art. 7, § 2", "art": "7", "acao": "acrescentou"}, {"dispositivo": "Art. 7, § 2, Inciso 1", "art": "7", "acao": "vetado"}, {"dispositivo": "Art. 8, caput, Inciso 5-A", "art": "8", "acao": "acrescentou"}, {"dispositivo": "Art. 8, caput, Inciso 5-B", "art": "8", "acao": "acrescentou"}, {"dispositivo": "Art. 9, caput, Inciso 7", "art": "9", "acao": "acrescentou"}, {"dispositivo": "Art. 12-A", "art": "12-a", "acao": "acrescentou"}, {"dispositivo": "Art. 12-B, caput", "art": "12-b", "acao": "acrescentou"}, {"dispositivo": "Art. 12-C", "art": "12-c", "acao": "acrescentou"}, {"dispositivo": "Art. 12-D", "art": "12-d", "acao": "acrescentou"}, {"dispositivo": "Art. 12-E, caput", "art": "12-e", "acao": "acrescentou"}, {"dispositivo": "Art. 12-E, Parágrafo Único", "art": "12-e", "acao": "acrescentou"}, {"dispositivo": "Art. 12-F, caput", "art": "12-f", "acao": "acrescentou"}, {"dispositivo": "Art. 12-F, Parágrafo Único", "art": "12-f", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14750-2023-12-12"},
+{"data": "2025-10-07", "nome": "Decreto nº 12.652 de 07/10/2025", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6, § 1", "art": "6", "acao": "correlato"}]},
+{"data": "2026-03-30", "nome": "Lei nº 15.367 de 30/03/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 18-A, caput", "art": "18-a", "acao": "acrescentou"}, {"dispositivo": "Art. 18-A, caput, Inciso 1", "art": "18-a", "acao": "acrescentou"}, {"dispositivo": "Art. 18-A, caput, Inciso 2", "art": "18-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15367-2026-03-30"}
+],
+"controle": []
+}

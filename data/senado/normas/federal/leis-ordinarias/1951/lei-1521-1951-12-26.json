@@ -1,0 +1,53 @@
+{
+"id": "federal/leis-ordinarias/1951/lei-1521-1951-12-26",
+"urn": "urn:lex:br:federal:lei:1951-12-26;1521",
+"consultado_em": "2026-11-04",
+"codigo": "543213",
+"nome": "Lei nº 1.521 de 26/12/1951",
+"apelidos": [
+"Lei dos Crimes Contra a Economia Popular (1951)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1951-12-27", "descricao": "Publicação Original [Diário Oficial da União de 27/12/1951] (p. 18802, col. 1)"}
+],
+"alteracoes": [
+{"data": "1957-10-23", "nome": "Lei nº 3.290 de 23/10/1957", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1957/lei-3290-1957-10-23"},
+{"data": "1960-06-30", "nome": "Decreto nº 48.456 de 30/06/1960", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1979-05-16", "nome": "Lei nº 6.649 de 16/05/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}], "id": "federal/leis-ordinarias/1979/lei-6649-1979-05-16"},
+{"data": "1999-04-05", "nome": "Medida Provisória nº 1.820 de 05/04/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "1999-05-05", "nome": "Medida Provisória nº 1.820-1 de 05/05/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "1999-06-02", "nome": "Medida Provisória nº 1.820-2 de 02/06/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "1999-06-29", "nome": "Medida Provisória nº 1.914-3 de 29/06/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "1999-07-28", "nome": "Medida Provisória nº 1.914-4 de 28/07/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "1999-08-26", "nome": "Medida Provisória nº 1.914-5 de 26/08/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "1999-09-24", "nome": "Medida Provisória nº 1.914-6 de 24/09/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "1999-10-22", "nome": "Medida Provisória nº 1.914-7 de 22/10/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "1999-11-23", "nome": "Medida Provisória nº 1.914-8 de 23/11/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "1999-12-09", "nome": "Medida Provisória nº 1.965-9 de 09/12/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2000-01-06", "nome": "Medida Provisória nº 1.965-10 de 06/01/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2000-02-03", "nome": "Medida Provisória nº 1.965-11 de 03/02/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2000-03-02", "nome": "Medida Provisória nº 1.965-12 de 02/03/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2000-03-30", "nome": "Medida Provisória nº 1.965-13 de 30/03/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2000-04-27", "nome": "Medida Provisória nº 1.965-14 de 27/04/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2000-05-26", "nome": "Medida Provisória nº 1.965-15 de 26/05/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2000-06-26", "nome": "Medida Provisória nº 1.965-16 de 26/06/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2000-07-26", "nome": "Medida Provisória nº 1.965-17 de 26/07/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2000-08-25", "nome": "Medida Provisória nº 1.965-18 de 25/08/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2000-09-22", "nome": "Medida Provisória nº 1.965-19 de 22/09/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2000-10-24", "nome": "Medida Provisória nº 1.965-20 de 24/10/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2000-11-23", "nome": "Medida Provisória nº 1.965-21 de 23/11/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2000-12-21", "nome": "Medida Provisória nº 1.965-22 de 21/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2000-12-27", "nome": "Medida Provisória nº 2.089-23 de 27/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2001-01-25", "nome": "Medida Provisória nº 2.089-24 de 25/01/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2001-02-22", "nome": "Medida Provisória nº 2.089-25 de 22/02/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2001-03-22", "nome": "Medida Provisória nº 2.089-26 de 22/03/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2001-04-19", "nome": "Medida Provisória nº 2.089-27 de 19/04/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2001-05-17", "nome": "Medida Provisória nº 2.089-28 de 17/05/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2001-06-13", "nome": "Medida Provisória nº 2.089-29 de 13/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2001-06-28", "nome": "Medida Provisória nº 2.172-30 de 28/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2001-07-26", "nome": "Medida Provisória nº 2.172-31 de 26/07/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2001-08-23", "nome": "Medida Provisória nº 2.172-32 de 23/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "2021-12-29", "nome": "Lei nº 14.286 de 29/12/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput, Alínea a", "art": "4", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2021/lei-14286-2021-12-29"}
+],
+"controle": []
+}

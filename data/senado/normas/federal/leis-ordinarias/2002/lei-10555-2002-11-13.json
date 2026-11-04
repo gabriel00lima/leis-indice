@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10555-2002-11-13",
+"urn": "urn:lex:br:federal:lei:2002-11-13;10555",
+"consultado_em": "2026-11-04",
+"codigo": "552431",
+"nome": "Lei nº 10.555 de 13/11/2002",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-11-14", "descricao": "Publicação Original [Diário Oficial da União de 14/11/2002] (p. 5, col. 1)"}
+],
+"alteracoes": [
+{"data": "2004-05-13", "nome": "Medida Provisória nº 185 de 13/05/2004", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2-A", "art": "2-a", "acao": "acrescentou"}]},
+{"data": "2004-08-12", "nome": "Lei nº 10.936 de 12/08/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2-A", "art": "2-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2004/lei-10936-2004-08-12"}
+],
+"controle": []
+}

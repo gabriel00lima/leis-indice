@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2004/lei-11080-2004-12-30",
+"urn": "urn:lex:br:federal:lei:2004-12-30;11080",
+"consultado_em": "2026-11-04",
+"codigo": "570529",
+"nome": "Lei nº 11.080 de 30/12/2004",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2004-12-31", "descricao": "Publicação Original [Diário Oficial da União de 31/12/2004] (p. 8, col. 3)"}
+],
+"alteracoes": [
+{"data": "2005-01-24", "nome": "Decreto nº 5.352 de 24/01/2005", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2005-01-24", "nome": "Decreto nº 5.353 de 24/01/2005", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 18", "art": "18", "acao": "regulamentou"}]},
+{"data": "2007-03-16", "nome": "Medida Provisória nº 359 de 16/03/2007", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 16", "art": "16", "acao": "revogou"}]},
+{"data": "2007-07-11", "nome": "Lei nº 11.501 de 11/07/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 16", "art": "16", "acao": "revogou"}], "id": "federal/leis-ordinarias/2007/lei-11501-2007-07-11"},
+{"data": "2022-03-31", "nome": "Medida Provisória nº 1.112 de 31/03/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 17, caput, Inciso 5", "art": "17", "acao": "alterou"}, {"dispositivo": "Art. 17, caput, Inciso 6", "art": "17", "acao": "alterou"}, {"dispositivo": "Art. 17, caput, Inciso 7", "art": "17", "acao": "acrescentou"}]},
+{"data": "2022-09-02", "nome": "Lei nº 14.440 de 02/09/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 17, caput, Inciso 5", "art": "17", "acao": "alterou"}, {"dispositivo": "Art. 17, caput, Inciso 6", "art": "17", "acao": "alterou"}, {"dispositivo": "Art. 17, caput, Inciso 7", "art": "17", "acao": "acrescentou"}, {"dispositivo": "Art. 20, caput", "art": "20", "acao": "alterou"}, {"dispositivo": "Art. 20, Parágrafo Único", "art": "20", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14440-2022-09-02"},
+{"data": "2023-04-06", "nome": "Decreto nº 11.482 de 06/04/2023", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 18, caput", "art": "18", "acao": "regulamentou"}]}
+],
+"controle": []
+}

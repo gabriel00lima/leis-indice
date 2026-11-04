@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2003/lei-10707-2003-07-30",
+"urn": "urn:lex:br:federal:lei:2003-07-30;10707",
+"consultado_em": "2026-11-04",
+"codigo": "552583",
+"nome": "Lei nº 10.707 de 30/07/2003",
+"apelidos": [
+"Lei de Diretrizes Orçamentárias (LDO) (2004)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2003-07-31", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 31/07/2003] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "2003-09-24", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 24/09/2003] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2003-11-24", "nome": "Lei nº 10.777 de 24/11/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 59, § 3", "art": "59", "acao": "acrescentou"}, {"dispositivo": "Art. 59, § 4", "art": "59", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2003/lei-10777-2003-11-24"},
+{"data": "2004-01-09", "nome": "Decreto nº 4.950 de 09/01/2004", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 98", "art": "98", "acao": "regulamentou"}]},
+{"data": "2004-02-26", "nome": "Decreto nº 4.997 de 26/02/2004", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 82, § 3", "art": "82", "acao": "regulamentou"}]},
+{"data": "2004-12-21", "nome": "Decreto nº 5.316 de 21/12/2004", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 69, § 1, Inciso 4", "art": "69", "acao": "regulamentou"}]}
+],
+"controle": []
+}

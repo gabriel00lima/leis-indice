@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1969/del-1040-1969-10-21",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-21;1040",
+"consultado_em": "2026-11-04",
+"codigo": "524703",
+"nome": "Decreto-Lei nº 1.040 de 21/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-21", "descricao": "Publicação Original [Diário Oficial da União de 21/10/1969] (p. 8955, col. 2)"}
+],
+"alteracoes": [
+{"data": "1971-11-08", "nome": "Lei nº 5.730 de 08/11/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5730-1971-11-08"},
+{"data": "2005-08-02", "nome": "Lei nº 11.160 de 02/08/2005", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2005/lei-11160-2005-08-02"},
+{"data": "2013-12-26", "nome": "Lei nº 12.932 de 26/12/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Alínea a", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 1, caput, Alínea b", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "renumerou"}, {"dispositivo": "Art. 1, § 2", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2013/lei-12932-2013-12-26"}
+],
+"controle": []
+}

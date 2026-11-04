@@ -1,0 +1,40 @@
+{
+"id": "federal/leis-ordinarias/2021/lei-14204-2021-09-16",
+"urn": "urn:lex:br:federal:lei:2021-09-16;14204",
+"consultado_em": "2026-11-04",
+"codigo": "34863599",
+"nome": "Lei nº 14.204 de 16/09/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "ANX", "data": "2021-09-17", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União de 17/09/2021] (p. 4, col. 1)"},
+{"tipo": "ANX", "data": "2021-09-17", "descricao": "Publicação Original de Anexo (003 - Anexo III) [Diário Oficial da União de 17/09/2021] (p. 4, col. 2)"},
+{"tipo": "ANX", "data": "2021-09-17", "descricao": "Publicação Original de Anexo (002 - Anexo II) [Diário Oficial da União de 17/09/2021] (p. 4, col. 2)"},
+{"tipo": "PUB", "data": "2021-09-17", "descricao": "Publicação Original [Diário Oficial da União de 17/09/2021] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2021-09-16", "nome": "Mensagem de Veto Parcial nº 452 de 16/09/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-09-16", "nome": "Mensagem de Veto Parcial nº 452 de 16/09/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "veto"}]},
+{"data": "2021-10-05", "nome": "Decreto nº 10.829 de 05/10/2021", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2023-01-01", "nome": "Medida Provisória nº 1.154 de 01/01/2023", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2023-01-01", "nome": "Medida Provisória nº 1.154 de 01/01/2023", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2023-01-01", "nome": "Medida Provisória nº 1.154 de 01/01/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, § 1", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, § 2", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, § 3", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 6, § 2", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 18, caput, Inciso 2", "art": "18", "acao": "alterou"}]},
+{"data": "2023-06-19", "nome": "Lei nº 14.600 de 19/06/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "renumerou"}, {"dispositivo": "Art. 3, § 2", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, § 3", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 6, § 2", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 18, caput, Inciso 2", "art": "18", "acao": "alterou"}], "id": "federal/leis-ordinarias/2023/lei-14600-2023-06-19"},
+{"data": "2023-06-19", "nome": "Lei nº 14.600 de 19/06/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14600-2023-06-19"},
+{"data": "2023-06-19", "nome": "Lei nº 14.600 de 19/06/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14600-2023-06-19"},
+{"data": "2023-06-19", "nome": "Lei nº 14.600 de 19/06/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14600-2023-06-19"},
+{"data": "2023-07-18", "nome": "Medida Provisória nº 1.181 de 18/07/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 3-A, caput", "art": "3-a", "acao": "acrescentou"}, {"dispositivo": "Art. 3-A, Parágrafo Único", "art": "3-a", "acao": "acrescentou"}, {"dispositivo": "Art. 3-B, caput", "art": "3-b", "acao": "acrescentou"}, {"dispositivo": "Art. 3-B, Parágrafo Único", "art": "3-b", "acao": "acrescentou"}, {"dispositivo": "Art. 6, § 1, Inciso 2", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 6-A", "art": "6-a", "acao": "acrescentou"}, {"dispositivo": "Art. 7, Parágrafo Único", "art": "7", "acao": "acrescentou"}]},
+{"data": "2023-07-18", "nome": "Medida Provisória nº 1.181 de 18/07/2023", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2023-07-18", "nome": "Medida Provisória nº 1.181 de 18/07/2023", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2023-11-14", "nome": "Lei nº 14.724 de 14/11/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 3-A, caput", "art": "3-a", "acao": "acrescentou"}, {"dispositivo": "Art. 3-A, Parágrafo Único", "art": "3-a", "acao": "acrescentou"}, {"dispositivo": "Art. 3-B, caput", "art": "3-b", "acao": "acrescentou"}, {"dispositivo": "Art. 3-B, Parágrafo Único", "art": "3-b", "acao": "acrescentou"}, {"dispositivo": "Art. 6, § 1, Inciso 2", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 6-A", "art": "6-a", "acao": "acrescentou"}, {"dispositivo": "Art. 7, caput", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 7-A, caput", "art": "7-a", "acao": "acrescentou"}, {"dispositivo": "Art. 7-B, caput", "art": "7-b", "acao": "acrescentou"}, {"dispositivo": "Art. 7-C, caput", "art": "7-c", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14724-2023-11-14"},
+{"data": "2023-11-14", "nome": "Lei nº 14.724 de 14/11/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14724-2023-11-14"},
+{"data": "2023-11-14", "nome": "Lei nº 14.724 de 14/11/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14724-2023-11-14"},
+{"data": "2023-11-22", "nome": "Ato do Presidente do Congresso Nacional nº 79 de 22/11/2023", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2023-12-29", "nome": "Medida Provisória nº 1.203 de 29/12/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 18, caput, Inciso 2", "art": "18", "acao": "alterou"}]},
+{"data": "2023-12-29", "nome": "Medida Provisória nº 1.203 de 29/12/2023", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2024-05-31", "nome": "Lei nº 14.875 de 31/05/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 18, caput, Inciso 2", "art": "18", "acao": "alterou"}], "id": "federal/leis-ordinarias/2024/lei-14875-2024-05-31"},
+{"data": "2024-05-31", "nome": "Lei nº 14.875 de 31/05/2024", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14875-2024-05-31"},
+{"data": "2024-12-31", "nome": "Medida Provisória nº 1.286 de 31/12/2024", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 17, caput, Inciso 4", "art": "17", "acao": "revogou"}]},
+{"data": "2025-06-02", "nome": "Lei nº 15.141 de 02/06/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 17, caput, Inciso 4", "art": "17", "acao": "revogou"}], "id": "federal/leis-ordinarias/2025/lei-15141-2025-06-02"}
+],
+"controle": []
+}

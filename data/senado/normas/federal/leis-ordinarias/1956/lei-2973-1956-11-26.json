@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1956/lei-2973-1956-11-26",
+"urn": "urn:lex:br:federal:lei:1956-11-26;2973",
+"consultado_em": "2026-11-04",
+"codigo": "544816",
+"nome": "Lei nº 2.973 de 26/11/1956",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1956-11-26", "descricao": "Publicação Original [Diário Oficial da União de 26/11/1956] (p. 22321, col. 1)"}
+],
+"alteracoes": [
+{"data": "1959-12-15", "nome": "Lei nº 3.692 de 15/12/1959", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1959/lei-3692-1959-12-15"},
+{"data": "1962-09-13", "nome": "Decreto do Conselho de MInistros nº 1.392 de 13/09/1962", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1962-11-28", "nome": "Lei nº 4.154 de 28/11/1962", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1962/lei-4154-1962-11-28"},
+{"data": "1963-06-27", "nome": "Lei nº 4.239 de 27/06/1963", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1963/lei-4239-1963-06-27"},
+{"data": "1971-06-21", "nome": "Decreto nº 68.786 de 21/06/1971", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1971-06-21", "nome": "Lei nº 5.662 de 21/06/1971", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5662-1971-06-21"}
+],
+"controle": []
+}

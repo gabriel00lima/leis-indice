@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/2005/lei-11107-2005-04-06",
+"urn": "urn:lex:br:federal:lei:2005-04-06;11107",
+"consultado_em": "2026-11-04",
+"codigo": "570556",
+"nome": "Lei nº 11.107 de 06/04/2005",
+"apelidos": [
+"Lei de Consórcios Públicos (2005)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2005-04-07", "descricao": "Publicação Original [Diário Oficial da União de 07/04/2005] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2007-01-17", "nome": "Decreto nº 6.017 de 17/01/2007", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2010-08-02", "nome": "Lei nº 12.305 de 02/08/2010", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2010/lei-12305-2010-08-02"},
+{"data": "2019-05-03", "nome": "Lei nº 13.821 de 03/05/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14, Parágrafo Único", "art": "14", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2019/lei-13821-2019-05-03"},
+{"data": "2019-05-03", "nome": "Lei nº 13.822 de 03/05/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, § 2", "art": "6", "acao": "alterou"}], "id": "federal/leis-ordinarias/2019/lei-13822-2019-05-03"},
+{"data": "2020-07-15", "nome": "Lei nº 14.026 de 15/07/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 4", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 8, § 1", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 11, § 2", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 12, § 1", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 13, § 6", "art": "13", "acao": "revogou"}, {"dispositivo": "Art. 13, § 8", "art": "13", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2020/lei-14026-2020-07-15"},
+{"data": "2023-08-24", "nome": "Lei nº 14.662 de 24/08/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12, caput", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 12-A, caput", "art": "12-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14662-2023-08-24"}
+],
+"controle": []
+}

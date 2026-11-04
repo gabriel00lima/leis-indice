@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2004/lei-10997-2004-12-15",
+"urn": "urn:lex:br:federal:lei:2004-12-15;10997",
+"consultado_em": "2026-11-04",
+"codigo": "552873",
+"nome": "Lei nº 10.997 de 15/12/2004",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2004-12-16", "descricao": "Publicação Original [Diário Oficial da União de 16/12/2004] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2005-12-26", "nome": "Medida Provisória nº 272 de 26/12/2005", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 3, § 2", "art": "3", "acao": "alterou"}]},
+{"data": "2006-05-10", "nome": "Lei nº 11.302 de 10/05/2006", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 3, § 2", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2006/lei-11302-2006-05-10"},
+{"data": "2007-03-16", "nome": "Medida Provisória nº 359 de 16/03/2007", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "revogou"}]},
+{"data": "2007-07-11", "nome": "Lei nº 11.501 de 11/07/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}], "id": "federal/leis-ordinarias/2007/lei-11501-2007-07-11"},
+{"data": "2009-12-23", "nome": "Lei nº 12.155 de 23/12/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-12155-2009-12-23"}
+],
+"controle": []
+}

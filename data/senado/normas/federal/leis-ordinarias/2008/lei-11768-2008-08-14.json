@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11768-2008-08-14",
+"urn": "urn:lex:br:federal:lei:2008-08-14;11768",
+"consultado_em": "2026-11-04",
+"codigo": "582190",
+"nome": "Lei nº 11.768 de 14/08/2008",
+"apelidos": [
+"Lei de Diretrizes Orçamentárias (LDO) (2009)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-08-15", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 15/08/2008] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-03-27", "nome": "Decreto nº 6.808 de 27/03/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 5", "art": null, "acao": "alterou"}]},
+{"data": "2009-05-29", "nome": "Decreto nº 6.867 de 29/05/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 5", "art": null, "acao": "alterou"}]},
+{"data": "2009-10-09", "nome": "Lei nº 12.053 de 09/10/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 7, § 4, Inciso 4", "art": "7", "acao": "alterou"}, {"dispositivo": "Anexo 4", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-12053-2009-10-09"}
+],
+"controle": []
+}

@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1956/lei-2862-1956-09-04",
+"urn": "urn:lex:br:federal:lei:1956-09-04;2862",
+"consultado_em": "2026-11-04",
+"codigo": "544689",
+"nome": "Lei nº 2.862 de 04/09/1956",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1956-09-05", "descricao": "Publicação Original [Diário Oficial da União de 05/09/1956] (p. 16905, col. 1)"}
+],
+"alteracoes": [
+{"data": "1956-09-13", "nome": "Decreto nº 39.995 de 13/09/1956", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "regulamentou"}]},
+{"data": "1956-11-19", "nome": "Decreto nº 40.384 de 19/11/1956", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1956-12-22", "nome": "Lei nº 3.078 de 22/12/1956", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}], "id": "federal/leis-ordinarias/1956/lei-3078-1956-12-22"},
+{"data": "1956-12-31", "nome": "Decreto nº 40.702 de 31/12/1956", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "regulamentou"}]},
+{"data": "1962-11-28", "nome": "Lei nº 4.154 de 28/11/1962", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 27", "art": "27", "acao": "revogou"}], "id": "federal/leis-ordinarias/1962/lei-4154-1962-11-28"},
+{"data": "1968-04-25", "nome": "Lei nº 5.421 de 25/04/1968", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 27", "art": "27", "acao": "revogou"}], "id": "federal/leis-ordinarias/1968/lei-5421-1968-04-25"}
+],
+"controle": []
+}

@@ -1,0 +1,31 @@
+{
+"id": "federal/decretos-lei/1967/del-204-1967-02-27",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-27;204",
+"consultado_em": "2026-11-04",
+"codigo": "523049",
+"nome": "Decreto-Lei nº 204 de 27/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-27", "descricao": "Publicação Original [Diário Oficial da União de 27/02/1967] (p. 2349, col. 4)"}
+],
+"alteracoes": [
+{"data": "1967-03-14", "nome": "Decreto nº 60.501 de 14/03/1967", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1968-06-18", "nome": "Decreto nº 62.860 de 18/06/1968", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1968-11-05", "nome": "Lei nº 5.525 de 05/11/1968", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1968/lei-5525-1968-11-05"},
+{"data": "1969-07-24", "nome": "Decreto-Lei nº 701 de 24/07/1969", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1969/del-701-1969-07-24"},
+{"data": "1969-07-30", "nome": "Decreto-Lei nº 717 de 30/07/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-717-1969-07-30"},
+{"data": "1972-10-02", "nome": "Decreto-Lei nº 1.239 de 02/10/1972", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1972/del-1239-1972-10-02"},
+{"data": "1973-09-06", "nome": "Decreto-Lei nº 1.285 de 06/09/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1973/del-1285-1973-09-06"},
+{"data": "1977-07-07", "nome": "Lei nº 6.430 de 07/07/1977", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1977/lei-6430-1977-07-07"},
+{"data": "1979-11-12", "nome": "Lei nº 6.717 de 12/11/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6717-1979-11-12"},
+{"data": "2008-12-03", "nome": "Medida Provisória nº 449 de 03/12/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5, § 1", "art": "5", "acao": "alterou"}]},
+{"data": "2018-06-11", "nome": "Medida Provisória nº 841 de 11/06/2018", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 1", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4, caput", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, Parágrafo Único", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 5, § 1", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 5, § 2", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 5, § 3", "art": "5", "acao": "revogou"}]},
+{"data": "2018-12-12", "nome": "Lei nº 13.756 de 12/12/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 1", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4, caput", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, Parágrafo Único", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}], "id": "federal/leis-ordinarias/2018/lei-13756-2018-12-12"},
+{"data": "2023-12-29", "nome": "Lei nº 14.790 de 29/12/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 32, caput", "art": "32", "acao": "revogou"}, {"dispositivo": "Art. 32, § 1", "art": "32", "acao": "revogou"}, {"dispositivo": "Art. 32, § 2", "art": "32", "acao": "revogou"}], "id": "federal/leis-ordinarias/2023/lei-14790-2023-12-29"}
+],
+"controle": [
+{"data": "2020-09-30", "nome": "Acórdão da Arguição de Descumprimento de Preceito Fundamental nº 492 de 30/09/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "efeito": "constitucional", "texto": "Declarado Não Recepcionado pela Constituição"}, {"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "efeito": "constitucional", "texto": "Declarado Não Recepcionado pela Constituição"}, {"dispositivo": "Art. 32, caput", "art": "32", "efeito": "constitucional", "texto": "Declarado Não Recepcionado pela Constituição"}, {"dispositivo": "Art. 32, § 1", "art": "32", "efeito": "constitucional", "texto": "Declarado Não Recepcionado pela Constituição"}], "decisao": {"classe": "ADPF", "numero": "492"}},
+{"data": "2020-09-30", "nome": "Acórdão da Arguição de Descumprimento de Preceito Fundamental nº 493 de 30/09/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "efeito": "constitucional", "texto": "Declarado Não Recepcionado pela Constituição"}, {"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "efeito": "constitucional", "texto": "Declarado Não Recepcionado pela Constituição"}, {"dispositivo": "Art. 32, caput", "art": "32", "efeito": "constitucional", "texto": "Declarado Não Recepcionado pela Constituição"}, {"dispositivo": "Art. 32, § 1", "art": "32", "efeito": "constitucional", "texto": "Declarado Não Recepcionado pela Constituição"}], "decisao": {"classe": "ADPF", "numero": "493"}},
+{"data": "2020-09-30", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.986 de 30/09/2020", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 32, caput", "art": "32", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 32, § 1", "art": "32", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "4986"}}
+]
+}

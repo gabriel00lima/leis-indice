@@ -1,0 +1,28 @@
+{
+"id": "federal/leis-ordinarias/2007/lei-11529-2007-10-22",
+"urn": "urn:lex:br:federal:lei:2007-10-22;11529",
+"consultado_em": "2026-11-04",
+"codigo": "572681",
+"nome": "Lei nº 11.529 de 22/10/2007",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2007-10-23", "descricao": "Publicação Original [Diário Oficial da União de 23/10/2007] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2007-11-13", "nome": "Decreto nº 6.252 de 13/11/2007", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "regulamentou"}]},
+{"data": "2008-05-12", "nome": "Medida Provisória nº 429 de 12/05/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2008-09-25", "nome": "Lei nº 11.786 de 25/09/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2008/lei-11786-2008-09-25"},
+{"data": "2008-12-15", "nome": "Medida Provisória nº 451 de 15/12/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2009-06-04", "nome": "Lei nº 11.945 de 04/06/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-11945-2009-06-04"},
+{"data": "2011-08-02", "nome": "Medida Provisória nº 540 de 02/08/2011", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]},
+{"data": "2011-08-02", "nome": "Medida Provisória nº 541 de 02/08/2011", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 1", "art": "2", "acao": "alterou"}]},
+{"data": "2011-12-14", "nome": "Lei nº 12.545 de 14/12/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 1", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2011/lei-12545-2011-12-14"},
+{"data": "2011-12-14", "nome": "Lei nº 12.546 de 14/12/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2011/lei-12546-2011-12-14"},
+{"data": "2012-04-03", "nome": "Medida Provisória nº 564 de 03/04/2012", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 1", "art": "2", "acao": "alterou"}]},
+{"data": "2012-08-30", "nome": "Lei nº 12.712 de 30/08/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2012/lei-12712-2012-08-30"},
+{"data": "2012-12-06", "nome": "Medida Provisória nº 594 de 06/12/2012", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 6", "art": "2", "acao": "acrescentou"}]},
+{"data": "2013-05-16", "nome": "Lei nº 12.814 de 16/05/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 6", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12814-2013-05-16"}
+],
+"controle": []
+}

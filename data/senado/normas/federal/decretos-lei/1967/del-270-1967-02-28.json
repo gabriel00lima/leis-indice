@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1967/del-270-1967-02-28",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-28;270",
+"consultado_em": "2026-11-04",
+"codigo": "523180",
+"nome": "Decreto-Lei nº 270 de 28/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-28", "descricao": "Publicação Original [Diário Oficial da União de 28/02/1967] (p. 2459, col. 4)"}
+],
+"alteracoes": [
+{"data": "1968-01-11", "nome": "Decreto nº 62.105 de 11/01/1968", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1969-07-15", "nome": "Decreto-Lei nº 683 de 15/07/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-683-1969-07-15"},
+{"data": "1973-09-10", "nome": "Lei nº 5.917 de 10/09/1973", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-5917-1973-09-10"},
+{"data": "1973-12-17", "nome": "Lei nº 5.989 de 17/12/1973", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 5, Parágrafo Único", "art": "5", "acao": "revogou"}], "id": "federal/leis-ordinarias/1973/lei-5989-1973-12-17"},
+{"data": "1973-12-26", "nome": "Lei nº 6.009 de 26/12/1973", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11, § 6", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 11, § 7", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 11, § 8", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 12, § 1", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 12, § 2", "art": "12", "acao": "revogou"}], "id": "federal/leis-ordinarias/1973/lei-6009-1973-12-26"}
+],
+"controle": []
+}

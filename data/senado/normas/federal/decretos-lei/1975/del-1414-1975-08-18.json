@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1975/del-1414-1975-08-18",
+"urn": "urn:lex:br:federal:decreto.lei:1975-08-18;1414",
+"consultado_em": "2026-11-04",
+"codigo": "525450",
+"nome": "Decreto-Lei nº 1.414 de 18/08/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-08-19", "descricao": "Publicação Original [Diário Oficial da União de 19/08/1975] (p. 10481, col. 1)"}
+],
+"alteracoes": [
+{"data": "1975-10-02", "nome": "Decreto Legislativo nº 83 de 02/10/1975", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1975-11-28", "nome": "Decreto nº 76.694 de 28/11/1975", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1981-06-29", "nome": "Lei nº 6.925 de 29/06/1981", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}], "id": "federal/leis-ordinarias/1981/lei-6925-1981-06-29"},
+{"data": "2015-10-22", "nome": "Lei nº 13.178 de 22/10/2015", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2015/lei-13178-2015-10-22"}
+],
+"controle": []
+}

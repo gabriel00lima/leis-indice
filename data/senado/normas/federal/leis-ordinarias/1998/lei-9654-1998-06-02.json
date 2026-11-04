@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/1998/lei-9654-1998-06-02",
+"urn": "urn:lex:br:federal:lei:1998-06-02;9654",
+"consultado_em": "2026-11-04",
+"codigo": "551530",
+"nome": "Lei nº 9.654 de 02/06/1998",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1998-06-03", "descricao": "Publicação Original [Diário Oficial da União de 03/06/1998] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2004-09-09", "nome": "Medida Provisória nº 212 de 09/09/2004", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 1", "art": "4", "acao": "alterou"}]},
+{"data": "2005-01-13", "nome": "Lei nº 11.095 de 13/01/2005", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 1", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2005/lei-11095-2005-01-13"},
+{"data": "2006-06-29", "nome": "Medida Provisória nº 305 de 29/06/2006", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}]},
+{"data": "2006-10-19", "nome": "Lei nº 11.358 de 19/10/2006", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2006/lei-11358-2006-10-19"},
+{"data": "2008-05-14", "nome": "Medida Provisória nº 431 de 14/05/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}]},
+{"data": "2008-09-22", "nome": "Lei nº 11.784 de 22/09/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2008/lei-11784-2008-09-22"},
+{"data": "2010-06-21", "nome": "Lei nº 12.269 de 21/06/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2010/lei-12269-2010-06-21"},
+{"data": "2012-12-28", "nome": "Lei nº 12.775 de 28/12/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 3, § 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, § 3", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Anexo 2-A", "art": null, "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2012/lei-12775-2012-12-28"},
+{"data": "2024-05-31", "nome": "Lei nº 14.875 de 31/05/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 7, Parágrafo Único", "art": "7", "acao": "vetado"}], "id": "federal/leis-ordinarias/2024/lei-14875-2024-05-31"}
+],
+"controle": []
+}

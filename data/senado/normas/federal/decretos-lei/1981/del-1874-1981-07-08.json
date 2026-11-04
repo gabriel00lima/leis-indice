@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1981/del-1874-1981-07-08",
+"urn": "urn:lex:br:federal:decreto.lei:1981-07-08;1874",
+"consultado_em": "2026-11-04",
+"codigo": "526357",
+"nome": "Decreto-Lei nº 1.874 de 08/07/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-07-09", "descricao": "Publicação Original [Diário Oficial da União de 09/07/1981] (p. 12797, col. 1)"}
+],
+"alteracoes": [
+{"data": "1981-11-06", "nome": "Decreto-Lei nº 1.888 de 06/11/1981", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1981/del-1888-1981-11-06"},
+{"data": "1982-03-11", "nome": "Decreto Legislativo nº 3 de 11/03/1982", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1985-07-02", "nome": "Lei nº 7.333 de 02/07/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7333-1985-07-02"},
+{"data": "1985-12-17", "nome": "Lei nº 7.419 de 17/12/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7419-1985-12-17"},
+{"data": "1986-06-04", "nome": "Decreto nº 92.748 de 04/06/1986", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

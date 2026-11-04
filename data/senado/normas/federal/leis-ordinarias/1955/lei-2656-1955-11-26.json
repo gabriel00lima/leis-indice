@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1955/lei-2656-1955-11-26",
+"urn": "urn:lex:br:federal:lei:1955-11-26;2656",
+"consultado_em": "2026-11-04",
+"codigo": "544467",
+"nome": "Lei nº 2.656 de 26/11/1955",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1955-11-30", "descricao": "Publicação Original [Diário Oficial da União de 30/11/1955] (p. 21881, col. 1)"}
+],
+"alteracoes": [
+{"data": "1956-12-28", "nome": "Lei nº 3.083 de 28/12/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-3083-1956-12-28"},
+{"data": "1960-07-12", "nome": "Lei nº 3.780 de 12/07/1960", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1960/lei-3780-1960-07-12"}
+],
+"controle": []
+}

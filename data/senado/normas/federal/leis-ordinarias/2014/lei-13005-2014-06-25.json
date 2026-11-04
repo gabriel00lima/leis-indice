@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/2014/lei-13005-2014-06-25",
+"urn": "urn:lex:br:federal:lei:2014-06-25;13005",
+"consultado_em": "2026-11-04",
+"codigo": "584816",
+"nome": "Lei nº 13.005 de 25/06/2014",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2014-06-26", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 26/06/2014 - nº 120-A] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2016-05-09", "nome": "Decreto nº 8.752 de 09/05/2016", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2019-04-11", "nome": "Decreto nº 9.765 de 11/04/2019", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2019-09-05", "nome": "Decreto nº 10.004 de 05/09/2019", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2021-07-01", "nome": "Lei nº 14.180 de 01/07/2021", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14180-2021-07-01"},
+{"data": "2023-07-19", "nome": "Lei nº 14.627 de 19/07/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2023/lei-14627-2023-07-19"},
+{"data": "2023-09-11", "nome": "Decreto nº 11.697 de 11/09/2023", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "correlato"}]},
+{"data": "2024-07-25", "nome": "Lei nº 14.934 de 25/07/2024", "tipo": "Prorrogação de Vigência Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14934-2024-07-25"}
+],
+"controle": [
+{"data": "2024-06-28", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.668 de 28/06/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}], "decisao": {"classe": "ADI", "numero": "5668"}}
+]
+}

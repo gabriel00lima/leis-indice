@@ -1,0 +1,28 @@
+{
+"id": "federal/leis-ordinarias/2001/lei-10225-2001-05-15",
+"urn": "urn:lex:br:federal:lei:2001-05-15;10225",
+"consultado_em": "2026-11-04",
+"codigo": "552101",
+"nome": "Lei nº 10.225 de 15/05/2001",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2001-05-16", "descricao": "Publicação Original [Diário Oficial da União de 16/05/2001] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2001-10-17", "nome": "Decreto nº 3.973 de 17/10/2001", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2006-06-29", "nome": "Medida Provisória nº 301 de 29/06/2006", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 9, § 2", "art": "9", "acao": "alterou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}]},
+{"data": "2006-07-06", "nome": "Lei nº 11.319 de 06/07/2006", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2006/lei-11319-2006-07-06"},
+{"data": "2006-10-19", "nome": "Lei nº 11.355 de 19/10/2006", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 9, § 2", "art": "9", "acao": "alterou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2006/lei-11355-2006-10-19"},
+{"data": "2008-08-29", "nome": "Medida Provisória nº 441 de 29/08/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}]},
+{"data": "2009-02-02", "nome": "Lei nº 11.907 de 02/02/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-11907-2009-02-02"},
+{"data": "2010-06-30", "nome": "Lei nº 12.277 de 30/06/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9, Parágrafo Único", "art": "9", "acao": "acrescentou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2010/lei-12277-2010-06-30"},
+{"data": "2011-12-21", "nome": "Decreto nº 7.645 de 21/12/2011", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "regulamentou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "regulamentou"}]},
+{"data": "2012-12-28", "nome": "Lei nº 12.778 de 28/12/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9, § 1", "art": "9", "acao": "acrescentou"}, {"dispositivo": "Art. 9, § 2", "art": "9", "acao": "acrescentou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2012/lei-12778-2012-12-28"},
+{"data": "2016-07-29", "nome": "Lei nº 13.324 de 29/07/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2016/lei-13324-2016-07-29"},
+{"data": "2023-04-28", "nome": "Medida Provisória nº 1.170 de 28/04/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}]},
+{"data": "2023-09-14", "nome": "Lei nº 14.673 de 14/09/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2023/lei-14673-2023-09-14"},
+{"data": "2024-12-31", "nome": "Medida Provisória nº 1.286 de 31/12/2024", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}]},
+{"data": "2025-06-02", "nome": "Lei nº 15.141 de 02/06/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2025/lei-15141-2025-06-02"}
+],
+"controle": []
+}

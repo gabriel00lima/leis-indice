@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/1935/lei-91-1935-08-28",
+"urn": "urn:lex:br:federal:lei:1935-08-28;91",
+"consultado_em": "2026-11-04",
+"codigo": "541035",
+"nome": "Lei nº 91 de 28/08/1935",
+"apelidos": [
+"Lei de Declaração de Utilidade Pública (1935)"
+],
+"publicacoes": [
+{"tipo": "REP", "data": "1935-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1935 - vol. 001] (p. 189, col. 1)"}
+],
+"alteracoes": [
+{"data": "1961-05-02", "nome": "Decreto nº 50.517 de 02/05/1961", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1979-05-08", "nome": "Lei nº 6.639 de 08/05/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Alínea c", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1979/lei-6639-1979-05-08"},
+{"data": "2000-04-19", "nome": "Decreto nº 3.415 de 19/04/2000", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2015-07-28", "nome": "Lei nº 13.151 de 28/07/2015", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2015/lei-13151-2015-07-28"},
+{"data": "2015-12-14", "nome": "Lei nº 13.204 de 14/12/2015", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2015/lei-13204-2015-12-14"}
+],
+"controle": []
+}

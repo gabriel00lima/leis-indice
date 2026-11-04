@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1981/del-1861-1981-02-25",
+"urn": "urn:lex:br:federal:decreto.lei:1981-02-25;1861",
+"consultado_em": "2026-11-04",
+"codigo": "526331",
+"nome": "Decreto-Lei nº 1.861 de 25/02/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-02-26", "descricao": "Publicação Original [Diário Oficial da União de 26/02/1981] (p. 4005, col. 1)"}
+],
+"alteracoes": [
+{"data": "1981-03-25", "nome": "Decreto-Lei nº 1.867 de 25/03/1981", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1981/del-1867-1981-03-25"},
+{"data": "1981-10-08", "nome": "Decreto Legislativo nº 54 de 08/10/1981", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1982-06-01", "nome": "Decreto-Lei nº 1.943 de 01/06/1982", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/decretos-lei/1982/del-1943-1982-06-01"},
+{"data": "1986-12-30", "nome": "Decreto-Lei nº 2.318 de 30/12/1986", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}], "id": "federal/decretos-lei/1986/del-2318-1986-12-30"}
+],
+"controle": []
+}

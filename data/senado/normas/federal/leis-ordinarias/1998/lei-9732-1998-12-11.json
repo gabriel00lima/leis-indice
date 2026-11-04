@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/1998/lei-9732-1998-12-11",
+"urn": "urn:lex:br:federal:lei:1998-12-11;9732",
+"consultado_em": "2026-11-04",
+"codigo": "551608",
+"nome": "Lei nº 9.732 de 11/12/1998",
+"apelidos": [
+"Lei das Instituições Filantrópicas (1998)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1998-12-14", "descricao": "Publicação Original [Diário Oficial da União de 14/12/1998] (p. 4, col. 1)"}
+],
+"alteracoes": [
+{"data": "2008-11-07", "nome": "Medida Provisória nº 446 de 07/11/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]},
+{"data": "2009-11-27", "nome": "Lei nº 12.101 de 27/11/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2009/lei-12101-2009-11-27"}
+],
+"controle": [
+{"data": "2017-03-02", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.028 de 02/03/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade de Parte do Texto"}, {"dispositivo": "Art. 4, caput", "art": "4", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}, {"dispositivo": "Art. 5, caput", "art": "5", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}, {"dispositivo": "Art. 7, caput", "art": "7", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}], "decisao": {"classe": "ADI", "numero": "2028"}},
+{"data": "2017-03-02", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.036 de 02/03/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade de Parte do Texto"}, {"dispositivo": "Art. 4, caput", "art": "4", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}, {"dispositivo": "Art. 5, caput", "art": "5", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}, {"dispositivo": "Art. 7, caput", "art": "7", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}], "decisao": {"classe": "ADI", "numero": "2036"}}
+]
+}

@@ -1,0 +1,41 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7738-1989-03-09",
+"urn": "urn:lex:br:federal:lei:1989-03-09;7738",
+"consultado_em": "2026-11-04",
+"codigo": "549614",
+"nome": "Lei nº 7.738 de 09/03/1989",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-03-10", "descricao": "Publicação Original [Diário Oficial da União de 10/03/1989] (p. 3737, col. 1)"}
+],
+"alteracoes": [
+{"data": "1989-03-30", "nome": "Medida Provisória nº 44 de 30/03/1989", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}]},
+{"data": "1989-04-27", "nome": "Medida Provisória nº 51 de 27/04/1989", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "ressalvou"}]},
+{"data": "1989-05-02", "nome": "Lei nº 7.764 de 02/05/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}], "id": "federal/leis-ordinarias/1989/lei-7764-1989-05-02"},
+{"data": "1989-05-11", "nome": "Medida Provisória nº 54 de 11/05/1989", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}]},
+{"data": "1989-05-26", "nome": "Lei nº 7.769 de 26/05/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/1989/lei-7769-1989-05-26"},
+{"data": "1989-05-30", "nome": "Decreto nº 97.793 de 30/05/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 30, Parágrafo Único", "art": "30", "acao": "alterou"}]},
+{"data": "1989-06-01", "nome": "Medida Provisória nº 63 de 01/06/1989", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 28", "art": "28", "acao": "alterou"}]},
+{"data": "1989-06-08", "nome": "Lei nº 7.774 de 08/06/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}], "id": "federal/leis-ordinarias/1989/lei-7774-1989-06-08"},
+{"data": "1989-06-30", "nome": "Lei nº 7.787 de 30/06/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 28", "art": "28", "acao": "alterou"}], "id": "federal/leis-ordinarias/1989/lei-7787-1989-06-30"},
+{"data": "1989-07-10", "nome": "Lei nº 7.799 de 10/07/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/1989/lei-7799-1989-07-10"},
+{"data": "1989-07-11", "nome": "Lei nº 7.801 de 11/07/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}], "id": "federal/leis-ordinarias/1989/lei-7801-1989-07-11"},
+{"data": "1989-09-22", "nome": "Medida Provisória nº 86 de 22/09/1989", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 28", "art": "28", "acao": "alterou"}]},
+{"data": "1989-10-24", "nome": "Lei nº 7.856 de 24/10/1989", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7856-1989-10-24"},
+{"data": "1989-10-24", "nome": "Medida Provisória nº 99 de 24/10/1989", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 28", "art": "28", "acao": "alterou"}]},
+{"data": "1989-11-24", "nome": "Lei nº 7.894 de 24/11/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 28", "art": "28", "acao": "alterou"}], "id": "federal/leis-ordinarias/1989/lei-7894-1989-11-24"},
+{"data": "1989-11-28", "nome": "Medida Provisória nº 114 de 28/11/1989", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 30, Parágrafo Único", "art": "30", "acao": "alterou"}]},
+{"data": "1989-12-21", "nome": "Lei nº 7.959 de 21/12/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 30, Parágrafo Único", "art": "30", "acao": "alterou"}], "id": "federal/leis-ordinarias/1989/lei-7959-1989-12-21"},
+{"data": "1990-09-18", "nome": "Medida Provisória nº 225 de 18/09/1990", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 28", "art": "28", "acao": "alterou"}]},
+{"data": "1990-10-19", "nome": "Medida Provisória nº 249 de 19/10/1990", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 28", "art": "28", "acao": "alterou"}]},
+{"data": "1990-12-12", "nome": "Lei nº 8.114 de 12/12/1990", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1990/lei-8114-1990-12-12"},
+{"data": "1990-12-13", "nome": "Medida Provisória nº 279 de 13/12/1990", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 28", "art": "28", "acao": "alterou"}]},
+{"data": "1990-12-28", "nome": "Lei nº 8.147 de 28/12/1990", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 28", "art": "28", "acao": "alterou"}], "id": "federal/leis-ordinarias/1990/lei-8147-1990-12-28"},
+{"data": "1999-06-08", "nome": "Medida Provisória nº 1.829 de 08/06/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 12, § 2", "art": "12", "acao": "alterou"}]},
+{"data": "1999-06-29", "nome": "Medida Provisória nº 1.830-1 de 29/06/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 12, § 2", "art": "12", "acao": "alterou"}]},
+{"data": "1999-07-27", "nome": "Medida Provisória nº 1.830-2 de 27/07/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 12, § 2", "art": "12", "acao": "alterou"}]},
+{"data": "1999-08-23", "nome": "Lei nº 9.813 de 23/08/1999", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12, § 2", "art": "12", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/1999/lei-9813-1999-08-23"},
+{"data": "2021-12-29", "nome": "Lei nº 14.286 de 29/12/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}], "id": "federal/leis-ordinarias/2021/lei-14286-2021-12-29"}
+],
+"controle": []
+}

@@ -1,0 +1,38 @@
+{
+"id": "federal/leis-ordinarias/2019/lei-13874-2019-09-20",
+"urn": "urn:lex:br:federal:lei:2019-09-20;13874",
+"consultado_em": "2026-11-04",
+"codigo": "31412289",
+"nome": "Lei nº 13.874 de 20/09/2019",
+"apelidos": [
+"Lei de Liberdade Econômica (2019)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2019-09-20", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 20/09/2019 - nº 183-B] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2019-09-20", "nome": "Mensagem de Veto Parcial nº 438 de 20/09/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-09-20", "nome": "Mensagem de Veto Parcial nº 438 de 20/09/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 7", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, caput, Inciso 11, Alínea a", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, § 9", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 19, § 4", "art": "19", "acao": "veto"}, {"dispositivo": "Art. 20, caput, Inciso 1", "art": "20", "acao": "veto"}]},
+{"data": "2019-09-20", "nome": "Mensagem de Veto Parcial nº 438 de 20/09/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-09-20", "nome": "Mensagem de Veto Parcial nº 438 de 20/09/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-09-20", "nome": "Mensagem de Veto Parcial nº 438 de 20/09/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-09-20", "nome": "Mensagem de Veto Parcial nº 438 de 20/09/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-12-18", "nome": "Decreto nº 10.178 de 18/12/2019", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 1", "art": "3", "acao": "regulamentou"}, {"dispositivo": "Art. 3, caput, Inciso 9", "art": "3", "acao": "regulamentou"}, {"dispositivo": "Art. 3, § 1, Inciso 1", "art": "3", "acao": "regulamentou"}, {"dispositivo": "Art. 3, § 8", "art": "3", "acao": "regulamentou"}]},
+{"data": "2019-12-27", "nome": "Medida Provisória nº 915 de 27/12/2019", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2019-12-27", "nome": "Medida Provisória nº 915 de 27/12/2019", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2019-12-27", "nome": "Medida Provisória nº 915 de 27/12/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, § 4", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, § 12", "art": "3", "acao": "acrescentou"}]},
+{"data": "2020-02-05", "nome": "Decreto nº 10.229 de 05/02/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 6", "art": "3", "acao": "regulamentou"}]},
+{"data": "2020-03-18", "nome": "Decreto nº 10.278 de 18/03/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 10", "art": "3", "acao": "regulamentou"}]},
+{"data": "2020-06-10", "nome": "Lei nº 14.011 de 10/06/2020", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2020/lei-14011-2020-06-10"},
+{"data": "2020-06-10", "nome": "Lei nº 14.011 de 10/06/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 4", "art": "3", "acao": "revogou"}], "id": "federal/leis-ordinarias/2020/lei-14011-2020-06-10"},
+{"data": "2020-06-10", "nome": "Lei nº 14.011 de 10/06/2020", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2020/lei-14011-2020-06-10"},
+{"data": "2020-06-30", "nome": "Decreto nº 10.411 de 30/06/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "regulamentou"}]},
+{"data": "2021-08-26", "nome": "Lei nº 14.195 de 26/08/2021", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14195-2021-08-26"},
+{"data": "2021-08-26", "nome": "Lei nº 14.195 de 26/08/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 3", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4-A", "art": "4-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2021/lei-14195-2021-08-26"},
+{"data": "2021-08-26", "nome": "Lei nº 14.195 de 26/08/2021", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "correlato"}], "id": "federal/leis-ordinarias/2021/lei-14195-2021-08-26"},
+{"data": "2021-12-30", "nome": "Medida Provisória nº 1.090 de 30/12/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 13", "art": "13", "acao": "revogou"}]},
+{"data": "2022-06-21", "nome": "Lei nº 14.375 de 21/06/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 13", "art": "13", "acao": "revogou"}], "id": "federal/leis-ordinarias/2022/lei-14375-2022-06-21"},
+{"data": "2022-09-26", "nome": "Decreto nº 11.205 de 26/09/2022", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

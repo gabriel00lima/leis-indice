@@ -1,0 +1,25 @@
+{
+"id": "federal/emendas-constitucionais/1998/emc-20-1998-12-15",
+"urn": "urn:lex:br:federal:emenda.constitucional:1998-12-15;20",
+"consultado_em": "2026-11-04",
+"codigo": "540615",
+"nome": "Emenda Constitucional nº 20 de 15/12/1998",
+"apelidos": [
+"PEC DA REFORMA PREVIDENCIÁRIA"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1998-12-16", "descricao": "Publicação Original [Diário Oficial da União de 16/12/1998] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2003-12-19", "nome": "Emenda Constitucional nº 41 de 19/12/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}], "id": "federal/emendas-constitucionais/2003/emc-41-2003-12-19"},
+{"data": "2003-12-19", "nome": "Emenda Constitucional nº 41 de 19/12/2003", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/emendas-constitucionais/2003/emc-41-2003-12-19"},
+{"data": "2019-11-12", "nome": "Emenda Constitucional nº 103 de 12/11/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "revogou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "revogou"}], "id": "federal/emendas-constitucionais/2019/emc-103-2019-11-12"}
+],
+"controle": [
+{"data": "2023-05-12", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 3.308 de 12/05/2023", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "3308"}},
+{"data": "2023-05-12", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 3.363 de 12/05/2023", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "3363"}},
+{"data": "2023-05-12", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 3.998 de 12/05/2023", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "3998"}},
+{"data": "2023-05-12", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.802 de 12/05/2023", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "4802"}},
+{"data": "2023-05-12", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.803 de 12/05/2023", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "4803"}}
+]
+}

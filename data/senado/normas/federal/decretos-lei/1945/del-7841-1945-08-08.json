@@ -1,0 +1,20 @@
+{
+"id": "federal/decretos-lei/1945/del-7841-1945-08-08",
+"urn": "urn:lex:br:federal:decreto.lei:1945-08-08;7841",
+"consultado_em": "2026-11-04",
+"codigo": "532889",
+"nome": "Decreto-Lei nº 7.841 de 08/08/1945",
+"apelidos": [
+"Código de Águas Minerais (1945) (CAM)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1945-08-20", "descricao": "Publicação Original [Diário Oficial da União de 20/08/1945] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "1964-10-08", "nome": "Lei nº 4.425 de 08/10/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4425-1964-10-08"},
+{"data": "1979-11-21", "nome": "Lei nº 6.726 de 21/11/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 27, Parágrafo Único", "art": "27", "acao": "alterou"}], "id": "federal/leis-ordinarias/1979/lei-6726-1979-11-21"},
+{"data": "1985-07-22", "nome": "Decreto nº 91.454 de 22/07/1985", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-09-17", "nome": "Decreto de 17/09/1993", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "correlato"}]}
+],
+"controle": []
+}

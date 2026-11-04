@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1884/lei-3229-1884-09-03",
+"urn": "urn:lex:br:federal:lei:1884-09-03;3229",
+"consultado_em": "2026-11-04",
+"codigo": "545001",
+"nome": "Lei nº 3.229 de 03/09/1884",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1884-12-31", "descricao": "Publicação Original [Coleção de Leis do Império do Brasil de 31/12/1884 - vol. 001] (p. 5, col. 1)"}
+],
+"alteracoes": [
+{"data": "1885-09-28", "nome": "Decreto do Poder Legislativo nº 3.271 de 28/09/1885", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1886-10-16", "nome": "Lei nº 3.313 de 16/10/1886", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}], "id": "federal/leis-ordinarias/1886/lei-3313-1886-10-16"}
+],
+"controle": []
+}

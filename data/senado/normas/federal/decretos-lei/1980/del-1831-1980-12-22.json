@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1980/del-1831-1980-12-22",
+"urn": "urn:lex:br:federal:decreto.lei:1980-12-22;1831",
+"consultado_em": "2026-11-04",
+"codigo": "526271",
+"nome": "Decreto-Lei nº 1.831 de 22/12/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-12-23", "descricao": "Publicação Original [Diário Oficial da União de 23/12/1980] (p. 25736, col. 1)"}
+],
+"alteracoes": [
+{"data": "1981-06-17", "nome": "Decreto Legislativo nº 25 de 17/06/1981", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1981-09-02", "nome": "Decreto-Lei nº 1.883 de 02/09/1981", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}], "id": "federal/decretos-lei/1981/del-1883-1981-09-02"},
+{"data": "1981-12-23", "nome": "Decreto-Lei nº 1.905 de 23/12/1981", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1981/del-1905-1981-12-23"}
+],
+"controle": []
+}

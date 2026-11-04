@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1944/del-7036-1944-11-10",
+"urn": "urn:lex:br:federal:decreto.lei:1944-11-10;7036",
+"consultado_em": "2026-11-04",
+"codigo": "532136",
+"nome": "Decreto-Lei nº 7.036 de 10/11/1944",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1944-11-13", "descricao": "Publicação Original [Diário Oficial da União de 13/11/1944] (p. 19241, col. 1)"},
+{"tipo": "REP", "data": "1944-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1944 - vol. 007] (p. 108, col. 1)"}
+],
+"alteracoes": [
+{"data": "1945-05-07", "nome": "Decreto-Lei nº 7.527 de 07/05/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-7527-1945-05-07"},
+{"data": "1948-12-26", "nome": "Lei nº 599-A de 26/12/1948", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 22", "art": "22", "acao": "alterou"}, {"dispositivo": "Art. 23", "art": "23", "acao": "alterou"}, {"dispositivo": "Art. 44", "art": "44", "acao": "alterou"}, {"dispositivo": "Art. 95", "art": "95", "acao": "alterou"}, {"dispositivo": "Art. 112", "art": "112", "acao": "alterou"}], "id": "federal/leis-ordinarias/1948/lei-599-a-1948-12-26"}
+],
+"controle": []
+}

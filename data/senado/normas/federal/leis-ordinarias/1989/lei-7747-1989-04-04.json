@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7747-1989-04-04",
+"urn": "urn:lex:br:federal:lei:1989-04-04;7747",
+"consultado_em": "2026-11-04",
+"codigo": "549623",
+"nome": "Lei nº 7.747 de 04/04/1989",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-04-07", "descricao": "Publicação Original [Diário Oficial da União de 07/04/1989] (p. 5297, col. 1)"}
+],
+"alteracoes": [
+{"data": "1989-05-02", "nome": "Lei nº 7.764 de 02/05/1989", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7764-1989-05-02"},
+{"data": "1989-06-19", "nome": "Decreto nº 97.840 de 19/06/1989", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "regulamentou"}, {"dispositivo": "Art. 3, § 1", "art": "3", "acao": "regulamentou"}]},
+{"data": "1989-07-11", "nome": "Lei nº 7.801 de 11/07/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/1989/lei-7801-1989-07-11"}
+],
+"controle": []
+}

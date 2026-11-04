@@ -1,0 +1,24 @@
+{
+"id": "federal/decretos-lei/1966/del-72-1966-11-21",
+"urn": "urn:lex:br:federal:decreto.lei:1966-11-21;72",
+"consultado_em": "2026-11-04",
+"codigo": "522786",
+"nome": "Decreto-Lei nº 72 de 21/11/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-22", "descricao": "Publicação Original [Diário Oficial da União de 22/11/1966] (p. 13523, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-12-26", "nome": "Decreto nº 59.875 de 26/12/1966", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1967-01-23", "nome": "Decreto-Lei nº 110 de 23/01/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/decretos-lei/1967/del-110-1967-01-23"},
+{"data": "1967-01-31", "nome": "Decreto-Lei nº 129 de 31/01/1967", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1967/del-129-1967-01-31"},
+{"data": "1967-04-24", "nome": "Decreto nº 60.612 de 24/04/1967", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1969-07-28", "nome": "Decreto-Lei nº 710 de 28/07/1969", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1969/del-710-1969-07-28"},
+{"data": "1969-09-11", "nome": "Decreto-Lei nº 854 de 11/09/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-854-1969-09-11"},
+{"data": "1973-01-31", "nome": "Decreto nº 71.782 de 31/01/1973", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1973-06-08", "nome": "Lei nº 5.890 de 08/06/1973", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "alterou"}, {"dispositivo": "Art. 14", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 25", "art": "25", "acao": "alterou"}], "id": "federal/leis-ordinarias/1973/lei-5890-1973-06-08"},
+{"data": "1975-12-15", "nome": "Lei nº 6.309 de 15/12/1975", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 13, § 1", "art": "13", "acao": "alterou"}, {"dispositivo": "Art. 23", "art": "23", "acao": "alterou"}, {"dispositivo": "Art. 23, § 1", "art": "23", "acao": "alterou"}, {"dispositivo": "Art. 23, § 2", "art": "23", "acao": "alterou"}, {"dispositivo": "Art. 25, § 1", "art": "25", "acao": "revogou"}, {"dispositivo": "Art. 25, § 2", "art": "25", "acao": "revogou"}], "id": "federal/leis-ordinarias/1975/lei-6309-1975-12-15"},
+{"data": "2025-11-12", "nome": "Lei nº 15.257 de 12/11/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, caput", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 6, caput, Inciso 1", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 6, caput, Inciso 2", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 6, Parágrafo Único", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "revogou"}, {"dispositivo": "Art. 14, caput", "art": "14", "acao": "revogou"}, {"dispositivo": "Art. 14, § 1", "art": "14", "acao": "revogou"}, {"dispositivo": "Art. 14, § 2", "art": "14", "acao": "revogou"}, {"dispositivo": "Art. 15, caput", "art": "15", "acao": "revogou"}, {"dispositivo": "Art. 15, Parágrafo Único", "art": "15", "acao": "revogou"}, {"dispositivo": "Art. 25, § 1", "art": "25", "acao": "revogou"}, {"dispositivo": "Art. 25, § 2", "art": "25", "acao": "revogou"}, {"dispositivo": "Art. 39, caput", "art": "39", "acao": "revogou"}], "id": "federal/leis-ordinarias/2025/lei-15257-2025-11-12"}
+],
+"controle": []
+}

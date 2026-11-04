@@ -1,0 +1,44 @@
+{
+"id": "federal/leis-ordinarias/2007/lei-11578-2007-11-26",
+"urn": "urn:lex:br:federal:lei:2007-11-26;11578",
+"consultado_em": "2026-11-04",
+"codigo": "569417",
+"nome": "Lei nº 11.578 de 26/11/2007",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2007-11-27", "descricao": "Publicação Original [Diário Oficial da União de 27/11/2007] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2007-11-28", "nome": "Decreto nº 6.276 de 28/11/2007", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2008-12-15", "nome": "Decreto nº 6.694 de 15/12/2008", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "regulamentou"}]},
+{"data": "2008-12-29", "nome": "Decreto nº 6.714 de 29/12/2008", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "regulamentou"}]},
+{"data": "2009-06-08", "nome": "Decreto nº 6.876 de 08/06/2009", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "regulamentou"}, {"dispositivo": "Art. 3, § 1", "art": "3", "acao": "regulamentou"}]},
+{"data": "2011-05-24", "nome": "Decreto nº 7.488 de 24/05/2011", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "regulamentou"}]},
+{"data": "2011-11-24", "nome": "Decreto nº 7.625 de 24/11/2011", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "regulamentou"}]},
+{"data": "2011-12-28", "nome": "Decreto nº 7.662 de 28/12/2011", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "regulamentou"}]},
+{"data": "2012-03-08", "nome": "Medida Provisória nº 561 de 08/03/2012", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 7-A", "art": "7-a", "acao": "acrescentou"}, {"dispositivo": "Art. 7-B", "art": "7-b", "acao": "acrescentou"}]},
+{"data": "2012-07-24", "nome": "Lei nº 12.693 de 24/07/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7-A", "art": "7-a", "acao": "acrescentou"}, {"dispositivo": "Art. 7-B", "art": "7-b", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2012/lei-12693-2012-07-24"},
+{"data": "2012-09-14", "nome": "Medida Provisória nº 580 de 14/09/2012", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3-A", "art": "3-a", "acao": "alterou"}]},
+{"data": "2012-11-09", "nome": "Decreto nº 7.836 de 09/11/2012", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "regulamentou"}]},
+{"data": "2012-12-19", "nome": "Decreto nº 7.868 de 19/12/2012", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "regulamentou"}]},
+{"data": "2012-12-19", "nome": "Lei nº 12.745 de 19/12/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3-A", "art": "3-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2012/lei-12745-2012-12-19"},
+{"data": "2013-01-15", "nome": "Decreto nº 7.889 de 15/01/2013", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 3-A", "art": "3-a", "acao": "regulamentou"}]},
+{"data": "2013-12-12", "nome": "Decreto nº 8.152 de 12/12/2013", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "regulamentou"}]},
+{"data": "2014-03-13", "nome": "Decreto nº 8.206 de 13/03/2014", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2015-08-25", "nome": "Decreto nº 8.509 de 25/08/2015", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2015-12-29", "nome": "Decreto nº 8.617 de 29/12/2015", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 3, § 1", "art": "3", "acao": "correlato"}]},
+{"data": "2016-01-29", "nome": "Decreto nº 8.659 de 29/01/2016", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2016-12-08", "nome": "Decreto nº 8.926 de 08/12/2016", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "regulamentou"}]},
+{"data": "2017-07-12", "nome": "Medida Provisória nº 786 de 12/07/2017", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A, caput", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-A, caput, Inciso 1", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-A, caput, Inciso 2", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-B, caput", "art": "2-b", "acao": "acrescentou"}]},
+{"data": "2017-09-06", "nome": "Decreto nº 9.154 de 06/09/2017", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2017-12-04", "nome": "Lei nº 13.529 de 04/12/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2-A, caput", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-A, caput, Inciso 1", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-A, caput, Inciso 2", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-B, caput", "art": "2-b", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2017/lei-13529-2017-12-04"},
+{"data": "2018-07-04", "nome": "Decreto nº 9.441 de 04/07/2018", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2019-09-05", "nome": "Decreto nº 10.012 de 05/09/2019", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "com novo tratamento da matéria"}]},
+{"data": "2023-08-11", "nome": "Decreto nº 11.632 de 11/08/2023", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2023-12-26", "nome": "Decreto nº 11.855 de 26/12/2023", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "regulamentou"}]},
+{"data": "2026-06-17", "nome": "Lei nº 15.436 de 17/06/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7-C, caput", "art": "7-c", "acao": "acrescentou"}, {"dispositivo": "Art. 7-D, caput", "art": "7-d", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15436-2026-06-17"}
+],
+"controle": [
+{"data": "2020-04-30", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 3.967 de 30/04/2020", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 2", "art": "2", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 3", "art": "3", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 4", "art": "4", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 5", "art": "5", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 6", "art": "6", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 7", "art": "7", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "3967"}}
+]
+}

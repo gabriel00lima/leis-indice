@@ -1,0 +1,27 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11774-2008-09-17",
+"urn": "urn:lex:br:federal:lei:2008-09-17;11774",
+"consultado_em": "2026-11-04",
+"codigo": "582196",
+"nome": "Lei nº 11.774 de 17/09/2008",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-09-18", "descricao": "Publicação Original [Diário Oficial da União de 18/09/2008] (p. 7, col. 1)"}
+],
+"alteracoes": [
+{"data": "2008-11-20", "nome": "Lei nº 11.827 de 20/11/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 17", "art": "17", "acao": "alterou"}], "id": "federal/leis-ordinarias/2008/lei-11827-2008-11-20"},
+{"data": "2008-12-18", "nome": "Decreto nº 6.701 de 18/12/2008", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "regulamentou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "regulamentou"}]},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2009-03-03", "nome": "Lei nº 11.908 de 03/03/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 13-A", "art": "13-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2009/lei-11908-2009-03-03"},
+{"data": "2010-07-27", "nome": "Medida Provisória nº 497 de 27/07/2010", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 17", "art": "17", "acao": "alterou"}]},
+{"data": "2010-12-20", "nome": "Lei nº 12.350 de 20/12/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 17", "art": "17", "acao": "alterou"}], "id": "federal/leis-ordinarias/2010/lei-12350-2010-12-20"},
+{"data": "2011-08-02", "nome": "Medida Provisória nº 540 de 02/08/2011", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2011-12-14", "nome": "Lei nº 12.546 de 14/12/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2011/lei-12546-2011-12-14"},
+{"data": "2012-04-03", "nome": "Medida Provisória nº 563 de 03/04/2012", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 9, § 1", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 9, § 2", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 9, § 3", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 10, Parágrafo Único", "art": "10", "acao": "alterou"}]},
+{"data": "2012-09-17", "nome": "Lei nº 12.715 de 17/09/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14, § 5", "art": "14", "acao": "alterou"}], "id": "federal/leis-ordinarias/2012/lei-12715-2012-09-17"},
+{"data": "2012-12-28", "nome": "Medida Provisória nº 601 de 28/12/2012", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 14, § 4, Inciso 7", "art": "14", "acao": "alterou"}]},
+{"data": "2013-07-19", "nome": "Lei nº 12.844 de 19/07/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14, § 4, Inciso 7", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 49, caput, Inciso 2, Alínea c", "art": "49", "acao": "vigência determinada"}], "id": "federal/leis-ordinarias/2013/lei-12844-2013-07-19"},
+{"data": "2014-11-13", "nome": "Lei nº 13.043 de 13/11/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14, § 4, Inciso 9", "art": "14", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2014/lei-13043-2014-11-13"}
+],
+"controle": []
+}

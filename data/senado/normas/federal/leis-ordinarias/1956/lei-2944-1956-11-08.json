@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1956/lei-2944-1956-11-08",
+"urn": "urn:lex:br:federal:lei:1956-11-08;2944",
+"consultado_em": "2026-11-04",
+"codigo": "544787",
+"nome": "Lei nº 2.944 de 08/11/1956",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1956-11-10", "descricao": "Publicação Original [Diário Oficial da União de 10/11/1956] (p. 21427, col. 1)"}
+],
+"alteracoes": [
+{"data": "1962-04-13", "nome": "Lei nº 4.055 de 13/04/1962", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1962/lei-4055-1962-04-13"},
+{"data": "1962-11-28", "nome": "Lei nº 4.156 de 28/11/1962", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}], "id": "federal/leis-ordinarias/1962/lei-4156-1962-11-28"},
+{"data": "1965-06-16", "nome": "Lei nº 4.676 de 16/06/1965", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4676-1965-06-16"},
+{"data": "1971-03-25", "nome": "Decreto nº 68.419 de 25/03/1971", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1976-12-20", "nome": "Decreto-Lei nº 1.497 de 20/12/1976", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 1, § 2", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}], "id": "federal/decretos-lei/1976/del-1497-1976-12-20"}
+],
+"controle": []
+}

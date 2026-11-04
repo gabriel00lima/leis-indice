@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2009/lei-12017-2009-08-12",
+"urn": "urn:lex:br:federal:lei:2009-08-12;12017",
+"consultado_em": "2026-11-04",
+"codigo": "580240",
+"nome": "Lei nº 12.017 de 12/08/2009",
+"apelidos": [
+"Lei de Diretrizes Orçamentárias (LDO) (2010)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2009-08-13", "descricao": "Publicação Original [Diário Oficial da União de 13/08/2009] (p. 1, col. 1)"},
+{"tipo": "REP", "data": "2009-08-13", "descricao": "Republicação Integral (Seq. 1) [Diário Oficial da União - Edição Extra de 13/08/2009] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-12-29", "nome": "Lei nº 12.182 de 29/12/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-12182-2009-12-29"},
+{"data": "2010-03-30", "nome": "Decreto nº 7.144 de 30/03/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 5", "art": null, "acao": "alterou"}]},
+{"data": "2010-12-30", "nome": "Lei nº 12.377 de 30/12/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Anexo 4", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2010/lei-12377-2010-12-30"}
+],
+"controle": []
+}

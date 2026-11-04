@@ -1,0 +1,24 @@
+{
+"id": "federal/decretos-lei/1946/del-9120-1946-04-02",
+"urn": "urn:lex:br:federal:decreto.lei:1946-04-02;9120",
+"consultado_em": "2026-11-04",
+"codigo": "534158",
+"nome": "Decreto-Lei nº 9.120 de 02/04/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-04-04", "descricao": "Publicação Original [Diário Oficial da União de 04/04/1946] (p. 4957, col. 4)"}
+],
+"alteracoes": [
+{"data": "1946-04-22", "nome": "Decreto-Lei nº 9.189 de 22/04/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9189-1946-04-22"},
+{"data": "1946-05-02", "nome": "Decreto-Lei nº 9.222 de 02/05/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9222-1946-05-02"},
+{"data": "1946-05-06", "nome": "Decreto-Lei nº 9.231 de 06/05/1946", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9231-1946-05-06"},
+{"data": "1946-05-30", "nome": "Decreto nº 21.220 de 30/05/1946", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1946-08-22", "nome": "Decreto nº 21.697 de 22/08/1946", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1947-08-06", "nome": "Decreto nº 23.466 de 06/08/1947", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1947-10-30", "nome": "Lei nº 128 de 30/10/1947", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1947/lei-128-1947-10-30"},
+{"data": "1952-05-22", "nome": "Lei nº 1.608 de 22/05/1952", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1952/lei-1608-1952-05-22"},
+{"data": "1956-08-25", "nome": "Lei nº 2.851 de 25/08/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2851-1956-08-25"},
+{"data": "1959-07-18", "nome": "Lei nº 3.589 de 18/07/1959", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1959/lei-3589-1959-07-18"}
+],
+"controle": []
+}

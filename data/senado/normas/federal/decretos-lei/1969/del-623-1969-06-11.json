@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1969/del-623-1969-06-11",
+"urn": "urn:lex:br:federal:decreto.lei:1969-06-11;623",
+"consultado_em": "2026-11-04",
+"codigo": "523877",
+"nome": "Decreto-Lei nº 623 de 11/06/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-06-12", "descricao": "Publicação Original [Diário Oficial da União de 12/06/1969] (p. 5001, col. 3)"}
+],
+"alteracoes": [
+{"data": "1977-08-08", "nome": "Decreto-Lei nº 1.569 de 08/08/1977", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1977/del-1569-1977-08-08"},
+{"data": "1985-12-23", "nome": "Lei nº 7.450 de 23/12/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7450-1985-12-23"},
+{"data": "1994-12-30", "nome": "Medida Provisória nº 812 de 30/12/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1995-01-20", "nome": "Lei nº 8.981 de 20/01/1995", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1995/lei-8981-1995-01-20"}
+],
+"controle": []
+}

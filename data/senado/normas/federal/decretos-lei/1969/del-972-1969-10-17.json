@@ -1,0 +1,21 @@
+{
+"id": "federal/decretos-lei/1969/del-972-1969-10-17",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-17;972",
+"consultado_em": "2026-11-04",
+"codigo": "524569",
+"nome": "Decreto-Lei nº 972 de 17/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-21", "descricao": "Publicação Original [Diário Oficial da União de 21/10/1969] (p. 8931, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-12-19", "nome": "Decreto nº 65.912 de 19/12/1969", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1971-08-24", "nome": "Lei nº 5.696 de 24/08/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5696-1971-08-24"},
+{"data": "1978-12-07", "nome": "Lei nº 6.612 de 07/12/1978", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 2", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4, caput, Item 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 1", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 2", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 3, Alínea a", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/1978/lei-6612-1978-12-07"},
+{"data": "1979-03-13", "nome": "Decreto nº 83.284 de 13/03/1979", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1979-11-21", "nome": "Lei nº 6.727 de 21/11/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}], "id": "federal/leis-ordinarias/1979/lei-6727-1979-11-21"},
+{"data": "1985-09-10", "nome": "Lei nº 7.360 de 10/09/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 3, Alínea c", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/1985/lei-7360-1985-09-10"},
+{"data": "2019-11-11", "nome": "Medida Provisória nº 905 de 11/11/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 13, caput", "art": "13", "acao": "alterou"}]}
+],
+"controle": []
+}

@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1938/del-204-1938-01-25",
+"urn": "urn:lex:br:federal:decreto.lei:1938-01-25;204",
+"consultado_em": "2026-11-04",
+"codigo": "523048",
+"nome": "Decreto-Lei nº 204 de 25/01/1938",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1938-01-27", "descricao": "Publicação Original [Diário Oficial da União de 27/01/1938] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "1938-07-28", "nome": "Decreto nº 2.895 de 28/07/1938", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1942-01-28", "nome": "Decreto nº 8.615 de 28/01/1942", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1968-06-18", "nome": "Decreto nº 62.860 de 18/06/1968", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1969-12-31", "nome": "Decreto nº 66.027 de 31/12/1969", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1979-11-12", "nome": "Lei nº 6.717 de 12/11/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6717-1979-11-12"}
+],
+"controle": []
+}

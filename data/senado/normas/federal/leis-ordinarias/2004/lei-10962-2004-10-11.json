@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/2004/lei-10962-2004-10-11",
+"urn": "urn:lex:br:federal:lei:2004-10-11;10962",
+"consultado_em": "2026-11-04",
+"codigo": "552838",
+"nome": "Lei nº 10.962 de 11/10/2004",
+"apelidos": [
+"Lei de Afixação de Preços (2004)",
+"Lei da Precificação (2004)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2004-10-13", "descricao": "Publicação Original [Diário Oficial da União de 13/10/2004] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2006-09-20", "nome": "Decreto nº 5.903 de 20/09/2006", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2015-10-21", "nome": "Lei nº 13.175 de 21/10/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-A, Parágrafo Único", "art": "2-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2015/lei-13175-2015-10-21"},
+{"data": "2017-06-26", "nome": "Lei nº 13.455 de 26/06/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5-A, caput", "art": "5-a", "acao": "acrescentou"}, {"dispositivo": "Art. 5-A, Parágrafo Único", "art": "5-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2017/lei-13455-2017-06-26"},
+{"data": "2017-12-19", "nome": "Lei nº 13.543 de 19/12/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2017/lei-13543-2017-12-19"},
+{"data": "2021-02-22", "nome": "Decreto nº 10.634 de 22/02/2021", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,36 @@
+{
+"id": "federal/leis-complementares/2020/lcp-173-2020-05-27",
+"urn": "urn:lex:br:federal:lei.complementar:2020-05-27;173",
+"consultado_em": "2026-11-04",
+"codigo": "32218505",
+"nome": "Lei Complementar nº 173 de 27/05/2020",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "ANX", "data": "2020-05-28", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União de 28/05/2020] (p. 6, col. 2)"},
+{"tipo": "PUB", "data": "2020-05-28", "descricao": "Publicação Original [Diário Oficial da União de 28/05/2020] (p. 4, col. 2)"}
+],
+"alteracoes": [
+{"data": "2020-05-27", "nome": "Mensagem de Veto Parcial nº 307 de 27/05/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-05-27", "nome": "Mensagem de Veto Parcial nº 307 de 27/05/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 6", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 8, § 6", "art": "8", "acao": "veto"}, {"dispositivo": "Art. 9, § 1", "art": "9", "acao": "veto"}, {"dispositivo": "Art. 10, § 1", "art": "10", "acao": "veto"}]},
+{"data": "2020-05-27", "nome": "Mensagem de Veto Parcial nº 307 de 27/05/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-05-27", "nome": "Mensagem de Veto Parcial nº 307 de 27/05/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-05-27", "nome": "Mensagem de Veto Parcial nº 307 de 27/05/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-06-16", "nome": "Resolução do Senado Federal nº 5 de 16/06/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "regulamentou"}]},
+{"data": "2021-01-13", "nome": "Lei Complementar nº 178 de 13/01/2021", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/2021/lcp-178-2021-01-13"},
+{"data": "2021-01-13", "nome": "Lei Complementar nº 178 de 13/01/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 7", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-complementares/2021/lcp-178-2021-01-13"},
+{"data": "2021-04-14", "nome": "Lei Complementar nº 180 de 14/04/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8, § 7", "art": "8", "acao": "acrescentou"}], "id": "federal/leis-complementares/2021/lcp-180-2021-04-14"},
+{"data": "2021-04-14", "nome": "Lei Complementar nº 180 de 14/04/2021", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/2021/lcp-180-2021-04-14"},
+{"data": "2022-03-08", "nome": "Lei Complementar nº 191 de 08/03/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/2022/lcp-191-2022-03-08"},
+{"data": "2022-03-08", "nome": "Lei Complementar nº 191 de 08/03/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8, § 8, apenas o Caput", "art": "8", "acao": "acrescentou"}, {"dispositivo": "Art. 8, § 8, Inciso 1", "art": "8", "acao": "acrescentou"}, {"dispositivo": "Art. 8, § 8, Inciso 2", "art": "8", "acao": "acrescentou"}, {"dispositivo": "Art. 8, § 8, Inciso 3", "art": "8", "acao": "acrescentou"}, {"dispositivo": "Art. 8, § 8, Inciso 4", "art": "8", "acao": "acrescentou"}], "id": "federal/leis-complementares/2022/lcp-191-2022-03-08"},
+{"data": "2022-03-24", "nome": "Lei nº 14.314 de 24/03/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14314-2022-03-24"},
+{"data": "2022-03-24", "nome": "Lei nº 14.314 de 24/03/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, caput", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 10, § 2", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 10, § 3", "art": "10", "acao": "alterou"}], "id": "federal/leis-ordinarias/2022/lei-14314-2022-03-24"},
+{"data": "2026-01-12", "nome": "Lei Complementar nº 226 de 12/01/2026", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/2026/lcp-226-2026-01-12"},
+{"data": "2026-01-12", "nome": "Lei Complementar nº 226 de 12/01/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8, caput, Inciso 9", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 8-A, caput", "art": "8-a", "acao": "acrescentou"}], "id": "federal/leis-complementares/2026/lcp-226-2026-01-12"}
+],
+"controle": [
+{"data": "2021-03-12", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.442 de 12/03/2021", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 2, § 6", "art": "2", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 7", "art": "7", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 8", "art": "8", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "6442"}},
+{"data": "2021-03-12", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.447 de 12/03/2021", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 2, § 6", "art": "2", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 7", "art": "7", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 8", "art": "8", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "6447"}},
+{"data": "2021-03-12", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.450 de 12/03/2021", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 2, § 6", "art": "2", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 7", "art": "7", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 8", "art": "8", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "6450"}},
+{"data": "2021-03-12", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.525 de 12/03/2021", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 2, § 6", "art": "2", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 7", "art": "7", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 8", "art": "8", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "6525"}}
+]
+}

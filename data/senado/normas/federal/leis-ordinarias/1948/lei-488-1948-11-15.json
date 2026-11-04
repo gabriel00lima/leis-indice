@@ -1,0 +1,31 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-488-1948-11-15",
+"urn": "urn:lex:br:federal:lei:1948-11-15;488",
+"consultado_em": "2026-11-04",
+"codigo": "541888",
+"nome": "Lei nº 488 de 15/11/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-11-18", "descricao": "Publicação Original [Diário Oficial da União de 18/11/1948] (p. 16449, col. 1)"}
+],
+"alteracoes": [
+{"data": "1948-12-15", "nome": "Lei nº 542 de 15/12/1948", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1948/lei-542-1948-12-15"},
+{"data": "1949-12-30", "nome": "Lei nº 1.031 de 30/12/1949", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1949/lei-1031-1949-12-30"},
+{"data": "1950-02-13", "nome": "Lei nº 1.063 de 13/02/1950", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1950/lei-1063-1950-02-13"},
+{"data": "1950-06-30", "nome": "Lei nº 1.149 de 30/06/1950", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1950/lei-1149-1950-06-30"},
+{"data": "1950-08-07", "nome": "Lei nº 1.169 de 07/08/1950", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1950/lei-1169-1950-08-07"},
+{"data": "1950-10-27", "nome": "Lei nº 1.215 de 27/10/1950", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1950/lei-1215-1950-10-27"},
+{"data": "1950-10-28", "nome": "Lei nº 1.220 de 28/10/1950", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1950/lei-1220-1950-10-28"},
+{"data": "1951-12-10", "nome": "Lei nº 1.490 de 10/12/1951", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1951/lei-1490-1951-12-10"},
+{"data": "1959-09-07", "nome": "Lei nº 3.625 de 07/09/1959", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1959/lei-3625-1959-09-07"},
+{"data": "1960-05-04", "nome": "Lei nº 3.765 de 04/05/1960", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1960/lei-3765-1960-05-04"},
+{"data": "1971-09-10", "nome": "Decreto-Lei nº 1.187 de 10/09/1971", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1971/del-1187-1971-09-10"},
+{"data": "1972-10-10", "nome": "Lei nº 5.809 de 10/10/1972", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 43", "art": "43", "acao": "revogou"}], "id": "federal/leis-ordinarias/1972/lei-5809-1972-10-10"},
+{"data": "1974-10-24", "nome": "Decreto-Lei nº 1.348 de 24/10/1974", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1974/del-1348-1974-10-24"},
+{"data": "1976-03-24", "nome": "Decreto-Lei nº 1.451 de 24/03/1976", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1976/del-1451-1976-03-24"},
+{"data": "1977-03-24", "nome": "Decreto-Lei nº 1.530 de 24/03/1977", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1977/del-1530-1977-03-24"},
+{"data": "1985-07-02", "nome": "Lei nº 7.333 de 02/07/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7333-1985-07-02"},
+{"data": "1985-07-02", "nome": "Lei nº 7.334 de 02/07/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7334-1985-07-02"}
+],
+"controle": []
+}

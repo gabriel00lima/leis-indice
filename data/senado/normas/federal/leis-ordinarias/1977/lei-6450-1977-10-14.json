@@ -1,0 +1,40 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6450-1977-10-14",
+"urn": "urn:lex:br:federal:lei:1977-10-14;6450",
+"consultado_em": "2026-11-04",
+"codigo": "548326",
+"nome": "Lei nº 6.450 de 14/10/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-10-18", "descricao": "Publicação Original [Diário Oficial da União de 18/10/1977] (p. 13953, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-04-13", "nome": "Lei nº 6.983 de 13/04/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-6983-1982-04-13"},
+{"data": "1983-12-22", "nome": "Decreto-Lei nº 2.086 de 22/12/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2086-1983-12-22"},
+{"data": "1984-06-04", "nome": "Decreto Legislativo nº 20 de 04/06/1984", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1984-06-28", "nome": "Decreto-Lei nº 2.138 de 28/06/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2138-1984-06-28"},
+{"data": "1984-12-18", "nome": "Lei nº 7.289 de 18/12/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1984/lei-7289-1984-12-18"},
+{"data": "1985-05-27", "nome": "Decreto Legislativo nº 6 de 27/05/1985", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1985-06-18", "nome": "Decreto nº 91.343 de 18/06/1985", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1985-07-04", "nome": "Decreto nº 91.398 de 04/07/1985", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1985-08-05", "nome": "Decreto nº 91.508 de 05/08/1985", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1985-12-06", "nome": "Lei nº 7.412 de 06/12/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7412-1985-12-06"},
+{"data": "1985-12-09", "nome": "Decreto nº 92.092 de 09/12/1985", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1985-12-17", "nome": "Lei nº 7.425 de 17/12/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7425-1985-12-17"},
+{"data": "1986-04-09", "nome": "Lei nº 7.457 de 09/04/1986", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7457-1986-04-09"},
+{"data": "1986-06-13", "nome": "Lei nº 7.491 de 13/06/1986", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7491-1986-06-13"},
+{"data": "1986-12-29", "nome": "Decreto-Lei nº 2.317 de 29/12/1986", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1986/del-2317-1986-12-29"},
+{"data": "1987-03-29", "nome": "Lei nº 7.591 de 29/03/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1987/lei-7591-1987-03-29"},
+{"data": "1987-07-06", "nome": "Lei nº 7.609 de 06/07/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1987/lei-7609-1987-07-06"},
+{"data": "1987-11-05", "nome": "Decreto-Lei nº 2.368 de 05/11/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2368-1987-11-05"},
+{"data": "1989-10-23", "nome": "Lei nº 7.851 de 23/10/1989", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7851-1989-10-23"},
+{"data": "1989-11-20", "nome": "Medida Provisória nº 109 de 20/11/1989", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1990-12-05", "nome": "Decreto nº 99.768 de 05/12/1990", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1991-04-05", "nome": "Decreto de 05/04/1991", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1995-05-29", "nome": "Lei nº 9.054 de 29/05/1995", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 14, caput, Alínea d", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 14, caput, Alínea f", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 14, caput, Inciso 3", "art": "14", "acao": "alterou"}], "id": "federal/leis-ordinarias/1995/lei-9054-1995-05-29"},
+{"data": "1998-11-25", "nome": "Lei nº 9.713 de 25/11/1998", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 36", "art": "36", "acao": "alterou"}], "id": "federal/leis-ordinarias/1998/lei-9713-1998-11-25"},
+{"data": "2009-11-06", "nome": "Lei nº 12.086 de 06/11/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 14", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 16", "art": "16", "acao": "alterou"}, {"dispositivo": "Art. 17", "art": "17", "acao": "alterou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "alterou"}, {"dispositivo": "Art. 20", "art": "20", "acao": "revogou"}, {"dispositivo": "Art. 21", "art": "21", "acao": "revogou"}, {"dispositivo": "Art. 22", "art": "22", "acao": "revogou"}, {"dispositivo": "Art. 23", "art": "23", "acao": "revogou"}, {"dispositivo": "Art. 26", "art": "26", "acao": "revogou"}, {"dispositivo": "Art. 27", "art": "27", "acao": "revogou"}, {"dispositivo": "Art. 28", "art": "28", "acao": "revogou"}, {"dispositivo": "Art. 29", "art": "29", "acao": "revogou"}, {"dispositivo": "Art. 31", "art": "31", "acao": "alterou"}, {"dispositivo": "Art. 32", "art": "32", "acao": "alterou"}, {"dispositivo": "Art. 32, Parágrafo Único", "art": "32", "acao": "revogou"}, {"dispositivo": "Art. 33", "art": "33", "acao": "alterou"}, {"dispositivo": "Art. 34", "art": "34", "acao": "revogou"}, {"dispositivo": "Art. 35", "art": "35", "acao": "revogou"}, {"dispositivo": "Art. 36", "art": "36", "acao": "revogou"}, {"dispositivo": "Art. 37", "art": "37", "acao": "revogou"}, {"dispositivo": "Art. 39", "art": "39", "acao": "revogou"}, {"dispositivo": "Art. 40", "art": "40", "acao": "alterou"}, {"dispositivo": "Art. 41", "art": "41", "acao": "alterou"}, {"dispositivo": "Art. 42", "art": "42", "acao": "revogou"}, {"dispositivo": "Art. 43", "art": "43", "acao": "revogou"}, {"dispositivo": "Art. 44", "art": "44", "acao": "revogou"}, {"dispositivo": "Art. 45", "art": "45", "acao": "revogou"}, {"dispositivo": "Art. 46", "art": "46", "acao": "revogou"}, {"dispositivo": "Art. 48", "art": "48", "acao": "alterou"}, {"dispositivo": "Art. 49", "art": "49", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-12086-2009-11-06"},
+{"data": "2020-07-28", "nome": "Decreto nº 10.443 de 28/07/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 41, caput", "art": "41", "acao": "regulamentou"}, {"dispositivo": "Art. 48, caput, Inciso 1", "art": "48", "acao": "regulamentou"}, {"dispositivo": "Art. 49, caput", "art": "49", "acao": "regulamentou"}]}
+],
+"controle": []
+}

@@ -1,0 +1,21 @@
+{
+"id": "federal/decretos-lei/1969/del-911-1969-10-01",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-01;911",
+"consultado_em": "2026-11-04",
+"codigo": "524447",
+"nome": "Decreto-Lei nº 911 de 01/10/1969",
+"apelidos": [
+"Lei de Alienação Fiduciária (1969)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-03", "descricao": "Publicação Original [Diário Oficial da União de 03/10/1969] (p. 8361, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-12-27", "nome": "Lei nº 6.014 de 27/12/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-6014-1973-12-27"},
+{"data": "1974-07-03", "nome": "Lei nº 6.071 de 03/07/1974", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1974/lei-6071-1974-07-03"},
+{"data": "2004-08-02", "nome": "Lei nº 10.931 de 02/08/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 8-A", "art": "8-a", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-10931-2004-08-02"},
+{"data": "2014-11-13", "nome": "Lei nº 13.043 de 13/11/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 4", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 6-A", "art": "6-a", "acao": "acrescentou"}, {"dispositivo": "Art. 7-A", "art": "7-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2014/lei-13043-2014-11-13"},
+{"data": "2023-10-30", "nome": "Lei nº 14.711 de 30/10/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8-A, caput", "art": "8-a", "acao": "revogou"}, {"dispositivo": "Art. 8-B", "art": "8-b", "acao": "acrescentou"}, {"dispositivo": "Art. 8-C, caput", "art": "8-c", "acao": "acrescentou"}, {"dispositivo": "Art. 8-C, § 1", "art": "8-c", "acao": "acrescentou"}, {"dispositivo": "Art. 8-C, § 1", "art": "8-c", "acao": "vetado"}, {"dispositivo": "Art. 8-C, § 2", "art": "8-c", "acao": "acrescentou"}, {"dispositivo": "Art. 8-C, § 2", "art": "8-c", "acao": "vetado"}, {"dispositivo": "Art. 8-C, § 3", "art": "8-c", "acao": "acrescentou"}, {"dispositivo": "Art. 8-C, § 3", "art": "8-c", "acao": "vetado"}, {"dispositivo": "Art. 8-C, § 4", "art": "8-c", "acao": "acrescentou"}, {"dispositivo": "Art. 8-C, § 4", "art": "8-c", "acao": "vetado"}, {"dispositivo": "Art. 8-C, § 5", "art": "8-c", "acao": "acrescentou"}, {"dispositivo": "Art. 8-C, § 5", "art": "8-c", "acao": "vetado"}, {"dispositivo": "Art. 8-C, § 6", "art": "8-c", "acao": "acrescentou"}, {"dispositivo": "Art. 8-C, § 6", "art": "8-c", "acao": "vetado"}, {"dispositivo": "Art. 8-C, § 7", "art": "8-c", "acao": "acrescentou"}, {"dispositivo": "Art. 8-C, § 7", "art": "8-c", "acao": "vetado"}, {"dispositivo": "Art. 8-C, § 8", "art": "8-c", "acao": "acrescentou"}, {"dispositivo": "Art. 8-C, § 8", "art": "8-c", "acao": "vetado"}, {"dispositivo": "Art. 8-C, § 9", "art": "8-c", "acao": "acrescentou"}, {"dispositivo": "Art. 8-C, § 9", "art": "8-c", "acao": "vetado"}, {"dispositivo": "Art. 8-C, § 10", "art": "8-c", "acao": "acrescentou"}, {"dispositivo": "Art. 8-C, § 10", "art": "8-c", "acao": "vetado"}, {"dispositivo": "Art. 8-C, § 11", "art": "8-c", "acao": "acrescentou"}, {"dispositivo": "Art. 8-C, § 11", "art": "8-c", "acao": "vetado"}, {"dispositivo": "Art. 8-D, caput", "art": "8-d", "acao": "acrescentou"}, {"dispositivo": "Art. 8-E, caput", "art": "8-e", "acao": "acrescentou"}, {"dispositivo": "Art. 8-E, Parágrafo Único", "art": "8-e", "acao": "acrescentou"}, {"dispositivo": "Art. 8-E, Parágrafo Único", "art": "8-e", "acao": "vetado"}], "id": "federal/leis-ordinarias/2023/lei-14711-2023-10-30"}
+],
+"controle": []
+}

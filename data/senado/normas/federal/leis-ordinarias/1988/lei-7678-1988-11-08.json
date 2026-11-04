@@ -1,0 +1,28 @@
+{
+"id": "federal/leis-ordinarias/1988/lei-7678-1988-11-08",
+"urn": "urn:lex:br:federal:lei:1988-11-08;7678",
+"consultado_em": "2026-11-04",
+"codigo": "549554",
+"nome": "Lei nº 7.678 de 08/11/1988",
+"apelidos": [
+"Lei do Vinho (1988)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1988-11-09", "descricao": "Publicação Original [Diário Oficial da União de 09/11/1988] (p. 21561, col. 1)"},
+{"tipo": "RET", "data": "1988-11-23", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 23/11/1988] (p. 22641, col. 1)"}
+],
+"alteracoes": [
+{"data": "1990-03-08", "nome": "Decreto nº 99.066 de 08/03/1990", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1991-05-06", "nome": "Decreto nº 113 de 06/05/1991", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1996-10-01", "nome": "Decreto nº 2.018 de 01/10/1996", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2004-11-12", "nome": "Lei nº 10.970 de 12/11/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "alterou"}, {"dispositivo": "Art. 14", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 17", "art": "17", "acao": "alterou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "alterou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "alterou"}, {"dispositivo": "Art. 20", "art": "20", "acao": "alterou"}, {"dispositivo": "Art. 26", "art": "26", "acao": "alterou"}, {"dispositivo": "Art. 41", "art": "41", "acao": "alterou"}, {"dispositivo": "Art. 47", "art": "47", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-10970-2004-11-12"},
+{"data": "2010-09-06", "nome": "Lei nº 12.320 de 06/09/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 15", "art": "15", "acao": "alterou"}], "id": "federal/leis-ordinarias/2010/lei-12320-2010-09-06"},
+{"data": "2014-02-20", "nome": "Decreto nº 8.198 de 20/02/2014", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2014-03-19", "nome": "Lei nº 12.959 de 19/03/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 27, Parágrafo Único", "art": "27", "acao": "renumerou"}, {"dispositivo": "Art. 27, § 2", "art": "27", "acao": "acrescentou"}, {"dispositivo": "Art. 43, § 1", "art": "43", "acao": "acrescentou"}, {"dispositivo": "Art. 43, § 2", "art": "43", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2014/lei-12959-2014-03-19"},
+{"data": "2018-04-11", "nome": "Lei nº 13.648 de 11/04/2018", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2018/lei-13648-2018-04-11"},
+{"data": "2018-04-17", "nome": "Decreto nº 9.348 de 17/04/2018", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2022-12-29", "nome": "Lei nº 14.515 de 29/12/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 36", "art": "36", "acao": "revogou"}], "id": "federal/leis-ordinarias/2022/lei-14515-2022-12-29"},
+{"data": "2025-10-31", "nome": "Decreto nº 12.709 de 31/10/2025", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

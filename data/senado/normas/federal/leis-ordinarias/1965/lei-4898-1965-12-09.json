@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4898-1965-12-09",
+"urn": "urn:lex:br:federal:lei:1965-12-09;4898",
+"consultado_em": "2026-11-04",
+"codigo": "546754",
+"nome": "Lei nº 4.898 de 09/12/1965",
+"apelidos": [
+"Lei de Abuso de Autoridade (1965)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-12-13", "descricao": "Publicação Original [Diário Oficial da União de 13/12/1965] (p. 12755, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-02-09", "nome": "Lei nº 5.249 de 09/02/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1967/lei-5249-1967-02-09"},
+{"data": "1979-06-05", "nome": "Lei nº 6.657 de 05/06/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/1979/lei-6657-1979-06-05"},
+{"data": "1989-11-24", "nome": "Medida Provisória nº 111 de 24/11/1989", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1989-12-21", "nome": "Lei nº 7.960 de 21/12/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/1989/lei-7960-1989-12-21"},
+{"data": "2019-09-05", "nome": "Lei nº 13.869 de 05/09/2019", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2019/lei-13869-2019-09-05"}
+],
+"controle": []
+}

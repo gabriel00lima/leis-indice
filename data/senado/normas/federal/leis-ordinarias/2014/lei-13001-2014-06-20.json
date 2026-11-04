@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/2014/lei-13001-2014-06-20",
+"urn": "urn:lex:br:federal:lei:2014-06-20;13001",
+"consultado_em": "2026-11-04",
+"codigo": "584812",
+"nome": "Lei nº 13.001 de 20/06/2014",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2014-06-23", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 23/06/2014 - nº 117-A] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2016-05-03", "nome": "Decreto nº 8.738 de 03/05/2016", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 22", "art": "22", "acao": "regulamentou"}]},
+{"data": "2016-12-22", "nome": "Medida Provisória nº 759 de 22/12/2016", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, caput", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 22, caput", "art": "22", "acao": "alterou"}, {"dispositivo": "Art. 22, § 1", "art": "22", "acao": "acrescentou"}, {"dispositivo": "Art. 22, Parágrafo Único", "art": "22", "acao": "revogou"}, {"dispositivo": "Art. 22, § 2", "art": "22", "acao": "acrescentou"}]},
+{"data": "2017-07-11", "nome": "Lei nº 13.465 de 11/07/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput", "art": "3", "acao": "vetado"}, {"dispositivo": "Art. 3-A", "art": "3-a", "acao": "acrescentou"}, {"dispositivo": "Art. 3-A", "art": "3-a", "acao": "vetado"}, {"dispositivo": "Art. 4, caput", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 22, caput", "art": "22", "acao": "alterou"}, {"dispositivo": "Art. 22, Parágrafo Único", "art": "22", "acao": "renumerou"}, {"dispositivo": "Art. 22, § 2", "art": "22", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2017/lei-13465-2017-07-11"},
+{"data": "2017-08-08", "nome": "Lei nº 13.473 de 08/08/2017", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 21, § 2", "art": "21", "acao": "correlato"}], "id": "federal/leis-ordinarias/2017/lei-13473-2017-08-08"},
+{"data": "2018-01-09", "nome": "Lei nº 13.606 de 09/01/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 17", "art": "17", "acao": "alterou"}, {"dispositivo": "Art. 17-A, caput", "art": "17-a", "acao": "acrescentou"}, {"dispositivo": "Art. 17-A, § 1", "art": "17-a", "acao": "acrescentou"}, {"dispositivo": "Art. 17-A, § 2", "art": "17-a", "acao": "acrescentou"}, {"dispositivo": "Art. 17-B, caput", "art": "17-b", "acao": "acrescentou"}, {"dispositivo": "Art. 17-C, caput", "art": "17-c", "acao": "acrescentou"}, {"dispositivo": "Art. 17-C, caput, Inciso 1", "art": "17-c", "acao": "acrescentou"}, {"dispositivo": "Art. 17-C, caput, Inciso 2", "art": "17-c", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2018/lei-13606-2018-01-09"},
+{"data": "2018-03-15", "nome": "Decreto nº 9.311 de 15/03/2018", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2023-06-28", "nome": "Decreto nº 11.586 de 28/06/2023", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "correlato"}, {"dispositivo": "Art. 3, § 1", "art": "3", "acao": "correlato"}]},
+{"data": "2024-11-29", "nome": "Lei nº 15.038 de 29/11/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4-A", "art": "4-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2024/lei-15038-2024-11-29"}
+],
+"controle": []
+}

@@ -1,0 +1,29 @@
+{
+"id": "federal/leis-ordinarias/2004/lei-10882-2004-06-09",
+"urn": "urn:lex:br:federal:lei:2004-06-09;10882",
+"consultado_em": "2026-11-04",
+"codigo": "552758",
+"nome": "Lei nº 10.882 de 09/06/2004",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2004-06-11", "descricao": "Publicação Original [Diário Oficial da União de 11/06/2004] (p. 3, col. 3)"},
+{"tipo": "RET", "data": "2005-11-08", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 08/11/2005] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2004-07-15", "nome": "Medida Provisória nº 198 de 15/07/2004", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, § 8", "art": "3", "acao": "alterou"}]},
+{"data": "2004-11-25", "nome": "Lei nº 10.971 de 25/11/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, § 8", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-10971-2004-11-25"},
+{"data": "2006-06-29", "nome": "Medida Provisória nº 304 de 29/06/2006", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}, {"dispositivo": "Anexo 6", "art": null, "acao": "alterou"}]},
+{"data": "2006-10-19", "nome": "Lei nº 11.357 de 19/10/2006", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}, {"dispositivo": "Anexo 6", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2006/lei-11357-2006-10-19"},
+{"data": "2008-08-29", "nome": "Medida Provisória nº 441 de 29/08/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 4", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 3", "art": null, "acao": "alterou"}]},
+{"data": "2009-02-02", "nome": "Lei nº 11.907 de 02/02/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 4", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 2-A", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 3", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-11907-2009-02-02"},
+{"data": "2013-12-24", "nome": "Medida Provisória nº 632 de 24/12/2013", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 3", "art": null, "acao": "alterou"}]},
+{"data": "2014-06-18", "nome": "Lei nº 12.998 de 18/06/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 3", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2014/lei-12998-2014-06-18"},
+{"data": "2016-07-29", "nome": "Lei nº 13.326 de 29/07/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 3", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2016/lei-13326-2016-07-29"},
+{"data": "2016-07-29", "nome": "Lei nº 13.326 de 29/07/2016", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "correlato"}], "id": "federal/leis-ordinarias/2016/lei-13326-2016-07-29"},
+{"data": "2023-04-28", "nome": "Medida Provisória nº 1.170 de 28/04/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 3", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 6", "art": null, "acao": "alterou"}]},
+{"data": "2023-09-14", "nome": "Lei nº 14.673 de 14/09/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 3", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 6", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2023/lei-14673-2023-09-14"},
+{"data": "2024-12-31", "nome": "Medida Provisória nº 1.286 de 31/12/2024", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 3", "art": null, "acao": "alterou"}]},
+{"data": "2025-06-02", "nome": "Lei nº 15.141 de 02/06/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 3", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2025/lei-15141-2025-06-02"}
+],
+"controle": []
+}

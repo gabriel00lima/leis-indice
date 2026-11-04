@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1962/lei-4132-1962-09-10",
+"urn": "urn:lex:br:federal:lei:1962-09-10;4132",
+"consultado_em": "2026-11-04",
+"codigo": "545974",
+"nome": "Lei nº 4.132 de 10/09/1962",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-11-07", "descricao": "Publicação Original [Diário Oficial da União de 07/11/1962] (p. 11565, col. 1)"}
+],
+"alteracoes": [
+{"data": "1964-03-13", "nome": "Decreto nº 53.700 de 13/03/1964", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1977-12-20", "nome": "Lei nº 6.513 de 20/12/1977", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1977/lei-6513-1977-12-20"},
+{"data": "2023-10-20", "nome": "Lei nº 14.701 de 20/10/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 9", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2, caput, Inciso 9", "art": "2", "acao": "vetado"}], "id": "federal/leis-ordinarias/2023/lei-14701-2023-10-20"}
+],
+"controle": []
+}

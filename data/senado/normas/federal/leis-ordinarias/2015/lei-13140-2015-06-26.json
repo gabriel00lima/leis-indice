@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2015/lei-13140-2015-06-26",
+"urn": "urn:lex:br:federal:lei:2015-06-26;13140",
+"consultado_em": "2026-11-04",
+"codigo": "584952",
+"nome": "Lei nº 13.140 de 26/06/2015",
+"apelidos": [
+"Lei de Mediação (2015)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2015-06-29", "descricao": "Publicação Original [Diário Oficial da União de 29/06/2015] (p. 4, col. 1)"}
+],
+"alteracoes": [
+{"data": "2016-07-29", "nome": "Lei nº 13.327 de 29/07/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 38, Parágrafo Único", "art": "38", "acao": "alterou"}], "id": "federal/leis-ordinarias/2016/lei-13327-2016-07-29"},
+{"data": "2020-09-11", "nome": "Lei nº 14.057 de 11/09/2020", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 40, caput", "art": "40", "acao": "correlato"}], "id": "federal/leis-ordinarias/2020/lei-14057-2020-09-11"}
+],
+"controle": []
+}

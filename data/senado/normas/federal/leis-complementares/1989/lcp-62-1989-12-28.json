@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-complementares/1989/lcp-62-1989-12-28",
+"urn": "urn:lex:br:federal:lei.complementar:1989-12-28;62",
+"consultado_em": "2026-11-04",
+"codigo": "540767",
+"nome": "Lei Complementar nº 62 de 28/12/1989",
+"apelidos": [
+"Lei dos Fundos de Participação (1989)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-12-29", "descricao": "Publicação Original [Diário Oficial da União de 29/12/1989] (p. 24777, col. 1)"}
+],
+"alteracoes": [
+{"data": "1992-09-03", "nome": "Lei Complementar nº 71 de 03/09/1992", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-complementares/1992/lcp-71-1992-09-03"},
+{"data": "2013-07-17", "nome": "Lei Complementar nº 143 de 17/07/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-complementares/2013/lcp-143-2013-07-17"}
+],
+"controle": [
+{"data": "2023-06-16", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.069 de 16/06/2023", "tipo": "Inconstitucionalidade sem Pronúncia de Nulidade", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 2", "art": "2", "efeito": "inconstitucional", "texto": "Dispositivo Declarado Inconstitucional sem Pronúncia de Nulidade"}, {"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "efeito": "inconstitucional", "texto": "Dispositivo Declarado Inconstitucional sem Pronúncia de Nulidade"}, {"dispositivo": "Art. 2, § 2", "art": "2", "efeito": "inconstitucional", "texto": "Dispositivo Declarado Inconstitucional sem Pronúncia de Nulidade"}], "decisao": {"classe": "ADI", "numero": "5069"}}
+]
+}

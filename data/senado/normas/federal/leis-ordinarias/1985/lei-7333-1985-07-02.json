@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1985/lei-7333-1985-07-02",
+"urn": "urn:lex:br:federal:lei:1985-07-02;7333",
+"consultado_em": "2026-11-04",
+"codigo": "549209",
+"nome": "Lei nº 7.333 de 02/07/1985",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1985-07-03", "descricao": "Publicação Original [Diário Oficial da União de 03/07/1985] (p. 9457, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-12-17", "nome": "Decreto nº 92.156 de 17/12/1985", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1985-12-17", "nome": "Lei nº 7.419 de 17/12/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7419-1985-12-17"},
+{"data": "1987-06-11", "nome": "Decreto-Lei nº 2.333 de 11/06/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2333-1987-06-11"},
+{"data": "1991-08-13", "nome": "Lei nº 8.216 de 13/08/1991", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/1991/lei-8216-1991-08-13"}
+],
+"controle": []
+}

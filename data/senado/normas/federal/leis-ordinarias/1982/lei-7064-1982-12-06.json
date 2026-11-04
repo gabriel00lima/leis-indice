@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1982/lei-7064-1982-12-06",
+"urn": "urn:lex:br:federal:lei:1982-12-06;7064",
+"consultado_em": "2026-11-04",
+"codigo": "548940",
+"nome": "Lei nº 7.064 de 06/12/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-12-07", "descricao": "Publicação Original [Diário Oficial da União de 07/12/1982] (p. 22766, col. 2)"},
+{"tipo": "RET", "data": "1982-12-13", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 13/12/1982] (p. 23161, col. 1)"}
+],
+"alteracoes": [
+{"data": "1984-01-31", "nome": "Decreto nº 89.339 de 31/01/1984", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 5, § 2", "art": "5", "acao": "regulamentou"}, {"dispositivo": "Art. 9, § 1", "art": "9", "acao": "regulamentou"}, {"dispositivo": "Art. 9, § 2", "art": "9", "acao": "regulamentou"}, {"dispositivo": "Art. 9, § 3", "art": "9", "acao": "regulamentou"}, {"dispositivo": "Art. 9, § 4", "art": "9", "acao": "regulamentou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "regulamentou"}]},
+{"data": "2009-07-03", "nome": "Lei nº 11.962 de 03/07/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-11962-2009-07-03"},
+{"data": "2021-11-10", "nome": "Decreto nº 10.854 de 10/11/2021", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 5, § 2", "art": "5", "acao": "regulamentou"}, {"dispositivo": "Art. 9, § 1", "art": "9", "acao": "regulamentou"}, {"dispositivo": "Art. 9, § 2", "art": "9", "acao": "regulamentou"}, {"dispositivo": "Art. 9, § 3", "art": "9", "acao": "regulamentou"}, {"dispositivo": "Art. 9, § 4", "art": "9", "acao": "regulamentou"}, {"dispositivo": "Art. 12, caput", "art": "12", "acao": "regulamentou"}]},
+{"data": "2024-09-18", "nome": "Lei nº 14.978 de 18/09/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único, apenas o Caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, Parágrafo Único, Alínea a", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 1, Parágrafo Único, Alínea b", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 1, Parágrafo Único, Inciso 1", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, Parágrafo Único, Inciso 2", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2024/lei-14978-2024-09-18"}
+],
+"controle": []
+}

@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1981/lei-6908-1981-05-21",
+"urn": "urn:lex:br:federal:lei:1981-05-21;6908",
+"consultado_em": "2026-11-04",
+"codigo": "548784",
+"nome": "Lei nº 6.908 de 21/05/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-05-22", "descricao": "Publicação Original [Diário Oficial da União de 22/05/1981] (p. 9368, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-05-25", "nome": "Lei nº 6.991 de 25/05/1982", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-6991-1982-05-25"},
+{"data": "1982-11-09", "nome": "Lei nº 7.045 de 09/11/1982", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, Parágrafo Único", "art": "5", "acao": "alterou"}], "id": "federal/leis-ordinarias/1982/lei-7045-1982-11-09"},
+{"data": "1983-05-23", "nome": "Lei nº 7.097 de 23/05/1983", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1983/lei-7097-1983-05-23"},
+{"data": "1984-12-03", "nome": "Lei nº 7.261 de 03/12/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1984/lei-7261-1984-12-03"}
+],
+"controle": []
+}

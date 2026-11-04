@@ -1,0 +1,25 @@
+{
+"id": "federal/leis-ordinarias/1966/lei-5194-1966-12-24",
+"urn": "urn:lex:br:federal:lei:1966-12-24;5194",
+"consultado_em": "2026-11-04",
+"codigo": "547056",
+"nome": "Lei nº 5.194 de 24/12/1966",
+"apelidos": [
+"Lei do CREA (1966)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-12-27", "descricao": "Publicação Original [Diário Oficial da União de 27/12/1966] (p. 14892, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-02-28", "nome": "Decreto-Lei nº 241 de 28/02/1967", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1967/del-241-1967-02-28"},
+{"data": "1969-06-10", "nome": "Decreto-Lei nº 620 de 10/06/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-620-1969-06-10"},
+{"data": "1977-01-18", "nome": "Decreto nº 79.137 de 18/01/1977", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1978-12-16", "nome": "Lei nº 6.619 de 16/12/1978", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 27", "art": "27", "acao": "alterou"}, {"dispositivo": "Art. 28", "art": "28", "acao": "alterou"}, {"dispositivo": "Art. 34", "art": "34", "acao": "alterou"}, {"dispositivo": "Art. 35", "art": "35", "acao": "alterou"}, {"dispositivo": "Art. 36, Parágrafo Único", "art": "36", "acao": "alterou"}, {"dispositivo": "Art. 63, § 1", "art": "63", "acao": "alterou"}, {"dispositivo": "Art. 63, § 2", "art": "63", "acao": "alterou"}, {"dispositivo": "Art. 63, § 3", "art": "63", "acao": "alterou"}, {"dispositivo": "Art. 73, caput, Alínea a", "art": "73", "acao": "alterou"}, {"dispositivo": "Art. 73, caput, Alínea b", "art": "73", "acao": "alterou"}, {"dispositivo": "Art. 73, caput, Alínea c", "art": "73", "acao": "alterou"}, {"dispositivo": "Art. 73, caput, Alínea d", "art": "73", "acao": "alterou"}, {"dispositivo": "Art. 73, caput, Alínea e", "art": "73", "acao": "alterou"}], "id": "federal/leis-ordinarias/1978/lei-6619-1978-12-16"},
+{"data": "1991-06-26", "nome": "Lei nº 8.195 de 26/06/1991", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8195-1991-06-26"},
+{"data": "1993-06-21", "nome": "Lei nº 8.666 de 21/06/1993", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 83", "art": "83", "acao": "revogou"}], "id": "federal/leis-ordinarias/1993/lei-8666-1993-06-21"},
+{"data": "2010-12-31", "nome": "Lei nº 12.378 de 31/12/2010", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2010/lei-12378-2010-12-31"},
+{"data": "2018-03-26", "nome": "Lei nº 13.639 de 26/03/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 84, caput", "art": "84", "acao": "revogou"}], "id": "federal/leis-ordinarias/2018/lei-13639-2018-03-26"},
+{"data": "2024-11-18", "nome": "Lei nº 15.026 de 18/11/2024", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-15026-2024-11-18"}
+],
+"controle": []
+}

@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/1957/lei-3268-1957-09-30",
+"urn": "urn:lex:br:federal:lei:1957-09-30;3268",
+"consultado_em": "2026-11-04",
+"codigo": "545044",
+"nome": "Lei nº 3.268 de 30/09/1957",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1957-10-01", "descricao": "Publicação Original [Diário Oficial da União de 01/10/1957] (p. 23013, col. 1)"}
+],
+"alteracoes": [
+{"data": "1958-07-19", "nome": "Decreto nº 44.045 de 19/07/1958", "tipo": "Aprovação de Regulamento", "dispositivos": []},
+{"data": "1977-01-18", "nome": "Decreto nº 79.137 de 18/01/1977", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2004-07-28", "nome": "Medida Provisória nº 203 de 28/07/2004", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}]},
+{"data": "2004-12-15", "nome": "Lei nº 11.000 de 15/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}], "id": "federal/leis-ordinarias/2004/lei-11000-2004-12-15"},
+{"data": "2013-10-22", "nome": "Lei nº 12.871 de 22/10/2013", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2013/lei-12871-2013-10-22"},
+{"data": "2023-11-14", "nome": "Lei nº 14.724 de 14/11/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 18, § 5", "art": "18", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14724-2023-11-14"},
+{"data": "2026-06-19", "nome": "Medida Provisória nº 1.370 de 19/06/2026", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 17-A, caput", "art": "17-a", "acao": "acrescentou"}]}
+],
+"controle": []
+}

@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/1994/lei-8850-1994-01-28",
+"urn": "urn:lex:br:federal:lei:1994-01-28;8850",
+"consultado_em": "2026-11-04",
+"codigo": "550726",
+"nome": "Lei nº 8.850 de 28/01/1994",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1994-01-29", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 29/01/1994 - nº 20-A] (p. 1385, col. 1)"}
+],
+"alteracoes": [
+{"data": "1994-12-30", "nome": "Medida Provisória nº 812 de 30/12/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}]},
+{"data": "1995-01-20", "nome": "Lei nº 8.981 de 20/01/1995", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}], "id": "federal/leis-ordinarias/1995/lei-8981-1995-01-20"},
+{"data": "2003-10-30", "nome": "Medida Provisória nº 135 de 30/10/2003", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2003-12-29", "nome": "Lei nº 10.833 de 29/12/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2003/lei-10833-2003-12-29"},
+{"data": "2004-08-06", "nome": "Medida Provisória nº 206 de 06/08/2004", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 2", "art": "1", "acao": "alterou"}]},
+{"data": "2004-12-21", "nome": "Lei nº 11.033 de 21/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 2", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11033-2004-12-21"},
+{"data": "2008-05-12", "nome": "Medida Provisória nº 428 de 12/05/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2008-09-17", "nome": "Lei nº 11.774 de 17/09/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2008/lei-11774-2008-09-17"},
+{"data": "2009-04-28", "nome": "Lei nº 11.933 de 28/04/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2009/lei-11933-2009-04-28"}
+],
+"controle": []
+}

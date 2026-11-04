@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/1974/lei-6185-1974-12-11",
+"urn": "urn:lex:br:federal:lei:1974-12-11;6185",
+"consultado_em": "2026-11-04",
+"codigo": "548061",
+"nome": "Lei nº 6.185 de 11/12/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-12-13", "descricao": "Publicação Original [Diário Oficial da União de 13/12/1974] (p. 14304, col. 4)"}
+],
+"alteracoes": [
+{"data": "1975-01-16", "nome": "Decreto nº 75.239 de 16/01/1975", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1975-04-24", "nome": "Decreto nº 75.656 de 24/04/1975", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1976-04-20", "nome": "Decreto nº 77.464 de 20/04/1976", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "regulamentou"}]},
+{"data": "1976-05-31", "nome": "Lei nº 6.335 de 31/05/1976", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1976/lei-6335-1976-05-31"},
+{"data": "1980-11-18", "nome": "Lei nº 6.856 de 18/11/1980", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1980/lei-6856-1980-11-18"},
+{"data": "1984-12-12", "nome": "Decreto nº 90.698 de 12/12/1984", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1985-10-25", "nome": "Lei nº 7.391 de 25/10/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7391-1985-10-25"}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1970/del-1115-1970-07-24",
+"urn": "urn:lex:br:federal:decreto.lei:1970-07-24;1115",
+"consultado_em": "2026-11-04",
+"codigo": "524852",
+"nome": "Decreto-Lei nº 1.115 de 24/07/1970",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1970-07-24", "descricao": "Publicação Original [Diário Oficial da União de 24/07/1970] (p. 5513, col. 1)"}
+],
+"alteracoes": [
+{"data": "1970-09-15", "nome": "Decreto Legislativo nº 59 de 15/09/1970", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1970-10-27", "nome": "Decreto nº 67.447 de 27/10/1970", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1973-07-06", "nome": "Decreto-Lei nº 1.280 de 06/07/1973", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/decretos-lei/1973/del-1280-1973-07-06"}
+],
+"controle": []
+}

@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2013/lei-12780-2013-01-09",
+"urn": "urn:lex:br:federal:lei:2013-01-09;12780",
+"consultado_em": "2026-11-04",
+"codigo": "588156",
+"nome": "Lei nº 12.780 de 09/01/2013",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2013-01-10", "descricao": "Publicação Original [Diário Oficial da União de 10/01/2013] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2015-02-26", "nome": "Medida Provisória nº 669 de 26/02/2015", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "alterou"}]},
+{"data": "2015-06-05", "nome": "Decreto nº 8.463 de 05/06/2015", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2015-08-31", "nome": "Lei nº 13.161 de 31/08/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 1", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "renumerou"}, {"dispositivo": "Art. 3, § 2", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, § 3", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 12, § 4", "art": "12", "acao": "acrescentou"}, {"dispositivo": "Art. 13, § 4", "art": "13", "acao": "acrescentou"}, {"dispositivo": "Art. 14", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "alterou"}], "id": "federal/leis-ordinarias/2015/lei-13161-2015-08-31"},
+{"data": "2015-09-30", "nome": "Medida Provisória nº 693 de 30/09/2015", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 18-A", "art": "18-a", "acao": "acrescentou"}, {"dispositivo": "Art. 23-A", "art": "23-a", "acao": "acrescentou"}, {"dispositivo": "Art. 23-A, Parágrafo Único", "art": "23-a", "acao": "acrescentou"}, {"dispositivo": "Art. 23-B", "art": "23-b", "acao": "acrescentou"}, {"dispositivo": "Art. 23-B, § 1", "art": "23-b", "acao": "acrescentou"}, {"dispositivo": "Art. 23-B, § 2", "art": "23-b", "acao": "acrescentou"}, {"dispositivo": "Art. 23-C", "art": "23-c", "acao": "acrescentou"}]},
+{"data": "2016-03-16", "nome": "Medida Provisória nº 718 de 16/03/2016", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5, § 1, Inciso 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, § 4", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 19, § 4", "art": "19", "acao": "alterou"}, {"dispositivo": "Art. 19, § 5", "art": "19", "acao": "acrescentou"}, {"dispositivo": "Art. 19, § 6", "art": "19", "acao": "acrescentou"}]},
+{"data": "2016-04-01", "nome": "Lei nº 13.265 de 01/04/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 18-A, caput", "art": "18-a", "acao": "acrescentou"}, {"dispositivo": "Art. 18-A, caput, Inciso 1", "art": "18-a", "acao": "acrescentou"}, {"dispositivo": "Art. 18-A, caput, Inciso 2", "art": "18-a", "acao": "acrescentou"}, {"dispositivo": "Art. 18-A, caput, Inciso 3", "art": "18-a", "acao": "acrescentou"}, {"dispositivo": "Art. 23-A", "art": "23-a", "acao": "acrescentou"}, {"dispositivo": "Art. 23-B", "art": "23-b", "acao": "acrescentou"}, {"dispositivo": "Art. 23-C, caput", "art": "23-c", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2016/lei-13265-2016-04-01"},
+{"data": "2016-07-28", "nome": "Lei nº 13.322 de 28/07/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, § 1, Inciso 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, § 4", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 19, § 4", "art": "19", "acao": "alterou"}, {"dispositivo": "Art. 19, § 5", "art": "19", "acao": "acrescentou"}, {"dispositivo": "Art. 19, § 6", "art": "19", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2016/lei-13322-2016-07-28"}
+],
+"controle": []
+}

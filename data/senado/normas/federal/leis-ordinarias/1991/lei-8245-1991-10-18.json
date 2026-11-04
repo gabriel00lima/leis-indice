@@ -1,0 +1,37 @@
+{
+"id": "federal/leis-ordinarias/1991/lei-8245-1991-10-18",
+"urn": "urn:lex:br:federal:lei:1991-10-18;8245",
+"consultado_em": "2026-11-04",
+"codigo": "550121",
+"nome": "Lei nº 8.245 de 18/10/1991",
+"apelidos": [
+"Lei de Locações dos Imóveis Urbanos (1991)",
+"Lei do Inquilinato (1991)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1991-10-21", "descricao": "Publicação Original [Diário Oficial da União de 21/10/1991] (p. 22961, col. 1)"}
+],
+"alteracoes": [
+{"data": "1992-08-28", "nome": "Medida Provisória nº 304 de 28/08/1992", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1992-11-23", "nome": "Lei nº 8.494 de 23/11/1992", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1992/lei-8494-1992-11-23"},
+{"data": "1994-06-30", "nome": "Medida Provisória nº 542 de 30/06/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-07-29", "nome": "Medida Provisória nº 566 de 29/07/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-08-26", "nome": "Medida Provisória nº 596 de 26/08/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-09-27", "nome": "Medida Provisória nº 635 de 27/09/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-10-27", "nome": "Medida Provisória nº 681 de 27/10/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-11-25", "nome": "Medida Provisória nº 731 de 25/11/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-12-23", "nome": "Medida Provisória nº 785 de 23/12/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1995-01-20", "nome": "Medida Provisória nº 851 de 20/01/1995", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "correlato"}, {"dispositivo": "Art. 17, Parágrafo Único", "art": "17", "acao": "correlato"}, {"dispositivo": "Art. 18", "art": "18", "acao": "correlato"}]},
+{"data": "1995-02-21", "nome": "Medida Provisória nº 911 de 21/02/1995", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "correlato"}, {"dispositivo": "Art. 17, Parágrafo Único", "art": "17", "acao": "correlato"}, {"dispositivo": "Art. 18", "art": "18", "acao": "correlato"}]},
+{"data": "1996-01-09", "nome": "Lei nº 9.256 de 09/01/1996", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 53", "art": "53", "acao": "alterou"}, {"dispositivo": "Art. 63, § 3", "art": "63", "acao": "alterou"}], "id": "federal/leis-ordinarias/1996/lei-9256-1996-01-09"},
+{"data": "1996-03-25", "nome": "Lei nº 9.267 de 25/03/1996", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 83", "art": "83", "acao": "alterou"}], "id": "federal/leis-ordinarias/1996/lei-9267-1996-03-25"},
+{"data": "2001-09-04", "nome": "Medida Provisória nº 2.223 de 04/09/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 32, Parágrafo Único", "art": "32", "acao": "acrescentou"}]},
+{"data": "2004-08-02", "nome": "Lei nº 10.931 de 02/08/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 32", "art": "32", "acao": "alterou"}, {"dispositivo": "Art. 39", "art": "39", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-10931-2004-08-02"},
+{"data": "2005-11-21", "nome": "Lei nº 11.196 de 21/11/2005", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 37", "art": "37", "acao": "alterou"}, {"dispositivo": "Art. 40", "art": "40", "acao": "alterou"}], "id": "federal/leis-ordinarias/2005/lei-11196-2005-11-21"},
+{"data": "2009-12-09", "nome": "Lei nº 12.112 de 09/12/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "alterou"}, {"dispositivo": "Art. 39", "art": "39", "acao": "alterou"}, {"dispositivo": "Art. 40", "art": "40", "acao": "alterou"}, {"dispositivo": "Art. 52", "art": "52", "acao": "alterou"}, {"dispositivo": "Art. 59", "art": "59", "acao": "alterou"}, {"dispositivo": "Art. 62", "art": "62", "acao": "alterou"}, {"dispositivo": "Art. 63", "art": "63", "acao": "alterou"}, {"dispositivo": "Art. 64", "art": "64", "acao": "alterou"}, {"dispositivo": "Art. 68", "art": "68", "acao": "alterou"}, {"dispositivo": "Art. 71", "art": "71", "acao": "alterou"}, {"dispositivo": "Art. 74", "art": "74", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-12112-2009-12-09"},
+{"data": "2012-12-19", "nome": "Lei nº 12.744 de 19/12/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 54-A", "art": "54-a", "acao": "revogou"}], "id": "federal/leis-ordinarias/2012/lei-12744-2012-12-19"},
+{"data": "2020-06-10", "nome": "Lei nº 14.010 de 10/06/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 59, § 1, Inciso 1", "art": "59", "acao": "ressalvou"}, {"dispositivo": "Art. 59, § 1, Inciso 2", "art": "59", "acao": "ressalvou"}, {"dispositivo": "Art. 59, § 1, Inciso 5", "art": "59", "acao": "ressalvou"}, {"dispositivo": "Art. 59, § 1, Inciso 7", "art": "59", "acao": "ressalvou"}, {"dispositivo": "Art. 59, § 1, Inciso 8", "art": "59", "acao": "ressalvou"}, {"dispositivo": "Art. 59, § 1, Inciso 9", "art": "59", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2020/lei-14010-2020-06-10"},
+{"data": "2021-10-07", "nome": "Lei nº 14.216 de 07/10/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 59, § 1, Inciso 1", "art": "59", "acao": "ressalvou"}, {"dispositivo": "Art. 59, § 1, Inciso 2", "art": "59", "acao": "ressalvou"}, {"dispositivo": "Art. 59, § 1, Inciso 5", "art": "59", "acao": "ressalvou"}, {"dispositivo": "Art. 59, § 1, Inciso 7", "art": "59", "acao": "ressalvou"}, {"dispositivo": "Art. 59, § 1, Inciso 8", "art": "59", "acao": "ressalvou"}, {"dispositivo": "Art. 59, § 1, Inciso 9", "art": "59", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2021/lei-14216-2021-10-07"}
+],
+"controle": []
+}

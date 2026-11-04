@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1102-1950-05-18",
+"urn": "urn:lex:br:federal:lei:1950-05-18;1102",
+"consultado_em": "2026-11-04",
+"codigo": "542714",
+"nome": "Lei nº 1.102 de 18/05/1950",
+"apelidos": [
+"Plano SALTE (1950)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-05-19", "descricao": "Publicação Original [Diário Oficial da União de 19/05/1950] (p. 7696, col. 1)"}
+],
+"alteracoes": [
+{"data": "1951-12-15", "nome": "Lei nº 1.504 de 15/12/1951", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1951/lei-1504-1951-12-15"},
+{"data": "1953-03-25", "nome": "Lei nº 1.831 de 25/03/1953", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1953/lei-1831-1953-03-25"},
+{"data": "1954-06-14", "nome": "Lei nº 2.227 de 14/06/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2227-1954-06-14"}
+],
+"controle": []
+}

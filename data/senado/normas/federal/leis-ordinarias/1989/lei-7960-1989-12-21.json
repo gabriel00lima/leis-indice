@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7960-1989-12-21",
+"urn": "urn:lex:br:federal:lei:1989-12-21;7960",
+"consultado_em": "2026-11-04",
+"codigo": "549836",
+"nome": "Lei nº 7.960 de 21/12/1989",
+"apelidos": [
+"Lei da Prisão Temporária (1989)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/1989] (p. 24075, col. 1)"}
+],
+"alteracoes": [
+{"data": "2016-03-16", "nome": "Lei nº 13.260 de 16/03/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 3, Alínea p", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2016/lei-13260-2016-03-16"},
+{"data": "2019-09-05", "nome": "Lei nº 13.869 de 05/09/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 4-A", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2, § 7", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 8", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2019/lei-13869-2019-09-05"}
+],
+"controle": [
+{"data": "2022-02-11", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 3.360 de 11/02/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}], "decisao": {"classe": "ADI", "numero": "3360"}},
+{"data": "2022-02-11", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.109 de 11/02/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}], "decisao": {"classe": "ADI", "numero": "4109"}}
+]
+}

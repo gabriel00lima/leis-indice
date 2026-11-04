@@ -1,0 +1,27 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4900-1965-12-10",
+"urn": "urn:lex:br:federal:lei:1965-12-10;4900",
+"consultado_em": "2026-11-04",
+"codigo": "546756",
+"nome": "Lei nº 4.900 de 10/12/1965",
+"apelidos": [
+"Lei Orçamentária Anual (LOA) (1966)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-12-16", "descricao": "Publicação Original [Diário Oficial da União de 16/12/1965] (p. 12945, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-06-29", "nome": "Lei nº 5.050 de 29/06/1966", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5050-1966-06-29"},
+{"data": "1966-06-29", "nome": "Lei nº 5.054 de 29/06/1966", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5054-1966-06-29"},
+{"data": "1966-07-06", "nome": "Lei nº 5.068 de 06/07/1966", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5068-1966-07-06"},
+{"data": "1966-08-03", "nome": "Decreto nº 58.980 de 03/08/1966", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1966-08-30", "nome": "Lei nº 5.086 de 30/08/1966", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5086-1966-08-30"},
+{"data": "1966-11-08", "nome": "Decreto nº 59.474 de 08/11/1966", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1966-11-18", "nome": "Decreto-Lei nº 42 de 18/11/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1966/del-42-1966-11-18"},
+{"data": "1966-12-08", "nome": "Lei nº 5.184 de 08/12/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5184-1966-12-08"},
+{"data": "1966-12-30", "nome": "Decreto-Lei nº 91 de 30/12/1966", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1966/del-91-1966-12-30"},
+{"data": "1966-12-30", "nome": "Decreto-Lei nº 92 de 30/12/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1966/del-92-1966-12-30"},
+{"data": "1967-04-20", "nome": "Lei nº 5.269 de 20/04/1967", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1967/lei-5269-1967-04-20"}
+],
+"controle": []
+}

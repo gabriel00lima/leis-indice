@@ -1,0 +1,26 @@
+{
+"id": "federal/decretos-lei/1983/del-2065-1983-10-26",
+"urn": "urn:lex:br:federal:decreto.lei:1983-10-26;2065",
+"consultado_em": "2026-11-04",
+"codigo": "526739",
+"nome": "Decreto-Lei nº 2.065 de 26/10/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-10-28", "descricao": "Publicação Original [Diário Oficial da União de 28/10/1983] (p. 18281, col. 2)"}
+],
+"alteracoes": [
+{"data": "1983-11-10", "nome": "Decreto Legislativo nº 91 de 10/11/1983", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1983-11-10", "nome": "Decreto nº 88.986 de 10/11/1983", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1983-12-20", "nome": "Decreto-Lei nº 2.072 de 20/12/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2072-1983-12-20"},
+{"data": "1984-01-10", "nome": "Decreto nº 89.284 de 10/01/1984", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1984-02-27", "nome": "Decreto nº 89.405 de 27/02/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 27", "art": "27", "acao": "alterou"}]},
+{"data": "1984-06-13", "nome": "Decreto-Lei nº 2.124 de 13/06/1984", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2124-1984-06-13"},
+{"data": "1984-06-26", "nome": "Decreto-Lei nº 2.134 de 26/06/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2134-1984-06-26"},
+{"data": "1984-10-29", "nome": "Lei nº 7.238 de 29/10/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 24", "art": "24", "acao": "revogou"}, {"dispositivo": "Art. 25", "art": "25", "acao": "revogou"}, {"dispositivo": "Art. 26", "art": "26", "acao": "revogou"}, {"dispositivo": "Art. 27", "art": "27", "acao": "revogou"}, {"dispositivo": "Art. 28", "art": "28", "acao": "revogou"}, {"dispositivo": "Art. 29", "art": "29", "acao": "revogou"}, {"dispositivo": "Art. 30", "art": "30", "acao": "revogou"}, {"dispositivo": "Art. 31", "art": "31", "acao": "revogou"}, {"dispositivo": "Art. 32", "art": "32", "acao": "revogou"}, {"dispositivo": "Art. 33", "art": "33", "acao": "revogou"}, {"dispositivo": "Art. 34", "art": "34", "acao": "revogou"}, {"dispositivo": "Art. 35", "art": "35", "acao": "revogou"}, {"dispositivo": "Art. 36", "art": "36", "acao": "revogou"}, {"dispositivo": "Art. 37", "art": "37", "acao": "revogou"}, {"dispositivo": "Art. 38", "art": "38", "acao": "revogou"}, {"dispositivo": "Art. 39", "art": "39", "acao": "revogou"}, {"dispositivo": "Art. 40", "art": "40", "acao": "revogou"}, {"dispositivo": "Art. 41", "art": "41", "acao": "revogou"}, {"dispositivo": "Art. 42", "art": "42", "acao": "revogou"}], "id": "federal/leis-ordinarias/1984/lei-7238-1984-10-29"},
+{"data": "1985-07-04", "nome": "Lei nº 7.335 de 04/07/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7335-1985-07-04"},
+{"data": "1985-12-23", "nome": "Lei nº 7.450 de 23/12/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7450-1985-12-23"},
+{"data": "1986-11-21", "nome": "Decreto-Lei nº 2.303 de 21/11/1986", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1986/del-2303-1986-11-21"},
+{"data": "1988-08-30", "nome": "Decreto-Lei nº 2.462 de 30/08/1988", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1988/del-2462-1988-08-30"}
+],
+"controle": []
+}

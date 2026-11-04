@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1970/lei-5628-1970-12-01",
+"urn": "urn:lex:br:federal:lei:1970-12-01;5628",
+"consultado_em": "2026-11-04",
+"codigo": "547500",
+"nome": "Lei nº 5.628 de 01/12/1970",
+"apelidos": [
+"Lei Orçamentária Anual (LOA) (1971)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1970-12-02", "descricao": "Publicação Original [Diário Oficial da União de 02/12/1970] (p. 10259, col. 1)"}
+],
+"alteracoes": [
+{"data": "1972-07-21", "nome": "Lei nº 5.796 de 21/07/1972", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5796-1972-07-21"}
+],
+"controle": []
+}

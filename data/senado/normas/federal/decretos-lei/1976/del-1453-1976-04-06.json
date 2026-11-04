@@ -1,0 +1,21 @@
+{
+"id": "federal/decretos-lei/1976/del-1453-1976-04-06",
+"urn": "urn:lex:br:federal:decreto.lei:1976-04-06;1453",
+"consultado_em": "2026-11-04",
+"codigo": "525528",
+"nome": "Decreto-Lei nº 1.453 de 06/04/1976",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1976-04-07", "descricao": "Publicação Original [Diário Oficial da União de 07/04/1976] (p. 4479, col. 1)"}
+],
+"alteracoes": [
+{"data": "1976-05-18", "nome": "Decreto Legislativo nº 41 de 18/05/1976", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1976-08-05", "nome": "Decreto-Lei nº 1.474 de 05/08/1976", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1976/del-1474-1976-08-05"},
+{"data": "1977-03-10", "nome": "Decreto-Lei nº 1.527 de 10/03/1977", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1977/del-1527-1977-03-10"},
+{"data": "1978-03-03", "nome": "Decreto-Lei nº 1.615 de 03/03/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1978/del-1615-1978-03-03"},
+{"data": "1978-03-03", "nome": "Decreto-Lei nº 1.616 de 03/03/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1978/del-1616-1978-03-03"},
+{"data": "1979-02-14", "nome": "Decreto-Lei nº 1.669 de 14/02/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1669-1979-02-14"},
+{"data": "1979-02-14", "nome": "Decreto-Lei nº 1.670 de 14/02/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1670-1979-02-14"}
+],
+"controle": []
+}

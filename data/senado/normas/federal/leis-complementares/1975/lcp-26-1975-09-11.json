@@ -1,0 +1,31 @@
+{
+"id": "federal/leis-complementares/1975/lcp-26-1975-09-11",
+"urn": "urn:lex:br:federal:lei.complementar:1975-09-11;26",
+"consultado_em": "2026-11-04",
+"codigo": "540731",
+"nome": "Lei Complementar nº 26 de 11/09/1975",
+"apelidos": [
+"Lei de Unificação do PIS-PASEP (1975)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-09-12", "descricao": "Publicação Original [Diário Oficial da União de 12/09/1975] (p. 11985, col. 1)"}
+],
+"alteracoes": [
+{"data": "1976-08-17", "nome": "Decreto nº 78.276 de 17/08/1976", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1977-03-30", "nome": "Decreto nº 79.459 de 30/03/1977", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1977-06-02", "nome": "Lei nº 6.419 de 02/06/1977", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1977/lei-6419-1977-06-02"},
+{"data": "1978-09-28", "nome": "Decreto nº 82.343 de 28/09/1978", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1983-08-03", "nome": "Decreto-Lei nº 2.052 de 03/08/1983", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2052-1983-08-03"},
+{"data": "1993-09-15", "nome": "Decreto nº 931 de 15/09/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2003-06-17", "nome": "Decreto nº 4.751 de 17/06/2003", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2017-08-23", "nome": "Medida Provisória nº 797 de 23/08/2017", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 4, § 1", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4-A, caput", "art": "4-a", "acao": "acrescentou"}, {"dispositivo": "Art. 4-A, § 1", "art": "4-a", "acao": "acrescentou"}, {"dispositivo": "Art. 4-A, § 2", "art": "4-a", "acao": "acrescentou"}]},
+{"data": "2017-12-26", "nome": "Medida Provisória nº 813 de 26/12/2017", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 4, § 1", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 5", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 6", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4-A, caput", "art": "4-a", "acao": "acrescentou"}, {"dispositivo": "Art. 4-A, § 1", "art": "4-a", "acao": "acrescentou"}, {"dispositivo": "Art. 4-A, § 2", "art": "4-a", "acao": "acrescentou"}, {"dispositivo": "Art. 4-A, § 3", "art": "4-a", "acao": "acrescentou"}]},
+{"data": "2018-06-13", "nome": "Decreto nº 9.409 de 13/06/2018", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 4, § 7", "art": "4", "acao": "regulamentou"}]},
+{"data": "2018-06-13", "nome": "Lei nº 13.677 de 13/06/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 4, § 1", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4-A, caput", "art": "4-a", "acao": "acrescentou"}, {"dispositivo": "Art. 4-A, § 1", "art": "4-a", "acao": "acrescentou"}, {"dispositivo": "Art. 4-A, § 2", "art": "4-a", "acao": "acrescentou"}, {"dispositivo": "Art. 4-A, § 3", "art": "4-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2018/lei-13677-2018-06-13"},
+{"data": "2019-07-24", "nome": "Medida Provisória nº 889 de 24/07/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, caput, Alínea b", "art": "3", "acao": "ressalvou"}, {"dispositivo": "Art. 3, caput, Alínea c", "art": "3", "acao": "ressalvou"}, {"dispositivo": "Art. 4, § 1", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 1, Inciso 1", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 1, Inciso 2", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 1, Inciso 3", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 1, Inciso 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 1, Inciso 5", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 1, Inciso 6", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 2", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 3", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 7", "art": "4", "acao": "revogou"}]},
+{"data": "2019-08-20", "nome": "Decreto nº 9.978 de 20/08/2019", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2019-12-11", "nome": "Lei nº 13.932 de 11/12/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 1", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 1, Inciso 1", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 1, Inciso 2", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 1, Inciso 3", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 1, Inciso 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 1, Inciso 5", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 1, Inciso 6", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 2", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 3", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 7", "art": "4", "acao": "revogou"}], "id": "federal/leis-ordinarias/2019/lei-13932-2019-12-11"},
+{"data": "2020-04-07", "nome": "Medida Provisória nº 946 de 07/04/2020", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, caput, Alínea a", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, caput, Alínea b", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, caput, Alínea c", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4, § 6", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4-A, caput", "art": "4-a", "acao": "alterou"}, {"dispositivo": "Art. 4-A, § 2", "art": "4-a", "acao": "revogou"}, {"dispositivo": "Art. 4-A, § 3", "art": "4-a", "acao": "revogou"}]}
+],
+"controle": []
+}

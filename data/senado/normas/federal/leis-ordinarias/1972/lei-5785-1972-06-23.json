@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1972/lei-5785-1972-06-23",
+"urn": "urn:lex:br:federal:lei:1972-06-23;5785",
+"consultado_em": "2026-11-04",
+"codigo": "547661",
+"nome": "Lei nº 5.785 de 23/06/1972",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1972-06-23", "descricao": "Publicação Original [Diário Oficial da União de 23/06/1972] (p. 5473, col. 1)"},
+{"tipo": "RET", "data": "1972-06-29", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 29/06/1972] (p. 5688, col. 2)"}
+],
+"alteracoes": [
+{"data": "1972-09-23", "nome": "Decreto nº 71.136 de 23/09/1972", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1983-01-26", "nome": "Decreto nº 88.066 de 26/01/1983", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2016-09-30", "nome": "Medida Provisória nº 747 de 30/09/2016", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 1", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 2", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 3", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 4, § 4", "art": "4", "acao": "acrescentou"}]},
+{"data": "2017-03-28", "nome": "Lei nº 13.424 de 28/03/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 1", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 2", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 3", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 4, § 4", "art": "4", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2017/lei-13424-2017-03-28"},
+{"data": "2025-07-30", "nome": "Lei nº 15.182 de 30/07/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4, caput", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 4", "art": "4", "acao": "vetado"}, {"dispositivo": "Art. 4, § 4", "art": "4", "acao": "vetado"}, {"dispositivo": "Art. 4, § 5", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 4-A, caput", "art": "4-a", "acao": "acrescentou"}, {"dispositivo": "Art. 4-A, Parágrafo Único, apenas o Caput", "art": "4-a", "acao": "acrescentou"}, {"dispositivo": "Art. 4-A, Parágrafo Único, Inciso 1", "art": "4-a", "acao": "vetado"}, {"dispositivo": "Art. 4-A, Parágrafo Único, Inciso 2", "art": "4-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2025/lei-15182-2025-07-30"}
+],
+"controle": []
+}

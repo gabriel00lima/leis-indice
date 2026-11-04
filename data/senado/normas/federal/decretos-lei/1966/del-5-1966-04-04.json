@@ -1,0 +1,32 @@
+{
+"id": "federal/decretos-lei/1966/del-5-1966-04-04",
+"urn": "urn:lex:br:federal:decreto.lei:1966-04-04;5",
+"consultado_em": "2026-11-04",
+"codigo": "522653",
+"nome": "Decreto-Lei nº 5 de 04/04/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-04-05", "descricao": "Publicação Original [Diário Oficial da União de 05/04/1966] (p. 3587, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-06-10", "nome": "Lei nº 5.025 de 10/06/1966", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5025-1966-06-10"},
+{"data": "1966-07-07", "nome": "Decreto-Lei nº 12 de 07/07/1966", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1966/del-12-1966-07-07"},
+{"data": "1966-10-11", "nome": "Decreto-Lei nº 22 de 11/10/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1966/del-22-1966-10-11"},
+{"data": "1966-10-19", "nome": "Decreto-Lei nº 24 de 19/10/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1966/del-24-1966-10-19"},
+{"data": "1966-10-24", "nome": "Decreto nº 59.412 de 24/10/1966", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1966-11-28", "nome": "Decreto nº 59.607 de 28/11/1966", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1966-12-21", "nome": "Decreto nº 59.832 de 21/12/1966", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1966-12-26", "nome": "Decreto-Lei nº 83 de 26/12/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1966/del-83-1966-12-26"},
+{"data": "1967-01-31", "nome": "Decreto-Lei nº 127 de 31/01/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1967/del-127-1967-01-31"},
+{"data": "1967-02-10", "nome": "Decreto-Lei nº 152 de 10/02/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1967/del-152-1967-02-10"},
+{"data": "1968-05-16", "nome": "Lei nº 5.436 de 16/05/1968", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1968/lei-5436-1968-05-16"},
+{"data": "1968-08-10", "nome": "Lei nº 5.480 de 10/08/1968", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14", "art": "14", "acao": "revogou"}, {"dispositivo": "Art. 17", "art": "17", "acao": "alterou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "alterou"}, {"dispositivo": "Art. 18, Parágrafo Único", "art": "18", "acao": "alterou"}, {"dispositivo": "Art. 21", "art": "21", "acao": "alterou"}, {"dispositivo": "Art. 21, § 1", "art": "21", "acao": "alterou"}, {"dispositivo": "Art. 21, § 2", "art": "21", "acao": "alterou"}], "id": "federal/leis-ordinarias/1968/lei-5480-1968-08-10"},
+{"data": "1969-04-30", "nome": "Decreto-Lei nº 561 de 30/04/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-561-1969-04-30"},
+{"data": "1977-02-14", "nome": "Decreto nº 79.274 de 14/02/1977", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1979-06-25", "nome": "Decreto nº 83.611 de 25/06/1979", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1981-05-27", "nome": "Lei nº 6.914 de 27/05/1981", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 18", "art": "18", "acao": "revogou"}], "id": "federal/leis-ordinarias/1981/lei-6914-1981-05-27"},
+{"data": "1984-12-20", "nome": "Decreto-Lei nº 2.185 de 20/12/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2185-1984-12-20"},
+{"data": "1993-02-25", "nome": "Lei nº 8.630 de 25/02/1993", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1993/lei-8630-1993-02-25"}
+],
+"controle": []
+}

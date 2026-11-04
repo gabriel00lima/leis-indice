@@ -1,0 +1,27 @@
+{
+"id": "federal/decretos-lei/1944/del-6259-1944-02-10",
+"urn": "urn:lex:br:federal:decreto.lei:1944-02-10;6259",
+"consultado_em": "2026-11-04",
+"codigo": "531357",
+"nome": "Decreto-Lei nº 6.259 de 10/02/1944",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1944-02-18", "descricao": "Publicação Original [Diário Oficial da União de 18/02/1944] (p. 2769, col. 1)"}
+],
+"alteracoes": [
+{"data": "1951-12-19", "nome": "Lei nº 1.508 de 19/12/1951", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1951/lei-1508-1951-12-19"},
+{"data": "1953-05-05", "nome": "Decreto nº 32.709 de 05/05/1953", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1956-12-12", "nome": "Decreto nº 40.549 de 12/12/1956", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1957-12-17", "nome": "Lei nº 3.346 de 17/12/1957", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1957/lei-3346-1957-12-17"},
+{"data": "1958-12-18", "nome": "Lei nº 3.491 de 18/12/1958", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1958/lei-3491-1958-12-18"},
+{"data": "1961-06-26", "nome": "Lei nº 3.909 de 26/06/1961", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1961/lei-3909-1961-06-26"},
+{"data": "1961-07-14", "nome": "Decreto nº 50.954 de 14/07/1961", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1962-06-06", "nome": "Decreto do Conselho de MInistros nº 1.146 de 06/06/1962", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1962-12-04", "nome": "Lei nº 4.161 de 04/12/1962", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1962/lei-4161-1962-12-04"},
+{"data": "1969-07-30", "nome": "Decreto-Lei nº 717 de 30/07/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-717-1969-07-30"},
+{"data": "1973-09-06", "nome": "Decreto-Lei nº 1.285 de 06/09/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1973/del-1285-1973-09-06"},
+{"data": "1984-12-19", "nome": "Lei nº 7.291 de 19/12/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1984/lei-7291-1984-12-19"},
+{"data": "1992-12-11", "nome": "Lei nº 8.522 de 11/12/1992", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 13", "art": "13", "acao": "alterou"}], "id": "federal/leis-ordinarias/1992/lei-8522-1992-12-11"}
+],
+"controle": []
+}

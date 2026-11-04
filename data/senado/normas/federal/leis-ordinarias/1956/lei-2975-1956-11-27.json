@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1956/lei-2975-1956-11-27",
+"urn": "urn:lex:br:federal:lei:1956-11-27;2975",
+"consultado_em": "2026-11-04",
+"codigo": "544818",
+"nome": "Lei nº 2.975 de 27/11/1956",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1956-11-28", "descricao": "Publicação Original [Diário Oficial da União de 28/11/1956] (p. 22537, col. 1)"}
+],
+"alteracoes": [
+{"data": "1957-04-25", "nome": "Decreto nº 41.433 de 25/04/1957", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1957-10-01", "nome": "Lei nº 3.273 de 01/10/1957", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1957/lei-3273-1957-10-01"},
+{"data": "1962-12-04", "nome": "Lei nº 4.165 de 04/12/1962", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1962/lei-4165-1962-12-04"},
+{"data": "1963-10-19", "nome": "Lei nº 4.268 de 19/10/1963", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1963/lei-4268-1963-10-19"},
+{"data": "1963-12-23", "nome": "Lei nº 4.313 de 23/12/1963", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1963/lei-4313-1963-12-23"}
+],
+"controle": []
+}

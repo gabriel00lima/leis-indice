@@ -1,0 +1,28 @@
+{
+"id": "federal/leis-ordinarias/1986/lei-7479-1986-06-02",
+"urn": "urn:lex:br:federal:lei:1986-06-02;7479",
+"consultado_em": "2026-11-04",
+"codigo": "549355",
+"nome": "Lei nº 7.479 de 02/06/1986",
+"apelidos": [
+"Estatuto dos Bombeiros do Distrito Federal (DF) (1986)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-06-04", "descricao": "Publicação Original [Diário Oficial da União de 04/06/1986] (p. 8057, col. 1)"}
+],
+"alteracoes": [
+{"data": "1986-12-29", "nome": "Decreto-Lei nº 2.317 de 29/12/1986", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1986/del-2317-1986-12-29"},
+{"data": "1987-03-29", "nome": "Lei nº 7.590 de 29/03/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1987/lei-7590-1987-03-29"},
+{"data": "1989-06-08", "nome": "Lei nº 7.771 de 08/06/1989", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7771-1989-06-08"},
+{"data": "1989-11-20", "nome": "Medida Provisória nº 109 de 20/11/1989", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1997-02-20", "nome": "Lei nº 9.437 de 20/02/1997", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 51", "art": "51", "acao": "correlato"}], "id": "federal/leis-ordinarias/1997/lei-9437-1997-02-20"},
+{"data": "2001-09-05", "nome": "Medida Provisória nº 2.218 de 05/09/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 54", "art": "54", "acao": "alterou"}, {"dispositivo": "Art. 54, § 1", "art": "54", "acao": "alterou"}, {"dispositivo": "Art. 54, § 2", "art": "54", "acao": "alterou"}, {"dispositivo": "Art. 64, § 2", "art": "64", "acao": "alterou"}]},
+{"data": "2002-07-04", "nome": "Lei nº 10.486 de 04/07/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 54", "art": "54", "acao": "alterou"}, {"dispositivo": "Art. 64", "art": "64", "acao": "alterou"}], "id": "federal/leis-ordinarias/2002/lei-10486-2002-07-04"},
+{"data": "2005-07-15", "nome": "Lei nº 11.134 de 15/07/2005", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 93, caput, Inciso 1, Alínea a", "art": "93", "acao": "alterou"}, {"dispositivo": "Art. 93, caput, Inciso 1, Alínea b", "art": "93", "acao": "alterou"}, {"dispositivo": "Art. 93, caput, Inciso 4", "art": "93", "acao": "alterou"}, {"dispositivo": "Art. 93, § 1", "art": "93", "acao": "revogou"}, {"dispositivo": "Art. 93, § 2", "art": "93", "acao": "revogou"}], "id": "federal/leis-ordinarias/2005/lei-11134-2005-07-15"},
+{"data": "2009-11-06", "nome": "Lei nº 12.086 de 06/11/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 78", "art": "78", "acao": "alterou"}, {"dispositivo": "Art. 92, § 3", "art": "92", "acao": "revogou"}, {"dispositivo": "Art. 93", "art": "93", "acao": "alterou"}, {"dispositivo": "Art. 95", "art": "95", "acao": "alterou"}, {"dispositivo": "Art. 95, caput, Inciso 1, Alínea c", "art": "95", "acao": "revogou"}, {"dispositivo": "Art. 121", "art": "121", "acao": "alterou"}, {"dispositivo": "Art. 122-A", "art": "122-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2009/lei-12086-2009-11-06"},
+{"data": "2026-04-27", "nome": "Lei nº 15.395 de 27/04/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 51, caput, Inciso 1-A", "art": "51", "acao": "acrescentou"}, {"dispositivo": "Art. 51-A, caput", "art": "51-a", "acao": "acrescentou"}, {"dispositivo": "Art. 92, caput", "art": "92", "acao": "alterou"}, {"dispositivo": "Art. 92, § 1", "art": "92", "acao": "vetado"}, {"dispositivo": "Art. 92, § 4", "art": "92", "acao": "acrescentou"}, {"dispositivo": "Art. 93", "art": "93", "acao": "alterou"}, {"dispositivo": "Art. 95, caput, Inciso 1, Alínea a", "art": "95", "acao": "alterou"}, {"dispositivo": "Art. 95, caput, Inciso 1, Alínea b", "art": "95", "acao": "alterou"}], "id": "federal/leis-ordinarias/2026/lei-15395-2026-04-27"}
+],
+"controle": [
+{"data": "2018-10-11", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.044 de 11/10/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1 Art. 11, § 2", "art": null, "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade Parcial sem Redução do Texto"}], "decisao": {"classe": "ADI", "numero": "5044"}}
+]
+}

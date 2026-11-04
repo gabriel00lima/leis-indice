@@ -1,0 +1,27 @@
+{
+"id": "federal/leis-ordinarias/2007/lei-11530-2007-10-24",
+"urn": "urn:lex:br:federal:lei:2007-10-24;11530",
+"consultado_em": "2026-11-04",
+"codigo": "572682",
+"nome": "Lei nº 11.530 de 24/10/2007",
+"apelidos": [
+"Lei do Programa Nacional de Segurança Pública com Cidadania (Pronasci) (2007)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2007-10-25", "descricao": "Publicação Original [Diário Oficial da União de 25/10/2007] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2008-01-23", "nome": "Medida Provisória nº 416 de 23/01/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 8-A", "art": "8-a", "acao": "alterou"}, {"dispositivo": "Art. 8-B", "art": "8-b", "acao": "alterou"}, {"dispositivo": "Art. 8-C", "art": "8-c", "acao": "alterou"}, {"dispositivo": "Art. 8-D", "art": "8-d", "acao": "alterou"}, {"dispositivo": "Art. 8-E", "art": "8-e", "acao": "alterou"}, {"dispositivo": "Art. 8-F", "art": "8-f", "acao": "alterou"}, {"dispositivo": "Art. 8-G", "art": "8-g", "acao": "alterou"}, {"dispositivo": "Art. 8-H", "art": "8-h", "acao": "alterou"}, {"dispositivo": "Art. 8-I", "art": "8-i", "acao": "alterou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}]},
+{"data": "2008-03-08", "nome": "Decreto nº 6.390 de 08/03/2008", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 8-F", "art": "8-f", "acao": "regulamentou"}]},
+{"data": "2008-06-19", "nome": "Decreto nº 6.490 de 19/06/2008", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 8-D", "art": "8-d", "acao": "regulamentou"}, {"dispositivo": "Art. 8-E", "art": "8-e", "acao": "regulamentou"}]},
+{"data": "2008-06-19", "nome": "Lei nº 11.707 de 19/06/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 8-A", "art": "8-a", "acao": "alterou"}, {"dispositivo": "Art. 8-B", "art": "8-b", "acao": "alterou"}, {"dispositivo": "Art. 8-C", "art": "8-c", "acao": "alterou"}, {"dispositivo": "Art. 8-D", "art": "8-d", "acao": "alterou"}, {"dispositivo": "Art. 8-E", "art": "8-e", "acao": "alterou"}, {"dispositivo": "Art. 8-F", "art": "8-f", "acao": "alterou"}, {"dispositivo": "Art. 8-G", "art": "8-g", "acao": "alterou"}, {"dispositivo": "Art. 8-H", "art": "8-h", "acao": "alterou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}], "id": "federal/leis-ordinarias/2008/lei-11707-2008-06-19"},
+{"data": "2011-02-23", "nome": "Decreto nº 7.443 de 23/02/2011", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2012-07-04", "nome": "Lei nº 12.681 de 04/07/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9, § 1", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 9, § 2", "art": "9", "acao": "alterou"}], "id": "federal/leis-ordinarias/2012/lei-12681-2012-07-04"},
+{"data": "2014-09-24", "nome": "Lei nº 13.030 de 24/09/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8-E, § 9", "art": "8-e", "acao": "alterou"}], "id": "federal/leis-ordinarias/2014/lei-13030-2014-09-24"},
+{"data": "2018-06-11", "nome": "Lei nº 13.675 de 11/06/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9, § 2", "art": "9", "acao": "alterou"}], "id": "federal/leis-ordinarias/2018/lei-13675-2018-06-11"},
+{"data": "2023-03-15", "nome": "Decreto nº 11.436 de 15/03/2023", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": [
+{"data": "2021-04-16", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.011 de 16/04/2021", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 8-A", "art": "8-a", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 8-B", "art": "8-b", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 8-C", "art": "8-c", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 8-D", "art": "8-d", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 8-E", "art": "8-e", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 8-F", "art": "8-f", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 8-G", "art": "8-g", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 8-H", "art": "8-h", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "4011"}}
+]
+}

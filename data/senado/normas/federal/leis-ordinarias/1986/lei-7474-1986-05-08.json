@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1986/lei-7474-1986-05-08",
+"urn": "urn:lex:br:federal:lei:1986-05-08;7474",
+"consultado_em": "2026-11-04",
+"codigo": "549350",
+"nome": "Lei nº 7.474 de 08/05/1986",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-05-09", "descricao": "Publicação Original [Diário Oficial da União de 09/05/1986] (p. 6717, col. 1)"}
+],
+"alteracoes": [
+{"data": "1987-03-13", "nome": "Decreto nº 94.090 de 13/03/1987", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1990-02-02", "nome": "Decreto nº 98.927 de 02/02/1990", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-06-21", "nome": "Lei nº 8.889 de 21/06/1994", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1994/lei-8889-1994-06-21"},
+{"data": "2002-10-25", "nome": "Medida Provisória nº 76 de 25/10/2002", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2002-12-20", "nome": "Lei nº 10.609 de 20/12/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2002/lei-10609-2002-12-20"}
+],
+"controle": []
+}

@@ -1,0 +1,35 @@
+{
+"id": "federal/leis-ordinarias/1951/lei-1316-1951-01-20",
+"urn": "urn:lex:br:federal:lei:1951-01-20;1316",
+"consultado_em": "2026-11-04",
+"codigo": "542966",
+"nome": "Lei nº 1.316 de 20/01/1951",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1951-01-23", "descricao": "Publicação Original [Diário Oficial da União de 23/01/1951] (p. 1113, col. 1)"}
+],
+"alteracoes": [
+{"data": "1951-10-01", "nome": "Decreto nº 30.034 de 01/10/1951", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 84", "art": "84", "acao": "regulamentou"}]},
+{"data": "1951-12-24", "nome": "Decreto nº 30.336 de 24/12/1951", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1952-09-08", "nome": "Decreto nº 31.401 de 08/09/1952", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 39, § 1", "art": "39", "acao": "correlato"}]},
+{"data": "1954-05-17", "nome": "Decreto nº 35.509 de 17/05/1954", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1954-06-15", "nome": "Decreto nº 35.658 de 15/06/1954", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1954-08-09", "nome": "Lei nº 2.283 de 09/08/1954", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2283-1954-08-09"},
+{"data": "1955-11-03", "nome": "Decreto nº 38.204 de 03/11/1955", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1956-01-19", "nome": "Lei nº 2.710 de 19/01/1956", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2710-1956-01-19"},
+{"data": "1956-02-18", "nome": "Lei nº 2.734 de 18/02/1956", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2734-1956-02-18"},
+{"data": "1956-06-12", "nome": "Decreto nº 39.351 de 12/06/1956", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1956-08-25", "nome": "Lei nº 2.850 de 25/08/1956", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2850-1956-08-25"},
+{"data": "1957-01-24", "nome": "Decreto nº 40.829 de 24/01/1957", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1957-10-14", "nome": "Lei nº 3.283 de 14/10/1957", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1957/lei-3283-1957-10-14"},
+{"data": "1957-12-11", "nome": "Decreto nº 42.791 de 11/12/1957", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1962-05-03", "nome": "Decreto do Conselho de MInistros nº 931 de 03/05/1962", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 89, caput, Alínea b", "art": "89", "acao": "correlato"}]},
+{"data": "1962-05-03", "nome": "Decreto do Conselho de MInistros nº 932-A de 03/05/1962", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1962-05-03", "nome": "Decreto do Conselho de MInistros nº 934-A de 03/05/1962", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1962-05-04", "nome": "Decreto do Conselho de MInistros nº 933 de 04/05/1962", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1962-05-14", "nome": "Decreto do Conselho de MInistros nº 982 de 14/05/1962", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1962-06-19", "nome": "Decreto do Conselho de MInistros nº 1.195 de 19/06/1962", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1962-10-01", "nome": "Decreto do Conselho de MInistros nº 1.427 de 01/10/1962", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

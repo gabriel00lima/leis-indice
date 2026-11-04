@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1966/lei-5152-1966-10-21",
+"urn": "urn:lex:br:federal:lei:1966-10-21;5152",
+"consultado_em": "2026-11-04",
+"codigo": "547011",
+"nome": "Lei nº 5.152 de 21/10/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-10-24", "descricao": "Publicação Original [Diário Oficial da União de 24/10/1966] (p. 12206, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-10-10", "nome": "Decreto-Lei nº 921 de 10/10/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-921-1969-10-10"},
+{"data": "1970-08-13", "nome": "Decreto nº 67.047 de 13/08/1970", "tipo": "Aprovação de Estatuto", "dispositivos": []},
+{"data": "1970-08-18", "nome": "Decreto nº 67.048 de 18/08/1970", "tipo": "Aprovação de Estatuto", "dispositivos": []},
+{"data": "1973-10-29", "nome": "Lei nº 5.928 de 29/10/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-5928-1973-10-29"}
+],
+"controle": []
+}

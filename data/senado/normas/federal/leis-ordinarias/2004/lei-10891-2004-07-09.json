@@ -1,0 +1,25 @@
+{
+"id": "federal/leis-ordinarias/2004/lei-10891-2004-07-09",
+"urn": "urn:lex:br:federal:lei:2004-07-09;10891",
+"consultado_em": "2026-11-04",
+"codigo": "552767",
+"nome": "Lei nº 10.891 de 09/07/2004",
+"apelidos": [
+"Lei da Bolsa-Atleta (2004)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2004-07-12", "descricao": "Publicação Original [Diário Oficial da União de 12/07/2004] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2004-12-17", "nome": "Medida Provisória nº 229 de 17/12/2004", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 1", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 2", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 7", "art": "3", "acao": "alterou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}]},
+{"data": "2005-01-13", "nome": "Lei nº 11.096 de 13/01/2005", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 1", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 2", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 4", "art": "3", "acao": "alterou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2005/lei-11096-2005-01-13"},
+{"data": "2005-01-14", "nome": "Decreto nº 5.342 de 14/01/2005", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2010-09-20", "nome": "Medida Provisória nº 502 de 20/09/2010", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}]},
+{"data": "2011-03-16", "nome": "Lei nº 12.395 de 16/03/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4-A", "art": "4-a", "acao": "acrescentou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 7-A", "art": "7-a", "acao": "acrescentou"}, {"dispositivo": "Art. 8-A", "art": "8-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2011/lei-12395-2011-03-16"},
+{"data": "2014-12-08", "nome": "Lei nº 13.051 de 08/12/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "revogou"}], "id": "federal/leis-ordinarias/2014/lei-13051-2014-12-08"},
+{"data": "2015-08-04", "nome": "Lei nº 13.155 de 04/08/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 6", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, § 7", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2015/lei-13155-2015-08-04"},
+{"data": "2018-12-12", "nome": "Lei nº 13.756 de 12/12/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 6", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 7", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 4-A, caput", "art": "4-a", "acao": "alterou"}], "id": "federal/leis-ordinarias/2018/lei-13756-2018-12-12"},
+{"data": "2023-06-14", "nome": "Lei nº 14.597 de 14/06/2023", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14597-2023-06-14"}
+],
+"controle": []
+}

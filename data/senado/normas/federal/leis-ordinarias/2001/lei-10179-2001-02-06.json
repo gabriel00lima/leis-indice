@@ -1,0 +1,25 @@
+{
+"id": "federal/leis-ordinarias/2001/lei-10179-2001-02-06",
+"urn": "urn:lex:br:federal:lei:2001-02-06;10179",
+"consultado_em": "2026-11-04",
+"codigo": "552055",
+"nome": "Lei nº 10.179 de 06/02/2001",
+"apelidos": [
+"Lei de Emissão de Títulos da Dívida Pública (2001)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2001-02-07", "descricao": "Publicação Original [Diário Oficial da União de 07/02/2001] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2001-08-24", "nome": "Medida Provisória nº 2.181-45 de 24/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "2008-06-26", "nome": "Medida Provisória nº 435 de 26/06/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 10", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 8", "art": "3", "acao": "alterou"}]},
+{"data": "2008-11-05", "nome": "Lei nº 11.803 de 05/11/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2008/lei-11803-2008-11-05"},
+{"data": "2014-07-09", "nome": "Medida Provisória nº 651 de 09/07/2014", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 4", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 1, caput, Inciso 5", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 1, caput, Inciso 10", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, caput, Inciso 11", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3-A", "art": "3-a", "acao": "acrescentou"}]},
+{"data": "2014-11-13", "nome": "Lei nº 13.043 de 13/11/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 4", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 1, caput, Inciso 5", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 1, caput, Inciso 10", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 11", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3-A", "art": "3-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2014/lei-13043-2014-11-13"},
+{"data": "2016-05-05", "nome": "Decreto nº 8.746 de 05/05/2016", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2018-02-23", "nome": "Decreto nº 9.292 de 23/02/2018", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "regulamentou"}]},
+{"data": "2022-12-21", "nome": "Decreto nº 11.301 de 21/12/2022", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "correlato"}]},
+{"data": "2026-01-09", "nome": "Decreto nº 12.814 de 09/01/2026", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 7, caput", "art": "7", "acao": "regulamentou"}]}
+],
+"controle": []
+}

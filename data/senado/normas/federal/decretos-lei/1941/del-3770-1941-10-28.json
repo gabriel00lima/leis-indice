@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1941/del-3770-1941-10-28",
+"urn": "urn:lex:br:federal:decreto.lei:1941-10-28;3770",
+"consultado_em": "2026-11-04",
+"codigo": "528857",
+"nome": "Decreto-Lei nº 3.770 de 28/10/1941",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1941-11-06", "descricao": "Publicação Original [Diário Oficial da União de 06/11/1941] (p. 21151, col. 1)"},
+{"tipo": "REP", "data": "1941-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1941 - vol. 007] (p. 304, col. 1)"}
+],
+"alteracoes": [
+{"data": "1944-05-15", "nome": "Decreto-Lei nº 6.501 de 15/05/1944", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1944/del-6501-1944-05-15"}
+],
+"controle": []
+}

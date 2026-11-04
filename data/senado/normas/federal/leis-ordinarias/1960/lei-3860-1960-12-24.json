@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1960/lei-3860-1960-12-24",
+"urn": "urn:lex:br:federal:lei:1960-12-24;3860",
+"consultado_em": "2026-11-04",
+"codigo": "545686",
+"nome": "Lei nº 3.860 de 24/12/1960",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1960-12-27", "descricao": "Publicação Original [Diário Oficial da União de 27/12/1960] (p. 16413, col. 1)"}
+],
+"alteracoes": [
+{"data": "1962-11-12", "nome": "Decreto do Conselho de MInistros nº 1.502 de 12/11/1962", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1963-01-14", "nome": "Decreto do Conselho de MInistros nº 2.029 de 14/01/1963", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1964-08-04", "nome": "Lei nº 4.374 de 04/08/1964", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4374-1964-08-04"},
+{"data": "1964-10-08", "nome": "Lei nº 4.425 de 08/10/1964", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 18", "art": "18", "acao": "revogou"}], "id": "federal/leis-ordinarias/1964/lei-4425-1964-10-08"}
+],
+"controle": []
+}

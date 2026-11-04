@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/2013/lei-12855-2013-09-02",
+"urn": "urn:lex:br:federal:lei:2013-09-02;12855",
+"consultado_em": "2026-11-04",
+"codigo": "591303",
+"nome": "Lei nº 12.855 de 02/09/2013",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2013-09-03", "descricao": "Publicação Original [Diário Oficial da União de 03/09/2013] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2017-12-06", "nome": "Decreto nº 9.224 de 06/12/2017", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2017-12-06", "nome": "Decreto nº 9.225 de 06/12/2017", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2017-12-06", "nome": "Decreto nº 9.226 de 06/12/2017", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2017-12-06", "nome": "Decreto nº 9.227 de 06/12/2017", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2017-12-06", "nome": "Decreto nº 9.228 de 06/12/2017", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2026-03-30", "nome": "Lei nº 15.367 de 30/03/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2, caput", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2026/lei-15367-2026-03-30"},
+{"data": "2026-07-03", "nome": "Decreto nº 13.049 de 03/07/2026", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2026-07-03", "nome": "Medida Provisória nº 1.375 de 03/07/2026", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 1, Inciso 14", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 1, Inciso 15", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, § 1, Inciso 16", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 2, caput", "art": "2", "acao": "alterou"}]}
+],
+"controle": []
+}

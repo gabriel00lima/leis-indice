@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1975/lei-6259-1975-10-30",
+"urn": "urn:lex:br:federal:lei:1975-10-30;6259",
+"consultado_em": "2026-11-04",
+"codigo": "548135",
+"nome": "Lei nº 6.259 de 30/10/1975",
+"apelidos": [
+"Lei de Vigilância Epidemiológica (1975)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-10-31", "descricao": "Publicação Original [Diário Oficial da União de 31/10/1975] (p. 14433, col. 1)"}
+],
+"alteracoes": [
+{"data": "1976-08-12", "nome": "Decreto nº 78.231 de 12/08/1976", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2018-11-08", "nome": "Lei nº 13.730 de 08/11/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14, caput", "art": "14", "acao": "alterou"}], "id": "federal/leis-ordinarias/2018/lei-13730-2018-11-08"},
+{"data": "2019-04-26", "nome": "Lei nº 13.819 de 26/04/2019", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2019/lei-13819-2019-04-26"},
+{"data": "2022-01-03", "nome": "Lei nº 14.289 de 03/01/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, caput", "art": "10", "acao": "alterou"}], "id": "federal/leis-ordinarias/2022/lei-14289-2022-01-03"}
+],
+"controle": []
+}

@@ -1,0 +1,31 @@
+{
+"id": "federal/leis-ordinarias/1997/lei-9440-1997-03-14",
+"urn": "urn:lex:br:federal:lei:1997-03-14;9440",
+"consultado_em": "2026-11-04",
+"codigo": "551316",
+"nome": "Lei nº 9.440 de 14/03/1997",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1997-03-15", "descricao": "Publicação Original [Diário Oficial da União de 15/03/1997] (p. 5191, col. 1)"}
+],
+"alteracoes": [
+{"data": "1997-03-18", "nome": "Decreto nº 2.179 de 18/03/1997", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1997-11-14", "nome": "Medida Provisória nº 1.602 de 14/11/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 3", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 4", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 5", "art": "1", "acao": "alterou"}]},
+{"data": "1997-12-10", "nome": "Lei nº 9.532 de 10/12/1997", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 3", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 4", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 5", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 8", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1997/lei-9532-1997-12-10"},
+{"data": "2009-11-20", "nome": "Medida Provisória nº 471 de 20/11/2009", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 11, caput, Inciso 1", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 11, caput, Inciso 2", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 11, caput, Inciso 3", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 11-A", "art": "11-a", "acao": "acrescentou"}]},
+{"data": "2010-03-30", "nome": "Lei nº 12.218 de 30/03/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11, caput, Inciso 1", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 11, caput, Inciso 2", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 11, caput, Inciso 3", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 11-A", "art": "11-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2010/lei-12218-2010-03-30"},
+{"data": "2010-11-25", "nome": "Medida Provisória nº 512 de 25/11/2010", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 11-B", "art": "11-b", "acao": "acrescentou"}]},
+{"data": "2010-12-09", "nome": "Decreto nº 7.389 de 09/12/2010", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 11-B", "art": "11-b", "acao": "regulamentou"}]},
+{"data": "2010-12-31", "nome": "Decreto nº 7.422 de 31/12/2010", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 11-A", "art": "11-a", "acao": "regulamentou"}]},
+{"data": "2011-05-19", "nome": "Lei nº 12.407 de 19/05/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11-B", "art": "11-b", "acao": "acrescentou"}, {"dispositivo": "Art. 16, Parágrafo Único", "art": "16", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2011/lei-12407-2011-05-19"},
+{"data": "2014-07-09", "nome": "Medida Provisória nº 651 de 09/07/2014", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2014-11-13", "nome": "Lei nº 13.043 de 13/11/2014", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2014/lei-13043-2014-11-13"},
+{"data": "2018-12-10", "nome": "Lei nº 13.755 de 10/12/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11-C", "art": "11-c", "acao": "acrescentou"}, {"dispositivo": "Art. 11-C, § 3", "art": "11-c", "acao": "vetado"}, {"dispositivo": "Art. 11-C, § 7", "art": "11-c", "acao": "vetado"}, {"dispositivo": "Art. 16, Parágrafo Único", "art": "16", "acao": "alterou"}], "id": "federal/leis-ordinarias/2018/lei-13755-2018-12-10"},
+{"data": "2020-06-30", "nome": "Medida Provisória nº 987 de 30/06/2020", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 11-C, § 1", "art": "11-c", "acao": "alterou"}]},
+{"data": "2020-08-13", "nome": "Decreto nº 10.457 de 13/08/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 11-C", "art": "11-c", "acao": "regulamentou"}]},
+{"data": "2020-10-28", "nome": "Lei nº 14.076 de 28/10/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11-C, § 1", "art": "11-c", "acao": "alterou"}], "id": "federal/leis-ordinarias/2020/lei-14076-2020-10-28"},
+{"data": "2025-01-16", "nome": "Lei Complementar nº 214 de 16/01/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11-C, caput", "art": "11-c", "acao": "prorrogação de prazo"}], "id": "federal/leis-complementares/2025/lcp-214-2025-01-16"},
+{"data": "2025-12-19", "nome": "Lei nº 15.294 de 19/12/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11-C, § 8", "art": "11-c", "acao": "vetado"}, {"dispositivo": "Art. 11-C, § 9", "art": "11-c", "acao": "vetado"}, {"dispositivo": "Art. 11-C, § 10", "art": "11-c", "acao": "vetado"}, {"dispositivo": "Art. 11-D", "art": "11-d", "acao": "vetado"}], "id": "federal/leis-ordinarias/2025/lei-15294-2025-12-19"}
+],
+"controle": []
+}

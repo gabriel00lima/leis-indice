@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1942/del-4789-1942-10-05",
+"urn": "urn:lex:br:federal:decreto.lei:1942-10-05;4789",
+"consultado_em": "2026-11-04",
+"codigo": "529881",
+"nome": "Decreto-Lei nº 4.789 de 05/10/1942",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1942-10-06", "descricao": "Publicação Original [Diário Oficial da União de 06/10/1942] (p. 14897, col. 1)"},
+{"tipo": "REP", "data": "1942-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1942 - vol. 007] (p. 29, col. 1)"}
+],
+"alteracoes": [
+{"data": "1942-12-31", "nome": "Decreto-Lei nº 5.159 de 31/12/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-5159-1942-12-31"},
+{"data": "1944-10-23", "nome": "Decreto-Lei nº 6.978 de 23/10/1944", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1944/del-6978-1944-10-23"}
+],
+"controle": []
+}

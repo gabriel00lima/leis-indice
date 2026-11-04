@@ -1,0 +1,25 @@
+{
+"id": "federal/leis-ordinarias/1966/lei-4947-1966-04-06",
+"urn": "urn:lex:br:federal:lei:1966-04-06;4947",
+"consultado_em": "2026-11-04",
+"codigo": "546804",
+"nome": "Lei nº 4.947 de 06/04/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-04-11", "descricao": "Publicação Original [Diário Oficial da União de 11/04/1966] (p. 3717, col. 4)"}
+],
+"alteracoes": [
+{"data": "1966-10-27", "nome": "Decreto nº 59.428 de 27/10/1966", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1966-11-14", "nome": "Decreto nº 59.566 de 14/11/1966", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1971-07-02", "nome": "Lei nº 5.672 de 02/07/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5672-1971-07-02"},
+{"data": "1972-10-10", "nome": "Decreto nº 71.231 de 10/10/1972", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1974-08-22", "nome": "Decreto-Lei nº 1.341 de 22/08/1974", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1974/del-1341-1974-08-22"},
+{"data": "1975-08-18", "nome": "Decreto-Lei nº 1.414 de 18/08/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1975/del-1414-1975-08-18"},
+{"data": "1977-07-13", "nome": "Decreto-Lei nº 1.561 de 13/07/1977", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, § 3", "art": "5", "acao": "revogou"}], "id": "federal/decretos-lei/1977/del-1561-1977-07-13"},
+{"data": "1978-11-20", "nome": "Decreto-Lei nº 1.640 de 20/11/1978", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}], "id": "federal/decretos-lei/1978/del-1640-1978-11-20"},
+{"data": "1982-10-12", "nome": "Decreto nº 87.700 de 12/10/1982", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2000-12-27", "nome": "Lei nº 10.164 de 27/12/2000", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, § 1", "art": "5", "acao": "prorrogação de prazo"}], "id": "federal/leis-ordinarias/2000/lei-10164-2000-12-27"},
+{"data": "2001-08-28", "nome": "Lei nº 10.267 de 28/08/2001", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 22", "art": "22", "acao": "alterou"}], "id": "federal/leis-ordinarias/2001/lei-10267-2001-08-28"}
+],
+"controle": []
+}

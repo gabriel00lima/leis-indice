@@ -1,0 +1,57 @@
+{
+"id": "federal/leis-complementares/1993/lcp-73-1993-02-10",
+"urn": "urn:lex:br:federal:lei.complementar:1993-02-10;73",
+"consultado_em": "2026-11-04",
+"codigo": "572828",
+"nome": "Lei Complementar nº 73 de 10/02/1993",
+"apelidos": [
+"Lei Orgânica da Advocacia-Geral da União (AGU) (1993)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-02-11", "descricao": "Publicação Original [Diário Oficial da União de 11/02/1993] (p. 1797, col. 1)"}
+],
+"alteracoes": [
+{"data": "1993-02-11", "nome": "Medida Provisória nº 312 de 11/02/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-03-05", "nome": "Decreto nº 767 de 05/03/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-03-12", "nome": "Medida Provisória nº 314 de 12/03/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-04-14", "nome": "Medida Provisória nº 316 de 14/04/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-05-14", "nome": "Medida Provisória nº 321 de 14/05/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-06-14", "nome": "Medida Provisória nº 325 de 14/06/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-06-30", "nome": "Medida Provisória nº 330 de 30/06/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-07-29", "nome": "Medida Provisória nº 339 de 29/07/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-08-27", "nome": "Medida Provisória nº 348 de 27/08/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-09-29", "nome": "Medida Provisória nº 357 de 29/09/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-10-28", "nome": "Medida Provisória nº 365 de 28/10/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-11-26", "nome": "Medida Provisória nº 377 de 26/11/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-12-29", "nome": "Medida Provisória nº 397 de 29/12/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-01-28", "nome": "Medida Provisória nº 417 de 28/01/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-02-28", "nome": "Medida Provisória nº 436 de 28/02/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-03-30", "nome": "Medida Provisória nº 460 de 30/03/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-04-29", "nome": "Medida Provisória nº 485 de 29/04/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-05-27", "nome": "Medida Provisória nº 511 de 27/05/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-07-28", "nome": "Medida Provisória nº 562 de 28/07/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-08-25", "nome": "Medida Provisória nº 593 de 25/08/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-11-18", "nome": "Medida Provisória nº 719 de 18/11/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-12-20", "nome": "Medida Provisória nº 773 de 20/12/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1995-01-19", "nome": "Medida Provisória nº 833 de 19/01/1995", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 2, Alínea a", "art": "2", "acao": "correlato"}, {"dispositivo": "Art. 62", "art": "62", "acao": "correlato"}, {"dispositivo": "Art. 66", "art": "66", "acao": "correlato"}, {"dispositivo": "Art. 69, Parágrafo Único", "art": "69", "acao": "correlato"}]},
+{"data": "1995-02-16", "nome": "Medida Provisória nº 894 de 16/02/1995", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1995-03-16", "nome": "Medida Provisória nº 941 de 16/03/1995", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1995-04-12", "nome": "Lei nº 9.028 de 12/04/1995", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 62", "art": "62", "acao": "correlato"}, {"dispositivo": "Art. 66", "art": "66", "acao": "correlato"}, {"dispositivo": "Art. 69", "art": "69", "acao": "correlato"}], "id": "federal/leis-ordinarias/1995/lei-9028-1995-04-12"},
+{"data": "1996-11-22", "nome": "Medida Provisória nº 1.472-31 de 22/11/1996", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 20", "art": "20", "acao": "correlato"}, {"dispositivo": "Art. 57", "art": "57", "acao": "correlato"}]},
+{"data": "1997-01-17", "nome": "Medida Provisória nº 1.561-1 de 17/01/1997", "tipo": "Regulamentação Provisória de Norma", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 6", "art": "4", "acao": "regulamentou"}]},
+{"data": "1997-02-14", "nome": "Medida Provisória nº 1.561-2 de 14/02/1997", "tipo": "Regulamentação Provisória de Norma", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 6", "art": "4", "acao": "regulamentou"}]},
+{"data": "1997-03-14", "nome": "Medida Provisória nº 1.561-3 de 14/03/1997", "tipo": "Regulamentação Provisória de Norma", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 6", "art": "4", "acao": "regulamentou"}]},
+{"data": "1997-04-15", "nome": "Medida Provisória nº 1.561-4 de 15/04/1997", "tipo": "Regulamentação Provisória de Norma", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 6", "art": "4", "acao": "regulamentou"}]},
+{"data": "1997-05-15", "nome": "Medida Provisória nº 1.561-5 de 15/05/1997", "tipo": "Regulamentação Provisória de Norma", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 6", "art": "4", "acao": "regulamentou"}]},
+{"data": "1997-06-12", "nome": "Medida Provisória nº 1.561-6 de 12/06/1997", "tipo": "Regulamentação Provisória de Norma", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 6", "art": "4", "acao": "regulamentou"}]},
+{"data": "1997-07-10", "nome": "Lei nº 9.469 de 10/07/1997", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 6", "art": "4", "acao": "regulamentou"}], "id": "federal/leis-ordinarias/1997/lei-9469-1997-07-10"},
+{"data": "1997-11-13", "nome": "Medida Provisória nº 1.587-3 de 13/11/1997", "tipo": "Regulamentação Provisória de Norma", "dispositivos": [{"dispositivo": "Art. 20, caput, Item 3", "art": "20", "acao": "regulamentou"}]},
+{"data": "2019-06-10", "nome": "Decreto nº 9.830 de 10/06/2019", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 40", "art": "40", "acao": "correlato"}, {"dispositivo": "Art. 41", "art": "41", "acao": "correlato"}]},
+{"data": "2019-10-16", "nome": "Medida Provisória nº 899 de 16/10/2019", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 12, Inciso 1", "art": "12", "acao": "correlato"}, {"dispositivo": "Art. 12, Inciso 2", "art": "12", "acao": "correlato"}]},
+{"data": "2022-07-29", "nome": "Decreto nº 11.155 de 29/07/2022", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "correlato"}]}
+],
+"controle": [
+{"data": "2023-06-12", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.652 de 12/06/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 28, caput, Inciso 3", "art": "28", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}], "decisao": {"classe": "ADI", "numero": "4652"}},
+{"data": "2026-09-04", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.297 de 04/09/2026", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 12", "art": "12", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "4297"}}
+]
+}

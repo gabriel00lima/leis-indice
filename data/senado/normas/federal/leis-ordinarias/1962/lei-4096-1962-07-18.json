@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1962/lei-4096-1962-07-18",
+"urn": "urn:lex:br:federal:lei:1962-07-18;4096",
+"consultado_em": "2026-11-04",
+"codigo": "545934",
+"nome": "Lei nº 4.096 de 18/07/1962",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-07-19", "descricao": "Publicação Original [Diário Oficial da União de 19/07/1962] (p. 7685, col. 1)"}
+],
+"alteracoes": [
+{"data": "1963-03-11", "nome": "Decreto nº 51.816 de 11/03/1963", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1965-05-15", "nome": "Lei nº 4.631 de 15/05/1965", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4631-1965-05-15"},
+{"data": "1966-09-29", "nome": "Lei nº 5.128 de 29/09/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5128-1966-09-29"},
+{"data": "1967-11-29", "nome": "Decreto nº 61.797 de 29/11/1967", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1969-07-30", "nome": "Decreto-Lei nº 717 de 30/07/1969", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 23", "art": "23", "acao": "revogou"}, {"dispositivo": "Art. 24", "art": "24", "acao": "revogou"}], "id": "federal/decretos-lei/1969/del-717-1969-07-30"},
+{"data": "1973-12-11", "nome": "Lei nº 5.971 de 11/12/1973", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-5971-1973-12-11"}
+],
+"controle": []
+}

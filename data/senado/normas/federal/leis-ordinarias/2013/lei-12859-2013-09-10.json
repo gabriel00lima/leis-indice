@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2013/lei-12859-2013-09-10",
+"urn": "urn:lex:br:federal:lei:2013-09-10;12859",
+"consultado_em": "2026-11-04",
+"codigo": "591307",
+"nome": "Lei nº 12.859 de 10/09/2013",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2013-09-11", "descricao": "Publicação Original [Diário Oficial da União de 11/09/2013] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2013-12-26", "nome": "Medida Provisória nº 634 de 26/12/2013", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 3", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 7", "art": "1", "acao": "alterou"}]},
+{"data": "2014-03-21", "nome": "Decreto nº 8.212 de 21/03/2014", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2014-06-18", "nome": "Lei nº 12.995 de 18/06/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 4", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 7", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2014/lei-12995-2014-06-18"},
+{"data": "2021-12-31", "nome": "Medida Provisória nº 1.095 de 31/12/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}]}
+],
+"controle": []
+}

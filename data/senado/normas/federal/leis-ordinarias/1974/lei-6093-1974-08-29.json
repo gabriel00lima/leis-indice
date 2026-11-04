@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1974/lei-6093-1974-08-29",
+"urn": "urn:lex:br:federal:lei:1974-08-29;6093",
+"consultado_em": "2026-11-04",
+"codigo": "547969",
+"nome": "Lei nº 6.093 de 29/08/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-09-02", "descricao": "Publicação Original [Diário Oficial da União de 02/09/1974] (p. 10045, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-12-31", "nome": "Decreto-Lei nº 1.754 de 31/12/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1979/del-1754-1979-12-31"},
+{"data": "1981-02-17", "nome": "Decreto-Lei nº 1.859 de 17/02/1981", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [], "id": "federal/decretos-lei/1981/del-1859-1981-02-17"}
+],
+"controle": []
+}

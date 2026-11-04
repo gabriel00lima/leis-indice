@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2000/lei-9959-2000-01-27",
+"urn": "urn:lex:br:federal:lei:2000-01-27;9959",
+"consultado_em": "2026-11-04",
+"codigo": "551835",
+"nome": "Lei nº 9.959 de 27/01/2000",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-01-28", "descricao": "Publicação Original [Diário Oficial da União de 28/01/2000] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2002-09-04", "nome": "Medida Provisória nº 67 de 04/09/2002", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "suspensão"}]},
+{"data": "2002-11-13", "nome": "Lei nº 10.560 de 13/11/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2002/lei-10560-2002-11-13"},
+{"data": "2009-12-15", "nome": "Medida Provisória nº 472 de 15/12/2009", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}]},
+{"data": "2009-12-23", "nome": "Medida Provisória nº 476 de 23/12/2009", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}]},
+{"data": "2010-07-27", "nome": "Medida Provisória nº 497 de 27/07/2010", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "2010-12-20", "nome": "Lei nº 12.350 de 20/12/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}], "id": "federal/leis-ordinarias/2010/lei-12350-2010-12-20"}
+],
+"controle": []
+}

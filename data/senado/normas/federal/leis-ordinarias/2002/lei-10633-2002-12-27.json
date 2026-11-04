@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10633-2002-12-27",
+"urn": "urn:lex:br:federal:lei:2002-12-27;10633",
+"consultado_em": "2026-11-04",
+"codigo": "552509",
+"nome": "Lei nº 10.633 de 27/12/2002",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/2002] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2026-04-27", "nome": "Lei nº 15.395 de 27/04/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2026/lei-15395-2026-04-27"}
+],
+"controle": []
+}

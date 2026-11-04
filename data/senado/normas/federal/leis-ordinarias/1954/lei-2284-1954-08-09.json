@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/1954/lei-2284-1954-08-09",
+"urn": "urn:lex:br:federal:lei:1954-08-09;2284",
+"consultado_em": "2026-11-04",
+"codigo": "544068",
+"nome": "Lei nº 2.284 de 09/08/1954",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1954-08-11", "descricao": "Publicação Original [Diário Oficial da União de 11/08/1954] (p. 13905, col. 3)"}
+],
+"alteracoes": [
+{"data": "1955-10-19", "nome": "Decreto nº 38.106 de 19/10/1955", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1956-01-06", "nome": "Lei nº 2.705 de 06/01/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2705-1956-01-06"},
+{"data": "1958-03-12", "nome": "Decreto nº 43.360 de 12/03/1958", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1958-08-08", "nome": "Decreto nº 44.298 de 08/08/1958", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1959-05-18", "nome": "Decreto nº 46.021 de 18/05/1959", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1959-12-29", "nome": "Decreto nº 47.536 de 29/12/1959", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1960-07-12", "nome": "Lei nº 3.780 de 12/07/1960", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1960/lei-3780-1960-07-12"},
+{"data": "1961-05-10", "nome": "Decreto nº 50.571 de 10/05/1961", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}
