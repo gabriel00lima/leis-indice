@@ -37,8 +37,8 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: ${{ runner.temp }}/camara-cache
-          key: camara-v1-${{ github.run_id }}
-          restore-keys: camara-v1-
+          key: camara-v2-${{ github.run_id }}
+          restore-keys: camara-v2-
 
       - name: Atualizar data/camara/
         run: |
@@ -50,7 +50,7 @@ jobs:
         uses: actions/cache/save@v4
         with:
           path: ${{ runner.temp }}/camara-cache
-          key: camara-v1-${{ github.run_id }}
+          key: camara-v2-${{ github.run_id }}
 
       - name: Commitar
         id: commit

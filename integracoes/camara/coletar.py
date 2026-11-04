@@ -120,7 +120,7 @@ def resumir_ano(proposicoes: list[dict], resolver) -> list[dict]:
             "ementa": ementa if len(ementa) <= MAX_EMENTA else ementa[: MAX_EMENTA - 1].rstrip() + "…",
             "apresentacao": data,
             "situacao": situacao,
-            "atualizado": str(st.get("dataHora") or "")[:10],
+            "atualizado": str(st.get("dataHora") or st.get("data") or "")[:10],
             "tramitando": em.em_tramitacao(situacao),
         }
         if alteradas:
