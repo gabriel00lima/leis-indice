@@ -1,0 +1,30 @@
+{
+"id": "federal/leis-ordinarias/2019/lei-13954-2019-12-16",
+"urn": "urn:lex:br:federal:lei:2019-12-16;13954",
+"consultado_em": "2026-11-05",
+"codigo": "31836233",
+"nome": "Lei nº 13.954 de 16/12/2019",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "ANX", "data": "2019-12-17", "descricao": "Publicação Original de Anexo (002 - Anexo II) [Diário Oficial da União de 17/12/2019] (p. 9, col. 1)"},
+{"tipo": "ANX", "data": "2019-12-17", "descricao": "Publicação Original de Anexo (003 - Anexo III) [Diário Oficial da União de 17/12/2019] (p. 9, col. 1)"},
+{"tipo": "ANX", "data": "2019-12-17", "descricao": "Publicação Original de Anexo (005 - Anexo V) [Diário Oficial da União de 17/12/2019] (p. 9, col. 1)"},
+{"tipo": "ANX", "data": "2019-12-17", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União de 17/12/2019] (p. 8, col. 1)"},
+{"tipo": "ANX", "data": "2019-12-17", "descricao": "Publicação Original de Anexo (006 - Anexo VI) [Diário Oficial da União de 17/12/2019] (p. 10, col. 1)"},
+{"tipo": "ANX", "data": "2019-12-17", "descricao": "Publicação Original de Anexo (007 - Anexo VII) [Diário Oficial da União de 17/12/2019] (p. 10, col. 1)"},
+{"tipo": "ANX", "data": "2019-12-17", "descricao": "Publicação Original de Anexo (004 - Anexo IV) [Diário Oficial da União de 17/12/2019] (p. 9, col. 1)"},
+{"tipo": "PUB", "data": "2019-12-17", "descricao": "Publicação Original [Diário Oficial da União de 17/12/2019] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2020-01-23", "nome": "Decreto nº 10.210 de 23/01/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 18", "art": "18", "acao": "regulamentou"}]},
+{"data": "2020-08-24", "nome": "Decreto nº 10.471 de 24/08/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 8, caput", "art": "8", "acao": "regulamentou"}]},
+{"data": "2021-03-18", "nome": "Decreto nº 10.651 de 18/03/2021", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 27, caput", "art": "27", "acao": "correlato"}]},
+{"data": "2022-03-17", "nome": "Decreto nº 11.002 de 17/03/2022", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "regulamentou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "regulamentou"}, {"dispositivo": "Art. 20", "art": "20", "acao": "regulamentou"}, {"dispositivo": "Art. 21, caput", "art": "21", "acao": "regulamentou"}, {"dispositivo": "Art. 22", "art": "22", "acao": "regulamentou"}]},
+{"data": "2024-07-17", "nome": "Decreto nº 12.117 de 17/07/2024", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 11, caput", "art": "11", "acao": "regulamentou"}]},
+{"data": "2025-03-27", "nome": "Medida Provisória nº 1.293 de 27/03/2025", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 6", "art": null, "acao": "alterou"}]},
+{"data": "2025-07-17", "nome": "Lei nº 15.167 de 17/07/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 6", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2025/lei-15167-2025-07-17"}
+],
+"controle": [
+{"data": "2023-08-21", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 7.092 de 21/08/2023", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "7092"}}
+]
+}

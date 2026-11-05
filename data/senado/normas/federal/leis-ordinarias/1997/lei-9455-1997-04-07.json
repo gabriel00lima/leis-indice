@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1997/lei-9455-1997-04-07",
+"urn": "urn:lex:br:federal:lei:1997-04-07;9455",
+"consultado_em": "2026-11-05",
+"codigo": "551331",
+"nome": "Lei nº 9.455 de 07/04/1997",
+"apelidos": [
+"Lei dos Crimes de Tortura (1997)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1997-04-08", "descricao": "Publicação Original [Diário Oficial da União de 08/04/1997] (p. 6742, col. 1)"}
+],
+"alteracoes": [
+{"data": "2003-10-01", "nome": "Lei nº 10.741 de 01/10/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 4, Inciso 2", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2003/lei-10741-2003-10-01"},
+{"data": "2017-12-21", "nome": "Decreto nº 9.246 de 21/12/2017", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2026-05-20", "nome": "Lei nº 15.410 de 20/05/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 3", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15410-2026-05-20"}
+],
+"controle": []
+}

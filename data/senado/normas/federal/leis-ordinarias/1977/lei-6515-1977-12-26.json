@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6515-1977-12-26",
+"urn": "urn:lex:br:federal:lei:1977-12-26;6515",
+"consultado_em": "2026-11-05",
+"codigo": "548391",
+"nome": "Lei nº 6.515 de 26/12/1977",
+"apelidos": [
+"Lei do Divórcio (1977)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-12-27", "descricao": "Publicação Original [Diário Oficial da União de 27/12/1977] (p. 17953, col. 1)"},
+{"tipo": "RET", "data": "1978-04-11", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 11/04/1978] (p. 5073, col. 1)"}
+],
+"alteracoes": [
+{"data": "1989-10-17", "nome": "Lei nº 7.841 de 17/10/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 36, Parágrafo Único", "art": "36", "acao": "alterou"}, {"dispositivo": "Art. 38", "art": "38", "acao": "revogou"}, {"dispositivo": "Art. 40", "art": "40", "acao": "alterou"}, {"dispositivo": "Art. 40, § 1", "art": "40", "acao": "revogou"}], "id": "federal/leis-ordinarias/1989/lei-7841-1989-10-17"},
+{"data": "1992-02-13", "nome": "Lei nº 8.408 de 13/02/1992", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 25", "art": "25", "acao": "alterou"}], "id": "federal/leis-ordinarias/1992/lei-8408-1992-02-13"}
+],
+"controle": []
+}

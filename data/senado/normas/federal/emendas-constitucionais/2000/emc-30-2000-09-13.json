@@ -1,0 +1,16 @@
+{
+"id": "federal/emendas-constitucionais/2000/emc-30-2000-09-13",
+"urn": "urn:lex:br:federal:emenda.constitucional:2000-09-13;30",
+"consultado_em": "2026-11-05",
+"codigo": "540633",
+"nome": "Emenda Constitucional nº 30 de 13/09/2000",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-09-14", "descricao": "Publicação Original [Diário Oficial da União de 14/09/2000] (p. 2, col. 1)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2024-05-06", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.356 de 06/05/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}], "decisao": {"classe": "ADI", "numero": "2356"}},
+{"data": "2024-05-06", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.362 de 06/05/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}], "decisao": {"classe": "ADI", "numero": "2362"}}
+]
+}

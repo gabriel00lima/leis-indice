@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-complementares/2000/lcp-102-2000-07-11",
+"urn": "urn:lex:br:federal:lei.complementar:2000-07-11;102",
+"consultado_em": "2026-11-05",
+"codigo": "572857",
+"nome": "Lei Complementar nº 102 de 11/07/2000",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-07-12", "descricao": "Publicação Original [Diário Oficial da União de 12/07/2000] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2002-12-26", "nome": "Lei Complementar nº 115 de 26/12/2002", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-complementares/2002/lcp-115-2002-12-26"}
+],
+"controle": [
+{"data": "2023-11-20", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.325 de 20/11/2023", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "constitucional", "texto": "Dispositivo com Parte de Texto Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "2325"}}
+]
+}

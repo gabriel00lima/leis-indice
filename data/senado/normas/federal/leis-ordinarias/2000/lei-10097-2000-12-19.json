@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2000/lei-10097-2000-12-19",
+"urn": "urn:lex:br:federal:lei:2000-12-19;10097",
+"consultado_em": "2026-11-05",
+"codigo": "551973",
+"nome": "Lei nº 10.097 de 19/12/2000",
+"apelidos": [
+"Lei do Aprendiz (2000)",
+"Lei da Aprendizagem (2000)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/2000] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2022-05-04", "nome": "Medida Provisória nº 1.116 de 04/05/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]}
+],
+"controle": []
+}

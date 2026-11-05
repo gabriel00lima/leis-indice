@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1962/lei-4191-1962-12-24",
+"urn": "urn:lex:br:federal:lei:1962-12-24;4191",
+"consultado_em": "2026-11-05",
+"codigo": "546033",
+"nome": "Lei nº 4.191 de 24/12/1962",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-12-28", "descricao": "Publicação Original [Diário Oficial da União - Suplemento de 28/12/1962] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "1972-06-27", "nome": "Lei nº 5.788 de 27/06/1972", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5788-1972-06-27"}
+],
+"controle": []
+}

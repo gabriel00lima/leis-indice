@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-complementares/2011/lcp-140-2011-12-08",
+"urn": "urn:lex:br:federal:lei.complementar:2011-12-08;140",
+"consultado_em": "2026-11-05",
+"codigo": "572895",
+"nome": "Lei Complementar nº 140 de 08/12/2011",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2011-12-09", "descricao": "Publicação Original [Diário Oficial da União de 09/12/2011] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "2011-12-12", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 12/12/2011] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2015-04-22", "nome": "Decreto nº 8.437 de 22/04/2015", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 7, caput, Inciso 14, Alínea h", "art": "7", "acao": "regulamentou"}, {"dispositivo": "Art. 7, Parágrafo Único", "art": "7", "acao": "regulamentou"}]}
+],
+"controle": [
+{"data": "2022-12-12", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.757 de 12/12/2022", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "4757"}},
+{"data": "2022-12-12", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.757 de 12/12/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14, § 4", "art": "14", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}, {"dispositivo": "Art. 17, § 3", "art": "17", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}], "decisao": {"classe": "ADI", "numero": "4757"}}
+]
+}

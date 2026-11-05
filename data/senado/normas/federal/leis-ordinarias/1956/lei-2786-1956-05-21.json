@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1956/lei-2786-1956-05-21",
+"urn": "urn:lex:br:federal:lei:1956-05-21;2786",
+"consultado_em": "2026-11-05",
+"codigo": "544608",
+"nome": "Lei nº 2.786 de 21/05/1956",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1956-05-24", "descricao": "Publicação Original [Diário Oficial da União de 24/05/1956] (p. 10409, col. 2)"}
+],
+"alteracoes": [
+{"data": "1985-05-30", "nome": "Decreto nº 91.290 de 30/05/1985", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1987-02-23", "nome": "Decreto nº 94.050 de 23/02/1987", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

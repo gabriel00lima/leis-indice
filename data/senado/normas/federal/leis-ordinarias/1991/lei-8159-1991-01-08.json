@@ -1,0 +1,28 @@
+{
+"id": "federal/leis-ordinarias/1991/lei-8159-1991-01-08",
+"urn": "urn:lex:br:federal:lei:1991-01-08;8159",
+"consultado_em": "2026-11-05",
+"codigo": "550035",
+"nome": "Lei nº 8.159 de 08/01/1991",
+"apelidos": [
+"Lei dos Arquivos (1991)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1991-01-09", "descricao": "Publicação Original [Diário Oficial da União de 09/01/1991] (p. 455, col. 1)"}
+],
+"alteracoes": [
+{"data": "1994-06-29", "nome": "Decreto nº 1.173 de 29/06/1994", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 26", "art": "26", "acao": "regulamentou"}]},
+{"data": "1997-01-24", "nome": "Decreto nº 2.134 de 24/01/1997", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 23", "art": "23", "acao": "regulamentou"}]},
+{"data": "1997-03-20", "nome": "Decreto nº 2.182 de 20/03/1997", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 7, § 2", "art": "7", "acao": "correlato"}]},
+{"data": "1998-12-29", "nome": "Decreto nº 2.910 de 29/12/1998", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1999-01-18", "nome": "Decreto nº 2.942 de 18/01/1999", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "regulamentou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "regulamentou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "regulamentou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "regulamentou"}, {"dispositivo": "Art. 14", "art": "14", "acao": "regulamentou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "regulamentou"}, {"dispositivo": "Art. 16", "art": "16", "acao": "regulamentou"}]},
+{"data": "2000-06-13", "nome": "Decreto nº 3.505 de 13/06/2000", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2002-01-03", "nome": "Decreto nº 4.073 de 03/01/2002", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2002-12-27", "nome": "Decreto nº 4.553 de 27/12/2002", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 23", "art": "23", "acao": "regulamentou"}]},
+{"data": "2003-12-12", "nome": "Decreto nº 4.915 de 12/12/2003", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2011-11-18", "nome": "Lei nº 12.527 de 18/11/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 22", "art": "22", "acao": "revogou"}, {"dispositivo": "Art. 23", "art": "23", "acao": "revogou"}, {"dispositivo": "Art. 24", "art": "24", "acao": "revogou"}], "id": "federal/leis-ordinarias/2011/lei-12527-2011-11-18"},
+{"data": "2019-12-02", "nome": "Decreto nº 10.148 de 02/12/2019", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2026-04-16", "nome": "Decreto nº 12.939 de 16/04/2026", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,24 @@
+{
+"id": "federal/leis-ordinarias/1994/lei-8842-1994-01-04",
+"urn": "urn:lex:br:federal:lei:1994-01-04;8842",
+"consultado_em": "2026-11-05",
+"codigo": "550718",
+"nome": "Lei nº 8.842 de 04/01/1994",
+"apelidos": [
+"Lei da Política Nacional do Idoso (1994)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1994-01-05", "descricao": "Publicação Original [Diário Oficial da União de 05/01/1994] (p. 77, col. 2)"}
+],
+"alteracoes": [
+{"data": "1996-07-03", "nome": "Decreto nº 1.948 de 03/07/1996", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2003-10-01", "nome": "Lei nº 10.741 de 01/10/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}], "id": "federal/leis-ordinarias/2003/lei-10741-2003-10-01"},
+{"data": "2013-09-30", "nome": "Decreto nº 8.114 de 30/09/2013", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2018-04-03", "nome": "Decreto nº 9.328 de 03/04/2018", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2019-06-27", "nome": "Decreto nº 9.893 de 27/06/2019", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 6, caput", "art": "6", "acao": "regulamentou"}]},
+{"data": "2019-07-18", "nome": "Decreto nº 9.921 de 18/07/2019", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2019-11-26", "nome": "Decreto nº 10.133 de 26/11/2019", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2023-04-06", "nome": "Decreto nº 11.483 de 06/04/2023", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

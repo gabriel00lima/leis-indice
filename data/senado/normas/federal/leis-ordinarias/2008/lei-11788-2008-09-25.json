@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11788-2008-09-25",
+"urn": "urn:lex:br:federal:lei:2008-09-25;11788",
+"consultado_em": "2026-11-05",
+"codigo": "582210",
+"nome": "Lei nº 11.788 de 25/09/2008",
+"apelidos": [
+"Lei do Estágio (2008)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-09-26", "descricao": "Publicação Original [Diário Oficial da União de 26/09/2008] (p. 3, col. 1)"}
+],
+"alteracoes": [
+{"data": "2018-06-28", "nome": "Decreto nº 9.427 de 28/06/2018", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2022-05-04", "nome": "Medida Provisória nº 1.116 de 04/05/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 19", "art": "19", "acao": "revogou"}]},
+{"data": "2024-07-03", "nome": "Lei nº 14.913 de 03/07/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 3", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 4, caput", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 9, Parágrafo Único", "art": "9", "acao": "renumerou"}, {"dispositivo": "Art. 9, § 2", "art": "9", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2024/lei-14913-2024-07-03"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1955/lei-2661-1955-12-03",
+"urn": "urn:lex:br:federal:lei:1955-12-03;2661",
+"consultado_em": "2026-11-05",
+"codigo": "544472",
+"nome": "Lei nº 2.661 de 03/12/1955",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1955-12-12", "descricao": "Publicação Original [Diário Oficial da União de 12/12/1955] (p. 22553, col. 1)"}
+],
+"alteracoes": [
+{"data": "1964-11-06", "nome": "Lei nº 4.458 de 06/11/1964", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4458-1964-11-06"}
+],
+"controle": []
+}

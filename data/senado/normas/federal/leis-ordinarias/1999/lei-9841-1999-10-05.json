@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1999/lei-9841-1999-10-05",
+"urn": "urn:lex:br:federal:lei:1999-10-05;9841",
+"consultado_em": "2026-11-05",
+"codigo": "551717",
+"nome": "Lei nº 9.841 de 05/10/1999",
+"apelidos": [
+"Empresa de Pequeno Porte (1999)",
+"Estatuto da Microempresa (1999)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1999-10-06", "descricao": "Publicação Original [Diário Oficial da União de 06/10/1999] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2000-05-19", "nome": "Decreto nº 3.474 de 19/05/2000", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2004-03-31", "nome": "Decreto nº 5.028 de 31/03/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 1", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, caput, Inciso 2", "art": "2", "acao": "alterou"}]},
+{"data": "2006-12-14", "nome": "Lei Complementar nº 123 de 14/12/2006", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-complementares/2006/lcp-123-2006-12-14"}
+],
+"controle": []
+}

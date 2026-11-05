@@ -1,0 +1,32 @@
+{
+"id": "federal/leis-complementares/2021/lcp-178-2021-01-13",
+"urn": "urn:lex:br:federal:lei.complementar:2021-01-13;178",
+"consultado_em": "2026-11-05",
+"codigo": "33089197",
+"nome": "Lei Complementar nº 178 de 13/01/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-01-14", "descricao": "Publicação Original [Diário Oficial da União de 14/01/2021] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-01-13", "nome": "Mensagem de Veto Parcial nº 9 de 13/01/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-01-13", "nome": "Mensagem de Veto Parcial nº 9 de 13/01/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-01-13", "nome": "Mensagem de Veto Parcial nº 9 de 13/01/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-01-13", "nome": "Mensagem de Veto Parcial nº 9 de 13/01/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-01-13", "nome": "Mensagem de Veto Parcial nº 9 de 13/01/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-01-13", "nome": "Mensagem de Veto Parcial nº 9 de 13/01/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-01-13", "nome": "Mensagem de Veto Parcial nº 9 de 13/01/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-01-13", "nome": "Mensagem de Veto Parcial nº 9 de 13/01/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-01-13", "nome": "Mensagem de Veto Parcial nº 9 de 13/01/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-01-13", "nome": "Mensagem de Veto Parcial nº 9 de 13/01/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, caput", "art": "7", "acao": "veto"}, {"dispositivo": "Art. 26", "art": "26", "acao": "veto"}, {"dispositivo": "Art. 27, § 3", "art": "27", "acao": "veto"}]},
+{"data": "2021-04-20", "nome": "Decreto nº 10.681 de 20/04/2021", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 21", "art": "21", "acao": "correlato"}]},
+{"data": "2021-05-06", "nome": "Lei Complementar nº 181 de 06/05/2021", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/2021/lcp-181-2021-05-06"},
+{"data": "2021-05-06", "nome": "Lei Complementar nº 181 de 06/05/2021", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/2021/lcp-181-2021-05-06"},
+{"data": "2021-05-06", "nome": "Lei Complementar nº 181 de 06/05/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 21, § 1, Inciso 1", "art": "21", "acao": "alterou"}, {"dispositivo": "Art. 21, § 1, Inciso 2", "art": "21", "acao": "alterou"}, {"dispositivo": "Art. 21, § 6", "art": "21", "acao": "acrescentou"}, {"dispositivo": "Art. 23, caput", "art": "23", "acao": "alterou"}, {"dispositivo": "Art. 27", "art": "27", "acao": "revogou"}], "id": "federal/leis-complementares/2021/lcp-181-2021-05-06"},
+{"data": "2021-09-27", "nome": "Decreto nº 10.819 de 27/09/2021", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2025-01-13", "nome": "Lei Complementar nº 212 de 13/01/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 15, § 1", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 29, caput", "art": "29", "acao": "alterou"}], "id": "federal/leis-complementares/2025/lcp-212-2025-01-13"},
+{"data": "2025-01-13", "nome": "Lei Complementar nº 212 de 13/01/2025", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/2025/lcp-212-2025-01-13"},
+{"data": "2026-07-23", "nome": "Decreto nº 13.080 de 23/07/2026", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}
