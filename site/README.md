@@ -18,6 +18,18 @@ O site **não copia os textos**: cada página de lei baixa o `.md` direto de `ra
 
 `<id>` é o caminho da norma no ctresb/leis sem `.md`, ex. `federal/leis-ordinarias/1990/lei-8078-1990-09-11`. A Constituição de 1988 é `constituicao`.
 
+## Leis estaduais (SP, RJ e MG)
+
+- A busca tem o filtro **Âmbito**: federais (padrão), um estado, todos os estados ou tudo (`?ambito=SP`,
+  `estaduais`, `todas`). Cada âmbito baixa só as suas partes do índice, então a busca federal continua leve.
+- A página inicial tem a seção "Leis estaduais" (de `destaques.json` → `estaduais`).
+- Numa lei estadual, as citações sem "federal" viram `lei.html?ref=<prefixo>:<número>:<ano>&uf=SP`, que procura
+  primeiro no estado e depois nas federais; "Constituição do Estado" vira `?ref=constituicao-estadual::&uf=SP`.
+- As estaduais abrem em `lei.html?id=…` (ainda sem página própria em `lei/`: com elas o site passaria do
+  limite de 1 GB do GitHub Pages).
+- No grafo, o filtro **Esfera** mostra só as ligações federais ou só as estaduais, e a busca do grafo carrega um
+  estado quando o termo tem a sigla (ex.: `10261 sp`).
+
 ## Links cruzados
 
 `js/citacoes.js` reconhece no texto citações como "Lei nº 9.008, de 21/3/1995", "Decreto-Lei nº 2.848, de 7 de dezembro de 1940", "Lei nº 8.078/90", "Lei Complementar nº 101, de 2000" e "Constituição Federal", inclusive com artigo ("art. 170 da Constituição Federal" leva a `#art-170`).

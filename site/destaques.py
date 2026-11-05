@@ -53,10 +53,18 @@ def main():
     data = Path(args.data)
 
     manifesto = json.loads((data / "index.json").read_text(encoding="utf-8"))
-    entradas = {}
+    entradas = {}      # federais: números, rankings e recentes da página inicial
+    estaduais = {}     # uf -> {"entradas": {...}, "por_tipo": [...]}
     por_tipo = []
     for s in manifesto["shards"]:
         lista = json.loads((data / s["arquivo"]).read_text(encoding="utf-8"))
+        if s.get("esfera") == "estadual":
+            est = estaduais.setdefault(s["uf"], {"entradas": {}, "por_tipo": []})
+            est["entradas"].update((e["id"], e) for e in lista)
+            if lista:
+                est["por_tipo"].append({"tipo": s.get("tipo"), "total": len(lista),
+                                        "revogadas": sum(1 for e in lista if e.get("revogada"))})
+            continue
         for e in lista:
             entradas[e["id"]] = e
         por_tipo.append({
@@ -84,6 +92,25 @@ def main():
             principais.append(resumo(entradas[i], apelido=apelido, descricao=descricao,
                                      citada_por=cont(i, "citada_por"), alterada_por=cont(i, "alterada_por")))
 
+    info_ufs = manifesto.get("estaduais", {})
+    lista_estaduais = []
+    for uf, est in estaduais.items():
+        ents = est["entradas"]
+        constituicao = next((i for i in ents if i.split("/")[2] == "constituicao"), None)
+        mais_citadas = sorted((i for i in ents if cont(i, "citada_por") and i != constituicao),
+                              key=lambda i: (-cont(i, "citada_por"), i))[:5]
+        lista_estaduais.append({
+            "uf": uf,
+            "nome": info_ufs.get(uf, {}).get("nome", uf),
+            "total": len(ents),
+            "revogadas": sum(1 for e in ents.values() if e.get("revogada")),
+            "ligacoes": info_ufs.get(uf, {}).get("links", 0),
+            "desde": min((e["data"] for e in ents.values() if e.get("data") and e["id"] != constituicao), default=None),
+            "constituicao": constituicao,
+            "por_tipo": sorted(est["por_tipo"], key=lambda t: -t["total"]),
+            "mais_citadas": [resumo(ents[i], total=cont(i, "citada_por")) for i in mais_citadas],
+        })
+
     datadas = [e for e in entradas.values() if e.get("data")]
     recentes = sorted(datadas, key=lambda e: (e["data"], e["id"]), reverse=True)[:8]
     decadas = Counter(int(e["data"][:4]) // 10 * 10 for e in datadas if e["data"][:4].isdigit())
@@ -91,7 +118,8 @@ def main():
     saida = {
         "gerado_em": manifesto.get("gerado_em"),
         "fonte": manifesto.get("fonte", {}),
-        "total": len(entradas),
+        "total": len(entradas) + sum(x["total"] for x in lista_estaduais),
+        "total_federal": len(entradas),
         "revogadas": sum(1 for e in entradas.values() if e.get("revogada")),
         "ligacoes": manifesto.get("links", {}).get("total"),
         "ligacoes_por_tipo": manifesto.get("links", {}).get("por_tipo", {}),
@@ -102,6 +130,7 @@ def main():
         "mais_citadas": top("citada_por", 10),
         "mais_alteradas": top("alterada_por", 10),
         "recentes": [resumo(e) for e in recentes],
+        "estaduais": lista_estaduais,
     }
     Path(args.saida).write_text(json.dumps(saida, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(f"destaques: {len(entradas)} normas -> {args.saida}")

@@ -4,7 +4,7 @@ import { prepararComparacao } from "./comparar.js";
 import { regexCitacao, interpretar, citacoes, chave, ID_CONSTITUICAO } from "./citacoes.js";
 import {
   RAW, GITHUB, API, buscarEntrada, resolverChave, vinculos, rotuloDoId, urlLei,
-  formatarData, usandoExemplo, ehExterno, numeroBR, APELIDOS,
+  formatarData, usandoExemplo, ehExterno, numeroBR, APELIDOS, UFS, ufDoId,
 } from "./dados.js";
 import { citacaoABNT, rotuloArtigo } from "./abnt.js";
 import { textoNormasLeg, linkarArtigos, urlNormas } from "./normas-leg.js";
@@ -41,16 +41,29 @@ function lerFrontmatter(md) {
 
 const idArtigo = (num, letra) => "art-" + num + (letra ? "-" + letra.toLowerCase() : "");
 
+// UF da norma aberta (null nas federais). Numa lei estadual, "Lei nº X" pode ser do
+// estado ou federal: o link vai por ?ref=…&uf=, que procura primeiro no estado.
+let ufAtual = null;
+
 // Link de uma citação: id exato quando a data é completa; senão resolvido pelo índice.
+// Devolve null quando não dá para resolver (ex.: "Constituição do Estado" numa lei federal).
 function hrefCitacao(ref) {
   const ancora = ref.artigo ? "art-" + ref.artigo.toLowerCase() : null;
+  const hash = ancora ? "#" + ancora : "";
+  if (ref.estadual && ref.constituicao) {
+    return ufAtual ? "lei.html?ref=constituicao-estadual::&uf=" + ufAtual + hash : null;
+  }
+  if (ufAtual && !ref.constituicao && ref.esfera !== "federal") {
+    return "lei.html?ref=" + encodeURIComponent(chave(ref.tipo.prefixo, ref.numero, ref.ano)) + "&uf=" + ufAtual + hash;
+  }
   if (ref.id) return urlLei(ref.id, ancora);
-  return "lei.html?ref=" + encodeURIComponent(chave(ref.tipo.prefixo, ref.numero, ref.ano)) + (ancora ? "#" + ancora : "");
+  if (!ref.tipo) return null;
+  return "lei.html?ref=" + encodeURIComponent(chave(ref.tipo.prefixo, ref.numero, ref.ano)) + hash;
 }
 
 // ---------- links cruzados no texto ----------
 
-const RE_ART_INTERNO = /\barts?\.\s*(\d{1,3}(?:\.\d{3})+|\d+)[º°]?(?:-([A-Z]))?/g;
+const RE_ART_INTERNO = /\b(?:arts?\.|[Aa]rtigos?)\s*(\d{1,3}(?:\.\d{3})+|\d+)[º°]?(?:-([A-Z]))?/g;
 
 function linkarTexto(no, idAtual) {
   const texto = no.nodeValue;
@@ -77,12 +90,14 @@ function linkarTexto(no, idAtual) {
   let m;
   while ((m = re.exec(texto))) {
     const ref = interpretar(m);
-    if (!ref || ref.id === idAtual) continue;
+    if (!ref || (ref.id && ref.id === idAtual)) continue;
+    const href = hrefCitacao(ref);
+    if (!href) continue;
     empurrarInternos(texto.slice(ultimo, m.index));
-    const titulo = ref.constituicao ? "Constituição Federal"
+    const titulo = ref.estadual ? "Constituição do Estado" : ref.constituicao ? "Constituição Federal"
       : `${ref.tipo.nome} nº ${ref.numero}${ref.ano ? "/" + ref.ano : ""}`;
     partes.push(el("a", {
-      href: hrefCitacao(ref), class: "ref-externa",
+      href, class: "ref-externa",
       title: titulo + (ref.artigo ? ", art. " + ref.artigo : ""), texto: m[0],
     }));
     ultimo = m.index + m[0].length;
@@ -111,7 +126,7 @@ function marcarArtigos(raiz) {
     const forte = p.firstElementChild;
     if (!forte || forte.tagName !== "STRONG" || p.firstChild !== forte) continue;
     // "Art. 1.196." (Código Civil) tem ponto de milhar: vira art-1196.
-    const m = /^Art\.\s*(\d{1,3}(?:\.\d{3})+|\d+)(?:[º°.])?(?:\s*-\s*([A-Z])\b)?/.exec(forte.textContent.trim());
+    const m = /^Art(?:igo)?\.?\s*(\d{1,3}(?:\.\d{3})+|\d+)(?:[º°.])?(?:\s*-\s*([A-Z])\b)?/.exec(forte.textContent.trim());
     if (!m) continue;
     const id = idArtigo(m[1].replace(/\./g, ""), m[2]);
     if (document.getElementById(id)) continue;
@@ -158,7 +173,7 @@ function coletarAlteracoes(raiz, idAtual) {
         : /reda[çc][ãa]o dada|alterad|renumerad|transformad/.test(nota) ? "alterou" : null;
       if (!acao) continue;
       for (const c of citacoes(t)) {
-        if (c.id === idAtual || c.constituicao) continue;
+        if ((c.id && c.id === idAtual) || c.constituicao || !c.tipo) continue;
         const k = c.tipo.prefixo + ":" + c.numero + ":" + (c.ano || "");
         if (!grupos.has(k)) grupos.set(k, { ref: c, acoes: new Map(), artigos: [] });
         const g = grupos.get(k);
@@ -187,7 +202,7 @@ function mostrarAlteracoes(grupos) {
     if (g.artigos.length > 8) arts.append(` e mais ${g.artigos.length - 8}`);
     ol.append(el("li", {},
       el("span", { class: "quando", texto: r.data ? formatarData(r.data) : (r.ano || "") }),
-      el("a", { href: hrefCitacao({ ...r, artigo: null }), texto: nome }),
+      el("a", { href: hrefCitacao({ ...r, artigo: null }) || "#", texto: nome }),
       el("span", { class: "resumo", texto: " " + resumo + (g.artigos.length ? ": " : "") }),
       arts));
   }
@@ -337,10 +352,11 @@ async function iniciar() {
   const ref = params.get("ref");
 
   if (!id && ref) {
-    const achado = await resolverChave(ref).catch(() => null);
+    const achado = await resolverChave(ref, params.get("uf")).catch(() => null);
     if (!achado) {
       const [prefixo, numero, ano] = ref.split(":");
-      const busca = `./?q=${encodeURIComponent(numero + (ano ? " " + ano : ""))}`;
+      const ufRef = params.get("uf");
+      const busca = `./?q=${encodeURIComponent(numero + (ano ? " " + ano : ""))}` + (ufRef ? "&ambito=todas" : "");
       mostrarErro("Norma não encontrada no índice",
         `Não achamos ${prefixo} ${numero}${ano ? "/" + ano : ""} no índice.`);
       $("#texto").append(el("p", {}, el("a", { href: busca, texto: "Procurar pelo número na busca" })));
@@ -353,6 +369,7 @@ async function iniciar() {
   if (!id) { mostrarErro("Nenhuma lei indicada", "Abra uma lei a partir da busca."); return; }
 
   const caminho = id + ".md";
+  ufAtual = ufDoId(id);
   const [resposta, entrada] = await Promise.all([
     fetch(RAW + caminho).catch(() => null),
     buscarEntrada(id).catch(() => null),
@@ -404,13 +421,19 @@ async function iniciar() {
   if (apelido && apelido !== tituloLei) { $("#subtitulo").textContent = tituloLei; $("#subtitulo").hidden = false; }
 
   const trilha = $("#trilha");
-  if (info.tipo) trilha.append(el("a", { href: "./?tipo=" + encodeURIComponent(info.tipo) + "&ordem=recentes", texto: info.tipo }));
+  if (ufAtual) trilha.append(el("a", { href: "./?ambito=" + ufAtual + "&ordem=recentes", texto: UFS[ufAtual] || ufAtual }));
+  if (info.tipo) trilha.append(el("a", {
+    href: "./?tipo=" + encodeURIComponent(info.tipo) + (ufAtual ? "&ambito=" + ufAtual : "") + "&ordem=recentes", texto: info.tipo }));
   if (info.data && id !== ID_CONSTITUICAO) trilha.append(el("span", { texto: String(info.data).slice(0, 4) }));
 
   const selos = $("#selos");
   selos.append(el("span", { class: info.revogada ? "chip chip-revogada" : "chip chip-vigente", texto: info.revogada ? "Revogada" : "Em vigor" }));
   if (info.data) selos.append(el("span", { class: "chip chip-neutro", texto: "Publicada em " + formatarData(info.data) }));
-  if (info.versao_texto) selos.append(el("span", { class: "chip chip-neutro", texto: "Texto " + info.versao_texto }));
+  if (ufAtual) selos.append(el("span", { class: "chip chip-uf", title: "Norma estadual", texto: "Estadual · " + ufAtual }));
+  if (info.versao_texto) {
+    const v = String(info.versao_texto);
+    selos.append(el("span", { class: "chip chip-neutro", title: v, texto: "Texto " + (v.length > 60 ? v.slice(0, 57).trimEnd() + "…" : v) }));
+  }
   if (await usandoExemplo().catch(() => false)) selos.append(el("span", { class: "chip", texto: "índice de exemplo" }));
   $("#ementa").textContent = info.ementa || "";
 

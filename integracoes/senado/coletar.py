@@ -59,6 +59,8 @@ def carregar_indice(data: Path):
         sys.exit(f"{data}/index.json não encontrado")
     normas = []
     for s in manifesto["shards"]:
+        if s.get("esfera") == "estadual":
+            continue  # o Senado só tem normas federais
         cache = ler_json(data / "cache" / Path(s["arquivo"]).name, {}) or {}
         adj = ler_json(data / s["adjacencia"], {}) if s.get("adjacencia") else {}
         for e in ler_json(data / s["arquivo"], []):
