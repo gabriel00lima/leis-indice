@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2021/lei-14124-2021-03-10",
+"urn": "urn:lex:br:federal:lei:2021-03-10;14124",
+"consultado_em": "2026-11-04",
+"codigo": "33304386",
+"nome": "Lei nº 14.124 de 10/03/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-03-10", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 10/03/2021] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-05-03", "nome": "Medida Provisória nº 1.047 de 03/05/2021", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2021-07-29", "nome": "Lei nº 14.190 de 29/07/2021", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14190-2021-07-29"},
+{"data": "2021-07-29", "nome": "Lei nº 14.190 de 29/07/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 13, § 3", "art": "13", "acao": "acrescentou"}, {"dispositivo": "Art. 13, § 4", "art": "13", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2021/lei-14190-2021-07-29"},
+{"data": "2021-07-30", "nome": "Medida Provisória nº 1.059 de 30/07/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 20, caput", "art": "20", "acao": "alterou"}]},
+{"data": "2021-07-30", "nome": "Medida Provisória nº 1.059 de 30/07/2021", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2021-12-07", "nome": "Lei nº 14.259 de 07/12/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12, § 6, Inciso 6", "art": "12", "acao": "acrescentou"}, {"dispositivo": "Art. 12, § 6, Inciso 7", "art": "12", "acao": "acrescentou"}, {"dispositivo": "Art. 12, § 7", "art": "12", "acao": "acrescentou"}, {"dispositivo": "Art. 20, caput", "art": "20", "acao": "alterou"}, {"dispositivo": "Art. 20-A, caput", "art": "20-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2021/lei-14259-2021-12-07"},
+{"data": "2021-12-07", "nome": "Lei nº 14.259 de 07/12/2021", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14259-2021-12-07"}
+],
+"controle": []
+}

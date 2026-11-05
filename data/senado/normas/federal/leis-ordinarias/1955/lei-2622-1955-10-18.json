@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1955/lei-2622-1955-10-18",
+"urn": "urn:lex:br:federal:lei:1955-10-18;2622",
+"consultado_em": "2026-11-04",
+"codigo": "544430",
+"nome": "Lei nº 2.622 de 18/10/1955",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1955-10-19", "descricao": "Publicação Original [Diário Oficial da União de 19/10/1955] (p. 19497, col. 1)"}
+],
+"alteracoes": [
+{"data": "1964-08-05", "nome": "Resolução do Senado Federal nº 30 de 05/08/1964", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "suspensão"}]}
+],
+"controle": []
+}

@@ -1,0 +1,25 @@
+{
+"id": "federal/decretos-lei/1974/del-1360-1974-11-22",
+"urn": "urn:lex:br:federal:decreto.lei:1974-11-22;1360",
+"consultado_em": "2026-11-04",
+"codigo": "525341",
+"nome": "Decreto-Lei nº 1.360 de 22/11/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-11-25", "descricao": "Publicação Original [Diário Oficial da União de 25/11/1974] (p. 13341, col. 1)"}
+],
+"alteracoes": [
+{"data": "1974-11-22", "nome": "Decreto-Lei nº 1.361 de 22/11/1974", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1974/del-1361-1974-11-22"},
+{"data": "1975-04-09", "nome": "Decreto Legislativo nº 17 de 09/04/1975", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1975-12-15", "nome": "Lei nº 6.303 de 15/12/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1975/lei-6303-1975-12-15"},
+{"data": "1977-04-15", "nome": "Decreto-Lei nº 1.544 de 15/04/1977", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1977/del-1544-1977-04-15"},
+{"data": "1978-03-03", "nome": "Decreto-Lei nº 1.614 de 03/03/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1978/del-1614-1978-03-03"},
+{"data": "1979-12-10", "nome": "Decreto-Lei nº 1.727 de 10/12/1979", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1727-1979-12-10"},
+{"data": "1984-02-13", "nome": "Decreto-Lei nº 2.107 de 13/02/1984", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2107-1984-02-13"},
+{"data": "1984-06-19", "nome": "Decreto-Lei nº 2.126 de 19/06/1984", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2126-1984-06-19"},
+{"data": "1984-09-06", "nome": "Decreto-Lei nº 2.160 de 06/09/1984", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2160-1984-09-06"},
+{"data": "1985-01-09", "nome": "Decreto-Lei nº 2.224 de 09/01/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1985/del-2224-1985-01-09"},
+{"data": "1985-01-28", "nome": "Decreto-Lei nº 2.239 de 28/01/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1985/del-2239-1985-01-28"}
+],
+"controle": []
+}

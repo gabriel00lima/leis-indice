@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2007/lei-11481-2007-05-31",
+"urn": "urn:lex:br:federal:lei:2007-05-31;11481",
+"consultado_em": "2026-11-04",
+"codigo": "572633",
+"nome": "Lei nº 11.481 de 31/05/2007",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2007-05-31", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 31/05/2007] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2018-09-21", "nome": "Medida Provisória nº 852 de 21/09/2018", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 14, caput", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "revogou"}, {"dispositivo": "Art. 20, caput", "art": "20", "acao": "alterou"}]},
+{"data": "2019-04-09", "nome": "Lei nº 13.813 de 09/04/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14, caput", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "revogou"}, {"dispositivo": "Art. 20, caput", "art": "20", "acao": "alterou"}], "id": "federal/leis-ordinarias/2019/lei-13813-2019-04-09"},
+{"data": "2019-06-18", "nome": "Lei nº 13.846 de 18/06/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14, § 5", "art": "14", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2019/lei-13846-2019-06-18"},
+{"data": "2019-12-27", "nome": "Medida Provisória nº 915 de 27/12/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 14", "art": "14", "acao": "revogou"}, {"dispositivo": "Art. 20, caput", "art": "20", "acao": "revogou"}, {"dispositivo": "Art. 21, caput", "art": "21", "acao": "revogou"}]},
+{"data": "2020-06-10", "nome": "Lei nº 14.011 de 10/06/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14", "art": "14", "acao": "revogou"}, {"dispositivo": "Art. 20, caput", "art": "20", "acao": "revogou"}, {"dispositivo": "Art. 21, caput", "art": "21", "acao": "revogou"}], "id": "federal/leis-ordinarias/2020/lei-14011-2020-06-10"}
+],
+"controle": []
+}

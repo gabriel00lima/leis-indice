@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2007/lei-11516-2007-08-28",
+"urn": "urn:lex:br:federal:lei:2007-08-28;11516",
+"consultado_em": "2026-11-04",
+"codigo": "572668",
+"nome": "Lei nº 11.516 de 28/08/2007",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2007-08-28", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 28/08/2007] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2017-12-01", "nome": "Medida Provisória nº 809 de 01/12/2017", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 14-A", "art": "14-a", "acao": "acrescentou"}, {"dispositivo": "Art. 14-B, caput", "art": "14-b", "acao": "acrescentou"}]},
+{"data": "2018-05-28", "nome": "Lei nº 13.668 de 28/05/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14-A", "art": "14-a", "acao": "acrescentou"}, {"dispositivo": "Art. 14-B, caput", "art": "14-b", "acao": "acrescentou"}, {"dispositivo": "Art. 14-C", "art": "14-c", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2018/lei-13668-2018-05-28"},
+{"data": "2022-12-26", "nome": "Medida Provisória nº 1.151 de 26/12/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 14-D", "art": "14-d", "acao": "acrescentou"}]},
+{"data": "2023-05-24", "nome": "Lei nº 14.590 de 24/05/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14-C, § 5", "art": "14-c", "acao": "acrescentou"}, {"dispositivo": "Art. 14-D, caput", "art": "14-d", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14590-2023-05-24"}
+],
+"controle": []
+}

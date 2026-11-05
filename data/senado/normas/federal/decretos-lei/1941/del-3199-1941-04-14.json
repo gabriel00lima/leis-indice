@@ -1,0 +1,23 @@
+{
+"id": "federal/decretos-lei/1941/del-3199-1941-04-14",
+"urn": "urn:lex:br:federal:decreto.lei:1941-04-14;3199",
+"consultado_em": "2026-11-04",
+"codigo": "528286",
+"nome": "Decreto-Lei nº 3.199 de 14/04/1941",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1941-04-16", "descricao": "Publicação Original [Diário Oficial da União de 16/04/1941] (p. 7453, col. 1)"}
+],
+"alteracoes": [
+{"data": "1945-08-14", "nome": "Decreto-Lei nº 7.864 de 14/08/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-7864-1945-08-14"},
+{"data": "1946-01-26", "nome": "Decreto-Lei nº 8.946 de 26/01/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-8946-1946-01-26"},
+{"data": "1961-07-20", "nome": "Decreto nº 51.008 de 20/07/1961", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1965-05-26", "nome": "Lei nº 4.638 de 26/05/1965", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4638-1965-05-26"},
+{"data": "1966-09-21", "nome": "Lei nº 5.108 de 21/09/1966", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14, § 3", "art": "14", "acao": "revogou"}], "id": "federal/leis-ordinarias/1966/lei-5108-1966-09-21"},
+{"data": "1974-10-08", "nome": "Lei nº 6.117 de 08/10/1974", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1974/lei-6117-1974-10-08"},
+{"data": "1982-09-21", "nome": "Decreto nº 87.596 de 21/09/1982", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1990-03-15", "nome": "Medida Provisória nº 150 de 15/03/1990", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "1993-07-06", "nome": "Lei nº 8.672 de 06/07/1993", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1993/lei-8672-1993-07-06"}
+],
+"controle": []
+}

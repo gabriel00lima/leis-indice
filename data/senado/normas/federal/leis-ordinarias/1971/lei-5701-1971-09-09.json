@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1971/lei-5701-1971-09-09",
+"urn": "urn:lex:br:federal:lei:1971-09-09;5701",
+"consultado_em": "2026-11-04",
+"codigo": "547574",
+"nome": "Lei nº 5.701 de 09/09/1971",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1971-09-10", "descricao": "Publicação Original [Diário Oficial da União de 10/09/1971] (p. 7345, col. 1)"}
+],
+"alteracoes": [
+{"data": "1972-03-01", "nome": "Decreto nº 70.219 de 01/03/1972", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1981-02-10", "nome": "Decreto-Lei nº 1.855 de 10/02/1981", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}], "id": "federal/decretos-lei/1981/del-1855-1981-02-10"},
+{"data": "1985-12-20", "nome": "Lei nº 7.438 de 20/12/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 16", "art": "16", "acao": "alterou"}], "id": "federal/leis-ordinarias/1985/lei-7438-1985-12-20"},
+{"data": "1986-12-15", "nome": "Lei nº 7.553 de 15/12/1986", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 17", "art": "17", "acao": "alterou"}, {"dispositivo": "Art. 27, Parágrafo Único", "art": "27", "acao": "alterou"}], "id": "federal/leis-ordinarias/1986/lei-7553-1986-12-15"},
+{"data": "1999-02-08", "nome": "Lei nº 9.786 de 08/02/1999", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1999/lei-9786-1999-02-08"}
+],
+"controle": []
+}

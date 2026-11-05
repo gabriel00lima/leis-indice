@@ -1,0 +1,15 @@
+{
+"id": "federal/emendas-constitucionais/2001/emc-32-2001-09-11",
+"urn": "urn:lex:br:federal:emenda.constitucional:2001-09-11;32",
+"consultado_em": "2026-11-04",
+"codigo": "540635",
+"nome": "Emenda Constitucional nº 32 de 11/09/2001",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2001-09-12", "descricao": "Publicação Original [Diário Oficial da União de 12/09/2001] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2002-05-08", "nome": "Resolução do Congresso Nacional nº 1 de 08/05/2002", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

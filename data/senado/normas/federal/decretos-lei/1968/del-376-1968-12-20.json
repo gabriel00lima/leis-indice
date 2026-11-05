@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1968/del-376-1968-12-20",
+"urn": "urn:lex:br:federal:decreto.lei:1968-12-20;376",
+"consultado_em": "2026-11-04",
+"codigo": "523388",
+"nome": "Decreto-Lei nº 376 de 20/12/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/1968] (p. 11020, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-07-24", "nome": "Decreto-Lei nº 700 de 24/07/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-700-1969-07-24"}
+],
+"controle": []
+}

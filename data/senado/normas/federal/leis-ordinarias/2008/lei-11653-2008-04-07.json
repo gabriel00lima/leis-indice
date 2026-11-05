@@ -1,0 +1,28 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11653-2008-04-07",
+"urn": "urn:lex:br:federal:lei:2008-04-07;11653",
+"consultado_em": "2026-11-04",
+"codigo": "569492",
+"nome": "Lei nº 11.653 de 07/04/2008",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-04-08", "descricao": "Publicação Original [Diário Oficial da União de 08/04/2008] (p. 5, col. 1)"}
+],
+"alteracoes": [
+{"data": "2008-06-09", "nome": "Decreto nº 6.477 de 09/06/2008", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2008-07-15", "nome": "Decreto nº 6.508 de 15/07/2008", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2010-12-28", "nome": "Lei nº 12.352 de 28/12/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2010/lei-12352-2010-12-28"},
+{"data": "2010-12-29", "nome": "Lei nº 12.354 de 29/12/2010", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2010/lei-12354-2010-12-29"},
+{"data": "2010-12-29", "nome": "Lei nº 12.359 de 29/12/2010", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2010/lei-12359-2010-12-29"},
+{"data": "2010-12-29", "nome": "Lei nº 12.361 de 29/12/2010", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2010/lei-12361-2010-12-29"},
+{"data": "2010-12-29", "nome": "Lei nº 12.362 de 29/12/2010", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2010/lei-12362-2010-12-29"},
+{"data": "2010-12-29", "nome": "Lei nº 12.366 de 29/12/2010", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2010/lei-12366-2010-12-29"},
+{"data": "2010-12-29", "nome": "Lei nº 12.369 de 29/12/2010", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2010/lei-12369-2010-12-29"},
+{"data": "2010-12-29", "nome": "Lei nº 12.370 de 29/12/2010", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2010/lei-12370-2010-12-29"},
+{"data": "2011-09-20", "nome": "Lei nº 12.492 de 20/09/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2011/lei-12492-2011-09-20"},
+{"data": "2011-09-20", "nome": "Lei nº 12.493 de 20/09/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 3", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2011/lei-12493-2011-09-20"},
+{"data": "2011-12-15", "nome": "Lei nº 12.552 de 15/12/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2011/lei-12552-2011-12-15"},
+{"data": "2011-12-15", "nome": "Lei nº 12.560 de 15/12/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2011/lei-12560-2011-12-15"}
+],
+"controle": []
+}

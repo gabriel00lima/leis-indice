@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1301-1950-12-28",
+"urn": "urn:lex:br:federal:lei:1950-12-28;1301",
+"consultado_em": "2026-11-04",
+"codigo": "542949",
+"nome": "Lei nº 1.301 de 28/12/1950",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-12-29", "descricao": "Publicação Original [Diário Oficial da União de 29/12/1950] (p. 18641, col. 1)"}
+],
+"alteracoes": [
+{"data": "1959-12-24", "nome": "Lei nº 3.709 de 24/12/1959", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1959/lei-3709-1959-12-24"},
+{"data": "1991-05-14", "nome": "Lei nº 8.185 de 14/05/1991", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8185-1991-05-14"}
+],
+"controle": []
+}

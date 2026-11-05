@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2010/lei-12337-2010-11-12",
+"urn": "urn:lex:br:federal:lei:2010-11-12;12337",
+"consultado_em": "2026-11-04",
+"codigo": "585334",
+"nome": "Lei nº 12.337 de 12/11/2010",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2010-11-16", "descricao": "Publicação Original [Diário Oficial da União de 16/11/2010] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2011-01-28", "nome": "Medida Provisória nº 524 de 28/01/2011", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}]},
+{"data": "2011-07-01", "nome": "Medida Provisória nº 538 de 01/07/2011", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2011-10-07", "nome": "Lei nº 12.501 de 07/10/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2011/lei-12501-2011-10-07"},
+{"data": "2011-12-23", "nome": "Medida Provisória nº 555 de 23/12/2011", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}]},
+{"data": "2012-05-25", "nome": "Lei nº 12.652 de 25/05/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2012/lei-12652-2012-05-25"},
+{"data": "2012-12-28", "nome": "Medida Provisória nº 602 de 28/12/2012", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}]},
+{"data": "2013-05-15", "nome": "Lei nº 12.809 de 15/05/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12809-2013-05-15"}
+],
+"controle": []
+}

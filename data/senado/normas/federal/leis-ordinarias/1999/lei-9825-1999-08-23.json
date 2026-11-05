@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/1999/lei-9825-1999-08-23",
+"urn": "urn:lex:br:federal:lei:1999-08-23;9825",
+"consultado_em": "2026-11-04",
+"codigo": "551701",
+"nome": "Lei nº 9.825 de 23/08/1999",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1999-08-24", "descricao": "Publicação Original [Diário Oficial da União de 24/08/1999] (p. 26, col. 1)"}
+],
+"alteracoes": [
+{"data": "2002-08-16", "nome": "Medida Provisória nº 61 de 16/08/2002", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2002-12-18", "nome": "Lei nº 10.605 de 18/12/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2002/lei-10605-2002-12-18"},
+{"data": "2003-07-31", "nome": "Medida Provisória nº 126 de 31/07/2003", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2003-10-09", "nome": "Lei nº 10.744 de 09/10/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2003/lei-10744-2003-10-09"},
+{"data": "2011-11-22", "nome": "Medida Provisória nº 551 de 22/11/2011", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único, Inciso 3", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2012-05-17", "nome": "Lei nº 12.648 de 17/05/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, Parágrafo Único, Inciso 3", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2012/lei-12648-2012-05-17"},
+{"data": "2020-05-22", "nome": "Lei nº 14.002 de 22/05/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "vetado"}, {"dispositivo": "Art. 1, Parágrafo Único, Inciso 2", "art": "1", "acao": "vetado"}, {"dispositivo": "Art. 1, § 2", "art": "1", "acao": "vetado"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "vetado"}, {"dispositivo": "Art. 2", "art": "2", "acao": "vetado"}], "id": "federal/leis-ordinarias/2020/lei-14002-2020-05-22"},
+{"data": "2020-08-05", "nome": "Lei nº 14.034 de 05/08/2020", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2020/lei-14034-2020-08-05"},
+{"data": "2020-08-05", "nome": "Lei nº 14.034 de 05/08/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único, Inciso 2", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2020/lei-14034-2020-08-05"}
+],
+"controle": []
+}

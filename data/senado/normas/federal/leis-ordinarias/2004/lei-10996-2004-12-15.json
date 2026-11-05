@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2004/lei-10996-2004-12-15",
+"urn": "urn:lex:br:federal:lei:2004-12-15;10996",
+"consultado_em": "2026-11-04",
+"codigo": "552872",
+"nome": "Lei nº 10.996 de 15/12/2004",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2004-12-16", "descricao": "Publicação Original [Diário Oficial da União de 16/12/2004] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2004-12-15", "nome": "Decreto nº 5.310 de 15/12/2004", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "regulamentou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "regulamentou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "regulamentou"}]},
+{"data": "2004-12-30", "nome": "Medida Provisória nº 232 de 30/12/2004", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}]},
+{"data": "2008-12-15", "nome": "Medida Provisória nº 451 de 15/12/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2009-06-04", "nome": "Lei nº 11.945 de 04/06/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-11945-2009-06-04"},
+{"data": "2010-12-20", "nome": "Lei nº 12.350 de 20/12/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 4", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 5", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2010/lei-12350-2010-12-20"},
+{"data": "2015-06-19", "nome": "Lei nº 13.137 de 19/06/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 6", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2015/lei-13137-2015-06-19"}
+],
+"controle": []
+}

@@ -1,0 +1,31 @@
+{
+"id": "federal/leis-ordinarias/2020/lei-14113-2020-12-25",
+"urn": "urn:lex:br:federal:lei:2020-12-25;14113",
+"consultado_em": "2026-11-04",
+"codigo": "32999206",
+"nome": "Lei nº 14.113 de 25/12/2020",
+"apelidos": [
+"Lei do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (FUNDEB) (2020)"
+],
+"publicacoes": [
+{"tipo": "ANX", "data": "2020-12-25", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União - Edição Extra de 25/12/2020 - nº 246-C] (p. 8, col. 1)"},
+{"tipo": "PUB", "data": "2020-12-25", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 25/12/2020 - nº 246-C] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-03-22", "nome": "Decreto nº 10.655 de 22/03/2021", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 33", "art": "33", "acao": "regulamentou"}, {"dispositivo": "Art. 34", "art": "34", "acao": "regulamentou"}]},
+{"data": "2021-03-22", "nome": "Decreto nº 10.656 de 22/03/2021", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2021-11-11", "nome": "Medida Provisória nº 1.074 de 11/11/2021", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2021-11-11", "nome": "Medida Provisória nº 1.074 de 11/11/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 41, § 3, Inciso 1", "art": "41", "acao": "alterou"}]},
+{"data": "2021-12-27", "nome": "Lei nº 14.276 de 27/12/2021", "tipo": "Acréscimo Vetado", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14276-2021-12-27"},
+{"data": "2021-12-27", "nome": "Lei nº 14.276 de 27/12/2021", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14276-2021-12-27"},
+{"data": "2021-12-27", "nome": "Lei nº 14.276 de 27/12/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, § 3, Inciso 2", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 7, § 7", "art": "7", "acao": "acrescentou"}, {"dispositivo": "Art. 8, § 5", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8, § 7", "art": "8", "acao": "acrescentou"}, {"dispositivo": "Art. 10, § 1, Inciso 2", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 10, § 1, Inciso 3", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 13, § 5", "art": "13", "acao": "alterou"}, {"dispositivo": "Art. 14", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 16, § 5", "art": "16", "acao": "acrescentou"}, {"dispositivo": "Art. 16, § 5, Inciso 1", "art": "16", "acao": "acrescentou"}, {"dispositivo": "Art. 16, § 5, Inciso 2", "art": "16", "acao": "acrescentou"}, {"dispositivo": "Art. 18, caput, Inciso 4", "art": "18", "acao": "alterou"}, {"dispositivo": "Art. 18, § 5", "art": "18", "acao": "acrescentou"}, {"dispositivo": "Art. 18, § 6", "art": "18", "acao": "acrescentou"}, {"dispositivo": "Art. 21, § 9", "art": "21", "acao": "acrescentou"}, {"dispositivo": "Art. 21, § 9", "art": "21", "acao": "vetado"}, {"dispositivo": "Art. 26, § 1, Inciso 2", "art": "26", "acao": "alterou"}, {"dispositivo": "Art. 26, Parágrafo Único", "art": "26", "acao": "renumerou"}, {"dispositivo": "Art. 26, § 2", "art": "26", "acao": "acrescentou"}, {"dispositivo": "Art. 26-A, caput", "art": "26-a", "acao": "acrescentou"}, {"dispositivo": "Art. 41, § 3, Inciso 1", "art": "41", "acao": "alterou"}, {"dispositivo": "Art. 43", "art": "43", "acao": "alterou"}, {"dispositivo": "Art. 43-A, caput", "art": "43-a", "acao": "acrescentou"}, {"dispositivo": "Art. 43-B, caput", "art": "43-b", "acao": "acrescentou"}, {"dispositivo": "Art. 53, caput", "art": "53", "acao": "alterou"}], "id": "federal/leis-ordinarias/2021/lei-14276-2021-12-27"},
+{"data": "2021-12-29", "nome": "Lei nº 14.284 de 29/12/2021", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 48", "art": "48", "acao": "correlato"}], "id": "federal/leis-ordinarias/2021/lei-14284-2021-12-29"},
+{"data": "2022-04-12", "nome": "Lei nº 14.325 de 12/04/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14325-2022-04-12"},
+{"data": "2022-04-12", "nome": "Lei nº 14.325 de 12/04/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 47-A", "art": "47-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14325-2022-04-12"},
+{"data": "2023-10-30", "nome": "Lei nº 14.711 de 30/10/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14711-2023-10-30"},
+{"data": "2023-10-30", "nome": "Lei nº 14.711 de 30/10/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 21, § 9", "art": "21", "acao": "alterou"}, {"dispositivo": "Art. 21, § 10", "art": "21", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14711-2023-10-30"},
+{"data": "2026-01-13", "nome": "Lei Complementar nº 227 de 13/01/2026", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/2026/lcp-227-2026-01-13"},
+{"data": "2026-01-13", "nome": "Lei Complementar nº 227 de 13/01/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 10", "art": "3", "acao": "acrescentou"}], "id": "federal/leis-complementares/2026/lcp-227-2026-01-13"}
+],
+"controle": []
+}

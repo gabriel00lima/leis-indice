@@ -1,0 +1,31 @@
+{
+"id": "federal/leis-ordinarias/1962/lei-4118-1962-08-27",
+"urn": "urn:lex:br:federal:lei:1962-08-27;4118",
+"consultado_em": "2026-11-04",
+"codigo": "545960",
+"nome": "Lei nº 4.118 de 27/08/1962",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-09-19", "descricao": "Publicação Original [Diário Oficial da União de 19/09/1962] (p. 9701, col. 1)"}
+],
+"alteracoes": [
+{"data": "1962-11-28", "nome": "Lei nº 4.156 de 28/11/1962", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Alínea a", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 2, § 1", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/1962/lei-4156-1962-11-28"},
+{"data": "1963-02-19", "nome": "Decreto nº 51.726 de 19/02/1963", "tipo": "Aprovação de Regulamento", "dispositivos": []},
+{"data": "1967-02-28", "nome": "Decreto-Lei nº 227 de 28/02/1967", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1967/del-227-1967-02-28"},
+{"data": "1967-09-13", "nome": "Decreto-Lei nº 330 de 13/09/1967", "tipo": "Revigoração Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1967/del-330-1967-09-13"},
+{"data": "1967-10-26", "nome": "Decreto Legislativo nº 38 de 26/10/1967", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": []},
+{"data": "1970-02-19", "nome": "Decreto nº 66.235 de 19/02/1970", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1974-12-16", "nome": "Lei nº 6.189 de 16/12/1974", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1974/lei-6189-1974-12-16"},
+{"data": "1975-04-07", "nome": "Decreto nº 75.569 de 07/04/1975", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1978-09-30", "nome": "Lei nº 6.571 de 30/09/1978", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 25", "art": "25", "acao": "revogou"}, {"dispositivo": "Art. 26", "art": "26", "acao": "revogou"}], "id": "federal/leis-ordinarias/1978/lei-6571-1978-09-30"},
+{"data": "1982-12-28", "nome": "Decreto-Lei nº 1.982 de 28/12/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1982-1982-12-28"},
+{"data": "1986-10-06", "nome": "Decreto nº 93.337 de 06/10/1986", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1990-06-12", "nome": "Decreto nº 99.295 de 12/06/1990", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1997-12-04", "nome": "Decreto nº 2.413 de 04/12/1997", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2021-05-14", "nome": "Medida Provisória nº 1.049 de 14/05/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 3, apenas o Caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 3, Alínea a", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, caput, Inciso 3, Alínea b", "art": "1", "acao": "acrescentou"}]},
+{"data": "2021-10-15", "nome": "Lei nº 14.222 de 15/10/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 3", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2021/lei-14222-2021-10-15"},
+{"data": "2022-08-12", "nome": "Medida Provisória nº 1.133 de 12/08/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 31, caput", "art": "31", "acao": "revogou"}, {"dispositivo": "Art. 32, caput", "art": "32", "acao": "revogou"}, {"dispositivo": "Art. 32, Parágrafo Único", "art": "32", "acao": "revogou"}, {"dispositivo": "Art. 33", "art": "33", "acao": "revogou"}]},
+{"data": "2022-12-29", "nome": "Lei nº 14.514 de 29/12/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 31, caput", "art": "31", "acao": "revogou"}], "id": "federal/leis-ordinarias/2022/lei-14514-2022-12-29"}
+],
+"controle": []
+}

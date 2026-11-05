@@ -1,0 +1,24 @@
+{
+"id": "federal/decretos-lei/1969/del-999-1969-10-21",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-21;999",
+"consultado_em": "2026-11-04",
+"codigo": "524621",
+"nome": "Decreto-Lei nº 999 de 21/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-21", "descricao": "Publicação Original [Diário Oficial da União de 21/10/1969] (p. 8940, col. 1)"}
+],
+"alteracoes": [
+{"data": "1971-02-26", "nome": "Decreto nº 68.296 de 26/02/1971", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1972-10-30", "nome": "Decreto-Lei nº 1.242 de 30/10/1972", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1972/del-1242-1972-10-30"},
+{"data": "1972-12-06", "nome": "Lei nº 5.841 de 06/12/1972", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5841-1972-12-06"},
+{"data": "1973-02-07", "nome": "Decreto nº 71.824 de 07/02/1973", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1973-05-04", "nome": "Decreto-Lei nº 1.271 de 04/05/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1973/del-1271-1973-05-04"},
+{"data": "1979-08-02", "nome": "Decreto-Lei nº 1.691 de 02/08/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}], "id": "federal/decretos-lei/1979/del-1691-1979-08-02"},
+{"data": "1979-11-12", "nome": "Decreto-Lei nº 1.711 de 12/11/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1711-1979-11-12"},
+{"data": "1980-05-29", "nome": "Decreto nº 84.755 de 29/05/1980", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1980-12-23", "nome": "Decreto-Lei nº 1.835 de 23/12/1980", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/decretos-lei/1980/del-1835-1980-12-23"},
+{"data": "1983-11-09", "nome": "Decreto-Lei nº 2.068 de 09/11/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/decretos-lei/1983/del-2068-1983-11-09"}
+],
+"controle": []
+}

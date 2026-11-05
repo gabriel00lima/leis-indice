@@ -1,0 +1,25 @@
+{
+"id": "federal/leis-ordinarias/1979/lei-6708-1979-10-30",
+"urn": "urn:lex:br:federal:lei:1979-10-30;6708",
+"consultado_em": "2026-11-04",
+"codigo": "548584",
+"nome": "Lei nº 6.708 de 30/10/1979",
+"apelidos": [
+"Lei da Correção Semestral (1979)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-10-30", "descricao": "Publicação Original [Diário Oficial da União de 30/10/1979] (p. 15953, col. 2)"}
+],
+"alteracoes": [
+{"data": "1980-03-14", "nome": "Decreto nº 84.560 de 14/03/1980", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1980-12-10", "nome": "Lei nº 6.886 de 10/12/1980", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Item 3", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 12, § 2", "art": "12", "acao": "alterou"}], "id": "federal/leis-ordinarias/1980/lei-6886-1980-12-10"},
+{"data": "1983-01-25", "nome": "Decreto-Lei nº 2.012 de 25/01/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1983/del-2012-1983-01-25"},
+{"data": "1983-05-25", "nome": "Decreto-Lei nº 2.024 de 25/05/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1983/del-2024-1983-05-25"},
+{"data": "1983-06-07", "nome": "Decreto nº 88.371 de 07/06/1983", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1983-06-28", "nome": "Decreto nº 88.437 de 28/06/1983", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1983-07-13", "nome": "Decreto-Lei nº 2.045 de 13/07/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 3", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}], "id": "federal/decretos-lei/1983/del-2045-1983-07-13"},
+{"data": "1983-09-15", "nome": "Decreto nº 88.705 de 15/09/1983", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1985-11-27", "nome": "Decreto nº 91.990 de 27/11/1985", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

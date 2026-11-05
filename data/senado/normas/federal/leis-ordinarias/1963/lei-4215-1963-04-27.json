@@ -1,0 +1,25 @@
+{
+"id": "federal/leis-ordinarias/1963/lei-4215-1963-04-27",
+"urn": "urn:lex:br:federal:lei:1963-04-27;4215",
+"consultado_em": "2026-11-04",
+"codigo": "546057",
+"nome": "Lei nº 4.215 de 27/04/1963",
+"apelidos": [
+"Estatuto da Ordem dos Advogados do Brasil (OAB) (1963)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1963-05-10", "descricao": "Publicação Original [Diário Oficial da União de 10/05/1963] (p. 4289, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-03-18", "nome": "Decreto-Lei nº 505 de 18/03/1969", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1969/del-505-1969-03-18"},
+{"data": "1971-07-20", "nome": "Lei nº 5.681 de 20/07/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5681-1971-07-20"},
+{"data": "1972-12-06", "nome": "Lei nº 5.842 de 06/12/1972", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5842-1972-12-06"},
+{"data": "1973-12-10", "nome": "Lei nº 5.960 de 10/12/1973", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-5960-1973-12-10"},
+{"data": "1979-12-05", "nome": "Lei nº 6.743 de 05/12/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 84", "art": "84", "acao": "alterou"}], "id": "federal/leis-ordinarias/1979/lei-6743-1979-12-05"},
+{"data": "1980-12-09", "nome": "Lei nº 6.884 de 09/12/1980", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 71", "art": "71", "acao": "alterou"}, {"dispositivo": "Art. 89", "art": "89", "acao": "alterou"}], "id": "federal/leis-ordinarias/1980/lei-6884-1980-12-09"},
+{"data": "1985-07-22", "nome": "Lei nº 7.346 de 22/07/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 51", "art": "51", "acao": "revogou"}, {"dispositivo": "Art. 52", "art": "52", "acao": "revogou"}, {"dispositivo": "Art. 54, caput, Inciso 9", "art": "54", "acao": "revogou"}, {"dispositivo": "Art. 74", "art": "74", "acao": "revogou"}, {"dispositivo": "Art. 87", "art": "87", "acao": "alterou"}, {"dispositivo": "Art. 87, Parágrafo Único", "art": "87", "acao": "alterou"}, {"dispositivo": "Art. 89", "art": "89", "acao": "alterou"}, {"dispositivo": "Art. 89, § 1", "art": "89", "acao": "alterou"}, {"dispositivo": "Art. 91", "art": "91", "acao": "alterou"}, {"dispositivo": "Art. 92", "art": "92", "acao": "alterou"}, {"dispositivo": "Art. 92, Parágrafo Único, Alínea a", "art": "92", "acao": "alterou"}, {"dispositivo": "Art. 93", "art": "93", "acao": "alterou"}, {"dispositivo": "Art. 94", "art": "94", "acao": "alterou"}, {"dispositivo": "Art. 96, Parágrafo Único, Inciso 1", "art": "96", "acao": "alterou"}, {"dispositivo": "Art. 99", "art": "99", "acao": "alterou"}, {"dispositivo": "Art. 100, Parágrafo Único", "art": "100", "acao": "alterou"}, {"dispositivo": "Art. 101", "art": "101", "acao": "alterou"}, {"dispositivo": "Art. 102", "art": "102", "acao": "alterou"}, {"dispositivo": "Art. 119, § 5", "art": "119", "acao": "alterou"}, {"dispositivo": "Art. 132, caput, Alínea f", "art": "132", "acao": "alterou"}, {"dispositivo": "Art. 141, § 1", "art": "141", "acao": "alterou"}], "id": "federal/leis-ordinarias/1985/lei-7346-1985-07-22"},
+{"data": "1994-07-04", "nome": "Lei nº 8.906 de 04/07/1994", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1994/lei-8906-1994-07-04"},
+{"data": "1994-11-18", "nome": "Lei nº 8.934 de 18/11/1994", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 71, § 4", "art": "71", "acao": "revogou"}], "id": "federal/leis-ordinarias/1994/lei-8934-1994-11-18"}
+],
+"controle": []
+}

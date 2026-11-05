@@ -1,0 +1,22 @@
+{
+"id": "federal/decretos-lei/1978/del-1642-1978-12-07",
+"urn": "urn:lex:br:federal:decreto.lei:1978-12-07;1642",
+"consultado_em": "2026-11-04",
+"codigo": "525905",
+"nome": "Decreto-Lei nº 1.642 de 07/12/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-12-07", "descricao": "Publicação Original [Diário Oficial da União de 07/12/1978] (p. 19670, col. 2)"}
+],
+"alteracoes": [
+{"data": "1979-04-24", "nome": "Decreto Legislativo nº 3 de 24/04/1979", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1979-12-31", "nome": "Decreto-Lei nº 1.752 de 31/12/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1752-1979-12-31"},
+{"data": "1980-11-28", "nome": "Decreto-Lei nº 1.814 de 28/11/1980", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1980/del-1814-1980-11-28"},
+{"data": "1982-12-28", "nome": "Decreto-Lei nº 1.987 de 28/12/1982", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}], "id": "federal/decretos-lei/1982/del-1987-1982-12-28"},
+{"data": "1983-06-09", "nome": "Decreto-Lei nº 2.027 de 09/06/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2027-1983-06-09"},
+{"data": "1983-10-19", "nome": "Decreto-Lei nº 2.064 de 19/10/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}], "id": "federal/decretos-lei/1983/del-2064-1983-10-19"},
+{"data": "1983-10-26", "nome": "Decreto-Lei nº 2.065 de 26/10/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}], "id": "federal/decretos-lei/1983/del-2065-1983-10-26"},
+{"data": "1985-12-23", "nome": "Lei nº 7.450 de 23/12/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7450-1985-12-23"}
+],
+"controle": []
+}

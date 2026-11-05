@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1884/lei-3230-1884-09-03",
+"urn": "urn:lex:br:federal:lei:1884-09-03;3230",
+"consultado_em": "2026-11-04",
+"codigo": "545003",
+"nome": "Lei nº 3.230 de 03/09/1884",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1884-12-31", "descricao": "Publicação Original [Coleção de Leis do Império do Brasil de 31/12/1884 - vol. 001] (p. 11, col. 1)"}
+],
+"alteracoes": [
+{"data": "1885-09-28", "nome": "Decreto do Poder Legislativo nº 3.271 de 28/09/1885", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

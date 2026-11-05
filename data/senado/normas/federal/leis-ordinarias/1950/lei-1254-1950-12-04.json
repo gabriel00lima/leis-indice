@@ -1,0 +1,41 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1254-1950-12-04",
+"urn": "urn:lex:br:federal:lei:1950-12-04;1254",
+"consultado_em": "2026-11-04",
+"codigo": "542897",
+"nome": "Lei nº 1.254 de 04/12/1950",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-12-08", "descricao": "Publicação Original [Diário Oficial da União de 08/12/1950] (p. 17537, col. 1)"}
+],
+"alteracoes": [
+{"data": "1952-06-17", "nome": "Decreto nº 30.994 de 17/06/1952", "tipo": "Aprovação de Estatuto", "dispositivos": []},
+{"data": "1953-11-23", "nome": "Lei nº 2.106 de 23/11/1953", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1953/lei-2106-1953-11-23"},
+{"data": "1953-12-30", "nome": "Lei nº 2.152 de 30/12/1953", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1953/lei-2152-1953-12-30"},
+{"data": "1953-12-30", "nome": "Lei nº 2.153 de 30/12/1953", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1953/lei-2153-1953-12-30"},
+{"data": "1953-12-30", "nome": "Lei nº 2.154 de 30/12/1953", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1953/lei-2154-1953-12-30"},
+{"data": "1954-06-14", "nome": "Lei nº 2.229 de 14/06/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2229-1954-06-14"},
+{"data": "1954-06-14", "nome": "Lei nº 2.230 de 14/06/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2230-1954-06-14"},
+{"data": "1954-06-22", "nome": "Lei nº 2.242 de 22/06/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2242-1954-06-22"},
+{"data": "1954-07-20", "nome": "Lei nº 2.269 de 20/07/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2269-1954-07-20"},
+{"data": "1954-11-20", "nome": "Lei nº 2.337 de 20/11/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2337-1954-11-20"},
+{"data": "1954-12-16", "nome": "Lei nº 2.373 de 16/12/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2373-1954-12-16"},
+{"data": "1955-04-28", "nome": "Lei nº 2.470 de 28/04/1955", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1955/lei-2470-1955-04-28"},
+{"data": "1955-08-12", "nome": "Lei nº 2.559 de 12/08/1955", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1955/lei-2559-1955-08-12"},
+{"data": "1956-02-18", "nome": "Lei nº 2.737 de 18/02/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2737-1956-02-18"},
+{"data": "1956-05-28", "nome": "Lei nº 2.792 de 28/05/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2792-1956-05-28"},
+{"data": "1956-07-24", "nome": "Lei nº 2.834 de 24/07/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2834-1956-07-24"},
+{"data": "1956-10-21", "nome": "Lei nº 2.921 de 21/10/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2921-1956-10-21"},
+{"data": "1956-11-30", "nome": "Lei nº 2.984 de 30/11/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2984-1956-11-30"},
+{"data": "1956-12-19", "nome": "Lei nº 3.038 de 19/12/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-3038-1956-12-19"},
+{"data": "1957-07-02", "nome": "Lei nº 3.191 de 02/07/1957", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1957/lei-3191-1957-07-02"},
+{"data": "1957-11-18", "nome": "Lei nº 3.314 de 18/11/1957", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1957/lei-3314-1957-11-18"},
+{"data": "1958-11-20", "nome": "Lei nº 3.463 de 20/11/1958", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1958/lei-3463-1958-11-20"},
+{"data": "1959-10-10", "nome": "Lei nº 3.641 de 10/10/1959", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1959/lei-3641-1959-10-10"},
+{"data": "1960-12-23", "nome": "Lei nº 3.858 de 23/12/1960", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1960/lei-3858-1960-12-23"},
+{"data": "1964-12-11", "nome": "Lei nº 4.566 de 11/12/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4566-1964-12-11"},
+{"data": "1965-08-30", "nome": "Lei nº 4.764 de 30/08/1965", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4764-1965-08-30"},
+{"data": "1969-08-21", "nome": "Decreto-Lei nº 778 de 21/08/1969", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1969/del-778-1969-08-21"}
+],
+"controle": []
+}

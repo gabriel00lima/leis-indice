@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1967/del-201-1967-02-27",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-27;201",
+"consultado_em": "2026-11-04",
+"codigo": "523043",
+"nome": "Decreto-Lei nº 201 de 27/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-27", "descricao": "Publicação Original [Diário Oficial da União de 27/02/1967] (p. 2348, col. 3)"}
+],
+"alteracoes": [
+{"data": "1971-06-08", "nome": "Lei nº 5.659 de 08/06/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5659-1971-06-08"},
+{"data": "1980-06-11", "nome": "Lei nº 6.793 de 11/06/1980", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8, caput, Inciso 3", "art": "8", "acao": "alterou"}], "id": "federal/leis-ordinarias/1980/lei-6793-1980-06-11"},
+{"data": "1997-09-30", "nome": "Lei nº 9.504 de 30/09/1997", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, § 2", "art": "7", "acao": "revogou"}], "id": "federal/leis-ordinarias/1997/lei-9504-1997-09-30"},
+{"data": "2000-10-19", "nome": "Lei nº 10.028 de 19/10/2000", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2000/lei-10028-2000-10-19"},
+{"data": "2009-07-03", "nome": "Lei nº 11.966 de 03/07/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, caput, Inciso 5", "art": "5", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-11966-2009-07-03"}
+],
+"controle": []
+}

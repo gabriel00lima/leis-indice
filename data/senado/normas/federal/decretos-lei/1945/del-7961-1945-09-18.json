@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1945/del-7961-1945-09-18",
+"urn": "urn:lex:br:federal:decreto.lei:1945-09-18;7961",
+"consultado_em": "2026-11-04",
+"codigo": "533008",
+"nome": "Decreto-Lei nº 7.961 de 18/09/1945",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1945-09-20", "descricao": "Publicação Original [Diário Oficial da União de 20/09/1945] (p. 15052, col. 1)"},
+{"tipo": "REP", "data": "1945-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1945 - vol. 005] (p. 304, col. 1)"}
+],
+"alteracoes": [
+{"data": "1945-12-06", "nome": "Decreto-Lei nº 8.306 de 06/12/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-8306-1945-12-06"}
+],
+"controle": []
+}

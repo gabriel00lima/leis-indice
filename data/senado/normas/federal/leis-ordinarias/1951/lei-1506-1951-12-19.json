@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1951/lei-1506-1951-12-19",
+"urn": "urn:lex:br:federal:lei:1951-12-19;1506",
+"consultado_em": "2026-11-04",
+"codigo": "543196",
+"nome": "Lei nº 1.506 de 19/12/1951",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1951-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/1951] (p. 18525, col. 1)"}
+],
+"alteracoes": [
+{"data": "1962-09-26", "nome": "Lei Delegada nº 2 de 26/09/1962", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1963-12-23", "nome": "Lei nº 4.303 de 23/12/1963", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1963/lei-4303-1963-12-23"}
+],
+"controle": []
+}

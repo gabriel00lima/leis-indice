@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2001/lei-10304-2001-11-05",
+"urn": "urn:lex:br:federal:lei:2001-11-05;10304",
+"consultado_em": "2026-11-04",
+"codigo": "552180",
+"nome": "Lei nº 10.304 de 05/11/2001",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2001-11-06", "descricao": "Publicação Original [Diário Oficial da União de 06/11/2001] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-01-28", "nome": "Decreto nº 6.754 de 28/01/2009", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2009-01-28", "nome": "Medida Provisória nº 454 de 28/01/2009", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2009-06-17", "nome": "Lei nº 11.949 de 17/06/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-11949-2009-06-17"},
+{"data": "2016-04-15", "nome": "Decreto nº 8.713 de 15/04/2016", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2019-10-18", "nome": "Medida Provisória nº 901 de 18/10/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 6", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "acrescentou"}]},
+{"data": "2020-05-26", "nome": "Lei nº 14.004 de 26/05/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 6", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 1", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2, § 2", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2, § 3", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2, § 3", "art": "2", "acao": "vetado"}, {"dispositivo": "Art. 2, § 4", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2, § 4", "art": "2", "acao": "vetado"}, {"dispositivo": "Art. 2, § 5", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2, § 5", "art": "2", "acao": "vetado"}, {"dispositivo": "Art. 3, caput", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 1", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, caput, Inciso 2", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, caput, Inciso 3", "art": "3", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2020/lei-14004-2020-05-26"}
+],
+"controle": []
+}

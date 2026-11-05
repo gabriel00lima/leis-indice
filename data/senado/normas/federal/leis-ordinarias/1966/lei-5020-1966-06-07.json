@@ -1,0 +1,24 @@
+{
+"id": "federal/leis-ordinarias/1966/lei-5020-1966-06-07",
+"urn": "urn:lex:br:federal:lei:1966-06-07;5020",
+"consultado_em": "2026-11-04",
+"codigo": "546878",
+"nome": "Lei nº 5.020 de 07/06/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-06-08", "descricao": "Publicação Original [Diário Oficial da União de 08/06/1966] (p. 6155, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-09-12", "nome": "Decreto nº 59.203 de 12/09/1966", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1967-02-15", "nome": "Decreto-Lei nº 174 de 15/02/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1967/del-174-1967-02-15"},
+{"data": "1967-04-04", "nome": "Decreto-Lei nº 321 de 04/04/1967", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 52", "art": "52", "acao": "alterou"}], "id": "federal/decretos-lei/1967/del-321-1967-04-04"},
+{"data": "1968-09-20", "nome": "Lei nº 5.500 de 20/09/1968", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1968/lei-5500-1968-09-20"},
+{"data": "1968-10-08", "nome": "Decreto nº 63.378 de 08/10/1968", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1968-11-20", "nome": "Decreto nº 63.652 de 20/11/1968", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1969-03-28", "nome": "Decreto-Lei nº 512-A de 28/03/1969", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1969/del-512-a-1969-03-28"},
+{"data": "1969-10-01", "nome": "Decreto-Lei nº 905 de 01/10/1969", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1969/del-905-1969-10-01"},
+{"data": "1972-06-08", "nome": "Lei nº 5.783 de 08/06/1972", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5783-1972-06-08"},
+{"data": "1972-11-10", "nome": "Lei nº 5.821 de 10/11/1972", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5821-1972-11-10"}
+],
+"controle": []
+}

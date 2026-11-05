@@ -1,0 +1,28 @@
+{
+"id": "federal/leis-ordinarias/2010/lei-12214-2010-01-26",
+"urn": "urn:lex:br:federal:lei:2010-01-26;12214",
+"consultado_em": "2026-11-04",
+"codigo": "575856",
+"nome": "Lei nº 12.214 de 26/01/2010",
+"apelidos": [
+"Lei Orçamentária Anual (LOA) (2010)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2010-01-27", "descricao": "Publicação Original [Diário Oficial da União de 27/01/2010] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "2010-05-28", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 28/05/2010] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2010-07-20", "nome": "Decreto Legislativo nº 521 de 20/07/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 6", "art": null, "acao": "alterou"}]},
+{"data": "2010-07-20", "nome": "Decreto Legislativo nº 522 de 20/07/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 6", "art": null, "acao": "alterou"}]},
+{"data": "2010-07-20", "nome": "Lei nº 12.293 de 20/07/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 18", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 5", "art": "4", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2010/lei-12293-2010-07-20"},
+{"data": "2010-07-20", "nome": "Lei nº 12.295 de 20/07/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 5", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2010/lei-12295-2010-07-20"},
+{"data": "2011-02-17", "nome": "Decreto Legislativo nº 10 de 17/02/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 6", "art": null, "acao": "revogou"}]},
+{"data": "2011-02-17", "nome": "Decreto Legislativo nº 11 de 17/02/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 6", "art": null, "acao": "revogou"}]},
+{"data": "2011-02-17", "nome": "Decreto Legislativo nº 12 de 17/02/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 6", "art": null, "acao": "revogou"}]},
+{"data": "2011-02-17", "nome": "Decreto Legislativo nº 6 de 17/02/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 6", "art": null, "acao": "revogou"}]},
+{"data": "2011-02-17", "nome": "Decreto Legislativo nº 7 de 17/02/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 6", "art": null, "acao": "revogou"}]},
+{"data": "2011-02-17", "nome": "Decreto Legislativo nº 8 de 17/02/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 6", "art": null, "acao": "revogou"}]},
+{"data": "2011-02-17", "nome": "Decreto Legislativo nº 9 de 17/02/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 6", "art": null, "acao": "revogou"}]}
+],
+"controle": []
+}

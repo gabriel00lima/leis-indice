@@ -1,0 +1,42 @@
+{
+"id": "federal/leis-ordinarias/1991/lei-8162-1991-01-08",
+"urn": "urn:lex:br:federal:lei:1991-01-08;8162",
+"consultado_em": "2026-11-04",
+"codigo": "550038",
+"nome": "Lei nº 8.162 de 08/01/1991",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1991-01-09", "descricao": "Publicação Original [Diário Oficial da União de 09/01/1991] (p. 457, col. 1)"}
+],
+"alteracoes": [
+{"data": "1991-05-29", "nome": "Medida Provisória nº 296 de 29/05/1991", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}]},
+{"data": "1991-08-13", "nome": "Lei nº 8.216 de 13/08/1991", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/1991/lei-8216-1991-08-13"},
+{"data": "1991-12-17", "nome": "Lei nº 8.270 de 17/12/1991", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8270-1991-12-17"},
+{"data": "1993-07-21", "nome": "Lei nº 8.688 de 21/07/1993", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "revogou"}], "id": "federal/leis-ordinarias/1993/lei-8688-1993-07-21"},
+{"data": "1993-08-12", "nome": "Lei nº 8.694 de 12/08/1993", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "correlato"}, {"dispositivo": "Art. 10", "art": "10", "acao": "correlato"}], "id": "federal/leis-ordinarias/1993/lei-8694-1993-08-12"},
+{"data": "1993-09-22", "nome": "Decreto nº 935 de 22/09/1993", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "correlato"}, {"dispositivo": "Art. 9", "art": "9", "acao": "correlato"}]},
+{"data": "1994-07-11", "nome": "Lei nº 8.911 de 11/07/1994", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, caput, Inciso 2", "art": "7", "acao": "revogou"}], "id": "federal/leis-ordinarias/1994/lei-8911-1994-07-11"},
+{"data": "1994-12-02", "nome": "Medida Provisória nº 738 de 02/12/1994", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "correlato"}]},
+{"data": "1994-12-30", "nome": "Medida Provisória nº 797 de 30/12/1994", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "correlato"}]},
+{"data": "1996-02-07", "nome": "Lei nº 9.264 de 07/02/1996", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 15", "art": "15", "acao": "revogou"}], "id": "federal/leis-ordinarias/1996/lei-9264-1996-02-07"},
+{"data": "1996-03-15", "nome": "Lei nº 9.266 de 15/03/1996", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 15", "art": "15", "acao": "revogou"}], "id": "federal/leis-ordinarias/1996/lei-9266-1996-03-15"},
+{"data": "1996-10-11", "nome": "Medida Provisória nº 1.522 de 11/10/1996", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "1996-11-12", "nome": "Medida Provisória nº 1.522-1 de 12/11/1996", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "1996-12-12", "nome": "Medida Provisória nº 1.522-2 de 12/12/1996", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "1997-01-09", "nome": "Medida Provisória nº 1.522-3 de 09/01/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "1997-02-05", "nome": "Medida Provisória nº 1.522-4 de 05/02/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "1997-03-06", "nome": "Medida Provisória nº 1.522-5 de 06/03/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "1997-04-03", "nome": "Medida Provisória nº 1.522-6 de 03/04/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "1997-05-02", "nome": "Medida Provisória nº 1.573-7 de 02/05/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "1997-06-03", "nome": "Medida Provisória nº 1.573-8 de 03/06/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "1997-07-03", "nome": "Medida Provisória nº 1.573-9 de 03/07/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "1997-07-31", "nome": "Medida Provisória nº 1.573-10 de 31/07/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "1997-08-29", "nome": "Medida Provisória nº 1.573-11 de 29/08/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "1997-09-26", "nome": "Medida Provisória nº 1.573-12 de 26/09/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "1997-10-27", "nome": "Medida Provisória nº 1.573-13 de 27/10/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "1997-11-10", "nome": "Medida Provisória nº 1.595-14 de 10/11/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "1997-12-10", "nome": "Lei nº 9.527 de 10/12/1997", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}], "id": "federal/leis-ordinarias/1997/lei-9527-1997-12-10"},
+{"data": "1999-09-02", "nome": "Resolução do Senado Federal nº 35 de 02/09/1999", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, caput, Inciso 1", "art": "7", "acao": "suspensão"}, {"dispositivo": "Art. 7, caput, Inciso 3", "art": "7", "acao": "suspensão"}]}
+],
+"controle": []
+}

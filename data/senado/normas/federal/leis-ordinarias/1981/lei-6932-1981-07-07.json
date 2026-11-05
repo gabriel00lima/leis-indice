@@ -1,0 +1,31 @@
+{
+"id": "federal/leis-ordinarias/1981/lei-6932-1981-07-07",
+"urn": "urn:lex:br:federal:lei:1981-07-07;6932",
+"consultado_em": "2026-11-04",
+"codigo": "548808",
+"nome": "Lei nº 6.932 de 07/07/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-07-09", "descricao": "Publicação Original [Diário Oficial da União de 09/07/1981] (p. 12789, col. 1)"}
+],
+"alteracoes": [
+{"data": "1984-09-19", "nome": "Lei nº 7.217 de 19/09/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/1984/lei-7217-1984-09-19"},
+{"data": "1987-05-15", "nome": "Lei nº 7.601 de 15/05/1987", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/1987/lei-7601-1987-05-15"},
+{"data": "1990-12-28", "nome": "Lei nº 8.138 de 28/12/1990", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1990/lei-8138-1990-12-28"},
+{"data": "1993-11-05", "nome": "Lei nº 8.725 de 05/11/1993", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/1993/lei-8725-1993-11-05"},
+{"data": "1998-12-02", "nome": "Medida Provisória nº 1.729 de 02/12/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 5", "art": "4", "acao": "alterou"}]},
+{"data": "2002-01-09", "nome": "Lei nº 10.405 de 09/01/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2002/lei-10405-2002-01-09"},
+{"data": "2006-12-01", "nome": "Lei nº 11.381 de 01/12/2006", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2006/lei-11381-2006-12-01"},
+{"data": "2010-12-31", "nome": "Medida Provisória nº 521 de 31/12/2010", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4-A", "art": "4-a", "acao": "acrescentou"}]},
+{"data": "2011-06-24", "nome": "Medida Provisória nº 536 de 24/06/2011", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2011-10-28", "nome": "Lei nº 12.514 de 28/10/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2011/lei-12514-2011-10-28"},
+{"data": "2013-10-22", "nome": "Lei nº 12.871 de 22/10/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 3", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, § 4", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, § 5", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2013/lei-12871-2013-10-22"},
+{"data": "2015-08-04", "nome": "Decreto nº 8.497 de 04/08/2015", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 1, § 4", "art": "1", "acao": "regulamentou"}, {"dispositivo": "Art. 1, § 5", "art": "1", "acao": "regulamentou"}]},
+{"data": "2015-09-10", "nome": "Decreto nº 8.516 de 10/09/2015", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 1, § 4", "art": "1", "acao": "regulamentou"}, {"dispositivo": "Art. 1, § 5", "art": "1", "acao": "regulamentou"}]},
+{"data": "2024-04-17", "nome": "Decreto nº 11.999 de 17/04/2024", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2025-10-20", "nome": "Decreto nº 12.681 de 20/10/2025", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 4, § 5, Inciso 3", "art": "4", "acao": "regulamentou"}]},
+{"data": "2026-05-05", "nome": "Lei nº 15.400 de 05/05/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, § 3", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 5, § 4", "art": "5", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15400-2026-05-05"},
+{"data": "2026-06-19", "nome": "Medida Provisória nº 1.370 de 19/06/2026", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 5-A, caput", "art": "5-a", "acao": "acrescentou"}, {"dispositivo": "Art. 5-A, Parágrafo Único", "art": "5-a", "acao": "acrescentou"}]}
+],
+"controle": []
+}

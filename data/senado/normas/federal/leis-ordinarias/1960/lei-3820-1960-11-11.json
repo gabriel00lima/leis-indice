@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1960/lei-3820-1960-11-11",
+"urn": "urn:lex:br:federal:lei:1960-11-11;3820",
+"consultado_em": "2026-11-04",
+"codigo": "545642",
+"nome": "Lei nº 3.820 de 11/11/1960",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1960-11-21", "descricao": "Publicação Original [Diário Oficial da União de 21/11/1960] (p. 15029, col. 1)"}
+],
+"alteracoes": [
+{"data": "1965-10-29", "nome": "Lei nº 4.817 de 29/10/1965", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4817-1965-10-29"},
+{"data": "1971-10-26", "nome": "Lei nº 5.724 de 26/10/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5724-1971-10-26"},
+{"data": "1977-01-18", "nome": "Decreto nº 79.137 de 18/01/1977", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1981-04-07", "nome": "Decreto nº 85.878 de 07/04/1981", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1995-10-26", "nome": "Lei nº 9.120 de 26/10/1995", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}], "id": "federal/leis-ordinarias/1995/lei-9120-1995-10-26"}
+],
+"controle": []
+}

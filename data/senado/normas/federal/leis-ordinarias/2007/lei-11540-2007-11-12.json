@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/2007/lei-11540-2007-11-12",
+"urn": "urn:lex:br:federal:lei:2007-11-12;11540",
+"consultado_em": "2026-11-04",
+"codigo": "572692",
+"nome": "Lei nº 11.540 de 12/11/2007",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2007-11-13", "descricao": "Publicação Original [Diário Oficial da União de 13/11/2007] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-08-13", "nome": "Decreto nº 6.938 de 13/08/2009", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2021-01-12", "nome": "Lei Complementar nº 177 de 12/01/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 10, caput, Inciso 15", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 10, caput, Inciso 16", "art": "10", "acao": "acrescentou"}, {"dispositivo": "Art. 10, caput, Inciso 17", "art": "10", "acao": "acrescentou"}, {"dispositivo": "Art. 10, caput, Inciso 18", "art": "10", "acao": "acrescentou"}, {"dispositivo": "Art. 11, caput", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 11, § 1", "art": "11", "acao": "acrescentou"}, {"dispositivo": "Art. 11, § 2", "art": "11", "acao": "acrescentou"}, {"dispositivo": "Art. 11, § 3", "art": "11", "acao": "acrescentou"}, {"dispositivo": "Art. 11, § 3", "art": "11", "acao": "vetado"}, {"dispositivo": "Art. 11, § 4", "art": "11", "acao": "acrescentou"}, {"dispositivo": "Art. 12, caput, Inciso 1, Alínea d", "art": "12", "acao": "acrescentou"}, {"dispositivo": "Art. 12, caput, Inciso 2, Alínea a", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 14, § 4", "art": "14", "acao": "alterou"}], "id": "federal/leis-complementares/2021/lcp-177-2021-01-12"},
+{"data": "2022-08-29", "nome": "Medida Provisória nº 1.136 de 29/08/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 12, § 2, Inciso 1", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 12, § 4", "art": "12", "acao": "acrescentou"}, {"dispositivo": "Art. 12, § 5", "art": "12", "acao": "acrescentou"}]},
+{"data": "2023-04-20", "nome": "Lei nº 14.554 de 20/04/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12, § 2, Inciso 1", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 12, § 4", "art": "12", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14554-2023-04-20"},
+{"data": "2025-08-04", "nome": "Lei nº 15.184 de 04/08/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12, § 6", "art": "12", "acao": "acrescentou"}, {"dispositivo": "Art. 12, § 7", "art": "12", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2025/lei-15184-2025-08-04"},
+{"data": "2026-03-30", "nome": "Decreto nº 12.913 de 30/03/2026", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 12, § 6", "art": "12", "acao": "correlato"}]},
+{"data": "2026-06-30", "nome": "Medida Provisória nº 1.374 de 30/06/2026", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 12, caput, Inciso 2-A", "art": "12", "acao": "acrescentou"}, {"dispositivo": "Art. 15-A, caput", "art": "15-a", "acao": "acrescentou"}, {"dispositivo": "Art. 15-A, § 1", "art": "15-a", "acao": "acrescentou"}, {"dispositivo": "Art. 15-A, § 2", "art": "15-a", "acao": "acrescentou"}]},
+{"data": "2026-07-15", "nome": "Medida Provisória nº 1.376 de 15/07/2026", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 15-A, § 3, apenas o Caput", "art": "15-a", "acao": "acrescentou"}, {"dispositivo": "Art. 15-A, § 3, Inciso 1", "art": "15-a", "acao": "acrescentou"}, {"dispositivo": "Art. 15-A, § 3, Inciso 2", "art": "15-a", "acao": "acrescentou"}, {"dispositivo": "Art. 15-A, § 3, Inciso 3", "art": "15-a", "acao": "acrescentou"}]}
+],
+"controle": []
+}

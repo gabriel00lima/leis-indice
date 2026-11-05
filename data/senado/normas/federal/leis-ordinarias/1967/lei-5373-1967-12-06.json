@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1967/lei-5373-1967-12-06",
+"urn": "urn:lex:br:federal:lei:1967-12-06;5373",
+"consultado_em": "2026-11-04",
+"codigo": "547237",
+"nome": "Lei nº 5.373 de 06/12/1967",
+"apelidos": [
+"Lei Orçamentária Anual (LOA) (1968)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-12-18", "descricao": "Publicação Original [Diário Oficial da União de 18/12/1967] (p. 12663, col. 1)"}
+],
+"alteracoes": [
+{"data": "1968-12-12", "nome": "Lei nº 5.561 de 12/12/1968", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1968/lei-5561-1968-12-12"},
+{"data": "1968-12-30", "nome": "Decreto-Lei nº 402 de 30/12/1968", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1968/del-402-1968-12-30"},
+{"data": "1969-07-22", "nome": "Decreto-Lei nº 692 de 22/07/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-692-1969-07-22"}
+],
+"controle": []
+}

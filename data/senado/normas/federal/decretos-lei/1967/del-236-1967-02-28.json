@@ -1,0 +1,21 @@
+{
+"id": "federal/decretos-lei/1967/del-236-1967-02-28",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-28;236",
+"consultado_em": "2026-11-04",
+"codigo": "523112",
+"nome": "Decreto-Lei nº 236 de 28/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-28", "descricao": "Publicação Original [Diário Oficial da União de 28/02/1967] (p. 2432, col. 4)"}
+],
+"alteracoes": [
+{"data": "1968-02-28", "nome": "Lei nº 5.397 de 28/02/1968", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1968/lei-5397-1968-02-28"},
+{"data": "1972-05-18", "nome": "Decreto nº 70.568 de 18/05/1972", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1975-05-12", "nome": "Decreto nº 75.718 de 12/05/1975", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1975-12-15", "nome": "Lei nº 6.301 de 15/12/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1975/lei-6301-1975-12-15"},
+{"data": "2002-10-01", "nome": "Medida Provisória nº 70 de 01/10/2002", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 12, § 3", "art": "12", "acao": "alterou"}]},
+{"data": "2017-02-16", "nome": "Lei nº 13.415 de 16/02/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 16, § 2", "art": "16", "acao": "alterou"}, {"dispositivo": "Art. 16, § 3", "art": "16", "acao": "acrescentou"}, {"dispositivo": "Art. 16, § 4", "art": "16", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2017/lei-13415-2017-02-16"},
+{"data": "2024-01-15", "nome": "Lei nº 14.812 de 15/01/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput, Alínea e", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 12, caput, Inciso 1, Alínea a", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 12, caput, Inciso 1, Alínea b", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 12, caput, Inciso 1, Alínea c", "art": "12", "acao": "revogou"}], "id": "federal/leis-ordinarias/2024/lei-14812-2024-01-15"}
+],
+"controle": []
+}

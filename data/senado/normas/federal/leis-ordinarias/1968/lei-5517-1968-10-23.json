@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5517-1968-10-23",
+"urn": "urn:lex:br:federal:lei:1968-10-23;5517",
+"consultado_em": "2026-11-04",
+"codigo": "547386",
+"nome": "Lei nº 5.517 de 23/10/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-10-25", "descricao": "Publicação Original [Diário Oficial da União de 25/10/1968] (p. 9401, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-06-17", "nome": "Decreto nº 64.704 de 17/06/1969", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1970-12-02", "nome": "Lei nº 5.634 de 02/12/1970", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1970/lei-5634-1970-12-02"},
+{"data": "1971-08-27", "nome": "Decreto nº 69.134 de 27/08/1971", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1977-01-18", "nome": "Decreto nº 79.137 de 18/01/1977", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1977-10-05", "nome": "Lei nº 6.446 de 05/10/1977", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1977/lei-6446-1977-10-05"},
+{"data": "2003-05-16", "nome": "Lei nº 10.673 de 16/05/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 11, Parágrafo Único", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 29, caput, Alínea a", "art": "29", "acao": "revogou"}, {"dispositivo": "Art. 29, caput, Alínea b", "art": "29", "acao": "revogou"}, {"dispositivo": "Art. 29, caput, Alínea c", "art": "29", "acao": "revogou"}, {"dispositivo": "Art. 29, caput, Alínea d", "art": "29", "acao": "revogou"}], "id": "federal/leis-ordinarias/2003/lei-10673-2003-05-16"}
+],
+"controle": []
+}

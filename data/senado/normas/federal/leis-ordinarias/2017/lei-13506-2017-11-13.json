@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2017/lei-13506-2017-11-13",
+"urn": "urn:lex:br:federal:lei:2017-11-13;13506",
+"consultado_em": "2026-11-04",
+"codigo": "26282176",
+"nome": "Lei nº 13.506 de 13/11/2017",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2017-11-14", "descricao": "Publicação Original [Diário Oficial da União de 14/11/2017] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2019-06-27", "nome": "Decreto nº 9.889 de 27/06/2019", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 17, § 4", "art": "17", "acao": "correlato"}, {"dispositivo": "Art. 29", "art": "29", "acao": "correlato"}]},
+{"data": "2021-12-29", "nome": "Lei nº 14.286 de 29/12/2021", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14286-2021-12-29"},
+{"data": "2021-12-29", "nome": "Lei nº 14.286 de 29/12/2021", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14286-2021-12-29"},
+{"data": "2021-12-29", "nome": "Lei nº 14.286 de 29/12/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "ressalvou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "ressalvou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "ressalvou"}, {"dispositivo": "Art. 5, caput, Inciso 1", "art": "5", "acao": "ressalvou"}, {"dispositivo": "Art. 5, caput, Inciso 3", "art": "5", "acao": "ressalvou"}, {"dispositivo": "Art. 5, caput, Inciso 5", "art": "5", "acao": "ressalvou"}, {"dispositivo": "Art. 5, caput, Inciso 6", "art": "5", "acao": "ressalvou"}, {"dispositivo": "Art. 40, caput", "art": "40", "acao": "revogou"}, {"dispositivo": "Art. 42", "art": "42", "acao": "revogou"}, {"dispositivo": "Art. 43, caput", "art": "43", "acao": "revogou"}, {"dispositivo": "Art. 44", "art": "44", "acao": "revogou"}, {"dispositivo": "Art. 45, caput", "art": "45", "acao": "revogou"}, {"dispositivo": "Art. 59", "art": "59", "acao": "revogou"}, {"dispositivo": "Art. 60, caput", "art": "60", "acao": "revogou"}, {"dispositivo": "Art. 61", "art": "61", "acao": "revogou"}, {"dispositivo": "Art. 62, caput", "art": "62", "acao": "revogou"}], "id": "federal/leis-ordinarias/2021/lei-14286-2021-12-29"},
+{"data": "2021-12-29", "nome": "Lei nº 14.286 de 29/12/2021", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14286-2021-12-29"},
+{"data": "2021-12-29", "nome": "Lei nº 14.286 de 29/12/2021", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14286-2021-12-29"}
+],
+"controle": []
+}

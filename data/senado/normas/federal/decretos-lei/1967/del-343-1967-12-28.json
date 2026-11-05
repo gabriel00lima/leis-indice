@@ -1,0 +1,24 @@
+{
+"id": "federal/decretos-lei/1967/del-343-1967-12-28",
+"urn": "urn:lex:br:federal:decreto.lei:1967-12-28;343",
+"consultado_em": "2026-11-04",
+"codigo": "523322",
+"nome": "Decreto-Lei nº 343 de 28/12/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-12-29", "descricao": "Publicação Original [Diário Oficial da União de 29/12/1967] (p. 13127, col. 1)"}
+],
+"alteracoes": [
+{"data": "1968-03-21", "nome": "Decreto Legislativo nº 14 de 21/03/1968", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1969-01-10", "nome": "Decreto-Lei nº 414 de 10/01/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-414-1969-01-10"},
+{"data": "1969-04-25", "nome": "Decreto-Lei nº 555 de 25/04/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-555-1969-04-25"},
+{"data": "1969-06-09", "nome": "Decreto-Lei nº 615 de 09/06/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-615-1969-06-09"},
+{"data": "1969-09-11", "nome": "Decreto-Lei nº 859 de 11/09/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-859-1969-09-11"},
+{"data": "1970-03-12", "nome": "Decreto-Lei nº 1.091 de 12/03/1970", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1970/del-1091-1970-03-12"},
+{"data": "1972-05-15", "nome": "Decreto-Lei nº 1.221 de 15/05/1972", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1972/del-1221-1972-05-15"},
+{"data": "1973-03-01", "nome": "Decreto-Lei nº 1.264 de 01/03/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1973/del-1264-1973-03-01"},
+{"data": "1973-07-05", "nome": "Decreto-Lei nº 1.279 de 05/07/1973", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/decretos-lei/1973/del-1279-1973-07-05"},
+{"data": "1976-12-28", "nome": "Decreto-Lei nº 1.511 de 28/12/1976", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/decretos-lei/1976/del-1511-1976-12-28"}
+],
+"controle": []
+}

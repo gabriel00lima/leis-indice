@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/1963/lei-4284-1963-11-20",
+"urn": "urn:lex:br:federal:lei:1963-11-20;4284",
+"consultado_em": "2026-11-04",
+"codigo": "546133",
+"nome": "Lei nº 4.284 de 20/11/1963",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1963-11-21", "descricao": "Publicação Original [Diário Oficial da União de 21/11/1963] (p. 9809, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-03-18", "nome": "Lei nº 4.937 de 18/03/1966", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-4937-1966-03-18"},
+{"data": "1973-07-05", "nome": "Lei nº 5.896 de 05/07/1973", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}], "id": "federal/leis-ordinarias/1973/lei-5896-1973-07-05"},
+{"data": "1973-12-31", "nome": "Lei nº 6.017 de 31/12/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-6017-1973-12-31"},
+{"data": "1974-06-20", "nome": "Resolução do Senado Federal nº 21 de 20/06/1974", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1975-12-16", "nome": "Lei nº 6.311 de 16/12/1975", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 8, § 3", "art": "8", "acao": "alterou"}], "id": "federal/leis-ordinarias/1975/lei-6311-1975-12-16"},
+{"data": "1977-12-07", "nome": "Lei nº 6.497 de 07/12/1977", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1977/lei-6497-1977-12-07"},
+{"data": "1982-12-29", "nome": "Lei nº 7.087 de 29/12/1982", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7087-1982-12-29"},
+{"data": "1997-10-30", "nome": "Lei nº 9.506 de 30/10/1997", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9506-1997-10-30"}
+],
+"controle": []
+}

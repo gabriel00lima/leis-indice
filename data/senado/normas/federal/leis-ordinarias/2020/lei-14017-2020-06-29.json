@@ -1,0 +1,42 @@
+{
+"id": "federal/leis-ordinarias/2020/lei-14017-2020-06-29",
+"urn": "urn:lex:br:federal:lei:2020-06-29;14017",
+"consultado_em": "2026-11-04",
+"codigo": "32297589",
+"nome": "Lei nº 14.017 de 29/06/2020",
+"apelidos": [
+"Lei Aldir Blanc (2020)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2020-06-30", "descricao": "Publicação Original [Diário Oficial da União de 30/06/2020] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2020-06-29", "nome": "Medida Provisória nº 986 de 29/06/2020", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2020-06-29", "nome": "Medida Provisória nº 986 de 29/06/2020", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 14, § 1", "art": "14", "acao": "acrescentou"}, {"dispositivo": "Art. 14, § 2", "art": "14", "acao": "acrescentou"}, {"dispositivo": "Art. 14, § 3", "art": "14", "acao": "acrescentou"}]},
+{"data": "2020-06-29", "nome": "Mensagem de Veto Parcial nº 364 de 29/06/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-06-29", "nome": "Mensagem de Veto Parcial nº 364 de 29/06/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "veto"}]},
+{"data": "2020-08-13", "nome": "Lei nº 14.036 de 13/08/2020", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2020/lei-14036-2020-08-13"},
+{"data": "2020-08-13", "nome": "Lei nº 14.036 de 13/08/2020", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2020/lei-14036-2020-08-13"},
+{"data": "2020-08-13", "nome": "Lei nº 14.036 de 13/08/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14, § 1", "art": "14", "acao": "acrescentou"}, {"dispositivo": "Art. 14, § 2", "art": "14", "acao": "acrescentou"}, {"dispositivo": "Art. 14, § 3", "art": "14", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2020/lei-14036-2020-08-13"},
+{"data": "2020-08-17", "nome": "Decreto nº 10.464 de 17/08/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2020-12-29", "nome": "Medida Provisória nº 1.019 de 29/12/2020", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, § 1", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, § 2", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 14, § 2", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 14-A, caput", "art": "14-a", "acao": "acrescentou"}, {"dispositivo": "Art. 14-A, Parágrafo Único", "art": "14-a", "acao": "acrescentou"}]},
+{"data": "2020-12-29", "nome": "Medida Provisória nº 1.019 de 29/12/2020", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2020-12-29", "nome": "Medida Provisória nº 1.019 de 29/12/2020", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2021-05-12", "nome": "Lei nº 14.150 de 12/05/2021", "tipo": "Acréscimo Vetado", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14150-2021-05-12"},
+{"data": "2021-05-12", "nome": "Lei nº 14.150 de 12/05/2021", "tipo": "Acréscimo Vetado", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14150-2021-05-12"},
+{"data": "2021-05-12", "nome": "Lei nº 14.150 de 12/05/2021", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14150-2021-05-12"},
+{"data": "2021-05-12", "nome": "Lei nº 14.150 de 12/05/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput", "art": "1", "acao": "vetado"}, {"dispositivo": "Art. 2, § 3", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2, § 3", "art": "2", "acao": "vetado"}, {"dispositivo": "Art. 3, § 1", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, § 2", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 8, Parágrafo Único", "art": "8", "acao": "renumerou"}, {"dispositivo": "Art. 8, § 2", "art": "8", "acao": "acrescentou"}, {"dispositivo": "Art. 9, caput", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 11, § 1", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 11, § 1", "art": "11", "acao": "vetado"}, {"dispositivo": "Art. 12, caput", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 12, caput", "art": "12", "acao": "vetado"}, {"dispositivo": "Art. 13, caput", "art": "13", "acao": "alterou"}, {"dispositivo": "Art. 13, § 1", "art": "13", "acao": "acrescentou"}, {"dispositivo": "Art. 13, § 2", "art": "13", "acao": "acrescentou"}, {"dispositivo": "Art. 14, § 2", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 14-A, caput", "art": "14-a", "acao": "acrescentou"}, {"dispositivo": "Art. 14-A, caput", "art": "14-a", "acao": "vetado"}, {"dispositivo": "Art. 14-A, Parágrafo Único", "art": "14-a", "acao": "acrescentou"}, {"dispositivo": "Art. 14-A, Parágrafo Único", "art": "14-a", "acao": "vetado"}, {"dispositivo": "Art. 14-B, caput", "art": "14-b", "acao": "acrescentou"}, {"dispositivo": "Art. 14-B, caput", "art": "14-b", "acao": "vetado"}, {"dispositivo": "Art. 14-B, Parágrafo Único", "art": "14-b", "acao": "acrescentou"}, {"dispositivo": "Art. 14-B, Parágrafo Único", "art": "14-b", "acao": "vetado"}, {"dispositivo": "Art. 14-C, caput", "art": "14-c", "acao": "acrescentou"}, {"dispositivo": "Art. 14-C, caput", "art": "14-c", "acao": "vetado"}, {"dispositivo": "Art. 14-C, Parágrafo Único", "art": "14-c", "acao": "acrescentou"}, {"dispositivo": "Art. 14-C, Parágrafo Único", "art": "14-c", "acao": "vetado"}, {"dispositivo": "Art. 14-D, caput", "art": "14-d", "acao": "acrescentou"}, {"dispositivo": "Art. 14-E, caput", "art": "14-e", "acao": "acrescentou"}, {"dispositivo": "Art. 14-E, caput", "art": "14-e", "acao": "vetado"}, {"dispositivo": "Art. 14-E, caput, Inciso 1", "art": "14-e", "acao": "acrescentou"}, {"dispositivo": "Art. 14-E, caput, Inciso 1", "art": "14-e", "acao": "vetado"}, {"dispositivo": "Art. 14-E, caput, Inciso 2", "art": "14-e", "acao": "acrescentou"}, {"dispositivo": "Art. 14-E, caput, Inciso 2", "art": "14-e", "acao": "vetado"}], "id": "federal/leis-ordinarias/2021/lei-14150-2021-05-12"},
+{"data": "2021-05-12", "nome": "Lei nº 14.150 de 12/05/2021", "tipo": "Acréscimo Vetado", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14150-2021-05-12"},
+{"data": "2021-05-12", "nome": "Lei nº 14.150 de 12/05/2021", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14150-2021-05-12"},
+{"data": "2021-05-12", "nome": "Lei nº 14.150 de 12/05/2021", "tipo": "Acréscimo Vetado", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14150-2021-05-12"},
+{"data": "2021-05-12", "nome": "Lei nº 14.150 de 12/05/2021", "tipo": "Alteração Vetada", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14150-2021-05-12"},
+{"data": "2021-05-12", "nome": "Lei nº 14.150 de 12/05/2021", "tipo": "Acréscimo Vetado", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14150-2021-05-12"},
+{"data": "2021-05-12", "nome": "Lei nº 14.150 de 12/05/2021", "tipo": "Alteração Vetada", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14150-2021-05-12"},
+{"data": "2021-05-12", "nome": "Lei nº 14.150 de 12/05/2021", "tipo": "Alteração Vetada", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14150-2021-05-12"},
+{"data": "2021-06-09", "nome": "Ato do Presidente do Congresso Nacional nº 37 de 09/06/2021", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2022-07-08", "nome": "Lei Complementar nº 195 de 08/07/2022", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-complementares/2022/lcp-195-2022-07-08"},
+{"data": "2023-01-10", "nome": "Lei nº 14.529 de 10/01/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14529-2023-01-10"},
+{"data": "2023-01-10", "nome": "Lei nº 14.529 de 10/01/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14-E, caput, Inciso 2", "art": "14-e", "acao": "alterou"}], "id": "federal/leis-ordinarias/2023/lei-14529-2023-01-10"}
+],
+"controle": []
+}

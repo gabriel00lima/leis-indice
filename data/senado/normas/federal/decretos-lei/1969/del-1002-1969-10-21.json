@@ -1,0 +1,32 @@
+{
+"id": "federal/decretos-lei/1969/del-1002-1969-10-21",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-21;1002",
+"consultado_em": "2026-11-04",
+"codigo": "524627",
+"nome": "Decreto-Lei nº 1.002 de 21/10/1969",
+"apelidos": [
+"Código de Processo Penal Militar (1969) (CPPM)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-21", "descricao": "Publicação Original [Diário Oficial da União - Suplemento de 21/10/1969] (p. 49, col. 2)"}
+],
+"alteracoes": [
+{"data": "1974-12-09", "nome": "Lei nº 6.174 de 09/12/1974", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/leis-ordinarias/1974/lei-6174-1974-12-09"},
+{"data": "1978-06-30", "nome": "Lei nº 6.544 de 30/06/1978", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1978/lei-6544-1978-06-30"},
+{"data": "1982-10-11", "nome": "Lei nº 7.040 de 11/10/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7040-1982-10-11"},
+{"data": "1983-03-08", "nome": "Decreto nº 88.151 de 08/03/1983", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1985-02-05", "nome": "Decreto nº 90.900 de 05/02/1985", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1985-10-18", "nome": "Lei nº 7.384 de 18/10/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7384-1985-10-18"},
+{"data": "1986-07-17", "nome": "Lei nº 7.524 de 17/07/1986", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7524-1986-07-17"},
+{"data": "1990-09-21", "nome": "Medida Provisória nº 231 de 21/09/1990", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1990-10-24", "nome": "Medida Provisória nº 254 de 24/10/1990", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1990-11-23", "nome": "Medida Provisória nº 271 de 23/11/1990", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1991-09-20", "nome": "Lei nº 8.236 de 20/09/1991", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8236-1991-09-20"},
+{"data": "1992-01-10", "nome": "Lei nº 8.407 de 10/01/1992", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1992/lei-8407-1992-01-10"},
+{"data": "1992-09-04", "nome": "Lei nº 8.457 de 04/09/1992", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 470, § 2", "art": "470", "acao": "revogou"}], "id": "federal/leis-ordinarias/1992/lei-8457-1992-09-04"},
+{"data": "1996-08-07", "nome": "Lei nº 9.299 de 07/08/1996", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1996/lei-9299-1996-08-07"},
+{"data": "2019-12-24", "nome": "Lei nº 13.964 de 24/12/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 16-A", "art": "16-a", "acao": "acrescentou"}, {"dispositivo": "Art. 16-A, § 3", "art": "16-a", "acao": "acrescentou"}, {"dispositivo": "Art. 16-A, § 3", "art": "16-a", "acao": "vetado"}, {"dispositivo": "Art. 16-A, § 4", "art": "16-a", "acao": "acrescentou"}, {"dispositivo": "Art. 16-A, § 4", "art": "16-a", "acao": "vetado"}, {"dispositivo": "Art. 16-A, § 5", "art": "16-a", "acao": "acrescentou"}, {"dispositivo": "Art. 16-A, § 5", "art": "16-a", "acao": "vetado"}], "id": "federal/leis-ordinarias/2019/lei-13964-2019-12-24"},
+{"data": "2023-12-12", "nome": "Lei nº 14.752 de 12/12/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 71, § 5", "art": "71", "acao": "revogou"}, {"dispositivo": "Art. 71, § 6", "art": "71", "acao": "alterou"}, {"dispositivo": "Art. 71, § 7", "art": "71", "acao": "revogou"}, {"dispositivo": "Art. 71, § 8", "art": "71", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14752-2023-12-12"}
+],
+"controle": []
+}

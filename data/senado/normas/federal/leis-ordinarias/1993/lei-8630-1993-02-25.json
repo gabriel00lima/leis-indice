@@ -1,0 +1,28 @@
+{
+"id": "federal/leis-ordinarias/1993/lei-8630-1993-02-25",
+"urn": "urn:lex:br:federal:lei:1993-02-25;8630",
+"consultado_em": "2026-11-04",
+"codigo": "550506",
+"nome": "Lei nº 8.630 de 25/02/1993",
+"apelidos": [
+"Lei de Modernização dos Portos (1993)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-02-26", "descricao": "Publicação Original [Diário Oficial da União de 26/02/1993] (p. 2351, col. 1)"}
+],
+"alteracoes": [
+{"data": "1996-04-29", "nome": "Decreto nº 1.886 de 29/04/1996", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1996-10-02", "nome": "Lei nº 9.309 de 02/10/1996", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 52", "art": "52", "acao": "revogou"}], "id": "federal/leis-ordinarias/1996/lei-9309-1996-10-02"},
+{"data": "2002-09-26", "nome": "Decreto nº 4.391 de 26/09/2002", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "regulamentou"}, {"dispositivo": "Art. 34", "art": "34", "acao": "regulamentou"}]},
+{"data": "2006-07-03", "nome": "Lei nº 11.314 de 03/07/2006", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2006/lei-11314-2006-07-03"},
+{"data": "2006-08-24", "nome": "Medida Provisória nº 320 de 24/08/2006", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 36, caput, Inciso 6", "art": "36", "acao": "alterou"}]},
+{"data": "2007-09-05", "nome": "Lei nº 11.518 de 05/09/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2007/lei-11518-2007-09-05"},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2010-07-27", "nome": "Medida Provisória nº 497 de 27/07/2010", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 36, caput, Inciso 6", "art": "36", "acao": "revogou"}]},
+{"data": "2010-12-20", "nome": "Lei nº 12.350 de 20/12/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 36, caput, Inciso 6", "art": "36", "acao": "revogou"}], "id": "federal/leis-ordinarias/2010/lei-12350-2010-12-20"},
+{"data": "2011-01-06", "nome": "Lei nº 12.379 de 06/01/2011", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2011/lei-12379-2011-01-06"},
+{"data": "2012-12-06", "nome": "Medida Provisória nº 595 de 06/12/2012", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2013-06-05", "nome": "Lei nº 12.815 de 05/06/2013", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2013/lei-12815-2013-06-05"}
+],
+"controle": []
+}

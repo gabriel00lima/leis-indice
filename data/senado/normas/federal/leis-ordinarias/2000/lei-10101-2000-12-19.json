@@ -1,0 +1,24 @@
+{
+"id": "federal/leis-ordinarias/2000/lei-10101-2000-12-19",
+"urn": "urn:lex:br:federal:lei:2000-12-19;10101",
+"consultado_em": "2026-11-04",
+"codigo": "551977",
+"nome": "Lei nº 10.101 de 19/12/2000",
+"apelidos": [
+"Lei de Participação nos Lucros das Empresas (2000)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/2000] (p. 58, col. 2)"}
+],
+"alteracoes": [
+{"data": "2007-09-05", "nome": "Medida Provisória nº 388 de 05/09/2007", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 6-A", "art": "6-a", "acao": "alterou"}, {"dispositivo": "Art. 6-B", "art": "6-b", "acao": "alterou"}]},
+{"data": "2007-12-05", "nome": "Lei nº 11.603 de 05/12/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 6-A", "art": "6-a", "acao": "acrescentou"}, {"dispositivo": "Art. 6-B", "art": "6-b", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2007/lei-11603-2007-12-05"},
+{"data": "2012-12-26", "nome": "Medida Provisória nº 597 de 26/12/2012", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, § 5", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, § 6", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, § 7", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, § 8", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, § 9", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, § 10", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "acrescentou"}]},
+{"data": "2013-06-20", "nome": "Lei nº 12.832 de 20/06/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4, caput, Inciso 2", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12832-2013-06-20"},
+{"data": "2019-11-11", "nome": "Medida Provisória nº 905 de 11/11/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 5-A", "art": "5-a", "acao": "acrescentou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 6-A", "art": "6-a", "acao": "revogou"}, {"dispositivo": "Art. 6-B", "art": "6-b", "acao": "revogou"}]},
+{"data": "2020-07-06", "nome": "Lei nº 14.020 de 06/07/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 3-A", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2, § 3-A", "art": "2", "acao": "vetado"}, {"dispositivo": "Art. 2, § 5", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2, § 5", "art": "2", "acao": "vetado"}, {"dispositivo": "Art. 2, § 6", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2, § 6", "art": "2", "acao": "vetado"}, {"dispositivo": "Art. 2, § 7", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2, § 7", "art": "2", "acao": "vetado"}, {"dispositivo": "Art. 2, § 8", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2, § 8", "art": "2", "acao": "vetado"}, {"dispositivo": "Art. 2, § 9", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2, § 9", "art": "2", "acao": "vetado"}, {"dispositivo": "Art. 2, § 10", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2, § 10", "art": "2", "acao": "vetado"}], "id": "federal/leis-ordinarias/2020/lei-14020-2020-07-06"}
+],
+"controle": [
+{"data": "2020-12-04", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.417 de 04/12/2020", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 5, caput", "art": "5", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 5, Parágrafo Único", "art": "5", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "5417"}}
+]
+}

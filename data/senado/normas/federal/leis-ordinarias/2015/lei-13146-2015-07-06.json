@@ -1,0 +1,55 @@
+{
+"id": "federal/leis-ordinarias/2015/lei-13146-2015-07-06",
+"urn": "urn:lex:br:federal:lei:2015-07-06;13146",
+"consultado_em": "2026-11-04",
+"codigo": "584958",
+"nome": "Lei nº 13.146 de 06/07/2015",
+"apelidos": [
+"Lei Brasileira de Inclusão (2015) (LBI)",
+"Lei Brasileira de Inclusão da Pessoa com Deficiência (2015)",
+"Estatuto da Pessoa com Deficiência (2015)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2015-07-07", "descricao": "Publicação Original [Diário Oficial da União de 07/07/2015] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2016-04-27", "nome": "Decreto de 27/04/2016", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2016-04-27", "nome": "Decreto nº 8.725 de 27/04/2016", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 15, caput, Inciso 4", "art": "15", "acao": "regulamentou"}]},
+{"data": "2016-05-04", "nome": "Lei nº 13.281 de 04/05/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 47, § 3", "art": "47", "acao": "alterou"}], "id": "federal/leis-ordinarias/2016/lei-13281-2016-05-04"},
+{"data": "2017-01-10", "nome": "Decreto nº 8.954 de 10/01/2017", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 92", "art": "92", "acao": "regulamentou"}]},
+{"data": "2018-03-01", "nome": "Decreto nº 9.296 de 01/03/2018", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 45", "art": "45", "acao": "regulamentou"}]},
+{"data": "2018-06-11", "nome": "Decreto nº 9.404 de 11/06/2018", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 44", "art": "44", "acao": "correlato"}]},
+{"data": "2018-06-11", "nome": "Decreto nº 9.405 de 11/06/2018", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 122, caput", "art": "122", "acao": "regulamentou"}]},
+{"data": "2018-07-26", "nome": "Decreto nº 9.451 de 26/07/2018", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 58", "art": "58", "acao": "regulamentou"}]},
+{"data": "2018-09-24", "nome": "Decreto nº 9.508 de 24/09/2018", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 34, § 2", "art": "34", "acao": "correlato"}, {"dispositivo": "Art. 34, § 3", "art": "34", "acao": "correlato"}, {"dispositivo": "Art. 35", "art": "35", "acao": "correlato"}]},
+{"data": "2019-04-11", "nome": "Decreto nº 9.762 de 11/04/2019", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 51", "art": "51", "acao": "regulamentou"}, {"dispositivo": "Art. 52", "art": "52", "acao": "regulamentou"}]},
+{"data": "2019-11-06", "nome": "Decreto nº 10.094 de 06/11/2019", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 75", "art": "75", "acao": "correlato"}]},
+{"data": "2019-12-16", "nome": "Decreto nº 10.177 de 16/12/2019", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2019-12-31", "nome": "Medida Provisória nº 917 de 31/12/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 125, caput, Inciso 2", "art": "125", "acao": "alterou"}]},
+{"data": "2020-06-03", "nome": "Lei nº 14.009 de 03/06/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 125, caput, Inciso 2", "art": "125", "acao": "alterou"}], "id": "federal/leis-ordinarias/2020/lei-14009-2020-06-03"},
+{"data": "2020-07-06", "nome": "Decreto nº 10.415 de 06/07/2020", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "correlato"}]},
+{"data": "2020-09-30", "nome": "Decreto nº 10.502 de 30/09/2020", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2020-12-31", "nome": "Medida Provisória nº 1.025 de 31/12/2020", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 125, caput, Inciso 2", "art": "125", "acao": "alterou"}]},
+{"data": "2021-03-11", "nome": "Decreto nº 10.645 de 11/03/2021", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 75", "art": "75", "acao": "regulamentou"}]},
+{"data": "2021-03-22", "nome": "Lei nº 14.126 de 22/03/2021", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "com novo tratamento da matéria"}], "id": "federal/leis-ordinarias/2021/lei-14126-2021-03-22"},
+{"data": "2021-06-02", "nome": "Lei nº 14.159 de 02/06/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 125, caput, Inciso 2", "art": "125", "acao": "alterou"}], "id": "federal/leis-ordinarias/2021/lei-14159-2021-06-02"},
+{"data": "2021-09-13", "nome": "Decreto nº 10.793 de 13/09/2021", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 32, caput, Inciso 1", "art": "32", "acao": "correlato"}]},
+{"data": "2022-05-04", "nome": "Decreto nº 11.063 de 04/05/2022", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2, § 1", "art": "2", "acao": "correlato"}]},
+{"data": "2022-12-27", "nome": "Lei nº 14.510 de 27/12/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 19, caput, Inciso 5", "art": "19", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14510-2022-12-27"},
+{"data": "2023-07-17", "nome": "Lei nº 14.624 de 17/07/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2-A, caput", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-A, § 1", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-A, § 2", "art": "2-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14624-2023-07-17"},
+{"data": "2023-11-14", "nome": "Lei nº 14.724 de 14/11/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 3", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14724-2023-11-14"},
+{"data": "2023-11-23", "nome": "Decreto nº 11.792 de 23/11/2023", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 53", "art": "53", "acao": "correlato"}, {"dispositivo": "Art. 56", "art": "56", "acao": "correlato"}, {"dispositivo": "Art. 57", "art": "57", "acao": "correlato"}]},
+{"data": "2023-12-22", "nome": "Lei nº 14.768 de 22/12/2023", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "correlato"}], "id": "federal/leis-ordinarias/2023/lei-14768-2023-12-22"},
+{"data": "2024-05-27", "nome": "Lei nº 14.863 de 27/05/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 73-A, caput", "art": "73-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2024/lei-14863-2024-05-27"},
+{"data": "2024-09-18", "nome": "Lei nº 14.978 de 18/09/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 45, § 3", "art": "45", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2024/lei-14978-2024-09-18"},
+{"data": "2025-03-14", "nome": "Decreto nº 12.411 de 14/03/2025", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2025-07-03", "nome": "Lei nº 15.163 de 03/07/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 90, caput, Pena/Penalidade", "art": "90", "acao": "alterou"}, {"dispositivo": "Art. 90, § 1", "art": "90", "acao": "acrescentou"}, {"dispositivo": "Art. 90, Parágrafo Único", "art": "90", "acao": "revogou"}, {"dispositivo": "Art. 90, § 2", "art": "90", "acao": "acrescentou"}, {"dispositivo": "Art. 90, § 3", "art": "90", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2025/lei-15163-2025-07-03"},
+{"data": "2025-10-20", "nome": "Decreto nº 12.686 de 20/10/2025", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 27", "art": "27", "acao": "correlato"}, {"dispositivo": "Art. 28", "art": "28", "acao": "correlato"}, {"dispositivo": "Art. 30", "art": "30", "acao": "correlato"}]},
+{"data": "2025-11-03", "nome": "Lei nº 15.249 de 03/11/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 15", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 24, Parágrafo Único", "art": "24", "acao": "acrescentou"}, {"dispositivo": "Art. 28, caput, Inciso 19", "art": "28", "acao": "acrescentou"}, {"dispositivo": "Art. 42, § 3", "art": "42", "acao": "acrescentou"}, {"dispositivo": "Art. 62-A, caput", "art": "62-a", "acao": "acrescentou"}, {"dispositivo": "Art. 62-A, Parágrafo Único", "art": "62-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2025/lei-15249-2025-11-03"},
+{"data": "2025-12-05", "nome": "Lei nº 15.280 de 05/12/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 18, § 4, Inciso 5", "art": "18", "acao": "alterou"}], "id": "federal/leis-ordinarias/2025/lei-15280-2025-12-05"},
+{"data": "2026-09-02", "nome": "Lei nº 15.492 de 02/09/2026", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2026/lei-15492-2026-09-02"}
+],
+"controle": [
+{"data": "2020-09-21", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.452 de 21/09/2020", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 52, caput", "art": "52", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 52, Parágrafo Único", "art": "52", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 127", "art": "127", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "5452"}}
+]
+}

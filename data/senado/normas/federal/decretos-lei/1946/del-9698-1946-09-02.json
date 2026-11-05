@@ -1,0 +1,22 @@
+{
+"id": "federal/decretos-lei/1946/del-9698-1946-09-02",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-02;9698",
+"consultado_em": "2026-11-04",
+"codigo": "534738",
+"nome": "Decreto-Lei nº 9.698 de 02/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-06", "descricao": "Publicação Original [Diário Oficial da União de 06/09/1946] (p. 12478, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-09-04", "nome": "Decreto-Lei nº 9.736 de 04/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9736-1946-09-04"},
+{"data": "1953-04-22", "nome": "Decreto nº 32.604 de 22/04/1953", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 34", "art": "34", "acao": "correlato"}]},
+{"data": "1954-12-09", "nome": "Lei nº 2.370 de 09/12/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2370-1954-12-09"},
+{"data": "1963-03-26", "nome": "Decreto nº 51.864 de 26/03/1963", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1964-11-12", "nome": "Lei nº 4.476 de 12/11/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4476-1964-11-12"},
+{"data": "1968-07-06", "nome": "Lei nº 5.467-A de 06/07/1968", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 102", "art": "102", "acao": "alterou"}], "id": "federal/leis-ordinarias/1968/lei-5467-a-1968-07-06"},
+{"data": "1969-03-21", "nome": "Decreto nº 64.239 de 21/03/1969", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1969-10-21", "nome": "Decreto-Lei nº 1.029 de 21/10/1969", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1969/del-1029-1969-10-21"}
+],
+"controle": []
+}

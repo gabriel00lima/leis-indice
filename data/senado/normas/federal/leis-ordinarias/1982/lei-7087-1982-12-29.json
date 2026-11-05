@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1982/lei-7087-1982-12-29",
+"urn": "urn:lex:br:federal:lei:1982-12-29;7087",
+"consultado_em": "2026-11-04",
+"codigo": "548963",
+"nome": "Lei nº 7.087 de 29/12/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/1982] (p. 24649, col. 1)"}
+],
+"alteracoes": [
+{"data": "1984-12-04", "nome": "Lei nº 7.266 de 04/12/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 20", "art": "20", "acao": "alterou"}, {"dispositivo": "Art. 24", "art": "24", "acao": "alterou"}, {"dispositivo": "Art. 28, caput, Item 2", "art": "28", "acao": "alterou"}, {"dispositivo": "Art. 35, Parágrafo Único", "art": "35", "acao": "alterou"}, {"dispositivo": "Art. 37, Parágrafo Único", "art": "37", "acao": "alterou"}, {"dispositivo": "Art. 38, Parágrafo Único", "art": "38", "acao": "alterou"}], "id": "federal/leis-ordinarias/1984/lei-7266-1984-12-04"},
+{"data": "1987-01-06", "nome": "Lei nº 7.586 de 06/01/1987", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 20", "art": "20", "acao": "alterou"}, {"dispositivo": "Art. 43", "art": "43", "acao": "alterou"}, {"dispositivo": "Art. 60", "art": "60", "acao": "alterou"}], "id": "federal/leis-ordinarias/1987/lei-7586-1987-01-06"},
+{"data": "1997-10-30", "nome": "Lei nº 9.506 de 30/10/1997", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9506-1997-10-30"}
+],
+"controle": []
+}

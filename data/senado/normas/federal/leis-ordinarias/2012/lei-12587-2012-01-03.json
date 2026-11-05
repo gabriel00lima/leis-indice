@@ -1,0 +1,32 @@
+{
+"id": "federal/leis-ordinarias/2012/lei-12587-2012-01-03",
+"urn": "urn:lex:br:federal:lei:2012-01-03;12587",
+"consultado_em": "2026-11-04",
+"codigo": "589510",
+"nome": "Lei nº 12.587 de 03/01/2012",
+"apelidos": [
+"Lei da Política Nacional de Mobilidade Urbana (2012)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2012-01-04", "descricao": "Publicação Original [Diário Oficial da União de 04/01/2012] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2013-10-09", "nome": "Lei nº 12.865 de 09/10/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 12-A", "art": "12-a", "acao": "acrescentou"}, {"dispositivo": "Art. 12-A, § 1", "art": "12-a", "acao": "acrescentou"}, {"dispositivo": "Art. 12-A, § 2", "art": "12-a", "acao": "acrescentou"}, {"dispositivo": "Art. 12-A, § 3", "art": "12-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2013/lei-12865-2013-10-09"},
+{"data": "2015-07-06", "nome": "Lei nº 13.146 de 06/07/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12-B", "art": "12-b", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2015/lei-13146-2015-07-06"},
+{"data": "2016-10-11", "nome": "Medida Provisória nº 748 de 11/10/2016", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 24, § 3", "art": "24", "acao": "alterou"}, {"dispositivo": "Art. 24, § 4", "art": "24", "acao": "alterou"}, {"dispositivo": "Art. 24, § 5", "art": "24", "acao": "acrescentou"}]},
+{"data": "2016-12-26", "nome": "Lei nº 13.406 de 26/12/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 24, § 3", "art": "24", "acao": "alterou"}, {"dispositivo": "Art. 24, § 4", "art": "24", "acao": "alterou"}], "id": "federal/leis-ordinarias/2016/lei-13406-2016-12-26"},
+{"data": "2018-01-11", "nome": "Medida Provisória nº 818 de 11/01/2018", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 24, § 3", "art": "24", "acao": "alterou"}, {"dispositivo": "Art. 24, § 4", "art": "24", "acao": "alterou"}, {"dispositivo": "Art. 24, § 6", "art": "24", "acao": "acrescentou"}]},
+{"data": "2018-03-26", "nome": "Lei nº 13.640 de 26/03/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 10", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 11-A, caput", "art": "11-a", "acao": "acrescentou"}, {"dispositivo": "Art. 11-A, Parágrafo Único", "art": "11-a", "acao": "acrescentou"}, {"dispositivo": "Art. 11-B, caput", "art": "11-b", "acao": "acrescentou"}, {"dispositivo": "Art. 11-B, Parágrafo Único", "art": "11-b", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2018/lei-13640-2018-03-26"},
+{"data": "2018-06-19", "nome": "Lei nº 13.683 de 19/06/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, caput, Inciso 8", "art": "6", "acao": "acrescentou"}, {"dispositivo": "Art. 8, caput, Inciso 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8, caput, Inciso 9", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8, caput, Inciso 10", "art": "8", "acao": "acrescentou"}, {"dispositivo": "Art. 24, caput, Inciso 3", "art": "24", "acao": "alterou"}, {"dispositivo": "Art. 24, § 4", "art": "24", "acao": "alterou"}, {"dispositivo": "Art. 24, § 5", "art": "24", "acao": "acrescentou"}, {"dispositivo": "Art. 24, § 6", "art": "24", "acao": "vetado"}], "id": "federal/leis-ordinarias/2018/lei-13683-2018-06-19"},
+{"data": "2019-05-14", "nome": "Decreto nº 9.792 de 14/05/2019", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 11-A, Parágrafo Único, Inciso 3", "art": "11-a", "acao": "regulamentou"}]},
+{"data": "2019-08-08", "nome": "Lei nº 13.863 de 08/08/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 24, § 3", "art": "24", "acao": "alterou"}], "id": "federal/leis-ordinarias/2019/lei-13863-2019-08-08"},
+{"data": "2019-11-19", "nome": "Medida Provisória nº 906 de 19/11/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 24, § 1", "art": "24", "acao": "alterou"}, {"dispositivo": "Art. 24, § 3", "art": "24", "acao": "revogou"}, {"dispositivo": "Art. 24, § 7", "art": "24", "acao": "acrescentou"}, {"dispositivo": "Art. 24, § 8", "art": "24", "acao": "acrescentou"}]},
+{"data": "2020-05-19", "nome": "Lei nº 14.000 de 19/05/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 24", "art": "24", "acao": "alterou"}, {"dispositivo": "Art. 24, § 3", "art": "24", "acao": "revogou"}], "id": "federal/leis-ordinarias/2020/lei-14000-2020-05-19"},
+{"data": "2023-07-07", "nome": "Medida Provisória nº 1.179 de 07/07/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 24, § 4, Inciso 1", "art": "24", "acao": "reabertura de prazo"}, {"dispositivo": "Art. 24, § 4, Inciso 2", "art": "24", "acao": "reabertura de prazo"}]},
+{"data": "2023-12-05", "nome": "Lei nº 14.748 de 05/12/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 24, § 4, Inciso 1", "art": "24", "acao": "alterou"}, {"dispositivo": "Art. 24, § 4, Inciso 2", "art": "24", "acao": "alterou"}], "id": "federal/leis-ordinarias/2023/lei-14748-2023-12-05"},
+{"data": "2025-11-26", "nome": "Lei nº 15.271 de 26/11/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12-A, caput", "art": "12-a", "acao": "alterou"}, {"dispositivo": "Art. 12-A, § 1", "art": "12-a", "acao": "revogou"}, {"dispositivo": "Art. 12-A, § 2", "art": "12-a", "acao": "revogou"}, {"dispositivo": "Art. 12-A, § 3", "art": "12-a", "acao": "revogou"}], "id": "federal/leis-ordinarias/2025/lei-15271-2025-11-26"}
+],
+"controle": [
+{"data": "2021-02-26", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.337 de 26/02/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12-A, § 1", "art": "12-a", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}, {"dispositivo": "Art. 12-A, § 2", "art": "12-a", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}, {"dispositivo": "Art. 12-A, § 3", "art": "12-a", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}], "decisao": {"classe": "ADI", "numero": "5337"}}
+]
+}

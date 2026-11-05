@@ -1,0 +1,31 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10486-2002-07-04",
+"urn": "urn:lex:br:federal:lei:2002-07-04;10486",
+"consultado_em": "2026-11-04",
+"codigo": "552362",
+"nome": "Lei nº 10.486 de 04/07/2002",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-07-04", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 04/07/2002] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2002-07-18", "nome": "Medida Provisória nº 56 de 18/07/2002", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 36, § 3", "art": "36", "acao": "alterou"}]},
+{"data": "2002-11-13", "nome": "Lei nº 10.556 de 13/11/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 36, § 3", "art": "36", "acao": "alterou"}], "id": "federal/leis-ordinarias/2002/lei-10556-2002-11-13"},
+{"data": "2005-07-15", "nome": "Lei nº 11.134 de 15/07/2005", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 27, § 3", "art": "27", "acao": "alterou"}, {"dispositivo": "Art. 29, § 1", "art": "29", "acao": "alterou"}, {"dispositivo": "Art. 32", "art": "32", "acao": "alterou"}, {"dispositivo": "Art. 33", "art": "33", "acao": "alterou"}, {"dispositivo": "Art. 33, § 2", "art": "33", "acao": "alterou"}, {"dispositivo": "Art. 33-A", "art": "33-a", "acao": "acrescentou"}, {"dispositivo": "Art. 34", "art": "34", "acao": "alterou"}, {"dispositivo": "Art. 63, Parágrafo Único", "art": "63", "acao": "alterou"}], "id": "federal/leis-ordinarias/2005/lei-11134-2005-07-15"},
+{"data": "2009-11-06", "nome": "Lei nº 12.086 de 06/11/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "revogou"}, {"dispositivo": "Art. 23", "art": "23", "acao": "revogou"}, {"dispositivo": "Art. 26", "art": "26", "acao": "revogou"}, {"dispositivo": "Anexo 4", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-12086-2009-11-06"},
+{"data": "2013-04-24", "nome": "Lei nº 12.804 de 24/04/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12804-2013-04-24"},
+{"data": "2013-05-08", "nome": "Lei nº 12.808 de 08/05/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 65, § 3", "art": "65", "acao": "acrescentou"}, {"dispositivo": "Anexo 1-A", "art": null, "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2013/lei-12808-2013-05-08"},
+{"data": "2016-07-29", "nome": "Lei nº 13.328 de 29/07/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1-A", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2016/lei-13328-2016-07-29"},
+{"data": "2017-10-30", "nome": "Medida Provisória nº 805 de 30/10/2017", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1-A", "art": null, "acao": "alterou"}]},
+{"data": "2018-06-18", "nome": "Lei nº 13.681 de 18/06/2018", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2018/lei-13681-2018-06-18"},
+{"data": "2018-08-31", "nome": "Medida Provisória nº 849 de 31/08/2018", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1-A", "art": null, "acao": "alterou"}]},
+{"data": "2018-10-29", "nome": "Decreto nº 9.545 de 29/10/2018", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 65, § 1", "art": "65", "acao": "regulamentou"}]},
+{"data": "2023-07-18", "nome": "Medida Provisória nº 1.181 de 18/07/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1-A", "art": null, "acao": "alterou"}]},
+{"data": "2023-11-14", "nome": "Lei nº 14.724 de 14/11/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1-A", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 4", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 4", "art": null, "acao": "vetado"}], "id": "federal/leis-ordinarias/2023/lei-14724-2023-11-14"},
+{"data": "2025-12-01", "nome": "Medida Provisória nº 1.326 de 01/12/2025", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 1-A", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 4", "art": null, "acao": "alterou"}]},
+{"data": "2026-04-27", "nome": "Lei nº 15.395 de 27/04/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 20, § 5", "art": "20", "acao": "vetado"}, {"dispositivo": "Art. 58-A, caput", "art": "58-a", "acao": "vetado"}, {"dispositivo": "Art. 58-A, § 1", "art": "58-a", "acao": "vetado"}, {"dispositivo": "Art. 58-A, § 2", "art": "58-a", "acao": "vetado"}, {"dispositivo": "Art. 58-B, caput", "art": "58-b", "acao": "vetado"}, {"dispositivo": "Art. 58-B, § 1", "art": "58-b", "acao": "vetado"}, {"dispositivo": "Art. 58-B, § 2", "art": "58-b", "acao": "vetado"}, {"dispositivo": "Art. 58-B, § 3", "art": "58-b", "acao": "vetado"}, {"dispositivo": "Art. 58-C", "art": "58-c", "acao": "vetado"}, {"dispositivo": "Art. 58-D, caput", "art": "58-d", "acao": "vetado"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 1-A", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 4", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2026/lei-15395-2026-04-27"}
+],
+"controle": [
+{"data": "2022-02-11", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.507 de 11/02/2022", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 38, Parágrafo Único", "art": "38", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "4507"}}
+]
+}

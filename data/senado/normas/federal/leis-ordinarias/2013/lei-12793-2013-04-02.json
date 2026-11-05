@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2013/lei-12793-2013-04-02",
+"urn": "urn:lex:br:federal:lei:2013-04-02;12793",
+"consultado_em": "2026-11-04",
+"codigo": "588169",
+"nome": "Lei nº 12.793 de 02/04/2013",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2013-04-03", "descricao": "Publicação Original [Diário Oficial da União de 03/04/2013] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2013-06-12", "nome": "Medida Provisória nº 620 de 12/06/2013", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6, § 9", "art": "6", "acao": "acrescentou"}, {"dispositivo": "Art. 6, § 10", "art": "6", "acao": "acrescentou"}]},
+{"data": "2013-06-20", "nome": "Lei nº 12.833 de 20/06/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, § 3", "art": "6", "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12833-2013-06-20"},
+{"data": "2013-10-15", "nome": "Lei nº 12.868 de 15/10/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, § 9", "art": "6", "acao": "acrescentou"}, {"dispositivo": "Art. 6, § 10", "art": "6", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2013/lei-12868-2013-10-15"}
+],
+"controle": []
+}

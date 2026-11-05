@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2025/lei-15235-2025-10-08",
+"urn": "urn:lex:br:federal:lei:2025-10-08;15235",
+"consultado_em": "2026-11-04",
+"codigo": "41554304",
+"nome": "Lei nº 15.235 de 08/10/2025",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2025-10-09", "descricao": "Publicação Original [Diário Oficial da União de 09/10/2025] (p. 3, col. 1)"},
+{"tipo": "RET", "data": "2025-10-10", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 10/10/2025] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2025-11-24", "nome": "Lei nº 15.269 de 24/11/2025", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2025/lei-15269-2025-11-24"},
+{"data": "2025-11-24", "nome": "Lei nº 15.269 de 24/11/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 9", "art": "4", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2025/lei-15269-2025-11-24"}
+],
+"controle": []
+}

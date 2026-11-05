@@ -1,0 +1,24 @@
+{
+"id": "federal/decretos-lei/1977/del-1569-1977-08-08",
+"urn": "urn:lex:br:federal:decreto.lei:1977-08-08;1569",
+"consultado_em": "2026-11-04",
+"codigo": "525759",
+"nome": "Decreto-Lei nº 1.569 de 08/08/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-08-09", "descricao": "Publicação Original [Diário Oficial da União de 09/08/1977] (p. 10289, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-10-06", "nome": "Decreto Legislativo nº 94 de 06/10/1977", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1978-12-11", "nome": "Decreto-Lei nº 1.645 de 11/12/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1978/del-1645-1978-12-11"},
+{"data": "1981-12-16", "nome": "Decreto-Lei nº 1.893 de 16/12/1981", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1981/del-1893-1981-12-16"},
+{"data": "1984-09-19", "nome": "Decreto-Lei nº 2.163 de 19/09/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/decretos-lei/1984/del-2163-1984-09-19"},
+{"data": "1984-12-20", "nome": "Decreto-Lei nº 2.186 de 20/12/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2186-1984-12-20"},
+{"data": "1985-12-23", "nome": "Lei nº 7.450 de 23/12/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7450-1985-12-23"},
+{"data": "1988-12-22", "nome": "Lei nº 7.711 de 22/12/1988", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1988/lei-7711-1988-12-22"},
+{"data": "1989-09-12", "nome": "Decreto nº 98.135 de 12/09/1989", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1991-06-28", "nome": "Medida Provisória nº 297 de 28/06/1991", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2014-11-13", "nome": "Lei nº 13.043 de 13/11/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, Parágrafo Único", "art": "5", "acao": "revogou"}], "id": "federal/leis-ordinarias/2014/lei-13043-2014-11-13"}
+],
+"controle": []
+}

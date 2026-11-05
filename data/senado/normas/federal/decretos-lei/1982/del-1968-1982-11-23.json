@@ -1,0 +1,20 @@
+{
+"id": "federal/decretos-lei/1982/del-1968-1982-11-23",
+"urn": "urn:lex:br:federal:decreto.lei:1982-11-23;1968",
+"consultado_em": "2026-11-04",
+"codigo": "526545",
+"nome": "Decreto-Lei nº 1.968 de 23/11/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-11-24", "descricao": "Publicação Original [Diário Oficial da União de 24/11/1982] (p. 21892, col. 2)"}
+],
+"alteracoes": [
+{"data": "1983-02-21", "nome": "Decreto-Lei nº 2.014 de 21/02/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}], "id": "federal/decretos-lei/1983/del-2014-1983-02-21"},
+{"data": "1983-05-25", "nome": "Decreto Legislativo nº 28 de 25/05/1983", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1983-10-19", "nome": "Decreto-Lei nº 2.064 de 19/10/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}], "id": "federal/decretos-lei/1983/del-2064-1983-10-19"},
+{"data": "1983-10-26", "nome": "Decreto-Lei nº 2.065 de 26/10/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}], "id": "federal/decretos-lei/1983/del-2065-1983-10-26"},
+{"data": "1984-06-13", "nome": "Decreto-Lei nº 2.124 de 13/06/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1984/del-2124-1984-06-13"},
+{"data": "1984-12-11", "nome": "Decreto-Lei nº 2.182 de 11/12/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2182-1984-12-11"}
+],
+"controle": []
+}

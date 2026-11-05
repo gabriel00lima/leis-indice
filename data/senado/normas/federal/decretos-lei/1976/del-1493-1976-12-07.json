@@ -1,0 +1,22 @@
+{
+"id": "federal/decretos-lei/1976/del-1493-1976-12-07",
+"urn": "urn:lex:br:federal:decreto.lei:1976-12-07;1493",
+"consultado_em": "2026-11-04",
+"codigo": "525608",
+"nome": "Decreto-Lei nº 1.493 de 07/12/1976",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1976-12-09", "descricao": "Publicação Original [Diário Oficial da União de 09/12/1976] (p. 16039, col. 1)"}
+],
+"alteracoes": [
+{"data": "1976-12-27", "nome": "Decreto-Lei nº 1.510 de 27/12/1976", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1976/del-1510-1976-12-27"},
+{"data": "1977-04-19", "nome": "Decreto Legislativo nº 7 de 19/04/1977", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1977-11-29", "nome": "Decreto-Lei nº 1.584 de 29/11/1977", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1977/del-1584-1977-11-29"},
+{"data": "1978-05-09", "nome": "Decreto-Lei nº 1.625 de 09/05/1978", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "alterou"}], "id": "federal/decretos-lei/1978/del-1625-1978-05-09"},
+{"data": "1979-10-18", "nome": "Decreto-Lei nº 1.701 de 18/10/1979", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1701-1979-10-18"},
+{"data": "1981-10-29", "nome": "Decreto-Lei nº 1.887 de 29/10/1981", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1981/del-1887-1981-10-29"},
+{"data": "1984-12-11", "nome": "Decreto-Lei nº 2.182 de 11/12/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/decretos-lei/1984/del-2182-1984-12-11"},
+{"data": "1985-12-23", "nome": "Lei nº 7.450 de 23/12/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7450-1985-12-23"}
+],
+"controle": []
+}

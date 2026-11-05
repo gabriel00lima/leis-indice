@@ -1,0 +1,29 @@
+{
+"id": "federal/leis-ordinarias/1984/lei-7289-1984-12-18",
+"urn": "urn:lex:br:federal:lei:1984-12-18;7289",
+"consultado_em": "2026-11-04",
+"codigo": "549165",
+"nome": "Lei nº 7.289 de 18/12/1984",
+"apelidos": [
+"Estatuto dos Policiais Militares do Distrito Federal (1984)",
+"Estatuto dos Policiais Militares da Polícia Militar do Distrito Federal (PM DF) (1984)",
+"Estatuto dos Policiais Militares do DF (1984)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-12-19", "descricao": "Publicação Original [Diário Oficial da União de 19/12/1984] (p. 19036, col. 1)"}
+],
+"alteracoes": [
+{"data": "1986-05-13", "nome": "Lei nº 7.475 de 13/05/1986", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7475-1986-05-13"},
+{"data": "1986-12-29", "nome": "Decreto-Lei nº 2.317 de 29/12/1986", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1986/del-2317-1986-12-29"},
+{"data": "1987-07-06", "nome": "Lei nº 7.609 de 06/07/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1987/lei-7609-1987-07-06"},
+{"data": "1987-11-05", "nome": "Decreto-Lei nº 2.368 de 05/11/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2368-1987-11-05"},
+{"data": "1988-12-13", "nome": "Lei nº 7.687 de 13/12/1988", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1988/lei-7687-1988-12-13"},
+{"data": "1997-02-20", "nome": "Lei nº 9.437 de 20/02/1997", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 50", "art": "50", "acao": "correlato"}], "id": "federal/leis-ordinarias/1997/lei-9437-1997-02-20"},
+{"data": "2001-09-05", "nome": "Medida Provisória nº 2.218 de 05/09/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 53", "art": "53", "acao": "alterou"}, {"dispositivo": "Art. 53, § 1", "art": "53", "acao": "alterou"}, {"dispositivo": "Art. 53, § 2", "art": "53", "acao": "alterou"}, {"dispositivo": "Art. 63, § 2", "art": "63", "acao": "alterou"}]},
+{"data": "2002-07-04", "nome": "Lei nº 10.486 de 04/07/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 53", "art": "53", "acao": "alterou"}, {"dispositivo": "Art. 63", "art": "63", "acao": "alterou"}], "id": "federal/leis-ordinarias/2002/lei-10486-2002-07-04"},
+{"data": "2005-07-15", "nome": "Lei nº 11.134 de 15/07/2005", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 92, caput, Inciso 1, Alínea b", "art": "92", "acao": "alterou"}, {"dispositivo": "Art. 92, caput, Inciso 1, Alínea c", "art": "92", "acao": "alterou"}], "id": "federal/leis-ordinarias/2005/lei-11134-2005-07-15"},
+{"data": "2009-11-06", "nome": "Lei nº 12.086 de 06/11/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 91, § 4", "art": "91", "acao": "revogou"}, {"dispositivo": "Art. 92", "art": "92", "acao": "alterou"}, {"dispositivo": "Art. 94", "art": "94", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-12086-2009-11-06"},
+{"data": "2026-04-27", "nome": "Lei nº 15.395 de 27/04/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11, § 2", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 11-A, caput", "art": "11-a", "acao": "acrescentou"}, {"dispositivo": "Art. 50, caput, Inciso 1-A", "art": "50", "acao": "acrescentou"}, {"dispositivo": "Art. 50-A, caput", "art": "50-a", "acao": "acrescentou"}, {"dispositivo": "Art. 91, caput", "art": "91", "acao": "alterou"}, {"dispositivo": "Art. 91, § 2", "art": "91", "acao": "vetado"}, {"dispositivo": "Art. 91, § 5", "art": "91", "acao": "acrescentou"}, {"dispositivo": "Art. 92", "art": "92", "acao": "alterou"}, {"dispositivo": "Art. 92, caput, Inciso 1, Alínea c, Item 4", "art": "92", "acao": "revogou"}, {"dispositivo": "Art. 92, caput, Inciso 1, Alínea d, Item 3", "art": "92", "acao": "revogou"}, {"dispositivo": "Art. 94, caput, Inciso 1, Alínea a", "art": "94", "acao": "alterou"}, {"dispositivo": "Art. 94, caput, Inciso 1, Alínea b", "art": "94", "acao": "alterou"}, {"dispositivo": "Art. 94, caput, Inciso 1, Alínea c", "art": "94", "acao": "revogou"}], "id": "federal/leis-ordinarias/2026/lei-15395-2026-04-27"}
+],
+"controle": []
+}

@@ -1,0 +1,20 @@
+{
+"id": "federal/emendas-constitucionais/2019/emc-103-2019-11-12",
+"urn": "urn:lex:br:federal:emenda.constitucional:2019-11-12;103",
+"consultado_em": "2026-11-04",
+"codigo": "31727296",
+"nome": "Emenda Constitucional nº 103 de 12/11/2019",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2019-11-13", "descricao": "Publicação Original [Diário Oficial da União de 13/11/2019] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2020-07-06", "nome": "Lei nº 14.020 de 06/07/2020", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 28", "art": "28", "acao": "correlato"}], "id": "federal/leis-ordinarias/2020/lei-14020-2020-07-06"}
+],
+"controle": [
+{"data": "2023-06-23", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 7.051 de 23/06/2023", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 23, caput", "art": "23", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "7051"}},
+{"data": "2025-04-24", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 7.727 de 24/04/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, caput", "art": "5", "efeito": "suspenso", "texto": "Suspensão de Parte do Texto"}, {"dispositivo": "Art. 10, § 2, Inciso 1", "art": "10", "efeito": "suspenso", "texto": "Suspensão de Parte do Texto"}], "decisao": {"classe": "ADI", "numero": "7727"}},
+{"data": "2026-06-03", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.309 de 03/06/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 19, § 1, Inciso 1, Alínea a", "art": "19", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}, {"dispositivo": "Art. 19, § 1, Inciso 1, Alínea b", "art": "19", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}, {"dispositivo": "Art. 19, § 1, Inciso 1, Alínea c", "art": "19", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}], "decisao": {"classe": "ADI", "numero": "6309"}},
+{"data": "2026-06-03", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.309 de 03/06/2026", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 25, § 2", "art": "25", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 26, § 2, Inciso 4", "art": "26", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "6309"}}
+]
+}

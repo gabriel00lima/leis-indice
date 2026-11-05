@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1937/del-58-1937-12-10",
+"urn": "urn:lex:br:federal:decreto.lei:1937-12-10;58",
+"consultado_em": "2026-11-04",
+"codigo": "522757",
+"nome": "Decreto-Lei nº 58 de 10/12/1937",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1937-12-13", "descricao": "Publicação Original [Diário Oficial da União de 13/12/1937] (p. 24633, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-12-19", "nome": "Lei nº 6.766 de 19/12/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6766-1979-12-19"}
+],
+"controle": []
+}

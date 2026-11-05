@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1971/del-1182-1971-07-16",
+"urn": "urn:lex:br:federal:decreto.lei:1971-07-16;1182",
+"consultado_em": "2026-11-04",
+"codigo": "524985",
+"nome": "Decreto-Lei nº 1.182 de 16/07/1971",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1971-07-20", "descricao": "Publicação Original [Diário Oficial da União de 20/07/1971] (p. 5612, col. 3)"}
+],
+"alteracoes": [
+{"data": "1971-08-19", "nome": "Decreto Legislativo nº 62 de 19/08/1971", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1972-12-29", "nome": "Decreto-Lei nº 1.253 de 29/12/1972", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1972/del-1253-1972-12-29"},
+{"data": "1973-12-28", "nome": "Decreto-Lei nº 1.300 de 28/12/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1973/del-1300-1973-12-28"}
+],
+"controle": []
+}

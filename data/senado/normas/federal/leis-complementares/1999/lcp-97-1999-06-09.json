@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-complementares/1999/lcp-97-1999-06-09",
+"urn": "urn:lex:br:federal:lei.complementar:1999-06-09;97",
+"consultado_em": "2026-11-04",
+"codigo": "572852",
+"nome": "Lei Complementar nº 97 de 09/06/1999",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1999-06-10", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 10/06/1999] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2004-09-02", "nome": "Lei Complementar nº 117 de 02/09/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 13", "art": "13", "acao": "alterou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 16", "art": "16", "acao": "alterou"}, {"dispositivo": "Art. 17", "art": "17", "acao": "alterou"}, {"dispositivo": "Art. 17-A", "art": "17-a", "acao": "acrescentou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "alterou"}, {"dispositivo": "Art. 18-A", "art": "18-a", "acao": "acrescentou"}], "id": "federal/leis-complementares/2004/lcp-117-2004-09-02"},
+{"data": "2010-08-25", "nome": "Lei Complementar nº 136 de 25/08/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 1", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3-A", "art": "3-a", "acao": "acrescentou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 11-A", "art": "11-a", "acao": "acrescentou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 16-A", "art": "16-a", "acao": "acrescentou"}, {"dispositivo": "Art. 17-A, caput, Inciso 5", "art": "17-a", "acao": "revogou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "alterou"}], "id": "federal/leis-complementares/2010/lcp-136-2010-08-25"},
+{"data": "2018-10-25", "nome": "Decreto nº 9.540 de 25/10/2018", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 18", "art": "18", "acao": "correlato"}, {"dispositivo": "Art. 21", "art": "21", "acao": "correlato"}]},
+{"data": "2023-09-28", "nome": "Decreto nº 11.720 de 28/09/2023", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 9, § 3, Inciso 1", "art": "9", "acao": "correlato"}, {"dispositivo": "Art. 9, § 3, Inciso 2", "art": "9", "acao": "correlato"}]},
+{"data": "2025-11-18", "nome": "Decreto nº 12.725 de 18/11/2025", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 9, § 3", "art": "9", "acao": "correlato"}]}
+],
+"controle": []
+}

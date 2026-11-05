@@ -1,0 +1,37 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4452-1964-11-05",
+"urn": "urn:lex:br:federal:lei:1964-11-05;4452",
+"consultado_em": "2026-11-04",
+"codigo": "546303",
+"nome": "Lei nº 4.452 de 05/11/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-11-09", "descricao": "Publicação Original [Diário Oficial da União de 09/11/1964] (p. 10065, col. 1)"}
+],
+"alteracoes": [
+{"data": "1965-01-08", "nome": "Decreto nº 55.488 de 08/01/1965", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1965-03-25", "nome": "Decreto nº 55.868 de 25/03/1965", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1965-06-16", "nome": "Decreto nº 56.476 de 16/06/1965", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1965-09-10", "nome": "Decreto nº 56.850 de 10/09/1965", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1966-11-21", "nome": "Decreto-Lei nº 61 de 21/11/1966", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, § 4", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 16", "art": "16", "acao": "revogou"}, {"dispositivo": "Art. 17", "art": "17", "acao": "revogou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "alterou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "alterou"}], "id": "federal/decretos-lei/1966/del-61-1966-11-21"},
+{"data": "1970-03-12", "nome": "Decreto-Lei nº 1.091 de 12/03/1970", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1970/del-1091-1970-03-12"},
+{"data": "1972-05-15", "nome": "Decreto-Lei nº 1.221 de 15/05/1972", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1972/del-1221-1972-05-15"},
+{"data": "1973-12-10", "nome": "Lei nº 5.963 de 10/12/1973", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 6", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 7", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 8", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1973/lei-5963-1973-12-10"},
+{"data": "1973-12-26", "nome": "Decreto-Lei nº 1.296 de 26/12/1973", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 13", "art": "13", "acao": "alterou"}], "id": "federal/decretos-lei/1973/del-1296-1973-12-26"},
+{"data": "1973-12-26", "nome": "Decreto-Lei nº 1.297 de 26/12/1973", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1973/del-1297-1973-12-26"},
+{"data": "1975-01-07", "nome": "Decreto-Lei nº 1.387 de 07/01/1975", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 13, caput, Inciso 2, Alínea j", "art": "13", "acao": "alterou"}], "id": "federal/decretos-lei/1975/del-1387-1975-01-07"},
+{"data": "1975-10-09", "nome": "Decreto-Lei nº 1.420 de 09/10/1975", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 13, caput, Item 2", "art": "13", "acao": "alterou"}], "id": "federal/decretos-lei/1975/del-1420-1975-10-09"},
+{"data": "1976-11-30", "nome": "Decreto-Lei nº 1.490 de 30/11/1976", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 13, caput, Item 2", "art": "13", "acao": "alterou"}], "id": "federal/decretos-lei/1976/del-1490-1976-11-30"},
+{"data": "1977-11-18", "nome": "Decreto nº 80.762 de 18/11/1977", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1977-12-30", "nome": "Decreto-Lei nº 1.599 de 30/12/1977", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1977/del-1599-1977-12-30"},
+{"data": "1978-06-15", "nome": "Decreto-Lei nº 1.628 de 15/06/1978", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 18", "art": "18", "acao": "alterou"}], "id": "federal/decretos-lei/1978/del-1628-1978-06-15"},
+{"data": "1979-05-07", "nome": "Decreto-Lei nº 1.681 de 07/05/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 13, caput, Inciso 2, Alínea i", "art": "13", "acao": "alterou"}], "id": "federal/decretos-lei/1979/del-1681-1979-05-07"},
+{"data": "1979-08-02", "nome": "Decreto-Lei nº 1.691 de 02/08/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 13, caput, Inciso 2, Alínea e", "art": "13", "acao": "alterou"}, {"dispositivo": "Art. 13, caput, Inciso 2, Alínea n", "art": "13", "acao": "acrescentou"}], "id": "federal/decretos-lei/1979/del-1691-1979-08-02"},
+{"data": "1979-09-24", "nome": "Decreto-Lei nº 1.696 de 24/09/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1696-1979-09-24"},
+{"data": "1980-05-13", "nome": "Decreto-Lei nº 1.785 de 13/05/1980", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 13, caput, Item 2", "art": "13", "acao": "alterou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "revogou"}], "id": "federal/decretos-lei/1980/del-1785-1980-05-13"},
+{"data": "1981-12-29", "nome": "Decreto-Lei nº 1.912 de 29/12/1981", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 13, caput, Inciso 2, Alínea d", "art": "13", "acao": "alterou"}], "id": "federal/decretos-lei/1981/del-1912-1981-12-29"},
+{"data": "1998-06-25", "nome": "Decreto nº 2.635 de 25/06/1998", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 13", "art": "13", "acao": "correlato"}]},
+{"data": "2001-08-17", "nome": "Decreto nº 3.890 de 17/08/2001", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 13, caput, Inciso 2", "art": "13", "acao": "regulamentou"}]}
+],
+"controle": []
+}

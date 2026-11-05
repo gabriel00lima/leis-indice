@@ -1,0 +1,38 @@
+{
+"id": "federal/leis-ordinarias/2004/lei-10933-2004-08-11",
+"urn": "urn:lex:br:federal:lei:2004-08-11;10933",
+"consultado_em": "2026-11-04",
+"codigo": "552809",
+"nome": "Lei nº 10.933 de 11/08/2004",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2004-08-12", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 12/08/2004] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2004-10-06", "nome": "Decreto nº 5.233 de 06/10/2004", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2004-10-20", "nome": "Decreto nº 5.248 de 20/10/2004", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2004-12-21", "nome": "Lei nº 11.012 de 21/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11012-2004-12-21"},
+{"data": "2004-12-21", "nome": "Lei nº 11.013 de 21/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11013-2004-12-21"},
+{"data": "2004-12-21", "nome": "Lei nº 11.014 de 21/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11014-2004-12-21"},
+{"data": "2004-12-21", "nome": "Lei nº 11.015 de 21/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11015-2004-12-21"},
+{"data": "2004-12-21", "nome": "Lei nº 11.016 de 21/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11016-2004-12-21"},
+{"data": "2004-12-21", "nome": "Lei nº 11.017 de 21/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11017-2004-12-21"},
+{"data": "2004-12-21", "nome": "Lei nº 11.030 de 21/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11030-2004-12-21"},
+{"data": "2004-12-24", "nome": "Lei nº 11.043 de 24/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11043-2004-12-24"},
+{"data": "2004-12-24", "nome": "Lei nº 11.044 de 24/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 6-A", "art": "6-a", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 8-A", "art": "8-a", "acao": "alterou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11044-2004-12-24"},
+{"data": "2004-12-24", "nome": "Lei nº 11.045 de 24/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11045-2004-12-24"},
+{"data": "2004-12-30", "nome": "Lei nº 11.064 de 30/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11064-2004-12-30"},
+{"data": "2004-12-30", "nome": "Lei nº 11.065 de 30/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11065-2004-12-30"},
+{"data": "2004-12-30", "nome": "Lei nº 11.066 de 30/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11066-2004-12-30"},
+{"data": "2004-12-30", "nome": "Lei nº 11.067 de 30/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11067-2004-12-30"},
+{"data": "2004-12-30", "nome": "Lei nº 11.068 de 30/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11068-2004-12-30"},
+{"data": "2004-12-30", "nome": "Lei nº 11.070 de 30/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11070-2004-12-30"},
+{"data": "2004-12-30", "nome": "Lei nº 11.071 de 30/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11071-2004-12-30"},
+{"data": "2005-01-14", "nome": "Lei nº 11.099 de 14/01/2005", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2005/lei-11099-2005-01-14"},
+{"data": "2005-09-01", "nome": "Lei nº 11.168 de 01/09/2005", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2005/lei-11168-2005-09-01"},
+{"data": "2005-11-17", "nome": "Lei nº 11.194 de 17/11/2005", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2005/lei-11194-2005-11-17"},
+{"data": "2006-07-05", "nome": "Lei nº 11.318 de 05/07/2006", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2006/lei-11318-2006-07-05"},
+{"data": "2007-02-07", "nome": "Lei nº 11.450 de 07/02/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 3", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 4", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2007/lei-11450-2007-02-07"}
+],
+"controle": []
+}

@@ -1,0 +1,26 @@
+{
+"id": "federal/decretos-lei/1966/del-57-1966-11-18",
+"urn": "urn:lex:br:federal:decreto.lei:1966-11-18;57",
+"consultado_em": "2026-11-04",
+"codigo": "522756",
+"nome": "Decreto-Lei nº 57 de 18/11/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-21", "descricao": "Publicação Original [Diário Oficial da União de 21/11/1966] (p. 13418, col. 4)"}
+],
+"alteracoes": [
+{"data": "1966-12-30", "nome": "Decreto nº 59.900 de 30/12/1966", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1968-07-30", "nome": "Decreto nº 63.058 de 30/07/1968", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1971-07-02", "nome": "Lei nº 5.672 de 02/07/1971", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5672-1971-07-02"},
+{"data": "1972-12-12", "nome": "Lei nº 5.868 de 12/12/1972", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, § 1", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 5, § 2", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 14", "art": "14", "acao": "revogou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "revogou"}], "id": "federal/leis-ordinarias/1972/lei-5868-1972-12-12"},
+{"data": "1974-10-02", "nome": "Resolução do Senado Federal nº 33 de 02/10/1974", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1976-11-10", "nome": "Decreto-Lei nº 1.487 de 10/11/1976", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1976/del-1487-1976-11-10"},
+{"data": "1979-12-10", "nome": "Lei nº 6.746 de 10/12/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6746-1979-12-10"},
+{"data": "1982-12-28", "nome": "Decreto-Lei nº 1.989 de 28/12/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1989-1982-12-28"},
+{"data": "1983-09-27", "nome": "Resolução do Senado Federal nº 337 de 27/09/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "suspensão"}]},
+{"data": "1984-06-28", "nome": "Decreto nº 89.871 de 28/06/1984", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1987-11-30", "nome": "Decreto-Lei nº 2.377 de 30/11/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2377-1987-11-30"},
+{"data": "1990-12-17", "nome": "Medida Provisória nº 289 de 17/12/1990", "tipo": "Alteração Provisória", "dispositivos": []}
+],
+"controle": []
+}

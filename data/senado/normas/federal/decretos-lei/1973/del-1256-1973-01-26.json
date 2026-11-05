@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1973/del-1256-1973-01-26",
+"urn": "urn:lex:br:federal:decreto.lei:1973-01-26;1256",
+"consultado_em": "2026-11-04",
+"codigo": "525133",
+"nome": "Decreto-Lei nº 1.256 de 26/01/1973",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-01-29", "descricao": "Publicação Original [Diário Oficial da União de 29/01/1973] (p. 977, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-04-24", "nome": "Decreto Legislativo nº 9 de 24/04/1973", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

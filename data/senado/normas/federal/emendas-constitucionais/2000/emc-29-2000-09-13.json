@@ -1,0 +1,15 @@
+{
+"id": "federal/emendas-constitucionais/2000/emc-29-2000-09-13",
+"urn": "urn:lex:br:federal:emenda.constitucional:2000-09-13;29",
+"consultado_em": "2026-11-04",
+"codigo": "540632",
+"nome": "Emenda Constitucional nº 29 de 13/09/2000",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-09-14", "descricao": "Publicação Original [Diário Oficial da União de 14/09/2000] (p. 1, col. 1)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2015-10-07", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.732 de 07/10/2015", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "2732"}}
+]
+}

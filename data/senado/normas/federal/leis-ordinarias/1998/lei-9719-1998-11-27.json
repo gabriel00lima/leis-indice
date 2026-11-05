@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/1998/lei-9719-1998-11-27",
+"urn": "urn:lex:br:federal:lei:1998-11-27;9719",
+"consultado_em": "2026-11-04",
+"codigo": "551595",
+"nome": "Lei nº 9.719 de 27/11/1998",
+"apelidos": [
+"Lei do Trabalho Portuário (1998)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1998-11-30", "descricao": "Publicação Original [Diário Oficial da União de 30/11/1998] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2013-06-05", "nome": "Lei nº 12.815 de 05/06/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10-A", "art": "10-a", "acao": "acrescentou"}, {"dispositivo": "Art. 10-A, Parágrafo Único", "art": "10-a", "acao": "acrescentou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "revogou"}], "id": "federal/leis-ordinarias/2013/lei-12815-2013-06-05"},
+{"data": "2013-06-27", "nome": "Decreto nº 8.033 de 27/06/2013", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 10-A", "art": "10-a", "acao": "correlato"}]},
+{"data": "2019-11-11", "nome": "Medida Provisória nº 905 de 11/11/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 10, caput, Inciso 2", "art": "10", "acao": "revogou"}]},
+{"data": "2020-04-04", "nome": "Medida Provisória nº 945 de 04/04/2020", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5, § 1", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 5, § 2", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 5, § 3", "art": "5", "acao": "acrescentou"}]},
+{"data": "2020-08-24", "nome": "Lei nº 14.047 de 24/08/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, § 1", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 5, § 2", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 5, § 3", "art": "5", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2020/lei-14047-2020-08-24"},
+{"data": "2021-11-10", "nome": "Decreto nº 10.854 de 10/11/2021", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 9, Parágrafo Único", "art": "9", "acao": "regulamentou"}]}
+],
+"controle": []
+}

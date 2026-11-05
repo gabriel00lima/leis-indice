@@ -1,0 +1,37 @@
+{
+"id": "federal/leis-ordinarias/1978/lei-6550-1978-07-05",
+"urn": "urn:lex:br:federal:lei:1978-07-05;6550",
+"consultado_em": "2026-11-04",
+"codigo": "548426",
+"nome": "Lei nº 6.550 de 05/07/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-07-06", "descricao": "Publicação Original [Diário Oficial da União de 06/07/1978] (p. 10407, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-09-18", "nome": "Decreto nº 82.270 de 18/09/1978", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1979-08-22", "nome": "Decreto nº 83.888 de 22/08/1979", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1979-09-18", "nome": "Decreto nº 83.989 de 18/09/1979", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1979-10-17", "nome": "Decreto nº 84.099 de 17/10/1979", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1980-01-21", "nome": "Decreto nº 84.409 de 21/01/1980", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1980-09-19", "nome": "Decreto nº 85.177 de 19/09/1980", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1980-11-11", "nome": "Decreto nº 85.347 de 11/11/1980", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1980-11-26", "nome": "Lei nº 6.861 de 26/11/1980", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1980/lei-6861-1980-11-26"},
+{"data": "1981-11-25", "nome": "Lei nº 6.960 de 25/11/1981", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1981/lei-6960-1981-11-25"},
+{"data": "1981-12-14", "nome": "Lei nº 6.973 de 14/12/1981", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1981/lei-6973-1981-12-14"},
+{"data": "1982-12-06", "nome": "Lei nº 7.065 de 06/12/1982", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7065-1982-12-06"},
+{"data": "1983-11-07", "nome": "Decreto nº 88.941 de 07/11/1983", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1984-09-11", "nome": "Decreto-Lei nº 2.161 de 11/09/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2161-1984-09-11"},
+{"data": "1984-12-27", "nome": "Decreto nº 90.762 de 27/12/1984", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1985-02-14", "nome": "Decreto nº 90.962 de 14/02/1985", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1985-05-17", "nome": "Decreto nº 91.250 de 17/05/1985", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1985-10-25", "nome": "Lei nº 7.392 de 25/10/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7392-1985-10-25"},
+{"data": "1985-12-20", "nome": "Lei nº 7.447 de 20/12/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7447-1985-12-20"},
+{"data": "1987-10-27", "nome": "Decreto-Lei nº 2.365 de 27/10/1987", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2365-1987-10-27"},
+{"data": "1989-10-24", "nome": "Medida Provisória nº 95 de 24/10/1989", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1989-11-14", "nome": "Medida Provisória nº 106 de 14/11/1989", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1989-12-12", "nome": "Lei nº 7.923 de 12/12/1989", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7923-1989-12-12"},
+{"data": "1991-08-13", "nome": "Lei nº 8.216 de 13/08/1991", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8216-1991-08-13"}
+],
+"controle": []
+}

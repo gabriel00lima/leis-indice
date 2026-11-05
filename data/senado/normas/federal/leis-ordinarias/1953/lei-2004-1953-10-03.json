@@ -1,0 +1,37 @@
+{
+"id": "federal/leis-ordinarias/1953/lei-2004-1953-10-03",
+"urn": "urn:lex:br:federal:lei:1953-10-03;2004",
+"consultado_em": "2026-11-04",
+"codigo": "543774",
+"nome": "Lei nº 2.004 de 03/10/1953",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1953-10-03", "descricao": "Publicação Original [Diário Oficial da União de 03/10/1953] (p. 16705, col. 3)"}
+],
+"alteracoes": [
+{"data": "1957-09-02", "nome": "Lei nº 3.257 de 02/09/1957", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1957/lei-3257-1957-09-02"},
+{"data": "1957-10-16", "nome": "Decreto nº 42.483 de 16/10/1957", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1969-04-08", "nome": "Decreto-Lei nº 523 de 08/04/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-523-1969-04-08"},
+{"data": "1969-07-18", "nome": "Decreto-Lei nº 688 de 18/07/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-688-1969-07-18"},
+{"data": "1969-08-11", "nome": "Decreto-Lei nº 755 de 11/08/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-755-1969-08-11"},
+{"data": "1969-11-12", "nome": "Decreto nº 65.690 de 12/11/1969", "tipo": "Aprovação de Estatuto", "dispositivos": []},
+{"data": "1971-06-21", "nome": "Lei nº 5.665 de 21/06/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5665-1971-06-21"},
+{"data": "1971-07-15", "nome": "Decreto nº 68.925 de 15/07/1971", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1973-11-01", "nome": "Decreto-Lei nº 1.288 de 01/11/1973", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 27, § 4", "art": "27", "acao": "alterou"}], "id": "federal/decretos-lei/1973/del-1288-1973-11-01"},
+{"data": "1976-12-21", "nome": "Decreto nº 78.990 de 21/12/1976", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1977-10-03", "nome": "Decreto nº 80.472 de 03/10/1977", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1977-12-07", "nome": "Lei nº 6.492 de 07/12/1977", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1977/lei-6492-1977-12-07"},
+{"data": "1978-01-13", "nome": "Decreto nº 81.217 de 13/01/1978", "tipo": "Aprovação de Estatuto", "dispositivos": []},
+{"data": "1979-06-05", "nome": "Decreto nº 83.554 de 05/06/1979", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1983-05-16", "nome": "Decreto nº 88.302 de 16/05/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "1985-12-27", "nome": "Lei nº 7.453 de 27/12/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 27", "art": "27", "acao": "alterou"}], "id": "federal/leis-ordinarias/1985/lei-7453-1985-12-27"},
+{"data": "1986-04-15", "nome": "Decreto nº 92.545 de 15/04/1986", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1986-07-22", "nome": "Lei nº 7.525 de 22/07/1986", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 27, § 3", "art": "27", "acao": "alterou"}], "id": "federal/leis-ordinarias/1986/lei-7525-1986-07-22"},
+{"data": "1987-04-21", "nome": "Decreto nº 94.240 de 21/04/1987", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1990-05-08", "nome": "Decreto nº 99.243 de 08/05/1990", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "1991-09-30", "nome": "Decreto de 30/09/1991 ( seq-sf: 2 )", "tipo": "Aprovação de Estatuto", "dispositivos": []},
+{"data": "1994-05-23", "nome": "Decreto de 23/05/1994", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1997-08-06", "nome": "Lei nº 9.478 de 06/08/1997", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9478-1997-08-06"}
+],
+"controle": []
+}

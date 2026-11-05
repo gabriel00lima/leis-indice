@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2000/lei-10034-2000-10-24",
+"urn": "urn:lex:br:federal:lei:2000-10-24;10034",
+"consultado_em": "2026-11-04",
+"codigo": "551910",
+"nome": "Lei nº 10.034 de 24/10/2000",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-10-25", "descricao": "Publicação Original [Diário Oficial da União de 25/10/2000] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2003-05-30", "nome": "Lei nº 10.684 de 30/05/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2003/lei-10684-2003-05-30"},
+{"data": "2003-12-29", "nome": "Lei nº 10.833 de 29/12/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2003/lei-10833-2003-12-29"}
+],
+"controle": []
+}

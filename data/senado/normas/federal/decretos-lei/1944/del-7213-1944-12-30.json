@@ -1,0 +1,26 @@
+{
+"id": "federal/decretos-lei/1944/del-7213-1944-12-30",
+"urn": "urn:lex:br:federal:decreto.lei:1944-12-30;7213",
+"consultado_em": "2026-11-04",
+"codigo": "532314",
+"nome": "Decreto-Lei nº 7.213 de 30/12/1944",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1944-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/1944] (p. 21676, col. 1)"},
+{"tipo": "REP", "data": "1944-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1944 - vol. 007] (p. 288, col. 1)"}
+],
+"alteracoes": [
+{"data": "1945-06-26", "nome": "Decreto-Lei nº 7.678 de 26/06/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-7678-1945-06-26"},
+{"data": "1945-07-31", "nome": "Decreto-Lei nº 7.805 de 31/07/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-7805-1945-07-31"},
+{"data": "1945-08-14", "nome": "Decreto-Lei nº 7.865 de 14/08/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-7865-1945-08-14"},
+{"data": "1945-08-20", "nome": "Decreto-Lei nº 7.873 de 20/08/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-7873-1945-08-20"},
+{"data": "1945-11-23", "nome": "Decreto-Lei nº 8.212 de 23/11/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-8212-1945-11-23"},
+{"data": "1945-12-04", "nome": "Decreto-Lei nº 8.279 de 04/12/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-8279-1945-12-04"},
+{"data": "1945-12-06", "nome": "Decreto-Lei nº 8.301 de 06/12/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-8301-1945-12-06"},
+{"data": "1945-12-26", "nome": "Decreto-Lei nº 8.454 de 26/12/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-8454-1945-12-26"},
+{"data": "1945-12-28", "nome": "Decreto-Lei nº 8.489 de 28/12/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-8489-1945-12-28"},
+{"data": "1945-12-31", "nome": "Decreto-Lei nº 8.523 de 31/12/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-8523-1945-12-31"},
+{"data": "1945-12-31", "nome": "Decreto-Lei nº 8.525 de 31/12/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-8525-1945-12-31"}
+],
+"controle": []
+}

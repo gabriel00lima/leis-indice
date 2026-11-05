@@ -1,0 +1,30 @@
+{
+"id": "federal/leis-ordinarias/2009/lei-11947-2009-06-16",
+"urn": "urn:lex:br:federal:lei:2009-06-16;11947",
+"consultado_em": "2026-11-04",
+"codigo": "580170",
+"nome": "Lei nº 11.947 de 16/06/2009",
+"apelidos": [
+"Lei da Alimentação Escolar (2009)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2009-06-17", "descricao": "Publicação Original [Diário Oficial da União de 17/06/2009] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2011-06-27", "nome": "Decreto nº 7.507 de 27/06/2011", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2012-03-20", "nome": "Medida Provisória nº 562 de 20/03/2012", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 22", "art": "22", "acao": "alterou"}, {"dispositivo": "Art. 26", "art": "26", "acao": "alterou"}]},
+{"data": "2012-07-25", "nome": "Lei nº 12.695 de 25/07/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 22", "art": "22", "acao": "alterou"}, {"dispositivo": "Art. 26", "art": "26", "acao": "alterou"}, {"dispositivo": "Art. 33-A", "art": "33-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2012/lei-12695-2012-07-25"},
+{"data": "2014-05-28", "nome": "Lei nº 12.982 de 28/05/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12, § 1", "art": "12", "acao": "renumerou"}, {"dispositivo": "Art. 12, § 2", "art": "12", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2014/lei-12982-2014-05-28"},
+{"data": "2020-04-07", "nome": "Lei nº 13.987 de 07/04/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 21-A, caput", "art": "21-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2020/lei-13987-2020-04-07"},
+{"data": "2020-08-18", "nome": "Lei nº 14.040 de 18/08/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, caput", "art": "5", "acao": "vetado"}, {"dispositivo": "Art. 5, § 2", "art": "5", "acao": "vetado"}, {"dispositivo": "Art. 21-A, caput", "art": "21-a", "acao": "vetado"}, {"dispositivo": "Art. 21-A, caput, Inciso 1", "art": "21-a", "acao": "vetado"}, {"dispositivo": "Art. 21-A, caput, Inciso 2", "art": "21-a", "acao": "vetado"}, {"dispositivo": "Art. 21-A, Parágrafo Único", "art": "21-a", "acao": "vetado"}], "id": "federal/leis-ordinarias/2020/lei-14040-2020-08-18"},
+{"data": "2021-12-02", "nome": "Decreto nº 10.880 de 02/12/2021", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2023-08-23", "nome": "Lei nº 14.660 de 23/08/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14, caput", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 14, § 3", "art": "14", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14660-2023-08-23"},
+{"data": "2023-11-23", "nome": "Lei nº 14.734 de 23/11/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 17, caput, Inciso 6", "art": "17", "acao": "alterou"}, {"dispositivo": "Art. 17, caput, Inciso 11", "art": "17", "acao": "acrescentou"}, {"dispositivo": "Art. 17, caput, Inciso 11", "art": "17", "acao": "vetado"}, {"dispositivo": "Art. 20, caput, Inciso 4", "art": "20", "acao": "acrescentou"}, {"dispositivo": "Art. 20, caput, Inciso 4", "art": "20", "acao": "vetado"}], "id": "federal/leis-ordinarias/2023/lei-14734-2023-11-23"},
+{"data": "2023-12-12", "nome": "Decreto nº 11.821 de 12/12/2023", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2025-07-23", "nome": "Lei nº 15.178 de 23/07/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14, caput", "art": "14", "acao": "vetado"}, {"dispositivo": "Art. 14, § 4", "art": "14", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2025/lei-15178-2025-07-23"},
+{"data": "2025-09-30", "nome": "Lei nº 15.226 de 30/09/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 13, § 1", "art": "13", "acao": "acrescentou"}, {"dispositivo": "Art. 13, § 2", "art": "13", "acao": "acrescentou"}, {"dispositivo": "Art. 14, caput", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 19, caput, Inciso 3", "art": "19", "acao": "alterou"}], "id": "federal/leis-ordinarias/2025/lei-15226-2025-09-30"},
+{"data": "2025-11-10", "nome": "Lei nº 15.255 de 10/11/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, caput", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, § 6", "art": "5", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2025/lei-15255-2025-11-10"},
+{"data": "2025-11-28", "nome": "Lei nº 15.276 de 28/11/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 7", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 17, caput, Inciso 7", "art": "17", "acao": "alterou"}, {"dispositivo": "Art. 19, caput, Inciso 2", "art": "19", "acao": "alterou"}, {"dispositivo": "Art. 23, § 1", "art": "23", "acao": "acrescentou"}, {"dispositivo": "Art. 23, § 2", "art": "23", "acao": "acrescentou"}, {"dispositivo": "Art. 26, § 2, Inciso 4", "art": "26", "acao": "vetado"}, {"dispositivo": "Art. 26, § 5", "art": "26", "acao": "vetado"}], "id": "federal/leis-ordinarias/2025/lei-15276-2025-11-28"}
+],
+"controle": []
+}

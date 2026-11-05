@@ -1,0 +1,20 @@
+{
+"id": "federal/decretos-lei/1988/del-2432-1988-05-17",
+"urn": "urn:lex:br:federal:decreto.lei:1988-05-17;2432",
+"consultado_em": "2026-11-04",
+"codigo": "527477",
+"nome": "Decreto-Lei nº 2.432 de 17/05/1988",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1988-05-18", "descricao": "Publicação Original [Diário Oficial da União de 18/05/1988] (p. 8634, col. 2)"},
+{"tipo": "RET", "data": "1988-05-24", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 24/05/1988] (p. 9193, col. 1)"}
+],
+"alteracoes": [
+{"data": "1990-03-08", "nome": "Medida Provisória nº 144 de 08/03/1990", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}]},
+{"data": "1990-04-06", "nome": "Lei nº 8.013 de 06/04/1990", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}], "id": "federal/leis-ordinarias/1990/lei-8013-1990-04-06"},
+{"data": "1993-03-04", "nome": "Lei nº 8.631 de 04/03/1993", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "revogou"}], "id": "federal/leis-ordinarias/1993/lei-8631-1993-03-04"},
+{"data": "1999-03-31", "nome": "Medida Provisória nº 1.819 de 31/03/1999", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1999-04-30", "nome": "Medida Provisória nº 1.819-1 de 30/04/1999", "tipo": "Alteração Provisória", "dispositivos": []}
+],
+"controle": []
+}

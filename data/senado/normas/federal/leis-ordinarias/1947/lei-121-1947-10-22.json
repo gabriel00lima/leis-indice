@@ -1,0 +1,29 @@
+{
+"id": "federal/leis-ordinarias/1947/lei-121-1947-10-22",
+"urn": "urn:lex:br:federal:lei:1947-10-22;121",
+"consultado_em": "2026-11-04",
+"codigo": "541103",
+"nome": "Lei nº 121 de 22/10/1947",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1947-10-24", "descricao": "Publicação Original [Diário Oficial da União de 24/10/1947] (p. 13701, col. 2)"}
+],
+"alteracoes": [
+{"data": "1951-09-29", "nome": "Lei nº 1.444 de 29/09/1951", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1951/lei-1444-1951-09-29"},
+{"data": "1952-07-16", "nome": "Lei nº 1.645 de 16/07/1952", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1952/lei-1645-1952-07-16"},
+{"data": "1952-09-01", "nome": "Lei nº 1.665 de 01/09/1952", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1952/lei-1665-1952-09-01"},
+{"data": "1952-11-03", "nome": "Lei nº 1.720 de 03/11/1952", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1952/lei-1720-1952-11-03"},
+{"data": "1952-11-26", "nome": "Lei nº 1.743 de 26/11/1952", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1952/lei-1743-1952-11-26"},
+{"data": "1952-12-18", "nome": "Lei nº 1.767 de 18/12/1952", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1952/lei-1767-1952-12-18"},
+{"data": "1952-12-27", "nome": "Lei nº 1.785 de 27/12/1952", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1952/lei-1785-1952-12-27"},
+{"data": "1953-06-05", "nome": "Lei nº 1.878 de 05/06/1953", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1953/lei-1878-1953-06-05"},
+{"data": "1953-08-24", "nome": "Lei nº 1.953 de 24/08/1953", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1953/lei-1953-1953-08-24"},
+{"data": "1954-02-04", "nome": "Lei nº 2.179 de 04/02/1954", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2179-1954-02-04"},
+{"data": "1955-01-03", "nome": "Lei nº 2.386 de 03/01/1955", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1955/lei-2386-1955-01-03"},
+{"data": "1966-10-01", "nome": "Lei nº 5.130 de 01/10/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5130-1966-10-01"},
+{"data": "1969-01-24", "nome": "Decreto-Lei nº 435 de 24/01/1969", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1969/del-435-1969-01-24"},
+{"data": "1973-11-29", "nome": "Lei nº 5.946 de 29/11/1973", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-5946-1973-11-29"},
+{"data": "1985-04-15", "nome": "Lei nº 7.308 de 15/04/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7308-1985-04-15"}
+],
+"controle": []
+}

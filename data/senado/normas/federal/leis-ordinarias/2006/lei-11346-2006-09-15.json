@@ -1,0 +1,33 @@
+{
+"id": "federal/leis-ordinarias/2006/lei-11346-2006-09-15",
+"urn": "urn:lex:br:federal:lei:2006-09-15;11346",
+"consultado_em": "2026-11-04",
+"codigo": "572131",
+"nome": "Lei nº 11.346 de 15/09/2006",
+"apelidos": [
+"Lei Orgânica de Segurança Alimentar e Nutricional (2006)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2006-09-18", "descricao": "Publicação Original [Diário Oficial da União de 18/09/2006] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2007-11-23", "nome": "Decreto nº 6.272 de 23/11/2007", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2007-11-23", "nome": "Decreto nº 6.273 de 23/11/2007", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2010-08-25", "nome": "Decreto nº 7.272 de 25/08/2010", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2015-03-05", "nome": "Decreto nº 8.416 de 05/03/2015", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 11, caput, Inciso 2, Alínea a", "art": "11", "acao": "correlato"}]},
+{"data": "2015-11-03", "nome": "Decreto nº 8.553 de 03/11/2015", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2019-01-01", "nome": "Medida Provisória nº 870 de 01/01/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 11, caput, Inciso 2", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 11, § 2", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 11, § 3", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 11, § 4", "art": "11", "acao": "revogou"}]},
+{"data": "2019-06-04", "nome": "Lei nº 13.839 de 04/06/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 1", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, caput, Inciso 7", "art": "4", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2019/lei-13839-2019-06-04"},
+{"data": "2021-06-07", "nome": "Decreto nº 10.713 de 07/06/2021", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 7, § 1", "art": "7", "acao": "regulamentou"}]},
+{"data": "2021-10-06", "nome": "Lei nº 14.214 de 06/10/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, Parágrafo Único", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 4, Parágrafo Único", "art": "4", "acao": "vetado"}], "id": "federal/leis-ordinarias/2021/lei-14214-2021-10-06"},
+{"data": "2023-02-28", "nome": "Decreto nº 11.422 de 28/02/2023", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2023-08-31", "nome": "Decreto nº 11.679 de 31/08/2023", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2023-12-12", "nome": "Decreto nº 11.820 de 12/12/2023", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2023-12-12", "nome": "Decreto nº 11.822 de 12/12/2023", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2025-06-12", "nome": "Decreto nº 12.512 de 12/06/2025", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2025-09-30", "nome": "Lei nº 15.225 de 30/09/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, Parágrafo Único", "art": "4", "acao": "renumerou"}, {"dispositivo": "Art. 4, § 2", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 7, § 5", "art": "7", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2025/lei-15225-2025-09-30"},
+{"data": "2025-10-20", "nome": "Decreto nº 12.680 de 20/10/2025", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2026-06-30", "nome": "Lei nº 15.451 de 30/06/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15451-2026-06-30"}
+],
+"controle": []
+}

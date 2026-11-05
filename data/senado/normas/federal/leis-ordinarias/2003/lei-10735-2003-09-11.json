@@ -1,0 +1,26 @@
+{
+"id": "federal/leis-ordinarias/2003/lei-10735-2003-09-11",
+"urn": "urn:lex:br:federal:lei:2003-09-11;10735",
+"consultado_em": "2026-11-04",
+"codigo": "552611",
+"nome": "Lei nº 10.735 de 11/09/2003",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2003-09-12", "descricao": "Publicação Original [Diário Oficial da União de 12/09/2003] (p. 8, col. 1)"}
+],
+"alteracoes": [
+{"data": "2004-03-04", "nome": "Decreto nº 5.004 de 04/03/2004", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2004-11-29", "nome": "Medida Provisória nº 226 de 29/11/2004", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2, caput, Inciso 6", "art": "2", "acao": "alterou"}]},
+{"data": "2005-04-25", "nome": "Lei nº 11.110 de 25/04/2005", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2, caput, Inciso 6", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2005/lei-11110-2005-04-25"},
+{"data": "2011-11-17", "nome": "Medida Provisória nº 550 de 17/11/2011", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2012-04-18", "nome": "Lei nº 12.613 de 18/04/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2012/lei-12613-2012-04-18"},
+{"data": "2017-09-26", "nome": "Medida Provisória nº 802 de 26/09/2017", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1, Alínea a", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 1, caput, Inciso 1, Alínea c", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2, caput, Inciso 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 2, caput, Inciso 4", "art": "2", "acao": "revogou"}]},
+{"data": "2018-03-20", "nome": "Lei nº 13.636 de 20/03/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1, Alínea a", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 1, caput, Inciso 1, Alínea c", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2, caput, Inciso 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 2, caput, Inciso 4", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/2018/lei-13636-2018-03-20"},
+{"data": "2018-03-20", "nome": "Lei nº 13.636 de 20/03/2018", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "correlato"}], "id": "federal/leis-ordinarias/2018/lei-13636-2018-03-20"},
+{"data": "2019-11-11", "nome": "Medida Provisória nº 905 de 11/11/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "acrescentou"}]},
+{"data": "2020-05-18", "nome": "Lei nº 13.999 de 18/05/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 8", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, caput, Inciso 9", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 1", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2, § 2", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2020/lei-13999-2020-05-18"},
+{"data": "2024-04-22", "nome": "Medida Provisória nº 1.213 de 22/04/2024", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1, Alínea d", "art": "1", "acao": "acrescentou"}]},
+{"data": "2024-10-10", "nome": "Lei nº 14.995 de 10/10/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1, Alínea d", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2024/lei-14995-2024-10-10"}
+],
+"controle": []
+}

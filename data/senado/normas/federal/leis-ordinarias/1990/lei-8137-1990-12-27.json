@@ -1,0 +1,28 @@
+{
+"id": "federal/leis-ordinarias/1990/lei-8137-1990-12-27",
+"urn": "urn:lex:br:federal:lei:1990-12-27;8137",
+"consultado_em": "2026-11-04",
+"codigo": "550013",
+"nome": "Lei nº 8.137 de 27/12/1990",
+"apelidos": [
+"Lei de Crimes Contra a Ordem Tributária (1990)",
+"Lei de Sonegação Fiscal (1990)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1990-12-28", "descricao": "Publicação Original [Diário Oficial da União de 28/12/1990] (p. 25534, col. 2)"}
+],
+"alteracoes": [
+{"data": "1991-02-08", "nome": "Lei nº 8.176 de 08/02/1991", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 18", "art": "18", "acao": "revogou"}], "id": "federal/leis-ordinarias/1991/lei-8176-1991-02-08"},
+{"data": "1991-12-30", "nome": "Lei nº 8.383 de 30/12/1991", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14", "art": "14", "acao": "revogou"}], "id": "federal/leis-ordinarias/1991/lei-8383-1991-12-30"},
+{"data": "1993-11-12", "nome": "Decreto nº 982 de 12/11/1993", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "correlato"}, {"dispositivo": "Art. 2", "art": "2", "acao": "correlato"}]},
+{"data": "1994-06-11", "nome": "Lei nº 8.884 de 11/06/1994", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 7", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/1994/lei-8884-1994-06-11"},
+{"data": "1994-11-30", "nome": "Medida Provisória nº 736 de 30/11/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-12-29", "nome": "Medida Provisória nº 789 de 29/12/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1995-01-26", "nome": "Medida Provisória nº 855 de 26/01/1995", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1995-07-19", "nome": "Lei nº 9.080 de 19/07/1995", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 16, Parágrafo Único", "art": "16", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/1995/lei-9080-1995-07-19"},
+{"data": "1995-12-26", "nome": "Lei nº 9.249 de 26/12/1995", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1995/lei-9249-1995-12-26"},
+{"data": "2011-11-30", "nome": "Lei nº 12.529 de 30/11/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}], "id": "federal/leis-ordinarias/2011/lei-12529-2011-11-30"},
+{"data": "2025-12-26", "nome": "Lei Complementar nº 224 de 26/12/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12, caput, Inciso 4", "art": "12", "acao": "acrescentou"}], "id": "federal/leis-complementares/2025/lcp-224-2025-12-26"}
+],
+"controle": []
+}

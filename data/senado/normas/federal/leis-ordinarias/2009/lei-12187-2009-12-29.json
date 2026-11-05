@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/2009/lei-12187-2009-12-29",
+"urn": "urn:lex:br:federal:lei:2009-12-29;12187",
+"consultado_em": "2026-11-04",
+"codigo": "575829",
+"nome": "Lei nº 12.187 de 29/12/2009",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2009-12-29", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 29/12/2009] (p. 109, col. 2)"}
+],
+"alteracoes": [
+{"data": "2010-12-09", "nome": "Decreto nº 7.390 de 09/12/2010", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "regulamentou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "regulamentou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "regulamentou"}]},
+{"data": "2017-10-17", "nome": "Decreto nº 9.172 de 17/10/2017", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 6, Inciso 13", "art": "6", "acao": "regulamentou"}]},
+{"data": "2018-11-22", "nome": "Decreto nº 9.578 de 22/11/2018", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2019-11-28", "nome": "Decreto nº 10.142 de 28/11/2019", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6, caput, Inciso 3", "art": "6", "acao": "correlato"}]},
+{"data": "2019-11-28", "nome": "Decreto nº 10.144 de 28/11/2019", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2022-05-19", "nome": "Decreto nº 11.075 de 19/05/2022", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 11, Parágrafo Único", "art": "11", "acao": "regulamentou"}]},
+{"data": "2024-06-27", "nome": "Lei nº 14.904 de 27/06/2024", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14904-2024-06-27"},
+{"data": "2024-12-11", "nome": "Lei nº 15.042 de 11/12/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 8", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 9, caput", "art": "9", "acao": "revogou"}], "id": "federal/leis-ordinarias/2024/lei-15042-2024-12-11"},
+{"data": "2026-09-22", "nome": "Lei nº 15.512 de 22/09/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 1", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2026/lei-15512-2026-09-22"}
+],
+"controle": []
+}

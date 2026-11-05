@@ -1,0 +1,22 @@
+{
+"id": "federal/decretos-lei/1973/del-1302-1973-12-31",
+"urn": "urn:lex:br:federal:decreto.lei:1973-12-31;1302",
+"consultado_em": "2026-11-04",
+"codigo": "525225",
+"nome": "Decreto-Lei nº 1.302 de 31/12/1973",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-12-31", "descricao": "Publicação Original [Diário Oficial da União de 31/12/1973] (p. 13548, col. 3)"}
+],
+"alteracoes": [
+{"data": "1974-03-14", "nome": "Decreto-Lei nº 1.322 de 14/03/1974", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/decretos-lei/1974/del-1322-1974-03-14"},
+{"data": "1974-04-23", "nome": "Decreto Legislativo nº 17 de 23/04/1974", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1974-07-23", "nome": "Decreto-Lei nº 1.338 de 23/07/1974", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}], "id": "federal/decretos-lei/1974/del-1338-1974-07-23"},
+{"data": "1975-01-21", "nome": "Decreto nº 75.247 de 21/01/1975", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1976-12-07", "nome": "Decreto-Lei nº 1.494 de 07/12/1976", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, § 1", "art": "7", "acao": "alterou"}], "id": "federal/decretos-lei/1976/del-1494-1976-12-07"},
+{"data": "1977-11-29", "nome": "Decreto-Lei nº 1.584 de 29/11/1977", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1977/del-1584-1977-11-29"},
+{"data": "1985-12-23", "nome": "Lei nº 7.450 de 23/12/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7450-1985-12-23"},
+{"data": "1988-02-10", "nome": "Decreto-Lei nº 2.413 de 10/02/1988", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "correlato"}], "id": "federal/decretos-lei/1988/del-2413-1988-02-10"}
+],
+"controle": []
+}

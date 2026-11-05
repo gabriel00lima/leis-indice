@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1937/lei-492-1937-08-30",
+"urn": "urn:lex:br:federal:lei:1937-08-30;492",
+"consultado_em": "2026-11-04",
+"codigo": "541897",
+"nome": "Lei nº 492 de 30/08/1937",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1937-09-01", "descricao": "Publicação Original [Diário Oficial da União de 01/09/1937] (p. 18382, col. 2)"}
+],
+"alteracoes": [
+{"data": "1965-05-20", "nome": "Resolução do Senado Federal nº 48 de 20/05/1965", "tipo": "Suspensão Permanente da Norma No Todo", "dispositivos": []},
+{"data": "2022-07-20", "nome": "Lei nº 14.421 de 20/07/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 1", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2022/lei-14421-2022-07-20"}
+],
+"controle": []
+}

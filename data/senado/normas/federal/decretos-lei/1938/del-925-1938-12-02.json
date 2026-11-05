@@ -1,0 +1,20 @@
+{
+"id": "federal/decretos-lei/1938/del-925-1938-12-02",
+"urn": "urn:lex:br:federal:decreto.lei:1938-12-02;925",
+"consultado_em": "2026-11-04",
+"codigo": "524474",
+"nome": "Decreto-Lei nº 925 de 02/12/1938",
+"apelidos": [
+"Código da Justiça Militar (1938) (CJM)"
+],
+"publicacoes": [
+{"tipo": "REP", "data": "1938-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1938 - vol. 004] (p. 194, col. 1)"}
+],
+"alteracoes": [
+{"data": "1942-01-15", "nome": "Decreto-Lei nº 4.023 de 15/01/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4023-1942-01-15"},
+{"data": "1942-04-02", "nome": "Decreto-Lei nº 4.225 de 02/04/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4225-1942-04-02"},
+{"data": "1942-04-06", "nome": "Decreto-Lei nº 4.235 de 06/04/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4235-1942-04-06"},
+{"data": "1943-09-28", "nome": "Decreto-Lei nº 5.857 de 28/09/1943", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1943/del-5857-1943-09-28"}
+],
+"controle": []
+}

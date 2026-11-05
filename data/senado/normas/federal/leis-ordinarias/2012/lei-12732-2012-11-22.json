@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2012/lei-12732-2012-11-22",
+"urn": "urn:lex:br:federal:lei:2012-11-22;12732",
+"consultado_em": "2026-11-04",
+"codigo": "588108",
+"nome": "Lei nº 12.732 de 22/11/2012",
+"apelidos": [
+"Lei dos 60 Dias"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2012-11-23", "descricao": "Publicação Original [Diário Oficial da União de 23/11/2012] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2018-06-25", "nome": "Lei nº 13.685 de 25/06/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4-A, caput", "art": "4-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2018/lei-13685-2018-06-25"},
+{"data": "2019-10-30", "nome": "Lei nº 13.896 de 30/10/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 3", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2019/lei-13896-2019-10-30"},
+{"data": "2022-09-21", "nome": "Lei nº 14.450 de 21/09/2022", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "correlato"}], "id": "federal/leis-ordinarias/2022/lei-14450-2022-09-21"},
+{"data": "2025-05-30", "nome": "Medida Provisória nº 1.301 de 30/05/2025", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "acrescentou"}]},
+{"data": "2025-10-07", "nome": "Lei nº 15.233 de 07/10/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-B", "art": "2-b", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2025/lei-15233-2025-10-07"}
+],
+"controle": []
+}

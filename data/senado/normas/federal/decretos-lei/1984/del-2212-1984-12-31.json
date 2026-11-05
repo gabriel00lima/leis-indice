@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1984/del-2212-1984-12-31",
+"urn": "urn:lex:br:federal:decreto.lei:1984-12-31;2212",
+"consultado_em": "2026-11-04",
+"codigo": "527037",
+"nome": "Decreto-Lei nº 2.212 de 31/12/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1985-01-03", "descricao": "Publicação Original [Diário Oficial da União de 03/01/1985] (p. 23, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-02-05", "nome": "Decreto-Lei nº 2.242 de 05/02/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único, Inciso 3, Alínea e", "art": "1", "acao": "acrescentou"}], "id": "federal/decretos-lei/1985/del-2242-1985-02-05"},
+{"data": "1985-03-18", "nome": "Decreto-Lei nº 2.276 de 18/03/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/decretos-lei/1985/del-2276-1985-03-18"}
+],
+"controle": []
+}

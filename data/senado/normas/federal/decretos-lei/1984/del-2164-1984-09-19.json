@@ -1,0 +1,22 @@
+{
+"id": "federal/decretos-lei/1984/del-2164-1984-09-19",
+"urn": "urn:lex:br:federal:decreto.lei:1984-09-19;2164",
+"consultado_em": "2026-11-04",
+"codigo": "526941",
+"nome": "Decreto-Lei nº 2.164 de 19/09/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-09-21", "descricao": "Publicação Original [Diário Oficial da União de 21/09/1984] (p. 13793, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-01-31", "nome": "Decreto-Lei nº 2.240 de 31/01/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 9, § 2", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}], "id": "federal/decretos-lei/1985/del-2240-1985-01-31"},
+{"data": "1988-01-05", "nome": "Decreto-Lei nº 2.406 de 05/01/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}], "id": "federal/decretos-lei/1988/del-2406-1988-01-05"},
+{"data": "1990-03-14", "nome": "Lei nº 8.004 de 14/03/1990", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}], "id": "federal/leis-ordinarias/1990/lei-8004-1990-03-14"},
+{"data": "1993-04-24", "nome": "Medida Provisória nº 318 de 24/04/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-05-26", "nome": "Medida Provisória nº 323 de 26/05/1993", "tipo": "Revogação Provisória das Disposições em Contrário da Norma no Todo", "dispositivos": []},
+{"data": "1993-06-25", "nome": "Medida Provisória nº 328 de 25/06/1993", "tipo": "Revogação Provisória das Disposições em Contrário da Norma no Todo", "dispositivos": []},
+{"data": "1993-07-28", "nome": "Lei nº 8.692 de 28/07/1993", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "revogou"}], "id": "federal/leis-ordinarias/1993/lei-8692-1993-07-28"},
+{"data": "2021-09-17", "nome": "Decreto nº 10.802 de 17/09/2021", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "regulamentou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "regulamentou"}]}
+],
+"controle": []
+}

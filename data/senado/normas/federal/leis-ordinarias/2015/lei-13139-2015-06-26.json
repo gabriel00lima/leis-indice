@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2015/lei-13139-2015-06-26",
+"urn": "urn:lex:br:federal:lei:2015-06-26;13139",
+"consultado_em": "2026-11-04",
+"codigo": "584951",
+"nome": "Lei nº 13.139 de 26/06/2015",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2015-06-29", "descricao": "Publicação Original [Diário Oficial da União de 29/06/2015] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2015-08-31", "nome": "Medida Provisória nº 691 de 31/08/2015", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]},
+{"data": "2015-12-30", "nome": "Lei nº 13.240 de 30/12/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2015/lei-13240-2015-12-30"},
+{"data": "2016-12-22", "nome": "Medida Provisória nº 759 de 22/12/2016", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 11, caput", "art": "11", "acao": "alterou"}]},
+{"data": "2017-07-11", "nome": "Lei nº 13.465 de 11/07/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11, caput", "art": "11", "acao": "alterou"}], "id": "federal/leis-ordinarias/2017/lei-13465-2017-07-11"}
+],
+"controle": []
+}

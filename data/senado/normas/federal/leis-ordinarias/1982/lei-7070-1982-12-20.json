@@ -1,0 +1,26 @@
+{
+"id": "federal/leis-ordinarias/1982/lei-7070-1982-12-20",
+"urn": "urn:lex:br:federal:lei:1982-12-20;7070",
+"consultado_em": "2026-11-04",
+"codigo": "548946",
+"nome": "Lei nº 7.070 de 20/12/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-12-21", "descricao": "Publicação Original [Diário Oficial da União de 21/12/1982] (p. 23865, col. 2)"}
+],
+"alteracoes": [
+{"data": "1993-07-20", "nome": "Lei nº 8.686 de 20/07/1993", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1993/lei-8686-1993-07-20"},
+{"data": "1997-09-25", "nome": "Medida Provisória nº 1.523-12 de 25/09/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "alterou"}]},
+{"data": "1997-10-23", "nome": "Medida Provisória nº 1.523-13 de 23/10/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "alterou"}]},
+{"data": "1997-11-10", "nome": "Medida Provisória nº 1.596-14 de 10/11/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "alterou"}]},
+{"data": "1997-12-10", "nome": "Lei nº 9.528 de 10/12/1997", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/1997/lei-9528-1997-12-10"},
+{"data": "2001-06-22", "nome": "Medida Provisória nº 2.129-10 de 22/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, § 2", "art": "3", "acao": "alterou"}]},
+{"data": "2001-06-28", "nome": "Medida Provisória nº 2.187-11 de 28/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, § 2", "art": "3", "acao": "alterou"}]},
+{"data": "2001-07-27", "nome": "Medida Provisória nº 2.187-12 de 27/07/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, § 2", "art": "3", "acao": "alterou"}]},
+{"data": "2001-08-24", "nome": "Medida Provisória nº 2.187-13 de 24/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, § 2", "art": "3", "acao": "alterou"}]},
+{"data": "2004-06-04", "nome": "Lei nº 10.877 de 04/06/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-10877-2004-06-04"},
+{"data": "2008-06-23", "nome": "Lei nº 11.727 de 23/06/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4-A", "art": "4-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2008/lei-11727-2008-06-23"},
+{"data": "2010-01-13", "nome": "Lei nº 12.190 de 13/01/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2010/lei-12190-2010-01-13"}
+],
+"controle": []
+}

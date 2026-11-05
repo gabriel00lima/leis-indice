@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1940/del-1985-1940-01-29",
+"urn": "urn:lex:br:federal:decreto.lei:1940-01-29;1985",
+"consultado_em": "2026-11-04",
+"codigo": "526578",
+"nome": "Decreto-Lei nº 1.985 de 29/01/1940",
+"apelidos": [
+"Código de Minas (1940) (CM)"
+],
+"publicacoes": [
+{"tipo": "REP", "data": "1940-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1940 - vol. 001] (p. 40, col. 1)"}
+],
+"alteracoes": [
+{"data": "1941-10-29", "nome": "Decreto-Lei nº 3.772 de 29/10/1941", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 80, Parágrafo Único", "art": "80", "acao": "revogou"}], "id": "federal/decretos-lei/1941/del-3772-1941-10-29"},
+{"data": "1943-02-12", "nome": "Decreto-Lei nº 5.247 de 12/02/1943", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1943/del-5247-1943-02-12"},
+{"data": "1967-02-28", "nome": "Decreto-Lei nº 227 de 28/02/1967", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1967/del-227-1967-02-28"}
+],
+"controle": []
+}

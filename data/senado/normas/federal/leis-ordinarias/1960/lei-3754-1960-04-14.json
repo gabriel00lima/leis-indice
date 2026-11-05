@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/1960/lei-3754-1960-04-14",
+"urn": "urn:lex:br:federal:lei:1960-04-14;3754",
+"consultado_em": "2026-11-04",
+"codigo": "545572",
+"nome": "Lei nº 3.754 de 14/04/1960",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1960-04-18", "descricao": "Publicação Original [Diário Oficial da União de 18/04/1960] (p. 7258, col. 1)"}
+],
+"alteracoes": [
+{"data": "1961-05-19", "nome": "Lei nº 3.897 de 19/05/1961", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/leis-ordinarias/1961/lei-3897-1961-05-19"},
+{"data": "1962-11-08", "nome": "Decreto do Conselho de MInistros nº 1.489 de 08/11/1962", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1967-01-25", "nome": "Decreto-Lei nº 113 de 25/01/1967", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1967/del-113-1967-01-25"},
+{"data": "1967-01-25", "nome": "Decreto-Lei nº 114 de 25/01/1967", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1967/del-114-1967-01-25"},
+{"data": "1967-01-25", "nome": "Decreto-Lei nº 115 de 25/01/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/decretos-lei/1967/del-115-1967-01-25"},
+{"data": "1967-02-28", "nome": "Decreto-Lei nº 246 de 28/02/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1967/del-246-1967-02-28"},
+{"data": "1979-12-10", "nome": "Lei nº 6.750 de 10/12/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6750-1979-12-10"},
+{"data": "1987-11-10", "nome": "Lei nº 7.627 de 10/11/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1987/lei-7627-1987-11-10"},
+{"data": "1989-01-09", "nome": "Lei nº 7.728 de 09/01/1989", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7728-1989-01-09"}
+],
+"controle": []
+}

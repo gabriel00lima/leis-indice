@@ -1,0 +1,26 @@
+{
+"id": "federal/leis-ordinarias/2006/lei-11438-2006-12-29",
+"urn": "urn:lex:br:federal:lei:2006-12-29;11438",
+"consultado_em": "2026-11-04",
+"codigo": "572590",
+"nome": "Lei nº 11.438 de 29/12/2006",
+"apelidos": [
+"Lei de Incentivo ao Esporte (2006)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2006-12-29", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 29/12/2006 - nº 249-A] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2006-12-29", "nome": "Medida Provisória nº 342 de 29/12/2006", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2007-05-02", "nome": "Lei nº 11.472 de 02/05/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 13-A, Parágrafo Único", "art": "13-a", "acao": "alterou"}, {"dispositivo": "Art. 13-B", "art": "13-b", "acao": "alterou"}, {"dispositivo": "Art. 13-C", "art": "13-c", "acao": "alterou"}], "id": "federal/leis-ordinarias/2007/lei-11472-2007-05-02"},
+{"data": "2007-08-03", "nome": "Decreto nº 6.180 de 03/08/2007", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2007-12-31", "nome": "Decreto nº 6.338 de 31/12/2007", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2008-12-09", "nome": "Decreto nº 6.684 de 09/12/2008", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2014-11-13", "nome": "Lei nº 13.043 de 13/11/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8, Parágrafo Único", "art": "8", "acao": "alterou"}], "id": "federal/leis-ordinarias/2014/lei-13043-2014-11-13"},
+{"data": "2015-08-04", "nome": "Lei nº 13.155 de 04/08/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2015/lei-13155-2015-08-04"},
+{"data": "2022-08-24", "nome": "Lei nº 14.439 de 24/08/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 7", "art": "1", "acao": "vetado"}, {"dispositivo": "Art. 3, caput, Inciso 5", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 13-A, caput", "art": "13-a", "acao": "alterou"}], "id": "federal/leis-ordinarias/2022/lei-14439-2022-08-24"},
+{"data": "2024-07-24", "nome": "Lei nº 14.933 de 24/07/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 5", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2024/lei-14933-2024-07-24"},
+{"data": "2025-11-26", "nome": "Lei Complementar nº 222 de 26/11/2025", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-complementares/2025/lcp-222-2025-11-26"}
+],
+"controle": []
+}

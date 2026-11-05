@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1938/del-794-1938-10-19",
+"urn": "urn:lex:br:federal:decreto.lei:1938-10-19;794",
+"consultado_em": "2026-11-04",
+"codigo": "524213",
+"nome": "Decreto-Lei nº 794 de 19/10/1938",
+"apelidos": [
+"Código de Pesca (1938)"
+],
+"publicacoes": [
+{"tipo": "REP", "data": "1938-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1938 - vol. 004] (p. 40, col. 1)"}
+],
+"alteracoes": [
+{"data": "1943-05-28", "nome": "Decreto-Lei nº 5.530 de 28/05/1943", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 69", "art": "69", "acao": "revogou"}], "id": "federal/decretos-lei/1943/del-5530-1943-05-28"},
+{"data": "1945-12-31", "nome": "Decreto-Lei nº 8.526 de 31/12/1945", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "revigorou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "revigorou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "revigorou"}, {"dispositivo": "Art. 69", "art": "69", "acao": "revigorou"}], "id": "federal/decretos-lei/1945/del-8526-1945-12-31"}
+],
+"controle": []
+}

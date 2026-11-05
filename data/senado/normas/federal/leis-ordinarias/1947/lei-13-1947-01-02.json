@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1947/lei-13-1947-01-02",
+"urn": "urn:lex:br:federal:lei:1947-01-02;13",
+"consultado_em": "2026-11-04",
+"codigo": "540827",
+"nome": "Lei nº 13 de 02/01/1947",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1947-01-15", "descricao": "Publicação Original [Diário Oficial da União de 15/01/1947] (p. 617, col. 1)"}
+],
+"alteracoes": [
+{"data": "1947-11-29", "nome": "Lei nº 161 de 29/11/1947", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1947/lei-161-1947-11-29"},
+{"data": "1947-12-31", "nome": "Lei nº 203 de 31/12/1947", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1947/lei-203-1947-12-31"}
+],
+"controle": []
+}

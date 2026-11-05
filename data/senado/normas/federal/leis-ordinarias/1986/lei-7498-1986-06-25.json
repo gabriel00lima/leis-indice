@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1986/lei-7498-1986-06-25",
+"urn": "urn:lex:br:federal:lei:1986-06-25;7498",
+"consultado_em": "2026-11-04",
+"codigo": "549374",
+"nome": "Lei nº 7.498 de 25/06/1986",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-06-26", "descricao": "Publicação Original [Diário Oficial da União de 26/06/1986] (p. 9273, col. 1)"}
+],
+"alteracoes": [
+{"data": "1987-06-08", "nome": "Decreto nº 94.406 de 08/06/1987", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1994-12-28", "nome": "Lei nº 8.967 de 28/12/1994", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 23, Parágrafo Único", "art": "23", "acao": "alterou"}], "id": "federal/leis-ordinarias/1994/lei-8967-1994-12-28"},
+{"data": "2022-08-04", "nome": "Lei nº 14.434 de 04/08/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 15-A, caput", "art": "15-a", "acao": "acrescentou"}, {"dispositivo": "Art. 15-A, Parágrafo Único", "art": "15-a", "acao": "acrescentou"}, {"dispositivo": "Art. 15-B, caput", "art": "15-b", "acao": "acrescentou"}, {"dispositivo": "Art. 15-B, Parágrafo Único", "art": "15-b", "acao": "acrescentou"}, {"dispositivo": "Art. 15-C, caput", "art": "15-c", "acao": "acrescentou"}, {"dispositivo": "Art. 15-C, Parágrafo Único", "art": "15-c", "acao": "acrescentou"}, {"dispositivo": "Art. 15-D, caput", "art": "15-d", "acao": "vetado"}], "id": "federal/leis-ordinarias/2022/lei-14434-2022-08-04"},
+{"data": "2023-06-20", "nome": "Lei nº 14.602 de 20/06/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 15-E, caput", "art": "15-e", "acao": "vetado"}, {"dispositivo": "Art. 15-E, Parágrafo Único", "art": "15-e", "acao": "vetado"}], "id": "federal/leis-ordinarias/2023/lei-14602-2023-06-20"}
+],
+"controle": []
+}

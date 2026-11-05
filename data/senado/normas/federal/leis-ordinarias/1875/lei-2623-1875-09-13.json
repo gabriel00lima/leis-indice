@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1875/lei-2623-1875-09-13",
+"urn": "urn:lex:br:federal:lei:1875-09-13;2623",
+"consultado_em": "2026-11-04",
+"codigo": "544431",
+"nome": "Lei nº 2.623 de 13/09/1875",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1875-12-31", "descricao": "Publicação Original [Coleção de Leis do Império do Brasil de 31/12/1875 - vol. 001] (p. 62, col. 1)"}
+],
+"alteracoes": [
+{"data": "1887-06-20", "nome": "Lei nº 3.317 de 20/06/1887", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/1887/lei-3317-1887-06-20"}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1941/del-3768-1941-10-28",
+"urn": "urn:lex:br:federal:decreto.lei:1941-10-28;3768",
+"consultado_em": "2026-11-04",
+"codigo": "528855",
+"nome": "Decreto-Lei nº 3.768 de 28/10/1941",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1941-10-31", "descricao": "Publicação Original [Diário Oficial da União de 31/10/1941] (p. 20840, col. 1)"},
+{"tipo": "REP", "data": "1941-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1941 - vol. 003] (p. 221, col. 1)"}
+],
+"alteracoes": [
+{"data": "1942-07-09", "nome": "Decreto-Lei nº 4.450 de 09/07/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4450-1942-07-09"},
+{"data": "1945-11-21", "nome": "Decreto-Lei nº 8.200 de 21/11/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-8200-1945-11-21"}
+],
+"controle": []
+}

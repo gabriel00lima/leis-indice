@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/1966/lei-5106-1966-09-02",
+"urn": "urn:lex:br:federal:lei:1966-09-02;5106",
+"consultado_em": "2026-11-04",
+"codigo": "546964",
+"nome": "Lei nº 5.106 de 02/09/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-09-05", "descricao": "Publicação Original [Diário Oficial da União de 05/09/1966] (p. 10204, col. 3)"}
+],
+"alteracoes": [
+{"data": "1966-11-30", "nome": "Decreto nº 59.615 de 30/11/1966", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1966-12-21", "nome": "Decreto-Lei nº 81 de 21/12/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1966/del-81-1966-12-21"},
+{"data": "1969-04-29", "nome": "Decreto nº 64.424 de 29/04/1969", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1970-06-16", "nome": "Decreto-Lei nº 1.106 de 16/06/1970", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1970/del-1106-1970-06-16"},
+{"data": "1970-11-16", "nome": "Decreto-Lei nº 1.134 de 16/11/1970", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1970/del-1134-1970-11-16"},
+{"data": "1971-04-29", "nome": "Decreto nº 68.565 de 29/04/1971", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1971-07-06", "nome": "Decreto-Lei nº 1.179 de 06/07/1971", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1971/del-1179-1971-07-06"},
+{"data": "1974-07-23", "nome": "Decreto-Lei nº 1.338 de 23/07/1974", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "revogou"}], "id": "federal/decretos-lei/1974/del-1338-1974-07-23"},
+{"data": "1976-12-23", "nome": "Decreto-Lei nº 1.503 de 23/12/1976", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1976/del-1503-1976-12-23"}
+],
+"controle": []
+}

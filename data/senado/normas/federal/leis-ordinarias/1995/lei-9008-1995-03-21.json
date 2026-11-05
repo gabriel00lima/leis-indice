@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9008-1995-03-21",
+"urn": "urn:lex:br:federal:lei:1995-03-21;9008",
+"consultado_em": "2026-11-04",
+"codigo": "550884",
+"nome": "Lei nº 9.008 de 21/03/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-03-22", "descricao": "Publicação Original [Diário Oficial da União de 22/03/1995] (p. 3885, col. 1)"}
+],
+"alteracoes": [
+{"data": "2015-07-06", "nome": "Lei nº 13.146 de 06/07/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 2, Inciso 2", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2015/lei-13146-2015-07-06"},
+{"data": "2025-09-17", "nome": "Medida Provisória nº 1.317 de 17/09/2025", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 9", "art": "2", "acao": "acrescentou"}]},
+{"data": "2026-02-25", "nome": "Lei nº 15.352 de 25/02/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 9", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15352-2026-02-25"}
+],
+"controle": []
+}

@@ -1,0 +1,29 @@
+{
+"id": "federal/leis-ordinarias/1974/lei-6184-1974-12-11",
+"urn": "urn:lex:br:federal:lei:1974-12-11;6184",
+"consultado_em": "2026-11-04",
+"codigo": "548060",
+"nome": "Lei nº 6.184 de 11/12/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-12-13", "descricao": "Publicação Original [Diário Oficial da União de 13/12/1974] (p. 14304, col. 2)"}
+],
+"alteracoes": [
+{"data": "1975-03-14", "nome": "Decreto nº 75.478 de 14/03/1975", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1975-07-14", "nome": "Lei nº 6.226 de 14/07/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1975/lei-6226-1975-07-14"},
+{"data": "1975-12-05", "nome": "Lei nº 6.278 de 05/12/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1975/lei-6278-1975-12-05"},
+{"data": "1975-12-29", "nome": "Decreto nº 76.925 de 29/12/1975", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1976-01-21", "nome": "Decreto nº 77.066 de 21/01/1976", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1977-05-20", "nome": "Decreto nº 79.711 de 20/05/1977", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1977-12-19", "nome": "Decreto nº 81.080 de 19/12/1977", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1979-01-24", "nome": "Decreto-Lei nº 1.660 de 24/01/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1660-1979-01-24"},
+{"data": "1979-05-16", "nome": "Decreto nº 83.456 de 16/05/1979", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1979-12-17", "nome": "Lei nº 6.757 de 17/12/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6757-1979-12-17"},
+{"data": "1980-05-19", "nome": "Lei nº 6.781 de 19/05/1980", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1980/lei-6781-1980-05-19"},
+{"data": "1982-12-21", "nome": "Lei nº 7.084 de 21/12/1982", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7084-1982-12-21"},
+{"data": "1983-05-10", "nome": "Decreto nº 88.295 de 10/05/1983", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1985-07-15", "nome": "Lei nº 7.345 de 15/07/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7345-1985-07-15"},
+{"data": "1987-11-05", "nome": "Lei nº 7.624 de 05/11/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1987/lei-7624-1987-11-05"}
+],
+"controle": []
+}

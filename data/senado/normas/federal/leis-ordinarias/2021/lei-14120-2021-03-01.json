@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2021/lei-14120-2021-03-01",
+"urn": "urn:lex:br:federal:lei:2021-03-01;14120",
+"consultado_em": "2026-11-04",
+"codigo": "33265892",
+"nome": "Lei nº 14.120 de 01/03/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-03-02", "descricao": "Publicação Original [Diário Oficial da União de 02/03/2021] (p. 3, col. 2)"},
+{"tipo": "VEP", "data": "2021-06-11", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União de 11/06/2021] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2021-03-01", "nome": "Mensagem de Veto Parcial nº 55 de 01/03/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-03-01", "nome": "Mensagem de Veto Parcial nº 55 de 01/03/2021", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2013/lei-12813-2013-05-16",
+"urn": "urn:lex:br:federal:lei:2013-05-16;12813",
+"consultado_em": "2026-11-04",
+"codigo": "588189",
+"nome": "Lei nº 12.813 de 16/05/2013",
+"apelidos": [
+"Lei de Conflito de Interesses na Administração Pública Federal (2013)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2013-05-17", "descricao": "Publicação Original [Diário Oficial da União de 17/05/2013] (p. 1, col. 2)"},
+{"tipo": "RET", "data": "2013-05-20", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 20/05/2013] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2017-07-26", "nome": "Medida Provisória nº 792 de 26/07/2017", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 9, caput", "art": "9", "acao": "alterou"}]},
+{"data": "2020-12-09", "nome": "Decreto nº 10.571 de 09/12/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 9, caput, Inciso 1", "art": "9", "acao": "regulamentou"}]},
+{"data": "2021-12-09", "nome": "Decreto nº 10.889 de 09/12/2021", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 5, caput, Inciso 6", "art": "5", "acao": "regulamentou"}, {"dispositivo": "Art. 11, caput", "art": "11", "acao": "regulamentou"}]}
+],
+"controle": []
+}

@@ -1,0 +1,26 @@
+{
+"id": "federal/leis-ordinarias/2009/lei-12114-2009-12-09",
+"urn": "urn:lex:br:federal:lei:2009-12-09;12114",
+"consultado_em": "2026-11-04",
+"codigo": "580806",
+"nome": "Lei nº 12.114 de 09/12/2009",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2009-12-10", "descricao": "Publicação Original [Diário Oficial da União de 10/12/2009] (p. 9, col. 1)"},
+{"tipo": "RET", "data": "2009-12-11", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 11/12/2009] (p. 14, col. 1)"}
+],
+"alteracoes": [
+{"data": "2010-10-26", "nome": "Decreto nº 7.343 de 26/10/2010", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2018-09-10", "nome": "Medida Provisória nº 851 de 10/09/2018", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 7", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 8", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, caput, Inciso 9", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 5, § 5", "art": "5", "acao": "acrescentou"}]},
+{"data": "2018-11-22", "nome": "Decreto nº 9.578 de 22/11/2018", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2019-01-04", "nome": "Lei nº 13.800 de 04/01/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 7", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 8", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, caput, Inciso 9", "art": "3", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2019/lei-13800-2019-01-04"},
+{"data": "2022-12-26", "nome": "Medida Provisória nº 1.151 de 26/12/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5, caput, Inciso 1", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 7, Parágrafo Único", "art": "7", "acao": "alterou"}]},
+{"data": "2023-05-24", "nome": "Lei nº 14.590 de 24/05/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, caput, Inciso 1", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 7, Parágrafo Único", "art": "7", "acao": "alterou"}], "id": "federal/leis-ordinarias/2023/lei-14590-2023-05-24"},
+{"data": "2024-04-22", "nome": "Medida Provisória nº 1.213 de 22/04/2024", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2024-04-22", "nome": "Medida Provisória nº 1.213 de 22/04/2024", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 7, caput", "art": "7", "acao": "ressalvou"}]},
+{"data": "2024-06-27", "nome": "Lei nº 14.904 de 27/06/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, § 5", "art": "5", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2024/lei-14904-2024-06-27"},
+{"data": "2024-10-10", "nome": "Lei nº 14.995 de 10/10/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, caput", "art": "7", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2024/lei-14995-2024-10-10"},
+{"data": "2024-10-10", "nome": "Lei nº 14.995 de 10/10/2024", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14995-2024-10-10"}
+],
+"controle": []
+}

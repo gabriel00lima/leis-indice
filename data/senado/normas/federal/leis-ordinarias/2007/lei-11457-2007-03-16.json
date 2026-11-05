@@ -1,0 +1,39 @@
+{
+"id": "federal/leis-ordinarias/2007/lei-11457-2007-03-16",
+"urn": "urn:lex:br:federal:lei:2007-03-16;11457",
+"consultado_em": "2026-11-04",
+"codigo": "572609",
+"nome": "Lei nº 11.457 de 16/03/2007",
+"apelidos": [
+"Lei da Super Receita (2007)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2007-03-19", "descricao": "Publicação Original [Diário Oficial da União de 19/03/2007] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2007-03-16", "nome": "Medida Provisória nº 359 de 16/03/2007", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 12, § 4", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 12, § 5", "art": "12", "acao": "alterou"}]},
+{"data": "2007-06-20", "nome": "Lei nº 11.490 de 20/06/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7-A", "art": "7-a", "acao": "alterou"}], "id": "federal/leis-ordinarias/2007/lei-11490-2007-06-20"},
+{"data": "2007-06-21", "nome": "Decreto nº 6.131 de 21/06/2007", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 11, § 2", "art": "11", "acao": "regulamentou"}]},
+{"data": "2007-07-11", "nome": "Lei nº 11.501 de 11/07/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 21, caput, Inciso 1", "art": "21", "acao": "alterou"}], "id": "federal/leis-ordinarias/2007/lei-11501-2007-07-11"},
+{"data": "2007-09-05", "nome": "Lei nº 11.518 de 05/09/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 18-A", "art": "18-a", "acao": "alterou"}], "id": "federal/leis-ordinarias/2007/lei-11518-2007-09-05"},
+{"data": "2007-10-24", "nome": "Lei nº 11.531 de 24/10/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 33", "art": "33", "acao": "alterou"}], "id": "federal/leis-ordinarias/2007/lei-11531-2007-10-24"},
+{"data": "2007-10-25", "nome": "Decreto nº 6.248 de 25/10/2007", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 12, § 4", "art": "12", "acao": "regulamentou"}]},
+{"data": "2009-02-02", "nome": "Lei nº 11.907 de 02/02/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, caput, Inciso 2", "art": "10", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-11907-2009-02-02"},
+{"data": "2009-12-23", "nome": "Lei nº 12.154 de 23/12/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-12154-2009-12-23"},
+{"data": "2011-09-29", "nome": "Decreto nº 7.574 de 29/09/2011", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [{"dispositivo": "Art. 26, Parágrafo Único", "art": "26", "acao": "com novo tratamento da matéria"}, {"dispositivo": "Art. 44", "art": "44", "acao": "com novo tratamento da matéria"}]},
+{"data": "2016-04-05", "nome": "Lei nº 13.266 de 05/04/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, caput, Inciso 2", "art": "10", "acao": "vetado"}], "id": "federal/leis-ordinarias/2016/lei-13266-2016-04-05"},
+{"data": "2016-12-29", "nome": "Medida Provisória nº 765 de 29/12/2016", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 14, Parágrafo Único, apenas o Caput", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 14, Parágrafo Único, Inciso 1", "art": "14", "acao": "alterou"}]},
+{"data": "2017-07-10", "nome": "Lei nº 13.464 de 10/07/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 14, Parágrafo Único, apenas o Caput", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 14, Parágrafo Único, Inciso 1", "art": "14", "acao": "alterou"}], "id": "federal/leis-ordinarias/2017/lei-13464-2017-07-10"},
+{"data": "2018-05-30", "nome": "Lei nº 13.670 de 30/05/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 25, § 2", "art": "25", "acao": "revogou"}, {"dispositivo": "Art. 26, caput", "art": "26", "acao": "alterou"}, {"dispositivo": "Art. 26, Parágrafo Único", "art": "26", "acao": "revogou"}, {"dispositivo": "Art. 26-A, caput", "art": "26-a", "acao": "acrescentou"}, {"dispositivo": "Art. 26-A, § 1", "art": "26-a", "acao": "acrescentou"}, {"dispositivo": "Art. 26-A, § 2", "art": "26-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2018/lei-13670-2018-05-30"},
+{"data": "2019-01-01", "nome": "Medida Provisória nº 870 de 01/01/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 14, caput", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 14, Parágrafo Único, apenas o Caput", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 14, Parágrafo Único, Inciso 1", "art": "14", "acao": "alterou"}]},
+{"data": "2019-06-18", "nome": "Lei nº 13.844 de 18/06/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14, caput", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 14, Parágrafo Único, apenas o Caput", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 14, Parágrafo Único, Inciso 1", "art": "14", "acao": "alterou"}], "id": "federal/leis-ordinarias/2019/lei-13844-2019-06-18"},
+{"data": "2020-03-31", "nome": "Medida Provisória nº 932 de 31/03/2020", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, § 1", "art": "3", "acao": "ressalvou"}]},
+{"data": "2023-06-14", "nome": "Lei nº 14.596 de 14/06/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 24, caput", "art": "24", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2023/lei-14596-2023-06-14"}
+],
+"controle": [
+{"data": "2020-08-04", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.068 de 04/08/2020", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 16, § 1", "art": "16", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "4068"}},
+{"data": "2023-11-24", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.151 de 24/11/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, caput, Inciso 2", "art": "10", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}], "decisao": {"classe": "ADI", "numero": "4151"}},
+{"data": "2023-11-24", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.616 de 24/11/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, caput, Inciso 2", "art": "10", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}], "decisao": {"classe": "ADI", "numero": "4616"}},
+{"data": "2023-11-24", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.966 de 24/11/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, caput, Inciso 2", "art": "10", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}], "decisao": {"classe": "ADI", "numero": "6966"}}
+]
+}

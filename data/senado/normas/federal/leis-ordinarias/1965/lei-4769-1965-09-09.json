@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4769-1965-09-09",
+"urn": "urn:lex:br:federal:lei:1965-09-09;4769",
+"consultado_em": "2026-11-04",
+"codigo": "546622",
+"nome": "Lei nº 4.769 de 09/09/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-09-13", "descricao": "Publicação Original [Diário Oficial da União de 13/09/1965] (p. 9337, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-06-20", "nome": "Decreto nº 58.670 de 20/06/1966", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1967-12-22", "nome": "Decreto nº 61.934 de 22/12/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1979-05-14", "nome": "Lei nº 6.642 de 14/05/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8, caput, Alínea g", "art": "8", "acao": "acrescentou"}, {"dispositivo": "Art. 9, caput, Alínea a", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}], "id": "federal/leis-ordinarias/1979/lei-6642-1979-05-14"},
+{"data": "1985-06-13", "nome": "Lei nº 7.321 de 13/06/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7321-1985-06-13"},
+{"data": "1994-04-26", "nome": "Lei nº 8.873 de 26/04/1994", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 11, § 1", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 13, Parágrafo Único", "art": "13", "acao": "alterou"}], "id": "federal/leis-ordinarias/1994/lei-8873-1994-04-26"}
+],
+"controle": []
+}

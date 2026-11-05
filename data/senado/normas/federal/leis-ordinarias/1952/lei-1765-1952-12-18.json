@@ -1,0 +1,42 @@
+{
+"id": "federal/leis-ordinarias/1952/lei-1765-1952-12-18",
+"urn": "urn:lex:br:federal:lei:1952-12-18;1765",
+"consultado_em": "2026-11-04",
+"codigo": "543499",
+"nome": "Lei nº 1.765 de 18/12/1952",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1952-12-18", "descricao": "Publicação Original [Diário Oficial da União de 18/12/1952] (p. 19225, col. 1)"}
+],
+"alteracoes": [
+{"data": "1953-03-06", "nome": "Resolução do Senado Federal nº 1 de 06/03/1953", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1953-07-23", "nome": "Decreto nº 33.361 de 23/07/1953", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "correlato"}]},
+{"data": "1953-07-24", "nome": "Decreto nº 33.373 de 24/07/1953", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "correlato"}]},
+{"data": "1953-07-27", "nome": "Decreto nº 33.398 de 27/07/1953", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "correlato"}]},
+{"data": "1953-07-31", "nome": "Decreto nº 33.432 de 31/07/1953", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "correlato"}]},
+{"data": "1953-07-31", "nome": "Decreto nº 33.433 de 31/07/1953", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "correlato"}]},
+{"data": "1953-07-31", "nome": "Decreto nº 33.434 de 31/07/1953", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "correlato"}]},
+{"data": "1953-08-03", "nome": "Decreto nº 33.439 de 03/08/1953", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "correlato"}]},
+{"data": "1953-08-05", "nome": "Decreto nº 33.470 de 05/08/1953", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "correlato"}]},
+{"data": "1953-08-05", "nome": "Decreto nº 33.471 de 05/08/1953", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "correlato"}]},
+{"data": "1953-08-17", "nome": "Decreto nº 33.572 de 17/08/1953", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "correlato"}]},
+{"data": "1953-08-17", "nome": "Decreto nº 33.573 de 17/08/1953", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "correlato"}]},
+{"data": "1953-08-18", "nome": "Decreto nº 33.582 de 18/08/1953", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "correlato"}]},
+{"data": "1953-08-20", "nome": "Decreto nº 33.631 de 20/08/1953", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6, Parágrafo Único", "art": "6", "acao": "correlato"}, {"dispositivo": "Art. 26", "art": "26", "acao": "correlato"}]},
+{"data": "1953-08-26", "nome": "Decreto nº 33.672 de 26/08/1953", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "correlato"}]},
+{"data": "1953-09-25", "nome": "Decreto nº 33.893 de 25/09/1953", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "correlato"}]},
+{"data": "1953-10-21", "nome": "Decreto nº 34.315 de 21/10/1953", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "correlato"}]},
+{"data": "1953-11-09", "nome": "Decreto nº 34.496 de 09/11/1953", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "correlato"}]},
+{"data": "1954-06-30", "nome": "Lei nº 2.250 de 30/06/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2250-1954-06-30"},
+{"data": "1954-07-05", "nome": "Decreto nº 35.773 de 05/07/1954", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1954-07-08", "nome": "Lei nº 2.262 de 08/07/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2262-1954-07-08"},
+{"data": "1955-01-24", "nome": "Lei nº 2.408 de 24/01/1955", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1955/lei-2408-1955-01-24"},
+{"data": "1955-02-01", "nome": "Lei nº 2.412 de 01/02/1955", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1955/lei-2412-1955-02-01"},
+{"data": "1955-03-02", "nome": "Decreto nº 36.968 de 02/03/1955", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1956-01-28", "nome": "Decreto nº 38.680 de 28/01/1956", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1956-12-22", "nome": "Lei nº 3.076 de 22/12/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-3076-1956-12-22"},
+{"data": "1957-12-20", "nome": "Lei nº 3.354 de 20/12/1957", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1957/lei-3354-1957-12-20"},
+{"data": "1962-03-20", "nome": "Decreto do Conselho de MInistros nº 762 de 20/03/1962", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

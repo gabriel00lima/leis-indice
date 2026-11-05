@@ -1,0 +1,21 @@
+{
+"id": "federal/decretos-lei/1986/del-2290-1986-11-21",
+"urn": "urn:lex:br:federal:decreto.lei:1986-11-21;2290",
+"consultado_em": "2026-11-04",
+"codigo": "527193",
+"nome": "Decreto-Lei nº 2.290 de 21/11/1986",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-11-24", "descricao": "Publicação Original [Diário Oficial da União de 24/11/1986] (p. 17553, col. 1)"},
+{"tipo": "RET", "data": "1986-11-25", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 25/11/1986] (p. 17684, col. 2)"}
+],
+"alteracoes": [
+{"data": "1986-12-18", "nome": "Decreto-Lei nº 2.306 de 18/12/1986", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, § 4", "art": "5", "acao": "alterou"}], "id": "federal/decretos-lei/1986/del-2306-1986-12-18"},
+{"data": "1987-02-26", "nome": "Decreto-Lei nº 2.322 de 26/02/1987", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1987/del-2322-1987-02-26"},
+{"data": "1987-04-15", "nome": "Decreto nº 94.233 de 15/04/1987", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1987-07-02", "nome": "Decreto nº 94.548 de 02/07/1987", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1989-06-08", "nome": "Medida Provisória nº 66 de 08/06/1989", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "1989-06-29", "nome": "Lei nº 7.786 de 29/06/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}], "id": "federal/leis-ordinarias/1989/lei-7786-1989-06-29"}
+],
+"controle": []
+}

@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1977/del-1551-1977-05-02",
+"urn": "urn:lex:br:federal:decreto.lei:1977-05-02;1551",
+"consultado_em": "2026-11-04",
+"codigo": "525723",
+"nome": "Decreto-Lei nº 1.551 de 02/05/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-05-03", "descricao": "Publicação Original [Diário Oficial da União de 03/05/1977] (p. 5123, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-06-29", "nome": "Decreto Legislativo nº 72 de 29/06/1977", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1978-03-06", "nome": "Decreto-Lei nº 1.619 de 06/03/1978", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1978/del-1619-1978-03-06"},
+{"data": "1980-12-23", "nome": "Decreto-Lei nº 1.839 de 23/12/1980", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1980/del-1839-1980-12-23"},
+{"data": "1985-07-02", "nome": "Lei nº 7.334 de 02/07/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/1985/lei-7334-1985-07-02"},
+{"data": "1987-11-05", "nome": "Decreto-Lei nº 2.367 de 05/11/1987", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/decretos-lei/1987/del-2367-1987-11-05"}
+],
+"controle": []
+}

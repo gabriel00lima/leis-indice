@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2017/lei-13431-2017-04-04",
+"urn": "urn:lex:br:federal:lei:2017-04-04;13431",
+"consultado_em": "2026-11-04",
+"codigo": "17674073",
+"nome": "Lei nº 13.431 de 04/04/2017",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2017-04-05", "descricao": "Publicação Original [Diário Oficial da União de 05/04/2017] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2018-12-10", "nome": "Decreto nº 9.603 de 10/12/2018", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2021-05-17", "nome": "Decreto nº 10.701 de 17/05/2021", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2022-05-24", "nome": "Lei nº 14.344 de 24/05/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 5", "art": "4", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14344-2022-05-24"},
+{"data": "2022-05-24", "nome": "Lei nº 14.344 de 24/05/2022", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14344-2022-05-24"},
+{"data": "2022-05-24", "nome": "Lei nº 14.344 de 24/05/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14344-2022-05-24"}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1985/lei-7408-1985-11-25",
+"urn": "urn:lex:br:federal:lei:1985-11-25;7408",
+"consultado_em": "2026-11-04",
+"codigo": "549284",
+"nome": "Lei nº 7.408 de 25/11/1985",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1985-11-26", "descricao": "Publicação Original [Diário Oficial da União de 26/11/1985] (p. 17213, col. 1)"}
+],
+"alteracoes": [
+{"data": "2015-03-02", "nome": "Lei nº 13.103 de 02/03/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, caput, Inciso 2", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2015/lei-13103-2015-03-02"},
+{"data": "2021-05-18", "nome": "Medida Provisória nº 1.050 de 18/05/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 1", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 1, § 2", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 3, caput", "art": "3", "acao": "alterou"}]},
+{"data": "2021-10-21", "nome": "Lei nº 14.229 de 21/10/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2-A, caput", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 3, caput", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4, caput", "art": "4", "acao": "revogou"}], "id": "federal/leis-ordinarias/2021/lei-14229-2021-10-21"}
+],
+"controle": []
+}

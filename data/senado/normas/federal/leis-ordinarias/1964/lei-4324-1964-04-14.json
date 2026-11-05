@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4324-1964-04-14",
+"urn": "urn:lex:br:federal:lei:1964-04-14;4324",
+"consultado_em": "2026-11-04",
+"codigo": "546173",
+"nome": "Lei nº 4.324 de 14/04/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-04-15", "descricao": "Publicação Original [Diário Oficial da União de 15/04/1964] (p. 3369, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-04-04", "nome": "Lei nº 5.254 de 04/04/1967", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1967/lei-5254-1967-04-04"},
+{"data": "1971-06-03", "nome": "Decreto nº 68.704 de 03/06/1971", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1973-12-10", "nome": "Lei nº 5.965 de 10/12/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-5965-1973-12-10"},
+{"data": "1977-01-18", "nome": "Decreto nº 79.137 de 18/01/1977", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1981-11-18", "nome": "Lei nº 6.955 de 18/11/1981", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 13", "art": "13", "acao": "alterou"}], "id": "federal/leis-ordinarias/1981/lei-6955-1981-11-18"}
+],
+"controle": []
+}

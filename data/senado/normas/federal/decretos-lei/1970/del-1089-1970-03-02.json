@@ -1,0 +1,26 @@
+{
+"id": "federal/decretos-lei/1970/del-1089-1970-03-02",
+"urn": "urn:lex:br:federal:decreto.lei:1970-03-02;1089",
+"consultado_em": "2026-11-04",
+"codigo": "524800",
+"nome": "Decreto-Lei nº 1.089 de 02/03/1970",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1970-03-03", "descricao": "Publicação Original [Diário Oficial da União de 03/03/1970] (p. 1569, col. 2)"}
+],
+"alteracoes": [
+{"data": "1970-05-27", "nome": "Decreto Legislativo nº 29 de 27/05/1970", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1971-03-01", "nome": "Decreto-Lei nº 1.153 de 01/03/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1971/del-1153-1971-03-01"},
+{"data": "1971-06-07", "nome": "Decreto-Lei nº 1.173 de 07/06/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1971/del-1173-1971-06-07"},
+{"data": "1971-12-27", "nome": "Decreto-Lei nº 1.198 de 27/12/1971", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}], "id": "federal/decretos-lei/1971/del-1198-1971-12-27"},
+{"data": "1973-08-20", "nome": "Decreto-Lei nº 1.283 de 20/08/1973", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1973/del-1283-1973-08-20"},
+{"data": "1974-07-23", "nome": "Decreto-Lei nº 1.338 de 23/07/1974", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}, {"dispositivo": "Art. 9, Parágrafo Único", "art": "9", "acao": "revogou"}], "id": "federal/decretos-lei/1974/del-1338-1974-07-23"},
+{"data": "1974-10-24", "nome": "Decreto-Lei nº 1.351 de 24/10/1974", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1974/del-1351-1974-10-24"},
+{"data": "1975-12-02", "nome": "Decreto-Lei nº 1.429 de 02/12/1975", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "alterou"}], "id": "federal/decretos-lei/1975/del-1429-1975-12-02"},
+{"data": "1979-12-27", "nome": "Decreto-Lei nº 1.741 de 27/12/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 13", "art": "13", "acao": "alterou"}], "id": "federal/decretos-lei/1979/del-1741-1979-12-27"},
+{"data": "1989-12-11", "nome": "Resolução do Senado Federal nº 81 de 11/12/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 18", "art": "18", "acao": "suspensão"}]},
+{"data": "1993-07-20", "nome": "Lei nº 8.685 de 20/07/1993", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 13", "art": "13", "acao": "alterou"}], "id": "federal/leis-ordinarias/1993/lei-8685-1993-07-20"},
+{"data": "1993-11-08", "nome": "Decreto nº 974 de 08/11/1993", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

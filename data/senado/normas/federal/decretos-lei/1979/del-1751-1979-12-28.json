@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1979/del-1751-1979-12-28",
+"urn": "urn:lex:br:federal:decreto.lei:1979-12-28;1751",
+"consultado_em": "2026-11-04",
+"codigo": "526112",
+"nome": "Decreto-Lei nº 1.751 de 28/12/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-12-28", "descricao": "Publicação Original [Diário Oficial da União de 28/12/1979] (p. 19989, col. 1)"}
+],
+"alteracoes": [
+{"data": "1980-08-13", "nome": "Decreto Legislativo nº 65 de 13/08/1980", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1980-12-23", "nome": "Decreto-Lei nº 1.839 de 23/12/1980", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1980/del-1839-1980-12-23"}
+],
+"controle": []
+}

@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-complementares/2001/lcp-109-2001-05-29",
+"urn": "urn:lex:br:federal:lei.complementar:2001-05-29;109",
+"consultado_em": "2026-11-04",
+"codigo": "572864",
+"nome": "Lei Complementar nº 109 de 29/05/2001",
+"apelidos": [
+"Lei da Previdência Privada (2001)",
+"Lei da Previdência Complementar (2001)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2001-05-30", "descricao": "Publicação Original [Diário Oficial da União de 30/05/2001] (p. 3, col. 1)"}
+],
+"alteracoes": [
+{"data": "2002-04-23", "nome": "Decreto nº 4.206 de 23/04/2002", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2003-12-30", "nome": "Decreto nº 4.942 de 30/12/2003", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 66", "art": "66", "acao": "regulamentou"}]},
+{"data": "2019-09-17", "nome": "Decreto nº 10.016 de 17/09/2019", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2025-01-15", "nome": "Lei Complementar nº 213 de 15/01/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 38, caput, Inciso 3", "art": "38", "acao": "alterou"}], "id": "federal/leis-complementares/2025/lcp-213-2025-01-15"}
+],
+"controle": []
+}

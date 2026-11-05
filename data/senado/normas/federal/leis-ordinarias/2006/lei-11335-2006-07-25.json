@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2006/lei-11335-2006-07-25",
+"urn": "urn:lex:br:federal:lei:2006-07-25;11335",
+"consultado_em": "2026-11-04",
+"codigo": "572120",
+"nome": "Lei nº 11.335 de 25/07/2006",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2006-07-26", "descricao": "Publicação Original [Diário Oficial da União de 26/07/2006] (p. 9, col. 2)"}
+],
+"alteracoes": [
+{"data": "2010-06-15", "nome": "Lei nº 12.256 de 15/06/2010", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "regulamentou"}], "id": "federal/leis-ordinarias/2010/lei-12256-2010-06-15"},
+{"data": "2010-06-30", "nome": "Lei nº 12.277 de 30/06/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, Parágrafo Único", "art": "5", "acao": "alterou"}], "id": "federal/leis-ordinarias/2010/lei-12277-2010-06-30"},
+{"data": "2026-02-17", "nome": "Lei nº 15.349 de 17/02/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, Parágrafo Único, Inciso 1", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2026/lei-15349-2026-02-17"},
+{"data": "2026-02-17", "nome": "Lei nº 15.349 de 17/02/2026", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "com novo tratamento da matéria"}, {"dispositivo": "Art. 5", "art": "5", "acao": "com novo tratamento da matéria"}], "id": "federal/leis-ordinarias/2026/lei-15349-2026-02-17"}
+],
+"controle": []
+}

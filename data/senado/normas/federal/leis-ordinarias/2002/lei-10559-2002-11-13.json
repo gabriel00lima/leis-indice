@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10559-2002-11-13",
+"urn": "urn:lex:br:federal:lei:2002-11-13;10559",
+"consultado_em": "2026-11-04",
+"codigo": "552435",
+"nome": "Lei nº 10.559 de 13/11/2002",
+"apelidos": [
+"Regime do Anistiado Político (2002)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-11-14", "descricao": "Publicação Original [Diário Oficial da União de 14/11/2002] (p. 6, col. 1)"}
+],
+"alteracoes": [
+{"data": "2003-08-27", "nome": "Decreto de 27/08/2003", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2003-11-25", "nome": "Decreto nº 4.897 de 25/11/2003", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 9, Parágrafo Único", "art": "9", "acao": "regulamentou"}]},
+{"data": "2006-06-29", "nome": "Medida Provisória nº 300 de 29/06/2006", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2006-10-19", "nome": "Lei nº 11.354 de 19/10/2006", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2006/lei-11354-2006-10-19"},
+{"data": "2019-01-01", "nome": "Medida Provisória nº 870 de 01/01/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10, caput", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 12, caput", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 12, § 1", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 12, § 2", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 12, § 4", "art": "12", "acao": "alterou"}]},
+{"data": "2019-06-18", "nome": "Lei nº 13.844 de 18/06/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, caput", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 12, caput", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 12, § 1", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 12, § 2", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 12, § 4", "art": "12", "acao": "alterou"}], "id": "federal/leis-ordinarias/2019/lei-13844-2019-06-18"},
+{"data": "2019-12-16", "nome": "Lei nº 13.954 de 16/12/2019", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2019/lei-13954-2019-12-16"}
+],
+"controle": []
+}

@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/1990/lei-7999-1990-01-31",
+"urn": "urn:lex:br:federal:lei:1990-01-31;7999",
+"consultado_em": "2026-11-04",
+"codigo": "549875",
+"nome": "Lei nº 7.999 de 31/01/1990",
+"apelidos": [
+"Lei Orçamentária Anual (LOA) (1990)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1990-02-01", "descricao": "Publicação Original [Diário Oficial da União de 01/02/1990] (p. 2193, col. 1)"},
+{"tipo": "REP", "data": "1990-02-05", "descricao": "Republicação Integral (Seq. 1) [Diário Oficial da União de 05/02/1990] (p. 2409, col. 1)"}
+],
+"alteracoes": [
+{"data": "1990-03-13", "nome": "Medida Provisória nº 146 de 13/03/1990", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1990-03-29", "nome": "Decreto nº 99.199 de 29/03/1990", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1990-04-08", "nome": "Lei nº 8.017 de 08/04/1990", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1990/lei-8017-1990-04-08"},
+{"data": "1990-05-17", "nome": "Decreto nº 99.259 de 17/05/1990", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1990-08-14", "nome": "Decreto nº 99.450 de 14/08/1990", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

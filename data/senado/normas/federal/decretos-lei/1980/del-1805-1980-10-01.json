@@ -1,0 +1,20 @@
+{
+"id": "federal/decretos-lei/1980/del-1805-1980-10-01",
+"urn": "urn:lex:br:federal:decreto.lei:1980-10-01;1805",
+"consultado_em": "2026-11-04",
+"codigo": "526220",
+"nome": "Decreto-Lei nº 1.805 de 01/10/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-10-02", "descricao": "Publicação Original [Diário Oficial da União de 02/10/1980] (p. 19554, col. 2)"},
+{"tipo": "RET", "data": "1980-10-07", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 07/10/1980] (p. 19922, col. 2)"}
+],
+"alteracoes": [
+{"data": "1980-12-04", "nome": "Decreto Legislativo nº 132 de 04/12/1980", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 11, Parágrafo Único", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}]},
+{"data": "1980-12-23", "nome": "Decreto-Lei nº 1.833 de 23/12/1980", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 11, Parágrafo Único", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}], "id": "federal/decretos-lei/1980/del-1833-1980-12-23"},
+{"data": "1982-03-22", "nome": "Decreto nº 87.043 de 22/03/1982", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1986-12-23", "nome": "Decreto-Lei nº 2.312 de 23/12/1986", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}], "id": "federal/decretos-lei/1986/del-2312-1986-12-23"},
+{"data": "1987-12-14", "nome": "Lei nº 7.635 de 14/12/1987", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1987/lei-7635-1987-12-14"}
+],
+"controle": []
+}

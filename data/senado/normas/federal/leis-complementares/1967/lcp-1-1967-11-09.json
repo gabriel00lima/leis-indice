@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-complementares/1967/lcp-1-1967-11-09",
+"urn": "urn:lex:br:federal:lei.complementar:1967-11-09;1",
+"consultado_em": "2026-11-04",
+"codigo": "540705",
+"nome": "Lei Complementar nº 1 de 09/11/1967",
+"apelidos": [
+"Lei Orgânica dos Municípios (1967)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-11-10", "descricao": "Publicação Original [Diário Oficial da União de 10/11/1967] (p. 11391, col. 1)"}
+],
+"alteracoes": [
+{"data": "1975-11-18", "nome": "Lei Complementar nº 28 de 18/11/1975", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}], "id": "federal/leis-complementares/1975/lcp-28-1975-11-18"},
+{"data": "1977-12-26", "nome": "Lei Complementar nº 32 de 26/12/1977", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}], "id": "federal/leis-complementares/1977/lcp-32-1977-12-26"},
+{"data": "1980-12-10", "nome": "Lei Complementar nº 39 de 10/12/1980", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/1980/lcp-39-1980-12-10"},
+{"data": "1984-08-21", "nome": "Lei Complementar nº 46 de 21/08/1984", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/1984/lcp-46-1984-08-21"}
+],
+"controle": []
+}

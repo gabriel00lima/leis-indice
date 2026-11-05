@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1898/lei-560-1898-12-31",
+"urn": "urn:lex:br:federal:lei:1898-12-31;560",
+"consultado_em": "2026-11-04",
+"codigo": "542045",
+"nome": "Lei nº 560 de 31/12/1898",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1898-12-31", "descricao": "Publicação Original [Coleção de Leis do Brasil de 31/12/1898 - vol. 001] (p. 57, col. 1)"}
+],
+"alteracoes": [
+{"data": "1899-03-14", "nome": "Decreto nº 3.230 de 14/03/1899", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

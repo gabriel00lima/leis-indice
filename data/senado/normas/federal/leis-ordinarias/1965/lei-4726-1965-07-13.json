@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4726-1965-07-13",
+"urn": "urn:lex:br:federal:lei:1965-07-13;4726",
+"consultado_em": "2026-11-04",
+"codigo": "546579",
+"nome": "Lei nº 4.726 de 13/07/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-07-15", "descricao": "Publicação Original [Diário Oficial da União de 15/07/1965] (p. 6649, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-01-19", "nome": "Decreto nº 57.651 de 19/01/1966", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1967-02-02", "nome": "Decreto-Lei nº 144 de 02/02/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1967/del-144-1967-02-02"},
+{"data": "1970-01-23", "nome": "Decreto nº 66.108 de 23/01/1970", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1974-06-12", "nome": "Lei nº 6.054 de 12/06/1974", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1974/lei-6054-1974-06-12"},
+{"data": "1975-03-12", "nome": "Decreto nº 75.470 de 12/03/1975", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1981-09-09", "nome": "Lei nº 6.939 de 09/09/1981", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1981/lei-6939-1981-09-09"},
+{"data": "1983-08-19", "nome": "Decreto-Lei nº 2.056 de 19/08/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11, caput, Inciso 2, Alínea b", "art": "11", "acao": "alterou"}], "id": "federal/decretos-lei/1983/del-2056-1983-08-19"},
+{"data": "1994-11-18", "nome": "Lei nº 8.934 de 18/11/1994", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1994/lei-8934-1994-11-18"}
+],
+"controle": []
+}

@@ -1,0 +1,35 @@
+{
+"id": "federal/leis-ordinarias/1999/lei-9847-1999-10-26",
+"urn": "urn:lex:br:federal:lei:1999-10-26;9847",
+"consultado_em": "2026-11-04",
+"codigo": "551723",
+"nome": "Lei nº 9.847 de 26/10/1999",
+"apelidos": [
+"Lei do Abastecimento Nacional de Combustíveis (1999)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1999-10-27", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 27/10/1999] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2000-08-11", "nome": "Medida Provisória nº 2.056 de 11/08/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10, caput, Inciso 5", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 10, § 2", "art": "10", "acao": "alterou"}]},
+{"data": "2000-09-12", "nome": "Medida Provisória nº 2.056-1 de 12/09/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10, caput, Inciso 5", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 10, § 2", "art": "10", "acao": "alterou"}]},
+{"data": "2000-10-11", "nome": "Medida Provisória nº 2.056-2 de 11/10/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10, caput, Inciso 5", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 10, § 2", "art": "10", "acao": "alterou"}]},
+{"data": "2000-11-09", "nome": "Medida Provisória nº 2.056-3 de 09/11/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10, caput, Inciso 5", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 10, § 2", "art": "10", "acao": "alterou"}]},
+{"data": "2000-12-07", "nome": "Medida Provisória nº 2.056-4 de 07/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10, caput, Inciso 5", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 10, § 2", "art": "10", "acao": "alterou"}]},
+{"data": "2000-12-27", "nome": "Medida Provisória nº 2.127-5 de 27/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10, caput, Inciso 5", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 10, § 2", "art": "10", "acao": "alterou"}]},
+{"data": "2001-01-26", "nome": "Medida Provisória nº 2.127-6 de 26/01/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10, caput, Inciso 5", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 10, § 2", "art": "10", "acao": "alterou"}]},
+{"data": "2001-02-20", "nome": "Lei nº 10.202 de 20/02/2001", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, caput, Inciso 5", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 10, § 2", "art": "10", "acao": "alterou"}], "id": "federal/leis-ordinarias/2001/lei-10202-2001-02-20"},
+{"data": "2004-09-13", "nome": "Medida Provisória nº 214 de 13/09/2004", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "alterou"}]},
+{"data": "2005-01-13", "nome": "Lei nº 11.097 de 13/01/2005", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 2", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 6", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 7", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 11", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 18", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 29", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 11, caput, Inciso 5", "art": "11", "acao": "acrescentou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "alterou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "alterou"}], "id": "federal/leis-ordinarias/2005/lei-11097-2005-01-13"},
+{"data": "2011-04-28", "nome": "Medida Provisória nº 532 de 28/04/2011", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 1, Inciso 3", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 1", "art": "3", "acao": "alterou"}]},
+{"data": "2011-09-16", "nome": "Lei nº 12.490 de 16/09/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 1, Inciso 3", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 1", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2011/lei-12490-2011-09-16"},
+{"data": "2018-12-17", "nome": "Decreto nº 9.616 de 17/12/2018", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2020-10-22", "nome": "Decreto nº 10.527 de 22/10/2020", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "correlato"}]},
+{"data": "2021-04-08", "nome": "Lei nº 14.134 de 08/04/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 20", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, caput, Inciso 20, Multa", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 10, caput, Inciso 6", "art": "10", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2021/lei-14134-2021-04-08"},
+{"data": "2021-05-28", "nome": "Decreto nº 10.708 de 28/05/2021", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "correlato"}]},
+{"data": "2024-10-08", "nome": "Lei nº 14.993 de 08/10/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2024/lei-14993-2024-10-08"},
+{"data": "2026-03-12", "nome": "Medida Provisória nº 1.340 de 12/03/2026", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 21, apenas o Caput", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, caput, Inciso 21, Multa", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, caput, Inciso 22, apenas o Caput", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, caput, Inciso 22, Multa", "art": "3", "acao": "acrescentou"}]},
+{"data": "2026-04-07", "nome": "Medida Provisória nº 1.349 de 07/04/2026", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 5, caput, Inciso 3", "art": "5", "acao": "alterou"}]}
+],
+"controle": []
+}

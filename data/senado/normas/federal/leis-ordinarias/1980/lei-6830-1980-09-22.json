@@ -1,0 +1,30 @@
+{
+"id": "federal/leis-ordinarias/1980/lei-6830-1980-09-22",
+"urn": "urn:lex:br:federal:lei:1980-09-22;6830",
+"consultado_em": "2026-11-04",
+"codigo": "548706",
+"nome": "Lei nº 6.830 de 22/09/1980",
+"apelidos": [
+"Lei de Execução Fiscal (1980)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-09-24", "descricao": "Publicação Original [Diário Oficial da União de 24/09/1980] (p. 19051, col. 1)"}
+],
+"alteracoes": [
+{"data": "1990-03-15", "nome": "Medida Provisória nº 169 de 15/03/1990", "tipo": "Novo Tratamento Provisório da Matería", "dispositivos": [{"dispositivo": "Art. 41", "art": "41", "acao": "com novo tratamento provisório da matéria"}]},
+{"data": "1990-03-15", "nome": "Medida Provisória nº 169 de 15/03/1990", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 4", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 5", "art": "2", "acao": "alterou"}]},
+{"data": "1990-04-17", "nome": "Medida Provisória nº 178 de 17/04/1990", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1993-07-09", "nome": "Decreto nº 861 de 09/07/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-02-04", "nome": "Medida Provisória nº 425 de 04/02/1994", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 9, caput, Inciso 1", "art": "9", "acao": "correlato"}]},
+{"data": "1994-03-09", "nome": "Medida Provisória nº 446 de 09/03/1994", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 9, caput, Inciso 1", "art": "9", "acao": "correlato"}]},
+{"data": "1994-04-15", "nome": "Lei nº 8.870 de 15/04/1994", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 9, caput, Inciso 1", "art": "9", "acao": "correlato"}], "id": "federal/leis-ordinarias/1994/lei-8870-1994-04-15"},
+{"data": "2004-12-29", "nome": "Lei nº 11.051 de 29/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 40", "art": "40", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11051-2004-12-29"},
+{"data": "2009-06-29", "nome": "Lei nº 11.960 de 29/06/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 40, § 5", "art": "40", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2009/lei-11960-2009-06-29"},
+{"data": "2011-09-29", "nome": "Decreto nº 7.574 de 29/09/2011", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [{"dispositivo": "Art. 38, Parágrafo Único", "art": "38", "acao": "com novo tratamento da matéria"}, {"dispositivo": "Art. 41", "art": "41", "acao": "com novo tratamento da matéria"}]},
+{"data": "2014-11-13", "nome": "Lei nº 13.043 de 13/11/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, caput, Inciso 2", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 9, caput, Inciso 2", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 9, § 2", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 9, § 3", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 15, caput, Inciso 1", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 16, caput, Inciso 2", "art": "16", "acao": "alterou"}], "id": "federal/leis-ordinarias/2014/lei-13043-2014-11-13"},
+{"data": "2023-09-20", "nome": "Lei nº 14.689 de 20/09/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9, caput", "art": "9", "acao": "vetado"}, {"dispositivo": "Art. 9, § 1-A", "art": "9", "acao": "vetado"}, {"dispositivo": "Art. 9, § 1-B", "art": "9", "acao": "vetado"}, {"dispositivo": "Art. 9, § 7", "art": "9", "acao": "acrescentou"}, {"dispositivo": "Art. 9, § 7", "art": "9", "acao": "vetado"}, {"dispositivo": "Art. 39, Parágrafo Único", "art": "39", "acao": "vetado"}], "id": "federal/leis-ordinarias/2023/lei-14689-2023-09-20"}
+],
+"controle": [
+{"data": "2021-06-24", "nome": "Acórdão da Arguição de Descumprimento de Preceito Fundamental nº 357 de 24/06/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 29, Parágrafo Único, apenas o Caput", "art": "29", "efeito": "constitucional", "texto": "Declarado Não Recepcionado pela Constituição"}, {"dispositivo": "Art. 29, Parágrafo Único, Inciso 1", "art": "29", "efeito": "constitucional", "texto": "Declarado Não Recepcionado pela Constituição"}, {"dispositivo": "Art. 29, Parágrafo Único, Inciso 2", "art": "29", "efeito": "constitucional", "texto": "Declarado Não Recepcionado pela Constituição"}, {"dispositivo": "Art. 29, Parágrafo Único, Inciso 3", "art": "29", "efeito": "constitucional", "texto": "Declarado Não Recepcionado pela Constituição"}], "decisao": {"classe": "ADPF", "numero": "357"}}
+]
+}

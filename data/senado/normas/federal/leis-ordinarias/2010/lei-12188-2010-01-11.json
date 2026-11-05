@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2010/lei-12188-2010-01-11",
+"urn": "urn:lex:br:federal:lei:2010-01-11;12188",
+"consultado_em": "2026-11-04",
+"codigo": "575830",
+"nome": "Lei nº 12.188 de 11/01/2010",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2010-01-12", "descricao": "Publicação Original [Diário Oficial da União de 12/01/2010] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2010-06-15", "nome": "Decreto nº 7.215 de 15/06/2010", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2023-03-22", "nome": "Decreto nº 11.452 de 22/03/2023", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2023-07-07", "nome": "Lei nº 14.615 de 07/07/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 15, caput, Inciso 2", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 15, Parágrafo Único", "art": "15", "acao": "renumerou"}, {"dispositivo": "Art. 15, Parágrafo Único", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 15, § 2", "art": "15", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14615-2023-07-07"}
+],
+"controle": []
+}

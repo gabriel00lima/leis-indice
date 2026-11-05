@@ -1,0 +1,36 @@
+{
+"id": "federal/leis-ordinarias/2000/lei-9985-2000-07-18",
+"urn": "urn:lex:br:federal:lei:2000-07-18;9985",
+"consultado_em": "2026-11-04",
+"codigo": "551861",
+"nome": "Lei nº 9.985 de 18/07/2000",
+"apelidos": [
+"Lei do Sistema Nacional de Unidades de Conservação da Natureza (Snuc) (2000)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-07-19", "descricao": "Publicação Original [Diário Oficial da União de 19/07/2000] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2001-06-05", "nome": "Decreto nº 3.834 de 05/06/2001", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 55", "art": "55", "acao": "regulamentou"}]},
+{"data": "2002-08-22", "nome": "Decreto nº 4.340 de 22/08/2002", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 15", "art": "15", "acao": "regulamentou"}, {"dispositivo": "Art. 17", "art": "17", "acao": "regulamentou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "regulamentou"}, {"dispositivo": "Art. 20", "art": "20", "acao": "regulamentou"}, {"dispositivo": "Art. 22", "art": "22", "acao": "regulamentou"}, {"dispositivo": "Art. 24", "art": "24", "acao": "regulamentou"}, {"dispositivo": "Art. 25", "art": "25", "acao": "regulamentou"}, {"dispositivo": "Art. 26", "art": "26", "acao": "regulamentou"}, {"dispositivo": "Art. 27", "art": "27", "acao": "regulamentou"}, {"dispositivo": "Art. 29", "art": "29", "acao": "regulamentou"}, {"dispositivo": "Art. 30", "art": "30", "acao": "regulamentou"}, {"dispositivo": "Art. 33", "art": "33", "acao": "regulamentou"}, {"dispositivo": "Art. 36", "art": "36", "acao": "regulamentou"}, {"dispositivo": "Art. 41", "art": "41", "acao": "regulamentou"}, {"dispositivo": "Art. 42", "art": "42", "acao": "regulamentou"}, {"dispositivo": "Art. 47", "art": "47", "acao": "regulamentou"}, {"dispositivo": "Art. 48", "art": "48", "acao": "regulamentou"}, {"dispositivo": "Art. 55", "art": "55", "acao": "regulamentou"}]},
+{"data": "2002-12-13", "nome": "Decreto nº 4.519 de 13/12/2002", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2005-02-18", "nome": "Medida Provisória nº 239 de 18/02/2005", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 22-A", "art": "22-a", "acao": "alterou"}]},
+{"data": "2005-07-04", "nome": "Lei nº 11.132 de 04/07/2005", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 22-A", "art": "22-a", "acao": "alterou"}], "id": "federal/leis-ordinarias/2005/lei-11132-2005-07-04"},
+{"data": "2006-04-05", "nome": "Decreto nº 5.746 de 05/04/2006", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 21", "art": "21", "acao": "regulamentou"}]},
+{"data": "2006-10-31", "nome": "Decreto nº 5.950 de 31/10/2006", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 57-A", "art": "57-a", "acao": "regulamentou"}]},
+{"data": "2006-10-31", "nome": "Medida Provisória nº 327 de 31/10/2006", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 27, § 4", "art": "27", "acao": "alterou"}, {"dispositivo": "Art. 57-A", "art": "57-a", "acao": "alterou"}]},
+{"data": "2007-03-21", "nome": "Lei nº 11.460 de 21/03/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 27", "art": "27", "acao": "alterou"}, {"dispositivo": "Art. 57-A", "art": "57-a", "acao": "alterou"}], "id": "federal/leis-ordinarias/2007/lei-11460-2007-03-21"},
+{"data": "2007-04-26", "nome": "Medida Provisória nº 366 de 26/04/2007", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6, caput, Inciso 3", "art": "6", "acao": "alterou"}]},
+{"data": "2007-08-28", "nome": "Lei nº 11.516 de 28/08/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, caput, Inciso 3", "art": "6", "acao": "alterou"}], "id": "federal/leis-ordinarias/2007/lei-11516-2007-08-28"},
+{"data": "2016-12-19", "nome": "Medida Provisória nº 758 de 19/12/2016", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 22, § 2", "art": "22", "acao": "ressalvou"}]},
+{"data": "2018-03-19", "nome": "Decreto nº 9.312 de 19/03/2018", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2018-03-19", "nome": "Decreto nº 9.313 de 19/03/2018", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2018-05-28", "nome": "Lei nº 13.668 de 28/05/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 36, § 4", "art": "36", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2018/lei-13668-2018-05-28"},
+{"data": "2021-02-09", "nome": "Decreto nº 10.623 de 09/02/2021", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 34, caput", "art": "34", "acao": "correlato"}, {"dispositivo": "Art. 34, Parágrafo Único", "art": "34", "acao": "correlato"}]},
+{"data": "2022-01-12", "nome": "Decreto nº 10.935 de 12/01/2022", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 36", "art": "36", "acao": "correlato"}]},
+{"data": "2025-08-08", "nome": "Lei nº 15.190 de 08/08/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 36, § 3", "art": "36", "acao": "alterou"}], "id": "federal/leis-ordinarias/2025/lei-15190-2025-08-08"}
+],
+"controle": [
+{"data": "2019-09-19", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 3.646 de 19/09/2019", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 22, caput", "art": "22", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 22, § 5", "art": "22", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 22, § 6", "art": "22", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "3646"}}
+]
+}

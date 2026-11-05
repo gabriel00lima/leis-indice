@@ -1,0 +1,26 @@
+{
+"id": "federal/leis-complementares/1990/lcp-64-1990-05-18",
+"urn": "urn:lex:br:federal:lei.complementar:1990-05-18;64",
+"consultado_em": "2026-11-04",
+"codigo": "540769",
+"nome": "Lei Complementar nº 64 de 18/05/1990",
+"apelidos": [
+"Lei das Inelegibilidades (1990)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1990-05-21", "descricao": "Publicação Original [Diário Oficial da União de 21/05/1990] (p. 9591, col. 1)"}
+],
+"alteracoes": [
+{"data": "1994-04-13", "nome": "Lei Complementar nº 81 de 13/04/1994", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1, Alínea b", "art": "1", "acao": "alterou"}], "id": "federal/leis-complementares/1994/lcp-81-1994-04-13"},
+{"data": "2010-06-04", "nome": "Lei Complementar nº 135 de 04/06/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 22", "art": "22", "acao": "alterou"}, {"dispositivo": "Art. 22, caput, Inciso 15", "art": "22", "acao": "revogou"}, {"dispositivo": "Art. 26-A", "art": "26-a", "acao": "acrescentou"}, {"dispositivo": "Art. 26-B", "art": "26-b", "acao": "acrescentou"}, {"dispositivo": "Art. 26-C", "art": "26-c", "acao": "acrescentou"}], "id": "federal/leis-complementares/2010/lcp-135-2010-06-04"},
+{"data": "2021-09-29", "nome": "Lei Complementar nº 184 de 29/09/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1, Alínea g", "art": "1", "acao": "ressalvou"}, {"dispositivo": "Art. 1, § 4-A", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-complementares/2021/lcp-184-2021-09-29"},
+{"data": "2025-09-29", "nome": "Lei Complementar nº 219 de 29/09/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1, Alínea d", "art": "1", "acao": "vetado"}, {"dispositivo": "Art. 1, § 4-F, Inciso 6", "art": "1", "acao": "vetado"}, {"dispositivo": "Art. 1, § 4-F, Inciso 9", "art": "1", "acao": "vetado"}, {"dispositivo": "Art. 26-D, caput", "art": "26-d", "acao": "acrescentou"}, {"dispositivo": "Art. 26-E, caput", "art": "26-e", "acao": "vetado"}], "id": "federal/leis-complementares/2025/lcp-219-2025-09-29"}
+],
+"controle": [
+{"data": "2019-12-05", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.934 de 05/12/2019", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1, § 2, Alínea l", "art": "1", "efeito": "constitucional", "texto": "Dispositivo com Parte de Texto Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "2934"}},
+{"data": "2020-08-17", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.089 de 17/08/2020", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1, Alínea b", "art": "1", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "4089"}},
+{"data": "2022-03-09", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.630 de 09/03/2022", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1, Inciso 1, Alínea e", "art": "1", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "6630"}},
+{"data": "2023-03-31", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.338 de 31/03/2023", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 22, caput, Inciso 14", "art": "22", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "6338"}},
+{"data": "2026-09-14", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 7.770 de 14/09/2026", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1, Alínea e, Item 9", "art": "1", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "7770"}}
+]
+}

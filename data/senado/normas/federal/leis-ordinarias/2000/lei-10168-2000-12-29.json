@@ -1,0 +1,24 @@
+{
+"id": "federal/leis-ordinarias/2000/lei-10168-2000-12-29",
+"urn": "urn:lex:br:federal:lei:2000-12-29;10168",
+"consultado_em": "2026-11-04",
+"codigo": "552044",
+"nome": "Lei nº 10.168 de 29/12/2000",
+"apelidos": [
+"Lei da Contribuição de Intervenção no Domínio Econômico (CIDE) - Tecnologia (2000)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-12-30", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 30/12/2000] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2001-10-03", "nome": "Decreto nº 3.949 de 03/10/2001", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2001-12-19", "nome": "Lei nº 10.332 de 19/12/2001", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 9", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2-A", "art": "2-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2001/lei-10332-2001-12-19"},
+{"data": "2002-04-11", "nome": "Decreto nº 4.195 de 11/04/2002", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2007-02-27", "nome": "Lei nº 11.452 de 27/02/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 1-A", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2007/lei-11452-2007-02-27"},
+{"data": "2010-10-28", "nome": "Medida Provisória nº 510 de 28/10/2010", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 6", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2-B", "art": "2-b", "acao": "acrescentou"}]},
+{"data": "2011-05-02", "nome": "Lei nº 12.402 de 02/05/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 6", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2-B", "art": "2-b", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2011/lei-12402-2011-05-02"},
+{"data": "2021-01-29", "nome": "Decreto nº 10.615 de 29/01/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 4", "art": "2", "acao": "ressalvou"}]},
+{"data": "2025-04-11", "nome": "Lei nº 15.122 de 11/04/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 4", "art": "2", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2025/lei-15122-2025-04-11"}
+],
+"controle": []
+}

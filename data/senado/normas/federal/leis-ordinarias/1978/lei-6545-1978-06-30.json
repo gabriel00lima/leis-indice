@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/1978/lei-6545-1978-06-30",
+"urn": "urn:lex:br:federal:lei:1978-06-30;6545",
+"consultado_em": "2026-11-04",
+"codigo": "548421",
+"nome": "Lei nº 6.545 de 30/06/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-07-04", "descricao": "Publicação Original [Diário Oficial da União de 04/07/1978] (p. 10233, col. 2)"}
+],
+"alteracoes": [
+{"data": "1982-06-21", "nome": "Decreto nº 87.310 de 21/06/1982", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1982-07-19", "nome": "Decreto nº 87.411 de 19/07/1982", "tipo": "Aprovação de Estatuto", "dispositivos": []},
+{"data": "1982-07-19", "nome": "Decreto nº 87.414 de 19/07/1982", "tipo": "Aprovação de Estatuto", "dispositivos": []},
+{"data": "1982-07-19", "nome": "Decreto nº 87.415 de 19/07/1982", "tipo": "Aprovação de Estatuto", "dispositivos": []},
+{"data": "1985-08-27", "nome": "Lei nº 7.350 de 27/08/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1985/lei-7350-1985-08-27"},
+{"data": "1993-09-28", "nome": "Lei nº 8.711 de 28/09/1993", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1993/lei-8711-1993-09-28"},
+{"data": "1994-12-08", "nome": "Lei nº 8.948 de 08/12/1994", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/1994/lei-8948-1994-12-08"}
+],
+"controle": []
+}

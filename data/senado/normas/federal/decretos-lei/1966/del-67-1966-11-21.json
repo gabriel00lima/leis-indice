@@ -1,0 +1,32 @@
+{
+"id": "federal/decretos-lei/1966/del-67-1966-11-21",
+"urn": "urn:lex:br:federal:decreto.lei:1966-11-21;67",
+"consultado_em": "2026-11-04",
+"codigo": "522776",
+"nome": "Decreto-Lei nº 67 de 21/11/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-22", "descricao": "Publicação Original [Diário Oficial da União de 22/11/1966] (p. 13508, col. 4)"}
+],
+"alteracoes": [
+{"data": "1967-02-02", "nome": "Decreto-Lei nº 141 de 02/02/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/decretos-lei/1967/del-141-1967-02-02"},
+{"data": "1967-02-28", "nome": "Decreto-Lei nº 306 de 28/02/1967", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1967/del-306-1967-02-28"},
+{"data": "1967-03-08", "nome": "Decreto nº 60.339 de 08/03/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1967-08-22", "nome": "Decreto nº 61.203 de 22/08/1967", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1968-03-28", "nome": "Decreto nº 62.479 de 28/03/1968", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1968-05-14", "nome": "Lei nº 5.434 de 14/05/1968", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1968/lei-5434-1968-05-14"},
+{"data": "1969-01-15", "nome": "Decreto nº 63.991 de 15/01/1969", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1969-02-06", "nome": "Decreto-Lei nº 456 de 06/02/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-456-1969-02-06"},
+{"data": "1970-08-14", "nome": "Decreto-Lei nº 1.120 de 14/08/1970", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1970/del-1120-1970-08-14"},
+{"data": "1972-12-11", "nome": "Lei nº 5.858 de 11/12/1972", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5858-1972-12-11"},
+{"data": "1977-11-29", "nome": "Lei nº 6.473 de 29/11/1977", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 14, Parágrafo Único", "art": "14", "acao": "revogou"}], "id": "federal/leis-ordinarias/1977/lei-6473-1977-11-29"},
+{"data": "1997-10-15", "nome": "Medida Provisória nº 1.592 de 15/10/1997", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1997-11-13", "nome": "Medida Provisória nº 1.592-1 de 13/11/1997", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1997-12-11", "nome": "Medida Provisória nº 1.592-2 de 11/12/1997", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1998-01-08", "nome": "Medida Provisória nº 1.592-3 de 08/01/1998", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1998-02-05", "nome": "Medida Provisória nº 1.592-4 de 05/02/1998", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1998-03-05", "nome": "Medida Provisória nº 1.592-5 de 05/03/1998", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1998-04-02", "nome": "Lei nº 9.617 de 02/04/1998", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1998/lei-9617-1998-04-02"}
+],
+"controle": []
+}

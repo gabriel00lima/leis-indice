@@ -1,0 +1,44 @@
+{
+"id": "federal/leis-ordinarias/2001/lei-10336-2001-12-19",
+"urn": "urn:lex:br:federal:lei:2001-12-19;10336",
+"consultado_em": "2026-11-04",
+"codigo": "552212",
+"nome": "Lei nº 10.336 de 19/12/2001",
+"apelidos": [
+"Lei da Contribuição de Intervenção no Domínio Econômico (CIDE) - Combustíveis (2001)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2001-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/2001] (p. 2, col. 3)"}
+],
+"alteracoes": [
+{"data": "2001-12-27", "nome": "Decreto nº 4.066 de 27/12/2001", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2002-09-04", "nome": "Medida Provisória nº 67 de 04/09/2002", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5, caput, Inciso 3", "art": "5", "acao": "alterou"}]},
+{"data": "2002-11-13", "nome": "Lei nº 10.560 de 13/11/2002", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2002/lei-10560-2002-11-13"},
+{"data": "2002-12-30", "nome": "Lei nº 10.636 de 30/12/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}], "id": "federal/leis-ordinarias/2002/lei-10636-2002-12-30"},
+{"data": "2003-01-01", "nome": "Decreto nº 4.565 de 01/01/2003", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2003-12-29", "nome": "Lei nº 10.833 de 29/12/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, § 2", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, § 3", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, § 4", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, § 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, § 6", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 8-A", "art": "8-a", "acao": "alterou"}], "id": "federal/leis-ordinarias/2003/lei-10833-2003-12-29"},
+{"data": "2004-01-21", "nome": "Medida Provisória nº 161 de 21/01/2004", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1-A", "art": "1-a", "acao": "alterou"}]},
+{"data": "2004-03-04", "nome": "Medida Provisória nº 171 de 04/03/2004", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1-A", "art": "1-a", "acao": "correlato"}]},
+{"data": "2004-03-31", "nome": "Medida Provisória nº 178 de 31/03/2004", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1-A", "art": "1-a", "acao": "correlato"}]},
+{"data": "2004-04-30", "nome": "Decreto nº 5.060 de 30/04/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "2004-04-30", "nome": "Lei nº 10.865 de 30/04/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-10865-2004-04-30"},
+{"data": "2004-05-04", "nome": "Lei nº 10.866 de 04/05/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1-A", "art": "1-a", "acao": "alterou"}, {"dispositivo": "Art. 1-B", "art": "1-b", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-10866-2004-05-04"},
+{"data": "2004-07-02", "nome": "Lei nº 10.890 de 02/07/2004", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1-A", "art": "1-a", "acao": "correlato"}], "id": "federal/leis-ordinarias/2004/lei-10890-2004-07-02"},
+{"data": "2004-07-23", "nome": "Lei nº 10.925 de 23/07/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14", "art": "14", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-10925-2004-07-23"},
+{"data": "2005-06-15", "nome": "Medida Provisória nº 252 de 15/06/2005", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 8-A", "art": "8-a", "acao": "alterou"}]},
+{"data": "2005-11-21", "nome": "Lei nº 11.196 de 21/11/2005", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8-A", "art": "8-a", "acao": "alterou"}, {"dispositivo": "Art. 14", "art": "14", "acao": "alterou"}], "id": "federal/leis-ordinarias/2005/lei-11196-2005-11-21"},
+{"data": "2006-12-19", "nome": "Decreto nº 5.987 de 19/12/2006", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 8-A", "art": "8-a", "acao": "regulamentou"}]},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 13", "art": "13", "acao": "correlato"}]},
+{"data": "2011-12-23", "nome": "Medida Provisória nº 556 de 23/12/2011", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5, caput, Inciso 8", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 9, § 3", "art": "9", "acao": "acrescentou"}]},
+{"data": "2021-11-19", "nome": "Lei nº 14.237 de 19/11/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 1, Inciso 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 1, Inciso 3", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 1, Inciso 4", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2021/lei-14237-2021-11-19"},
+{"data": "2022-03-31", "nome": "Medida Provisória nº 1.112 de 31/03/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1-A, § 16", "art": "1-a", "acao": "acrescentou"}]},
+{"data": "2022-06-23", "nome": "Lei Complementar nº 194 de 23/06/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, caput, Inciso 8", "art": "5", "acao": "ressalvou"}, {"dispositivo": "Art. 9, caput", "art": "9", "acao": "ressalvou"}], "id": "federal/leis-complementares/2022/lcp-194-2022-06-23"},
+{"data": "2022-09-02", "nome": "Lei nº 14.440 de 02/09/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1-A, § 16", "art": "1-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14440-2022-09-02"},
+{"data": "2023-01-01", "nome": "Medida Provisória nº 1.157 de 01/01/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5, caput, Inciso 1", "art": "5", "acao": "ressalvou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "ressalvou"}]},
+{"data": "2023-02-28", "nome": "Medida Provisória nº 1.163 de 28/02/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5, caput, Inciso 1", "art": "5", "acao": "ressalvou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "ressalvou"}]}
+],
+"controle": [
+{"data": "2020-08-14", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.628 de 14/08/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1-A, caput", "art": "1-a", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade de Parte do Texto"}], "decisao": {"classe": "ADI", "numero": "5628"}},
+{"data": "2022-05-13", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 3.970 de 13/05/2022", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1, § 1, Inciso 1", "art": "1", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 1, § 1, Inciso 2", "art": "1", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 1, § 1, Inciso 3", "art": "1", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "3970"}}
+]
+}

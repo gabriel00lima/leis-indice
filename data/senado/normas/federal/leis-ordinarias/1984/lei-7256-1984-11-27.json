@@ -1,0 +1,36 @@
+{
+"id": "federal/leis-ordinarias/1984/lei-7256-1984-11-27",
+"urn": "urn:lex:br:federal:lei:1984-11-27;7256",
+"consultado_em": "2026-11-04",
+"codigo": "549132",
+"nome": "Lei nº 7.256 de 27/11/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-11-28", "descricao": "Publicação Original [Diário Oficial da União de 28/11/1984] (p. 17521, col. 1)"}
+],
+"alteracoes": [
+{"data": "1984-12-10", "nome": "Lei Complementar nº 48 de 10/12/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-complementares/1984/lcp-48-1984-12-10"},
+{"data": "1985-01-30", "nome": "Decreto nº 90.880 de 30/01/1985", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1985-12-23", "nome": "Lei nº 7.450 de 23/12/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7450-1985-12-23"},
+{"data": "1986-03-10", "nome": "Decreto-Lei nº 2.284 de 10/03/1986", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1986/del-2284-1986-03-10"},
+{"data": "1986-07-14", "nome": "Lei nº 7.519 de 14/07/1986", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7519-1986-07-14"},
+{"data": "1986-07-23", "nome": "Decreto-Lei nº 2.287 de 23/07/1986", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1986/del-2287-1986-07-23"},
+{"data": "1986-11-21", "nome": "Decreto nº 93.615 de 21/11/1986", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1987-04-08", "nome": "Decreto-Lei nº 2.325 de 08/04/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2325-1987-04-08"},
+{"data": "1987-08-27", "nome": "Decreto nº 94.805 de 27/08/1987", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1987-11-10", "nome": "Decreto nº 95.184 de 10/11/1987", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1987-12-21", "nome": "Decreto-Lei nº 2.397 de 21/12/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2397-1987-12-21"},
+{"data": "1988-12-22", "nome": "Lei nº 7.713 de 22/12/1988", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/leis-ordinarias/1988/lei-7713-1988-12-22"},
+{"data": "1989-07-10", "nome": "Lei nº 7.798 de 10/07/1989", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7798-1989-07-10"},
+{"data": "1990-08-24", "nome": "Decreto nº 99.476 de 24/08/1990", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1991-07-29", "nome": "Medida Provisória nº 298 de 29/07/1991", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1991-08-29", "nome": "Lei nº 8.218 de 29/08/1991", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8218-1991-08-29"},
+{"data": "1991-12-07", "nome": "Decreto nº 356 de 07/12/1991", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1991-12-30", "nome": "Lei nº 8.383 de 30/12/1991", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8383-1991-12-30"},
+{"data": "1991-12-30", "nome": "Lei nº 8.383 de 30/12/1991", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8383-1991-12-30"},
+{"data": "1996-11-05", "nome": "Medida Provisória nº 1.526 de 05/11/1996", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 19, Inciso 1", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 19, Inciso 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "alterou"}, {"dispositivo": "Art. 14", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 16", "art": "16", "acao": "alterou"}, {"dispositivo": "Art. 25", "art": "25", "acao": "alterou"}, {"dispositivo": "Art. 26", "art": "26", "acao": "alterou"}, {"dispositivo": "Art. 27", "art": "27", "acao": "alterou"}]},
+{"data": "1996-12-05", "nome": "Lei nº 9.317 de 05/12/1996", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "revogou"}, {"dispositivo": "Art. 14", "art": "14", "acao": "revogou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "revogou"}, {"dispositivo": "Art. 16", "art": "16", "acao": "revogou"}, {"dispositivo": "Art. 19, caput, Inciso 2", "art": "19", "acao": "revogou"}, {"dispositivo": "Art. 19, caput, Inciso 3", "art": "19", "acao": "revogou"}, {"dispositivo": "Art. 25", "art": "25", "acao": "revogou"}, {"dispositivo": "Art. 26", "art": "26", "acao": "revogou"}, {"dispositivo": "Art. 27", "art": "27", "acao": "revogou"}], "id": "federal/leis-ordinarias/1996/lei-9317-1996-12-05"},
+{"data": "1999-10-05", "nome": "Lei nº 9.841 de 05/10/1999", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1999/lei-9841-1999-10-05"}
+],
+"controle": []
+}

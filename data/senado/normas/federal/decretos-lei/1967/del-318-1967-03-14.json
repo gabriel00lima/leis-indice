@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1967/del-318-1967-03-14",
+"urn": "urn:lex:br:federal:decreto.lei:1967-03-14;318",
+"consultado_em": "2026-11-04",
+"codigo": "523274",
+"nome": "Decreto-Lei nº 318 de 14/03/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-03-14", "descricao": "Publicação Original [Diário Oficial da União de 14/03/1967] (p. 3059, col. 2)"}
+],
+"alteracoes": [
+{"data": "1976-08-04", "nome": "Decreto nº 78.197 de 04/08/1976", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1976-12-15", "nome": "Lei nº 6.403 de 15/12/1976", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1976/lei-6403-1976-12-15"},
+{"data": "1978-09-24", "nome": "Lei nº 6.567 de 24/09/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1978/lei-6567-1978-09-24"},
+{"data": "1979-08-14", "nome": "Decreto nº 83.841 de 14/08/1979", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1982-12-21", "nome": "Lei nº 7.085 de 21/12/1982", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7085-1982-12-21"}
+],
+"controle": []
+}

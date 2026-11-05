@@ -1,0 +1,28 @@
+{
+"id": "federal/leis-ordinarias/2011/lei-12529-2011-11-30",
+"urn": "urn:lex:br:federal:lei:2011-11-30;12529",
+"consultado_em": "2026-11-04",
+"codigo": "584385",
+"nome": "Lei nº 12.529 de 30/11/2011",
+"apelidos": [
+"Lei de Defesa da Concorrência (2011)",
+"Lei Antitruste (2011)",
+"Lei do Abuso do Poder Econômico (2011)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2011-12-01", "descricao": "Publicação Original [Diário Oficial da União de 01/12/2011] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "2011-12-02", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 02/12/2011] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2012-05-28", "nome": "Decreto nº 7.738 de 28/05/2012", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2015-03-16", "nome": "Lei nº 13.105 de 16/03/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 98, § 4", "art": "98", "acao": "revogou"}], "id": "federal/leis-ordinarias/2015/lei-13105-2015-03-16"},
+{"data": "2015-08-17", "nome": "Medida Provisória nº 687 de 17/08/2015", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 23", "art": "23", "acao": "alterou"}, {"dispositivo": "Art. 23, Parágrafo Único", "art": "23", "acao": "alterou"}]},
+{"data": "2015-08-31", "nome": "Decreto nº 8.510 de 31/08/2015", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 23", "art": "23", "acao": "regulamentou"}, {"dispositivo": "Art. 23, Parágrafo Único", "art": "23", "acao": "regulamentou"}]},
+{"data": "2015-12-01", "nome": "Lei nº 13.196 de 01/12/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 23", "art": "23", "acao": "alterou"}, {"dispositivo": "Art. 23, Parágrafo Único", "art": "23", "acao": "alterou"}], "id": "federal/leis-ordinarias/2015/lei-13196-2015-12-01"},
+{"data": "2018-01-15", "nome": "Decreto nº 9.266 de 15/01/2018", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2020-06-10", "nome": "Lei nº 14.010 de 10/06/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 36, § 3, Inciso 15", "art": "36", "acao": "ressalvou"}, {"dispositivo": "Art. 36, § 3, Inciso 17", "art": "36", "acao": "ressalvou"}, {"dispositivo": "Art. 90, caput, Inciso 4", "art": "90", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2020/lei-14010-2020-06-10"},
+{"data": "2022-11-16", "nome": "Lei nº 14.470 de 16/11/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 46-A, caput", "art": "46-a", "acao": "acrescentou"}, {"dispositivo": "Art. 46-A, § 1", "art": "46-a", "acao": "acrescentou"}, {"dispositivo": "Art. 46-A, § 2", "art": "46-a", "acao": "acrescentou"}, {"dispositivo": "Art. 47, § 1", "art": "47", "acao": "acrescentou"}, {"dispositivo": "Art. 47, § 2", "art": "47", "acao": "acrescentou"}, {"dispositivo": "Art. 47, § 3", "art": "47", "acao": "acrescentou"}, {"dispositivo": "Art. 47, § 4", "art": "47", "acao": "acrescentou"}, {"dispositivo": "Art. 47-A, caput", "art": "47-a", "acao": "acrescentou"}, {"dispositivo": "Art. 85, § 16", "art": "85", "acao": "vetado"}], "id": "federal/leis-ordinarias/2022/lei-14470-2022-11-16"},
+{"data": "2023-10-03", "nome": "Lei nº 14.690 de 03/10/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 36", "art": "36", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2023/lei-14690-2023-10-03"}
+],
+"controle": []
+}

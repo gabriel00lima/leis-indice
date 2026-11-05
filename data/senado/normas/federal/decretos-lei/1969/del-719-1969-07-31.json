@@ -1,0 +1,30 @@
+{
+"id": "federal/decretos-lei/1969/del-719-1969-07-31",
+"urn": "urn:lex:br:federal:decreto.lei:1969-07-31;719",
+"consultado_em": "2026-11-04",
+"codigo": "524065",
+"nome": "Decreto-Lei nº 719 de 31/07/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-07-31", "descricao": "Publicação Original [Diário Oficial da União de 31/07/1969] (p. 6522, col. 2)"}
+],
+"alteracoes": [
+{"data": "1991-01-18", "nome": "Lei nº 8.172 de 18/01/1991", "tipo": "Revigoração Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8172-1991-01-18"},
+{"data": "2000-04-03", "nome": "Medida Provisória nº 2.021 de 03/04/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3-A", "art": "3-a", "acao": "alterou"}, {"dispositivo": "Art. 3-B", "art": "3-b", "acao": "alterou"}]},
+{"data": "2000-05-02", "nome": "Medida Provisória nº 2.021-1 de 02/05/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3-A", "art": "3-a", "acao": "alterou"}, {"dispositivo": "Art. 3-B", "art": "3-b", "acao": "alterou"}]},
+{"data": "2000-06-01", "nome": "Medida Provisória nº 2.021-2 de 01/06/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3-A", "art": "3-a", "acao": "alterou"}, {"dispositivo": "Art. 3-B", "art": "3-b", "acao": "alterou"}]},
+{"data": "2000-06-29", "nome": "Medida Provisória nº 2.021-3 de 29/06/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3-A", "art": "3-a", "acao": "alterou"}, {"dispositivo": "Art. 3-B", "art": "3-b", "acao": "alterou"}]},
+{"data": "2000-07-28", "nome": "Medida Provisória nº 2.021-4 de 28/07/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3-A", "art": "3-a", "acao": "alterou"}, {"dispositivo": "Art. 3-B", "art": "3-b", "acao": "alterou"}]},
+{"data": "2000-08-28", "nome": "Medida Provisória nº 2.021-5 de 28/08/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3-A", "art": "3-a", "acao": "alterou"}, {"dispositivo": "Art. 3-B", "art": "3-b", "acao": "alterou"}]},
+{"data": "2000-09-27", "nome": "Medida Provisória nº 2.021-6 de 27/09/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3-A", "art": "3-a", "acao": "alterou"}, {"dispositivo": "Art. 3-B", "art": "3-b", "acao": "alterou"}]},
+{"data": "2000-10-26", "nome": "Medida Provisória nº 2.021-7 de 26/10/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3-A", "art": "3-a", "acao": "alterou"}, {"dispositivo": "Art. 3-B", "art": "3-b", "acao": "alterou"}]},
+{"data": "2000-11-23", "nome": "Medida Provisória nº 2.021-8 de 23/11/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3-A", "art": "3-a", "acao": "alterou"}, {"dispositivo": "Art. 3-B", "art": "3-b", "acao": "alterou"}]},
+{"data": "2000-12-21", "nome": "Medida Provisória nº 2.021-9 de 21/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3-A", "art": "3-a", "acao": "alterou"}, {"dispositivo": "Art. 3-B", "art": "3-b", "acao": "alterou"}]},
+{"data": "2000-12-27", "nome": "Medida Provisória nº 2.106-10 de 27/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3-A", "art": "3-a", "acao": "alterou"}, {"dispositivo": "Art. 3-B", "art": "3-b", "acao": "alterou"}]},
+{"data": "2001-01-26", "nome": "Medida Provisória nº 2.106-11 de 26/01/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3-A", "art": "3-a", "acao": "alterou"}, {"dispositivo": "Art. 3-B", "art": "3-b", "acao": "alterou"}]},
+{"data": "2001-02-14", "nome": "Lei nº 10.197 de 14/02/2001", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3-A", "art": "3-a", "acao": "alterou"}, {"dispositivo": "Art. 3-B", "art": "3-b", "acao": "alterou"}], "id": "federal/leis-ordinarias/2001/lei-10197-2001-02-14"},
+{"data": "2007-11-12", "nome": "Lei nº 11.540 de 12/11/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3-B, Parágrafo Único", "art": "3-b", "acao": "alterou"}], "id": "federal/leis-ordinarias/2007/lei-11540-2007-11-12"},
+{"data": "2020-10-15", "nome": "Decreto nº 10.521 de 15/10/2020", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

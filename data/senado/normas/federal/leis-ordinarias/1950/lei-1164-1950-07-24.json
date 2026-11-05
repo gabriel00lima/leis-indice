@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1164-1950-07-24",
+"urn": "urn:lex:br:federal:lei:1950-07-24;1164",
+"consultado_em": "2026-11-04",
+"codigo": "542787",
+"nome": "Lei nº 1.164 de 24/07/1950",
+"apelidos": [
+"Código Eleitoral (1950)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-07-26", "descricao": "Publicação Original [Diário Oficial da União de 26/07/1950] (p. 10987, col. 1)"}
+],
+"alteracoes": [
+{"data": "1954-03-19", "nome": "Lei nº 2.194 de 19/03/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2194-1954-03-19"},
+{"data": "1956-11-30", "nome": "Lei nº 2.982 de 30/11/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2982-1956-11-30"},
+{"data": "1962-07-27", "nome": "Lei nº 4.109 de 27/07/1962", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1962/lei-4109-1962-07-27"},
+{"data": "1965-07-15", "nome": "Lei nº 4.737 de 15/07/1965", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4737-1965-07-15"}
+],
+"controle": []
+}

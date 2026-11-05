@@ -1,0 +1,32 @@
+{
+"id": "federal/decretos-lei/1969/del-1025-1969-10-21",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-21;1025",
+"consultado_em": "2026-11-04",
+"codigo": "524673",
+"nome": "Decreto-Lei nº 1.025 de 21/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-21", "descricao": "Publicação Original [Diário Oficial da União de 21/10/1969] (p. 8945, col. 1)"}
+],
+"alteracoes": [
+{"data": "1972-12-06", "nome": "Lei nº 5.843 de 06/12/1972", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5843-1972-12-06"},
+{"data": "1974-08-22", "nome": "Decreto-Lei nº 1.341 de 22/08/1974", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1974/del-1341-1974-08-22"},
+{"data": "1975-07-03", "nome": "Decreto-Lei nº 1.407 de 03/07/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1975/del-1407-1975-07-03"},
+{"data": "1979-12-20", "nome": "Decreto-Lei nº 1.735 de 20/12/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1735-1979-12-20"},
+{"data": "1979-12-20", "nome": "Decreto-Lei nº 1.737 de 20/12/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1737-1979-12-20"},
+{"data": "1981-12-16", "nome": "Decreto-Lei nº 1.893 de 16/12/1981", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1981/del-1893-1981-12-16"},
+{"data": "1983-08-01", "nome": "Decreto-Lei nº 2.049 de 01/08/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2049-1983-08-01"},
+{"data": "1983-08-03", "nome": "Decreto-Lei nº 2.052 de 03/08/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2052-1983-08-03"},
+{"data": "1984-09-19", "nome": "Decreto-Lei nº 2.163 de 19/09/1984", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2163-1984-09-19"},
+{"data": "1984-10-29", "nome": "Decreto-Lei nº 2.169 de 29/10/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2169-1984-10-29"},
+{"data": "1984-12-20", "nome": "Decreto-Lei nº 2.186 de 20/12/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2186-1984-12-20"},
+{"data": "1988-12-22", "nome": "Lei nº 7.711 de 22/12/1988", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1988/lei-7711-1988-12-22"},
+{"data": "1989-09-12", "nome": "Decreto nº 98.135 de 12/09/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "1990-12-17", "nome": "Medida Provisória nº 289 de 17/12/1990", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "1991-06-28", "nome": "Medida Provisória nº 297 de 28/06/1991", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1991-07-29", "nome": "Medida Provisória nº 298 de 29/07/1991", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1991-08-29", "nome": "Lei nº 8.218 de 29/08/1991", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8218-1991-08-29"},
+{"data": "1991-12-30", "nome": "Lei nº 8.383 de 30/12/1991", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1991/lei-8383-1991-12-30"}
+],
+"controle": []
+}

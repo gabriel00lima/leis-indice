@@ -1,0 +1,13 @@
+{
+  "name": "leis-indice-textos",
+  "private": true,
+  "description": "Índice de texto completo (Pagefind) das leis principais, gerado no build do site.",
+  "type": "module",
+  "scripts": {
+    "indexar": "node indexar.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "pagefind": "1.6.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4902-1965-12-16",
+"urn": "urn:lex:br:federal:lei:1965-12-16;4902",
+"consultado_em": "2026-11-04",
+"codigo": "546758",
+"nome": "Lei nº 4.902 de 16/12/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/1965] (p. 13073, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-06-29", "nome": "Lei nº 5.058 de 29/06/1966", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5058-1966-06-29"},
+{"data": "1971-10-08", "nome": "Lei nº 5.711 de 08/10/1971", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 61", "art": "61", "acao": "revogou"}], "id": "federal/leis-ordinarias/1971/lei-5711-1971-10-08"}
+],
+"controle": []
+}

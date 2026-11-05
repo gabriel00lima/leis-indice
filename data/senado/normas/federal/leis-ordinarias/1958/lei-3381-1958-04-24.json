@@ -1,0 +1,25 @@
+{
+"id": "federal/leis-ordinarias/1958/lei-3381-1958-04-24",
+"urn": "urn:lex:br:federal:lei:1958-04-24;3381",
+"consultado_em": "2026-11-04",
+"codigo": "545188",
+"nome": "Lei nº 3.381 de 24/04/1958",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1958-04-25", "descricao": "Publicação Original [Diário Oficial da União de 25/04/1958] (p. 9385, col. 1)"}
+],
+"alteracoes": [
+{"data": "1958-10-08", "nome": "Decreto nº 44.609 de 08/10/1958", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1959-01-22", "nome": "Decreto nº 45.270 de 22/01/1959", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1959-07-21", "nome": "Decreto nº 46.512 de 21/07/1959", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1959-09-26", "nome": "Decreto nº 46.909 de 26/09/1959", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1959-11-12", "nome": "Decreto nº 47.225 de 12/11/1959", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1964-11-30", "nome": "Lei nº 4.506 de 30/11/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4506-1964-11-30"},
+{"data": "1967-01-31", "nome": "Decreto-Lei nº 123 de 31/01/1967", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 1, Alínea b", "art": "4", "acao": "alterou"}], "id": "federal/decretos-lei/1967/del-123-1967-01-31"},
+{"data": "1967-09-04", "nome": "Lei nº 5.312 de 04/09/1967", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1967/lei-5312-1967-09-04"},
+{"data": "1968-12-18", "nome": "Decreto-Lei nº 362 de 18/12/1968", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1968/del-362-1968-12-18"},
+{"data": "1969-01-23", "nome": "Decreto-Lei nº 432 de 23/01/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-432-1969-01-23"},
+{"data": "1970-12-30", "nome": "Decreto-Lei nº 1.142 de 30/12/1970", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1970/del-1142-1970-12-30"}
+],
+"controle": []
+}

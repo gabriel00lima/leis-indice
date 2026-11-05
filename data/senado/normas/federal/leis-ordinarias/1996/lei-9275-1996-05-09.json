@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/1996/lei-9275-1996-05-09",
+"urn": "urn:lex:br:federal:lei:1996-05-09;9275",
+"consultado_em": "2026-11-04",
+"codigo": "551151",
+"nome": "Lei nº 9.275 de 09/05/1996",
+"apelidos": [
+"Lei Orçamentária Anual (LOA) (1996)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1996-05-10", "descricao": "Publicação Original [Diário Oficial da União de 10/05/1996] (p. 7945, col. 2)"},
+{"tipo": "RET", "data": "1996-06-05", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 05/06/1996] (p. 9909, col. 2)"},
+{"tipo": "RET", "data": "1996-07-11", "descricao": "Retificação (Seq. 2) [Diário Oficial da União de 11/07/1996] (p. 12793, col. 1)"},
+{"tipo": "RET", "data": "1996-07-16", "descricao": "Retificação (Seq. 3) [Diário Oficial da União de 16/07/1996] (p. 13074, col. 2)"},
+{"tipo": "RET", "data": "1996-08-12", "descricao": "Retificação (Seq. 4) [Diário Oficial da União de 12/08/1996] (p. 15177, col. 1)"}
+],
+"alteracoes": [
+{"data": "1996-06-07", "nome": "Decreto nº 1.923 de 07/06/1996", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1996-06-21", "nome": "Decreto de 21/06/1996", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

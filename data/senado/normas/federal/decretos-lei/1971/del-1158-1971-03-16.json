@@ -1,0 +1,23 @@
+{
+"id": "federal/decretos-lei/1971/del-1158-1971-03-16",
+"urn": "urn:lex:br:federal:decreto.lei:1971-03-16;1158",
+"consultado_em": "2026-11-04",
+"codigo": "524937",
+"nome": "Decreto-Lei nº 1.158 de 16/03/1971",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1971-03-17", "descricao": "Publicação Original [Diário Oficial da União de 17/03/1971] (p. 2057, col. 1)"}
+],
+"alteracoes": [
+{"data": "1971-04-01", "nome": "Decreto-Lei nº 1.165 de 01/04/1971", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/decretos-lei/1971/del-1165-1971-04-01"},
+{"data": "1971-05-20", "nome": "Decreto Legislativo nº 31 de 20/05/1971", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1973-12-11", "nome": "Decreto-Lei nº 1.291 de 11/12/1973", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "prorrogação de vigência"}, {"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "prorrogação de vigência"}], "id": "federal/decretos-lei/1973/del-1291-1973-12-11"},
+{"data": "1975-10-23", "nome": "Decreto-Lei nº 1.423 de 23/10/1975", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}], "id": "federal/decretos-lei/1975/del-1423-1975-10-23"},
+{"data": "1979-12-03", "nome": "Decreto-Lei nº 1.721 de 03/12/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}], "id": "federal/decretos-lei/1979/del-1721-1979-12-03"},
+{"data": "1984-06-26", "nome": "Decreto-Lei nº 2.134 de 26/06/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "prorrogação de prazo"}], "id": "federal/decretos-lei/1984/del-2134-1984-06-26"},
+{"data": "1986-11-21", "nome": "Decreto-Lei nº 2.303 de 21/11/1986", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1986/del-2303-1986-11-21"},
+{"data": "1987-12-21", "nome": "Decreto-Lei nº 2.397 de 21/12/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2397-1987-12-21"},
+{"data": "1988-02-10", "nome": "Decreto-Lei nº 2.413 de 10/02/1988", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "correlato"}], "id": "federal/decretos-lei/1988/del-2413-1988-02-10"}
+],
+"controle": []
+}

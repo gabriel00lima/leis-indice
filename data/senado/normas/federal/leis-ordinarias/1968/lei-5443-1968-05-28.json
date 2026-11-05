@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5443-1968-05-28",
+"urn": "urn:lex:br:federal:lei:1968-05-28;5443",
+"consultado_em": "2026-11-04",
+"codigo": "547310",
+"nome": "Lei nº 5.443 de 28/05/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-05-30", "descricao": "Publicação Original [Diário Oficial da União de 30/05/1968] (p. 4393, col. 1)"}
+],
+"alteracoes": [
+{"data": "1971-09-01", "nome": "Lei nº 5.700 de 01/09/1971", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5700-1971-09-01"}
+],
+"controle": []
+}

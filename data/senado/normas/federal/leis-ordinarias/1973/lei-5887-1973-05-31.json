@@ -1,0 +1,24 @@
+{
+"id": "federal/leis-ordinarias/1973/lei-5887-1973-05-31",
+"urn": "urn:lex:br:federal:lei:1973-05-31;5887",
+"consultado_em": "2026-11-04",
+"codigo": "547763",
+"nome": "Lei nº 5.887 de 31/05/1973",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-06-04", "descricao": "Publicação Original [Diário Oficial da União de 04/06/1973] (p. 5353, col. 3)"}
+],
+"alteracoes": [
+{"data": "1978-11-21", "nome": "Lei nº 6.595 de 21/11/1978", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 10, § 3", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "revogou"}], "id": "federal/leis-ordinarias/1978/lei-6595-1978-11-21"},
+{"data": "1979-11-12", "nome": "Lei nº 6.716 de 12/11/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, Parágrafo Único", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 8, Parágrafo Único", "art": "8", "acao": "alterou"}], "id": "federal/leis-ordinarias/1979/lei-6716-1979-11-12"},
+{"data": "1980-07-02", "nome": "Decreto nº 84.870 de 02/07/1980", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1980-11-19", "nome": "Lei nº 6.857 de 19/11/1980", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 8, Parágrafo Único", "art": "8", "acao": "alterou"}], "id": "federal/leis-ordinarias/1980/lei-6857-1980-11-19"},
+{"data": "1982-03-29", "nome": "Lei nº 6.980 de 29/03/1982", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}], "id": "federal/leis-ordinarias/1982/lei-6980-1982-03-29"},
+{"data": "1984-05-07", "nome": "Decreto-Lei nº 2.116 de 07/05/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2116-1984-05-07"},
+{"data": "1984-07-09", "nome": "Decreto nº 89.928 de 09/07/1984", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1985-03-22", "nome": "Decreto nº 91.169 de 22/03/1985", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 4, caput, Item 5", "art": "4", "acao": "regulamentou"}, {"dispositivo": "Art. 4, caput, Item 6", "art": "4", "acao": "regulamentou"}]},
+{"data": "1985-03-22", "nome": "Decreto nº 91.170 de 22/03/1985", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1986-06-27", "nome": "Lei nº 7.501 de 27/06/1986", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7501-1986-06-27"}
+],
+"controle": []
+}

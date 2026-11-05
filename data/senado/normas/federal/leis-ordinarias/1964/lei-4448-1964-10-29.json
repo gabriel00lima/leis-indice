@@ -1,0 +1,25 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4448-1964-10-29",
+"urn": "urn:lex:br:federal:lei:1964-10-29;4448",
+"consultado_em": "2026-11-04",
+"codigo": "546299",
+"nome": "Lei nº 4.448 de 29/10/1964",
+"apelidos": [
+"Lei de Promoções dos Oficiais do Exército (1964)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-10-30", "descricao": "Publicação Original [Diário Oficial da União de 30/10/1964] (p. 9828, col. 3)"}
+],
+"alteracoes": [
+{"data": "1964-11-28", "nome": "Decreto nº 55.090 de 28/11/1964", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1965-07-08", "nome": "Lei nº 4.720 de 08/07/1965", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4720-1965-07-08"},
+{"data": "1966-04-15", "nome": "Decreto nº 58.195 de 15/04/1966", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1966-08-22", "nome": "Lei nº 5.074 de 22/08/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5074-1966-08-22"},
+{"data": "1967-02-28", "nome": "Decreto-Lei nº 309 de 28/02/1967", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1967/del-309-1967-02-28"},
+{"data": "1967-07-03", "nome": "Lei nº 5.302 de 03/07/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1967/lei-5302-1967-07-03"},
+{"data": "1968-02-23", "nome": "Lei nº 5.393 de 23/02/1968", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1968/lei-5393-1968-02-23"},
+{"data": "1969-10-08", "nome": "Decreto-Lei nº 918 de 08/10/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-918-1969-10-08"},
+{"data": "1972-11-10", "nome": "Lei nº 5.821 de 10/11/1972", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5821-1972-11-10"}
+],
+"controle": []
+}

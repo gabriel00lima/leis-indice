@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2014/lei-13033-2014-09-24",
+"urn": "urn:lex:br:federal:lei:2014-09-24;13033",
+"consultado_em": "2026-11-04",
+"codigo": "584844",
+"nome": "Lei nº 13.033 de 24/09/2014",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2014-09-25", "descricao": "Publicação Original [Diário Oficial da União de 25/09/2014] (p. 3, col. 3)"}
+],
+"alteracoes": [
+{"data": "2016-03-23", "nome": "Lei nº 13.263 de 23/03/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 3", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1-A, caput", "art": "1-a", "acao": "acrescentou"}, {"dispositivo": "Art. 1-B, caput", "art": "1-b", "acao": "acrescentou"}, {"dispositivo": "Art. 1-B, Parágrafo Único", "art": "1-b", "acao": "acrescentou"}, {"dispositivo": "Art. 1-C, caput", "art": "1-c", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2016/lei-13263-2016-03-23"},
+{"data": "2024-10-08", "nome": "Lei nº 14.993 de 08/10/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1-A, caput", "art": "1-a", "acao": "revogou"}, {"dispositivo": "Art. 1-B, caput", "art": "1-b", "acao": "revogou"}, {"dispositivo": "Art. 1-B, Parágrafo Único", "art": "1-b", "acao": "revogou"}, {"dispositivo": "Art. 1-C, caput", "art": "1-c", "acao": "alterou"}], "id": "federal/leis-ordinarias/2024/lei-14993-2024-10-08"}
+],
+"controle": []
+}

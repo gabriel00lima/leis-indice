@@ -1,0 +1,23 @@
+{
+"id": "federal/decretos-lei/1978/del-1641-1978-12-07",
+"urn": "urn:lex:br:federal:decreto.lei:1978-12-07;1641",
+"consultado_em": "2026-11-04",
+"codigo": "525903",
+"nome": "Decreto-Lei nº 1.641 de 07/12/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-12-07", "descricao": "Publicação Original [Diário Oficial da União de 07/12/1978] (p. 19668, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-04-23", "nome": "Decreto Legislativo nº 2 de 23/04/1979", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1980-06-09", "nome": "Decreto-Lei nº 1.790 de 09/06/1980", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 4", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1980/del-1790-1980-06-09"},
+{"data": "1980-11-28", "nome": "Decreto-Lei nº 1.814 de 28/11/1980", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1980/del-1814-1980-11-28"},
+{"data": "1981-05-06", "nome": "Decreto-Lei nº 1.870 de 06/05/1981", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1981/del-1870-1981-05-06"},
+{"data": "1982-07-14", "nome": "Decreto-Lei nº 1.950 de 14/07/1982", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/decretos-lei/1982/del-1950-1982-07-14"},
+{"data": "1983-12-20", "nome": "Decreto-Lei nº 2.071 de 20/12/1983", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2071-1983-12-20"},
+{"data": "1983-12-20", "nome": "Decreto-Lei nº 2.072 de 20/12/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2072-1983-12-20"},
+{"data": "1984-06-13", "nome": "Decreto-Lei nº 2.124 de 13/06/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, § 7", "art": "7", "acao": "alterou"}], "id": "federal/decretos-lei/1984/del-2124-1984-06-13"},
+{"data": "1985-12-23", "nome": "Lei nº 7.450 de 23/12/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7450-1985-12-23"}
+],
+"controle": []
+}

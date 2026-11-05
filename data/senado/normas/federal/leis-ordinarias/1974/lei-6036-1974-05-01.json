@@ -1,0 +1,26 @@
+{
+"id": "federal/leis-ordinarias/1974/lei-6036-1974-05-01",
+"urn": "urn:lex:br:federal:lei:1974-05-01;6036",
+"consultado_em": "2026-11-04",
+"codigo": "547912",
+"nome": "Lei nº 6.036 de 01/05/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-05-02", "descricao": "Publicação Original [Diário Oficial da União de 02/05/1974] (p. 5036, col. 1)"}
+],
+"alteracoes": [
+{"data": "1974-06-25", "nome": "Lei nº 6.062 de 25/06/1974", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1974/lei-6062-1974-06-25"},
+{"data": "1974-07-16", "nome": "Decreto nº 74.296 de 16/07/1974", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1974-10-09", "nome": "Lei nº 6.118 de 09/10/1974", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1974/lei-6118-1974-10-09"},
+{"data": "1974-11-06", "nome": "Lei nº 6.129 de 06/11/1974", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1974/lei-6129-1974-11-06"},
+{"data": "1975-10-02", "nome": "Decreto nº 76.386 de 02/10/1975", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1977-02-28", "nome": "Decreto-Lei nº 1.526 de 28/02/1977", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1977/del-1526-1977-02-28"},
+{"data": "1978-02-22", "nome": "Decreto-Lei nº 1.604 de 22/02/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1978/del-1604-1978-02-22"},
+{"data": "1978-05-16", "nome": "Decreto nº 81.663 de 16/05/1978", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1979-04-25", "nome": "Decreto nº 83.367 de 25/04/1979", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1979-12-20", "nome": "Decreto-Lei nº 1.732 de 20/12/1979", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1732-1979-12-20"},
+{"data": "1981-12-22", "nome": "Decreto-Lei nº 1.902 de 22/12/1981", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1981/del-1902-1981-12-22"},
+{"data": "1982-05-25", "nome": "Decreto-Lei nº 1.940 de 25/05/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1940-1982-05-25"}
+],
+"controle": []
+}

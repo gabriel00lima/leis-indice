@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1967/del-161-1967-02-13",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-13;161",
+"consultado_em": "2026-11-04",
+"codigo": "522964",
+"nome": "Decreto-Lei nº 161 de 13/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-14", "descricao": "Publicação Original [Diário Oficial da União de 14/02/1967] (p. 1785, col. 1)"}
+],
+"alteracoes": [
+{"data": "1972-10-03", "nome": "Lei nº 5.804 de 03/10/1972", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5804-1972-10-03"},
+{"data": "1973-05-11", "nome": "Lei nº 5.878 de 11/05/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-5878-1973-05-11"}
+],
+"controle": []
+}

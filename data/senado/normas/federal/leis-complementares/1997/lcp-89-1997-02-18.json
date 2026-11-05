@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-complementares/1997/lcp-89-1997-02-18",
+"urn": "urn:lex:br:federal:lei.complementar:1997-02-18;89",
+"consultado_em": "2026-11-04",
+"codigo": "572844",
+"nome": "Lei Complementar nº 89 de 18/02/1997",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1997-02-19", "descricao": "Publicação Original [Diário Oficial da União de 19/02/1997] (p. 2979, col. 1)"}
+],
+"alteracoes": [
+{"data": "1997-11-12", "nome": "Decreto nº 2.381 de 12/11/1997", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2021-12-16", "nome": "Medida Provisória nº 1.080 de 16/12/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5, caput", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, caput, Inciso 1", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 5, caput, Inciso 2", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 5, Parágrafo Único", "art": "5", "acao": "acrescentou"}]},
+{"data": "2022-03-25", "nome": "Decreto nº 11.008 de 25/03/2022", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2022-06-15", "nome": "Lei nº 14.369 de 15/06/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5-A, caput", "art": "5-a", "acao": "acrescentou"}, {"dispositivo": "Art. 5-A, caput, Inciso 1", "art": "5-a", "acao": "acrescentou"}, {"dispositivo": "Art. 5-A, caput, Inciso 2", "art": "5-a", "acao": "acrescentou"}, {"dispositivo": "Art. 5-B, caput", "art": "5-b", "acao": "acrescentou"}, {"dispositivo": "Art. 5-B, caput, Inciso 1", "art": "5-b", "acao": "acrescentou"}, {"dispositivo": "Art. 5-B, caput, Inciso 2", "art": "5-b", "acao": "acrescentou"}, {"dispositivo": "Art. 5-B, caput, Inciso 3", "art": "5-b", "acao": "acrescentou"}, {"dispositivo": "Art. 5-C, caput", "art": "5-c", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14369-2022-06-15"},
+{"data": "2026-04-06", "nome": "Medida Provisória nº 1.348 de 06/04/2026", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, caput, Inciso 2", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, caput, Inciso 4", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 5, § 5", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 5-A, caput, Inciso 3", "art": "5-a", "acao": "acrescentou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "ressalvou"}]},
+{"data": "2026-07-30", "nome": "Lei nº 15.480 de 30/07/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5-A, caput, Inciso 3", "art": "5-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15480-2026-07-30"}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1985/lei-7433-1985-12-18",
+"urn": "urn:lex:br:federal:lei:1985-12-18;7433",
+"consultado_em": "2026-11-04",
+"codigo": "549309",
+"nome": "Lei nº 7.433 de 18/12/1985",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1985-12-19", "descricao": "Publicação Original [Diário Oficial da União de 19/12/1985] (p. 18626, col. 1)"}
+],
+"alteracoes": [
+{"data": "1986-09-09", "nome": "Decreto nº 93.240 de 09/09/1986", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2014-10-07", "nome": "Medida Provisória nº 656 de 07/10/2014", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}]},
+{"data": "2015-01-19", "nome": "Lei nº 13.097 de 19/01/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2015/lei-13097-2015-01-19"}
+],
+"controle": []
+}

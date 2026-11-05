@@ -1,0 +1,31 @@
+{
+"id": "federal/decretos-lei/1980/del-1820-1980-12-11",
+"urn": "urn:lex:br:federal:decreto.lei:1980-12-11;1820",
+"consultado_em": "2026-11-04",
+"codigo": "526250",
+"nome": "Decreto-Lei nº 1.820 de 11/12/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-12-12", "descricao": "Publicação Original [Diário Oficial da União de 12/12/1980] (p. 24897, col. 1)"}
+],
+"alteracoes": [
+{"data": "1980-12-22", "nome": "Decreto-Lei nº 1.829 de 22/12/1980", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1980/del-1829-1980-12-22"},
+{"data": "1980-12-22", "nome": "Decreto-Lei nº 1.832 de 22/12/1980", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1980/del-1832-1980-12-22"},
+{"data": "1981-05-27", "nome": "Decreto-Lei nº 1.873 de 27/05/1981", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, Parágrafo Único", "art": "7", "acao": "alterou"}, {"dispositivo": "Anexo 4", "art": null, "acao": "alterou"}], "id": "federal/decretos-lei/1981/del-1873-1981-05-27"},
+{"data": "1981-11-25", "nome": "Lei nº 6.959 de 25/11/1981", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1981/lei-6959-1981-11-25"},
+{"data": "1981-12-22", "nome": "Decreto-Lei nº 1.902 de 22/12/1981", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1981/del-1902-1981-12-22"},
+{"data": "1982-11-25", "nome": "Decreto-Lei nº 1.969 de 25/11/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1969-1982-11-25"},
+{"data": "1982-12-01", "nome": "Lei nº 7.048 de 01/12/1982", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7048-1982-12-01"},
+{"data": "1983-07-05", "nome": "Lei nº 7.112 de 05/07/1983", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1983/lei-7112-1983-07-05"},
+{"data": "1983-11-07", "nome": "Lei nº 7.137 de 07/11/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1983/lei-7137-1983-11-07"},
+{"data": "1984-04-16", "nome": "Lei nº 7.184 de 16/04/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}], "id": "federal/leis-ordinarias/1984/lei-7184-1984-04-16"},
+{"data": "1984-06-19", "nome": "Decreto-Lei nº 2.125 de 19/06/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2125-1984-06-19"},
+{"data": "1984-12-05", "nome": "Lei nº 7.267 de 05/12/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1984/lei-7267-1984-12-05"},
+{"data": "1984-12-12", "nome": "Decreto nº 90.698 de 12/12/1984", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1984-12-26", "nome": "Decreto-Lei nº 2.190 de 26/12/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2190-1984-12-26"},
+{"data": "1984-12-27", "nome": "Decreto-Lei nº 2.204 de 27/12/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2204-1984-12-27"},
+{"data": "1985-07-08", "nome": "Lei nº 7.338 de 08/07/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7338-1985-07-08"},
+{"data": "1985-12-17", "nome": "Lei nº 7.421 de 17/12/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7421-1985-12-17"}
+],
+"controle": []
+}

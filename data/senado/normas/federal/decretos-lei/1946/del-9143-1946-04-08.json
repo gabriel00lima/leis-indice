@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-9143-1946-04-08",
+"urn": "urn:lex:br:federal:decreto.lei:1946-04-08;9143",
+"consultado_em": "2026-11-04",
+"codigo": "534181",
+"nome": "Decreto-Lei nº 9.143 de 08/04/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-04-10", "descricao": "Publicação Original [Diário Oficial da União de 10/04/1946] (p. 5227, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-06-24", "nome": "Decreto-Lei nº 9.401 de 24/06/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9401-1946-06-24"},
+{"data": "1952-07-22", "nome": "Lei nº 1.653 de 22/07/1952", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1952/lei-1653-1952-07-22"}
+],
+"controle": []
+}

@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4425-1964-10-08",
+"urn": "urn:lex:br:federal:lei:1964-10-08;4425",
+"consultado_em": "2026-11-04",
+"codigo": "546275",
+"nome": "Lei nº 4.425 de 08/10/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-10-13", "descricao": "Publicação Original [Diário Oficial da União de 13/10/1964] (p. 9313, col. 2)"}
+],
+"alteracoes": [
+{"data": "1965-04-14", "nome": "Decreto nº 55.928 de 14/04/1965", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1967-01-31", "nome": "Decreto-Lei nº 125 de 31/01/1967", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1967/del-125-1967-01-31"},
+{"data": "1967-10-12", "nome": "Decreto-Lei nº 334 de 12/10/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1967/del-334-1967-10-12"},
+{"data": "1969-04-08", "nome": "Decreto-Lei nº 523 de 08/04/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-523-1969-04-08"},
+{"data": "1969-08-15", "nome": "Decreto-Lei nº 765 de 15/08/1969", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1969/del-765-1969-08-15"},
+{"data": "1969-10-21", "nome": "Decreto-Lei nº 1.038 de 21/10/1969", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1969/del-1038-1969-10-21"}
+],
+"controle": []
+}

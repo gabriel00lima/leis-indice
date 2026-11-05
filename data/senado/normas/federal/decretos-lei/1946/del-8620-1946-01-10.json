@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1946/del-8620-1946-01-10",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-10;8620",
+"consultado_em": "2026-11-04",
+"codigo": "533657",
+"nome": "Decreto-Lei nº 8.620 de 10/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-12", "descricao": "Publicação Original [Diário Oficial da União de 12/01/1946] (p. 539, col. 4)"}
+],
+"alteracoes": [
+{"data": "1946-07-31", "nome": "Decreto-Lei nº 9.533 de 31/07/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9533-1946-07-31"},
+{"data": "1958-07-10", "nome": "Lei nº 3.427 de 10/07/1958", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1958/lei-3427-1958-07-10"},
+{"data": "1963-07-17", "nome": "Lei nº 4.242 de 17/07/1963", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1963/lei-4242-1963-07-17"},
+{"data": "1965-05-31", "nome": "Lei nº 4.643 de 31/05/1965", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4643-1965-05-31"}
+],
+"controle": []
+}

@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2007/lei-11458-2007-03-19",
+"urn": "urn:lex:br:federal:lei:2007-03-19;11458",
+"consultado_em": "2026-11-04",
+"codigo": "572610",
+"nome": "Lei nº 11.458 de 19/03/2007",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2007-03-20", "descricao": "Publicação Original [Diário Oficial da União de 20/03/2007] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2007-03-28", "nome": "Medida Provisória nº 361 de 28/03/2007", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2007-07-20", "nome": "Lei nº 11.507 de 20/07/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2007/lei-11507-2007-07-20"},
+{"data": "2011-03-18", "nome": "Medida Provisória nº 527 de 18/03/2011", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2011-08-04", "nome": "Lei nº 12.462 de 04/08/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2011/lei-12462-2011-08-04"}
+],
+"controle": []
+}

@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/2010/lei-12343-2010-12-02",
+"urn": "urn:lex:br:federal:lei:2010-12-02;12343",
+"consultado_em": "2026-11-04",
+"codigo": "585340",
+"nome": "Lei nº 12.343 de 02/12/2010",
+"apelidos": [
+"Plano Nacional de Cultura (2010) (PNC)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2010-12-03", "descricao": "Publicação Original [Diário Oficial da União de 03/12/2010] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2019-06-27", "nome": "Decreto nº 9.891 de 27/06/2019", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2020-06-29", "nome": "Lei nº 14.017 de 29/06/2020", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2020/lei-14017-2020-06-29"},
+{"data": "2020-12-01", "nome": "Medida Provisória nº 1.012 de 01/12/2020", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}]},
+{"data": "2021-06-01", "nome": "Lei nº 14.156 de 01/06/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2, caput, Inciso 17", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 8, Parágrafo Único", "art": "8", "acao": "renumerou"}, {"dispositivo": "Art. 8, § 2", "art": "8", "acao": "acrescentou"}, {"dispositivo": "Art. 14, Parágrafo Único", "art": "14", "acao": "renumerou"}, {"dispositivo": "Art. 14, § 2", "art": "14", "acao": "acrescentou"}, {"dispositivo": "Art. 14, § 2", "art": "14", "acao": "vetado"}], "id": "federal/leis-ordinarias/2021/lei-14156-2021-06-01"},
+{"data": "2022-07-07", "nome": "Medida Provisória nº 1.129 de 07/07/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}]},
+{"data": "2022-11-16", "nome": "Lei nº 14.468 de 16/11/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2022/lei-14468-2022-11-16"},
+{"data": "2024-04-10", "nome": "Decreto nº 11.986 de 10/04/2024", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "correlato"}, {"dispositivo": "Art. 12", "art": "12", "acao": "correlato"}]}
+],
+"controle": []
+}

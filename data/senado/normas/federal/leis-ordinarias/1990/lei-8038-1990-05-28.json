@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/1990/lei-8038-1990-05-28",
+"urn": "urn:lex:br:federal:lei:1990-05-28;8038",
+"consultado_em": "2026-11-04",
+"codigo": "549914",
+"nome": "Lei nº 8.038 de 28/05/1990",
+"apelidos": [
+"Lei dos Recursos Extraordinário e Especial (1990)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1990-05-29", "descricao": "Publicação Original [Diário Oficial da União de 29/05/1990] (p. 10159, col. 1)"}
+],
+"alteracoes": [
+{"data": "1993-05-26", "nome": "Lei nº 8.658 de 26/05/1993", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1993/lei-8658-1993-05-26"},
+{"data": "1994-12-13", "nome": "Lei nº 8.950 de 13/12/1994", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1994/lei-8950-1994-12-13"},
+{"data": "1998-12-17", "nome": "Lei nº 9.756 de 17/12/1998", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 41", "art": "41", "acao": "alterou"}], "id": "federal/leis-ordinarias/1998/lei-9756-1998-12-17"},
+{"data": "2009-08-21", "nome": "Lei nº 12.019 de 21/08/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 3", "art": "3", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2009/lei-12019-2009-08-21"},
+{"data": "2015-03-16", "nome": "Lei nº 13.105 de 16/03/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 13", "art": "13", "acao": "revogou"}, {"dispositivo": "Art. 14", "art": "14", "acao": "revogou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "revogou"}, {"dispositivo": "Art. 16", "art": "16", "acao": "revogou"}, {"dispositivo": "Art. 17", "art": "17", "acao": "revogou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "revogou"}, {"dispositivo": "Art. 26", "art": "26", "acao": "revogou"}, {"dispositivo": "Art. 27", "art": "27", "acao": "revogou"}, {"dispositivo": "Art. 28", "art": "28", "acao": "revogou"}, {"dispositivo": "Art. 29", "art": "29", "acao": "revogou"}, {"dispositivo": "Art. 38", "art": "38", "acao": "revogou"}], "id": "federal/leis-ordinarias/2015/lei-13105-2015-03-16"},
+{"data": "2019-12-24", "nome": "Lei nº 13.964 de 24/12/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 3", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2019/lei-13964-2019-12-24"},
+{"data": "2024-04-08", "nome": "Lei nº 14.836 de 08/04/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 41-A, caput", "art": "41-a", "acao": "alterou"}, {"dispositivo": "Art. 41-A, Parágrafo Único", "art": "41-a", "acao": "alterou"}], "id": "federal/leis-ordinarias/2024/lei-14836-2024-04-08"}
+],
+"controle": []
+}

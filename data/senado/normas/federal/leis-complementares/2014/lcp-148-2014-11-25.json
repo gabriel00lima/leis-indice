@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-complementares/2014/lcp-148-2014-11-25",
+"urn": "urn:lex:br:federal:lei.complementar:2014-11-25;148",
+"consultado_em": "2026-11-04",
+"codigo": "572903",
+"nome": "Lei Complementar nº 148 de 25/11/2014",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2014-11-26", "descricao": "Publicação Original [Diário Oficial da União de 26/11/2014] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2015-08-05", "nome": "Lei Complementar nº 151 de 05/08/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4, Parágrafo Único", "art": "4", "acao": "acrescentou"}], "id": "federal/leis-complementares/2015/lcp-151-2015-08-05"},
+{"data": "2015-12-29", "nome": "Decreto nº 8.616 de 29/12/2015", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2016-12-28", "nome": "Lei Complementar nº 156 de 28/12/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, § 1, Inciso 1", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, § 1, Inciso 3", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, § 1, Inciso 4", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, § 1, Inciso 6", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5-A", "art": "5-a", "acao": "acrescentou"}], "id": "federal/leis-complementares/2016/lcp-156-2016-12-28"},
+{"data": "2018-03-01", "nome": "Lei nº 13.631 de 01/03/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, § 1", "art": "5", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2018/lei-13631-2018-03-01"},
+{"data": "2021-01-13", "nome": "Lei Complementar nº 178 de 13/01/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 5-A", "art": "5-a", "acao": "revogou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}], "id": "federal/leis-complementares/2021/lcp-178-2021-01-13"},
+{"data": "2021-01-13", "nome": "Lei Complementar nº 178 de 13/01/2021", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-complementares/2021/lcp-178-2021-01-13"},
+{"data": "2024-05-16", "nome": "Lei Complementar nº 206 de 16/05/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 1", "art": "2", "acao": "ressalvou"}], "id": "federal/leis-complementares/2024/lcp-206-2024-05-16"},
+{"data": "2024-07-23", "nome": "Decreto nº 12.118 de 23/07/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 1", "art": "2", "acao": "ressalvou"}]}
+],
+"controle": []
+}

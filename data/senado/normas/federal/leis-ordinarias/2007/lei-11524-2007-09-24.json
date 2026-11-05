@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2007/lei-11524-2007-09-24",
+"urn": "urn:lex:br:federal:lei:2007-09-24;11524",
+"consultado_em": "2026-11-04",
+"codigo": "572676",
+"nome": "Lei nº 11.524 de 24/09/2007",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2007-09-25", "descricao": "Publicação Original [Diário Oficial da União de 25/09/2007] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2007-10-19", "nome": "Decreto nº 6.241 de 19/10/2007", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 17", "art": "17", "acao": "regulamentou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "regulamentou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "regulamentou"}]},
+{"data": "2007-12-28", "nome": "Medida Provisória nº 410 de 28/12/2007", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 6", "art": "1", "acao": "alterou"}]},
+{"data": "2008-05-27", "nome": "Medida Provisória nº 432 de 27/05/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2008-09-17", "nome": "Lei nº 11.775 de 17/09/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2008/lei-11775-2008-09-17"},
+{"data": "2008-11-04", "nome": "Decreto nº 6.628 de 04/11/2008", "tipo": "Aprovação de Estatuto", "dispositivos": []},
+{"data": "2009-03-03", "nome": "Lei nº 11.908 de 03/03/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-11908-2009-03-03"},
+{"data": "2012-09-21", "nome": "Lei nº 12.716 de 21/09/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}], "id": "federal/leis-ordinarias/2012/lei-12716-2012-09-21"}
+],
+"controle": []
+}

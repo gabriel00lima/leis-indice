@@ -1,0 +1,36 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4348-1964-06-26",
+"urn": "urn:lex:br:federal:lei:1964-06-26;4348",
+"consultado_em": "2026-11-04",
+"codigo": "546197",
+"nome": "Lei nº 4.348 de 26/06/1964",
+"apelidos": [
+"Lei do Mandado de Segurança (1964)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-07-03", "descricao": "Publicação Original [Diário Oficial da União de 03/07/1964] (p. 5857, col. 2)"}
+],
+"alteracoes": [
+{"data": "1989-12-22", "nome": "Lei nº 7.969 de 22/12/1989", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7969-1989-12-22"},
+{"data": "1993-11-23", "nome": "Medida Provisória nº 375 de 23/11/1993", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "correlato"}]},
+{"data": "1996-12-26", "nome": "Decreto nº 2.110 de 26/12/1996", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "correlato"}]},
+{"data": "2000-09-08", "nome": "Medida Provisória nº 2.059 de 08/09/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2000-09-27", "nome": "Medida Provisória nº 1.984-22 de 27/09/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2000-10-26", "nome": "Medida Provisória nº 1.984-23 de 26/10/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2000-11-23", "nome": "Medida Provisória nº 1.984-24 de 23/11/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2000-12-21", "nome": "Medida Provisória nº 1.984-25 de 21/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2000-12-27", "nome": "Medida Provisória nº 2.102-26 de 27/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2001-01-26", "nome": "Medida Provisória nº 2.102-27 de 26/01/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2001-02-23", "nome": "Medida Provisória nº 2.102-28 de 23/02/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2001-03-27", "nome": "Medida Provisória nº 2.102-29 de 27/03/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2001-04-26", "nome": "Medida Provisória nº 2.102-30 de 26/04/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2001-05-24", "nome": "Medida Provisória nº 2.102-31 de 24/05/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2001-06-21", "nome": "Medida Provisória nº 2.102-32 de 21/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2001-06-28", "nome": "Medida Provisória nº 2.180-33 de 28/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2001-07-27", "nome": "Medida Provisória nº 2.180-34 de 27/07/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2001-08-24", "nome": "Medida Provisória nº 2.180-35 de 24/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2004-07-15", "nome": "Lei nº 10.910 de 15/07/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-10910-2004-07-15"},
+{"data": "2009-08-07", "nome": "Lei nº 12.016 de 07/08/2009", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2009/lei-12016-2009-08-07"}
+],
+"controle": []
+}

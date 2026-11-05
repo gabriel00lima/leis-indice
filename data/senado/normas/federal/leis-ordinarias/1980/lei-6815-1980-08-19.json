@@ -1,0 +1,53 @@
+{
+"id": "federal/leis-ordinarias/1980/lei-6815-1980-08-19",
+"urn": "urn:lex:br:federal:lei:1980-08-19;6815",
+"consultado_em": "2026-11-04",
+"codigo": "548691",
+"nome": "Lei nº 6.815 de 19/08/1980",
+"apelidos": [
+"Estatuto do Estrangeiro (1980)",
+"Lei dos Estrangeiros (1980)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-08-21", "descricao": "Publicação Original [Diário Oficial da União de 21/08/1980] (p. 16533, col. 1)"},
+{"tipo": "RET", "data": "1980-08-22", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 22/08/1980] (p. 16629, col. 1)"},
+{"tipo": "REP", "data": "1981-12-10", "descricao": "Republicação Integral (Seq. 1) [Diário Oficial da União de 10/12/1981] (p. 23323, col. 1)"}
+],
+"alteracoes": [
+{"data": "1981-12-09", "nome": "Lei nº 6.964 de 09/12/1981", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1981/lei-6964-1981-12-09"},
+{"data": "1981-12-10", "nome": "Decreto nº 86.715 de 10/12/1981", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1983-12-20", "nome": "Lei nº 7.180 de 20/12/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 133", "art": "133", "acao": "revogou"}], "id": "federal/leis-ordinarias/1983/lei-7180-1983-12-20"},
+{"data": "1985-01-10", "nome": "Decreto nº 90.797 de 10/01/1985", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1985-01-23", "nome": "Decreto-Lei nº 2.236 de 23/01/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1985/del-2236-1985-01-23"},
+{"data": "1987-05-11", "nome": "Decreto nº 94.318 de 11/05/1987", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1988-10-03", "nome": "Decreto-Lei nº 2.481 de 03/10/1988", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1988/del-2481-1988-10-03"},
+{"data": "1988-10-18", "nome": "Decreto nº 96.998 de 18/10/1988", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1988-11-03", "nome": "Decreto nº 97.031 de 03/11/1988", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1988-11-03", "nome": "Medida Provisória nº 19 de 03/11/1988", "tipo": "Provisória de Vigência Determinada da Norma no Todo", "dispositivos": []},
+{"data": "1988-12-02", "nome": "Lei nº 7.685 de 02/12/1988", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/leis-ordinarias/1988/lei-7685-1988-12-02"},
+{"data": "1990-02-15", "nome": "Decreto nº 98.961 de 15/02/1990", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1992-04-10", "nome": "Medida Provisória nº 302 de 10/04/1992", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 129", "art": "129", "acao": "revogou"}]},
+{"data": "1992-05-13", "nome": "Lei nº 8.422 de 13/05/1992", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 129", "art": "129", "acao": "revogou"}], "id": "federal/leis-ordinarias/1992/lei-8422-1992-05-13"},
+{"data": "1993-02-03", "nome": "Decreto nº 740 de 03/02/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-06-22", "nome": "Decreto nº 840 de 22/06/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-12-27", "nome": "Medida Provisória nº 786 de 27/12/1994", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 132", "art": "132", "acao": "correlato"}]},
+{"data": "1995-01-26", "nome": "Medida Provisória nº 852 de 26/01/1995", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 131", "art": "131", "acao": "correlato"}]},
+{"data": "1995-04-13", "nome": "Decreto nº 1.455 de 13/04/1995", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1995-07-10", "nome": "Lei nº 9.076 de 10/07/1995", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 53", "art": "53", "acao": "revogou"}], "id": "federal/leis-ordinarias/1995/lei-9076-1995-07-10"},
+{"data": "1997-02-18", "nome": "Lei Complementar nº 89 de 18/02/1997", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 131", "art": "131", "acao": "correlato"}], "id": "federal/leis-complementares/1997/lcp-89-1997-02-18"},
+{"data": "1998-04-29", "nome": "Decreto nº 2.574 de 29/04/1998", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 13, caput, Inciso 5", "art": "13", "acao": "regulamentou"}]},
+{"data": "2009-07-02", "nome": "Lei nº 11.961 de 02/07/2009", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2009/lei-11961-2009-07-02"},
+{"data": "2009-12-18", "nome": "Lei nº 12.134 de 18/12/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 20, Parágrafo Único", "art": "20", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-12134-2009-12-18"},
+{"data": "2012-06-05", "nome": "Lei nº 12.663 de 05/06/2012", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2012/lei-12663-2012-06-05"},
+{"data": "2013-07-08", "nome": "Medida Provisória nº 621 de 08/07/2013", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2013-11-04", "nome": "Lei nº 12.878 de 04/11/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 80", "art": "80", "acao": "alterou"}, {"dispositivo": "Art. 80, § 1", "art": "80", "acao": "alterou"}, {"dispositivo": "Art. 80, § 2", "art": "80", "acao": "alterou"}, {"dispositivo": "Art. 80, § 3", "art": "80", "acao": "acrescentou"}, {"dispositivo": "Art. 81", "art": "81", "acao": "alterou"}, {"dispositivo": "Art. 81, Parágrafo Único", "art": "81", "acao": "acrescentou"}, {"dispositivo": "Art. 82", "art": "82", "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12878-2013-11-04"},
+{"data": "2014-05-06", "nome": "Lei nº 12.968 de 06/05/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "acrescentou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 10, Parágrafo Único", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 56, Parágrafo Único", "art": "56", "acao": "renumerou"}, {"dispositivo": "Art. 56, § 2", "art": "56", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2014/lei-12968-2014-05-06"},
+{"data": "2015-11-24", "nome": "Lei nº 13.193 de 24/11/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 130-A", "art": "130-a", "acao": "acrescentou"}, {"dispositivo": "Art. 130-A, Parágrafo Único", "art": "130-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2015/lei-13193-2015-11-24"},
+{"data": "2016-01-11", "nome": "Lei nº 13.243 de 11/01/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 13, caput, Inciso 5", "art": "13", "acao": "alterou"}, {"dispositivo": "Art. 13, caput, Inciso 8", "art": "13", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2016/lei-13243-2016-01-11"},
+{"data": "2016-05-10", "nome": "Decreto nº 8.757 de 10/05/2016", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2016-10-06", "nome": "Lei nº 13.344 de 06/10/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 18-A, caput", "art": "18-a", "acao": "acrescentou"}, {"dispositivo": "Art. 18-A, § 1", "art": "18-a", "acao": "acrescentou"}, {"dispositivo": "Art. 18-A, § 2", "art": "18-a", "acao": "acrescentou"}, {"dispositivo": "Art. 18-A, § 3", "art": "18-a", "acao": "acrescentou"}, {"dispositivo": "Art. 18-B, caput", "art": "18-b", "acao": "acrescentou"}, {"dispositivo": "Art. 42-A, caput", "art": "42-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2016/lei-13344-2016-10-06"},
+{"data": "2017-05-24", "nome": "Lei nº 13.445 de 24/05/2017", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2017/lei-13445-2017-05-24"},
+{"data": "2017-11-20", "nome": "Decreto nº 9.199 de 20/11/2017", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

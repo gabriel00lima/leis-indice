@@ -1,0 +1,22 @@
+{
+"id": "federal/decretos-lei/1979/del-1736-1979-12-20",
+"urn": "urn:lex:br:federal:decreto.lei:1979-12-20;1736",
+"consultado_em": "2026-11-04",
+"codigo": "526082",
+"nome": "Decreto-Lei nº 1.736 de 20/12/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-12-21", "descricao": "Publicação Original [Diário Oficial da União de 21/12/1979] (p. 19578, col. 2)"}
+],
+"alteracoes": [
+{"data": "1980-06-25", "nome": "Decreto Legislativo nº 48 de 25/06/1980", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1983-08-01", "nome": "Decreto-Lei nº 2.049 de 01/08/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2049-1983-08-01"},
+{"data": "1983-08-03", "nome": "Decreto-Lei nº 2.052 de 03/08/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2052-1983-08-03"},
+{"data": "1984-09-19", "nome": "Decreto-Lei nº 2.163 de 19/09/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2163-1984-09-19"},
+{"data": "1984-12-20", "nome": "Decreto-Lei nº 2.186 de 20/12/1984", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "correlato"}], "id": "federal/decretos-lei/1984/del-2186-1984-12-20"},
+{"data": "1985-12-23", "nome": "Lei nº 7.450 de 23/12/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7450-1985-12-23"},
+{"data": "1986-07-23", "nome": "Decreto-Lei nº 2.287 de 23/07/1986", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}], "id": "federal/decretos-lei/1986/del-2287-1986-07-23"},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "correlato"}]}
+],
+"controle": []
+}

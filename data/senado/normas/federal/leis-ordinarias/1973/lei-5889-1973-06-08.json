@@ -1,0 +1,32 @@
+{
+"id": "federal/leis-ordinarias/1973/lei-5889-1973-06-08",
+"urn": "urn:lex:br:federal:lei:1973-06-08;5889",
+"consultado_em": "2026-11-04",
+"codigo": "547765",
+"nome": "Lei nº 5.889 de 08/06/1973",
+"apelidos": [
+"Lei do Trabalho Rural (1973)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-06-11", "descricao": "Publicação Original [Diário Oficial da União de 11/06/1973] (p. 5585, col. 4)"}
+],
+"alteracoes": [
+{"data": "1974-02-12", "nome": "Decreto nº 73.626 de 12/02/1974", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1974-12-19", "nome": "Lei nº 6.195 de 19/12/1974", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/leis-ordinarias/1974/lei-6195-1974-12-19"},
+{"data": "1975-11-06", "nome": "Lei nº 6.260 de 06/11/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1975/lei-6260-1975-11-06"},
+{"data": "1982-10-14", "nome": "Decreto-Lei nº 1.963 de 14/10/1982", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1963-1982-10-14"},
+{"data": "1996-08-29", "nome": "Lei nº 9.300 de 29/08/1996", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9, § 5", "art": "9", "acao": "alterou"}], "id": "federal/leis-ordinarias/1996/lei-9300-1996-08-29"},
+{"data": "2001-07-27", "nome": "Medida Provisória nº 2.164-40 de 27/07/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 18", "art": "18", "acao": "alterou"}]},
+{"data": "2001-08-24", "nome": "Medida Provisória nº 2.164-41 de 24/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 18", "art": "18", "acao": "alterou"}]},
+{"data": "2007-12-28", "nome": "Medida Provisória nº 410 de 28/12/2007", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 14-A", "art": "14-a", "acao": "alterou"}]},
+{"data": "2008-06-20", "nome": "Lei nº 11.718 de 20/06/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14-A", "art": "14-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2008/lei-11718-2008-06-20"},
+{"data": "2015-10-21", "nome": "Lei nº 13.171 de 21/10/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 1", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2015/lei-13171-2015-10-21"},
+{"data": "2019-11-11", "nome": "Medida Provisória nº 905 de 11/11/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 18, caput", "art": "18", "acao": "alterou"}, {"dispositivo": "Art. 18, § 3", "art": "18", "acao": "alterou"}]},
+{"data": "2020-03-22", "nome": "Medida Provisória nº 927 de 22/03/2020", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2021-04-27", "nome": "Medida Provisória nº 1.046 de 27/04/2021", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2021-11-10", "nome": "Decreto nº 10.854 de 10/11/2021", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2022-03-25", "nome": "Medida Provisória nº 1.109 de 25/03/2022", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2022-08-15", "nome": "Lei nº 14.437 de 15/08/2022", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14437-2022-08-15"}
+],
+"controle": []
+}

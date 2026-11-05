@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-complementares/1998/lcp-93-1998-02-04",
+"urn": "urn:lex:br:federal:lei.complementar:1998-02-04;93",
+"consultado_em": "2026-11-04",
+"codigo": "572848",
+"nome": "Lei Complementar nº 93 de 04/02/1998",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1998-02-05", "descricao": "Publicação Original [Diário Oficial da União de 05/02/1998] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "1998-06-09", "nome": "Decreto nº 2.622 de 09/06/1998", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1999-04-13", "nome": "Decreto nº 3.027 de 13/04/1999", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2000-05-19", "nome": "Decreto nº 3.475 de 19/05/2000", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2003-11-25", "nome": "Decreto nº 4.892 de 25/11/2003", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2013-10-24", "nome": "Lei nº 12.873 de 24/10/2013", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2013/lei-12873-2013-10-24"},
+{"data": "2014-05-15", "nome": "Lei Complementar nº 145 de 15/05/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 7, § 1", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 7, § 2", "art": "7", "acao": "acrescentou"}, {"dispositivo": "Art. 8, caput, Inciso 5", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8, caput, Inciso 7", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8, caput, Inciso 8", "art": "8", "acao": "alterou"}], "id": "federal/leis-complementares/2014/lcp-145-2014-05-15"},
+{"data": "2023-06-28", "nome": "Decreto nº 11.585 de 28/06/2023", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

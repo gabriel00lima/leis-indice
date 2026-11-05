@@ -1,0 +1,25 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6468-1977-11-14",
+"urn": "urn:lex:br:federal:lei:1977-11-14;6468",
+"consultado_em": "2026-11-04",
+"codigo": "548344",
+"nome": "Lei nº 6.468 de 14/11/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-11-16", "descricao": "Publicação Original [Diário Oficial da União de 16/11/1977] (p. 15458, col. 2)"}
+],
+"alteracoes": [
+{"data": "1978-12-18", "nome": "Decreto-Lei nº 1.647 de 18/12/1978", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}], "id": "federal/decretos-lei/1978/del-1647-1978-12-18"},
+{"data": "1979-10-23", "nome": "Decreto-Lei nº 1.706 de 23/10/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}], "id": "federal/decretos-lei/1979/del-1706-1979-10-23"},
+{"data": "1979-12-20", "nome": "Decreto-Lei nº 1.736 de 20/12/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, Parágrafo Único", "art": "7", "acao": "alterou"}], "id": "federal/decretos-lei/1979/del-1736-1979-12-20"},
+{"data": "1981-12-16", "nome": "Decreto-Lei nº 1.895 de 16/12/1981", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 8, caput, Inciso 1", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8, caput, Inciso 2", "art": "8", "acao": "alterou"}], "id": "federal/decretos-lei/1981/del-1895-1981-12-16"},
+{"data": "1982-11-23", "nome": "Decreto-Lei nº 1.967 de 23/11/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1967-1982-11-23"},
+{"data": "1984-12-11", "nome": "Decreto-Lei nº 2.182 de 11/12/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2182-1984-12-11"},
+{"data": "1985-12-23", "nome": "Lei nº 7.450 de 23/12/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7450-1985-12-23"},
+{"data": "1986-07-23", "nome": "Decreto-Lei nº 2.287 de 23/07/1986", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1986/del-2287-1986-07-23"},
+{"data": "1987-04-08", "nome": "Decreto-Lei nº 2.325 de 08/04/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2325-1987-04-08"},
+{"data": "1987-08-27", "nome": "Decreto nº 94.805 de 27/08/1987", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1989-12-28", "nome": "Lei nº 7.988 de 28/12/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "revogou"}], "id": "federal/leis-ordinarias/1989/lei-7988-1989-12-28"}
+],
+"controle": []
+}

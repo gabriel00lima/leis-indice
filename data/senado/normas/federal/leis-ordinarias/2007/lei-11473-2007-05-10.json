@@ -1,0 +1,27 @@
+{
+"id": "federal/leis-ordinarias/2007/lei-11473-2007-05-10",
+"urn": "urn:lex:br:federal:lei:2007-05-10;11473",
+"consultado_em": "2026-11-04",
+"codigo": "572625",
+"nome": "Lei nº 11.473 de 10/05/2007",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2007-05-11", "descricao": "Publicação Original [Diário Oficial da União de 11/05/2007] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2015-06-23", "nome": "Medida Provisória nº 679 de 23/06/2015", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 7", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "acrescentou"}]},
+{"data": "2015-10-21", "nome": "Lei nº 13.173 de 21/10/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 7", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2015/lei-13173-2015-10-21"},
+{"data": "2016-07-06", "nome": "Medida Provisória nº 737 de 06/07/2016", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5, § 1", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 5, § 2", "art": "5", "acao": "acrescentou"}]},
+{"data": "2016-11-23", "nome": "Lei nº 13.361 de 23/11/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, § 1", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 5, § 2", "art": "5", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2016/lei-13361-2016-11-23"},
+{"data": "2016-12-19", "nome": "Medida Provisória nº 755 de 19/12/2016", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 8", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, caput, Inciso 9", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, § 1", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, § 2", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "2017-05-23", "nome": "Medida Provisória nº 781 de 23/05/2017", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 8", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 9", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, § 1", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, § 2", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "2017-10-26", "nome": "Lei nº 13.500 de 26/10/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, § 2", "art": "5", "acao": "vetado"}, {"dispositivo": "Art. 5, § 12", "art": "5", "acao": "vetado"}], "id": "federal/leis-ordinarias/2017/lei-13500-2017-10-26"},
+{"data": "2018-07-31", "nome": "Medida Provisória nº 846 de 31/07/2018", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 9", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 10", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 11", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "acrescentou"}]},
+{"data": "2018-12-12", "nome": "Lei nº 13.756 de 12/12/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2018/lei-13756-2018-12-12"},
+{"data": "2019-01-01", "nome": "Medida Provisória nº 870 de 01/01/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3, § 1", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, § 11", "art": "5", "acao": "alterou"}]},
+{"data": "2019-01-31", "nome": "Medida Provisória nº 872 de 31/01/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5, § 11", "art": "5", "acao": "alterou"}]},
+{"data": "2019-06-05", "nome": "Lei nº 13.841 de 05/06/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, § 11", "art": "5", "acao": "alterou"}], "id": "federal/leis-ordinarias/2019/lei-13841-2019-06-05"},
+{"data": "2019-06-18", "nome": "Lei nº 13.844 de 18/06/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3, § 1", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, § 11", "art": "5", "acao": "alterou"}], "id": "federal/leis-ordinarias/2019/lei-13844-2019-06-18"}
+],
+"controle": []
+}

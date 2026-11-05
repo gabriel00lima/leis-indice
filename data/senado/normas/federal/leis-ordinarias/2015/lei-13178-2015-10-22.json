@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2015/lei-13178-2015-10-22",
+"urn": "urn:lex:br:federal:lei:2015-10-22;13178",
+"consultado_em": "2026-11-04",
+"codigo": "584990",
+"nome": "Lei nº 13.178 de 22/10/2015",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2015-10-23", "descricao": "Publicação Original [Diário Oficial da União de 23/10/2015] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2021-06-22", "nome": "Lei nº 14.177 de 22/06/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 2", "art": "1", "acao": "vetado"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "vetado"}, {"dispositivo": "Art. 2, § 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 2, apenas o Caput", "art": "3", "acao": "vetado"}], "id": "federal/leis-ordinarias/2021/lei-14177-2021-06-22"},
+{"data": "2025-09-12", "nome": "Lei nº 15.206 de 12/09/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2025/lei-15206-2025-09-12"}
+],
+"controle": [
+{"data": "2022-11-25", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.623 de 25/11/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}, {"dispositivo": "Art. 2", "art": "2", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}, {"dispositivo": "Art. 3", "art": "3", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}], "decisao": {"classe": "ADI", "numero": "5623"}}
+]
+}

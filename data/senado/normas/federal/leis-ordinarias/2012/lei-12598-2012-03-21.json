@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2012/lei-12598-2012-03-21",
+"urn": "urn:lex:br:federal:lei:2012-03-21;12598",
+"consultado_em": "2026-11-04",
+"codigo": "589521",
+"nome": "Lei nº 12.598 de 21/03/2012",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2012-03-22", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 22/03/2012] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2012-09-20", "nome": "Medida Provisória nº 582 de 20/09/2012", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 9-A", "art": "9-a", "acao": "alterou"}, {"dispositivo": "Art. 9-B", "art": "9-b", "acao": "alterou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}]},
+{"data": "2013-03-28", "nome": "Decreto nº 7.970 de 28/03/2013", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2013-04-02", "nome": "Lei nº 12.794 de 02/04/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9-A", "art": "9-a", "acao": "acrescentou"}, {"dispositivo": "Art. 9-B", "art": "9-b", "acao": "acrescentou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12794-2013-04-02"},
+{"data": "2013-10-16", "nome": "Decreto nº 8.122 de 16/10/2013", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2014-11-13", "nome": "Lei nº 13.043 de 13/11/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}], "id": "federal/leis-ordinarias/2014/lei-13043-2014-11-13"},
+{"data": "2022-06-09", "nome": "Medida Provisória nº 1.123 de 09/06/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1-A, caput", "art": "1-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-A", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-B", "art": "2-b", "acao": "acrescentou"}]},
+{"data": "2022-10-25", "nome": "Lei nº 14.459 de 25/10/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1-A, caput", "art": "1-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-A", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-B", "art": "2-b", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14459-2022-10-25"}
+],
+"controle": []
+}

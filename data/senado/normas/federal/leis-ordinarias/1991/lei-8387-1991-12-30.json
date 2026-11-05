@@ -1,0 +1,41 @@
+{
+"id": "federal/leis-ordinarias/1991/lei-8387-1991-12-30",
+"urn": "urn:lex:br:federal:lei:1991-12-30;8387",
+"consultado_em": "2026-11-04",
+"codigo": "550263",
+"nome": "Lei nº 8.387 de 30/12/1991",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1991-12-31", "descricao": "Publicação Original [Diário Oficial da União de 31/12/1991] (p. 31177, col. 1)"}
+],
+"alteracoes": [
+{"data": "1992-05-08", "nome": "Decreto nº 517 de 08/05/1992", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "regulamentou"}]},
+{"data": "1996-04-26", "nome": "Decreto nº 1.885 de 26/04/1996", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2, § 3", "art": "2", "acao": "regulamentou"}]},
+{"data": "2001-01-11", "nome": "Lei nº 10.176 de 11/01/2001", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2001/lei-10176-2001-01-11"},
+{"data": "2002-10-01", "nome": "Decreto nº 4.401 de 01/10/2002", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "regulamentou"}]},
+{"data": "2002-12-30", "nome": "Medida Provisória nº 100 de 30/12/2002", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2003-04-22", "nome": "Lei nº 10.664 de 22/04/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 13", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 14", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2003/lei-10664-2003-04-22"},
+{"data": "2003-12-29", "nome": "Lei nº 10.833 de 29/12/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2003/lei-10833-2003-12-29"},
+{"data": "2004-12-30", "nome": "Lei nº 11.077 de 30/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 1", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 3", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 4", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 5", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 6", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 7", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 8", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 9", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 10", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 11", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 12", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 13", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 14", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11077-2004-12-30"},
+{"data": "2005-11-21", "nome": "Lei nº 11.196 de 21/11/2005", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 19", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2005/lei-11196-2005-11-21"},
+{"data": "2006-12-29", "nome": "Decreto nº 6.008 de 29/12/2006", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "regulamentou"}]},
+{"data": "2006-12-29", "nome": "Medida Provisória nº 340 de 29/12/2006", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 13", "art": "2", "acao": "alterou"}]},
+{"data": "2007-02-27", "nome": "Lei nº 11.452 de 27/02/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 13", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2007/lei-11452-2007-02-27"},
+{"data": "2007-05-31", "nome": "Lei nº 11.482 de 31/05/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 13", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2007/lei-11482-2007-05-31"},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2009-12-15", "nome": "Medida Provisória nº 472 de 15/12/2009", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2010-06-11", "nome": "Lei nº 12.249 de 11/06/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2010/lei-12249-2010-06-11"},
+{"data": "2014-08-08", "nome": "Lei nº 13.023 de 08/08/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 13", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2014/lei-13023-2014-08-08"},
+{"data": "2017-12-08", "nome": "Medida Provisória nº 810 de 08/12/2017", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2018-06-11", "nome": "Lei nº 13.674 de 11/06/2018", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2, § 4", "art": "2", "acao": "correlato"}, {"dispositivo": "Art. 2, § 7", "art": "2", "acao": "correlato"}], "id": "federal/leis-ordinarias/2018/lei-13674-2018-06-11"},
+{"data": "2018-06-11", "nome": "Lei nº 13.674 de 11/06/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 7, Inciso 2, Alínea d", "art": "2", "acao": "vetado"}, {"dispositivo": "Art. 2, § 24", "art": "2", "acao": "vetado"}, {"dispositivo": "Art. 2, § 25", "art": "2", "acao": "vetado"}, {"dispositivo": "Art. 2, § 26", "art": "2", "acao": "vetado"}], "id": "federal/leis-ordinarias/2018/lei-13674-2018-06-11"},
+{"data": "2019-07-25", "nome": "Decreto nº 9.941 de 25/07/2019", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "correlato"}]},
+{"data": "2019-12-26", "nome": "Lei nº 13.969 de 26/12/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 2, § 27", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/2019/lei-13969-2019-12-26"},
+{"data": "2020-10-15", "nome": "Decreto nº 10.521 de 15/10/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 3", "art": "2", "acao": "ressalvou"}]},
+{"data": "2020-10-15", "nome": "Decreto nº 10.521 de 15/10/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "regulamentou"}]},
+{"data": "2021-03-29", "nome": "Medida Provisória nº 1.040 de 29/03/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}]},
+{"data": "2021-08-26", "nome": "Lei nº 14.195 de 26/08/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}], "id": "federal/leis-ordinarias/2021/lei-14195-2021-08-26"},
+{"data": "2026-04-29", "nome": "Decreto nº 12.955 de 29/04/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "ressalvou"}]}
+],
+"controle": []
+}

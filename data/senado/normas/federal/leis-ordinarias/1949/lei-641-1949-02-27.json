@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-641-1949-02-27",
+"urn": "urn:lex:br:federal:lei:1949-02-27;641",
+"consultado_em": "2026-11-04",
+"codigo": "542184",
+"nome": "Lei nº 641 de 27/02/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-03-08", "descricao": "Publicação Original [Diário Oficial da União de 08/03/1949] (p. 3258, col. 2)"}
+],
+"alteracoes": [
+{"data": "1950-11-25", "nome": "Lei nº 1.243 de 25/11/1950", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1950/lei-1243-1950-11-25"},
+{"data": "1951-07-13", "nome": "Lei nº 1.397 de 13/07/1951", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1951/lei-1397-1951-07-13"},
+{"data": "1952-10-02", "nome": "Lei nº 1.685 de 02/10/1952", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1952/lei-1685-1952-10-02"}
+],
+"controle": []
+}

@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9140-1995-12-04",
+"urn": "urn:lex:br:federal:lei:1995-12-04;9140",
+"consultado_em": "2026-11-04",
+"codigo": "551016",
+"nome": "Lei nº 9.140 de 04/12/1995",
+"apelidos": [
+"Lei dos Mortos e Desaparecidos Políticos (1995)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-12-05", "descricao": "Publicação Original [Diário Oficial da União de 05/12/1995] (p. 19985, col. 1)"}
+],
+"alteracoes": [
+{"data": "1995-12-18", "nome": "Decreto de 18/12/1995 ( seq-sf: 1 )", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2002-08-14", "nome": "Lei nº 10.536 de 14/08/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "prorrogação de prazo"}, {"dispositivo": "Art. 10", "art": "10", "acao": "prorrogação de prazo"}], "id": "federal/leis-ordinarias/2002/lei-10536-2002-08-14"},
+{"data": "2004-03-24", "nome": "Medida Provisória nº 176 de 24/03/2004", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}]},
+{"data": "2004-06-01", "nome": "Lei nº 10.875 de 01/06/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-10875-2004-06-01"},
+{"data": "2009-10-13", "nome": "Decreto nº 6.980 de 13/10/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2018-02-26", "nome": "Decreto nº 9.293 de 26/02/2018", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 11, § 2", "art": "11", "acao": "correlato"}]},
+{"data": "2018-08-29", "nome": "Decreto nº 9.484 de 29/08/2018", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 11, § 2", "art": "11", "acao": "correlato"}]}
+],
+"controle": []
+}

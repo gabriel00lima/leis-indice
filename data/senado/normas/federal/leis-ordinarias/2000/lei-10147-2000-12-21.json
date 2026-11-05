@@ -1,0 +1,29 @@
+{
+"id": "federal/leis-ordinarias/2000/lei-10147-2000-12-21",
+"urn": "urn:lex:br:federal:lei:2000-12-21;10147",
+"consultado_em": "2026-11-04",
+"codigo": "552023",
+"nome": "Lei nº 10.147 de 21/12/2000",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/2000] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2001-03-27", "nome": "Medida Provisória nº 2.113-29 de 27/03/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}]},
+{"data": "2001-04-24", "nome": "Decreto nº 3.803 de 24/04/2001", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "regulamentou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "regulamentou"}]},
+{"data": "2001-04-26", "nome": "Medida Provisória nº 2.113-30 de 26/04/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}]},
+{"data": "2001-05-24", "nome": "Medida Provisória nº 2.113-31 de 24/05/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}]},
+{"data": "2001-06-21", "nome": "Medida Provisória nº 2.113-32 de 21/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}]},
+{"data": "2001-06-28", "nome": "Medida Provisória nº 2.158-33 de 28/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}]},
+{"data": "2001-07-27", "nome": "Medida Provisória nº 2.158-34 de 27/07/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}]},
+{"data": "2001-08-24", "nome": "Medida Provisória nº 2.158-35 de 24/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}]},
+{"data": "2002-06-20", "nome": "Medida Provisória nº 41 de 20/06/2002", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "2002-11-13", "nome": "Lei nº 10.548 de 13/11/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2002/lei-10548-2002-11-13"},
+{"data": "2004-04-30", "nome": "Lei nº 10.865 de 30/04/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 4", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-10865-2004-04-30"},
+{"data": "2013-03-08", "nome": "Medida Provisória nº 609 de 08/03/2013", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2013-07-09", "nome": "Lei nº 12.839 de 09/07/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1, Alínea b", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12839-2013-07-09"},
+{"data": "2014-11-13", "nome": "Lei nº 13.043 de 13/11/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 4", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, § 4, Inciso 1", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, § 4, Inciso 2", "art": "3", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2014/lei-13043-2014-11-13"},
+{"data": "2026-04-29", "nome": "Decreto nº 12.955 de 29/04/2026", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "correlato"}]}
+],
+"controle": []
+}

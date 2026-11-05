@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1973/lei-5919-1973-09-17",
+"urn": "urn:lex:br:federal:lei:1973-09-17;5919",
+"consultado_em": "2026-11-04",
+"codigo": "547795",
+"nome": "Lei nº 5.919 de 17/09/1973",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-09-18", "descricao": "Publicação Original [Diário Oficial da União de 18/09/1973] (p. 9345, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-10-19", "nome": "Decreto nº 72.962 de 19/10/1973", "tipo": "Aprovação de Estatuto", "dispositivos": []},
+{"data": "1974-12-06", "nome": "Lei nº 6.159 de 06/12/1974", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1974/lei-6159-1974-12-06"},
+{"data": "1982-04-13", "nome": "Lei nº 6.982 de 13/04/1982", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/1982/lei-6982-1982-04-13"}
+],
+"controle": []
+}

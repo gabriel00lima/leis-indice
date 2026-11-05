@@ -1,0 +1,29 @@
+{
+"id": "federal/decretos-lei/1987/del-2365-1987-10-27",
+"urn": "urn:lex:br:federal:decreto.lei:1987-10-27;2365",
+"consultado_em": "2026-11-04",
+"codigo": "527343",
+"nome": "Decreto-Lei nº 2.365 de 27/10/1987",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1987-10-28", "descricao": "Publicação Original [Diário Oficial da União de 28/10/1987] (p. 17773, col. 1)"}
+],
+"alteracoes": [
+{"data": "1987-11-04", "nome": "Decreto-Lei nº 2.366 de 04/11/1987", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 4", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 5", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}], "id": "federal/decretos-lei/1987/del-2366-1987-11-04"},
+{"data": "1987-11-18", "nome": "Decreto-Lei nº 2.371 de 18/11/1987", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}], "id": "federal/decretos-lei/1987/del-2371-1987-11-18"},
+{"data": "1987-11-19", "nome": "Decreto-Lei nº 2.374 de 19/11/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2374-1987-11-19"},
+{"data": "1987-12-18", "nome": "Decreto-Lei nº 2.388 de 18/12/1987", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 3", "art": "1", "acao": "revogou"}], "id": "federal/decretos-lei/1987/del-2388-1987-12-18"},
+{"data": "1987-12-29", "nome": "Decreto-Lei nº 2.405 de 29/12/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2405-1987-12-29"},
+{"data": "1988-08-26", "nome": "Decreto Legislativo nº 40 de 26/08/1988", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1989-10-24", "nome": "Medida Provisória nº 95 de 24/10/1989", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}]},
+{"data": "1989-11-14", "nome": "Medida Provisória nº 106 de 14/11/1989", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}]},
+{"data": "1989-12-07", "nome": "Resolução da Câmara dos Deputados nº 25 de 07/12/1989", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1989-12-12", "nome": "Lei nº 7.923 de 12/12/1989", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "com novo tratamento da matéria"}, {"dispositivo": "Art. 2", "art": "2", "acao": "com novo tratamento da matéria"}], "id": "federal/leis-ordinarias/1989/lei-7923-1989-12-12"},
+{"data": "1989-12-12", "nome": "Lei nº 7.923 de 12/12/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}], "id": "federal/leis-ordinarias/1989/lei-7923-1989-12-12"},
+{"data": "1989-12-15", "nome": "Resolução do Senado Federal nº 87 de 15/12/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "1995-01-26", "nome": "Medida Provisória nº 858 de 26/01/1995", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}]},
+{"data": "1995-02-24", "nome": "Medida Provisória nº 914 de 24/02/1995", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}]},
+{"data": "1995-03-17", "nome": "Lei nº 9.007 de 17/03/1995", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}], "id": "federal/leis-ordinarias/1995/lei-9007-1995-03-17"}
+],
+"controle": []
+}

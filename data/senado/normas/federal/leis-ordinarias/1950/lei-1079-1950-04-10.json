@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1079-1950-04-10",
+"urn": "urn:lex:br:federal:lei:1950-04-10;1079",
+"consultado_em": "2026-11-04",
+"codigo": "542686",
+"nome": "Lei nº 1.079 de 10/04/1950",
+"apelidos": [
+"Lei dos Crimes de Responsabilidade (1950)",
+"Lei do Impeachment (1950)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-04-12", "descricao": "Publicação Original [Diário Oficial da União de 12/04/1950] (p. 5425, col. 2)"}
+],
+"alteracoes": [
+{"data": "1959-01-03", "nome": "Lei nº 3.528 de 03/01/1959", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1959/lei-3528-1959-01-03"},
+{"data": "1965-10-27", "nome": "Ato Institucional nº 2 de 27/10/1965", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1983-06-28", "nome": "Lei nº 7.106 de 28/06/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1983/lei-7106-1983-06-28"},
+{"data": "2000-10-19", "nome": "Lei nº 10.028 de 19/10/2000", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 39-A", "art": "39-a", "acao": "acrescentou"}, {"dispositivo": "Art. 40-A", "art": "40-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2000/lei-10028-2000-10-19"},
+{"data": "2022-06-23", "nome": "Lei Complementar nº 194 de 23/06/2022", "tipo": "Ressalva Permanente da Norma no todo", "dispositivos": [], "id": "federal/leis-complementares/2022/lcp-194-2022-06-23"},
+{"data": "2026-01-13", "nome": "Lei Complementar nº 227 de 13/01/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 79-A", "art": "79-a", "acao": "acrescentou"}, {"dispositivo": "Art. 79-B, caput", "art": "79-b", "acao": "acrescentou"}], "id": "federal/leis-complementares/2026/lcp-227-2026-01-13"}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1941/del-3864-1941-11-24",
+"urn": "urn:lex:br:federal:decreto.lei:1941-11-24;3864",
+"consultado_em": "2026-11-04",
+"codigo": "528951",
+"nome": "Decreto-Lei nº 3.864 de 24/11/1941",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1941-11-29", "descricao": "Publicação Original [Diário Oficial da União de 29/11/1941] (p. 22359, col. 2)"},
+{"tipo": "REP", "data": "1941-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1941 - vol. 007] (p. 526, col. 1)"}
+],
+"alteracoes": [
+{"data": "1942-04-28", "nome": "Decreto-Lei nº 4.281 de 28/04/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4281-1942-04-28"},
+{"data": "1944-02-23", "nome": "Decreto-Lei nº 6.289 de 23/02/1944", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1944/del-6289-1944-02-23"}
+],
+"controle": []
+}

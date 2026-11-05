@@ -1,0 +1,53 @@
+{
+"id": "federal/leis-ordinarias/2018/lei-13707-2018-08-14",
+"urn": "urn:lex:br:federal:lei:2018-08-14;13707",
+"consultado_em": "2026-11-04",
+"codigo": "27457218",
+"nome": "Lei nº 13.707 de 14/08/2018",
+"apelidos": [
+"Lei de Diretrizes Orçamentárias - LDO (2019)"
+],
+"publicacoes": [
+{"tipo": "ANX", "data": "2018-08-15", "descricao": "Publicação Original de Anexo (003 - Anexo III) [Diário Oficial da União de 15/08/2018] (p. 20, col. 1)"},
+{"tipo": "ANX", "data": "2018-08-15", "descricao": "Publicação Original de Anexo (005 - Anexo V) [Diário Oficial da União de 15/08/2018] (p. 24, col. 1)"},
+{"tipo": "PUB", "data": "2018-08-15", "descricao": "Publicação Original [Diário Oficial da União de 15/08/2018] (p. 1, col. 1)"},
+{"tipo": "ANX", "data": "2018-08-15", "descricao": "Publicação Original de Anexo (007 - Anexo VII) [Diário Oficial da União de 15/08/2018] (p. 52, col. 1)"},
+{"tipo": "ANX", "data": "2018-08-15", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União de 15/08/2018] (p. 18, col. 3)"},
+{"tipo": "ANX", "data": "2018-08-15", "descricao": "Publicação Original de Anexo (002 - Anexo II) [Diário Oficial da União de 15/08/2018] (p. 18, col. 3)"},
+{"tipo": "ANX", "data": "2018-08-15", "descricao": "Publicação Original de Anexo (006 - Anexo VI) [Diário Oficial da União de 15/08/2018] (p. 50, col. 2)"},
+{"tipo": "ANX", "data": "2018-08-15", "descricao": "Publicação Original de Anexo (004 - Anexo IV) [Diário Oficial da União de 15/08/2018] (p. 21, col. 1)"}
+],
+"alteracoes": [
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, § 13", "art": "6", "acao": "veto"}, {"dispositivo": "Art. 11, caput, Inciso 26", "art": "11", "acao": "veto"}, {"dispositivo": "Art. 11, § 3", "art": "11", "acao": "veto"}, {"dispositivo": "Art. 17, § 1, Inciso 3, Alínea f", "art": "17", "acao": "veto"}, {"dispositivo": "Art. 21, § 4, Inciso 1", "art": "21", "acao": "veto"}, {"dispositivo": "Art. 21, § 4, Inciso 2", "art": "21", "acao": "veto"}, {"dispositivo": "Art. 21, § 5", "art": "21", "acao": "veto"}, {"dispositivo": "Art. 24, caput", "art": "24", "acao": "veto"}, {"dispositivo": "Art. 24, Parágrafo Único", "art": "24", "acao": "veto"}, {"dispositivo": "Art. 25", "art": "25", "acao": "veto"}, {"dispositivo": "Art. 40, § 6", "art": "40", "acao": "veto"}, {"dispositivo": "Art. 42, caput, Inciso 1", "art": "42", "acao": "veto"}, {"dispositivo": "Art. 42, caput, Inciso 3", "art": "42", "acao": "veto"}, {"dispositivo": "Art. 42, § 2", "art": "42", "acao": "veto"}, {"dispositivo": "Art. 42, § 3", "art": "42", "acao": "veto"}, {"dispositivo": "Art. 43", "art": "43", "acao": "veto"}, {"dispositivo": "Art. 71", "art": "71", "acao": "veto"}, {"dispositivo": "Art. 76, caput, Inciso 1, Alínea c, Item 1", "art": "76", "acao": "veto"}, {"dispositivo": "Art. 78, § 9", "art": "78", "acao": "veto"}, {"dispositivo": "Art. 79, Parágrafo Único", "art": "79", "acao": "veto"}, {"dispositivo": "Art. 101, § 2", "art": "101", "acao": "veto"}, {"dispositivo": "Art. 138", "art": "138", "acao": "veto"}, {"dispositivo": "Anexo 7", "art": null, "acao": "veto de parte do texto"}]},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-14", "nome": "Mensagem de Veto Parcial nº 449 de 14/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-02-08", "nome": "Decreto nº 9.702 de 08/02/2019", "tipo": "Delegação de Competência", "dispositivos": [{"dispositivo": "Art. 47, caput", "art": "47", "acao": "dispositivo com competência delegada"}, {"dispositivo": "Art. 49, § 2", "art": "49", "acao": "dispositivo com competência delegada"}, {"dispositivo": "Art. 52", "art": "52", "acao": "dispositivo com competência delegada"}, {"dispositivo": "Art. 53", "art": "53", "acao": "dispositivo com competência delegada"}, {"dispositivo": "Art. 54", "art": "54", "acao": "dispositivo com competência delegada"}]},
+{"data": "2019-02-15", "nome": "Decreto nº 9.711 de 15/02/2019", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 58", "art": "58", "acao": "regulamentou"}]},
+{"data": "2019-07-11", "nome": "Lei nº 13.857 de 11/07/2019", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2019/lei-13857-2019-07-11"},
+{"data": "2019-07-11", "nome": "Lei nº 13.857 de 11/07/2019", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2019/lei-13857-2019-07-11"},
+{"data": "2019-07-11", "nome": "Lei nº 13.857 de 11/07/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 17", "art": "17", "acao": "alterou"}, {"dispositivo": "Art. 27, § 10", "art": "27", "acao": "acrescentou"}, {"dispositivo": "Art. 47, § 2", "art": "47", "acao": "alterou"}, {"dispositivo": "Art. 55, caput", "art": "55", "acao": "alterou"}, {"dispositivo": "Art. 55, caput, Inciso 1", "art": "55", "acao": "revogou"}, {"dispositivo": "Art. 55, caput, Inciso 2", "art": "55", "acao": "revogou"}, {"dispositivo": "Art. 78, § 10", "art": "78", "acao": "acrescentou"}, {"dispositivo": "Art. 101", "art": "101", "acao": "alterou"}], "id": "federal/leis-ordinarias/2019/lei-13857-2019-07-11"},
+{"data": "2019-11-07", "nome": "Lei nº 13.897 de 07/11/2019", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2019/lei-13897-2019-11-07"},
+{"data": "2019-11-07", "nome": "Lei nº 13.897 de 07/11/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 46, § 2", "art": "46", "acao": "alterou"}, {"dispositivo": "Art. 88-A, caput", "art": "88-a", "acao": "acrescentou"}, {"dispositivo": "Art. 88-A, caput", "art": "88-a", "acao": "vetado"}], "id": "federal/leis-ordinarias/2019/lei-13897-2019-11-07"},
+{"data": "2019-11-07", "nome": "Lei nº 13.897 de 07/11/2019", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2019/lei-13897-2019-11-07"}
+],
+"controle": []
+}

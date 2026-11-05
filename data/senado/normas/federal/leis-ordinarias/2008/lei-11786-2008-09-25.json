@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11786-2008-09-25",
+"urn": "urn:lex:br:federal:lei:2008-09-25;11786",
+"consultado_em": "2026-11-04",
+"codigo": "582208",
+"nome": "Lei nº 11.786 de 25/09/2008",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-09-26", "descricao": "Publicação Original [Diário Oficial da União de 26/09/2008] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-05-14", "nome": "Medida Provisória nº 462 de 14/05/2009", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2009-10-13", "nome": "Lei nº 12.058 de 13/10/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2-A", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-B", "art": "2-b", "acao": "acrescentou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 11, Parágrafo Único", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 11-A", "art": "11-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2009/lei-12058-2009-10-13"},
+{"data": "2010-01-26", "nome": "Decreto nº 7.070 de 26/01/2010", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2014-11-13", "nome": "Lei nº 13.043 de 13/11/2014", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2014/lei-13043-2014-11-13"}
+],
+"controle": []
+}

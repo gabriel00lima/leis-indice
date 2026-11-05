@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1997/lei-9519-1997-11-26",
+"urn": "urn:lex:br:federal:lei:1997-11-26;9519",
+"consultado_em": "2026-11-04",
+"codigo": "551395",
+"nome": "Lei nº 9.519 de 26/11/1997",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1997-11-27", "descricao": "Publicação Original [Diário Oficial da União de 27/11/1997] (p. 27741, col. 1)"}
+],
+"alteracoes": [
+{"data": "2008-03-10", "nome": "Lei nº 11.643 de 10/03/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11, caput, Inciso 2", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 11, caput, Inciso 3", "art": "11", "acao": "alterou"}], "id": "federal/leis-ordinarias/2008/lei-11643-2008-03-10"},
+{"data": "2010-03-11", "nome": "Lei nº 12.216 de 11/03/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 7-A", "art": "7-a", "acao": "acrescentou"}, {"dispositivo": "Art. 7-B", "art": "7-b", "acao": "acrescentou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 11, caput, Inciso 3", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 11, caput, Inciso 4", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 11, caput, Inciso 5", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 11, caput, Inciso 6", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 16", "art": "16", "acao": "alterou"}, {"dispositivo": "Art. 17", "art": "17", "acao": "alterou"}], "id": "federal/leis-ordinarias/2010/lei-12216-2010-03-11"},
+{"data": "2017-12-18", "nome": "Lei nº 13.541 de 18/12/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, § 1", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 9, § 1, apenas o Caput", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 9, § 1, Inciso 1", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 9, § 1, Inciso 2", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 9, § 2", "art": "9", "acao": "revogou"}, {"dispositivo": "Art. 10, Parágrafo Único", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 12, § 4", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 16, Parágrafo Único", "art": "16", "acao": "alterou"}, {"dispositivo": "Art. 18, Parágrafo Único", "art": "18", "acao": "revogou"}], "id": "federal/leis-ordinarias/2017/lei-13541-2017-12-18"},
+{"data": "2020-02-11", "nome": "Decreto nº 10.237 de 11/02/2020", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2021-02-05", "nome": "Decreto nº 10.619 de 05/02/2021", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 12, caput", "art": "12", "acao": "correlato"}]}
+],
+"controle": []
+}

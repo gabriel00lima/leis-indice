@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1973/lei-5925-1973-10-01",
+"urn": "urn:lex:br:federal:lei:1973-10-01;5925",
+"consultado_em": "2026-11-04",
+"codigo": "547801",
+"nome": "Lei nº 5.925 de 01/10/1973",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-10-02", "descricao": "Publicação Original [Diário Oficial da União de 02/10/1973] (p. 9906, col. 3)"}
+],
+"alteracoes": [
+{"data": "1975-10-07", "nome": "Lei nº 6.246 de 07/10/1975", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1975/lei-6246-1975-10-07"},
+{"data": "1982-08-31", "nome": "Lei nº 7.019 de 31/08/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7019-1982-08-31"},
+{"data": "1985-09-11", "nome": "Lei nº 7.363 de 11/09/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7363-1985-09-11"}
+],
+"controle": []
+}

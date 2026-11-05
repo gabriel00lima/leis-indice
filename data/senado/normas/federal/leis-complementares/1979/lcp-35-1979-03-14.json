@@ -1,0 +1,37 @@
+{
+"id": "federal/leis-complementares/1979/lcp-35-1979-03-14",
+"urn": "urn:lex:br:federal:lei.complementar:1979-03-14;35",
+"consultado_em": "2026-11-04",
+"codigo": "540740",
+"nome": "Lei Complementar nº 35 de 14/03/1979",
+"apelidos": [
+"Lei Orgânica da Magistratura Nacional (1979) (Loman)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-03-14", "descricao": "Publicação Original [Diário Oficial da União de 14/03/1979] (p. 3689, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-11-13", "nome": "Lei Complementar nº 37 de 13/11/1979", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/1979/lcp-37-1979-11-13"},
+{"data": "1981-04-30", "nome": "Lei nº 6.903 de 30/04/1981", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1981/lei-6903-1981-04-30"},
+{"data": "1983-03-28", "nome": "Decreto-Lei nº 2.019 de 28/03/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2019-1983-03-28"},
+{"data": "1986-12-22", "nome": "Lei Complementar nº 54 de 22/12/1986", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/1986/lcp-54-1986-12-22"},
+{"data": "1988-09-21", "nome": "Lei nº 7.671 de 21/09/1988", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1988/lei-7671-1988-09-21"},
+{"data": "1989-01-06", "nome": "Lei nº 7.717 de 06/01/1989", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7717-1989-01-06"},
+{"data": "1989-01-06", "nome": "Lei nº 7.721 de 06/01/1989", "tipo": "Permanente de Vigência Determinada da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7721-1989-01-06"},
+{"data": "1989-01-06", "nome": "Lei nº 7.722 de 06/01/1989", "tipo": "Permanente de Vigência Determinada da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7722-1989-01-06"},
+{"data": "1989-01-06", "nome": "Lei nº 7.724 de 06/01/1989", "tipo": "Permanente de Vigência Determinada da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7724-1989-01-06"},
+{"data": "1989-10-06", "nome": "Lei Complementar nº 60 de 06/10/1989", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/1989/lcp-60-1989-10-06"},
+{"data": "1989-10-18", "nome": "Lei nº 7.842 de 18/10/1989", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7842-1989-10-18"},
+{"data": "1989-11-08", "nome": "Lei nº 7.872 de 08/11/1989", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7872-1989-11-08"},
+{"data": "1989-11-09", "nome": "Lei nº 7.873 de 09/11/1989", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7873-1989-11-09"},
+{"data": "1989-12-06", "nome": "Lei nº 7.907 de 06/12/1989", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7907-1989-12-06"},
+{"data": "1989-12-07", "nome": "Lei nº 7.911 de 07/12/1989", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7911-1989-12-07"},
+{"data": "1990-05-28", "nome": "Lei nº 8.038 de 28/05/1990", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/leis-ordinarias/1990/lei-8038-1990-05-28"}
+],
+"controle": [
+{"data": "1990-03-26", "nome": "Resolução do Senado Federal nº 12 de 26/03/1990", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 45, Parágrafo Único", "art": "45", "efeito": "inconstitucional", "texto": "Suspensão de Execução por Inconstitucionalidade"}]},
+{"data": "1993-04-27", "nome": "Resolução do Senado Federal nº 31 de 27/04/1993", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 65, § 3", "art": "65", "efeito": "inconstitucional", "texto": "Suspensão de Execução por Inconstitucionalidade"}]},
+{"data": "2020-06-25", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 3.976 de 25/06/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 102", "art": "102", "efeito": "constitucional", "texto": "Declarado Não Recepcionado pela Constituição"}], "decisao": {"classe": "ADI", "numero": "3976"}},
+{"data": "2025-12-15", "nome": "Acórdão da Arguição de Descumprimento de Preceito Fundamental nº 677 de 15/12/2025", "tipo": "Recepção pela Constituição", "dispositivos": [{"dispositivo": "Art. 57, caput", "art": "57", "efeito": "constitucional", "texto": "Dispositivo Recepcionado pela Constituição"}, {"dispositivo": "Art. 57, § 1", "art": "57", "efeito": "constitucional", "texto": "Dispositivo Recepcionado pela Constituição"}, {"dispositivo": "Art. 57, § 2", "art": "57", "efeito": "constitucional", "texto": "Dispositivo Recepcionado pela Constituição"}], "decisao": {"classe": "ADPF", "numero": "677"}}
+]
+}

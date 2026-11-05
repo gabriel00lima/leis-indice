@@ -1,0 +1,40 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6437-1977-08-20",
+"urn": "urn:lex:br:federal:lei:1977-08-20;6437",
+"consultado_em": "2026-11-04",
+"codigo": "548313",
+"nome": "Lei nº 6.437 de 20/08/1977",
+"apelidos": [
+"Lei de Infrações à Legislação Sanitária (1977)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-08-24", "descricao": "Publicação Original [Diário Oficial da União de 24/08/1977] (p. 11145, col. 1)"}
+],
+"alteracoes": [
+{"data": "1989-11-29", "nome": "Medida Provisória nº 116 de 29/11/1989", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "1989-12-22", "nome": "Lei nº 7.967 de 22/12/1989", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7967-1989-12-22"},
+{"data": "1994-10-21", "nome": "Medida Provisória nº 672 de 21/10/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}]},
+{"data": "1994-11-18", "nome": "Medida Provisória nº 720 de 18/11/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}]},
+{"data": "1994-12-20", "nome": "Medida Provisória nº 774 de 20/12/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}]},
+{"data": "1995-01-19", "nome": "Medida Provisória nº 834 de 19/01/1995", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}]},
+{"data": "1995-02-16", "nome": "Medida Provisória nº 895 de 16/02/1995", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}]},
+{"data": "1995-03-16", "nome": "Lei nº 9.005 de 16/03/1995", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}], "id": "federal/leis-ordinarias/1995/lei-9005-1995-03-16"},
+{"data": "1998-08-20", "nome": "Lei nº 9.695 de 20/08/1998", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}], "id": "federal/leis-ordinarias/1998/lei-9695-1998-08-20"},
+{"data": "2000-12-21", "nome": "Medida Provisória nº 2.039-24 de 21/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}]},
+{"data": "2000-12-28", "nome": "Medida Provisória nº 2.134-25 de 28/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}]},
+{"data": "2001-01-26", "nome": "Medida Provisória nº 2.134-26 de 26/01/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}]},
+{"data": "2001-02-23", "nome": "Medida Provisória nº 2.134-27 de 23/02/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}]},
+{"data": "2001-03-27", "nome": "Medida Provisória nº 2.134-28 de 27/03/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}]},
+{"data": "2001-04-26", "nome": "Medida Provisória nº 2.134-29 de 26/04/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}]},
+{"data": "2001-05-24", "nome": "Medida Provisória nº 2.134-30 de 24/05/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}]},
+{"data": "2001-06-21", "nome": "Medida Provisória nº 2.134-31 de 21/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}]},
+{"data": "2001-06-28", "nome": "Medida Provisória nº 2.190-32 de 28/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}]},
+{"data": "2001-07-26", "nome": "Medida Provisória nº 2.190-33 de 26/07/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}]},
+{"data": "2001-08-23", "nome": "Medida Provisória nº 2.190-34 de 23/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}]},
+{"data": "2016-06-27", "nome": "Lei nº 13.301 de 27/06/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, caput, Inciso 42", "art": "10", "acao": "acrescentou"}, {"dispositivo": "Art. 10, caput, Inciso 42, Pena/Penalidade", "art": "10", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2016/lei-13301-2016-06-27"},
+{"data": "2018-11-22", "nome": "Decreto nº 9.579 de 22/11/2018", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2019-01-10", "nome": "Lei nº 13.804 de 10/01/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, caput, Inciso 43", "art": "10", "acao": "vetado"}], "id": "federal/leis-ordinarias/2019/lei-13804-2019-01-10"},
+{"data": "2023-09-11", "nome": "Lei nº 14.671 de 11/09/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 28-A", "art": "28-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14671-2023-09-11"}
+],
+"controle": []
+}

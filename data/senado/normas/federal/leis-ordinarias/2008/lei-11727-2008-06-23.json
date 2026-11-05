@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11727-2008-06-23",
+"urn": "urn:lex:br:federal:lei:2008-06-23;11727",
+"consultado_em": "2026-11-04",
+"codigo": "582149",
+"nome": "Lei nº 11.727 de 23/06/2008",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-06-24", "descricao": "Publicação Original [Diário Oficial da União de 24/06/2008] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2008-06-26", "nome": "Medida Provisória nº 436 de 26/06/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 33", "art": "33", "acao": "alterou"}, {"dispositivo": "Art. 41", "art": "41", "acao": "alterou"}, {"dispositivo": "Art. 42", "art": "42", "acao": "alterou"}, {"dispositivo": "Art. 42, caput, Inciso 3, Alínea e", "art": "42", "acao": "alterou"}, {"dispositivo": "Art. 42, caput, Inciso 3, Alínea f", "art": "42", "acao": "alterou"}]},
+{"data": "2008-11-20", "nome": "Lei nº 11.827 de 20/11/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 33", "art": "33", "acao": "alterou"}, {"dispositivo": "Art. 41", "art": "41", "acao": "alterou"}, {"dispositivo": "Art. 42", "art": "42", "acao": "alterou"}], "id": "federal/leis-ordinarias/2008/lei-11827-2008-11-20"},
+{"data": "2008-11-25", "nome": "Decreto nº 6.662 de 25/11/2008", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "regulamentou"}]},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2009-05-07", "nome": "Decreto nº 6.842 de 07/05/2009", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 18", "art": "18", "acao": "regulamentou"}]},
+{"data": "2012-04-03", "nome": "Medida Provisória nº 563 de 03/04/2012", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 18", "art": "18", "acao": "alterou"}]},
+{"data": "2013-07-19", "nome": "Lei nº 12.844 de 19/07/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12844-2013-07-19"}
+],
+"controle": [
+{"data": "2021-04-16", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.101 de 16/04/2021", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 17", "art": "17", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 41, Inciso 2", "art": "41", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "4101"}}
+]
+}

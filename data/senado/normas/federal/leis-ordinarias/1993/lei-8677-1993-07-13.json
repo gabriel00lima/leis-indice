@@ -1,0 +1,25 @@
+{
+"id": "federal/leis-ordinarias/1993/lei-8677-1993-07-13",
+"urn": "urn:lex:br:federal:lei:1993-07-13;8677",
+"consultado_em": "2026-11-04",
+"codigo": "550553",
+"nome": "Lei nº 8.677 de 13/07/1993",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-07-14", "descricao": "Publicação Original [Diário Oficial da União de 14/07/1993] (p. 9695, col. 2)"}
+],
+"alteracoes": [
+{"data": "1994-03-08", "nome": "Decreto nº 1.081 de 08/03/1994", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2001-08-24", "nome": "Medida Provisória nº 2.143-36 de 24/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "2001-08-31", "nome": "Medida Provisória nº 2.216-37 de 31/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "2020-04-29", "nome": "Decreto nº 10.333 de 29/04/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2020-08-25", "nome": "Medida Provisória nº 996 de 25/08/2020", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2020-08-25", "nome": "Medida Provisória nº 996 de 25/08/2020", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6, caput, Inciso 3, Alínea a", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 6, caput, Inciso 3, Alínea b", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 6, caput, Inciso 3, Alínea d", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 6, caput, Inciso 3, Alínea e", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 12-A", "art": "12-a", "acao": "acrescentou"}]},
+{"data": "2021-01-12", "nome": "Lei nº 14.118 de 12/01/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 12-A", "art": "12-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2021/lei-14118-2021-01-12"},
+{"data": "2021-09-13", "nome": "Medida Provisória nº 1.070 de 13/09/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, Parágrafo Único, Alínea a", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, Parágrafo Único, Alínea b", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, Parágrafo Único, Inciso 1", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, Parágrafo Único, Inciso 2", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, Parágrafo Único, Inciso 2, Alínea a", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, Parágrafo Único, Inciso 2, Alínea b", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 9, caput, Inciso 4", "art": "9", "acao": "revogou"}, {"dispositivo": "Art. 12-A, caput", "art": "12-a", "acao": "alterou"}, {"dispositivo": "Art. 12-A, § 2, apenas o Caput", "art": "12-a", "acao": "alterou"}]},
+{"data": "2022-03-14", "nome": "Lei nº 14.312 de 14/03/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, Parágrafo Único, Alínea a", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, Parágrafo Único, Alínea b", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, Parágrafo Único, Inciso 1", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, Parágrafo Único, Inciso 2, apenas o Caput", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, Parágrafo Único, Inciso 2, Alínea a", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, Parágrafo Único, Inciso 2, Alínea b", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 9, caput, Inciso 4", "art": "9", "acao": "revogou"}, {"dispositivo": "Art. 12-A, caput", "art": "12-a", "acao": "alterou"}, {"dispositivo": "Art. 12-A, § 2, apenas o Caput", "art": "12-a", "acao": "alterou"}], "id": "federal/leis-ordinarias/2022/lei-14312-2022-03-14"},
+{"data": "2023-02-14", "nome": "Medida Provisória nº 1.162 de 14/02/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5, § 4", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, § 4-A", "art": "5", "acao": "acrescentou"}]},
+{"data": "2023-07-13", "nome": "Lei nº 14.620 de 13/07/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "renumerou"}, {"dispositivo": "Art. 2, § 2", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 5, § 4", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, § 4-A", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 12-B, caput", "art": "12-b", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14620-2023-07-13"}
+],
+"controle": []
+}

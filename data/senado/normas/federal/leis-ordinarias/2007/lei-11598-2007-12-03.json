@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/2007/lei-11598-2007-12-03",
+"urn": "urn:lex:br:federal:lei:2007-12-03;11598",
+"consultado_em": "2026-11-04",
+"codigo": "569437",
+"nome": "Lei nº 11.598 de 03/12/2007",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2007-12-04", "descricao": "Publicação Original [Diário Oficial da União de 04/12/2007] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2009-06-25", "nome": "Decreto nº 6.884 de 25/06/2009", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "regulamentou"}]},
+{"data": "2014-08-07", "nome": "Lei Complementar nº 147 de 07/08/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7-A", "art": "7-a", "acao": "acrescentou"}], "id": "federal/leis-complementares/2014/lcp-147-2014-08-07"},
+{"data": "2019-04-30", "nome": "Medida Provisória nº 881 de 30/04/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 5", "art": "4", "acao": "acrescentou"}]},
+{"data": "2019-07-22", "nome": "Decreto nº 9.927 de 22/07/2019", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "regulamentou"}]},
+{"data": "2019-09-20", "nome": "Lei nº 13.874 de 20/09/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 5", "art": "4", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2019/lei-13874-2019-09-20"},
+{"data": "2021-03-29", "nome": "Medida Provisória nº 1.040 de 29/03/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 1", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 2, § 2", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 4, caput", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 1", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 2", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 3", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 5-A, caput", "art": "5-a", "acao": "acrescentou"}, {"dispositivo": "Art. 5-A, § 1", "art": "5-a", "acao": "acrescentou"}, {"dispositivo": "Art. 5-A, § 2", "art": "5-a", "acao": "acrescentou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 11-A", "art": "11-a", "acao": "acrescentou"}]},
+{"data": "2021-08-26", "nome": "Lei nº 14.195 de 26/08/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 1", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 2, § 2", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2, § 3", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 4, caput", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 1", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 2", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 3", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 5-A, caput", "art": "5-a", "acao": "acrescentou"}, {"dispositivo": "Art. 5-A, § 1", "art": "5-a", "acao": "acrescentou"}, {"dispositivo": "Art. 5-A, § 2", "art": "5-a", "acao": "acrescentou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 6-A", "art": "6-a", "acao": "acrescentou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 11, caput, Inciso 3", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 11-A", "art": "11-a", "acao": "acrescentou"}, {"dispositivo": "Art. 14, Parágrafo Único, Inciso 3", "art": "14", "acao": "acrescentou"}, {"dispositivo": "Art. 16-A, caput", "art": "16-a", "acao": "acrescentou"}, {"dispositivo": "Art. 16-A, § 1", "art": "16-a", "acao": "acrescentou"}, {"dispositivo": "Art. 16-A, § 2", "art": "16-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2021/lei-14195-2021-08-26"}
+],
+"controle": [
+{"data": "2022-04-28", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.808 de 28/04/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6-A", "art": "6-a", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}, {"dispositivo": "Art. 11-A", "art": "11-a", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}], "decisao": {"classe": "ADI", "numero": "6808"}}
+]
+}

@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/1971/lei-5662-1971-06-21",
+"urn": "urn:lex:br:federal:lei:1971-06-21;5662",
+"consultado_em": "2026-11-04",
+"codigo": "547535",
+"nome": "Lei nº 5.662 de 21/06/1971",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1971-06-21", "descricao": "Publicação Original [Diário Oficial da União de 21/06/1971] (p. 4697, col. 1)"}
+],
+"alteracoes": [
+{"data": "1971-06-21", "nome": "Decreto nº 68.786 de 21/06/1971", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1972-09-26", "nome": "Decreto nº 71.158 de 26/09/1972", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1973-12-18", "nome": "Lei nº 6.000 de 18/12/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-6000-1973-12-18"},
+{"data": "2002-07-18", "nome": "Medida Provisória nº 56 de 18/07/2002", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4-A", "art": "4-a", "acao": "alterou"}]},
+{"data": "2002-11-13", "nome": "Lei nº 10.556 de 13/11/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4-A", "art": "4-a", "acao": "alterou"}], "id": "federal/leis-ordinarias/2002/lei-10556-2002-11-13"},
+{"data": "2008-05-12", "nome": "Medida Provisória nº 429 de 12/05/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5, Parágrafo Único", "art": "5", "acao": "alterou"}]},
+{"data": "2008-09-25", "nome": "Lei nº 11.786 de 25/09/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, Parágrafo Único", "art": "5", "acao": "alterou"}], "id": "federal/leis-ordinarias/2008/lei-11786-2008-09-25"},
+{"data": "2026-09-09", "nome": "Lei nº 15.501 de 09/09/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5-A, caput", "art": "5-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15501-2026-09-09"}
+],
+"controle": []
+}

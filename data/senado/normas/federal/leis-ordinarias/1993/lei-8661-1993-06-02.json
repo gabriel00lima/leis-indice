@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1993/lei-8661-1993-06-02",
+"urn": "urn:lex:br:federal:lei:1993-06-02;8661",
+"consultado_em": "2026-11-04",
+"codigo": "550537",
+"nome": "Lei nº 8.661 de 02/06/1993",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-06-03", "descricao": "Publicação Original [Diário Oficial da União de 03/06/1993] (p. 7445, col. 1)"}
+],
+"alteracoes": [
+{"data": "1993-10-05", "nome": "Decreto nº 949 de 05/10/1993", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1996-12-27", "nome": "Lei nº 9.430 de 27/12/1996", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}], "id": "federal/leis-ordinarias/1996/lei-9430-1996-12-27"},
+{"data": "1997-11-14", "nome": "Medida Provisória nº 1.602 de 14/11/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 1", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, caput, Inciso 2", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, caput, Inciso 5", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, caput, Inciso 6", "art": "4", "acao": "alterou"}]},
+{"data": "1997-12-10", "nome": "Lei nº 9.532 de 10/12/1997", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 1", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, caput, Inciso 2", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, caput, Inciso 5", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/1997/lei-9532-1997-12-10"},
+{"data": "2005-06-15", "nome": "Medida Provisória nº 252 de 15/06/2005", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2005-11-21", "nome": "Lei nº 11.196 de 21/11/2005", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2005/lei-11196-2005-11-21"}
+],
+"controle": []
+}

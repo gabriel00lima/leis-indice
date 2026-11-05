@@ -1,0 +1,41 @@
+{
+"id": "federal/leis-ordinarias/1979/lei-6704-1979-10-26",
+"urn": "urn:lex:br:federal:lei:1979-10-26;6704",
+"consultado_em": "2026-11-04",
+"codigo": "548580",
+"nome": "Lei nº 6.704 de 26/10/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-10-29", "descricao": "Publicação Original [Diário Oficial da União de 29/10/1979] (p. 15882, col. 2)"}
+],
+"alteracoes": [
+{"data": "1996-10-31", "nome": "Decreto nº 2.049 de 31/10/1996", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1997-11-10", "nome": "Decreto nº 2.369 de 10/11/1997", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1998-12-14", "nome": "Medida Provisória nº 1.738-17 de 14/12/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}]},
+{"data": "1999-01-13", "nome": "Medida Provisória nº 1.738-18 de 13/01/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}]},
+{"data": "1999-02-11", "nome": "Medida Provisória nº 1.738-19 de 11/02/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}]},
+{"data": "1999-03-11", "nome": "Medida Provisória nº 1.738-20 de 11/03/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}]},
+{"data": "1999-04-08", "nome": "Medida Provisória nº 1.738-21 de 08/04/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}]},
+{"data": "1999-05-06", "nome": "Medida Provisória nº 1.738-22 de 06/05/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}]},
+{"data": "1999-06-02", "nome": "Medida Provisória nº 1.738-23 de 02/06/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}]},
+{"data": "1999-06-29", "nome": "Medida Provisória nº 1.840-24 de 29/06/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}]},
+{"data": "1999-07-27", "nome": "Medida Provisória nº 1.840-25 de 27/07/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}]},
+{"data": "1999-08-23", "nome": "Lei nº 9.818 de 23/08/1999", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}], "id": "federal/leis-ordinarias/1999/lei-9818-1999-08-23"},
+{"data": "2001-09-25", "nome": "Decreto nº 3.937 de 25/09/2001", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2002-12-26", "nome": "Medida Provisória nº 95 de 26/12/2002", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2003-04-22", "nome": "Lei nº 10.659 de 22/04/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2003/lei-10659-2003-04-22"},
+{"data": "2005-11-28", "nome": "Medida Provisória nº 267 de 28/11/2005", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "2006-02-20", "nome": "Lei nº 11.281 de 20/02/2006", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 1", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 2", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}], "id": "federal/leis-ordinarias/2006/lei-11281-2006-02-20"},
+{"data": "2008-05-12", "nome": "Medida Provisória nº 429 de 12/05/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2008-09-25", "nome": "Lei nº 11.786 de 25/09/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2008/lei-11786-2008-09-25"},
+{"data": "2010-06-11", "nome": "Lei nº 12.249 de 11/06/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/2010/lei-12249-2010-06-11"},
+{"data": "2012-08-30", "nome": "Lei nº 12.712 de 30/08/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 2", "art": "4", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2012/lei-12712-2012-08-30"},
+{"data": "2013-02-18", "nome": "Medida Provisória nº 606 de 18/02/2013", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, § 2", "art": "1", "acao": "acrescentou"}]},
+{"data": "2013-07-09", "nome": "Lei nº 12.837 de 09/07/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12837-2013-07-09"},
+{"data": "2015-12-08", "nome": "Medida Provisória nº 701 de 08/12/2015", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2016-01-21", "nome": "Decreto nº 8.643 de 21/01/2016", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2016-05-31", "nome": "Lei nº 13.292 de 31/05/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 3", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, § 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, § 4", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2016/lei-13292-2016-05-31"},
+{"data": "2025-08-13", "nome": "Medida Provisória nº 1.309 de 13/08/2025", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 8", "art": "4", "acao": "acrescentou"}]}
+],
+"controle": []
+}

@@ -1,0 +1,36 @@
+{
+"id": "federal/leis-ordinarias/2023/lei-14600-2023-06-19",
+"urn": "urn:lex:br:federal:lei:2023-06-19;14600",
+"consultado_em": "2026-11-04",
+"codigo": "37200471",
+"nome": "Lei nº 14.600 de 19/06/2023",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2023-06-20", "descricao": "Publicação Original [Diário Oficial da União de 20/06/2023] (p. 7, col. 1)"},
+{"tipo": "REP", "data": "2023-06-21", "descricao": "Republicação Integral (Seq. 0) [Diário Oficial da União de 21/06/2023] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2023-06-19", "nome": "Mensagem de Veto Parcial nº 279 de 19/06/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8, caput, Inciso 3", "art": "8", "acao": "veto"}, {"dispositivo": "Art. 20, caput, Inciso 7", "art": "20", "acao": "veto"}, {"dispositivo": "Art. 26, caput, Inciso 4", "art": "26", "acao": "veto"}, {"dispositivo": "Art. 26, caput, Inciso 11, Alínea b", "art": "26", "acao": "veto"}]},
+{"data": "2023-06-19", "nome": "Mensagem de Veto Parcial nº 279 de 19/06/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-06-19", "nome": "Mensagem de Veto Parcial nº 279 de 19/06/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-06-19", "nome": "Mensagem de Veto Parcial nº 279 de 19/06/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-06-19", "nome": "Mensagem de Veto Parcial nº 279 de 19/06/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-09-13", "nome": "Medida Provisória nº 1.187 de 13/09/2023", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2023-09-13", "nome": "Medida Provisória nº 1.187 de 13/09/2023", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2023-09-13", "nome": "Medida Provisória nº 1.187 de 13/09/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 17, caput, Inciso 12-A", "art": "17", "acao": "acrescentou"}, {"dispositivo": "Art. 30-A", "art": "30-a", "acao": "acrescentou"}, {"dispositivo": "Art. 34, caput, Inciso 9", "art": "34", "acao": "revogou"}, {"dispositivo": "Art. 34, caput, Inciso 10", "art": "34", "acao": "revogou"}, {"dispositivo": "Art. 76, § 2", "art": "76", "acao": "alterou"}, {"dispositivo": "Art. 76, § 3", "art": "76", "acao": "alterou"}]},
+{"data": "2023-12-21", "nome": "Decreto nº 11.837 de 21/12/2023", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 50, § 2", "art": "50", "acao": "correlato"}, {"dispositivo": "Art. 50, § 3", "art": "50", "acao": "correlato"}]},
+{"data": "2023-12-29", "nome": "Medida Provisória nº 1.203 de 29/12/2023", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2023-12-29", "nome": "Medida Provisória nº 1.203 de 29/12/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 50, § 8", "art": "50", "acao": "alterou"}]},
+{"data": "2024-01-16", "nome": "Lei nº 14.816 de 16/01/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 17, caput, Inciso 12-A", "art": "17", "acao": "acrescentou"}, {"dispositivo": "Art. 30-A", "art": "30-a", "acao": "acrescentou"}, {"dispositivo": "Art. 34, caput, Inciso 9", "art": "34", "acao": "revogou"}, {"dispositivo": "Art. 34, caput, Inciso 10", "art": "34", "acao": "revogou"}, {"dispositivo": "Art. 76, § 2", "art": "76", "acao": "alterou"}, {"dispositivo": "Art. 76, § 3", "art": "76", "acao": "alterou"}, {"dispositivo": "Art. 76, § 4", "art": "76", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2024/lei-14816-2024-01-16"},
+{"data": "2024-01-16", "nome": "Lei nº 14.816 de 16/01/2024", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14816-2024-01-16"},
+{"data": "2024-05-31", "nome": "Lei nº 14.875 de 31/05/2024", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14875-2024-05-31"},
+{"data": "2024-05-31", "nome": "Lei nº 14.875 de 31/05/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 50, § 8", "art": "50", "acao": "alterou"}], "id": "federal/leis-ordinarias/2024/lei-14875-2024-05-31"},
+{"data": "2024-06-26", "nome": "Decreto nº 12.079 de 26/06/2024", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 29, caput, Inciso 1", "art": "29", "acao": "correlato"}]},
+{"data": "2025-09-17", "nome": "Medida Provisória nº 1.317 de 17/09/2025", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2025-09-17", "nome": "Medida Provisória nº 1.317 de 17/09/2025", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 56, caput, Inciso 2", "art": "56", "acao": "alterou"}]},
+{"data": "2025-10-15", "nome": "Decreto nº 12.673 de 15/10/2025", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "regulamentou"}]},
+{"data": "2026-02-25", "nome": "Lei nº 15.352 de 25/02/2026", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2026/lei-15352-2026-02-25"},
+{"data": "2026-02-25", "nome": "Lei nº 15.352 de 25/02/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 56, caput, Inciso 2", "art": "56", "acao": "alterou"}], "id": "federal/leis-ordinarias/2026/lei-15352-2026-02-25"}
+],
+"controle": []
+}

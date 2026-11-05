@@ -1,0 +1,23 @@
+{
+"id": "federal/decretos-lei/1984/del-2130-1984-06-25",
+"urn": "urn:lex:br:federal:decreto.lei:1984-06-25;2130",
+"consultado_em": "2026-11-04",
+"codigo": "526870",
+"nome": "Decreto-Lei nº 2.130 de 25/06/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-06-27", "descricao": "Publicação Original [Diário Oficial da União de 27/06/1984] (p. 9163, col. 1)"}
+],
+"alteracoes": [
+{"data": "1984-06-27", "nome": "Decreto-Lei nº 2.135 de 27/06/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2135-1984-06-27"},
+{"data": "1984-06-28", "nome": "Decreto-Lei nº 2.141 de 28/06/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2141-1984-06-28"},
+{"data": "1984-06-28", "nome": "Decreto-Lei nº 2.142 de 28/06/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2142-1984-06-28"},
+{"data": "1984-07-02", "nome": "Decreto-Lei nº 2.146 de 02/07/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2146-1984-07-02"},
+{"data": "1984-07-02", "nome": "Decreto-Lei nº 2.147 de 02/07/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2147-1984-07-02"},
+{"data": "1984-12-03", "nome": "Lei nº 7.259 de 03/12/1984", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1984/lei-7259-1984-12-03"},
+{"data": "1984-12-27", "nome": "Decreto-Lei nº 2.204 de 27/12/1984", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2204-1984-12-27"},
+{"data": "1985-03-21", "nome": "Decreto Legislativo nº 2 de 21/03/1985", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1985-12-20", "nome": "Lei nº 7.439 de 20/12/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7439-1985-12-20"}
+],
+"controle": []
+}

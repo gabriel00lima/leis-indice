@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2001/lei-10331-2001-12-18",
+"urn": "urn:lex:br:federal:lei:2001-12-18;10331",
+"consultado_em": "2026-11-04",
+"codigo": "552207",
+"nome": "Lei nº 10.331 de 18/12/2001",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2001-12-19", "descricao": "Publicação Original [Diário Oficial da União de 19/12/2001] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2003-07-02", "nome": "Lei nº 10.697 de 02/07/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}], "id": "federal/leis-ordinarias/2003/lei-10697-2003-07-02"}
+],
+"controle": []
+}

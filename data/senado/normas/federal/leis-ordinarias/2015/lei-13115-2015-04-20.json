@@ -1,0 +1,51 @@
+{
+"id": "federal/leis-ordinarias/2015/lei-13115-2015-04-20",
+"urn": "urn:lex:br:federal:lei:2015-04-20;13115",
+"consultado_em": "2026-11-04",
+"codigo": "584927",
+"nome": "Lei nº 13.115 de 20/04/2015",
+"apelidos": [
+"Lei Orçamentária Anual (LOA) (2015)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2015-04-22", "descricao": "Publicação Original [Diário Oficial da União de 22/04/2015] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "2015-05-20", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 20/05/2015] (p. 1, col. 2)"},
+{"tipo": "RET", "data": "2015-08-25", "descricao": "Retificação (Seq. 2) [Diário Oficial da União de 25/08/2015] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "2015-10-15", "descricao": "Retificação (Seq. 3) [Diário Oficial da União de 15/10/2015] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2015-09-02", "nome": "Decreto de 02/09/2015 ( seq-sf: 1 )", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2015-09-02", "nome": "Decreto de 02/09/2015 ( seq-sf: 2 )", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2015-09-30", "nome": "Decreto de 30/09/2015", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2015-09-30", "nome": "Decreto de 30/09/2015 ( seq-sf: 1 )", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2015-10-02", "nome": "Medida Provisória nº 696 de 02/10/2015", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2015-10-08", "nome": "Decreto de 08/10/2015", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2015-10-15", "nome": "Decreto de 15/10/2015", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2015-10-21", "nome": "Decreto de 21/10/2015", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2015-11-04", "nome": "Decreto de 04/11/2015 ( seq-sf: 1 )", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2015-11-06", "nome": "Decreto nº 8.555 de 06/11/2015", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2015-11-19", "nome": "Decreto de 19/11/2015 ( seq-sf: 4 )", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2015-11-23", "nome": "Lei nº 13.191 de 23/11/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 5", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2015/lei-13191-2015-11-23"},
+{"data": "2015-11-25", "nome": "Decreto Legislativo nº 260 de 25/11/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 6", "art": null, "acao": "alterou"}]},
+{"data": "2015-12-04", "nome": "Lei nº 13.200 de 04/12/2015", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2015/lei-13200-2015-12-04"},
+{"data": "2015-12-04", "nome": "Lei nº 13.201 de 04/12/2015", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2015/lei-13201-2015-12-04"},
+{"data": "2015-12-16", "nome": "Decreto de 16/12/2015", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2015-12-17", "nome": "Medida Provisória nº 702 de 17/12/2015", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2015-12-23", "nome": "Decreto Legislativo nº 294 de 23/12/2015", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2015-12-23", "nome": "Lei nº 13.220 de 23/12/2015", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2015/lei-13220-2015-12-23"},
+{"data": "2015-12-23", "nome": "Lei nº 13.221 de 23/12/2015", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2015/lei-13221-2015-12-23"},
+{"data": "2015-12-23", "nome": "Lei nº 13.222 de 23/12/2015", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2015/lei-13222-2015-12-23"},
+{"data": "2015-12-23", "nome": "Lei nº 13.224 de 23/12/2015", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2015/lei-13224-2015-12-23"},
+{"data": "2015-12-23", "nome": "Lei nº 13.226 de 23/12/2015", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2015/lei-13226-2015-12-23"},
+{"data": "2015-12-29", "nome": "Lei nº 13.237 de 29/12/2015", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2015/lei-13237-2015-12-29"},
+{"data": "2015-12-29", "nome": "Lei nº 13.238 de 29/12/2015", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2015/lei-13238-2015-12-29"},
+{"data": "2015-12-30", "nome": "Medida Provisória nº 709 de 30/12/2015", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2016-01-04", "nome": "Medida Provisória nº 710 de 04/01/2016", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2016-02-11", "nome": "Decreto nº 8.667 de 11/02/2016", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2016-04-29", "nome": "Lei nº 13.276 de 29/04/2016", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2016/lei-13276-2016-04-29"},
+{"data": "2016-06-30", "nome": "Decreto nº 8.795 de 30/06/2016", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2017-02-09", "nome": "Decreto nº 8.986 de 09/02/2017", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Anexo 5", "art": null, "acao": "correlato"}]},
+{"data": "2017-04-28", "nome": "Decreto de 28/04/2017", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

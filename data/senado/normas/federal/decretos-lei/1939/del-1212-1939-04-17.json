@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1939/del-1212-1939-04-17",
+"urn": "urn:lex:br:federal:decreto.lei:1939-04-17;1212",
+"consultado_em": "2026-11-04",
+"codigo": "525044",
+"nome": "Decreto-Lei nº 1.212 de 17/04/1939",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1939-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1939 - vol. 003] (p. 97, col. 1)"}
+],
+"alteracoes": [
+{"data": "1944-10-17", "nome": "Decreto-Lei nº 6.965 de 17/10/1944", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1944/del-6965-1944-10-17"},
+{"data": "1945-12-03", "nome": "Decreto-Lei nº 8.270 de 03/12/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-8270-1945-12-03"}
+],
+"controle": []
+}

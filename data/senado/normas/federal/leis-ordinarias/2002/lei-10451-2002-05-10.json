@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10451-2002-05-10",
+"urn": "urn:lex:br:federal:lei:2002-05-10;10451",
+"consultado_em": "2026-11-04",
+"codigo": "552327",
+"nome": "Lei nº 10.451 de 10/05/2002",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-05-13", "descricao": "Publicação Original [Diário Oficial da União de 13/05/2002] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2002-12-30", "nome": "Lei nº 10.637 de 30/12/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 15", "art": "15", "acao": "alterou"}], "id": "federal/leis-ordinarias/2002/lei-10637-2002-12-30"},
+{"data": "2004-12-06", "nome": "Medida Provisória nº 227 de 06/12/2004", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 10, caput, Inciso 2", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "alterou"}]},
+{"data": "2005-05-18", "nome": "Lei nº 11.116 de 18/05/2005", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 10, caput, Inciso 2", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "alterou"}], "id": "federal/leis-ordinarias/2005/lei-11116-2005-05-18"},
+{"data": "2008-11-20", "nome": "Lei nº 11.827 de 20/11/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "alterou"}], "id": "federal/leis-ordinarias/2008/lei-11827-2008-11-20"},
+{"data": "2012-05-17", "nome": "Lei nº 12.649 de 17/05/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}], "id": "federal/leis-ordinarias/2012/lei-12649-2012-05-17"},
+{"data": "2016-04-01", "nome": "Lei nº 13.265 de 01/04/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8, caput", "art": "8", "acao": "vetado"}], "id": "federal/leis-ordinarias/2016/lei-13265-2016-04-01"}
+],
+"controle": []
+}

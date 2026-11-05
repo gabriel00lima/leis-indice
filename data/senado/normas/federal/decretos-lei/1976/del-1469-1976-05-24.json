@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1976/del-1469-1976-05-24",
+"urn": "urn:lex:br:federal:decreto.lei:1976-05-24;1469",
+"consultado_em": "2026-11-04",
+"codigo": "525560",
+"nome": "Decreto-Lei nº 1.469 de 24/05/1976",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1976-05-25", "descricao": "Publicação Original [Diário Oficial da União de 25/05/1976] (p. 7343, col. 1)"}
+],
+"alteracoes": [
+{"data": "1976-06-30", "nome": "Decreto Legislativo nº 62 de 30/06/1976", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1976-10-25", "nome": "Decreto-Lei nº 1.484 de 25/10/1976", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1976/del-1484-1976-10-25"},
+{"data": "1976-12-05", "nome": "Decreto Legislativo nº 88 de 05/12/1976", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1977-05-20", "nome": "Decreto-Lei nº 1.553 de 20/05/1977", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1977/del-1553-1977-05-20"}
+],
+"controle": []
+}

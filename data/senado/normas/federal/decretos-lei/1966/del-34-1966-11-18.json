@@ -1,0 +1,28 @@
+{
+"id": "federal/decretos-lei/1966/del-34-1966-11-18",
+"urn": "urn:lex:br:federal:decreto.lei:1966-11-18;34",
+"consultado_em": "2026-11-04",
+"codigo": "522710",
+"nome": "Decreto-Lei nº 34 de 18/11/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-18", "descricao": "Publicação Original [Diário Oficial da União de 18/11/1966] (p. 13345, col. 2)"}
+],
+"alteracoes": [
+{"data": "1967-01-13", "nome": "Decreto-Lei nº 104 de 13/01/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1967/del-104-1967-01-13"},
+{"data": "1967-12-01", "nome": "Lei nº 5.368 de 01/12/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1967/lei-5368-1967-12-01"},
+{"data": "1968-12-30", "nome": "Decreto-Lei nº 400 de 30/12/1968", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}], "id": "federal/decretos-lei/1968/del-400-1968-12-30"},
+{"data": "1969-10-21", "nome": "Decreto-Lei nº 1.023 de 21/10/1969", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/decretos-lei/1969/del-1023-1969-10-21"},
+{"data": "1971-12-27", "nome": "Decreto-Lei nº 1.199 de 27/12/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1971/del-1199-1971-12-27"},
+{"data": "1973-09-06", "nome": "Decreto-Lei nº 1.285 de 06/09/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1973/del-1285-1973-09-06"},
+{"data": "1975-12-17", "nome": "Decreto-Lei nº 1.437 de 17/12/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1975/del-1437-1975-12-17"},
+{"data": "1977-12-21", "nome": "Decreto nº 81.101 de 21/12/1977", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1979-07-18", "nome": "Decreto-Lei nº 1.687 de 18/07/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1687-1979-07-18"},
+{"data": "1979-12-20", "nome": "Decreto-Lei nº 1.736 de 20/12/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1736-1979-12-20"},
+{"data": "1992-12-11", "nome": "Lei nº 8.522 de 11/12/1992", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1992/lei-8522-1992-12-11"},
+{"data": "1998-06-25", "nome": "Decreto nº 2.637 de 25/06/1998", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2002-12-26", "nome": "Decreto nº 4.544 de 26/12/2002", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

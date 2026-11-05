@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10446-2002-05-08",
+"urn": "urn:lex:br:federal:lei:2002-05-08;10446",
+"consultado_em": "2026-11-04",
+"codigo": "552322",
+"nome": "Lei nº 10.446 de 08/05/2002",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-05-09", "descricao": "Publicação Original [Diário Oficial da União de 09/05/2002] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2013-12-17", "nome": "Lei nº 12.894 de 17/12/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 5", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2013/lei-12894-2013-12-17"},
+{"data": "2015-05-21", "nome": "Lei nº 13.124 de 21/05/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 6", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2015/lei-13124-2015-05-21"},
+{"data": "2018-04-03", "nome": "Lei nº 13.642 de 03/04/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 7", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2018/lei-13642-2018-04-03"},
+{"data": "2024-09-09", "nome": "Lei nº 14.967 de 09/09/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 4", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 8", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2024/lei-14967-2024-09-09"}
+],
+"controle": []
+}

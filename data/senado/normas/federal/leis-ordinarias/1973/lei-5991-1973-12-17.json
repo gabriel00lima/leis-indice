@@ -1,0 +1,42 @@
+{
+"id": "federal/leis-ordinarias/1973/lei-5991-1973-12-17",
+"urn": "urn:lex:br:federal:lei:1973-12-17;5991",
+"consultado_em": "2026-11-04",
+"codigo": "547867",
+"nome": "Lei nº 5.991 de 17/12/1973",
+"apelidos": [
+"Lei de Controle Sanitário de Medicamentos (1973)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-12-19", "descricao": "Publicação Original [Diário Oficial da União de 19/12/1973] (p. 13049, col. 4)"}
+],
+"alteracoes": [
+{"data": "1974-06-10", "nome": "Decreto nº 74.170 de 10/06/1974", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1975-12-22", "nome": "Lei nº 6.318 de 22/12/1975", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 25, Parágrafo Único", "art": "25", "acao": "alterou"}], "id": "federal/leis-ordinarias/1975/lei-6318-1975-12-22"},
+{"data": "1976-09-23", "nome": "Lei nº 6.360 de 23/09/1976", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1976/lei-6360-1976-09-23"},
+{"data": "1987-02-23", "nome": "Decreto nº 94.053 de 23/02/1987", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-04-05", "nome": "Decreto nº 793 de 05/04/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-06-30", "nome": "Medida Provisória nº 542 de 30/06/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "alterou"}]},
+{"data": "1994-07-29", "nome": "Medida Provisória nº 566 de 29/07/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "alterou"}]},
+{"data": "1994-08-26", "nome": "Medida Provisória nº 596 de 26/08/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "alterou"}]},
+{"data": "1994-09-27", "nome": "Medida Provisória nº 635 de 27/09/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "alterou"}]},
+{"data": "1994-10-27", "nome": "Medida Provisória nº 681 de 27/10/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "alterou"}]},
+{"data": "1994-11-25", "nome": "Medida Provisória nº 731 de 25/11/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "alterou"}]},
+{"data": "1994-12-23", "nome": "Medida Provisória nº 785 de 23/12/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "alterou"}]},
+{"data": "1995-01-20", "nome": "Medida Provisória nº 851 de 20/01/1995", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "alterou"}]},
+{"data": "1995-02-21", "nome": "Medida Provisória nº 911 de 21/02/1995", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "alterou"}]},
+{"data": "1995-03-23", "nome": "Medida Provisória nº 953 de 23/03/1995", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "alterou"}]},
+{"data": "1995-04-20", "nome": "Medida Provisória nº 978 de 20/04/1995", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "alterou"}]},
+{"data": "1995-05-19", "nome": "Medida Provisória nº 1.004 de 19/05/1995", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "alterou"}]},
+{"data": "1995-06-20", "nome": "Medida Provisória nº 1.027 de 20/06/1995", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "alterou"}]},
+{"data": "1995-06-29", "nome": "Lei nº 9.069 de 29/06/1995", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "alterou"}], "id": "federal/leis-ordinarias/1995/lei-9069-1995-06-29"},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2009-06-24", "nome": "Lei nº 11.951 de 24/06/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 36", "art": "36", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-11951-2009-06-24"},
+{"data": "2015-01-19", "nome": "Lei nº 13.097 de 19/01/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 25", "art": "25", "acao": "alterou"}, {"dispositivo": "Art. 25-A", "art": "25-a", "acao": "acrescentou"}, {"dispositivo": "Art. 25-B", "art": "25-b", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2015/lei-13097-2015-01-19"},
+{"data": "2018-11-08", "nome": "Lei nº 13.732 de 08/11/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 35, Parágrafo Único", "art": "35", "acao": "alterou"}], "id": "federal/leis-ordinarias/2018/lei-13732-2018-11-08"},
+{"data": "2020-06-16", "nome": "Medida Provisória nº 983 de 16/06/2020", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 35", "art": "35", "acao": "alterou"}, {"dispositivo": "Art. 35, caput, Alínea a", "art": "35", "acao": "revogou"}, {"dispositivo": "Art. 35, caput, Alínea b", "art": "35", "acao": "revogou"}, {"dispositivo": "Art. 35, caput, Alínea c", "art": "35", "acao": "revogou"}, {"dispositivo": "Art. 35, Parágrafo Único", "art": "35", "acao": "revogou"}]},
+{"data": "2020-09-23", "nome": "Lei nº 14.063 de 23/09/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 35", "art": "35", "acao": "alterou"}, {"dispositivo": "Art. 35, caput, Alínea a", "art": "35", "acao": "revogou"}, {"dispositivo": "Art. 35, caput, Alínea b", "art": "35", "acao": "revogou"}, {"dispositivo": "Art. 35, caput, Alínea c", "art": "35", "acao": "revogou"}], "id": "federal/leis-ordinarias/2020/lei-14063-2020-09-23"},
+{"data": "2026-03-20", "nome": "Lei nº 15.357 de 20/03/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}], "id": "federal/leis-ordinarias/2026/lei-15357-2026-03-20"}
+],
+"controle": []
+}

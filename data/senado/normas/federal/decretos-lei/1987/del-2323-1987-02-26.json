@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1987/del-2323-1987-02-26",
+"urn": "urn:lex:br:federal:decreto.lei:1987-02-26;2323",
+"consultado_em": "2026-11-04",
+"codigo": "527259",
+"nome": "Decreto-Lei nº 2.323 de 26/02/1987",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1987-03-05", "descricao": "Publicação Original [Diário Oficial da União de 05/03/1987] (p. 3133, col. 1)"}
+],
+"alteracoes": [
+{"data": "1987-04-08", "nome": "Decreto-Lei nº 2.325 de 08/04/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2325-1987-04-08"},
+{"data": "1987-05-28", "nome": "Decreto-Lei nº 2.331 de 28/05/1987", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 15", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 16", "art": "16", "acao": "alterou"}], "id": "federal/decretos-lei/1987/del-2331-1987-05-28"},
+{"data": "1987-08-24", "nome": "Decreto-Lei nº 2.354 de 24/08/1987", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}], "id": "federal/decretos-lei/1987/del-2354-1987-08-24"},
+{"data": "1988-09-01", "nome": "Decreto-Lei nº 2.471 de 01/09/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 18", "art": "18", "acao": "alterou"}], "id": "federal/decretos-lei/1988/del-2471-1988-09-01"},
+{"data": "2024-09-16", "nome": "Lei nº 14.973 de 16/09/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput", "art": "4", "acao": "revogou"}], "id": "federal/leis-ordinarias/2024/lei-14973-2024-09-16"}
+],
+"controle": []
+}

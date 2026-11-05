@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/2017/lei-13483-2017-09-21",
+"urn": "urn:lex:br:federal:lei:2017-09-21;13483",
+"consultado_em": "2026-11-04",
+"codigo": "26242144",
+"nome": "Lei nº 13.483 de 21/09/2017",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2017-09-22", "descricao": "Publicação Original [Diário Oficial da União de 22/09/2017] (p. 3, col. 1)"}
+],
+"alteracoes": [
+{"data": "2022-06-08", "nome": "Lei nº 14.366 de 08/06/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 6", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2022/lei-14366-2022-06-08"},
+{"data": "2022-06-08", "nome": "Lei nº 14.366 de 08/06/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14366-2022-06-08"},
+{"data": "2022-09-02", "nome": "Lei nº 14.440 de 02/09/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 4", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, § 4", "art": "3", "acao": "vetado"}], "id": "federal/leis-ordinarias/2022/lei-14440-2022-09-02"},
+{"data": "2022-09-02", "nome": "Lei nº 14.440 de 02/09/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14440-2022-09-02"},
+{"data": "2023-05-30", "nome": "Lei nº 14.592 de 30/05/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 18-A, caput", "art": "18-a", "acao": "acrescentou"}, {"dispositivo": "Art. 18-A, Parágrafo Único", "art": "18-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14592-2023-05-30"},
+{"data": "2023-05-30", "nome": "Lei nº 14.592 de 30/05/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14592-2023-05-30"},
+{"data": "2024-07-26", "nome": "Lei nº 14.937 de 26/07/2024", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14937-2024-07-26"},
+{"data": "2024-07-26", "nome": "Lei nº 14.937 de 26/07/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, § 3", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 11, § 1, Inciso 1", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 11, § 1, Inciso 3", "art": "11", "acao": "alterou"}], "id": "federal/leis-ordinarias/2024/lei-14937-2024-07-26"}
+],
+"controle": []
+}

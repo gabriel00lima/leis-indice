@@ -1,0 +1,26 @@
+{
+"id": "federal/decretos-lei/1941/del-3651-1941-09-25",
+"urn": "urn:lex:br:federal:decreto.lei:1941-09-25;3651",
+"consultado_em": "2026-11-04",
+"codigo": "528738",
+"nome": "Decreto-Lei nº 3.651 de 25/09/1941",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1941-09-27", "descricao": "Publicação Original [Diário Oficial da União de 27/09/1941] (p. 18719, col. 2)"},
+{"tipo": "REP", "data": "1941-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1941 - vol. 005] (p. 335, col. 1)"}
+],
+"alteracoes": [
+{"data": "1942-01-21", "nome": "Decreto nº 8.576 de 21/01/1942", "tipo": "Aprovação de Regimento", "dispositivos": []},
+{"data": "1942-02-26", "nome": "Decreto-Lei nº 4.136 de 26/02/1942", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 52", "art": "52", "acao": "prorrogação de prazo"}, {"dispositivo": "Art. 57", "art": "57", "acao": "prorrogação de prazo"}], "id": "federal/decretos-lei/1942/del-4136-1942-02-26"},
+{"data": "1943-05-07", "nome": "Decreto-Lei nº 5.464 de 07/05/1943", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 135", "art": "135", "acao": "alterou"}], "id": "federal/decretos-lei/1943/del-5464-1943-05-07"},
+{"data": "1945-01-31", "nome": "Decreto-Lei nº 7.286 de 31/01/1945", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 135", "art": "135", "acao": "alterou"}], "id": "federal/decretos-lei/1945/del-7286-1945-01-31"},
+{"data": "1946-02-14", "nome": "Decreto-Lei nº 8.982 de 14/02/1946", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 148, caput, Alínea b, Item 1", "art": "148", "acao": "prorrogação de prazo"}], "id": "federal/decretos-lei/1946/del-8982-1946-02-14"},
+{"data": "1946-08-05", "nome": "Decreto-Lei nº 9.545 de 05/08/1946", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 103", "art": "103", "acao": "revogou"}], "id": "federal/decretos-lei/1946/del-9545-1946-08-05"},
+{"data": "1951-08-24", "nome": "Lei nº 1.416 de 24/08/1951", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 135", "art": "135", "acao": "alterou"}], "id": "federal/leis-ordinarias/1951/lei-1416-1951-08-24"},
+{"data": "1953-05-19", "nome": "Lei nº 1.859 de 19/05/1953", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 109", "art": "109", "acao": "alterou"}], "id": "federal/leis-ordinarias/1953/lei-1859-1953-05-19"},
+{"data": "1956-06-01", "nome": "Lei nº 2.794 de 01/06/1956", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 66", "art": "66", "acao": "alterou"}], "id": "federal/leis-ordinarias/1956/lei-2794-1956-06-01"},
+{"data": "1963-06-17", "nome": "Decreto nº 52.116 de 17/06/1963", "tipo": "Aprovação de Regimento", "dispositivos": []},
+{"data": "1966-09-21", "nome": "Lei nº 5.108 de 21/09/1966", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5108-1966-09-21"}
+],
+"controle": []
+}

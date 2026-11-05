@@ -1,0 +1,30 @@
+{
+"id": "federal/leis-ordinarias/2010/lei-12350-2010-12-20",
+"urn": "urn:lex:br:federal:lei:2010-12-20;12350",
+"consultado_em": "2026-11-04",
+"codigo": "585347",
+"nome": "Lei nº 12.350 de 20/12/2010",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2010-12-21", "descricao": "Publicação Original [Diário Oficial da União de 21/12/2010] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2010-12-30", "nome": "Medida Provisória nº 517 de 30/12/2010", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 56-A", "art": "56-a", "acao": "acrescentou"}, {"dispositivo": "Art. 56-B", "art": "56-b", "acao": "acrescentou"}]},
+{"data": "2011-06-24", "nome": "Lei nº 12.431 de 24/06/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 54, caput, Inciso 4", "art": "54", "acao": "alterou"}, {"dispositivo": "Art. 55, § 5, Inciso 2", "art": "55", "acao": "alterou"}, {"dispositivo": "Art. 56-A", "art": "56-a", "acao": "acrescentou"}, {"dispositivo": "Art. 56-B", "art": "56-b", "acao": "acrescentou"}, {"dispositivo": "Art. 57", "art": "57", "acao": "alterou"}], "id": "federal/leis-ordinarias/2011/lei-12431-2011-06-24"},
+{"data": "2011-08-04", "nome": "Lei nº 12.462 de 04/08/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 62-A", "art": "62-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2011/lei-12462-2011-08-04"},
+{"data": "2011-09-29", "nome": "Decreto nº 7.574 de 29/09/2011", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": []},
+{"data": "2011-10-11", "nome": "Decreto nº 7.578 de 11/10/2011", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2013-03-08", "nome": "Medida Provisória nº 609 de 08/03/2013", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 54, caput, Inciso 4", "art": "54", "acao": "revogou"}, {"dispositivo": "Art. 56", "art": "56", "acao": "alterou"}]},
+{"data": "2013-04-04", "nome": "Medida Provisória nº 612 de 04/04/2013", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 36", "art": "36", "acao": "alterou"}]},
+{"data": "2013-07-09", "nome": "Lei nº 12.839 de 09/07/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 54, caput, Inciso 4", "art": "54", "acao": "revogou"}, {"dispositivo": "Art. 56", "art": "56", "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12839-2013-07-09"},
+{"data": "2013-10-09", "nome": "Lei nº 12.865 de 09/10/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 54, caput, Inciso 1", "art": "54", "acao": "alterou"}, {"dispositivo": "Art. 55, caput, Inciso 1", "art": "55", "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12865-2013-10-09"},
+{"data": "2013-12-26", "nome": "Medida Provisória nº 634 de 26/12/2013", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 36, § 1", "art": "36", "acao": "alterou"}, {"dispositivo": "Art. 36, § 2", "art": "36", "acao": "alterou"}, {"dispositivo": "Art. 36, § 2, Inciso 1", "art": "36", "acao": "alterou"}, {"dispositivo": "Art. 36, § 2, Inciso 2", "art": "36", "acao": "alterou"}, {"dispositivo": "Art. 36, § 3", "art": "36", "acao": "acrescentou"}]},
+{"data": "2014-06-18", "nome": "Lei nº 12.995 de 18/06/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 36", "art": "36", "acao": "alterou"}, {"dispositivo": "Art. 36, § 3", "art": "36", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2014/lei-12995-2014-06-18"},
+{"data": "2014-11-13", "nome": "Lei nº 13.043 de 13/11/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 37", "art": "37", "acao": "alterou"}], "id": "federal/leis-ordinarias/2014/lei-13043-2014-11-13"},
+{"data": "2020-09-23", "nome": "Lei nº 14.060 de 23/09/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 31", "art": "31", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2020/lei-14060-2020-09-23"},
+{"data": "2021-12-14", "nome": "Medida Provisória nº 1.079 de 14/12/2021", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 31", "art": "31", "acao": "correlato"}]},
+{"data": "2022-06-08", "nome": "Lei nº 14.366 de 08/06/2022", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 31", "art": "31", "acao": "correlato"}], "id": "federal/leis-ordinarias/2022/lei-14366-2022-06-08"},
+{"data": "2024-10-14", "nome": "Medida Provisória nº 1.266 de 14/10/2024", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 31", "art": "31", "acao": "correlato"}]}
+],
+"controle": []
+}

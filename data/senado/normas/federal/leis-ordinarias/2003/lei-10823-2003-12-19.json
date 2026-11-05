@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/2003/lei-10823-2003-12-19",
+"urn": "urn:lex:br:federal:lei:2003-12-19;10823",
+"consultado_em": "2026-11-04",
+"codigo": "552699",
+"nome": "Lei nº 10.823 de 19/12/2003",
+"apelidos": [
+"Lei do Seguro Rural (2003)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2003-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/2003] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2004-06-29", "nome": "Decreto nº 5.121 de 29/06/2004", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2005-08-17", "nome": "Decreto nº 5.514 de 17/08/2005", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 4", "art": "3", "acao": "regulamentou"}]},
+{"data": "2006-05-23", "nome": "Decreto nº 5.782 de 23/05/2006", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 4", "art": "3", "acao": "regulamentou"}]},
+{"data": "2010-08-26", "nome": "Lei Complementar nº 137 de 26/08/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}], "id": "federal/leis-complementares/2010/lcp-137-2010-08-26"},
+{"data": "2015-07-21", "nome": "Lei nº 13.149 de 21/07/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1-A", "art": "1-a", "acao": "acrescentou"}, {"dispositivo": "Art. 1-A, Parágrafo Único", "art": "1-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2015/lei-13149-2015-07-21"},
+{"data": "2015-11-25", "nome": "Lei nº 13.195 de 25/11/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 5", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, § 6", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 3, § 2", "art": "3", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2015/lei-13195-2015-11-25"},
+{"data": "2026-09-29", "nome": "Lei nº 15.526 de 29/09/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 6", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 1-A", "art": "1-a", "acao": "revogou"}, {"dispositivo": "Art. 2, § 1", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 2, § 2", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4, § 1", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5, caput, Inciso 7", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 5, caput, Inciso 8", "art": "5", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15526-2026-09-29"}
+],
+"controle": []
+}

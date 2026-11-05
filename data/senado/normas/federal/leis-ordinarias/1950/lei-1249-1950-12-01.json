@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1249-1950-12-01",
+"urn": "urn:lex:br:federal:lei:1950-12-01;1249",
+"consultado_em": "2026-11-04",
+"codigo": "542889",
+"nome": "Lei nº 1.249 de 01/12/1950",
+"apelidos": [
+"Lei Orçamentária Anual (LOA) (1951)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-12-12", "descricao": "Publicação Original [Diário Oficial da União - Suplemento de 12/12/1950] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "1951-04-10", "nome": "Decreto nº 29.457 de 10/04/1951", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

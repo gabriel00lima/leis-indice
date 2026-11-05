@@ -1,0 +1,30 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10407-2002-01-10",
+"urn": "urn:lex:br:federal:lei:2002-01-10;10407",
+"consultado_em": "2026-11-04",
+"codigo": "552283",
+"nome": "Lei nº 10.407 de 10/01/2002",
+"apelidos": [
+"Lei Orçamentária Anual (LOA) (2002)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-01-11", "descricao": "Publicação Original [Diário Oficial da União de 11/01/2002] (p. 74, col. 2)"},
+{"tipo": "RET", "data": "2002-04-18", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 18/04/2002] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "2002-09-19", "descricao": "Retificação (Seq. 2) [Diário Oficial da União de 19/09/2002] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "2002-09-20", "descricao": "Retificação (Seq. 3) [Diário Oficial da União de 20/09/2002] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "2002-10-23", "descricao": "Retificação (Seq. 4) [Diário Oficial da União de 23/10/2002] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2002-01-25", "nome": "Decreto de 25/01/2002", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2002-06-26", "nome": "Decreto de 26/06/2002 ( seq-sf: 1 )", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2002-07-11", "nome": "Lei nº 10.511 de 11/07/2002", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2002/lei-10511-2002-07-11"},
+{"data": "2002-11-07", "nome": "Decreto Legislativo do Congresso Nacional nº 50 de 07/11/2002", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2002-11-07", "nome": "Decreto Legislativo do Congresso Nacional nº 54 de 07/11/2002", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2002-11-07", "nome": "Decreto Legislativo do Congresso Nacional nº 57 de 07/11/2002", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2002-12-19", "nome": "Decreto Legislativo do Congresso Nacional nº 82 de 19/12/2002", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2002-12-19", "nome": "Decreto Legislativo do Congresso Nacional nº 83 de 19/12/2002", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2002-12-19", "nome": "Decreto Legislativo do Congresso Nacional nº 86 de 19/12/2002", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2002-12-19", "nome": "Decreto Legislativo do Congresso Nacional nº 89 de 19/12/2002", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

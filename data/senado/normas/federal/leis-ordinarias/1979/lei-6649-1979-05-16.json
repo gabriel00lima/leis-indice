@@ -1,0 +1,27 @@
+{
+"id": "federal/leis-ordinarias/1979/lei-6649-1979-05-16",
+"urn": "urn:lex:br:federal:lei:1979-05-16;6649",
+"consultado_em": "2026-11-04",
+"codigo": "548525",
+"nome": "Lei nº 6.649 de 16/05/1979",
+"apelidos": [
+"Lei do Inquilinato (1979)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-05-16", "descricao": "Publicação Original [Diário Oficial da União de 16/05/1979] (p. 6841, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-10-15", "nome": "Lei nº 6.698 de 15/10/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 24", "art": "24", "acao": "alterou"}, {"dispositivo": "Art. 25", "art": "25", "acao": "alterou"}, {"dispositivo": "Art. 49", "art": "49", "acao": "alterou"}], "id": "federal/leis-ordinarias/1979/lei-6698-1979-10-15"},
+{"data": "1982-12-20", "nome": "Lei nº 7.069 de 20/12/1982", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7069-1982-12-20"},
+{"data": "1985-08-30", "nome": "Lei nº 7.355 de 30/08/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}], "id": "federal/leis-ordinarias/1985/lei-7355-1985-08-30"},
+{"data": "1986-09-24", "nome": "Lei nº 7.538 de 24/09/1986", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7538-1986-09-24"},
+{"data": "1987-07-09", "nome": "Lei nº 7.612 de 09/07/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1987/lei-7612-1987-07-09"},
+{"data": "1990-09-20", "nome": "Medida Provisória nº 227 de 20/09/1990", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 15", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 49", "art": "49", "acao": "alterou"}]},
+{"data": "1990-10-19", "nome": "Medida Provisória nº 250 de 19/10/1990", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 15", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 49", "art": "49", "acao": "alterou"}]},
+{"data": "1990-11-21", "nome": "Medida Provisória nº 267 de 21/11/1990", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1991-01-03", "nome": "Lei nº 8.157 de 03/01/1991", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8157-1991-01-03"},
+{"data": "1991-01-03", "nome": "Medida Provisória nº 291 de 03/01/1991", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 15", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 49", "art": "49", "acao": "revogou"}]},
+{"data": "1991-10-18", "nome": "Lei nº 8.245 de 18/10/1991", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8245-1991-10-18"}
+],
+"controle": []
+}
