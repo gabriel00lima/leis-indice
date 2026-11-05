@@ -8,6 +8,7 @@ on:
       - "data/**"
       - "api/**"
       - "textos/**"
+      - "cloudflare/**"
       - ".github/workflows/deploy-site.yml"
   schedule:
     - cron: "30 9 * * *" # 06:30 em Brasília, reserva caso outro workflow não dispare o deploy
@@ -73,3 +74,97 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  # Cópia do site no Cloudflare (Worker + R2), sem o limite de 1 GB do Pages e com
+  # página própria também para as leis estaduais. Ver cloudflare/README.md.
+  # Fica parado (verde, com um aviso) até existirem os segredos CLOUDFLARE_API_TOKEN
+  # e CLOUDFLARE_ACCOUNT_ID (docs/configuracao.md, seção Cloudflare).
+  cloudflare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      R2_BUCKET: leis-do-brasil
+    steps:
+      - name: Conferir segredos do Cloudflare
+        id: segredos
+        run: |
+          if [ -n "$CLOUDFLARE_API_TOKEN" ] && [ -n "$CLOUDFLARE_ACCOUNT_ID" ]; then
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "::notice::Deploy no Cloudflare desligado: faltam os segredos CLOUDFLARE_API_TOKEN e CLOUDFLARE_ACCOUNT_ID (ver docs/configuracao.md)."
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - if: steps.segredos.outputs.ok == 'true'
+        uses: actions/checkout@v4
+
+      - if: steps.segredos.outputs.ok == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - if: steps.segredos.outputs.ok == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar wrangler e rclone
+        if: steps.segredos.outputs.ok == 'true'
+        run: |
+          npm ci --prefix cloudflare --no-audit --no-fund
+          sudo apt-get update -qq && sudo apt-get install -y -qq rclone
+
+      - name: Endereço público do site
+        if: steps.segredos.outputs.ok == 'true'
+        env:
+          SITE_URL_VAR: ${{ vars.SITE_URL }}
+        run: |
+          set -euo pipefail
+          if [ -n "$SITE_URL_VAR" ]; then
+            url="${SITE_URL_VAR%/}/"
+          else
+            # Sem domínio próprio: o endereço workers.dev da conta.
+            sub=$(curl -fsS -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
+              "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/workers/subdomain" \
+              | python3 -c 'import json,sys; print((json.load(sys.stdin).get("result") or {}).get("subdomain",""))' || true)
+            if [ -z "$sub" ]; then
+              echo "::error::A conta do Cloudflare ainda não tem subdomínio workers.dev. Abra Workers & Pages no painel uma vez, ou defina a variável SITE_URL (docs/configuracao.md)."
+              exit 1
+            fi
+            url="https://leis-do-brasil.$sub.workers.dev/"
+          fi
+          echo "SITE_URL=$url" >> "$GITHUB_ENV"
+          echo "Site no Cloudflare: $url"
+
+      - name: Gerar o site
+        if: steps.segredos.outputs.ok == 'true'
+        env:
+          PAGINAS_ESTADUAIS: "1"
+        run: bash site/build.sh
+
+      - name: Separar arquivos estáticos e R2
+        if: steps.segredos.outputs.ok == 'true'
+        run: bash cloudflare/separar.sh
+
+      - name: Criar o bucket R2 se ainda não existir
+        if: steps.segredos.outputs.ok == 'true'
+        working-directory: cloudflare
+        run: |
+          if npx wrangler r2 bucket info "$R2_BUCKET" >/dev/null 2>&1; then
+            echo "Bucket $R2_BUCKET já existe"
+          else
+            npx wrangler r2 bucket create "$R2_BUCKET"
+          fi
+
+      - name: Enviar lei/, api/ e pagefind/ ao R2 (só o que mudou)
+        if: steps.segredos.outputs.ok == 'true'
+        run: bash cloudflare/publicar_r2.sh
+
+      - name: Publicar o Worker
+        if: steps.segredos.outputs.ok == 'true'
+        working-directory: cloudflare
+        run: npx wrangler deploy --var "VERSAO:${GITHUB_SHA::7}"

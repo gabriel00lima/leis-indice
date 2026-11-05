@@ -1,0 +1,14 @@
+{
+  "name": "leis-indice-cloudflare",
+  "private": true,
+  "description": "Worker que serve o site no Cloudflare (arquivos estáticos + bucket R2).",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "4.151.0"
+  }
+}

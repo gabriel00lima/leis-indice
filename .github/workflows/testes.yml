@@ -12,6 +12,8 @@ on:
       - "integracoes/senado/**"
       - "site/build.sh"
       - "site/js/**"
+      - "site/paginas.py"
+      - "cloudflare/**"
       - ".github/workflows/testes.yml"
 
 permissions:
@@ -52,6 +54,9 @@ jobs:
 
       - name: Divisão em artigos da busca no texto
         run: node --test textos/tests/*.test.mjs
+
+      - name: Rotas do Worker do Cloudflare
+        run: node --test cloudflare/tests/*.test.mjs
 
       - name: Build do site com a API (dados reais de data/)
         run: |

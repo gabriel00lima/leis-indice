@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
-# Gera _site/ (na raiz do repo) para publicação no GitHub Pages.
+# Gera _site/ (na raiz do repo) para publicação no GitHub Pages ou no Cloudflare.
+# Variáveis opcionais: SITE_URL (endereço público, com / no fim; padrão o do GitHub Pages)
+# e PAGINAS_ESTADUAIS=1 (páginas lei/<id> também para as estaduais; só no Cloudflare).
 # Copia site/ e, se existir, data/ para _site/data/. Sem dependências.
 # Rodar a partir da raiz do repositório: bash site/build.sh
 set -euo pipefail
@@ -33,7 +35,7 @@ fi
 # API pública em JSON estático (_site/api/v1/), derivada de data/. Ver api/README.md.
 # Se falhar, o site sai mesmo assim, sem a API, e o log do Action mostra o aviso.
 if [ -f "$raiz/data/index.json" ] && [ -f "$raiz/api/gerar.py" ] && command -v python3 >/dev/null; then
-  python3 "$raiz/api/gerar.py" --data "$raiz/data" --saida "$saida/api" \
+  python3 "$raiz/api/gerar.py" --data "$raiz/data" --saida "$saida/api" ${SITE_URL:+--base "$SITE_URL"} \
     || echo "::warning::API não gerada (api/gerar.py falhou)"
 fi
 
