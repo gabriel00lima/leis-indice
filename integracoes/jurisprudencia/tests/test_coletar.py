@@ -117,5 +117,6 @@ class Tema(unittest.TestCase):
         self.assertEqual(c.rotulo_tema("1. Tema Repetitivo 1280\n Situação do tema: Acórdão Publicado"), "Tema repetitivo 1280")
         self.assertEqual(c.rotulo_tema("Tema repetitivo 1. Tema Repetitivo 1280\n Situação do tema: Acórdão Publicado"), "Tema repetitivo 1280")
         self.assertEqual(c.rotulo_tema("1. Tema Repetitivo 1076 2. Tema Repetitivo 1077"), "Temas repetitivos 1076, 1077")
+        self.assertEqual(c.rotulo_tema("Temas Repetitivos 504, 505\nSituação dos temas: Acórdão Publicado"), "Temas repetitivos 504, 505")
         self.assertEqual(c.rotulo_tema("938"), "Tema repetitivo 938")
         self.assertEqual(c.rotulo_tema("Tema repetitivo PRECEDENTE QUALIFICADO - TEMA"), "Precedente qualificado")

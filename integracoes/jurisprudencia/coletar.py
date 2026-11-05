@@ -134,6 +134,8 @@ def rotulo_tema(tema: str) -> str:
     t = re.sub(r"\s+", " ", tema or "").strip()
     t = re.sub(r"(?i)\b\d+\.\s+(?=tema\b)", "", t)  # "1. Tema Repetitivo 1280": o "1." é numeração
     nums = re.findall(r"(?i)\btema(?:\s+repetitivo)?\s+(\d[\d.]*\d|\d)", t)
+    for lista in re.findall(r"(?i)\btemas\s+repetitivos\s+((?:\d[\d.]*(?:\s*,\s*|\s+e\s+)?)+)", t):
+        nums += re.findall(r"\d[\d.]*\d|\d", lista)
     if not nums and re.fullmatch(r"\d[\d.]*", t):
         nums = [t]
     nums = list(dict.fromkeys(n.rstrip(".") for n in nums))
