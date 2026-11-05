@@ -96,7 +96,7 @@ function itemDecisao(d, it = {}, comMarcas = false) {
     it.x ? trechoMarcado(it.x, it.h) : null,
     d.e ? el("p", { class: it.x ? "juris-ementa juris-indexacao" : "juris-ementa", texto: d.e }) : null,
     d.s ? el("p", { class: "juris-tese" }, el("strong", { texto: "Tese: " }), d.s) : null,
-    it.ig ? el("p", { class: "juris-iguais", texto: `+ ${plural(it.ig, "acórdão", "acórdãos")} com a mesma ementa (julgamento em lote)` }) : null);
+    it.ig ? el("p", { class: "juris-iguais", texto: `+ ${plural(it.ig, "acórdão", "acórdãos")} com a mesma ementa ou do mesmo tema` }) : null);
 }
 
 function listaDecisoes(lista, decisoes, total, comMarcas = false) {

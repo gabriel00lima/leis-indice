@@ -128,6 +128,12 @@ def numero_br(n: str | None) -> str:
     return f"{int(s):,}".replace(",", ".") if s else ""
 
 
+def rotulo_tema(tema: str) -> str:
+    """'Tema Repetitivo 1099 Situação do tema: Acórdão Publicado' -> 'Tema repetitivo 1099'."""
+    m = re.search(r"\d[\d.]*", tema or "")
+    return "Tema repetitivo " + m.group(0).rstrip(".") if m else ("Tema repetitivo " + tema.strip() if tema else "")
+
+
 def cabecalho_ementa(ementa: str | None) -> str:
     """Só a indexação (as palavras-chave em maiúsculas antes de "I. CASO EM EXAME" ou do item 1)."""
     t = re.sub(r"\s+", " ", ementa or "").strip()
@@ -146,7 +152,7 @@ def resumo_decisao(x: dict, tamanho_ementa: int) -> dict:
         "s": precisao.tese(x, re.sub(r"\s+", " ", x.get("ementa") or "")),
     }
     if x.get("tema"):
-        d["t"] = "Tema repetitivo " + str(x["tema"]).strip()
+        d["t"] = rotulo_tema(str(x["tema"]))
     if reg:
         # Nova Consulta Processual do STJ (a antiga processo.stj.jus.br/processo/pesquisa
         # só mostra o aviso "Aplicação atualizada").
@@ -278,7 +284,9 @@ def agregar(extratos: list[dict], leis: list[dict], por_artigo: int, por_disposi
             grupos: dict[str, list] = {}
             unicos = []
             for t in lista:
-                g = vistos[t[2]].get("g") or t[2]
+                # Mesmo tema repetitivo = mesmo precedente; senão, ementa idêntica.
+                tema = vistos[t[2]]["d"].get("t")
+                g = ("tema:" + rotulo_tema(tema.replace("Tema repetitivo", ""))) if tema else (vistos[t[2]].get("g") or t[2])
                 if g in grupos:
                     grupos[g][1] += 1
                 else:
@@ -297,7 +305,10 @@ def agregar(extratos: list[dict], leis: list[dict], por_artigo: int, por_disposi
                 if iguais:
                     item["ig"] = iguais
                 itens.append(item)
-                b["decisoes"][i] = vistos[i]["d"]
+                d = dict(vistos[i]["d"])
+                if d.get("t"):  # extratos antigos no cache guardam o rótulo longo
+                    d["t"] = rotulo_tema(d["t"].replace("Tema repetitivo", ""))
+                b["decisoes"][i] = d
             b["artigos"][a] = itens
 
         artigos = {a: n for a, n in contagem.items() if a != "sem-artigo"}
