@@ -21,20 +21,34 @@ A chave é pública, mas o CNJ pode trocá-la a qualquer momento. A coleta usa, 
 
 A API do DataJud vive sobrecarregada (erros 429 e shards que falham). A coleta só aceita respostas completas; se não conseguir, mantém os números anteriores e o passo não derruba a Action.
 
+## Precisão: o acórdão discute o artigo ou só o cita?
+
+As referências legislativas do STJ dizem **quais** artigos um acórdão cita, mas muitas citações são de passagem (o art. 105, III, da CF aparece em quase todo recurso especial; o art. 1.022 do CPC em toda alegação de omissão). Por isso a coleta (`precisao.py`) cruza cada referência com o texto da própria ementa:
+
+- **Parágrafo, inciso e alínea** vêm da referência estruturada (`ART:00206 PAR:00003 INC:00005` → `§ 3º, V`). O site filtra por eles.
+- **Onde o artigo aparece na ementa**: `w: "ementa"` quando o corpo da ementa trata do artigo (com o trecho, `x`, e a posição da citação, `h`, para destacar), `w: "lista"` quando só está em "Dispositivos relevantes citados", e sem `w` quando nem aparece. A citação só conta se a ementa disser que é da mesma norma ("art. 155 do CPP" não vale para o CP); se a ementa não disser a norma, só vale quando o número do artigo é de uma única norma nas referências.
+- **Relevância** (`precisao.pontuar`): discutir o artigo na ementa pesa mais; depois tema repetitivo, tese, acórdão focado (cita poucos artigos), Seção ou Corte Especial; embargos de declaração e agravos internos pesam menos. A data desempata.
+- **Lotes**: acórdãos com ementa idêntica (julgamentos em série) aparecem uma vez, com "+N com a mesma ementa".
+- **Tese**: o campo `teseJuridica` do STJ ou o "Tese de julgamento:" da ementa (`s` na decisão).
+
+Medição com 39.669 acórdãos de jun. a set. de 2026: o artigo é discutido na ementa em 68% dos pares acórdão–artigo do CPC, 66% do CDC e do CP, 62% do CC e só 41% da CF; o resto é citação de passagem, que antes aparecia misturada e ordenada só por data.
+
 ## Arquivos gerados (`data/jurisprudencia/`)
 
 ```
 indice.json                 { gerado_em, stj_gerado_em, leis: { <id da norma>: { nome, slug, stj, datajud, total } } }
-stj/<slug>.json             resumo: { lei, nome, total, periodo: [ini, fim], artigos: { "art-5": 123 }, sem_artigo, bloco, por_artigo }
-stj/<slug>/<n>.json         detalhe dos artigos n*100 a n*100+99: { artigos: { "art-5": [ids] }, decisoes: { id: decisão } }
+stj/<slug>.json             resumo: { lei, nome, total, v: 2, periodo: [ini, fim], artigos: { "art-5": 123 }, na_ementa: { "art-5": 40 },
+                              dispositivos: { "art-5": { "inc. LV": 9 } }, sem_artigo, bloco, por_artigo }
+stj/<slug>/<n>.json         detalhe dos artigos n*100 a n*100+99: { artigos: { "art-5": [item] }, decisoes: { id: decisão } }
+                            item = { i: id, d: ["inc. LV"], w: "ementa"|"lista", x: "trecho da ementa", h: [ini, fim], ig: iguais }
 stj/<slug>/sem.json         acórdãos que citam a norma sem indicar artigo (mesmo formato, chave "sem-artigo")
 stj/_fonte.json             data da última coleta do STJ
 datajud/<slug>.json         { lei, gerado_em, tribunais: [{ sigla, total, total_tribunal }], assuntos: [{ nome, total }] }
 ```
 
-Decisão: `{ p: "REsp 2.260.689", o: "Terceira Turma", r: "Nancy Andrighi", j: "2026-08-04", e: "ementa resumida…", t: "Tema repetitivo 1076", u: "link da consulta processual" }`.
+Decisão: `{ p: "REsp 2.260.689", o: "Terceira Turma", r: "Nancy Andrighi", j: "2026-08-04", e: "indexação da ementa…", s: "tese", t: "Tema repetitivo 1076", u: "link da consulta processual" }`.
 
-Para manter os dados pequenos, cada artigo guarda só a **contagem** e as **5 decisões mais recentes** (`stj.decisoes_por_artigo`), e a ementa é cortada em 260 caracteres (`stj.tamanho_ementa`). O site baixa o resumo ao abrir a lei e o bloco de detalhe só quando alguém clica no selo de um artigo.
+Para manter os dados pequenos, cada artigo guarda a **contagem** e as **8 decisões mais relevantes** (`stj.decisoes_por_artigo`), mais as 3 melhores de cada um dos 6 dispositivos mais citados; a indexação da ementa é cortada em 260 caracteres (`stj.tamanho_ementa`). O site baixa o resumo ao abrir a lei e o bloco de detalhe só quando alguém clica no selo de um artigo.
 
 Os ids de artigo seguem as âncoras do site: `art-5`, `art-1022`, `art-103-a`.
 

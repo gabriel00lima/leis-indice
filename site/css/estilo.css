@@ -409,32 +409,6 @@ input:focus-visible, select:focus-visible, button:focus-visible, a:focus-visible
   .menu { gap: .8rem; }
 }
 
-/* ================= Leis estaduais ================= */
-.grade-estados { display: grid; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); gap: 1rem; }
-.cartao-estado {
-  display: flex; flex-direction: column; gap: .8rem; padding: 1.3rem;
-  background: var(--superficie); border: 1px solid var(--borda); border-radius: var(--raio); box-shadow: var(--sombra);
-}
-.estado-cabeca { display: flex; align-items: center; gap: .8rem; text-decoration: none; color: inherit; }
-.estado-cabeca strong { display: block; font-family: var(--serif); font-size: 1.3rem; font-weight: 600; color: var(--texto); }
-.estado-cabeca small { color: var(--suave); font-size: .82rem; }
-.estado-cabeca:hover strong { color: var(--destaque); }
-.estado-sigla {
-  display: grid; place-items: center; width: 2.8rem; height: 2.8rem; flex: none; border-radius: 10px;
-  background: var(--inst-800); color: var(--amarelo); font-weight: 800; letter-spacing: .02em;
-}
-.estado-tipos { list-style: none; margin: 0; padding: 0; font-size: .9rem; }
-.estado-tipos li { display: flex; justify-content: space-between; gap: 1rem; padding: .35rem 0; border-bottom: 1px dashed var(--borda); }
-.estado-tipos a { color: var(--texto); text-decoration: none; }
-.estado-tipos a:hover { color: var(--destaque); }
-.estado-tipos span { font-variant-numeric: tabular-nums; color: var(--suave); }
-.estado-links { margin: 0; font-size: .88rem; font-weight: 600; }
-.estado-nota { margin: -.4rem 0 0; font-size: .8rem; color: var(--mais-suave); }
-.chip-uf { background: var(--inst-800); color: var(--amarelo); letter-spacing: .03em; }
-.estado-citadas ol { margin: .3rem 0 0; padding-left: 1.2rem; font-size: .88rem; }
-.estado-citadas li { margin-bottom: .35rem; }
-.estado-citadas a { font-weight: 600; text-decoration: none; }
-.estado-citadas small { display: block; color: var(--suave); font-size: .78rem; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
 /* ================= Ajustes da página inicial (enxuta) ================= */
 .so-celular { display: none; }
 .link-acervo { margin: .9rem 0 0; font-size: .9rem; }

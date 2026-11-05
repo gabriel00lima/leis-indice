@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-04T01:01:39+00:00",
+ "gerado_em": "2026-11-03T16:24:41+00:00",
  "fonte": {
   "repositorio": "ctresb/leis",
   "commit": "c9f21b4ab11aa0d7ca6fe861d75028e94219c2d6",
@@ -8,32 +8,16 @@
    "federal/emendas-constitucionais",
    "federal/leis-complementares",
    "federal/leis-ordinarias",
-   "federal/decretos-lei",
-   "estaduais/SP/constituicao",
-   "estaduais/SP/emendas-constitucionais",
-   "estaduais/SP/leis-complementares",
-   "estaduais/SP/leis-ordinarias",
-   "estaduais/SP/decretos-lei",
-   "estaduais/SP/decretos-lei-complementares",
-   "estaduais/RJ/constituicao",
-   "estaduais/RJ/leis-ordinarias",
-   "estaduais/MG/constituicao",
-   "estaduais/MG/emendas-constitucionais",
-   "estaduais/MG/leis-complementares",
-   "estaduais/MG/leis-ordinarias",
-   "estaduais/MG/leis-delegadas",
-   "estaduais/MG/leis-constitucionais",
-   "estaduais/MG/decretos-lei"
+   "federal/decretos-lei"
   ]
  },
- "total": 97841,
- "total_federal": 29572,
+ "total": 29572,
  "revogadas": 1196,
- "ligacoes": 140211,
+ "ligacoes": 62438,
  "ligacoes_por_tipo": {
-  "cita": 115443,
-  "altera": 16545,
-  "revoga": 8223
+  "cita": 49027,
+  "altera": 9337,
+  "revoga": 4074
  },
  "mais_antiga": "1822-10-14",
  "por_tipo": [
@@ -42,6 +26,12 @@
    "pasta": "constituicao",
    "total": 1,
    "revogadas": 0
+  },
+  {
+   "tipo": "Decreto-Lei",
+   "pasta": "decretos-lei",
+   "total": 12376,
+   "revogadas": 445
   },
   {
    "tipo": "Emenda Constitucional",
@@ -60,12 +50,6 @@
    "pasta": "leis-ordinarias",
    "total": 16784,
    "revogadas": 731
-  },
-  {
-   "tipo": "Decreto-Lei",
-   "pasta": "decretos-lei",
-   "total": 12376,
-   "revogadas": 445
   }
  ],
  "por_decada": [
@@ -165,8 +149,8 @@
    "revogada": false,
    "apelido": "Constituição Federal",
    "descricao": "A lei maior do país: direitos fundamentais, organização do Estado e dos Poderes.",
-   "citada_por": 2558,
-   "alterada_por": 158
+   "citada_por": 1707,
+   "alterada_por": 136
   },
   {
    "id": "federal/leis-ordinarias/2002/lei-10406-2002-01-10",
@@ -178,7 +162,7 @@
    "revogada": false,
    "apelido": "Código Civil",
    "descricao": "Pessoas, contratos, propriedade, família e sucessões.",
-   "citada_por": 180,
+   "citada_por": 150,
    "alterada_por": 56
   },
   {
@@ -191,8 +175,8 @@
    "revogada": false,
    "apelido": "Código Penal",
    "descricao": "Crimes e penas.",
-   "citada_por": 364,
-   "alterada_por": 111
+   "citada_por": 306,
+   "alterada_por": 109
   },
   {
    "id": "federal/decretos-lei/1943/del-5452-1943-05-01",
@@ -204,7 +188,7 @@
    "revogada": false,
    "apelido": "CLT",
    "descricao": "Consolidação das Leis do Trabalho.",
-   "citada_por": 656,
+   "citada_por": 537,
    "alterada_por": 195
   },
   {
@@ -217,8 +201,8 @@
    "revogada": false,
    "apelido": "Código de Defesa do Consumidor",
    "descricao": "Direitos de quem compra e deveres de quem vende.",
-   "citada_por": 197,
-   "alterada_por": 18
+   "citada_por": 75,
+   "alterada_por": 16
   },
   {
    "id": "federal/leis-ordinarias/2015/lei-13105-2015-03-16",
@@ -230,7 +214,7 @@
    "revogada": false,
    "apelido": "Código de Processo Civil",
    "descricao": "Como tramitam os processos cíveis.",
-   "citada_por": 88,
+   "citada_por": 78,
    "alterada_por": 19
   },
   {
@@ -243,8 +227,8 @@
    "revogada": false,
    "apelido": "Código de Processo Penal",
    "descricao": "Investigação e processo criminal.",
-   "citada_por": 177,
-   "alterada_por": 65
+   "citada_por": 142,
+   "alterada_por": 64
   },
   {
    "id": "federal/leis-ordinarias/1966/lei-5172-1966-10-25",
@@ -256,8 +240,8 @@
    "revogada": false,
    "apelido": "Código Tributário Nacional",
    "descricao": "Regras gerais sobre tributos.",
-   "citada_por": 156,
-   "alterada_por": 17
+   "citada_por": 125,
+   "alterada_por": 16
   },
   {
    "id": "federal/leis-ordinarias/1990/lei-8069-1990-07-13",
@@ -269,8 +253,8 @@
    "revogada": false,
    "apelido": "Estatuto da Criança e do Adolescente",
    "descricao": "Proteção integral a crianças e adolescentes.",
-   "citada_por": 174,
-   "alterada_por": 54
+   "citada_por": 101,
+   "alterada_por": 53
   },
   {
    "id": "federal/leis-ordinarias/1997/lei-9503-1997-09-23",
@@ -282,7 +266,7 @@
    "revogada": false,
    "apelido": "Código de Trânsito Brasileiro",
    "descricao": "Trânsito, habilitação e infrações.",
-   "citada_por": 111,
+   "citada_por": 69,
    "alterada_por": 56
   },
   {
@@ -295,8 +279,8 @@
    "revogada": false,
    "apelido": "LGPD",
    "descricao": "Lei Geral de Proteção de Dados Pessoais.",
-   "citada_por": 73,
-   "alterada_por": 8
+   "citada_por": 49,
+   "alterada_por": 6
   },
   {
    "id": "federal/leis-ordinarias/2014/lei-12965-2014-04-23",
@@ -321,8 +305,8 @@
    "revogada": false,
    "apelido": "Lei Maria da Penha",
    "descricao": "Combate à violência doméstica contra a mulher.",
-   "citada_por": 71,
-   "alterada_por": 27
+   "citada_por": 48,
+   "alterada_por": 26
   },
   {
    "id": "federal/leis-ordinarias/2021/lei-14133-2021-04-01",
@@ -334,7 +318,7 @@
    "revogada": false,
    "apelido": "Nova Lei de Licitações",
    "descricao": "Compras e contratos da administração pública.",
-   "citada_por": 59,
+   "citada_por": 27,
    "alterada_por": 6
   },
   {
@@ -347,8 +331,8 @@
    "revogada": false,
    "apelido": "Lei de Responsabilidade Fiscal",
    "descricao": "Limites de gasto e endividamento público.",
-   "citada_por": 565,
-   "alterada_por": 16
+   "citada_por": 229,
+   "alterada_por": 14
   },
   {
    "id": "federal/decretos-lei/1942/del-4657-1942-09-04",
@@ -360,7 +344,7 @@
    "revogada": false,
    "apelido": "LINDB",
    "descricao": "Lei de Introdução às Normas do Direito Brasileiro.",
-   "citada_por": 22,
+   "citada_por": 18,
    "alterada_por": 8
   }
  ],
@@ -373,27 +357,7 @@
    "data": "1988-10-05",
    "ementa": "",
    "revogada": false,
-   "total": 2558
-  },
-  {
-   "id": "federal/decretos-lei/1939/del-1202-1939-04-08",
-   "titulo": "Decreto-Lei nº 1.202 de 08/04/1939",
-   "tipo": "Decreto-Lei",
-   "numero": "1202",
-   "data": "1939-04-08",
-   "ementa": "Dispõe sobre a administração dos Estados e dos Municípios.",
-   "revogada": false,
-   "total": 2502
-  },
-  {
-   "id": "federal/leis-ordinarias/1964/lei-4320-1964-03-17",
-   "titulo": "Lei nº 4.320 de 17/03/1964",
-   "tipo": "Lei Ordinária",
-   "numero": "4320",
-   "data": "1964-03-17",
-   "ementa": "Estatui Normas Gerais de Direito Financeiro para elaboração e contrôle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal.",
-   "revogada": false,
-   "total": 1319
+   "total": 1707
   },
   {
    "id": "federal/decretos-lei/1943/del-5452-1943-05-01",
@@ -403,27 +367,7 @@
    "data": "1943-05-01",
    "ementa": "Aprova a Consolidação das Leis do Trabalho.",
    "revogada": false,
-   "total": 656
-  },
-  {
-   "id": "federal/leis-complementares/2000/lcp-101-2000-05-04",
-   "titulo": "Lei Complementar nº 101 de 04/05/2000",
-   "tipo": "Lei Complementar",
-   "numero": "101",
-   "data": "2000-05-04",
-   "ementa": "Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e dá outras providências.",
-   "revogada": false,
-   "total": 565
-  },
-  {
-   "id": "federal/decretos-lei/1940/del-2848-1940-12-07",
-   "titulo": "Decreto-Lei nº 2.848 de 07/12/1940",
-   "tipo": "Decreto-Lei",
-   "numero": "2848",
-   "data": "1940-12-07",
-   "ementa": "Código Penal.",
-   "revogada": false,
-   "total": 364
+   "total": 537
   },
   {
    "id": "federal/emendas-constitucionais/2001/emc-32-2001-09-11",
@@ -446,14 +390,24 @@
    "total": 308
   },
   {
-   "id": "federal/leis-ordinarias/1916/lei-3071-1916-01-01",
-   "titulo": "Lei nº 3.071 de 01/01/1916",
+   "id": "federal/decretos-lei/1940/del-2848-1940-12-07",
+   "titulo": "Decreto-Lei nº 2.848 de 07/12/1940",
+   "tipo": "Decreto-Lei",
+   "numero": "2848",
+   "data": "1940-12-07",
+   "ementa": "Código Penal.",
+   "revogada": false,
+   "total": 306
+  },
+  {
+   "id": "federal/leis-ordinarias/1964/lei-4320-1964-03-17",
+   "titulo": "Lei nº 4.320 de 17/03/1964",
    "tipo": "Lei Ordinária",
-   "numero": "3071",
-   "data": "1916-01-01",
-   "ementa": "Código Civil dos Estados Unidos do Brasil.",
-   "revogada": true,
-   "total": 277
+   "numero": "4320",
+   "data": "1964-03-17",
+   "ementa": "Estatui Normas Gerais de Direito Financeiro para elaboração e contrôle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal.",
+   "revogada": false,
+   "total": 289
   },
   {
    "id": "federal/leis-ordinarias/1970/lei-5645-1970-12-10",
@@ -463,7 +417,37 @@
    "data": "1970-12-10",
    "ementa": "Estabelece diretrizes para a classificação de cargos do Serviço Civil da União e das autarquias federais, e dá outras providências.",
    "revogada": false,
-   "total": 231
+   "total": 230
+  },
+  {
+   "id": "federal/leis-complementares/2000/lcp-101-2000-05-04",
+   "titulo": "Lei Complementar nº 101 de 04/05/2000",
+   "tipo": "Lei Complementar",
+   "numero": "101",
+   "data": "2000-05-04",
+   "ementa": "Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e dá outras providências.",
+   "revogada": false,
+   "total": 229
+  },
+  {
+   "id": "federal/leis-ordinarias/1916/lei-3071-1916-01-01",
+   "titulo": "Lei nº 3.071 de 01/01/1916",
+   "tipo": "Lei Ordinária",
+   "numero": "3071",
+   "data": "1916-01-01",
+   "ementa": "Código Civil dos Estados Unidos do Brasil.",
+   "revogada": true,
+   "total": 214
+  },
+  {
+   "id": "federal/leis-ordinarias/1990/lei-8112-1990-12-11",
+   "titulo": "Lei nº 8.112 de 11/12/1990",
+   "tipo": "Lei Ordinária",
+   "numero": "8112",
+   "data": "1990-12-11",
+   "ementa": "Dispõe sobre o Regime Jurídico dos Servidores Públicos Civis da União, das autarquias e das fundações públicas federais",
+   "revogada": false,
+   "total": 197
   }
  ],
  "mais_alteradas": [
@@ -485,7 +469,7 @@
    "data": "1988-10-05",
    "ementa": "",
    "revogada": false,
-   "total": 158
+   "total": 136
   },
   {
    "id": "federal/decretos-lei/1940/del-2848-1940-12-07",
@@ -495,7 +479,7 @@
    "data": "1940-12-07",
    "ementa": "Código Penal.",
    "revogada": false,
-   "total": 111
+   "total": 109
   },
   {
    "id": "federal/leis-ordinarias/1996/lei-9394-1996-12-20",
@@ -505,7 +489,7 @@
    "data": "1996-12-20",
    "ementa": "Estabelece as diretrizes e bases da educação nacional.",
    "revogada": false,
-   "total": 78
+   "total": 77
   },
   {
    "id": "federal/leis-ordinarias/1991/lei-8212-1991-07-24",
@@ -515,7 +499,7 @@
    "data": "1991-07-24",
    "ementa": "Dispõe sobre a organização da Seguridade Social, institui Plano de Custeio, e dá outras providências. ; ;",
    "revogada": false,
-   "total": 77
+   "total": 76
   },
   {
    "id": "federal/leis-ordinarias/1991/lei-8213-1991-07-24",
@@ -545,7 +529,7 @@
    "data": "1941-10-03",
    "ementa": "Código de Processo Penal.",
    "revogada": false,
-   "total": 65
+   "total": 64
   },
   {
    "id": "federal/leis-ordinarias/1973/lei-5869-1973-01-11",
@@ -640,272 +624,6 @@
    "data": "2026-09-22",
    "ementa": "Dispõe sobre o exercício da atividade de psicopedagogia.",
    "revogada": false
-  }
- ],
- "estaduais": [
-  {
-   "uf": "SP",
-   "nome": "São Paulo",
-   "total": 40203,
-   "revogadas": 18074,
-   "ligacoes": 47007,
-   "desde": "1835-03-09",
-   "constituicao": "estaduais/SP/constituicao/1989/constituicao-sp",
-   "por_tipo": [
-    {
-     "tipo": "Lei Ordinária",
-     "total": 35158,
-     "revogadas": 14472
-    },
-    {
-     "tipo": "Decreto-Lei",
-     "total": 3484,
-     "revogadas": 3303
-    },
-    {
-     "tipo": "Lei Complementar",
-     "total": 1421,
-     "revogadas": 236
-    },
-    {
-     "tipo": "Emenda Constitucional",
-     "total": 116,
-     "revogadas": 52
-    },
-    {
-     "tipo": "Decreto-Lei Complementar",
-     "total": 23,
-     "revogadas": 11
-    },
-    {
-     "tipo": "Constituição Estadual",
-     "total": 1,
-     "revogadas": 0
-    }
-   ],
-   "mais_citadas": [
-    {
-     "id": "estaduais/SP/leis-ordinarias/2007/lei-12683-2007-07-26-id73259",
-     "titulo": "Lei nº 12.683, de 26/07/2007",
-     "tipo": "Lei Ordinária",
-     "numero": "12683",
-     "data": "2007-07-26",
-     "ementa": "Revoga as leis que especifica, compreendidas entre os anos de 1973 e 2002.",
-     "revogada": false,
-     "total": 282
-    },
-    {
-     "id": "estaduais/SP/emendas-constitucionais/1969/ec-2-1969-10-30-id154951",
-     "titulo": "Emenda Constitucional nº 2, de 30/10/1969",
-     "tipo": "Emenda Constitucional",
-     "numero": "2",
-     "data": "1969-10-30",
-     "ementa": "",
-     "revogada": true,
-     "total": 271
-    },
-    {
-     "id": "estaduais/SP/leis-complementares/1978/lc-180-1978-05-12-id30762",
-     "titulo": "Lei Complementar nº 180, de 12/05/1978",
-     "tipo": "Lei Complementar",
-     "numero": "180",
-     "data": "1978-05-12",
-     "ementa": "Dispõe sobre a instituição do Sistema de Administração de Pessoal e dá providências correlatas",
-     "revogada": false,
-     "total": 196
-    },
-    {
-     "id": "estaduais/SP/leis-ordinarias/1968/lei-10261-1968-10-28-id28593",
-     "titulo": "Lei nº 10.261, de 28/10/1968",
-     "tipo": "Lei Ordinária",
-     "numero": "10261",
-     "data": "1968-10-28",
-     "ementa": "Dispõe sôbre o Estatuto dos Funcionários Públicos Civis do Estado",
-     "revogada": false,
-     "total": 173
-    },
-    {
-     "id": "estaduais/SP/decretos-lei/1944/dl-14138-1944-08-18-id68208",
-     "titulo": "Decreto-Lei nº 14.138, de 18/08/1944",
-     "tipo": "Decreto-Lei",
-     "numero": "14138",
-     "data": "1944-08-18",
-     "ementa": "Dispõe sobre a classificação e consolidação dos cargos e funções gratificadas do funcionalismo público civil do Estado de São Paulo, e dá outras providências",
-     "revogada": true,
-     "total": 155
-    }
-   ]
-  },
-  {
-   "uf": "RJ",
-   "nome": "Rio de Janeiro",
-   "total": 1335,
-   "revogadas": 0,
-   "ligacoes": 2055,
-   "desde": "2022-10-28",
-   "constituicao": "estaduais/RJ/constituicao/1989/constituicao-rj-alerj",
-   "por_tipo": [
-    {
-     "tipo": "Lei Ordinária",
-     "total": 1334,
-     "revogadas": 0
-    },
-    {
-     "tipo": "Constituição Estadual",
-     "total": 1,
-     "revogadas": 0
-    }
-   ],
-   "mais_citadas": [
-    {
-     "id": "estaduais/RJ/leis-ordinarias/2022/lei-9913-2022-3238e3dda9",
-     "titulo": "Lei Ordinária nº 9913/2022",
-     "tipo": "Lei Ordinária",
-     "numero": "9913",
-     "data": "2022-12-06",
-     "ementa": "DISPÕE SOBRE O TREINAMENTO E A CAPACITAÇÃO DOS PROFISSIONAIS QUE REALIZAM O ATENDIMENTO DIRETO ÀS PESSOAS COM TRANSTORNO DE ESPECTRO AUTISTA (TEA) NO ÂMBITO DO ESTADO DO RIO DE JANEIRO.",
-     "revogada": false,
-     "total": 2
-    },
-    {
-     "id": "estaduais/RJ/leis-ordinarias/2024/lei-10276-2024-9e70828ddb",
-     "titulo": "Lei Ordinária nº 10276/2024",
-     "tipo": "Lei Ordinária",
-     "numero": "10276",
-     "data": "2024-01-09",
-     "ementa": "INSTITUI O PLANO PLURIANUAL DO ESTADO DO RIO DE JANEIRO – PPA PARA O PERÍODO DE 2024 – 2027",
-     "revogada": false,
-     "total": 2
-    },
-    {
-     "id": "estaduais/RJ/leis-ordinarias/2024/lei-10367-2024-7cc8bd56d8",
-     "titulo": "Lei Ordinária nº 10367/2024",
-     "tipo": "Lei Ordinária",
-     "numero": "10367",
-     "data": "2024-05-08",
-     "ementa": "ALTERA A LEI Nº 5.645, DE 06 DE JANEIRO DE 2010, PARA INSTITUIR NO CALENDÁRIO OFICIAL DO ESTADO DO RIO DE JANEIRO O DIA DO COMBATE AO PRECONCEITO DO ETARISMO, NO ÂMBITO DO ESTADO DO RIO DE JANEIRO.",
-     "revogada": false,
-     "total": 2
-    },
-    {
-     "id": "estaduais/RJ/leis-ordinarias/2025/lei-10899-2025-69d15c7f63",
-     "titulo": "Lei Ordinária nº 10899/2025",
-     "tipo": "Lei Ordinária",
-     "numero": "10899",
-     "data": "2025-07-21",
-     "ementa": "DISPÕE SOBRE AS DIRETRIZES PARA ELABORAÇÃO DA LEI DO ORÇAMENTO ANUAL DE 2026, E DÁ OUTRAS PROVIDÊNCIAS.",
-     "revogada": false,
-     "total": 2
-    },
-    {
-     "id": "estaduais/RJ/leis-ordinarias/2022/lei-9895-2022-ad9b7aba72",
-     "titulo": "Lei Ordinária nº 9895/2022",
-     "tipo": "Lei Ordinária",
-     "numero": "9895",
-     "data": "2022-11-07",
-     "ementa": "INSTITUI O PROGRAMA ESTADUAL DE ENFRENTAMENTO AO FEMINICÍDIO NO ESTADO DO RIO DE JANEIRO E DÁ OUTRAS PROVIDÊNCIAS.",
-     "revogada": false,
-     "total": 1
-    }
-   ]
-  },
-  {
-   "uf": "MG",
-   "nome": "Minas Gerais",
-   "total": 26731,
-   "revogadas": 688,
-   "ligacoes": 28694,
-   "desde": "1947-01-02",
-   "constituicao": "estaduais/MG/constituicao/1989/con-1989-1989",
-   "por_tipo": [
-    {
-     "tipo": "Lei Ordinária",
-     "total": 26055,
-     "revogadas": 470
-    },
-    {
-     "tipo": "Lei Complementar",
-     "total": 189,
-     "revogadas": 16
-    },
-    {
-     "tipo": "Lei Delegada",
-     "total": 184,
-     "revogadas": 152
-    },
-    {
-     "tipo": "Emenda Constitucional",
-     "total": 150,
-     "revogadas": 28
-    },
-    {
-     "tipo": "Decreto-Lei",
-     "total": 133,
-     "revogadas": 3
-    },
-    {
-     "tipo": "Lei Constitucional",
-     "total": 19,
-     "revogadas": 19
-    },
-    {
-     "tipo": "Constituição Estadual",
-     "total": 1,
-     "revogadas": 0
-    }
-   ],
-   "mais_citadas": [
-    {
-     "id": "estaduais/MG/leis-ordinarias/1964/lei-3214-1964",
-     "titulo": "Lei nº 3214, de 16/10/1964",
-     "tipo": "Lei Ordinária",
-     "numero": "3214",
-     "data": "1964-10-16",
-     "ementa": "DISPÕE SOBRE A REESTRUTURAÇÃO DOS CARGOS DO SERVIÇO CIVIL DO PODER EXECUTIVO, ESTABELECE NÍVEIS DE VENCIMENTOS E DÁ OUTRAS PROVIDÊNCIAS.",
-     "revogada": false,
-     "total": 516
-    },
-    {
-     "id": "estaduais/MG/leis-delegadas/2011/ldl-180-2011",
-     "titulo": "Lei Delegada nº 180, de 20/01/2011",
-     "tipo": "Lei Delegada",
-     "numero": "180",
-     "data": "2011-01-20",
-     "ementa": "DISPÕE SOBRE A ESTRUTURA ORGÂNICA DA ADMINISTRAÇÃO PÚBLICA DO PODER EXECUTIVO DO ESTADO DE MINAS GERAIS E DÁ OUTRAS PROVIDÊNCIAS.",
-     "revogada": true,
-     "total": 256
-    },
-    {
-     "id": "estaduais/MG/leis-ordinarias/2022/lei-24219-2022",
-     "titulo": "Lei nº 24219, de 15/07/2022",
-     "tipo": "Lei Ordinária",
-     "numero": "24219",
-     "data": "2022-07-15",
-     "ementa": "Institui o título de relevante interesse cultural do Estado e altera a Lei nº 11.726, de 30 de dezembro de 1994, que dispõe sobre a política cultural do Estado de Minas Gerais.",
-     "revogada": false,
-     "total": 188
-    },
-    {
-     "id": "estaduais/MG/leis-delegadas/2007/ldl-112-2007",
-     "titulo": "Lei Delegada nº 112, de 25/01/2007",
-     "tipo": "Lei Delegada",
-     "numero": "112",
-     "data": "2007-01-25",
-     "ementa": "DISPÕE SOBRE A ORGANIZAÇÃO E A ESTRUTURA DA ADMINISTRAÇÃO PÚBLICA DO PODER EXECUTIVO DO ESTADO E DÁ OUTRAS PROVIDÊNCIAS.",
-     "revogada": true,
-     "total": 165
-    },
-    {
-     "id": "estaduais/MG/leis-ordinarias/1975/lei-6763-1975",
-     "titulo": "Lei nº 6763, de 26/12/1975",
-     "tipo": "Lei Ordinária",
-     "numero": "6763",
-     "data": "1975-12-26",
-     "ementa": "CONSOLIDA A LEGISLAÇÃO TRIBUTÁRIA DO ESTADO DE MINAS GERAIS E DÁ OUTRAS PROVIDÊNCIAS.",
-     "revogada": false,
-     "total": 145
-    }
-   ]
   }
  ]
 }

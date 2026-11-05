@@ -27,14 +27,11 @@ const DATA =
   "(?:\\s*\\/\\s*|\\s+de\\s+)(\\d{4}|\\d{2})" +
   "|\\s*,\\s*de\\s+(\\d{4})" +
   "|\\s*\\/\\s*(\\d{4}|\\d{2})(?!\\d))?";
-// "Lei federal nº", "Lei Estadual nº"... (não captura: a esfera sai do texto do match).
-const ESFERA = "(?:\\s+(?:[Ff]ederal|[Nn]acional|[Ee]stadual|[Pp]aulista|[Mm]ineira|[Ff]luminense))?";
 const NORMA =
-  "\\b(" + TIPOS.map(t => t.re).join("|") + ")" + ESFERA + "\\s+(?:n[º°o]\\.?|n\\.\\s?[º°o])\\s*" + NUM +
+  "\\b(" + TIPOS.map(t => t.re).join("|") + ")\\s+(?:n[º°o]\\.?|n\\.\\s?[º°o])\\s*" + NUM +
   "(?:-([A-Z]))?" + DATA;
-// "Constituição do Estado"/"Estadual" só vira link dentro de uma lei estadual (ver lei.js).
-const CONST = "\\b(Constitui[çc][ãa]o\\s+(?:Federal|da\\s+Rep[úu]blica|do\\s+Estado|Estadual))";
-const ART = "(?:\\b(arts?\\.|[Aa]rtigos?)\\s*(\\d+)[º°]?(?:-([A-Z]))?[^.;:()]{0,70}?\\s+(?:d[aoe]s?|na|no)\\s+)?";
+const CONST = "\\b(Constitui[çc][ãa]o\\s+(?:Federal|da\\s+Rep[úu]blica))";
+const ART = "(?:\\b(arts?\\.)\\s*(\\d+)[º°]?(?:-([A-Z]))?[^.;:()]{0,70}?\\s+(?:d[aoe]s?|na|no)\\s+)?";
 
 // Grupo 1-3: artigo opcional; 4: Constituição; 5: tipo; 6: número; 7: letra;
 // 8-10: dia/mês/ano; 11: ", de AAAA"; 12: "/AA".
@@ -69,9 +66,6 @@ const p2 = n => String(n).padStart(2, "0");
 // "id" só vem preenchido quando a data completa permite montar o caminho exato.
 export function interpretar(m) {
   const artigo = m[2] ? m[2] + (m[3] ? "-" + m[3] : "") : null;
-  if (m[4] && /Estad/.test(m[4])) {
-    return { tipo: null, numero: null, ano: null, data: null, id: null, artigo, constituicao: true, estadual: true };
-  }
   if (m[4]) {
     return { tipo: null, numero: null, ano: "1988", data: "1988-10-05", id: ID_CONSTITUICAO, artigo, constituicao: true };
   }
@@ -93,9 +87,7 @@ export function interpretar(m) {
   const id = data && !letra
     ? `federal/${tipo.pasta}/${ano}/${tipo.prefixo}-${numero}-${data}`
     : null;
-  const esfera = /\b(?:[Ff]ederal|[Nn]acional)\b/.test(m[0]) ? "federal"
-    : /\b(?:[Ee]stadual|[Pp]aulista|[Mm]ineira|[Ff]luminense)\b/.test(m[0]) ? "estadual" : null;
-  return { tipo, numero, letra, ano, data, id: esfera === "estadual" ? null : id, artigo, esfera };
+  return { tipo, numero, letra, ano, data, id, artigo };
 }
 
 // Chave usada para achar a norma no índice quando não há data completa.
@@ -104,14 +96,7 @@ export function chave(prefixo, numero, ano) {
 }
 
 // Extrai a chave de um id do acervo ("federal/leis-ordinarias/1990/lei-8078-1990-09-11").
-// Ids estaduais ("estaduais/SP/leis-ordinarias/2004/lei-11727-2004-05-25-id51045",
-// "estaduais/MG/leis-complementares/1968/lcp-1-1968") usam o prefixo da pasta.
-const PREFIXO_DA_PASTA = Object.fromEntries(TIPOS.map(t => [t.pasta, t.prefixo]));
-PREFIXO_DA_PASTA["leis-constitucionais"] = "lct";
-PREFIXO_DA_PASTA["decretos-lei-complementares"] = "dlc";
 export function chaveDoId(id) {
-  const e = /^estaduais\/[A-Z]{2}\/([a-z-]+)\/\d{4}\/[a-z]+-(\d+)-(\d{4})/.exec(id);
-  if (e) return PREFIXO_DA_PASTA[e[1]] ? chave(PREFIXO_DA_PASTA[e[1]], e[2], e[3]) : null;
   const m = /\/([a-z]+)-(\d+)(?:-[a-z0-9]+)*?-(\d{4})-\d{2}-\d{2}$/.exec(id);
   return m ? chave(m[1], m[2], m[3]) : null;
 }

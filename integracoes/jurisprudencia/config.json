@@ -3,7 +3,7 @@
   "stj": {
     "ckan": "https://dadosabertos.web.stj.jus.br/api/3/action/",
     "prefixo_pacotes": "espelhos-de-acordaos-",
-    "decisoes_por_artigo": 5,
+    "decisoes_por_artigo": 8,
     "tamanho_ementa": 260
   },
   "datajud": {

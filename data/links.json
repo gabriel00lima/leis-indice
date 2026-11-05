@@ -6,6 +6,10 @@
       "pasta": "constituicao"
     },
     {
+      "arquivo": "adjacencia/decretos-lei.json",
+      "pasta": "decretos-lei"
+    },
+    {
       "arquivo": "adjacencia/emendas-constitucionais.json",
       "pasta": "emendas-constitucionais"
     },
@@ -16,34 +20,7 @@
     {
       "arquivo": "adjacencia/leis-ordinarias.json",
       "pasta": "leis-ordinarias"
-    },
-    {
-      "arquivo": "adjacencia/decretos-lei.json",
-      "pasta": "decretos-lei"
-    },
-    {
-      "arquivo": "adjacencia/estaduais/SP.json",
-      "pasta": "SP",
-      "esfera": "estadual",
-      "uf": "SP"
-    },
-    {
-      "arquivo": "adjacencia/estaduais/RJ.json",
-      "pasta": "RJ",
-      "esfera": "estadual",
-      "uf": "RJ"
-    },
-    {
-      "arquivo": "adjacencia/estaduais/MG.json",
-      "pasta": "MG",
-      "esfera": "estadual",
-      "uf": "MG"
     }
   ],
-  "arestas": "arestas.json",
-  "arestas_estaduais": {
-    "SP": "arestas/estaduais/SP.json",
-    "RJ": "arestas/estaduais/RJ.json",
-    "MG": "arestas/estaduais/MG.json"
-  }
+  "arestas": "arestas.json"
 }

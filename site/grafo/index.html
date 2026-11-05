@@ -94,7 +94,7 @@
     <a class="marca" href="../"><span class="selo-marca" aria-hidden="true">§</span>Leis do Brasil</a>
     <div class="busca-mini busca-grafo" role="search">
       <svg class="icone-busca" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
-      <input id="busca" type="search" placeholder="Buscar lei (ex.: 8078, ou 10261 sp)" autocomplete="off"
+      <input id="busca" type="search" placeholder="Buscar lei por número ou nome" autocomplete="off"
         role="combobox" aria-expanded="false" aria-controls="sugestoes" aria-autocomplete="list" aria-label="Buscar lei">
       <ul id="sugestoes" class="lista-sugestoes" role="listbox" hidden></ul>
     </div>
@@ -118,13 +118,6 @@
       <button type="button" data-direcao="saida" aria-pressed="false">Esta lei afeta</button>
       <button type="button" data-direcao="entrada" aria-pressed="false">Afetam esta lei</button>
     </div>
-    <label class="filtro filtro-esfera">Esfera
-      <select id="esfera" aria-label="Esfera das leis ligadas">
-        <option value="">Todas</option>
-        <option value="federal">Só federais</option>
-        <option value="estadual">Só estaduais</option>
-      </select>
-    </label>
     <span class="contagem" id="contagem"></span>
   </div>
 </section>
@@ -160,7 +153,7 @@
   // Bases de dados (relativas a grafo/). ?dados=<pasta> tem prioridade. Formato: site/README.md.
   const BASES = ["../data/", "../../data/", "../exemplo/"]; // ../../data/ cobre o Pages em modo "Deploy from a branch"
   const PAGINAS = (document.querySelector('meta[name="leis:paginas"]') || {}).content; // páginas lei/<id> do build
-  const URL_LEI = id => PAGINAS && !/^estaduais\//.test(id) ? "../" + PAGINAS + id.split("/").map(encodeURIComponent).join("/") : "../lei.html?id=" + encodeURIComponent(id);
+  const URL_LEI = id => PAGINAS ? "../" + PAGINAS + id.split("/").map(encodeURIComponent).join("/") : "../lei.html?id=" + encodeURIComponent(id);
   const URL_FONTE = id => "https://github.com/ctresb/leis/blob/main/" + ((leis[id] && leis[id].path) || id + ".md");
   const POR_GRUPO_TELA = () => (innerWidth < 640 ? 6 : 10); // nós visíveis por grupo (direção × tipo) antes do "+X"
   const PASSO_EXPANDIR = 20; // quantos aparecem a mais a cada clique no "+X"
@@ -177,14 +170,8 @@
     ["federal/leis-ordinarias/1990/lei-8078-1990-09-11", "Código de Defesa do Consumidor"],
     ["federal/leis-ordinarias/2002/lei-10406-2002-01-10", "Código Civil"],
     ["federal/decretos-lei/1943/del-5452-1943-05-01", "CLT"],
-    ["federal/leis-ordinarias/2018/lei-13709-2018-08-14", "LGPD"],
-    ["estaduais/SP/constituicao/1989/constituicao-sp", "Constituição de SP"],
-    ["estaduais/MG/constituicao/1989/con-1989-1989", "Constituição de MG"]
+    ["federal/leis-ordinarias/2018/lei-13709-2018-08-14", "LGPD"]
   ];
-  const UFS = { SP: "São Paulo", RJ: "Rio de Janeiro", MG: "Minas Gerais" };
-  // "SP" para ids estaduais (estaduais/SP/...) e externos estaduais (externo:lei-5-1950-sp)
-  const ufDoId = id => { const m = /^estaduais\/([A-Z]{2})\//.exec(id) || /^externo:.*-([a-z]{2})$/.exec(id); return m ? m[1].toUpperCase() : null; };
-  const ufDoShard = s => s.uf || null;
 
   const $ = s => document.querySelector(s);
   const params = new URLSearchParams(location.search);
@@ -240,29 +227,17 @@
   async function garantirInfo(ids) {
     const m = await manifesto();
     if (!m.shards || !m.shards.length) return false;
-    const faltam = [...ids].filter(id => !leis[id] && !id.startsWith("externo:"));
-    const pastas = new Set(faltam.map(pastaDe));
-    // Com "raiz" no manifesto, carrega só a parte de cada id; sem ela, pela pasta.
-    const doShard = s => s.raiz
-      ? faltam.some(id => id === s.raiz || id.startsWith(s.raiz + "/"))
-      : [...pastas].some(p => s.arquivo.includes(p));
-    const alvos = m.shards.filter(s => !shardsCarregados.has(s.arquivo) && doShard(s));
+    const pastas = new Set();
+    for (const id of ids) if (!leis[id] && !id.startsWith("externo:")) pastas.add(pastaDe(id));
+    const alvos = m.shards.filter(s => !shardsCarregados.has(s.arquivo) && [...pastas].some(p => s.arquivo.includes(p)));
     if (!alvos.length) return false;
     await Promise.all(alvos.map(carregarShardIndice));
     return true;
   }
-  // Busca do grafo: as federais e, sob demanda, as de cada estado (da lei em foco ou
-  // quando a busca tem "sp", "rj" ou "mg"), para não baixar tudo de uma vez.
-  const ufsBusca = new Set();
-  let buscaP = Promise.resolve();
-  function carregarIndiceInteiro(uf) {
-    const ufs = [null, ufDoId(estado.id || ""), uf].filter(x => x !== undefined && !ufsBusca.has(x));
-    if (!ufs.length) return buscaP;
-    ufs.forEach(x => ufsBusca.add(x));
-    buscaP = buscaP.then(manifesto).then(m => Promise.all((m.shards || [])
-      .filter(s => ufs.includes(ufDoShard(s)))
-      .map(carregarShardIndice))).then(montarBusca);
-    return buscaP;
+  let tudoP = null;
+  function carregarIndiceInteiro() {
+    if (!tudoP) tudoP = manifesto().then(m => Promise.all((m.shards || []).map(carregarShardIndice))).then(montarBusca);
+    return tudoP;
   }
 
   let linksP = null;
@@ -272,7 +247,7 @@
     const l = await linksP;
     if (!l.shards) return l[id] || null;
     const s = l.shards.find(x => x.pasta === pastaDe(id));
-    for (const x of (s ? [s] : l.shards.some(y => y.esfera) ? [] : l.shards)) {
+    for (const x of (s ? [s] : l.shards)) {
       const d = await arquivo(x.arquivo);
       if (d[id]) return d[id];
     }
@@ -290,35 +265,26 @@
 
   // ======================= Rótulos =======================
   const NOMES = { lei: "Lei", lcp: "Lei Complementar", del: "Decreto-Lei", dec: "Decreto", dlg: "Decreto Legislativo",
-    mpv: "Medida Provisória", emc: "Emenda Constitucional", ldl: "Lei Delegada", lct: "Lei Constitucional",
-    dlc: "Decreto-Lei Complementar" };
-  const CURTOS = { lei: "Lei", lcp: "LC", del: "DL", dec: "Dec.", dlg: "DLG", mpv: "MP", emc: "EC", ldl: "LD", lct: "LCt", dlc: "DLC" };
-  const PREFIXO_PASTA = { "leis-ordinarias": "lei", "leis-complementares": "lcp", "emendas-constitucionais": "emc",
-    "decretos-lei": "del", "decretos-lei-complementares": "dlc", "leis-delegadas": "ldl", "leis-constitucionais": "lct",
-    "decretos": "dec", "decretos-legislativos": "dlg", "decretos-nao-numerados": "dec" };
+    mpv: "Medida Provisória", emc: "Emenda Constitucional", ldl: "Lei Delegada" };
+  const CURTOS = { lei: "Lei", lcp: "LC", del: "DL", dec: "Dec.", dlg: "DLG", mpv: "MP", emc: "EC", ldl: "LD" };
   function partesDoId(id) {
-    const ext = /^externo:([a-z]+)-(\d+)(?:-(\d{4}))?(?:-([a-z]{2}))?$/.exec(id);
-    if (ext) return { p: ext[1], n: ext[2], ano: ext[3] || "", uf: ext[4] ? ext[4].toUpperCase() : null };
-    const est = /^estaduais\/([A-Z]{2})\/([a-z-]+)\/(\d{4})\/([a-z]+)-(\d+)-(\d{4})/.exec(id);
-    if (est) return { p: PREFIXO_PASTA[est[2]] || est[4], n: est[5], ano: est[6], uf: est[1] };
+    const ext = /^externo:([a-z]+)-(\d+)(?:-(\d{4}))?$/.exec(id);
+    if (ext) return { p: ext[1], n: ext[2], ano: ext[3] || "" };
     const m = /\/([a-z]+)-(\d+)(?:-[a-z0-9]+)*?-(\d{4})-\d{2}-\d{2}$/.exec(id);
     return m ? { p: m[1], n: m[2], ano: m[3] } : null;
   }
   const milhar = n => Number(n).toLocaleString("pt-BR");
-  const constEstadual = id => { const m = /^estaduais\/([A-Z]{2})\/constituicao\//.exec(id); return m && m[1]; };
   function rotuloDoId(id) {
     if (id === "constituicao") return "Constituição Federal de 1988";
-    if (constEstadual(id)) return "Constituição do Estado de " + (UFS[constEstadual(id)] || constEstadual(id));
     const x = partesDoId(id);
     if (!x) return id.split("/").pop();
-    return `${NOMES[x.p] || x.p} nº ${milhar(x.n)}${x.ano ? "/" + x.ano : ""}${x.uf ? " (" + x.uf + ")" : ""}`;
+    return `${NOMES[x.p] || x.p} nº ${milhar(x.n)}${x.ano ? "/" + x.ano : ""}`;
   }
   function rotuloCurto(id) {
     if (id === "constituicao") return "CF/1988";
-    if (constEstadual(id)) return "CE-" + constEstadual(id);
     const x = partesDoId(id);
     if (!x) return (info(id).titulo || id).slice(0, 28);
-    return `${CURTOS[x.p] || x.p}${x.uf ? " " + x.uf : ""} ${milhar(x.n)}${x.ano ? "/" + x.ano : ""}`;
+    return `${CURTOS[x.p] || x.p} ${milhar(x.n)}${x.ano ? "/" + x.ano : ""}`;
   }
   const dataDoId = id => (/(\d{4}-\d{2}-\d{2})$/.exec(id) || [])[1] || ((partesDoId(id) || {}).ano || "");
   function info(id) { return leis[id] || { titulo: rotuloDoId(id), ausente: true }; }
@@ -333,7 +299,6 @@
   const estado = {
     id: params.get("id"),
     tipos: new Set(TIPOS),
-    esfera: ["federal", "estadual"].includes(params.get("esfera")) ? params.get("esfera") : "",
     direcao: ["ambas", "saida", "entrada"].includes(params.get("direcao")) ? params.get("direcao") : "ambas",
     expandido: {}   // "saida:cita" -> quantos visíveis
   };
@@ -482,7 +447,6 @@
   // Ego-grafo radial: à direita o que a lei afeta, à esquerda o que a afeta.
   // Cada grupo (direção × tipo) ocupa um setor; só os POR_GRUPO mais recentes aparecem
   // e o resto vira um nó "+X" que expande o grupo. Posições calculadas uma vez, sem simulação.
-  const naEsfera = x => !estado.esfera || (estado.esfera === "estadual") === !!ufDoId(x);
   function montarCena(v, origem) {
     const anteriores = new Map(nos.map(n => [n.id, n]));
     const id = estado.id;
@@ -491,7 +455,7 @@
       if (estado.direcao !== "ambas" && estado.direcao !== dir) continue;
       for (const tipo of TIPOS) {
         if (!estado.tipos.has(tipo)) continue;
-        const todos = (v[dir][tipo] || []).filter(naEsfera);
+        const todos = v[dir][tipo] || [];
         if (!todos.length) continue;
         const ord = [...todos].sort((a, b) => (a.startsWith("externo:") - b.startsWith("externo:")) || dataDoId(b).localeCompare(dataDoId(a)));
         const chave = dir + ":" + tipo;
@@ -702,7 +666,7 @@
     if (!vAtual) { $("#contagem").textContent = ""; return; }
     const ids = new Set();
     for (const d of ["saida", "entrada"]) if (estado.direcao === "ambas" || estado.direcao === d)
-      for (const t of estado.tipos) vAtual[d][t].filter(naEsfera).forEach(x => ids.add(d + x));
+      for (const t of estado.tipos) vAtual[d][t].forEach(x => ids.add(d + x));
     const vis = nos.filter(n => !n.centro && !n.grupo).length;
     $("#contagem").textContent = ids.size ? `${milhar(ids.size)} ligações · mostrando ${milhar(vis)}` : "";
   }
@@ -772,24 +736,13 @@
     if (vAtual) { montarCena(vAtual); atualizarContagem(); }
   }));
   sincronizarDirecao();
-  const selEsfera = $("#esfera");
-  selEsfera.value = estado.esfera;
-  selEsfera.addEventListener("change", () => {
-    estado.esfera = selEsfera.value; estado.expandido = {};
-    const p = new URLSearchParams(location.search);
-    if (estado.esfera) p.set("esfera", estado.esfera); else p.delete("esfera");
-    history.replaceState(history.state, "", "?" + p.toString());
-    if (vAtual) { montarCena(vAtual); atualizarContagem(); }
-  });
 
   // ======================= Busca =======================
   let indiceBusca = [];
   function montarBusca() {
-    indiceBusca = Object.values(leis).map(i => ({ id: i.id, titulo: (i.titulo || i.id) + (ufDoId(i.id) ? " (" + ufDoId(i.id) + ")" : ""),
-      ementa: i.ementa || "", data: i.data || "",
+    indiceBusca = Object.values(leis).map(i => ({ id: i.id, titulo: i.titulo || i.id, ementa: i.ementa || "", data: i.data || "",
       numero: String(i.numero || ""),
-      texto: normal([i.titulo, i.ementa, i.tipo, i.numero, String(i.numero || "").replace(/\B(?=(\d{3})+(?!\d))/g, "."), i.id,
-        ufDoId(i.id) ? "estadual " + UFS[ufDoId(i.id)] : "federal"].join(" ")) }));
+      texto: normal([i.titulo, i.ementa, i.tipo, i.numero, String(i.numero || "").replace(/\B(?=(\d{3})+(?!\d))/g, "."), i.id].join(" ")) }));
     if (inp.value) mostrarSugestoes();
   }
   const inp = $("#busca"), sug = $("#sugestoes");
@@ -799,20 +752,11 @@
     if (!termos.length) return [];
     const num = termos.find(t => /^\d[\d.]*$/.test(t)), n = num && num.replace(/\./g, "");
     const r = [];
-    const semUf = termos.filter(t => !UFS[t.toUpperCase()]);
-    const ufT = termos.map(t => t.toUpperCase()).find(t => UFS[t]);
-    for (const x of indiceBusca) if ((!ufT || ufDoId(x.id) === ufT) && semUf.every(t => x.texto.includes(t))) r.push(x);
+    for (const x of indiceBusca) if (termos.every(t => x.texto.includes(t))) r.push(x);
     return r.sort((a, b) => (n ? (b.numero === n) - (a.numero === n) : 0) || b.data.localeCompare(a.data)).slice(0, 10);
   }
   function mostrarSugestoes() {
     resultados = [];
-    const ufPedida = normal(inp.value).split(/\s+/).map(t => t.toUpperCase()).find(t => UFS[t]);
-    if (ufPedida && !ufsBusca.has(ufPedida)) {
-      carregarIndiceInteiro(ufPedida);
-      sug.innerHTML = `<li class="carregando" aria-disabled="true">Carregando as leis de ${html(UFS[ufPedida])}…</li>`;
-      sug.hidden = false; inp.setAttribute("aria-expanded", "true");
-      return;
-    }
     if (!inp.value.trim()) { sug.hidden = true; inp.setAttribute("aria-expanded", "false"); return; }
     if (!indiceBusca.length) {
       sug.innerHTML = `<li class="carregando" aria-disabled="true">Carregando o índice…</li>`;

@@ -11,7 +11,7 @@ LEIS = [{"id": "x/cpc", "slug": "cpc"}, {"id": "constituicao", "slug": "cf"}, {"
 def acordao(i, data, *refs, **extra):
     return {"id": str(i), "siglaClasse": "REsp", "numeroProcesso": "2260689", "numeroRegistro": "202504405393",
             "nomeOrgaoJulgador": "TERCEIRA TURMA", "ministroRelator": "NANCY ANDRIGHI", "dataDecisao": data,
-            "ementa": "DIREITO PROCESSUAL CIVIL.\n RECURSO ESPECIAL. " + "texto " * 100,
+            "ementa": f"DIREITO PROCESSUAL CIVIL.\n RECURSO ESPECIAL. CASO {i} " + "texto " * 100,
             "referenciasLegislativas": list(refs), **extra}
 
 
@@ -70,9 +70,10 @@ class Agregacao(unittest.TestCase):
         self.assertEqual(cpc["sem_artigo"], 1)
         self.assertEqual(cpc["periodo"], ["2023-01-01", "2026-01-01"])
         b10 = ag["cpc"]["blocos"][10]
-        self.assertEqual(b10["artigos"]["art-1022"], ["2", "1"])  # mais recentes primeiro, limite 2
-        self.assertEqual(set(b10["decisoes"]), {"1", "2"})
-        self.assertEqual(ag["cpc"]["blocos"][-1]["artigos"]["sem-artigo"], ["3"])
+        ids = [x["i"] for x in b10["artigos"]["art-1022"]]
+        self.assertEqual(ids, ["2", "1"])  # o 2 cita só esse artigo (mais focado) e é mais recente
+        self.assertEqual(set(b10["decisoes"]), set(ids))
+        self.assertEqual([x["i"] for x in ag["cpc"]["blocos"][-1]["artigos"]["sem-artigo"]], ["3"])
         self.assertEqual(ag["cf"]["resumo"]["artigos"], {"art-5": 1})
         self.assertEqual(ag["cp"]["resumo"]["total"], 0)
 

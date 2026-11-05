@@ -90,7 +90,6 @@ def normas_alteradas(ementa: str, data: str) -> list[tuple[str, str, int | None,
     ano = int(data[:4]) if data[:4].isdigit() else None
     saida, vistos = [], set()
     for prefixo, numero, ano_ref, ini, _fim in extrator.referencias_em(texto, ano, data or "9999"):
-        prefixo = prefixo.split(":")[0]  # "del:federal" (código citado pelo nome) -> "del"
         antes = texto[:ini]
         verbos = list(_VERBO.finditer(antes))
         if not verbos:

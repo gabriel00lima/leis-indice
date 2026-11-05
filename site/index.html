@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Leis do Brasil · busca e leitura das leis federais e estaduais</title>
-<meta name="description" content="Busque e leia as leis federais do Brasil e as estaduais de SP, RJ e MG, com links entre normas, histórico de alterações e grafo de relações. Atualizado todos os dias a partir do acervo ctresb/leis.">
+<title>Leis do Brasil · busca e leitura das leis federais</title>
+<meta name="description" content="Busque e leia as leis federais do Brasil, com links entre normas, histórico de alterações e grafo de relações. Atualizado todos os dias a partir do acervo ctresb/leis.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
@@ -23,7 +23,6 @@
     <nav class="menu" id="menu-principal">
       <a href="#principais">Leis principais</a>
       <a href="explicada.html">Lei explicada</a>
-      <a href="#estaduais">Estados</a>
       <a href="sobre.html">O acervo</a>
       <a href="grafo/">Grafo</a>
       <a href="#como-funciona">Como funciona</a>
@@ -37,7 +36,7 @@
   <div class="heroi-dentro">
     <p class="sobretitulo"><span class="pulso" aria-hidden="true"></span> <span class="so-largo">Acervo aberto, atualizado todos os dias</span><span class="so-celular">Atualizado todo dia</span></p>
     <h1>As leis federais do Brasil, <em>fáceis de achar e de ler.</em></h1>
-    <p class="lead">Leis federais e as de SP, RJ e MG. Busque por número, apelido ou assunto.<span class="so-largo"> Cada lei abre com sumário, artigos com link próprio, citações que viram links e a linha do tempo das alterações.</span></p>
+    <p class="lead">Busque por número, apelido ou assunto.<span class="so-largo"> Cada lei abre com sumário, artigos com link próprio, citações que viram links e a linha do tempo das alterações.</span></p>
 
     <form id="form" class="caixa-busca" role="search">
       <svg class="icone-busca" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
@@ -70,7 +69,6 @@
       <p id="status" class="status" aria-live="polite"></p>
     </div>
     <div class="filtros">
-      <label>Âmbito <select id="ambito" name="ambito"><option value="">Federais</option></select></label>
       <label>Tipo <select id="tipo" name="tipo"><option value="">Todos</option></select></label>
       <label>Situação
         <select id="sit" name="sit">
@@ -128,15 +126,6 @@
     </header>
     <div class="grade-cartoes recolhida" id="lista-principais"></div>
     <p class="ver-todas"><button type="button" class="botao" id="ver-principais" aria-expanded="false" aria-controls="lista-principais" hidden>Ver todas as leis principais</button></p>
-  </section>
-
-  <section class="faixa" id="estaduais">
-    <header class="cabeca-secao">
-      <p class="sobretitulo-secao">Estados</p>
-      <h2>Leis estaduais</h2>
-      <p>Constituição, leis e decretos-leis de São Paulo, Rio de Janeiro e Minas Gerais, com as ligações entre elas e com as leis federais.</p>
-    </header>
-    <div class="grade-estados" id="lista-estaduais"></div>
   </section>
 
   <section class="faixa faixa-clara" id="explicadas">

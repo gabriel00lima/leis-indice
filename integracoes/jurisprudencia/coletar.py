@@ -31,6 +31,10 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 AQUI = Path(__file__).resolve().parent
+sys.path.insert(0, str(AQUI))
+import precisao  # noqa: E402
+
+VERSAO_DADOS = 2  # muda quando o formato dos extratos muda (invalida o cache)
 UA = "leis-indice/1.0 (+https://github.com/gabriel00lima/leis-indice)"
 TAMANHO_BLOCO = 100  # artigos por arquivo de detalhe (art. 1-99 no bloco 0, 100-199 no 1...)
 
@@ -124,6 +128,13 @@ def numero_br(n: str | None) -> str:
     return f"{int(s):,}".replace(",", ".") if s else ""
 
 
+def cabecalho_ementa(ementa: str | None) -> str:
+    """Só a indexação (as palavras-chave em maiúsculas antes de "I. CASO EM EXAME" ou do item 1)."""
+    t = re.sub(r"\s+", " ", ementa or "").strip()
+    m = re.search(r"\s(?:I\.\s+CASO EM EXAME|1\.\s)", t)
+    return t[: m.start()] if m and m.start() > 15 else t
+
+
 def resumo_decisao(x: dict, tamanho_ementa: int) -> dict:
     reg = re.sub(r"\D", "", x.get("numeroRegistro") or "")
     d = {
@@ -131,7 +142,8 @@ def resumo_decisao(x: dict, tamanho_ementa: int) -> dict:
         "o": titulo(x.get("nomeOrgaoJulgador")),
         "r": titulo(x.get("ministroRelator")),
         "j": data_iso(x.get("dataDecisao")),
-        "e": resumir(x.get("ementa"), tamanho_ementa),
+        "e": resumir(cabecalho_ementa(x.get("ementa")), tamanho_ementa),
+        "s": precisao.tese(x, re.sub(r"\s+", " ", x.get("ementa") or "")),
     }
     if x.get("tema"):
         d["t"] = "Tema repetitivo " + str(x["tema"]).strip()
@@ -142,21 +154,66 @@ def resumo_decisao(x: dict, tamanho_ementa: int) -> dict:
     return {k: v for k, v in d.items() if v}
 
 
+def ligar_artigos(x: dict, chaves: dict[str, str]) -> dict[str, dict[str, dict]]:
+    """{slug: {art: {"d": [dispositivos], "w": "ementa"|"lista", "x": trecho, "h": [ini, fim]}}}.
+
+    Os artigos vêm das referências legislativas do STJ (fonte da verdade). A ementa só diz COMO o
+    artigo aparece: discutido no texto ("w": "ementa", com o trecho), só na lista final de
+    "Dispositivos relevantes citados" ("w": "lista") ou em nenhum dos dois (sem "w": citação de passagem).
+    """
+    refs: dict[str, dict[str, dict]] = {}
+    todos: dict[str, int] = {}  # artigo -> em quantas normas (acompanhadas ou não) ele aparece
+    for ref in x.get("referenciasLegislativas") or []:
+        disp = precisao.dispositivos(ref)
+        for a in disp:
+            todos[a] = todos.get(a, 0) + 1
+        slug = norma_da_referencia(ref, chaves)
+        if not slug:
+            continue
+        alvo = refs.setdefault(slug, {})
+        for a, ds in disp.items():
+            item = alvo.setdefault(a, {})
+            if ds:
+                item["d"] = list(dict.fromkeys(item.get("d", []) + ds))
+    if not refs:
+        return refs
+    ementa = re.sub(r"\s+", " ", x.get("ementa") or "").strip()
+    lista = precisao.DISPOSITIVOS_CITADOS.search(ementa)
+    inicio_lista = lista.start() if lista else len(ementa)
+    fim_cabecalho = len(cabecalho_ementa(ementa))  # a indexação em maiúsculas: trecho pobre ("ART. 206 DO CC.")
+    for lei, art, ini, fim in precisao.citacoes(ementa):
+        for slug, arts in refs.items():
+            if art not in arts:
+                continue
+            if lei != slug and not (lei is None and todos.get(art) == 1):
+                continue
+            item = arts[art]
+            if ini < inicio_lista:
+                # Prefere o trecho do corpo da ementa ao da indexação, se o artigo aparecer nos dois.
+                if item.get("w") != "ementa" or (item.get("_cab") and ini >= fim_cabecalho):
+                    item["w"] = "ementa"
+                    item["x"], item["h"] = precisao.trecho(ementa, ini, fim, 280)
+                    item["_cab"] = ini < fim_cabecalho
+            elif not item.get("w"):
+                item["w"] = "lista"
+    for arts in refs.values():
+        for item in arts.values():
+            item.pop("_cab", None)
+    return refs
+
+
 def extrair(registros: list[dict], chaves: dict[str, str], tamanho_ementa: int) -> list[dict]:
-    """Só os acórdãos que citam alguma norma acompanhada, já resumidos."""
+    """Só os acórdãos que citam alguma norma acompanhada, já resumidos e com a ligação a cada artigo."""
     saida = []
     for x in registros:
-        refs: dict[str, list[str]] = {}
-        for ref in x.get("referenciasLegislativas") or []:
-            slug = norma_da_referencia(ref, chaves)
-            if not slug:
-                continue
-            arts = refs.setdefault(slug, [])
-            for a in artigos_da_referencia(ref):
-                if a not in arts:
-                    arts.append(a)
+        refs = ligar_artigos(x, chaves)
         if refs:
-            saida.append({"id": str(x.get("id")), "d": resumo_decisao(x, tamanho_ementa), "refs": refs})
+            ementa = re.sub(r"\W+", "", (x.get("ementa") or "").lower())
+            saida.append({
+                "id": str(x.get("id")), "d": resumo_decisao(x, tamanho_ementa), "refs": refs,
+                "n": precisao.contar_artigos(x.get("referenciasLegislativas") or []),
+                "g": hashlib.sha1(ementa.encode()).hexdigest()[:10],
+            })
     return saida
 
 
@@ -165,44 +222,91 @@ def bloco_do_artigo(art: str) -> int:
     return int(m.group(1)) // TAMANHO_BLOCO if m else 0
 
 
-def agregar(extratos: list[dict], leis: list[dict], por_artigo: int) -> dict[str, dict]:
-    """extratos -> {slug: {"resumo": {...}, "blocos": {n: {...}}}}."""
+def nota(e: dict, info: dict) -> float:
+    d = e["d"]
+    return precisao.pontuar(info.get("w"), d.get("p", ""), d.get("o", ""), bool(d.get("t")), bool(d.get("s")),
+                            e.get("n", 1))
+
+
+def agregar(extratos: list[dict], leis: list[dict], por_artigo: int, por_dispositivo: int = 3,
+            dispositivos_listados: int = 6) -> dict[str, dict]:
+    """extratos -> {slug: {"resumo": {...}, "blocos": {n: {...}}}}.
+
+    Por artigo ficam: a contagem total, quantos discutem o artigo na ementa, a contagem por dispositivo
+    e as decisões mais relevantes (as `por_artigo` melhores + as `por_dispositivo` melhores de cada um
+    dos dispositivos mais citados), sem repetir acórdãos de ementa idêntica (julgamentos em lote).
+    """
     vistos: dict[str, dict] = {}
     for e in extratos:  # o mesmo acórdão pode vir em dois arquivos; fica a última versão
         vistos[e["id"]] = e
-    ordem = sorted(vistos.values(), key=lambda e: (e["d"].get("j", ""), e["id"]), reverse=True)
 
     saida = {}
     for lei in leis:
         slug = lei["slug"]
-        contagem: dict[str, int] = {}
-        recentes: dict[str, list[str]] = {}
+        pares: dict[str, list[tuple]] = {}
         total = 0
         datas = []
-        for e in ordem:
+        for e in vistos.values():
             arts = e["refs"].get(slug)
             if arts is None:
                 continue
             total += 1
             if e["d"].get("j"):
                 datas.append(e["d"]["j"])
-            for a in arts or ["sem-artigo"]:
-                contagem[a] = contagem.get(a, 0) + 1
-                lista = recentes.setdefault(a, [])
-                if len(lista) < por_artigo:
-                    lista.append(e["id"])
+            if not arts:
+                pares.setdefault("sem-artigo", []).append((0.0, e["d"].get("j", ""), e["id"], {}))
+            for a, info in arts.items():
+                pares.setdefault(a, []).append((nota(e, info), e["d"].get("j", ""), e["id"], info))
+
+        contagem, na_ementa, por_disp = {}, {}, {}
         blocos: dict[int, dict] = {}
-        for a, ids in recentes.items():
+        for a, lista in pares.items():
+            lista.sort(key=lambda t: (t[0], t[1], t[2]), reverse=True)
+            contagem[a] = len(lista)
+            n_em = sum(1 for t in lista if t[3].get("w") == "ementa")
+            if n_em:
+                na_ementa[a] = n_em
+            cont_d: dict[str, int] = {}
+            for t in lista:
+                for rot in t[3].get("d", []):
+                    cont_d[rot] = cont_d.get(rot, 0) + 1
+            principais = sorted(cont_d.items(), key=lambda kv: -kv[1])[:dispositivos_listados]
+            if principais:
+                por_disp[a] = dict(sorted(cont_d.items(), key=lambda kv: -kv[1])[:8])
+
+            # Agrupa ementas idênticas: fica a primeira (melhor nota), as outras viram "+N iguais".
+            grupos: dict[str, list] = {}
+            unicos = []
+            for t in lista:
+                g = vistos[t[2]].get("g") or t[2]
+                if g in grupos:
+                    grupos[g][1] += 1
+                else:
+                    grupos[g] = [t, 0]
+                    unicos.append(grupos[g])
+            escolhidos = unicos[:por_artigo]
+            for rot, _ in principais:
+                escolhidos += [u for u in unicos if rot in u[0][3].get("d", [])][:por_dispositivo]
+            ordem = {id(u): i for i, u in enumerate(unicos)}
+            escolhidos = sorted({id(u): u for u in escolhidos}.values(), key=lambda u: ordem[id(u)])
+
+            itens = []
             b = blocos.setdefault(-1 if a == "sem-artigo" else bloco_do_artigo(a), {"artigos": {}, "decisoes": {}})
-            b["artigos"][a] = ids
-            for i in ids:
+            for (nota_, _, i, info), iguais in escolhidos:
+                item = {"i": i, **{k: v for k, v in info.items() if k in ("d", "w", "x", "h")}}
+                if iguais:
+                    item["ig"] = iguais
+                itens.append(item)
                 b["decisoes"][i] = vistos[i]["d"]
+            b["artigos"][a] = itens
+
         artigos = {a: n for a, n in contagem.items() if a != "sem-artigo"}
         saida[slug] = {
             "resumo": {
-                "lei": lei["id"], "nome": lei.get("nome", ""), "total": total,
+                "lei": lei["id"], "nome": lei.get("nome", ""), "total": total, "v": VERSAO_DADOS,
                 "periodo": [min(datas), max(datas)] if datas else None,
-                "artigos": artigos, "sem_artigo": contagem.get("sem-artigo", 0),
+                "artigos": artigos, "na_ementa": na_ementa, "dispositivos": por_disp,
+                "sem_artigo": contagem.get("sem-artigo", 0),
                 "bloco": TAMANHO_BLOCO, "por_artigo": por_artigo,
             },
             "blocos": blocos,
@@ -230,7 +334,7 @@ def coletar_stj(cfg: dict, saida: Path, cache: Path, amostra: bool = False) -> N
     leis = [l for l in cfg["leis"] if l.get("stj")]
     chaves = {l["stj"]: l["slug"] for l in leis}
     tam = cfg["stj"].get("tamanho_ementa", 260)
-    assinatura = hashlib.sha1(json.dumps([sorted(chaves.items()), tam]).encode()).hexdigest()[:12]
+    assinatura = hashlib.sha1(json.dumps([sorted(chaves.items()), tam, VERSAO_DADOS]).encode()).hexdigest()[:12]
 
     recursos = recursos_stj(cfg)
     print(f"STJ: {len(recursos)} arquivos mensais em {len({r['pacote'] for r in recursos})} órgãos julgadores")
@@ -265,7 +369,7 @@ def coletar_stj(cfg: dict, saida: Path, cache: Path, amostra: bool = False) -> N
         extratos.extend(dados["itens"])
     print(f"STJ: {baixados} arquivos baixados, {len(recursos) - baixados} do cache; {len(extratos)} citações")
 
-    agregado = agregar(extratos, leis, cfg["stj"].get("decisoes_por_artigo", 5))
+    agregado = agregar(extratos, leis, cfg["stj"].get("decisoes_por_artigo", 8))
     destino = saida / "stj"
     for slug, a in agregado.items():
         gravar_json(destino / f"{slug}.json", a["resumo"])

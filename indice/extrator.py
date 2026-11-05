@@ -9,7 +9,6 @@ referências antigas a ela passam a ser resolvidas sem reprocessar o texto.
 
 from __future__ import annotations
 
-import html
 import re
 import unicodedata
 
@@ -27,7 +26,7 @@ _TIPOS = [
     (r"decreto\s+legislativo", "dlg"),
     (r"decreto", "dec"),
     (r"emenda\s+constitucional\s+de\s+revis[ãa]o", "emr"),
-    (r"emenda\s+constitucional|emenda\s+[àa]\s+constitui[çc][ãa]o|emc\b", "emc"),
+    (r"emenda\s+constitucional|emc\b", "emc"),
     (r"medida\s+provis[óo]ria|mpv?\b", "mpv"),
     (r"lei", "lei"),
 ]
@@ -49,14 +48,8 @@ _ANO = (
     r"|\d{1,2}\s*[./-]\s*\d{1,2}\s*[./-]\s*)?(?P<ano2>\d{4}|\d{2})(?!\d))?"
 )
 
-# "Lei federal nº", "Lei Complementar Estadual nº", "Lei paulista nº"...: indica a esfera
-# da norma citada (importa nas leis estaduais, que citam leis dos dois tipos).
-_ESFERA = (
-    r"(?:\s+(?:(?P<fed>federal|nacional)|(?P<est>estadual|paulista|mineira|fluminense)))?"
-)
-
 REF_RE = re.compile(
-    r"(?<![\w-])(?:" + _TIPO_GRUPOS + r")" + _ESFERA +
+    r"(?<![\w-])(?:" + _TIPO_GRUPOS + r")"
     r"\s*(?:n(?:\.\s*|\s*)?[º°o]\.?|n\.|nº\.?|n°)?\s*"
     + _NUM + _ANO,
     re.IGNORECASE,
@@ -67,21 +60,6 @@ CONSTITUICAO_RE = re.compile(
     r"|\bCF(?:/88|/1988)?\b",
 )
 DATA_CONSTITUICAO = "1988-10-05"
-
-# Constituição do próprio estado, citada por normas estaduais (SP e RJ: 05/10/1989,
-# MG: 21/09/1989). Resolvida para a constituição da UF da norma que cita.
-CONSTITUICAO_ESTADUAL_RE = re.compile(
-    r"\bConstitui[çc][ãa]o\s+(?:do\s+Estado|Estadual|Paulista|Mineira|Fluminense)\b"
-    r"|\bConstitui[çc][ãa]o\s+Pol[íi]tica\s+do\s+Estado\b",
-    re.IGNORECASE,
-)
-DATA_CONSTITUICAO_ESTADUAL = "1989-09-21"
-
-PROJETO_ANTES = re.compile(r"projetos?\s+de\s*$|\bP\.?\s*$", re.IGNORECASE)
-
-# Sufixos do prefixo que indicam a esfera explícita da norma citada.
-FEDERAL = ":federal"
-ESTADUAL = ":estadual"
 
 # Códigos citados pelo nome. (expressão, data mínima da norma que cita,
 # data máxima, prefixo, número, ano). Só vale como "cita".
@@ -104,17 +82,12 @@ CODIGOS = [(re.compile(p), *resto) for p, *resto in CODIGOS]
 # Anotações entre parênteses deixadas pelos compiladores (Planalto/Câmara).
 PAREN_RE = re.compile(r"\(([^()]{3,500})\)")
 ALTERA_KW = re.compile(
-    r"reda[çc][ãa]o\s+dada|acrescid|acrescentad|inclu[íi]d|renumerad|alterad|"
+    r"reda[çc][ãa]o\s+dada|acrescid|inclu[íi]d|renumerad|alterad|"
     r"com\s+nova\s+reda[çc][ãa]o|transformad",
     re.IGNORECASE,
 )
 REVOGA_KW = re.compile(r"revogad", re.IGNORECASE)
 VETO_KW = re.compile(r"vetad", re.IGNORECASE)
-
-# Notas de alteração em linha própria, sem parênteses, como nos acervos estaduais:
-#   SP: "*- Inciso I com redação dada pela Lei nº 9.000, de 1995.*"
-#   RJ: "\\* Nova redação dada pela Emenda Constitucional nº 51/2011"
-NOTA_LINHA = re.compile(r"^(?:\*\s*-|\\\*|_\s*-)\s*")
 
 # Parágrafos de dispositivos que revogam ou alteram outras normas.
 REVOGA_PARAGRAFO = re.compile(
@@ -187,16 +160,12 @@ def metadados(caminho: str, texto: str) -> tuple[dict, str]:
     elif not meta.get("titulo"):
         m = re.search(r"^#\s+(.+)$", corpo, re.MULTILINE)
         meta.setdefault("titulo", m.group(1).strip() if m else caminho)
-    def texto(v) -> str:
-        # Algumas ementas estaduais (SP) vêm com HTML: <a href='/norma/28593'>Lei nº…</a>.
-        return html.unescape(re.sub(r"<[^>]{1,300}>", "", str(v))).strip()
-
     return {
-        "titulo": texto(meta.get("titulo", "")),
+        "titulo": str(meta.get("titulo", "")).strip(),
         "tipo": str(meta.get("tipo", "")).strip(),
         "numero": str(meta.get("numero", "")).strip(),
         "data": str(meta.get("data", "")).strip(),
-        "ementa": texto(meta.get("ementa", "")),
+        "ementa": str(meta.get("ementa", "")).strip(),
         "revogada": bool(meta.get("revogada", False)),
         "urn": str(meta.get("urn", "")).strip(),
     }, corpo
@@ -248,43 +217,29 @@ def _fmt_artigo(num: str, letra: str | None) -> str:
     return f"art. {num}{sufixo}" + (f"-{letra.upper()}" if letra else "")
 
 
-def referencias_em(texto: str, ano_citante: int | None, data_citante: str, estadual: bool = False):
-    """Todas as referências a normas num trecho: [(prefixo, numero, ano, inicio, fim)].
-
-    O prefixo pode vir com sufixo de esfera (":federal", ":estadual") quando o texto diz
-    "Lei federal nº…" ou "Lei estadual nº…". Os códigos citados pelo nome saem sempre como
-    federais. Com estadual=True (norma de um estado), "Constituição do Estado" vira o
-    prefixo "constituicao-estadual".
-    """
+def referencias_em(texto: str, ano_citante: int | None, data_citante: str):
+    """Todas as referências a normas num trecho: [(prefixo, numero, ano, inicio, fim)]."""
     refs = []
     for m in REF_RE.finditer(texto):
-        # "Projeto de Lei nº 908, de 2017" (comum nas leis paulistas) não é uma norma.
-        if PROJETO_ANTES.search(texto, max(0, m.start() - 30), m.start()):
-            continue
         prefixo = _prefixo(m)
-        sufixo = FEDERAL if m.group("fed") else ESTADUAL if m.group("est") else ""
         # "Lei 1" solto sem "nº" e sem ano é ruído frequente; exige pelo menos um dos dois
         # para números curtos.
-        fim_tipo = max(m.end("t" + str(_INDICE[prefixo])), m.end("fed"), m.end("est"))
-        entre_tipo_e_numero = texto[fim_tipo:m.start("num")]
+        entre_tipo_e_numero = texto[m.end("t" + str(_INDICE[prefixo])):m.start("num")]
         tem_n = bool(re.search(r"n", entre_tipo_e_numero, re.IGNORECASE))
         ano = _ano(m, ano_citante)
         if not tem_n and ano is None and len(m.group("num")) < 3:
             continue
-        refs.append((prefixo + sufixo, _numero(m), ano, m.start(), m.end()))
+        refs.append((prefixo, _numero(m), ano, m.start(), m.end()))
     if data_citante >= DATA_CONSTITUICAO:
         for m in CONSTITUICAO_RE.finditer(texto):
             refs.append(("constituicao", "", 1988, m.start(), m.end()))
-    if estadual and data_citante >= DATA_CONSTITUICAO_ESTADUAL:
-        for m in CONSTITUICAO_ESTADUAL_RE.finditer(texto):
-            refs.append(("constituicao-estadual", "", 1989, m.start(), m.end()))
     for rx, dmin, dmax, prefixo, num, ano in CODIGOS:
         if (dmin and data_citante and data_citante < dmin) or (
             dmax and data_citante and data_citante > dmax
         ):
             continue
         for m in rx.finditer(texto):
-            refs.append((prefixo + FEDERAL, num, ano, m.start(), m.end()))
+            refs.append((prefixo, num, ano, m.start(), m.end()))
     refs.sort(key=lambda r: r[3])
     # remove sobreposições (ex.: "Código Penal" dentro de outra referência)
     saida, fim = [], -1
@@ -330,14 +285,13 @@ def _paragrafos(corpo: str):
         yield artigo, p
 
 
-def extrair_referencias(corpo: str, data_citante: str, estadual: bool = False) -> list[list]:
+def extrair_referencias(corpo: str, data_citante: str) -> list[list]:
     """Referências de uma norma, agregadas.
 
     Cada item: [direcao, prefixo, numero, ano, tipo, dispositivos]
       direcao "sai":    esta norma -> norma referida   (cita/altera/revoga)
       direcao "entra":  norma referida -> esta norma   (anotação "Redação dada pela Lei X")
       dispositivos: artigos da norma DE DESTINO do link (quando conhecidos).
-      prefixo pode ter sufixo de esfera (ver referencias_em).
     """
     try:
         ano_citante = int(data_citante[:4])
@@ -356,26 +310,19 @@ def extrair_referencias(corpo: str, data_citante: str, estadual: bool = False) -
         if par.startswith("# "):
             continue  # título do próprio arquivo
         ocupado: list[tuple[int, int]] = []
-        # 0) nota em linha própria: o parágrafo inteiro é tratado como uma anotação
-        nota = NOTA_LINHA.match(par)
-        anotacoes = (
-            [(0, len(par), par[nota.end():].strip("*_ "))] if nota and len(par) < 600
-            else [(pm.start(), pm.end(), pm.group(1)) for pm in PAREN_RE.finditer(par)]
-        )
         # 1) anotações entre parênteses
-        for ini, fim, conteudo in anotacoes:
-            refs = referencias_em(conteudo, ano_citante, data_citante, estadual)
+        for pm in PAREN_RE.finditer(par):
+            conteudo = pm.group(1)
+            refs = referencias_em(conteudo, ano_citante, data_citante)
             if not refs:
                 continue
-            ocupado.append((ini, fim))
+            ocupado.append((pm.start(), pm.end()))
             if VETO_KW.search(conteudo) and not ALTERA_KW.search(conteudo):
                 continue
-            # "Norma revogada pela Lei X" vale para a norma inteira, não para o artigo.
-            onde = None if re.match(r"(?i)norma\b", conteudo) else artigo
             if REVOGA_KW.search(conteudo[: refs[0][3]]):
-                add("entra", refs[0], "revoga", onde)
+                add("entra", refs[0], "revoga", artigo)
             elif ALTERA_KW.search(conteudo[: refs[0][3]]):
-                add("entra", refs[0], "altera", onde)
+                add("entra", refs[0], "altera", artigo)
             else:
                 for r in refs:
                     add("sai", r, "cita", _artigo_citado(conteudo, r[3]))
@@ -385,7 +332,7 @@ def extrair_referencias(corpo: str, data_citante: str, estadual: bool = False) -
                 add("sai", r, "cita", None)
         # 2) texto corrido
         refs = [
-            r for r in referencias_em(par, ano_citante, data_citante, estadual)
+            r for r in referencias_em(par, ano_citante, data_citante)
             if not any(a <= r[3] < b for a, b in ocupado)
         ]
         if not refs:

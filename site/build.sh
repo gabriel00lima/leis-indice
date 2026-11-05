@@ -15,8 +15,6 @@ rm -f "$saida/build.sh" "$saida/README.md" "$saida/destaques.py" "$saida/paginas
 if [ -d "$raiz/data" ]; then
   mkdir -p "$saida/data"
   cp -R "$raiz/data/." "$saida/data/"
-  # cache/ é só do gerador do índice (SHA e referências brutas): não vai para o site.
-  rm -rf "$saida/data/cache"
 fi
 
 # Estatísticas e listas da página inicial, recalculadas a partir de data/.
