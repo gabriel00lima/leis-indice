@@ -129,9 +129,18 @@ def numero_br(n: str | None) -> str:
 
 
 def rotulo_tema(tema: str) -> str:
-    """'Tema Repetitivo 1099 Situação do tema: Acórdão Publicado' -> 'Tema repetitivo 1099'."""
-    m = re.search(r"\d[\d.]*", tema or "")
-    return "Tema repetitivo " + m.group(0).rstrip(".") if m else ("Tema repetitivo " + tema.strip() if tema else "")
+    """Rótulo curto do campo "tema" do STJ, que vem em vários formatos:
+    'Tema Repetitivo 1099\nSituação do tema: ...', '1. Tema Repetitivo 1280 ...', '938'."""
+    t = re.sub(r"\s+", " ", tema or "").strip()
+    t = re.sub(r"(?i)\b\d+\.\s+(?=tema\b)", "", t)  # "1. Tema Repetitivo 1280": o "1." é numeração
+    nums = re.findall(r"(?i)\btema(?:\s+repetitivo)?\s+(\d[\d.]*\d|\d)", t)
+    if not nums and re.fullmatch(r"\d[\d.]*", t):
+        nums = [t]
+    nums = list(dict.fromkeys(n.rstrip(".") for n in nums))
+    if nums:
+        return ("Temas repetitivos " if len(nums) > 1 else "Tema repetitivo ") + ", ".join(nums)
+    t = re.sub(r"(?i)^tema repetitivo\s*", "", t).strip(" -")
+    return ("Precedente qualificado" if re.search(r"(?i)precedente qualificado", t) else ("Tema repetitivo " + t)[:60]) if t else ""
 
 
 def cabecalho_ementa(ementa: str | None) -> str:
@@ -285,8 +294,8 @@ def agregar(extratos: list[dict], leis: list[dict], por_artigo: int, por_disposi
             unicos = []
             for t in lista:
                 # Mesmo tema repetitivo = mesmo precedente; senão, ementa idêntica.
-                tema = vistos[t[2]]["d"].get("t")
-                g = ("tema:" + rotulo_tema(tema.replace("Tema repetitivo", ""))) if tema else (vistos[t[2]].get("g") or t[2])
+                rot = rotulo_tema(vistos[t[2]]["d"].get("t") or "")
+                g = ("tema:" + rot) if re.search(r"\d", rot) else (vistos[t[2]].get("g") or t[2])
                 if g in grupos:
                     grupos[g][1] += 1
                 else:
@@ -307,7 +316,7 @@ def agregar(extratos: list[dict], leis: list[dict], por_artigo: int, por_disposi
                 itens.append(item)
                 d = dict(vistos[i]["d"])
                 if d.get("t"):  # extratos antigos no cache guardam o rótulo longo
-                    d["t"] = rotulo_tema(d["t"].replace("Tema repetitivo", ""))
+                    d["t"] = rotulo_tema(d["t"])
                 b["decisoes"][i] = d
             b["artigos"][a] = itens
 

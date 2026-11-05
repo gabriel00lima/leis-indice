@@ -109,3 +109,13 @@ class DataJud(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class Tema(unittest.TestCase):
+    def test_rotulo(self):
+        self.assertEqual(c.rotulo_tema("Tema Repetitivo 1099\nSituação do tema: Acórdão Publicado"), "Tema repetitivo 1099")
+        self.assertEqual(c.rotulo_tema("1. Tema Repetitivo 1280\n Situação do tema: Acórdão Publicado"), "Tema repetitivo 1280")
+        self.assertEqual(c.rotulo_tema("Tema repetitivo 1. Tema Repetitivo 1280\n Situação do tema: Acórdão Publicado"), "Tema repetitivo 1280")
+        self.assertEqual(c.rotulo_tema("1. Tema Repetitivo 1076 2. Tema Repetitivo 1077"), "Temas repetitivos 1076, 1077")
+        self.assertEqual(c.rotulo_tema("938"), "Tema repetitivo 938")
+        self.assertEqual(c.rotulo_tema("Tema repetitivo PRECEDENTE QUALIFICADO - TEMA"), "Precedente qualificado")
