@@ -136,8 +136,9 @@ def resumo_decisao(x: dict, tamanho_ementa: int) -> dict:
     if x.get("tema"):
         d["t"] = "Tema repetitivo " + str(x["tema"]).strip()
     if reg:
-        d["u"] = ("https://processo.stj.jus.br/processo/pesquisa/?tipoPesquisa=tipoPesquisaNumeroRegistro&termo="
-                  + reg)
+        # Nova Consulta Processual do STJ (a antiga processo.stj.jus.br/processo/pesquisa
+        # só mostra o aviso "Aplicação atualizada").
+        d["u"] = "https://consulta-processo.web.stj.jus.br/processo/" + reg
     return {k: v for k, v in d.items() if v}
 
 
