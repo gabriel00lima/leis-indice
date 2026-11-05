@@ -41,7 +41,7 @@ jobs:
 
   gerar:
     # Rascunho com IA: abre um PR para revisão humana. Precisa do segredo ANTHROPIC_API_KEY
-    # e de "Allow GitHub Actions to create and approve pull requests" (docs/configuracao.md).
+    # e de "Allow GitHub Actions to create and approve pull requests".
     if: github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     permissions:
@@ -57,7 +57,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           if [ -z "$ANTHROPIC_API_KEY" ]; then
-            echo "::error::Cadastre o segredo ANTHROPIC_API_KEY (veja docs/configuracao.md)."
+            echo "::error::Cadastre o segredo ANTHROPIC_API_KEY."
             exit 1
           fi
       - run: pip install -r scripts/requirements-explicadas.txt

@@ -13,7 +13,7 @@
 [![Deploy](https://img.shields.io/github/actions/workflow/status/gabriel00lima/leis-indice/deploy-site.yml?branch=main&label=deploy&style=flat-square)](https://github.com/gabriel00lima/leis-indice/actions/workflows/deploy-site.yml)
 [![Licença MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-ffdf00?style=flat-square)](LICENSE)
 
-[**Abrir o site**](https://gabriel00lima.github.io/leis-indice/) · [Documentação da API](https://gabriel00lima.github.io/leis-indice/api.html) · [Formato dos dados](data/README.md) · [Configuração](docs/configuracao.md)
+[**Abrir o site**](https://gabriel00lima.github.io/leis-indice/) · [Documentação da API](https://gabriel00lima.github.io/leis-indice/api.html) · [Formato dos dados](data/README.md)
 
 <br>
 

@@ -18,7 +18,7 @@ API do GitHub e, só se houver mudança, baixa as duas versões daquele arquivo.
   *Settings → Secrets and variables → Actions*. Sem ele, o resumo lista os artigos
   incluídos, alterados ou removidos e os campos do cabeçalho que mudaram.
 - **Aviso no Telegram (opcional):** crie os segredos `TELEGRAM_BOT_TOKEN` e
-  `TELEGRAM_CHAT_ID` (passo a passo em [docs/configuracao.md](../docs/configuracao.md)).
+  `TELEGRAM_CHAT_ID`.
 
 ## Arquivos
 

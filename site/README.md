@@ -152,7 +152,7 @@ Abra http://localhost:8000. Precisa de servidor HTTP (os módulos JS não carreg
 
 O workflow de GitHub Pages roda `bash site/build.sh` e publica `_site/`. Todos os caminhos são relativos, então o site funciona em `/leis-indice/`.
 
-Se o Pages estiver em "Deploy from a branch" (raiz da `main`), o `index.html` da raiz redireciona para `site/` e o site lê os dados em `../data/`. Funciona, mas o modo recomendado é "GitHub Actions" (ver `docs/configuracao.md`).
+Se o Pages estiver em "Deploy from a branch" (raiz da `main`), o `index.html` da raiz redireciona para `site/` e o site lê os dados em `../data/`. Funciona, mas o modo recomendado é "GitHub Actions".
 
 ## Limites conhecidos
 
