@@ -225,14 +225,12 @@ export function urlLei(id, ancora) {
   const hash = ancora ? "#" + ancora : "";
   // Com o build completo (site/paginas.py), cada norma tem página própria em lei/<id>,
   // com título e prévia para buscadores e WhatsApp. Sem ele, só existe lei.html?id=.
-  // As estaduais só têm página própria no deploy do Cloudflare (no GitHub Pages
-  // deixariam o site acima de 1 GB); lá o build marca <meta name="leis:paginas-estaduais">.
-  if (PAGINAS && (!ufDoId(id) || PAGINAS_ESTADUAIS)) return PAGINAS + id.split("/").map(encodeURIComponent).join("/") + hash;
+  // As estaduais ainda não têm página própria (deixariam o site acima do limite de 1 GB do Pages).
+  if (PAGINAS && !ufDoId(id)) return PAGINAS + id.split("/").map(encodeURIComponent).join("/") + hash;
   return "lei.html?id=" + encodeURIComponent(id) + hash;
 }
 
 const PAGINAS = document.querySelector('meta[name="leis:paginas"]')?.content || "";
-const PAGINAS_ESTADUAIS = !!document.querySelector('meta[name="leis:paginas-estaduais"]');
 
 export function formatarData(d) {
   if (!d) return "";

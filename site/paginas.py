@@ -138,15 +138,11 @@ def inserir_no_head(doc, bloco):
     return doc.replace("</head>", bloco + "\n</head>", 1)
 
 
-def marcar_paginas(doc, estaduais=False):
-    """<meta name="leis:paginas"> avisa o JS (urlLei) que existem as páginas /lei/<id>;
-    com estaduais, <meta name="leis:paginas-estaduais"> avisa que as estaduais também têm."""
+def marcar_paginas(doc):
+    """<meta name="leis:paginas"> avisa o JS (urlLei) que existem as páginas /lei/<id>."""
     if '<meta name="leis:paginas"' in doc:
         return doc
-    meta = '<meta name="leis:paginas" content="lei/">'
-    if estaduais:
-        meta += '\n<meta name="leis:paginas-estaduais" content="1">'
-    return re.sub(r"(<meta charset=[^>]*>)", lambda m: m.group(1) + "\n" + meta, doc, count=1)
+    return re.sub(r"(<meta charset=[^>]*>)", r'\1\n<meta name="leis:paginas" content="lei/">', doc, count=1)
 
 
 def json_ld(e, url, titulo, descricao):
@@ -256,10 +252,6 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--site", default="_site", help="pasta do site já montado (com data/)")
     ap.add_argument("--url", default=os.environ.get("SITE_URL") or URL_PADRAO, help="endereço público do site")
-    # No GitHub Pages as estaduais ficam sem página própria (o site passaria de 1 GB).
-    # No Cloudflare (lei/ vai para o R2) não há esse limite: o deploy liga PAGINAS_ESTADUAIS=1.
-    ap.add_argument("--estaduais", action="store_true", default=os.environ.get("PAGINAS_ESTADUAIS") == "1",
-                    help="gera páginas também para as normas estaduais")
     args = ap.parse_args()
     site = Path(args.site)
     url_site = args.url.rstrip("/") + "/"
@@ -284,7 +276,7 @@ def main():
         p = site / rel
         if not p.exists():
             continue
-        doc = marcar_paginas(p.read_text(encoding="utf-8"), args.estaduais)
+        doc = marcar_paginas(p.read_text(encoding="utf-8"))
         if 'property="og:title"' not in doc:
             m = re.search(r'<meta name="description" content="([^"]*)"', doc)
             desc = html.unescape(m.group(1)) if m else descricao_site
@@ -294,26 +286,24 @@ def main():
         p.write_text(doc, encoding="utf-8")
 
     lei_html = site / "lei.html"
-    modelo = marcar_paginas(lei_html.read_text(encoding="utf-8"), args.estaduais)
+    modelo = marcar_paginas(lei_html.read_text(encoding="utf-8"))
     lei_html.write_text(modelo, encoding="utf-8")
 
     destino = site / "lei"
-    # Ids federais são minúsculos; os estaduais têm a UF (estaduais/SP/...).
-    padrao_id = r"[a-z0-9][a-zA-Z0-9/_.\-]*" if args.estaduais else r"[a-z0-9][a-z0-9/_.\-]*"
     mapas = []
     total = 0
     for shard, entradas in grupos:
         urls = []
         for e in entradas:
             id_ = e.get("id")
-            if not id_ or not re.fullmatch(padrao_id, id_) or ".." in id_:
+            if not id_ or not re.fullmatch(r"[a-z0-9][a-z0-9/_.\-]*", id_) or ".." in id_:
                 continue
             arq = destino / (id_ + ".html")
             arq.parent.mkdir(parents=True, exist_ok=True)
             arq.write_text(pagina_da_lei(modelo, e, url_site, imagens, apelidos), encoding="utf-8")
             urls.append(f"{url_site}lei/{id_}")
         total += len(urls)
-        nome = ((shard or {}).get("categoria") or "normas").replace("/", "-")
+        nome = (shard or {}).get("categoria") or "normas"
         # Limite do protocolo: 50 mil URLs por arquivo.
         for i in range(0, len(urls), 50000):
             parte = f"{nome}.xml" if len(urls) <= 50000 else f"{nome}-{i // 50000 + 1}.xml"

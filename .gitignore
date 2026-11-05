@@ -2,8 +2,6 @@
 _site/
 site/_site/
 site/pagefind/
-_cf/
-.wrangler/
 dist/
 build/
 

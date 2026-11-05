@@ -25,9 +25,8 @@ O site **não copia os textos**: cada página de lei baixa o `.md` direto de `ra
 - A página inicial tem a seção "Leis estaduais" (de `destaques.json` → `estaduais`).
 - Numa lei estadual, as citações sem "federal" viram `lei.html?ref=<prefixo>:<número>:<ano>&uf=SP`, que procura
   primeiro no estado e depois nas federais; "Constituição do Estado" vira `?ref=constituicao-estadual::&uf=SP`.
-- No GitHub Pages as estaduais abrem em `lei.html?id=…` (sem página própria em `lei/`: com elas o site
-  passaria do limite de 1 GB). No deploy do Cloudflare (`cloudflare/README.md`) o build roda com
-  `PAGINAS_ESTADUAIS=1` e elas ganham `lei/estaduais/<UF>/…` e sitemaps próprios.
+- As estaduais abrem em `lei.html?id=…` (ainda sem página própria em `lei/`: com elas o site passaria do
+  limite de 1 GB do GitHub Pages).
 - No grafo, o filtro **Esfera** mostra só as ligações federais ou só as estaduais, e a busca do grafo carrega um
   estado quando o termo tem a sigla (ex.: `10261 sp`).
 
