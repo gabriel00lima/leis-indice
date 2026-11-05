@@ -1,11 +1,26 @@
 {
   "commit": "c9f21b4ab11aa0d7ca6fe861d75028e94219c2d6",
-  "versao_extrator": 1,
+  "versao_extrator": 2,
   "escopo": [
     "constituicao.md",
     "federal/emendas-constitucionais",
     "federal/leis-complementares",
     "federal/leis-ordinarias",
-    "federal/decretos-lei"
+    "federal/decretos-lei",
+    "estaduais/SP/constituicao",
+    "estaduais/SP/emendas-constitucionais",
+    "estaduais/SP/leis-complementares",
+    "estaduais/SP/leis-ordinarias",
+    "estaduais/SP/decretos-lei",
+    "estaduais/SP/decretos-lei-complementares",
+    "estaduais/RJ/constituicao",
+    "estaduais/RJ/leis-ordinarias",
+    "estaduais/MG/constituicao",
+    "estaduais/MG/emendas-constitucionais",
+    "estaduais/MG/leis-complementares",
+    "estaduais/MG/leis-ordinarias",
+    "estaduais/MG/leis-delegadas",
+    "estaduais/MG/leis-constitucionais",
+    "estaduais/MG/decretos-lei"
   ]
 }

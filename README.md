@@ -2,7 +2,7 @@
 
 # § Leis do Brasil
 
-**As leis federais do Brasil, fáceis de achar e de ler.**
+**As leis federais do Brasil (e as estaduais de SP, RJ e MG), fáceis de achar e de ler.**
 
 Índice, site navegável, grafo e API aberta sobre o acervo [ctresb/leis](https://github.com/ctresb/leis), atualizados todos os dias por GitHub Actions.
 
@@ -43,7 +43,8 @@
 | | |
 |---|---|
 | **29.572** normas federais no índice | Constituição, 172 emendas constitucionais, 239 leis complementares, 16.784 leis ordinárias e 12.376 decretos-lei |
-| **62.438** ligações entre normas | quem cita, altera ou revoga quem, com os artigos envolvidos |
+| **68.269** normas estaduais | São Paulo (40.203), Minas Gerais (26.731) e Rio de Janeiro (1.335, só de 2022 em diante no acervo) |
+| **140 mil** ligações entre normas | quem cita, altera ou revoga quem, com os artigos envolvidos |
 | **0 bytes** de texto copiado | o texto de cada lei vem do acervo na hora em que a página abre |
 | **1×/dia** | índice, Câmara, normas.leg.br, monitor e deploy rodam sozinhos |
 
@@ -216,7 +217,6 @@ npm ci --prefix textos && node --test textos/tests/*.test.mjs
 
 Já com pull request aberto:
 
-- **Leis estaduais** de São Paulo, Rio de Janeiro e Minas Gerais no índice, no site e no grafo. A API já está pronta para recebê-las (`ref/sp/...`, `busca/rj.json`).
 - **Seguir uma lei**: feed RSS por norma e botão "Seguir".
 - **Senado Federal**: alterações por dispositivo e decisões do STF.
 - **Diário Oficial da União**: atos normativos da Seção 1.

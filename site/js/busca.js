@@ -1,11 +1,11 @@
 import {
   manifesto, listaShards, carregarTudo, usandoExemplo, urlLei, formatarData, normalizarTexto,
-  destaques, numeroBR, APELIDOS,
+  destaques, numeroBR, APELIDOS, UFS, ufDoId, noAmbito,
 } from "./dados.js";
 import { buscarNoTexto } from "./busca-texto.js";
 
 const $ = s => document.querySelector(s);
-const form = $("#form"), q = $("#q"), tipoSel = $("#tipo"), sit = $("#sit"), ordem = $("#ordem");
+const form = $("#form"), q = $("#q"), tipoSel = $("#tipo"), sit = $("#sit"), ordem = $("#ordem"), ambitoSel = $("#ambito");
 const status = $("#status"), lista = $("#resultados"), mais = $("#mais");
 const areaInicio = $("#area-inicio"), areaResultados = $("#area-resultados"), carregando = $("#carregando");
 
@@ -113,6 +113,9 @@ async function montarInicio() {
   $("#mais-alteradas").replaceChildren(...d.mais_alteradas.map((e, i) => itemRanking(e, i, maxA, "leis que alteraram")));
   montarAbas();
 
+  // Leis estaduais
+  montarEstaduais(d.estaduais || []);
+
   // Recentes
   $("#recentes").replaceChildren(...d.recentes.map(e =>
     el("li", {},
@@ -133,16 +136,41 @@ async function montarInicio() {
     ...(c ? [el("br"), "Commit do acervo: ", el("a", { href: `https://github.com/ctresb/leis/commit/${c}`, texto: c.slice(0, 7) })] : []));
 }
 
+function montarEstaduais(estados) {
+  const sec = $("#estaduais");
+  if (!sec) return;
+  if (!estados.length) { sec.hidden = true; return; }
+  $("#lista-estaduais").replaceChildren(...estados.map(x =>
+    el("article", { class: "cartao-estado" },
+      el("a", { class: "estado-cabeca", href: `?ambito=${x.uf}&ordem=recentes` },
+        el("span", { class: "estado-sigla", texto: x.uf }),
+        el("span", {}, el("strong", { texto: x.nome }), el("small", { texto: `${numeroBR(x.total)} normas · ${numeroBR(x.ligacoes)} ligações` }))),
+      el("ul", { class: "estado-tipos" }, ...x.por_tipo.filter(t => t.tipo !== "Constituição Estadual").slice(0, 4).map(t =>
+        el("li", {}, el("a", { href: `?ambito=${x.uf}&tipo=${encodeURIComponent(t.tipo)}&ordem=recentes`, texto: plural(t.tipo) }),
+          el("span", { texto: numeroBR(t.total) })))),
+      ...(x.mais_citadas?.length ? [el("div", { class: "estado-citadas" },
+        el("span", { class: "etiqueta", texto: "Mais citadas" }),
+        el("ol", {}, ...x.mais_citadas.slice(0, 3).map(e =>
+          el("li", {}, el("a", { href: urlLei(e.id), texto: e.titulo }),
+            el("small", { texto: e.ementa || "" })))))] : []),
+      el("p", { class: "estado-links" },
+        ...(x.constituicao ? [el("a", { href: urlLei(x.constituicao), texto: "Constituição do estado" }), " · "] : []),
+        el("a", { href: `?ambito=${x.uf}&ordem=recentes`, texto: "Buscar nas leis de " + x.uf + " →" })),
+      ...(x.desde ? [el("p", { class: "estado-nota", texto: `Leis de ${ano(x.desde)} em diante no acervo.` })] : []))));
+}
+
 function plural(t) {
   return { "Lei Ordinária": "Leis ordinárias", "Decreto-Lei": "Decretos-leis", "Lei Complementar": "Leis complementares",
-    "Emenda Constitucional": "Emendas constitucionais", "Constituição": "Constituição" }[t] || t;
+    "Emenda Constitucional": "Emendas constitucionais", "Constituição": "Constituição",
+    "Constituição Estadual": "Constituição Estadual", "Lei Delegada": "Leis delegadas",
+    "Lei Constitucional": "Leis constitucionais", "Decreto-Lei Complementar": "Decretos-leis complementares" }[t] || t;
 }
 
 // ================= busca =================
 
 const POR_PAGINA = 40;
 let entradas = null;
-let tipoCarregado = undefined;
+let carregado = null; // "tipo|âmbito" do que está em memória
 let achados = [], mostrados = 0, termosAtuais = [];
 
 function preparar(e) {
@@ -152,6 +180,7 @@ function preparar(e) {
   e._busca = normalizarTexto(`${apelido} ${e.titulo} ${e.tipo} ${e.ementa}`);
   e._numero = String(e.numero || "").replace(/\D/g, "");
   e._ano = ano(e.data);
+  e._uf = e.uf || ufDoId(e.id);
   return e;
 }
 
@@ -208,15 +237,19 @@ async function garantirIndice() {
   const tipo = tipoSel.value || null;
   const shards = await listaShards();
   const alvo = shards.some(s => s.tipo) ? tipo : null;
-  if (entradas && (tipoCarregado === null || tipoCarregado === alvo)) return;
+  const ambito = ambitoSel.value;
+  const chave = (alvo || "") + "|" + ambito;
+  const [tipoC, ambitoC] = (carregado || "|").split("|");
+  // o que está em memória já cobre o pedido?
+  if (entradas && (!tipoC || tipoC === (alvo || "")) && (ambitoC === ambito || ambitoC === "todas")) return;
   carregando.hidden = false;
   status.textContent = "Carregando o índice (só na primeira busca)…";
   try {
     entradas = (await carregarTudo((f, t) => {
       if (t > 1) status.textContent = `Carregando o índice… ${f} de ${t} partes`;
       carregando.firstElementChild.style.width = Math.round(100 * f / t) + "%";
-    }, alvo)).map(preparar);
-    tipoCarregado = alvo;
+    }, alvo, ambito)).map(preparar);
+    carregado = chave;
   } finally {
     carregando.hidden = true;
   }
@@ -226,16 +259,18 @@ async function buscar() {
   const texto = q.value.trim();
   const params = new URLSearchParams();
   if (texto) params.set("q", texto);
-  for (const [k, e] of [["tipo", tipoSel], ["sit", sit], ["ordem", ordem]]) if (e.value) params.set(k, e.value);
+  for (const [k, e] of [["ambito", ambitoSel], ["tipo", tipoSel], ["sit", sit], ["ordem", ordem]]) if (e.value) params.set(k, e.value);
   history.replaceState(null, "", params.toString() ? "?" + params : location.pathname);
 
-  const filtrando = texto || tipoSel.value || sit.value;
+  const filtrando = texto || tipoSel.value || sit.value || ambitoSel.value;
   areaInicio.hidden = !!filtrando;
   areaResultados.hidden = !filtrando;
   document.body.classList.toggle("buscando", !!filtrando);
   if (!filtrando) return;
 
-  $("#titulo-resultados").textContent = texto ? `Resultados para “${texto}”` : (tipoSel.value ? plural(tipoSel.value) : "Normas");
+  const onde = ambitoSel.value ? " · " + ambitoSel.selectedOptions[0].textContent : "";
+  $("#titulo-resultados").textContent =
+    (texto ? `Resultados para “${texto}”` : (tipoSel.value ? plural(tipoSel.value) : "Normas")) + onde;
   buscarNoTexto(texto, lista, { ocultar: sit.value === "revogada" });
   try { await garantirIndice(); }
   catch (err) { status.textContent = "Não foi possível carregar o índice: " + err.message; return; }
@@ -244,6 +279,7 @@ async function buscar() {
   achados = [];
   for (const e of entradas) {
     if (tipoSel.value && e.tipo !== tipoSel.value) continue;
+    if (!noAmbito(ambitoSel.value, e._uf)) continue;
     if (sit.value === "vigente" && e.revogada) continue;
     if (sit.value === "revogada" && !e.revogada) continue;
     const p = termosAtuais.length ? pontuar(e, termosAtuais) : 1;
@@ -258,6 +294,11 @@ async function buscar() {
   status.textContent = n
     ? `${numeroBR(n)} ${n === 1 ? "norma encontrada" : "normas encontradas"} em ${numeroBR(entradas.length)}`
     : "Nenhuma norma com isso no título ou na ementa. Tente o número sem pontos (ex.: 8078) ou outra palavra.";
+  if (!ambitoSel.value && ambitoSel.options.length > 1) {
+    const b = el("button", { type: "button", class: "link-botao", texto: "Incluir as leis estaduais (SP, RJ, MG)" });
+    b.addEventListener("click", () => { ambitoSel.value = "todas"; buscar(); });
+    status.append(n ? " das leis federais. " : " ", b);
+  }
   lista.replaceChildren();
   mostrados = 0;
   mostrarMais();
@@ -268,6 +309,7 @@ function mostrarMais() {
   for (const [, e] of achados.slice(mostrados, mostrados + POR_PAGINA)) {
     const apelido = APELIDOS[e.id];
     const meta = el("div", { class: "resultado-meta" },
+      ...(e._uf ? [el("span", { class: "chip chip-uf", title: UFS[e._uf] || e._uf, texto: e._uf })] : []),
       el("span", { class: "chip", texto: e.tipo || "Norma" }),
       el("span", { texto: formatarData(e.data) }));
     if (e.revogada) meta.append(el("span", { class: "chip chip-revogada", texto: "Revogada" }));
@@ -292,10 +334,23 @@ async function iniciar() {
   if (m?.shards) tipos = [...new Set(m.shards.map(s => s.tipo).filter(Boolean))];
   else if (m?.entradas) tipos = [...new Set(m.entradas.map(e => e.tipo).filter(Boolean))];
   for (const t of tipos.sort((a, b) => a.localeCompare(b, "pt-BR"))) tipoSel.add(new Option(t, t));
+  const estados = Object.entries(m?.estaduais || {});
+  if (estados.length) {
+    const grupo = document.createElement("optgroup");
+    grupo.label = "Estaduais";
+    for (const [uf, x] of estados) grupo.append(new Option(x.nome || UFS[uf] || uf, uf));
+    grupo.append(new Option("Todos os estados", "estaduais"));
+    ambitoSel.add(grupo);
+    ambitoSel.add(new Option("Federais e estaduais", "todas"));
+  } else {
+    ambitoSel.closest("label").hidden = true;
+  }
 
   const p = new URLSearchParams(location.search);
   q.value = p.get("q") || "";
   tipoSel.value = p.get("tipo") || "";
+  ambitoSel.value = p.get("ambito") || "";
+  if (ambitoSel.selectedIndex < 0) ambitoSel.value = "";
   sit.value = p.get("sit") || "";
   ordem.value = p.get("ordem") || "";
   montarInicio();
@@ -304,7 +359,7 @@ async function iniciar() {
 
 let espera;
 q.addEventListener("input", () => { clearTimeout(espera); espera = setTimeout(buscar, 300); });
-for (const e of [tipoSel, sit, ordem]) e.addEventListener("change", buscar);
+for (const e of [ambitoSel, tipoSel, sit, ordem]) e.addEventListener("change", buscar);
 form.addEventListener("submit", ev => { ev.preventDefault(); buscar(); areaResultados.scrollIntoView({ behavior: "smooth" }); });
 mais.addEventListener("click", mostrarMais);
 iniciar();

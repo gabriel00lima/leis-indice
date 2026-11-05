@@ -31,7 +31,7 @@ async function montar() {
   stat("desde", ano(d.mais_antiga));
 
   $("#texto-numeros").textContent =
-    `${numeroBR(d.total)} normas federais indexadas, de ${ano(d.mais_antiga)} até hoje. ` +
+    `${numeroBR(d.total_federal ?? d.total)} normas federais indexadas, de ${ano(d.mais_antiga)} até hoje. ` +
     `${numeroBR(d.revogadas)} estão marcadas como revogadas no acervo.`;
 
   // Por tipo
