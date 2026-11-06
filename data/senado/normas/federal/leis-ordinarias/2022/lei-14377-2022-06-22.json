@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/2022/lei-14377-2022-06-22",
+"urn": "urn:lex:br:federal:lei:2022-06-22;14377",
+"consultado_em": "2026-11-06",
+"codigo": "35994345",
+"nome": "Lei nº 14.377 de 22/06/2022",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "ANX", "data": "2022-06-23", "descricao": "Publicação Original de Anexo (002 - Anexo II) [Diário Oficial da União de 23/06/2022] (p. 3, col. 1)"},
+{"tipo": "ANX", "data": "2022-06-23", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União de 23/06/2022] (p. 3, col. 1)"},
+{"tipo": "PUB", "data": "2022-06-23", "descricao": "Publicação Original [Diário Oficial da União de 23/06/2022] (p. 1, col. 1)"},
+{"tipo": "ANX", "data": "2022-06-23", "descricao": "Publicação Original de Anexo (003 - Anexo III) [Diário Oficial da União de 23/06/2022] (p. 3, col. 2)"},
+{"tipo": "ANX", "data": "2022-06-23", "descricao": "Publicação Original de Anexo (004 - Anexo IV) [Diário Oficial da União de 23/06/2022] (p. 4, col. 1)"}
+],
+"alteracoes": [
+{"data": "2022-06-22", "nome": "Mensagem de Veto Parcial nº 320 de 22/06/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-06-22", "nome": "Mensagem de Veto Parcial nº 320 de 22/06/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 3", "art": "3", "acao": "veto"}]},
+{"data": "2023-01-09", "nome": "Lei nº 14.525 de 09/01/2023", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "correlato"}, {"dispositivo": "Anexo 3", "art": null, "acao": "correlato"}, {"dispositivo": "Anexo 4", "art": null, "acao": "correlato"}], "id": "federal/leis-ordinarias/2023/lei-14525-2023-01-09"},
+{"data": "2026-04-01", "nome": "Lei nº 15.372 de 01/04/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 3", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2026/lei-15372-2026-04-01"}
+],
+"controle": []
+}

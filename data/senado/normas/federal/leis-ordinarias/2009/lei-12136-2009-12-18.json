@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2009/lei-12136-2009-12-18",
+"urn": "urn:lex:br:federal:lei:2009-12-18;12136",
+"consultado_em": "2026-11-06",
+"codigo": "580828",
+"nome": "Lei nº 12.136 de 18/12/2009",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2009-12-21", "descricao": "Publicação Original [Diário Oficial da União de 21/12/2009] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2026-07-09", "nome": "Lei nº 15.465 de 09/07/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Ementa", "art": null, "acao": "alterou"}, {"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15465-2026-07-09"}
+],
+"controle": []
+}

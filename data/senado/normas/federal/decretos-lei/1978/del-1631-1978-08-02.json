@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1978/del-1631-1978-08-02",
+"urn": "urn:lex:br:federal:decreto.lei:1978-08-02;1631",
+"consultado_em": "2026-11-06",
+"codigo": "525883",
+"nome": "Decreto-Lei nº 1.631 de 02/08/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-08-03", "descricao": "Publicação Original [Diário Oficial da União de 03/08/1978] (p. 12231, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-09-26", "nome": "Decreto Legislativo nº 62 de 26/09/1978", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1979-08-01", "nome": "Decreto-Lei nº 1.690 de 01/08/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/decretos-lei/1979/del-1690-1979-08-01"},
+{"data": "1979-10-24", "nome": "Decreto Legislativo nº 63 de 24/10/1979", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1985-12-26", "nome": "Lei nº 7.451 de 26/12/1985", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7451-1985-12-26"}
+],
+"controle": []
+}

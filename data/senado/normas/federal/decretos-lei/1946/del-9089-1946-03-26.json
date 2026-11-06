@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9089-1946-03-26",
+"urn": "urn:lex:br:federal:decreto.lei:1946-03-26;9089",
+"consultado_em": "2026-11-06",
+"codigo": "534127",
+"nome": "Decreto-Lei nº 9.089 de 26/03/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-03-28", "descricao": "Publicação Original [Diário Oficial da União de 28/03/1946] (p. 4565, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-07-15", "nome": "Decreto-Lei nº 9.468 de 15/07/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9468-1946-07-15"}
+],
+"controle": []
+}

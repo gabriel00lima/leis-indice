@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1952/lei-1749-1952-11-28",
+"urn": "urn:lex:br:federal:lei:1952-11-28;1749",
+"consultado_em": "2026-11-06",
+"codigo": "543479",
+"nome": "Lei nº 1.749 de 28/11/1952",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1952-11-28", "descricao": "Publicação Original [Diário Oficial da União de 28/11/1952] (p. 18139, col. 2)"}
+],
+"alteracoes": [
+{"data": "1955-12-27", "nome": "Lei nº 2.698 de 27/12/1955", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1955/lei-2698-1955-12-27"},
+{"data": "1956-04-18", "nome": "Decreto nº 39.033 de 18/04/1956", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "regulamentou"}]},
+{"data": "1956-11-27", "nome": "Lei nº 2.975 de 27/11/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2975-1956-11-27"}
+],
+"controle": []
+}

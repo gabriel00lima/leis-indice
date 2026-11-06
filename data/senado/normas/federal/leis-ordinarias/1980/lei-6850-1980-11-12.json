@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1980/lei-6850-1980-11-12",
+"urn": "urn:lex:br:federal:lei:1980-11-12;6850",
+"consultado_em": "2026-11-06",
+"codigo": "548726",
+"nome": "Lei nº 6.850 de 12/11/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-11-13", "descricao": "Publicação Original [Diário Oficial da União de 13/11/1980] (p. 22652, col. 1)"}
+],
+"alteracoes": [
+{"data": "1981-09-14", "nome": "Lei nº 6.941 de 14/09/1981", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1981/lei-6941-1981-09-14"}
+],
+"controle": []
+}

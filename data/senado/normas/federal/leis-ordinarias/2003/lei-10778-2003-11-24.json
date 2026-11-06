@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2003/lei-10778-2003-11-24",
+"urn": "urn:lex:br:federal:lei:2003-11-24;10778",
+"consultado_em": "2026-11-06",
+"codigo": "552654",
+"nome": "Lei nº 10.778 de 24/11/2003",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2003-11-25", "descricao": "Publicação Original [Diário Oficial da União de 25/11/2003] (p. 11, col. 3)"}
+],
+"alteracoes": [
+{"data": "2004-06-03", "nome": "Decreto nº 5.099 de 03/06/2004", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2010-07-20", "nome": "Lei nº 12.288 de 20/07/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2010/lei-12288-2010-07-20"},
+{"data": "2019-12-10", "nome": "Lei nº 13.931 de 10/12/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 4", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2019/lei-13931-2019-12-10"}
+],
+"controle": []
+}

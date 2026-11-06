@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11759-2008-07-31",
+"urn": "urn:lex:br:federal:lei:2008-07-31;11759",
+"consultado_em": "2026-11-06",
+"codigo": "582181",
+"nome": "Lei nº 11.759 de 31/07/2008",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-08-01", "descricao": "Publicação Original [Diário Oficial da União de 01/08/2008] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2012-09-14", "nome": "Medida Provisória nº 580 de 14/09/2012", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 17, § 3", "art": "17", "acao": "correlato"}]},
+{"data": "2012-09-14", "nome": "Medida Provisória nº 580 de 14/09/2012", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 18-A, § 3", "art": "18-a", "acao": "acrescentou"}]},
+{"data": "2012-12-19", "nome": "Lei nº 12.745 de 19/12/2012", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 17, § 3", "art": "17", "acao": "correlato"}], "id": "federal/leis-ordinarias/2012/lei-12745-2012-12-19"},
+{"data": "2012-12-19", "nome": "Lei nº 12.745 de 19/12/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 18-A", "art": "18-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2012/lei-12745-2012-12-19"}
+],
+"controle": []
+}

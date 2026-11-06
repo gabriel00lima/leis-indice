@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1988/del-2462-1988-08-30",
+"urn": "urn:lex:br:federal:decreto.lei:1988-08-30;2462",
+"consultado_em": "2026-11-06",
+"codigo": "527537",
+"nome": "Decreto-Lei nº 2.462 de 30/08/1988",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1988-08-31", "descricao": "Publicação Original [Diário Oficial da União de 31/08/1988] (p. 16697, col. 2)"}
+],
+"alteracoes": [
+{"data": "1988-12-22", "nome": "Lei nº 7.713 de 22/12/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/1988/lei-7713-1988-12-22"},
+{"data": "1988-12-29", "nome": "Lei nº 7.714 de 29/12/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1988/lei-7714-1988-12-29"},
+{"data": "1989-01-31", "nome": "Lei nº 7.730 de 31/01/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/1989/lei-7730-1989-01-31"},
+{"data": "1989-06-09", "nome": "Decreto Legislativo nº 26 de 09/06/1989", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1989-12-28", "nome": "Lei nº 7.988 de 28/12/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1989/lei-7988-1989-12-28"}
+],
+"controle": []
+}

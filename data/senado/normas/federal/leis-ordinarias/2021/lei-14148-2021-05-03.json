@@ -1,0 +1,42 @@
+{
+"id": "federal/leis-ordinarias/2021/lei-14148-2021-05-03",
+"urn": "urn:lex:br:federal:lei:2021-05-03;14148",
+"consultado_em": "2026-11-06",
+"codigo": "33736404",
+"nome": "Lei nº 14.148 de 03/05/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-05-04", "descricao": "Publicação Original [Diário Oficial da União de 04/05/2021] (p. 4, col. 2)"},
+{"tipo": "VEP", "data": "2022-03-18", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União - Edição Extra de 18/03/2022] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-05-03", "nome": "Mensagem de Veto Parcial nº 186 de 03/05/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-05-03", "nome": "Mensagem de Veto Parcial nº 186 de 03/05/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-05-03", "nome": "Mensagem de Veto Parcial nº 186 de 03/05/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-05-03", "nome": "Mensagem de Veto Parcial nº 186 de 03/05/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-05-03", "nome": "Mensagem de Veto Parcial nº 186 de 03/05/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-05-03", "nome": "Mensagem de Veto Parcial nº 186 de 03/05/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-05-03", "nome": "Mensagem de Veto Parcial nº 186 de 03/05/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 4, caput, Inciso 1", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 4, caput, Inciso 2", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 4, caput, Inciso 3", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 4, caput, Inciso 4", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 5, caput, Inciso 1", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 5, caput, Inciso 2", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 5, caput, Inciso 3", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 5, caput, Inciso 4", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 6, caput", "art": "6", "acao": "veto"}, {"dispositivo": "Art. 6, § 1", "art": "6", "acao": "veto"}, {"dispositivo": "Art. 6, § 2", "art": "6", "acao": "veto"}, {"dispositivo": "Art. 6, § 3", "art": "6", "acao": "veto"}, {"dispositivo": "Art. 7, caput", "art": "7", "acao": "veto"}, {"dispositivo": "Art. 7, § 1", "art": "7", "acao": "veto"}, {"dispositivo": "Art. 7, § 2", "art": "7", "acao": "veto"}, {"dispositivo": "Art. 10, § 1", "art": "10", "acao": "veto"}, {"dispositivo": "Art. 15", "art": "15", "acao": "veto"}, {"dispositivo": "Art. 18, caput", "art": "18", "acao": "veto"}, {"dispositivo": "Art. 18, caput, Inciso 1", "art": "18", "acao": "veto"}, {"dispositivo": "Art. 18, caput, Inciso 2", "art": "18", "acao": "veto"}, {"dispositivo": "Art. 19", "art": "19", "acao": "veto"}, {"dispositivo": "Art. 21, caput", "art": "21", "acao": "veto"}]},
+{"data": "2021-05-03", "nome": "Mensagem de Veto Parcial nº 186 de 03/05/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-05-03", "nome": "Mensagem de Veto Parcial nº 186 de 03/05/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-05-03", "nome": "Mensagem de Veto Parcial nº 186 de 03/05/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-06-02", "nome": "Lei nº 14.161 de 02/06/2021", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14161-2021-06-02"},
+{"data": "2021-07-01", "nome": "Decreto nº 10.739 de 01/07/2021", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2022-08-26", "nome": "Medida Provisória nº 1.135 de 26/08/2022", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2022-08-26", "nome": "Medida Provisória nº 1.135 de 26/08/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6, caput", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 6, § 1", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 6, § 3", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 6, § 4", "art": "6", "acao": "acrescentou"}]},
+{"data": "2022-08-26", "nome": "Medida Provisória nº 1.135 de 26/08/2022", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2022-12-20", "nome": "Medida Provisória nº 1.147 de 20/12/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, caput", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 1", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 4, § 2", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 4, § 3", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 4, § 4", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 4, § 5", "art": "4", "acao": "acrescentou"}]},
+{"data": "2022-12-20", "nome": "Medida Provisória nº 1.147 de 20/12/2022", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2023-02-14", "nome": "Ato do Presidente do Congresso Nacional nº 2 de 14/02/2023", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2023-05-30", "nome": "Lei nº 14.592 de 30/05/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14592-2023-05-30"},
+{"data": "2023-05-30", "nome": "Lei nº 14.592 de 30/05/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14592-2023-05-30"},
+{"data": "2023-05-30", "nome": "Lei nº 14.592 de 30/05/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6, caput", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 6, § 1", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 6, § 2", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 6, § 3", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 6, § 4", "art": "6", "acao": "revogou"}], "id": "federal/leis-ordinarias/2023/lei-14592-2023-05-30"},
+{"data": "2023-05-30", "nome": "Lei nº 14.592 de 30/05/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14592-2023-05-30"},
+{"data": "2023-12-28", "nome": "Medida Provisória nº 1.202 de 28/12/2023", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2023-12-28", "nome": "Medida Provisória nº 1.202 de 28/12/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}]},
+{"data": "2024-05-22", "nome": "Lei nº 14.859 de 22/05/2024", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14859-2024-05-22"},
+{"data": "2024-05-22", "nome": "Lei nº 14.859 de 22/05/2024", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14859-2024-05-22"},
+{"data": "2024-05-22", "nome": "Lei nº 14.859 de 22/05/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4-A, caput", "art": "4-a", "acao": "acrescentou"}, {"dispositivo": "Art. 4-B", "art": "4-b", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2024/lei-14859-2024-05-22"}
+],
+"controle": []
+}

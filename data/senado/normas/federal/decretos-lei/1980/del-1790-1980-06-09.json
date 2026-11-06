@@ -1,0 +1,20 @@
+{
+"id": "federal/decretos-lei/1980/del-1790-1980-06-09",
+"urn": "urn:lex:br:federal:decreto.lei:1980-06-09;1790",
+"consultado_em": "2026-11-06",
+"codigo": "526190",
+"nome": "Decreto-Lei nº 1.790 de 09/06/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-06-10", "descricao": "Publicação Original [Diário Oficial da União de 10/06/1980] (p. 11382, col. 2)"}
+],
+"alteracoes": [
+{"data": "1980-10-29", "nome": "Decreto Legislativo nº 106 de 29/10/1980", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1980-12-29", "nome": "Decreto-Lei nº 1.841 de 29/12/1980", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 1", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1980/del-1841-1980-12-29"},
+{"data": "1982-12-22", "nome": "Decreto-Lei nº 1.980 de 22/12/1982", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1980-1982-12-22"},
+{"data": "1983-06-09", "nome": "Decreto-Lei nº 2.030 de 09/06/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2030-1983-06-09"},
+{"data": "1983-10-19", "nome": "Decreto-Lei nº 2.064 de 19/10/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1983/del-2064-1983-10-19"},
+{"data": "1983-10-26", "nome": "Decreto-Lei nº 2.065 de 26/10/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Item 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1983/del-2065-1983-10-26"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2003/lei-10689-2003-06-13",
+"urn": "urn:lex:br:federal:lei:2003-06-13;10689",
+"consultado_em": "2026-11-06",
+"codigo": "552565",
+"nome": "Lei nº 10.689 de 13/06/2003",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2003-06-16", "descricao": "Publicação Original [Diário Oficial da União de 16/06/2003] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2003-10-20", "nome": "Medida Provisória nº 132 de 20/10/2003", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "2004-01-09", "nome": "Lei nº 10.836 de 09/01/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-10836-2004-01-09"}
+],
+"controle": []
+}

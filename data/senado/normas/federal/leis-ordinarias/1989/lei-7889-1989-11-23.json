@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7889-1989-11-23",
+"urn": "urn:lex:br:federal:lei:1989-11-23;7889",
+"consultado_em": "2026-11-06",
+"codigo": "549765",
+"nome": "Lei nº 7.889 de 23/11/1989",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-11-24", "descricao": "Publicação Original [Diário Oficial da União de 24/11/1989] (p. 21529, col. 1)"}
+],
+"alteracoes": [
+{"data": "2010-12-01", "nome": "Lei nº 12.341 de 01/12/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 4", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2010/lei-12341-2010-12-01"},
+{"data": "2017-03-29", "nome": "Decreto nº 9.013 de 29/03/2017", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2017-03-29", "nome": "Medida Provisória nº 772 de 29/03/2017", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 2", "art": "2", "acao": "alterou"}]},
+{"data": "2022-12-29", "nome": "Lei nº 14.515 de 29/12/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/2022/lei-14515-2022-12-29"}
+],
+"controle": []
+}

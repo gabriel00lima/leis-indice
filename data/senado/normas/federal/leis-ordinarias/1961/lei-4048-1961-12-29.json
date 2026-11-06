@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1961/lei-4048-1961-12-29",
+"urn": "urn:lex:br:federal:lei:1961-12-29;4048",
+"consultado_em": "2026-11-06",
+"codigo": "545881",
+"nome": "Lei nº 4.048 de 29/12/1961",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-01-08", "descricao": "Publicação Original [Diário Oficial da União de 08/01/1962] (p. 191, col. 2)"}
+],
+"alteracoes": [
+{"data": "1969-02-14", "nome": "Decreto-Lei nº 469 de 14/02/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-469-1969-02-14"},
+{"data": "1975-06-11", "nome": "Decreto nº 75.846 de 11/06/1975", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1981-11-06", "nome": "Decreto nº 86.550 de 06/11/1981", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

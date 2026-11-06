@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1946/del-9735-1946-09-04",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-04;9735",
+"consultado_em": "2026-11-06",
+"codigo": "534775",
+"nome": "Decreto-Lei nº 9.735 de 04/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-06", "descricao": "Publicação Original [Diário Oficial da União de 06/09/1946] (p. 12483, col. 2)"}
+],
+"alteracoes": [
+{"data": "1946-09-04", "nome": "Decreto nº 21.810 de 04/09/1946", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1955-12-06", "nome": "Lei nº 2.668 de 06/12/1955", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1955/lei-2668-1955-12-06"},
+{"data": "1962-03-16", "nome": "Decreto do Conselho de MInistros nº 736 de 16/03/1962", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 32", "art": "32", "acao": "correlato"}]}
+],
+"controle": []
+}

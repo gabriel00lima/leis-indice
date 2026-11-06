@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1976/lei-6332-1976-05-18",
+"urn": "urn:lex:br:federal:lei:1976-05-18;6332",
+"consultado_em": "2026-11-06",
+"codigo": "548208",
+"nome": "Lei nº 6.332 de 18/05/1976",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1976-05-19", "descricao": "Publicação Original [Diário Oficial da União de 19/05/1976] (p. 7127, col. 1)"}
+],
+"alteracoes": [
+{"data": "1981-11-04", "nome": "Lei nº 6.950 de 04/11/1981", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}], "id": "federal/leis-ordinarias/1981/lei-6950-1981-11-04"}
+],
+"controle": []
+}

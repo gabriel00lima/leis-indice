@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1987/del-2357-1987-08-28",
+"urn": "urn:lex:br:federal:decreto.lei:1987-08-28;2357",
+"consultado_em": "2026-11-06",
+"codigo": "527327",
+"nome": "Decreto-Lei nº 2.357 de 28/08/1987",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1987-08-31", "descricao": "Publicação Original [Diário Oficial da União de 31/08/1987] (p. 13942, col. 2)"}
+],
+"alteracoes": [
+{"data": "1987-10-27", "nome": "Decreto-Lei nº 2.365 de 27/10/1987", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}], "id": "federal/decretos-lei/1987/del-2365-1987-10-27"},
+{"data": "1987-11-17", "nome": "Decreto-Lei nº 2.370 de 17/11/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2370-1987-11-17"},
+{"data": "1987-11-18", "nome": "Decreto-Lei nº 2.371 de 18/11/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2371-1987-11-18"},
+{"data": "1988-08-26", "nome": "Decreto Legislativo nº 37 de 26/08/1988", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "2016-12-29", "nome": "Medida Provisória nº 765 de 29/12/2016", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

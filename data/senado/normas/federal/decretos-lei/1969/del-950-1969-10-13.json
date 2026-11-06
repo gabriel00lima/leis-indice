@@ -1,0 +1,20 @@
+{
+"id": "federal/decretos-lei/1969/del-950-1969-10-13",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-13;950",
+"consultado_em": "2026-11-06",
+"codigo": "524525",
+"nome": "Decreto-Lei nº 950 de 13/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-17", "descricao": "Publicação Original [Diário Oficial da União de 17/10/1969] (p. 8802, col. 1)"}
+],
+"alteracoes": [
+{"data": "1970-02-13", "nome": "Decreto nº 66.204 de 13/02/1970", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1990-12-18", "nome": "Decreto Legislativo nº 66 de 18/12/1990", "tipo": "Ratificação Permanente", "dispositivos": []},
+{"data": "1993-08-16", "nome": "Decreto nº 895 de 16/08/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-03-08", "nome": "Decreto nº 1.080 de 08/03/1994", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2010-07-02", "nome": "Medida Provisória nº 494 de 02/07/2010", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2010-12-01", "nome": "Lei nº 12.340 de 01/12/2010", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2010/lei-12340-2010-12-01"}
+],
+"controle": []
+}

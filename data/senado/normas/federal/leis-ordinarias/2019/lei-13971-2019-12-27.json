@@ -1,0 +1,25 @@
+{
+"id": "federal/leis-ordinarias/2019/lei-13971-2019-12-27",
+"urn": "urn:lex:br:federal:lei:2019-12-27;13971",
+"consultado_em": "2026-11-06",
+"codigo": "31885203",
+"nome": "Lei nº 13.971 de 27/12/2019",
+"apelidos": [
+"Plano Plurianual - PPA (2020-2023)"
+],
+"publicacoes": [
+{"tipo": "ANX", "data": "2019-12-30", "descricao": "Publicação Original de Anexo (003 - Anexo III) [Diário Oficial da União de 30/12/2019] (p. 76, col. 1)"},
+{"tipo": "ANX", "data": "2019-12-30", "descricao": "Publicação Original de Anexo (002 - Anexo II) [Diário Oficial da União de 30/12/2019] (p. 74, col. 1)"},
+{"tipo": "ANX", "data": "2019-12-30", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União de 30/12/2019] (p. 4, col. 1)"},
+{"tipo": "ANX", "data": "2019-12-30", "descricao": "Publicação Original de Anexo (004 - Anexo IV) [Diário Oficial da União de 30/12/2019] (p. 93, col. 1)"},
+{"tipo": "PUB", "data": "2019-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/2019] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2019-12-27", "nome": "Mensagem de Veto Parcial nº 743 de 27/12/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-12-27", "nome": "Mensagem de Veto Parcial nº 743 de 27/12/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 7", "art": "3", "acao": "veto"}]},
+{"data": "2020-04-15", "nome": "Decreto nº 10.321 de 15/04/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2021-08-17", "nome": "Decreto nº 10.770 de 17/08/2021", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 10, Parágrafo Único", "art": "10", "acao": "correlato"}]},
+{"data": "2021-11-11", "nome": "Lei nº 14.235 de 11/11/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2021/lei-14235-2021-11-11"}
+],
+"controle": []
+}

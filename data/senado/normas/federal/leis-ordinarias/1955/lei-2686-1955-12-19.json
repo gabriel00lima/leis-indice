@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1955/lei-2686-1955-12-19",
+"urn": "urn:lex:br:federal:lei:1955-12-19;2686",
+"consultado_em": "2026-11-06",
+"codigo": "544502",
+"nome": "Lei nº 2.686 de 19/12/1955",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1955-12-19", "descricao": "Publicação Original [Diário Oficial da União de 19/12/1955] (p. 23079, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-11-14", "nome": "Decreto-Lei nº 29 de 14/11/1966", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "revogou"}], "id": "federal/decretos-lei/1966/del-29-1966-11-14"}
+],
+"controle": []
+}

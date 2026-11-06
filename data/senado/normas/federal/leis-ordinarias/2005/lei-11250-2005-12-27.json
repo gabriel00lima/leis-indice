@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2005/lei-11250-2005-12-27",
+"urn": "urn:lex:br:federal:lei:2005-12-27;11250",
+"consultado_em": "2026-11-06",
+"codigo": "572789",
+"nome": "Lei nº 11.250 de 27/12/2005",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2005-12-28", "descricao": "Publicação Original [Diário Oficial da União de 28/12/2005] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2014-10-07", "nome": "Medida Provisória nº 656 de 07/10/2014", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2024-06-04", "nome": "Medida Provisória nº 1.227 de 04/06/2024", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 4", "art": "1", "acao": "acrescentou"}]}
+],
+"controle": []
+}

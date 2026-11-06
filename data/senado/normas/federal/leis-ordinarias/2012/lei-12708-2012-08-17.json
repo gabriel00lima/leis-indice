@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2012/lei-12708-2012-08-17",
+"urn": "urn:lex:br:federal:lei:2012-08-17;12708",
+"consultado_em": "2026-11-06",
+"codigo": "588084",
+"nome": "Lei nº 12.708 de 17/08/2012",
+"apelidos": [
+"Lei de Diretrizes Orçamentárias (LDO) (2013)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2012-08-17", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 17/08/2012] (p. 1, col. 1)"},
+{"tipo": "REP", "data": "2012-08-21", "descricao": "Republicação Integral (Seq. 1) [Diário Oficial da União de 21/08/2012] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2013-04-02", "nome": "Lei nº 12.795 de 02/04/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 16", "art": "16", "acao": "vigência determinada"}, {"dispositivo": "Art. 76, § 11", "art": "76", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2013/lei-12795-2013-04-02"},
+{"data": "2013-12-18", "nome": "Lei nº 12.901 de 18/12/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 4", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Anexo 4", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12901-2013-12-18"}
+],
+"controle": []
+}

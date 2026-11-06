@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1184-1950-08-30",
+"urn": "urn:lex:br:federal:lei:1950-08-30;1184",
+"consultado_em": "2026-11-06",
+"codigo": "542810",
+"nome": "Lei nº 1.184 de 30/08/1950",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-09-01", "descricao": "Publicação Original [Diário Oficial da União de 01/09/1950] (p. 12961, col. 1)"}
+],
+"alteracoes": [
+{"data": "1962-04-10", "nome": "Decreto do Conselho de MInistros nº 880 de 10/04/1962", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 13", "art": "13", "acao": "correlato"}, {"dispositivo": "Art. 14", "art": "14", "acao": "correlato"}]},
+{"data": "1965-06-29", "nome": "Lei nº 4.712 de 29/06/1965", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4712-1965-06-29"},
+{"data": "1965-11-05", "nome": "Lei nº 4.829 de 05/11/1965", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4829-1965-11-05"},
+{"data": "1966-09-28", "nome": "Lei nº 5.122 de 28/09/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5122-1966-09-28"},
+{"data": "1967-01-18", "nome": "Lei nº 5.227 de 18/01/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1967/lei-5227-1967-01-18"}
+],
+"controle": []
+}

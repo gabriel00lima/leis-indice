@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10447-2002-05-09",
+"urn": "urn:lex:br:federal:lei:2002-05-09;10447",
+"consultado_em": "2026-11-06",
+"codigo": "552323",
+"nome": "Lei nº 10.447 de 09/05/2002",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-05-10", "descricao": "Publicação Original [Diário Oficial da União de 10/05/2002] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2022-06-30", "nome": "Lei nº 14.387 de 30/06/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Ementa", "art": null, "acao": "alterou"}, {"dispositivo": "Art. 1-A, caput", "art": "1-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14387-2022-06-30"}
+],
+"controle": []
+}

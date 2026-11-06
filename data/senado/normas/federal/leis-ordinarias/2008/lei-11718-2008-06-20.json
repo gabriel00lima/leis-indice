@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11718-2008-06-20",
+"urn": "urn:lex:br:federal:lei:2008-06-20;11718",
+"consultado_em": "2026-11-06",
+"codigo": "582140",
+"nome": "Lei nº 11.718 de 20/06/2008",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-06-23", "descricao": "Publicação Original [Diário Oficial da União de 23/06/2008] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2008-09-17", "nome": "Lei nº 11.775 de 17/09/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}], "id": "federal/leis-ordinarias/2008/lei-11775-2008-09-17"},
+{"data": "2023-03-22", "nome": "Medida Provisória nº 1.166 de 22/03/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 11, caput", "art": "11", "acao": "revogou"}]},
+{"data": "2023-07-20", "nome": "Lei nº 14.628 de 20/07/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11, caput", "art": "11", "acao": "revogou"}], "id": "federal/leis-ordinarias/2023/lei-14628-2023-07-20"},
+{"data": "2024-09-09", "nome": "Lei nº 14.967 de 09/09/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}], "id": "federal/leis-ordinarias/2024/lei-14967-2024-09-09"}
+],
+"controle": []
+}

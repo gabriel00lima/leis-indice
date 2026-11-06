@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1961/lei-3972-1961-10-13",
+"urn": "urn:lex:br:federal:lei:1961-10-13;3972",
+"consultado_em": "2026-11-06",
+"codigo": "545804",
+"nome": "Lei nº 3.972 de 13/10/1961",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1961-10-16", "descricao": "Publicação Original [Diário Oficial da União de 16/10/1961] (p. 9125, col. 1)"}
+],
+"alteracoes": [
+{"data": "1965-06-22", "nome": "Lei nº 4.696 de 22/06/1965", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4696-1965-06-22"},
+{"data": "1970-06-25", "nome": "Lei nº 5.583 de 25/06/1970", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1970/lei-5583-1970-06-25"},
+{"data": "1975-02-25", "nome": "Decreto-Lei nº 1.393 de 25/02/1975", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "revogou"}], "id": "federal/decretos-lei/1975/del-1393-1975-02-25"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-484-1969-03-03",
+"urn": "urn:lex:br:federal:decreto.lei:1969-03-03;484",
+"consultado_em": "2026-11-06",
+"codigo": "523604",
+"nome": "Decreto-Lei nº 484 de 03/03/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-03-04", "descricao": "Publicação Original [Diário Oficial da União de 04/03/1969] (p. 1873, col. 1)"}
+],
+"alteracoes": [
+{"data": "1970-07-03", "nome": "Lei nº 5.589 de 03/07/1970", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1970/lei-5589-1970-07-03"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-complementares/1987/lcp-56-1987-12-15",
+"urn": "urn:lex:br:federal:lei.complementar:1987-12-15;56",
+"consultado_em": "2026-11-06",
+"codigo": "540761",
+"nome": "Lei Complementar nº 56 de 15/12/1987",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1987-12-16", "descricao": "Publicação Original [Diário Oficial da União de 16/12/1987] (p. 21773, col. 1)"}
+],
+"alteracoes": [
+{"data": "2003-07-31", "nome": "Lei Complementar nº 116 de 31/07/2003", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-complementares/2003/lcp-116-2003-07-31"}
+],
+"controle": []
+}

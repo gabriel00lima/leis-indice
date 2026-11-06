@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2011/lei-12458-2011-07-26",
+"urn": "urn:lex:br:federal:lei:2011-07-26;12458",
+"consultado_em": "2026-11-06",
+"codigo": "584314",
+"nome": "Lei nº 12.458 de 26/07/2011",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2011-07-27", "descricao": "Publicação Original [Diário Oficial da União de 27/07/2011] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2019-12-11", "nome": "Lei nº 13.933 de 11/12/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2019/lei-13933-2019-12-11"}
+],
+"controle": []
+}

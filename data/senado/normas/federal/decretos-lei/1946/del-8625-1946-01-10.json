@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8625-1946-01-10",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-10;8625",
+"consultado_em": "2026-11-06",
+"codigo": "533662",
+"nome": "Decreto-Lei nº 8.625 de 10/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-12", "descricao": "Publicação Original [Diário Oficial da União de 12/01/1946] (p. 543, col. 4)"}
+],
+"alteracoes": [
+{"data": "1946-02-20", "nome": "Decreto-Lei nº 9.003 de 20/02/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9003-1946-02-20"}
+],
+"controle": []
+}

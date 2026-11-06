@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1980/lei-6803-1980-07-02",
+"urn": "urn:lex:br:federal:lei:1980-07-02;6803",
+"consultado_em": "2026-11-06",
+"codigo": "548679",
+"nome": "Lei nº 6.803 de 02/07/1980",
+"apelidos": [
+"Lei do Zoneamento Industrial na Áreas Críticas de Poluição (1980)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-07-03", "descricao": "Publicação Original [Diário Oficial da União de 03/07/1980] (p. 13210, col. 1)"},
+{"tipo": "RET", "data": "1980-07-08", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 08/07/1980] (p. 13585, col. 2)"}
+],
+"alteracoes": [
+{"data": "1989-07-18", "nome": "Lei nº 7.804 de 18/07/1989", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7804-1989-07-18"}
+],
+"controle": []
+}

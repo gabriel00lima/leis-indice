@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1946/del-8644-1946-01-11",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-11;8644",
+"consultado_em": "2026-11-06",
+"codigo": "533681",
+"nome": "Decreto-Lei nº 8.644 de 11/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-12", "descricao": "Publicação Original [Diário Oficial da União de 12/01/1946] (p. 549, col. 2)"}
+],
+"alteracoes": [
+{"data": "1946-09-06", "nome": "Decreto-Lei nº 9.763 de 06/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9763-1946-09-06"},
+{"data": "1948-09-24", "nome": "Lei nº 406 de 24/09/1948", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1948/lei-406-1948-09-24"},
+{"data": "1966-11-18", "nome": "Decreto-Lei nº 37 de 18/11/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1966/del-37-1966-11-18"}
+],
+"controle": []
+}

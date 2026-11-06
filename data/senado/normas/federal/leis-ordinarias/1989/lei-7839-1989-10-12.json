@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7839-1989-10-12",
+"urn": "urn:lex:br:federal:lei:1989-10-12;7839",
+"consultado_em": "2026-11-06",
+"codigo": "549715",
+"nome": "Lei nº 7.839 de 12/10/1989",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-10-13", "descricao": "Publicação Original [Diário Oficial da União de 13/10/1989] (p. 18484, col. 1)"},
+{"tipo": "RET", "data": "1989-10-18", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 18/10/1989] (p. 18721, col. 2)"}
+],
+"alteracoes": [
+{"data": "1990-01-10", "nome": "Decreto nº 98.813 de 10/01/1990", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1990-03-15", "nome": "Medida Provisória nº 150 de 15/03/1990", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1990-04-12", "nome": "Lei nº 8.028 de 12/04/1990", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1990/lei-8028-1990-04-12"},
+{"data": "1990-04-12", "nome": "Medida Provisória nº 177 de 12/04/1990", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1990-05-11", "nome": "Lei nº 8.036 de 11/05/1990", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1990/lei-8036-1990-05-11"}
+],
+"controle": []
+}

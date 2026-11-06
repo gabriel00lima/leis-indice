@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2019/lei-13903-2019-11-19",
+"urn": "urn:lex:br:federal:lei:2019-11-19;13903",
+"consultado_em": "2026-11-06",
+"codigo": "31750339",
+"nome": "Lei nº 13.903 de 19/11/2019",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2019-11-20", "descricao": "Publicação Original [Diário Oficial da União de 20/11/2019] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2020-12-24", "nome": "Decreto nº 10.589 de 24/12/2020", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2025-01-02", "nome": "Lei nº 15.083 de 02/01/2025", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2025/lei-15083-2025-01-02"},
+{"data": "2025-01-02", "nome": "Lei nº 15.083 de 02/01/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8-A, caput", "art": "8-a", "acao": "acrescentou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 14-A, caput", "art": "14-a", "acao": "acrescentou"}, {"dispositivo": "Art. 14-A, § 1", "art": "14-a", "acao": "acrescentou"}, {"dispositivo": "Art. 14-A, § 2", "art": "14-a", "acao": "acrescentou"}, {"dispositivo": "Art. 14-B, caput", "art": "14-b", "acao": "acrescentou"}, {"dispositivo": "Art. 14-B, § 1", "art": "14-b", "acao": "acrescentou"}, {"dispositivo": "Art. 14-B, § 2", "art": "14-b", "acao": "acrescentou"}, {"dispositivo": "Art. 14-C, caput", "art": "14-c", "acao": "acrescentou"}, {"dispositivo": "Art. 14-C, Parágrafo Único", "art": "14-c", "acao": "acrescentou"}, {"dispositivo": "Art. 14-D, caput", "art": "14-d", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2025/lei-15083-2025-01-02"}
+],
+"controle": []
+}

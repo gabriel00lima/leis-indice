@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1990/lei-8074-1990-07-31",
+"urn": "urn:lex:br:federal:lei:1990-07-31;8074",
+"consultado_em": "2026-11-06",
+"codigo": "549950",
+"nome": "Lei nº 8.074 de 31/07/1990",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1990-08-01", "descricao": "Publicação Original [Diário Oficial da União de 01/08/1990] (p. 14631, col. 1)"}
+],
+"alteracoes": [
+{"data": "1991-06-18", "nome": "Lei nº 8.193 de 18/06/1991", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11, caput, Inciso 1", "art": "11", "acao": "alterou"}], "id": "federal/leis-ordinarias/1991/lei-8193-1991-06-18"}
+],
+"controle": []
+}

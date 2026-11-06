@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1969/del-668-1969-07-03",
+"urn": "urn:lex:br:federal:decreto.lei:1969-07-03;668",
+"consultado_em": "2026-11-06",
+"codigo": "523963",
+"nome": "Decreto-Lei nº 668 de 03/07/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-07-04", "descricao": "Publicação Original [Diário Oficial da União de 04/07/1969] (p. 5649, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-09-04", "nome": "Ato Complementar nº 63 de 04/09/1969", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1970-12-03", "nome": "Lei nº 5.636 de 03/12/1970", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1970/lei-5636-1970-12-03"},
+{"data": "1971-12-16", "nome": "Lei nº 5.764 de 16/12/1971", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5764-1971-12-16"},
+{"data": "1977-04-26", "nome": "Resolução do Senado Federal nº 9 de 26/04/1977", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

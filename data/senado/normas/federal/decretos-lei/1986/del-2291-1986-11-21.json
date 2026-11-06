@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1986/del-2291-1986-11-21",
+"urn": "urn:lex:br:federal:decreto.lei:1986-11-21;2291",
+"consultado_em": "2026-11-06",
+"codigo": "527195",
+"nome": "Decreto-Lei nº 2.291 de 21/11/1986",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-11-24", "descricao": "Publicação Original [Diário Oficial da União de 24/11/1986] (p. 17554, col. 2)"}
+],
+"alteracoes": [
+{"data": "1988-01-05", "nome": "Decreto-Lei nº 2.406 de 05/01/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}], "id": "federal/decretos-lei/1988/del-2406-1988-01-05"},
+{"data": "1989-10-12", "nome": "Lei nº 7.839 de 12/10/1989", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7839-1989-10-12"},
+{"data": "2021-09-17", "nome": "Decreto nº 10.802 de 17/09/2021", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "correlato"}]}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2001/lei-10192-2001-02-14",
+"urn": "urn:lex:br:federal:lei:2001-02-14;10192",
+"consultado_em": "2026-11-06",
+"codigo": "552068",
+"nome": "Lei nº 10.192 de 14/02/2001",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2001-02-16", "descricao": "Publicação Original [Diário Oficial da União de 16/02/2001] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2001-09-04", "nome": "Medida Provisória nº 2.223 de 04/09/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 5", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 6", "art": "2", "acao": "alterou"}]},
+{"data": "2002-08-26", "nome": "Medida Provisória nº 64 de 26/08/2002", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "ressalvou"}]},
+{"data": "2021-12-29", "nome": "Lei nº 14.286 de 29/12/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único, Inciso 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2021/lei-14286-2021-12-29"}
+],
+"controle": []
+}

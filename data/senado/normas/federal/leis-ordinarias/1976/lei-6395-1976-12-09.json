@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1976/lei-6395-1976-12-09",
+"urn": "urn:lex:br:federal:lei:1976-12-09;6395",
+"consultado_em": "2026-11-06",
+"codigo": "548271",
+"nome": "Lei nº 6.395 de 09/12/1976",
+"apelidos": [
+"Lei Orçamentária Anual (LOA) (1977)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1976-12-13", "descricao": "Publicação Original [Diário Oficial da União de 13/12/1976] (p. 16163, col. 1)"}
+],
+"alteracoes": [
+{"data": "1976-12-23", "nome": "Decreto-Lei nº 1.508 de 23/12/1976", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1976/del-1508-1976-12-23"},
+{"data": "1977-11-01", "nome": "Lei nº 6.459 de 01/11/1977", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1977/lei-6459-1977-11-01"},
+{"data": "1977-11-08", "nome": "Decreto nº 80.676 de 08/11/1977", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

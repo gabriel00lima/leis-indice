@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6453-1977-10-17",
+"urn": "urn:lex:br:federal:lei:1977-10-17;6453",
+"consultado_em": "2026-11-06",
+"codigo": "548329",
+"nome": "Lei nº 6.453 de 17/10/1977",
+"apelidos": [
+"Lei das Atividades Nucleares (1977)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-10-18", "descricao": "Publicação Original [Diário Oficial da União de 18/10/1977] (p. 13957, col. 2)"}
+],
+"alteracoes": [
+{"data": "2021-05-14", "nome": "Medida Provisória nº 1.049 de 14/05/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 13, § 1", "art": "13", "acao": "alterou"}, {"dispositivo": "Art. 13, § 5", "art": "13", "acao": "alterou"}]},
+{"data": "2021-10-15", "nome": "Lei nº 14.222 de 15/10/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 13, § 1", "art": "13", "acao": "alterou"}, {"dispositivo": "Art. 13, § 5", "art": "13", "acao": "alterou"}], "id": "federal/leis-ordinarias/2021/lei-14222-2021-10-15"}
+],
+"controle": []
+}

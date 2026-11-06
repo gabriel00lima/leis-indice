@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10408-2002-01-10",
+"urn": "urn:lex:br:federal:lei:2002-01-10;10408",
+"consultado_em": "2026-11-06",
+"codigo": "552284",
+"nome": "Lei nº 10.408 de 10/01/2002",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-01-11", "descricao": "Publicação Original [Diário Oficial da União de 11/01/2002] (p. 84, col. 1)"}
+],
+"alteracoes": [
+{"data": "2003-10-01", "nome": "Lei nº 10.740 de 01/10/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}], "id": "federal/leis-ordinarias/2003/lei-10740-2003-10-01"}
+],
+"controle": []
+}

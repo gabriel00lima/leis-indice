@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5553-1968-12-06",
+"urn": "urn:lex:br:federal:lei:1968-12-06;5553",
+"consultado_em": "2026-11-06",
+"codigo": "547423",
+"nome": "Lei nº 5.553 de 06/12/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-12-10", "descricao": "Publicação Original [Diário Oficial da União de 10/12/1968] (p. 10665, col. 1)"}
+],
+"alteracoes": [
+{"data": "1997-03-20", "nome": "Lei nº 9.453 de 20/03/1997", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/1997/lei-9453-1997-03-20"}
+],
+"controle": []
+}

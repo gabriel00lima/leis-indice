@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10457-2002-05-14",
+"urn": "urn:lex:br:federal:lei:2002-05-14;10457",
+"consultado_em": "2026-11-06",
+"codigo": "552333",
+"nome": "Lei nº 10.457 de 14/05/2002",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-05-15", "descricao": "Publicação Original [Diário Oficial da União de 15/05/2002] (p. 4, col. 1)"}
+],
+"alteracoes": [
+{"data": "2018-12-27", "nome": "Lei nº 13.784 de 27/12/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Ementa", "art": null, "acao": "alterou"}, {"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2018/lei-13784-2018-12-27"}
+],
+"controle": []
+}

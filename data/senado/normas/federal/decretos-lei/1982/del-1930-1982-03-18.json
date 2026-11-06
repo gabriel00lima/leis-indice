@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1982/del-1930-1982-03-18",
+"urn": "urn:lex:br:federal:decreto.lei:1982-03-18;1930",
+"consultado_em": "2026-11-06",
+"codigo": "526469",
+"nome": "Decreto-Lei nº 1.930 de 18/03/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-03-19", "descricao": "Publicação Original [Diário Oficial da União de 19/03/1982] (p. 4785, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-09-22", "nome": "Decreto Legislativo nº 87 de 22/09/1982", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

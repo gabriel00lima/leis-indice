@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1996/lei-9295-1996-07-19",
+"urn": "urn:lex:br:federal:lei:1996-07-19;9295",
+"consultado_em": "2026-11-06",
+"codigo": "551171",
+"nome": "Lei nº 9.295 de 19/07/1996",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1996-07-20", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 20/07/1996 - nº 139-A] (p. 13477, col. 1)"},
+{"tipo": "RET", "data": "1996-08-06", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 06/08/1996] (p. 14681, col. 1)"}
+],
+"alteracoes": [
+{"data": "1997-07-16", "nome": "Lei nº 9.472 de 16/07/1997", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 8, § 1", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 8, § 4", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 14", "art": "14", "acao": "revogou"}], "id": "federal/leis-ordinarias/1997/lei-9472-1997-07-16"},
+{"data": "2026-01-06", "nome": "Lei nº 15.324 de 06/01/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11, caput", "art": "11", "acao": "alterou"}], "id": "federal/leis-ordinarias/2026/lei-15324-2026-01-06"}
+],
+"controle": []
+}

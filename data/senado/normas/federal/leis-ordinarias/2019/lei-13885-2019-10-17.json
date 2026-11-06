@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2019/lei-13885-2019-10-17",
+"urn": "urn:lex:br:federal:lei:2019-10-17;13885",
+"consultado_em": "2026-11-06",
+"codigo": "31591283",
+"nome": "Lei nº 13.885 de 17/10/2019",
+"apelidos": [
+"Lei da CIDE-Combustíveis (2019)"
+],
+"publicacoes": [
+{"tipo": "ANX", "data": "2019-10-17", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União de 17/10/2019] (p. 1, col. 2)"},
+{"tipo": "PUB", "data": "2019-10-17", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 17/10/2019 - nº 202-B] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2020-12-29", "nome": "Lei Complementar nº 176 de 29/12/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 4", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-complementares/2020/lcp-176-2020-12-29"},
+{"data": "2020-12-29", "nome": "Lei Complementar nº 176 de 29/12/2020", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/2020/lcp-176-2020-12-29"}
+],
+"controle": []
+}

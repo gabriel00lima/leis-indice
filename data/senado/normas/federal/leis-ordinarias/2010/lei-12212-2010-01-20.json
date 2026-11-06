@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2010/lei-12212-2010-01-20",
+"urn": "urn:lex:br:federal:lei:2010-01-20;12212",
+"consultado_em": "2026-11-06",
+"codigo": "575854",
+"nome": "Lei nº 12.212 de 20/01/2010",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2010-01-21", "descricao": "Publicação Original [Diário Oficial da União de 21/01/2010] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2020-04-08", "nome": "Medida Provisória nº 950 de 08/04/2020", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1-A, caput", "art": "1-a", "acao": "acrescentou"}, {"dispositivo": "Art. 1-A, caput, Inciso 1", "art": "1-a", "acao": "acrescentou"}, {"dispositivo": "Art. 1-A, caput, Inciso 2", "art": "1-a", "acao": "acrescentou"}]},
+{"data": "2021-09-10", "nome": "Lei nº 14.203 de 10/09/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, Parágrafo Único", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2021/lei-14203-2021-09-10"},
+{"data": "2025-05-21", "nome": "Medida Provisória nº 1.300 de 21/05/2025", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 3", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 1, caput, Inciso 4", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2, § 4", "art": "2", "acao": "alterou"}]},
+{"data": "2025-10-08", "nome": "Lei nº 15.235 de 08/10/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 3", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 1, caput, Inciso 4", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2, § 4", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2025/lei-15235-2025-10-08"},
+{"data": "2026-08-12", "nome": "Decreto nº 13.097 de 12/08/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "ressalvou"}]}
+],
+"controle": []
+}

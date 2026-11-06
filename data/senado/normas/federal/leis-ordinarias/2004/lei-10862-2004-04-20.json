@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/2004/lei-10862-2004-04-20",
+"urn": "urn:lex:br:federal:lei:2004-04-20;10862",
+"consultado_em": "2026-11-06",
+"codigo": "552738",
+"nome": "Lei nº 10.862 de 20/04/2004",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2004-04-22", "descricao": "Publicação Original [Diário Oficial da União de 22/04/2004] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2004-05-20", "nome": "Decreto nº 5.088 de 20/05/2004", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "regulamentou"}]},
+{"data": "2004-09-15", "nome": "Decreto nº 5.206 de 15/09/2004", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "regulamentou"}]},
+{"data": "2005-12-15", "nome": "Medida Provisória nº 269 de 15/12/2005", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}]},
+{"data": "2005-12-22", "nome": "Lei nº 11.233 de 22/12/2005", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9, § 1", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 9-A", "art": "9-a", "acao": "alterou"}, {"dispositivo": "Art. 9-B", "art": "9-b", "acao": "alterou"}, {"dispositivo": "Art. 20", "art": "20", "acao": "alterou"}, {"dispositivo": "Art. 21", "art": "21", "acao": "alterou"}, {"dispositivo": "Art. 25", "art": "25", "acao": "alterou"}], "id": "federal/leis-ordinarias/2005/lei-11233-2005-12-22"},
+{"data": "2006-04-26", "nome": "Lei nº 11.292 de 26/04/2006", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}], "id": "federal/leis-ordinarias/2006/lei-11292-2006-04-26"},
+{"data": "2006-07-04", "nome": "Medida Provisória nº 309 de 04/07/2006", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}]},
+{"data": "2006-10-19", "nome": "Lei nº 11.362 de 19/10/2006", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2006/lei-11362-2006-10-19"},
+{"data": "2008-06-04", "nome": "Medida Provisória nº 434 de 04/06/2008", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2008-09-17", "nome": "Lei nº 11.776 de 17/09/2008", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2008/lei-11776-2008-09-17"}
+],
+"controle": []
+}

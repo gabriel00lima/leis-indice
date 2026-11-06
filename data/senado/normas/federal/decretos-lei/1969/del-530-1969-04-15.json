@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1969/del-530-1969-04-15",
+"urn": "urn:lex:br:federal:decreto.lei:1969-04-15;530",
+"consultado_em": "2026-11-06",
+"codigo": "523695",
+"nome": "Decreto-Lei nº 530 de 15/04/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-04-15", "descricao": "Publicação Original [Diário Oficial da União de 15/04/1969] (p. 3169, col. 1)"}
+],
+"alteracoes": [
+{"data": "1971-12-03", "nome": "Lei nº 5.758 de 03/12/1971", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5758-1971-12-03"},
+{"data": "2012-06-25", "nome": "Lei nº 12.677 de 25/06/2012", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2012/lei-12677-2012-06-25"}
+],
+"controle": []
+}

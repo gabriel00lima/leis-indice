@@ -1,0 +1,25 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7913-1989-12-07",
+"urn": "urn:lex:br:federal:lei:1989-12-07;7913",
+"consultado_em": "2026-11-06",
+"codigo": "549789",
+"nome": "Lei nº 7.913 de 07/12/1989",
+"apelidos": [
+"Lei dos Crimes contra Investidores (1989)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-12-11", "descricao": "Publicação Original [Diário Oficial da União de 11/12/1989] (p. 22642, col. 2)"},
+{"tipo": "REP", "data": "1989-12-12", "descricao": "Republicação Integral (Seq. 1) [Diário Oficial da União de 12/12/1989] (p. 22802, col. 2)"}
+],
+"alteracoes": [
+{"data": "1994-10-31", "nome": "Medida Provisória nº 683 de 31/10/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "alterou"}]},
+{"data": "1994-11-09", "nome": "Decreto nº 1.306 de 09/11/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-11-30", "nome": "Medida Provisória nº 735 de 30/11/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "alterou"}]},
+{"data": "1994-12-28", "nome": "Medida Provisória nº 788 de 28/12/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "alterou"}]},
+{"data": "1995-01-26", "nome": "Medida Provisória nº 854 de 26/01/1995", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "alterou"}]},
+{"data": "1995-02-24", "nome": "Medida Provisória nº 913 de 24/02/1995", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "alterou"}]},
+{"data": "1995-03-21", "nome": "Lei nº 9.008 de 21/03/1995", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1995/lei-9008-1995-03-21"},
+{"data": "2021-08-26", "nome": "Lei nº 14.195 de 26/08/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2021/lei-14195-2021-08-26"}
+],
+"controle": []
+}

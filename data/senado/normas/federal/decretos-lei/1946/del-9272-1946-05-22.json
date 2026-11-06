@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1946/del-9272-1946-05-22",
+"urn": "urn:lex:br:federal:decreto.lei:1946-05-22;9272",
+"consultado_em": "2026-11-06",
+"codigo": "534311",
+"nome": "Decreto-Lei nº 9.272 de 22/05/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-05-24", "descricao": "Publicação Original [Diário Oficial da União de 24/05/1946] (p. 7679, col. 2)"}
+],
+"alteracoes": [
+{"data": "1946-06-10", "nome": "Decreto-Lei nº 9.327 de 10/06/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9327-1946-06-10"},
+{"data": "1946-06-14", "nome": "Decreto-Lei nº 9.359 de 14/06/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9359-1946-06-14"},
+{"data": "1946-09-06", "nome": "Decreto-Lei nº 9.784 de 06/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9784-1946-09-06"},
+{"data": "1947-12-05", "nome": "Lei nº 164 de 05/12/1947", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

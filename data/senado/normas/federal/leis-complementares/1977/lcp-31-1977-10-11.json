@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-complementares/1977/lcp-31-1977-10-11",
+"urn": "urn:lex:br:federal:lei.complementar:1977-10-11;31",
+"consultado_em": "2026-11-06",
+"codigo": "540736",
+"nome": "Lei Complementar nº 31 de 11/10/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-10-12", "descricao": "Publicação Original [Diário Oficial da União de 12/10/1977] (p. 13729, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-04-25", "nome": "Decreto nº 81.601 de 25/04/1978", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 48", "art": "48", "acao": "regulamentou"}]},
+{"data": "1978-04-25", "nome": "Decreto-Lei nº 1.623 de 25/04/1978", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/decretos-lei/1978/del-1623-1978-04-25"},
+{"data": "1979-07-05", "nome": "Lei nº 6.674 de 05/07/1979", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6674-1979-07-05"},
+{"data": "2004-11-26", "nome": "Decreto de 26/11/2004", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 48", "art": "48", "acao": "regulamentou"}]}
+],
+"controle": []
+}

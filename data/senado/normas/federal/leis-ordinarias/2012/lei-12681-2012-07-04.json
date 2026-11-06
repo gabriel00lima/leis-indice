@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2012/lei-12681-2012-07-04",
+"urn": "urn:lex:br:federal:lei:2012-07-04;12681",
+"consultado_em": "2026-11-06",
+"codigo": "589604",
+"nome": "Lei nº 12.681 de 04/07/2012",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2012-07-05", "descricao": "Publicação Original [Diário Oficial da União de 05/07/2012] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2013-08-14", "nome": "Decreto nº 8.075 de 14/08/2013", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 5, § 1", "art": "5", "acao": "regulamentou"}]},
+{"data": "2018-01-09", "nome": "Lei nº 13.604 de 09/01/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 1", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 6, caput, Inciso 9", "art": "6", "acao": "acrescentou"}, {"dispositivo": "Art. 6, § 3", "art": "6", "acao": "acrescentou"}, {"dispositivo": "Art. 6, § 4", "art": "6", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2018/lei-13604-2018-01-09"},
+{"data": "2018-06-11", "nome": "Lei nº 13.675 de 11/06/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4, caput", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 8, caput", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 8, Parágrafo Único", "art": "8", "acao": "revogou"}], "id": "federal/leis-ordinarias/2018/lei-13675-2018-06-11"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1966/lei-5159-1966-10-21",
+"urn": "urn:lex:br:federal:lei:1966-10-21;5159",
+"consultado_em": "2026-11-06",
+"codigo": "547019",
+"nome": "Lei nº 5.159 de 21/10/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-10-25", "descricao": "Publicação Original [Diário Oficial da União de 25/10/1966] (p. 12300, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-01-11", "nome": "Decreto-Lei nº 101 de 11/01/1967", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1967/del-101-1967-01-11"}
+],
+"controle": []
+}

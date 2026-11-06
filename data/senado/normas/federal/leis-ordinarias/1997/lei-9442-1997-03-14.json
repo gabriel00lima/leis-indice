@@ -1,0 +1,27 @@
+{
+"id": "federal/leis-ordinarias/1997/lei-9442-1997-03-14",
+"urn": "urn:lex:br:federal:lei:1997-03-14;9442",
+"consultado_em": "2026-11-06",
+"codigo": "551318",
+"nome": "Lei nº 9.442 de 14/03/1997",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1997-03-15", "descricao": "Publicação Original [Diário Oficial da União de 15/03/1997] (p. 5193, col. 2)"}
+],
+"alteracoes": [
+{"data": "1998-05-12", "nome": "Lei nº 9.633 de 12/05/1998", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 3", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/1998/lei-9633-1998-05-12"},
+{"data": "1998-07-06", "nome": "Lei nº 9.687 de 06/07/1998", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1998/lei-9687-1998-07-06"},
+{"data": "2000-12-28", "nome": "Medida Provisória nº 2.131 de 28/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}]},
+{"data": "2001-01-26", "nome": "Medida Provisória nº 2.131-1 de 26/01/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}]},
+{"data": "2001-02-23", "nome": "Medida Provisória nº 2.131-2 de 23/02/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}]},
+{"data": "2001-03-27", "nome": "Medida Provisória nº 2.131-3 de 27/03/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}]},
+{"data": "2001-04-26", "nome": "Medida Provisória nº 2.131-4 de 26/04/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}]},
+{"data": "2001-05-24", "nome": "Medida Provisória nº 2.131-5 de 24/05/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}]},
+{"data": "2001-06-21", "nome": "Medida Provisória nº 2.131-6 de 21/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}]},
+{"data": "2001-06-28", "nome": "Medida Provisória nº 2.188-7 de 28/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}]},
+{"data": "2001-07-27", "nome": "Medida Provisória nº 2.188-8 de 27/07/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}]},
+{"data": "2001-08-24", "nome": "Medida Provisória nº 2.188-9 de 24/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}]},
+{"data": "2001-08-31", "nome": "Medida Provisória nº 2.215-10 de 31/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}]}
+],
+"controle": []
+}

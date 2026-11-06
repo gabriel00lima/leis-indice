@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2011/lei-12528-2011-11-18",
+"urn": "urn:lex:br:federal:lei:2011-11-18;12528",
+"consultado_em": "2026-11-06",
+"codigo": "584384",
+"nome": "Lei nº 12.528 de 18/11/2011",
+"apelidos": [
+"Lei da Comissão da Verdade (2011)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2011-11-18", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 18/11/2011] (p. 5, col. 1)"}
+],
+"alteracoes": [
+{"data": "2012-05-24", "nome": "Decreto nº 7.727 de 24/05/2012", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2013-02-14", "nome": "Decreto nº 7.919 de 14/02/2013", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2013-12-24", "nome": "Medida Provisória nº 632 de 24/12/2013", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}]},
+{"data": "2014-06-18", "nome": "Lei nº 12.998 de 18/06/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}], "id": "federal/leis-ordinarias/2014/lei-12998-2014-06-18"}
+],
+"controle": []
+}

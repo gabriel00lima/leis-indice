@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2014/lei-13049-2014-12-02",
+"urn": "urn:lex:br:federal:lei:2014-12-02;13049",
+"consultado_em": "2026-11-06",
+"codigo": "584861",
+"nome": "Lei nº 13.049 de 02/12/2014",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2014-12-03", "descricao": "Publicação Original [Diário Oficial da União de 03/12/2014] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2021-10-15", "nome": "Lei nº 14.221 de 15/10/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2021/lei-14221-2021-10-15"}
+],
+"controle": []
+}

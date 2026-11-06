@@ -1,0 +1,28 @@
+{
+"id": "federal/leis-ordinarias/1993/lei-8622-1993-01-19",
+"urn": "urn:lex:br:federal:lei:1993-01-19;8622",
+"consultado_em": "2026-11-06",
+"codigo": "550498",
+"nome": "Lei nº 8.622 de 19/01/1993",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-01-20", "descricao": "Publicação Original [Diário Oficial da União de 20/01/1993] (p. 792, col. 2)"},
+{"tipo": "RET", "data": "1993-01-21", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 21/01/1993] (p. 853, col. 1)"},
+{"tipo": "RET", "data": "1993-01-28", "descricao": "Retificação (Seq. 2) [Diário Oficial da União de 28/01/1993] (p. 1197, col. 1)"}
+],
+"alteracoes": [
+{"data": "1993-02-19", "nome": "Lei nº 8.627 de 19/02/1993", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 23", "art": "23", "acao": "alterou"}, {"dispositivo": "Art. 24", "art": "24", "acao": "alterou"}, {"dispositivo": "Art. 26", "art": "26", "acao": "alterou"}, {"dispositivo": "Art. 27", "art": "27", "acao": "alterou"}], "id": "federal/leis-ordinarias/1993/lei-8627-1993-02-19"},
+{"data": "2000-12-28", "nome": "Medida Provisória nº 2.131 de 28/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "2001-01-26", "nome": "Medida Provisória nº 2.131-1 de 26/01/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "2001-02-23", "nome": "Medida Provisória nº 2.131-2 de 23/02/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "2001-03-27", "nome": "Medida Provisória nº 2.131-3 de 27/03/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "2001-04-26", "nome": "Medida Provisória nº 2.131-4 de 26/04/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "2001-05-24", "nome": "Medida Provisória nº 2.131-5 de 24/05/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "2001-06-21", "nome": "Medida Provisória nº 2.131-6 de 21/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "2001-06-28", "nome": "Medida Provisória nº 2.188-7 de 28/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "2001-07-27", "nome": "Medida Provisória nº 2.188-8 de 27/07/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "2001-08-24", "nome": "Medida Provisória nº 2.188-9 de 24/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "2001-08-31", "nome": "Medida Provisória nº 2.215-10 de 31/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6496-1977-12-07",
+"urn": "urn:lex:br:federal:lei:1977-12-07;6496",
+"consultado_em": "2026-11-06",
+"codigo": "548372",
+"nome": "Lei nº 6.496 de 07/12/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-12-09", "descricao": "Publicação Original [Diário Oficial da União de 09/12/1977] (p. 16871, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-05-26", "nome": "Lei nº 6.994 de 26/05/1982", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-6994-1982-05-26"},
+{"data": "1983-03-08", "nome": "Decreto nº 88.147 de 08/03/1983", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2010-12-31", "nome": "Lei nº 12.378 de 31/12/2010", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2010/lei-12378-2010-12-31"}
+],
+"controle": []
+}

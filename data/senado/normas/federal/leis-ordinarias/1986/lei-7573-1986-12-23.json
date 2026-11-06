@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1986/lei-7573-1986-12-23",
+"urn": "urn:lex:br:federal:lei:1986-12-23;7573",
+"consultado_em": "2026-11-06",
+"codigo": "549449",
+"nome": "Lei nº 7.573 de 23/12/1986",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/1986] (p. 19930, col. 2)"}
+],
+"alteracoes": [
+{"data": "1987-06-29", "nome": "Decreto nº 94.536 de 29/06/1987", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2015-11-24", "nome": "Lei nº 13.194 de 24/11/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 10, caput, Inciso 1", "art": "10", "acao": "revogou"}, {"dispositivo": "Art. 10, caput, Inciso 2", "art": "10", "acao": "revogou"}, {"dispositivo": "Art. 10, caput, Inciso 3", "art": "10", "acao": "revogou"}, {"dispositivo": "Art. 10, Parágrafo Único", "art": "10", "acao": "revogou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 12-A", "art": "12-a", "acao": "acrescentou"}, {"dispositivo": "Art. 12-B", "art": "12-b", "acao": "acrescentou"}, {"dispositivo": "Art. 14", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 16-A", "art": "16-a", "acao": "acrescentou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "alterou"}], "id": "federal/leis-ordinarias/2015/lei-13194-2015-11-24"}
+],
+"controle": [
+{"data": "2019-09-12", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.760 de 12/09/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 16-A", "art": "16-a", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}], "decisao": {"classe": "ADI", "numero": "5760"}}
+]
+}

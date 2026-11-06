@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2022/lei-14448-2022-09-09",
+"urn": "urn:lex:br:federal:lei:2022-09-09;14448",
+"consultado_em": "2026-11-06",
+"codigo": "36348550",
+"nome": "Lei nº 14.448 de 09/09/2022",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2022-09-12", "descricao": "Publicação Original [Diário Oficial da União de 12/09/2022] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2024-07-31", "nome": "Lei nº 14.942 de 31/07/2024", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14942-2024-07-31"},
+{"data": "2024-07-31", "nome": "Lei nº 14.942 de 31/07/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, Parágrafo Único, apenas o Caput", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, Parágrafo Único, Inciso 1", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, Parágrafo Único, Inciso 2", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, Parágrafo Único, Inciso 3", "art": "3", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2024/lei-14942-2024-07-31"}
+],
+"controle": []
+}

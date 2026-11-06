@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2003/lei-10650-2003-04-16",
+"urn": "urn:lex:br:federal:lei:2003-04-16;10650",
+"consultado_em": "2026-11-06",
+"codigo": "552526",
+"nome": "Lei nº 10.650 de 16/04/2003",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2003-04-17", "descricao": "Publicação Original [Diário Oficial da União de 17/04/2003] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "2003-04-22", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 22/04/2003] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2006-11-30", "nome": "Decreto nº 5.975 de 30/11/2006", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "regulamentou"}]}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4811-1965-10-25",
+"urn": "urn:lex:br:federal:lei:1965-10-25;4811",
+"consultado_em": "2026-11-06",
+"codigo": "546665",
+"nome": "Lei nº 4.811 de 25/10/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-10-29", "descricao": "Publicação Original [Diário Oficial da União de 29/10/1965] (p. 11113, col. 1)"}
+],
+"alteracoes": [
+{"data": "1972-07-06", "nome": "Lei nº 5.790 de 06/07/1972", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5790-1972-07-06"}
+],
+"controle": []
+}

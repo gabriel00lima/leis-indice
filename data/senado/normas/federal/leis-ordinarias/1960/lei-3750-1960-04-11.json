@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1960/lei-3750-1960-04-11",
+"urn": "urn:lex:br:federal:lei:1960-04-11;3750",
+"consultado_em": "2026-11-06",
+"codigo": "545568",
+"nome": "Lei nº 3.750 de 11/04/1960",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1960-04-12", "descricao": "Publicação Original [Diário Oficial da União de 12/04/1960] (p. 6905, col. 4)"}
+],
+"alteracoes": [
+{"data": "1964-10-29", "nome": "Lei nº 4.441 de 29/10/1964", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4441-1964-10-29"},
+{"data": "1969-10-01", "nome": "Decreto-Lei nº 904 de 01/10/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-904-1969-10-01"}
+],
+"controle": []
+}

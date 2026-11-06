@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9017-1995-03-30",
+"urn": "urn:lex:br:federal:lei:1995-03-30;9017",
+"consultado_em": "2026-11-06",
+"codigo": "550893",
+"nome": "Lei nº 9.017 de 30/03/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-03-31", "descricao": "Publicação Original [Diário Oficial da União de 31/03/1995] (p. 4575, col. 1)"},
+{"tipo": "RET", "data": "1995-04-13", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 13/04/1995] (p. 5291, col. 2)"}
+],
+"alteracoes": [
+{"data": "1995-09-26", "nome": "Decreto nº 1.646 de 26/09/1995", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2001-12-27", "nome": "Lei nº 10.357 de 27/12/2001", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "revogou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "revogou"}], "id": "federal/leis-ordinarias/2001/lei-10357-2001-12-27"},
+{"data": "2008-06-20", "nome": "Lei nº 11.718 de 20/06/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2008/lei-11718-2008-06-20"},
+{"data": "2015-12-08", "nome": "Lei nº 13.202 de 08/12/2015", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 17", "art": "17", "acao": "correlato"}], "id": "federal/leis-ordinarias/2015/lei-13202-2015-12-08"},
+{"data": "2024-09-09", "nome": "Lei nº 14.967 de 09/09/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14", "art": "14", "acao": "revogou"}, {"dispositivo": "Art. 15, caput", "art": "15", "acao": "revogou"}, {"dispositivo": "Art. 16, caput", "art": "16", "acao": "revogou"}, {"dispositivo": "Art. 20, caput", "art": "20", "acao": "revogou"}], "id": "federal/leis-ordinarias/2024/lei-14967-2024-09-09"}
+],
+"controle": []
+}

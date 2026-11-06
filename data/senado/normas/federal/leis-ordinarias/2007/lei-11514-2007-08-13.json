@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2007/lei-11514-2007-08-13",
+"urn": "urn:lex:br:federal:lei:2007-08-13;11514",
+"consultado_em": "2026-11-06",
+"codigo": "572666",
+"nome": "Lei nº 11.514 de 13/08/2007",
+"apelidos": [
+"Lei de Diretrizes Orçamentárias (LDO) (2008)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2007-08-14", "descricao": "Publicação Original [Diário Oficial da União de 14/08/2007] (p. 2, col. 3)"}
+],
+"alteracoes": [
+{"data": "2008-04-07", "nome": "Lei nº 11.653 de 07/04/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 20, § 1", "art": "20", "acao": "revogou"}, {"dispositivo": "Art. 20, § 3", "art": "20", "acao": "revogou"}], "id": "federal/leis-ordinarias/2008/lei-11653-2008-04-07"}
+],
+"controle": []
+}

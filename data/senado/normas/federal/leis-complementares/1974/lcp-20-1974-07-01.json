@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-complementares/1974/lcp-20-1974-07-01",
+"urn": "urn:lex:br:federal:lei.complementar:1974-07-01;20",
+"consultado_em": "2026-11-06",
+"codigo": "540725",
+"nome": "Lei Complementar nº 20 de 01/07/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-07-01", "descricao": "Publicação Original [Diário Oficial da União de 01/07/1974] (p. 7253, col. 1)"}
+],
+"alteracoes": [
+{"data": "1975-04-07", "nome": "Decreto nº 75.562 de 07/04/1975", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1975-06-11", "nome": "Decreto nº 75.846 de 11/06/1975", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1978-04-25", "nome": "Decreto-Lei nº 1.623 de 25/04/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1978/del-1623-1978-04-25"}
+],
+"controle": []
+}

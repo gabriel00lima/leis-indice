@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1976/lei-6403-1976-12-15",
+"urn": "urn:lex:br:federal:lei:1976-12-15;6403",
+"consultado_em": "2026-11-06",
+"codigo": "548279",
+"nome": "Lei nº 6.403 de 15/12/1976",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1976-12-16", "descricao": "Publicação Original [Diário Oficial da União de 16/12/1976] (p. 16355, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-09-24", "nome": "Lei nº 6.567 de 24/09/1978", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1978/lei-6567-1978-09-24"},
+{"data": "1982-12-21", "nome": "Lei nº 7.085 de 21/12/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7085-1982-12-21"}
+],
+"controle": []
+}

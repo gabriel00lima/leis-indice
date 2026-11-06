@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1969/del-1015-1969-10-21",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-21;1015",
+"consultado_em": "2026-11-06",
+"codigo": "524652",
+"nome": "Decreto-Lei nº 1.015 de 21/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-21", "descricao": "Publicação Original [Diário Oficial da União de 21/10/1969] (p. 8942, col. 3)"}
+],
+"alteracoes": [
+{"data": "1971-11-16", "nome": "Lei nº 5.733 de 16/11/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5733-1971-11-16"},
+{"data": "2002-07-04", "nome": "Lei nº 10.486 de 04/07/2002", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2002/lei-10486-2002-07-04"}
+],
+"controle": []
+}

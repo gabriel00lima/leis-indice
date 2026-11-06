@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2011/lei-12505-2011-10-11",
+"urn": "urn:lex:br:federal:lei:2011-10-11;12505",
+"consultado_em": "2026-11-06",
+"codigo": "584361",
+"nome": "Lei nº 12.505 de 11/10/2011",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2011-10-13", "descricao": "Publicação Original [Diário Oficial da União de 13/10/2011] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2013-08-02", "nome": "Lei nº 12.848 de 02/08/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Ementa", "art": null, "acao": "alterou"}, {"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, caput, Inciso 2", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2013/lei-12848-2013-08-02"},
+{"data": "2016-06-01", "nome": "Lei nº 13.293 de 01/06/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Ementa", "art": null, "acao": "alterou"}, {"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2, caput", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2016/lei-13293-2016-06-01"}
+],
+"controle": [
+{"data": "2022-05-27", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.869 de 27/05/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade de Parte do Texto"}], "decisao": {"classe": "ADI", "numero": "4869"}}
+]
+}

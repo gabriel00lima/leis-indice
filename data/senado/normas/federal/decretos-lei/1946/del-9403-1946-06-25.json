@@ -1,0 +1,20 @@
+{
+"id": "federal/decretos-lei/1946/del-9403-1946-06-25",
+"urn": "urn:lex:br:federal:decreto.lei:1946-06-25;9403",
+"consultado_em": "2026-11-06",
+"codigo": "534442",
+"nome": "Decreto-Lei nº 9.403 de 25/06/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-06-28", "descricao": "Publicação Original [Diário Oficial da União de 28/06/1946] (p. 9619, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-08-28", "nome": "Decreto-Lei nº 9.665 de 28/08/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9665-1946-08-28"},
+{"data": "1946-09-13", "nome": "Decreto-Lei nº 9.853 de 13/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9853-1946-09-13"},
+{"data": "1965-12-02", "nome": "Decreto nº 57.375 de 02/12/1965", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1993-09-14", "nome": "Lei nº 8.706 de 14/09/1993", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "correlato"}], "id": "federal/leis-ordinarias/1993/lei-8706-1993-09-14"},
+{"data": "2019-11-11", "nome": "Medida Provisória nº 905 de 11/11/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "ressalvou"}]},
+{"data": "2022-09-21", "nome": "Lei nº 14.457 de 21/09/2022", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14457-2022-09-21"}
+],
+"controle": []
+}

@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7986-1989-12-28",
+"urn": "urn:lex:br:federal:lei:1989-12-28;7986",
+"consultado_em": "2026-11-06",
+"codigo": "549862",
+"nome": "Lei nº 7.986 de 28/12/1989",
+"apelidos": [
+"Lei do Seringueiro (1989)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-12-29", "descricao": "Publicação Original [Diário Oficial da União de 29/12/1989] (p. 24779, col. 1)"}
+],
+"alteracoes": [
+{"data": "1998-05-28", "nome": "Medida Provisória nº 1.663-10 de 28/05/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "1998-06-26", "nome": "Medida Provisória nº 1.663-11 de 26/06/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "1998-07-27", "nome": "Medida Provisória nº 1.663-12 de 27/07/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "1998-08-26", "nome": "Medida Provisória nº 1.663-13 de 26/08/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "1998-09-24", "nome": "Medida Provisória nº 1.663-14 de 24/09/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "1998-10-22", "nome": "Medida Provisória nº 1.663-15 de 22/10/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "1998-11-20", "nome": "Lei nº 9.711 de 20/11/1998", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/1998/lei-9711-1998-11-20"}
+],
+"controle": []
+}

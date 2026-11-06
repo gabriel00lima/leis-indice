@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4749-1965-08-12",
+"urn": "urn:lex:br:federal:lei:1965-08-12;4749",
+"consultado_em": "2026-11-06",
+"codigo": "546602",
+"nome": "Lei nº 4.749 de 12/08/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-08-13", "descricao": "Publicação Original [Diário Oficial da União de 13/08/1965] (p. 8121, col. 2)"}
+],
+"alteracoes": [
+{"data": "1965-11-03", "nome": "Decreto nº 57.155 de 03/11/1965", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2021-04-27", "nome": "Medida Provisória nº 1.046 de 27/04/2021", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "correlato"}]},
+{"data": "2021-11-10", "nome": "Decreto nº 10.854 de 10/11/2021", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

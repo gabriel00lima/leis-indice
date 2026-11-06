@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1974/lei-6094-1974-08-30",
+"urn": "urn:lex:br:federal:lei:1974-08-30;6094",
+"consultado_em": "2026-11-06",
+"codigo": "547970",
+"nome": "Lei nº 6.094 de 30/08/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-09-02", "descricao": "Publicação Original [Diário Oficial da União de 02/09/1974] (p. 10045, col. 3)"}
+],
+"alteracoes": [
+{"data": "2012-12-27", "nome": "Lei nº 12.765 de 27/12/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2012/lei-12765-2012-12-27"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-9266-1946-05-20",
+"urn": "urn:lex:br:federal:decreto.lei:1946-05-20;9266",
+"consultado_em": "2026-11-06",
+"codigo": "534305",
+"nome": "Decreto-Lei nº 9.266 de 20/05/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-05-22", "descricao": "Publicação Original [Diário Oficial da União de 22/05/1946] (p. 7535, col. 2)"}
+],
+"alteracoes": [
+{"data": "1946-09-05", "nome": "Decreto-Lei nº 9.757 de 05/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9757-1946-09-05"},
+{"data": "1946-09-06", "nome": "Decreto-Lei nº 9.772 de 06/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9772-1946-09-06"}
+],
+"controle": []
+}

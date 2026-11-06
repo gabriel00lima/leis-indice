@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2000/lei-10052-2000-11-28",
+"urn": "urn:lex:br:federal:lei:2000-11-28;10052",
+"consultado_em": "2026-11-06",
+"codigo": "551928",
+"nome": "Lei nº 10.052 de 28/11/2000",
+"apelidos": [
+"Lei do Fundo para o Desenvolvimento Tecnológico das Telecomunicações (Funttel) (2000)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-11-29", "descricao": "Publicação Original [Diário Oficial da União de 29/11/2000] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2001-01-30", "nome": "Decreto nº 3.737 de 30/01/2001", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

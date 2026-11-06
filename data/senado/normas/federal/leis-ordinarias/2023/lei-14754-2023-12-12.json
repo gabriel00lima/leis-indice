@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2023/lei-14754-2023-12-12",
+"urn": "urn:lex:br:federal:lei:2023-12-12;14754",
+"consultado_em": "2026-11-06",
+"codigo": "37911511",
+"nome": "Lei nº 14.754 de 12/12/2023",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2023-12-13", "descricao": "Publicação Original [Diário Oficial da União de 13/12/2023] (p. 7, col. 2)"}
+],
+"alteracoes": [
+{"data": "2023-12-12", "nome": "Mensagem de Veto Parcial nº 681 de 12/12/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-12-12", "nome": "Mensagem de Veto Parcial nº 681 de 12/12/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 21, § 7", "art": "21", "acao": "veto"}]},
+{"data": "2023-12-29", "nome": "Lei nº 14.789 de 29/12/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6-A, caput", "art": "6-a", "acao": "acrescentou"}, {"dispositivo": "Art. 26, § 6", "art": "26", "acao": "alterou"}, {"dispositivo": "Art. 26, § 6-A", "art": "26", "acao": "acrescentou"}, {"dispositivo": "Art. 40, Parágrafo Único", "art": "40", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14789-2023-12-29"},
+{"data": "2023-12-29", "nome": "Lei nº 14.789 de 29/12/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14789-2023-12-29"}
+],
+"controle": []
+}

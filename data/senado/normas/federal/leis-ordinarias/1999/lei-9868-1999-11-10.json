@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/1999/lei-9868-1999-11-10",
+"urn": "urn:lex:br:federal:lei:1999-11-10;9868",
+"consultado_em": "2026-11-06",
+"codigo": "551744",
+"nome": "Lei nº 9.868 de 10/11/1999",
+"apelidos": [
+"Lei da Adin (1999)",
+"Lei da ADI e ADC (1999)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1999-11-11", "descricao": "Publicação Original [Diário Oficial da União de 11/11/1999] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2009-10-27", "nome": "Lei nº 12.063 de 27/10/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12-A", "art": "12-a", "acao": "acrescentou"}, {"dispositivo": "Art. 12-B", "art": "12-b", "acao": "acrescentou"}, {"dispositivo": "Art. 12-C", "art": "12-c", "acao": "acrescentou"}, {"dispositivo": "Art. 12-D", "art": "12-d", "acao": "acrescentou"}, {"dispositivo": "Art. 12-E", "art": "12-e", "acao": "acrescentou"}, {"dispositivo": "Art. 12-F", "art": "12-f", "acao": "acrescentou"}, {"dispositivo": "Art. 12-G", "art": "12-g", "acao": "acrescentou"}, {"dispositivo": "Art. 12-H", "art": "12-h", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2009/lei-12063-2009-10-27"}
+],
+"controle": [
+{"data": "2023-03-31", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.154 de 31/03/2023", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 27, caput", "art": "27", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "2154"}},
+{"data": "2023-03-31", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.258 de 31/03/2023", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 27, caput", "art": "27", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "2258"}}
+]
+}

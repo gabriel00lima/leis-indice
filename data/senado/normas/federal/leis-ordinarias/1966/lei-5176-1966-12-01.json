@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1966/lei-5176-1966-12-01",
+"urn": "urn:lex:br:federal:lei:1966-12-01;5176",
+"consultado_em": "2026-11-06",
+"codigo": "547038",
+"nome": "Lei nº 5.176 de 01/12/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-12-02", "descricao": "Publicação Original [Diário Oficial da União de 02/12/1966] (p. 14003, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-02-20", "nome": "Decreto-Lei nº 182 de 20/02/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1967/del-182-1967-02-20"},
+{"data": "1976-12-09", "nome": "Lei nº 6.391 de 09/12/1976", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1976/lei-6391-1976-12-09"}
+],
+"controle": []
+}

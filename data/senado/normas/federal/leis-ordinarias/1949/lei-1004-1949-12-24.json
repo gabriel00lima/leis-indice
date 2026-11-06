@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-1004-1949-12-24",
+"urn": "urn:lex:br:federal:lei:1949-12-24;1004",
+"consultado_em": "2026-11-06",
+"codigo": "542604",
+"nome": "Lei nº 1.004 de 24/12/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-12-28", "descricao": "Publicação Original [Diário Oficial da União de 28/12/1949] (p. 17899, col. 3)"}
+],
+"alteracoes": [
+{"data": "1955-12-09", "nome": "Decreto nº 38.294 de 09/12/1955", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1956-07-18", "nome": "Decreto nº 39.623 de 18/07/1956", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1962-05-11", "nome": "Decreto do Conselho de MInistros nº 979 de 11/05/1962", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

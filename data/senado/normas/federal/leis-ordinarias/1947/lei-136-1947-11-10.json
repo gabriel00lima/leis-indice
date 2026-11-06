@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1947/lei-136-1947-11-10",
+"urn": "urn:lex:br:federal:lei:1947-11-10;136",
+"consultado_em": "2026-11-06",
+"codigo": "541135",
+"nome": "Lei nº 136 de 10/11/1947",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1947-11-14", "descricao": "Publicação Original [Diário Oficial da União de 14/11/1947] (p. 14573, col. 1)"}
+],
+"alteracoes": [
+{"data": "1950-06-10", "nome": "Lei nº 1.130 de 10/06/1950", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1950/lei-1130-1950-06-10"},
+{"data": "1953-11-12", "nome": "Lei nº 2.083 de 12/11/1953", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1953/lei-2083-1953-11-12"}
+],
+"controle": []
+}

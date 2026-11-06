@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9825-1946-09-10",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-10;9825",
+"consultado_em": "2026-11-06",
+"codigo": "534862",
+"nome": "Decreto-Lei nº 9.825 de 10/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-12", "descricao": "Publicação Original [Diário Oficial da União de 12/09/1946] (p. 12708, col. 4)"}
+],
+"alteracoes": [
+{"data": "1948-10-16", "nome": "Lei nº 437 de 16/10/1948", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1948/lei-437-1948-10-16"}
+],
+"controle": []
+}

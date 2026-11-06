@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1974/lei-6179-1974-12-11",
+"urn": "urn:lex:br:federal:lei:1974-12-11;6179",
+"consultado_em": "2026-11-06",
+"codigo": "548055",
+"nome": "Lei nº 6.179 de 11/12/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-12-12", "descricao": "Publicação Original [Diário Oficial da União de 12/12/1974] (p. 14205, col. 3)"}
+],
+"alteracoes": [
+{"data": "1975-04-29", "nome": "Lei nº 6.205 de 29/04/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1975/lei-6205-1975-04-29"},
+{"data": "1979-01-24", "nome": "Decreto nº 83.080 de 24/01/1979", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1979-01-24", "nome": "Decreto nº 83.081 de 24/01/1979", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1979-10-08", "nome": "Lei nº 6.696 de 08/10/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6696-1979-10-08"}
+],
+"controle": []
+}

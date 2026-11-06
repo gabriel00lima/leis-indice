@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2007/lei-11490-2007-06-20",
+"urn": "urn:lex:br:federal:lei:2007-06-20;11490",
+"consultado_em": "2026-11-06",
+"codigo": "572642",
+"nome": "Lei nº 11.490 de 20/06/2007",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2007-06-21", "descricao": "Publicação Original [Diário Oficial da União de 21/06/2007] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2024-12-31", "nome": "Medida Provisória nº 1.286 de 31/12/2024", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}]},
+{"data": "2025-06-02", "nome": "Lei nº 15.141 de 02/06/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}], "id": "federal/leis-ordinarias/2025/lei-15141-2025-06-02"}
+],
+"controle": []
+}

@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1994/lei-8885-1994-06-16",
+"urn": "urn:lex:br:federal:lei:1994-06-16;8885",
+"consultado_em": "2026-11-06",
+"codigo": "550761",
+"nome": "Lei nº 8.885 de 16/06/1994",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1994-06-17", "descricao": "Publicação Original [Diário Oficial da União de 17/06/1994] (p. 8837, col. 2)"}
+],
+"alteracoes": [
+{"data": "1994-08-11", "nome": "Medida Provisória nº 577 de 11/08/1994", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1994-09-08", "nome": "Medida Provisória nº 608 de 08/09/1994", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1994-10-07", "nome": "Medida Provisória nº 647 de 07/10/1994", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1994-11-04", "nome": "Medida Provisória nº 694 de 04/11/1994", "tipo": "Alteração Provisória", "dispositivos": []}
+],
+"controle": []
+}

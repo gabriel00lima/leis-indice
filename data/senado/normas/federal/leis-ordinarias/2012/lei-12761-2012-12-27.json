@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2012/lei-12761-2012-12-27",
+"urn": "urn:lex:br:federal:lei:2012-12-27;12761",
+"consultado_em": "2026-11-06",
+"codigo": "588137",
+"nome": "Lei nº 12.761 de 27/12/2012",
+"apelidos": [
+"Lei do Vale-Cultura (2012)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2012-12-27", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 27/12/2012] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2013-06-05", "nome": "Medida Provisória nº 618 de 05/06/2013", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10, § 5", "art": "10", "acao": "revogou"}]},
+{"data": "2013-06-12", "nome": "Medida Provisória nº 620 de 12/06/2013", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5, caput, Inciso 2", "art": "5", "acao": "alterou"}]},
+{"data": "2013-08-26", "nome": "Decreto nº 8.084 de 26/08/2013", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2013-10-15", "nome": "Lei nº 12.868 de 15/10/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, caput, Inciso 2", "art": "5", "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12868-2013-10-15"},
+{"data": "2013-10-24", "nome": "Lei nº 12.872 de 24/10/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, § 5", "art": "10", "acao": "revogou"}], "id": "federal/leis-ordinarias/2013/lei-12872-2013-10-24"}
+],
+"controle": []
+}

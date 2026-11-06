@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1986/del-2310-1986-12-22",
+"urn": "urn:lex:br:federal:decreto.lei:1986-12-22;2310",
+"consultado_em": "2026-11-06",
+"codigo": "527233",
+"nome": "Decreto-Lei nº 2.310 de 22/12/1986",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-12-23", "descricao": "Publicação Original [Diário Oficial da União de 23/12/1986] (p. 19598, col. 1)"}
+],
+"alteracoes": [
+{"data": "1987-07-23", "nome": "Decreto nº 94.664 de 23/07/1987", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1987-08-27", "nome": "Decreto-Lei nº 2.355 de 27/08/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2355-1987-08-27"},
+{"data": "1987-11-17", "nome": "Decreto nº 95.247 de 17/11/1987", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

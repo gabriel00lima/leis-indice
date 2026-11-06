@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1946/lei-7-1946-12-19",
+"urn": "urn:lex:br:federal:lei:1946-12-19;7",
+"consultado_em": "2026-11-06",
+"codigo": "540820",
+"nome": "Lei nº 7 de 19/12/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/1946] (p. 16663, col. 1)"}
+],
+"alteracoes": [
+{"data": "1948-02-17", "nome": "Lei nº 243 de 17/02/1948", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revigorou"}], "id": "federal/leis-ordinarias/1948/lei-243-1948-02-17"},
+{"data": "1949-02-10", "nome": "Lei nº 619 de 10/02/1949", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revigorou"}], "id": "federal/leis-ordinarias/1949/lei-619-1949-02-10"},
+{"data": "1961-12-20", "nome": "Lei nº 4.024 de 20/12/1961", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1961/lei-4024-1961-12-20"}
+],
+"controle": []
+}

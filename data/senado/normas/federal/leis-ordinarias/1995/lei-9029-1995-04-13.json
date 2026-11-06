@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9029-1995-04-13",
+"urn": "urn:lex:br:federal:lei:1995-04-13;9029",
+"consultado_em": "2026-11-06",
+"codigo": "550905",
+"nome": "Lei nº 9.029 de 13/04/1995",
+"apelidos": [
+"Lei da Discriminação no Emprego (1995)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-04-17", "descricao": "Publicação Original [Diário Oficial da União de 17/04/1995] (p. 5361, col. 1)"}
+],
+"alteracoes": [
+{"data": "2010-07-20", "nome": "Lei nº 12.288 de 20/07/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2010/lei-12288-2010-07-20"},
+{"data": "2015-07-06", "nome": "Lei nº 13.146 de 06/07/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4, caput, Inciso 1", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2015/lei-13146-2015-07-06"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2012/lei-12716-2012-09-21",
+"urn": "urn:lex:br:federal:lei:2012-09-21;12716",
+"consultado_em": "2026-11-06",
+"codigo": "588092",
+"nome": "Lei nº 12.716 de 21/09/2012",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2012-09-24", "descricao": "Publicação Original [Diário Oficial da União de 24/09/2012] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2013-04-02", "nome": "Medida Provisória nº 610 de 02/04/2013", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, caput, Inciso 3", "art": "5", "acao": "revogou"}]},
+{"data": "2013-07-19", "nome": "Lei nº 12.844 de 19/07/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}], "id": "federal/leis-ordinarias/2013/lei-12844-2013-07-19"}
+],
+"controle": []
+}

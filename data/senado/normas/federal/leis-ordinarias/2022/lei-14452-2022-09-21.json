@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2022/lei-14452-2022-09-21",
+"urn": "urn:lex:br:federal:lei:2022-09-21;14452",
+"consultado_em": "2026-11-06",
+"codigo": "36359847",
+"nome": "Lei nº 14.452 de 21/09/2022",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2022-09-22", "descricao": "Publicação Original [Diário Oficial da União de 22/09/2022] (p. 3, col. 1)"}
+],
+"alteracoes": [
+{"data": "2022-12-29", "nome": "Lei nº 14.516 de 29/12/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2022/lei-14516-2022-12-29"},
+{"data": "2022-12-29", "nome": "Lei nº 14.516 de 29/12/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14516-2022-12-29"},
+{"data": "2022-12-29", "nome": "Lei nº 14.516 de 29/12/2022", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "correlato"}, {"dispositivo": "Art. 6, caput", "art": "6", "acao": "correlato"}], "id": "federal/leis-ordinarias/2022/lei-14516-2022-12-29"}
+],
+"controle": []
+}

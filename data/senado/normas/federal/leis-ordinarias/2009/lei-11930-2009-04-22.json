@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2009/lei-11930-2009-04-22",
+"urn": "urn:lex:br:federal:lei:2009-04-22;11930",
+"consultado_em": "2026-11-06",
+"codigo": "580153",
+"nome": "Lei nº 11.930 de 22/04/2009",
+"apelidos": [
+"Lei Pietro (2009)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2009-04-23", "descricao": "Publicação Original [Diário Oficial da União de 23/04/2009] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2023-01-10", "nome": "Lei nº 14.530 de 10/01/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Ementa", "art": null, "acao": "alterou"}, {"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2-A, caput", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-B, caput", "art": "2-b", "acao": "acrescentou"}, {"dispositivo": "Art. 2-B, Parágrafo Único, apenas o Caput", "art": "2-b", "acao": "acrescentou"}, {"dispositivo": "Art. 2-B, Parágrafo Único, Inciso 1", "art": "2-b", "acao": "acrescentou"}, {"dispositivo": "Art. 2-B, Parágrafo Único, Inciso 2", "art": "2-b", "acao": "acrescentou"}, {"dispositivo": "Art. 2-B, Parágrafo Único, Inciso 3", "art": "2-b", "acao": "acrescentou"}, {"dispositivo": "Art. 2-C, caput", "art": "2-c", "acao": "acrescentou"}, {"dispositivo": "Art. 2-D, caput", "art": "2-d", "acao": "vetado"}, {"dispositivo": "Art. 2-E, caput", "art": "2-e", "acao": "acrescentou"}, {"dispositivo": "Art. 2-E, § 1", "art": "2-e", "acao": "acrescentou"}, {"dispositivo": "Art. 2-E, § 2", "art": "2-e", "acao": "acrescentou"}, {"dispositivo": "Art. 2-E, § 3", "art": "2-e", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14530-2023-01-10"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1953/lei-2083-1953-11-12",
+"urn": "urn:lex:br:federal:lei:1953-11-12;2083",
+"consultado_em": "2026-11-06",
+"codigo": "543859",
+"nome": "Lei nº 2.083 de 12/11/1953",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1953-11-13", "descricao": "Publicação Original [Diário Oficial da União de 13/11/1953] (p. 19321, col. 1)"}
+],
+"alteracoes": [
+{"data": "1956-02-16", "nome": "Lei nº 2.728 de 16/02/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2728-1956-02-16"}
+],
+"controle": []
+}

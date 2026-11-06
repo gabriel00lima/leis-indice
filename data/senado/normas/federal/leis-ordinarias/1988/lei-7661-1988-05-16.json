@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1988/lei-7661-1988-05-16",
+"urn": "urn:lex:br:federal:lei:1988-05-16;7661",
+"consultado_em": "2026-11-06",
+"codigo": "549537",
+"nome": "Lei nº 7.661 de 16/05/1988",
+"apelidos": [
+"Lei do Gerenciamento Costeiro (1988)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1988-05-18", "descricao": "Publicação Original [Diário Oficial da União de 18/05/1988] (p. 8633, col. 1)"}
+],
+"alteracoes": [
+{"data": "2004-12-07", "nome": "Decreto nº 5.300 de 07/12/2004", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2019-06-25", "nome": "Decreto nº 9.858 de 25/06/2019", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2023-10-30", "nome": "Lei nº 14.714 de 30/10/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, caput", "art": "5", "acao": "alterou"}], "id": "federal/leis-ordinarias/2023/lei-14714-2023-10-30"},
+{"data": "2025-08-08", "nome": "Lei nº 15.190 de 08/08/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, § 2", "art": "6", "acao": "revogou"}], "id": "federal/leis-ordinarias/2025/lei-15190-2025-08-08"}
+],
+"controle": []
+}

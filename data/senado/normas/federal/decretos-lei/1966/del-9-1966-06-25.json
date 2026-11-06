@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1966/del-9-1966-06-25",
+"urn": "urn:lex:br:federal:decreto.lei:1966-06-25;9",
+"consultado_em": "2026-11-06",
+"codigo": "522661",
+"nome": "Decreto-Lei nº 9 de 25/06/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-06-30", "descricao": "Publicação Original [Diário Oficial da União de 30/06/1966] (p. 7059, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-02-08", "nome": "Decreto-Lei nº 149 de 08/02/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1967/del-149-1967-02-08"},
+{"data": "1967-02-28", "nome": "Decreto-Lei nº 272 de 28/02/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1967/del-272-1967-02-28"},
+{"data": "1969-03-11", "nome": "Decreto-Lei nº 495 de 11/03/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-495-1969-03-11"},
+{"data": "1970-12-01", "nome": "Lei nº 5.622 de 01/12/1970", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1970/lei-5622-1970-12-01"},
+{"data": "1977-10-14", "nome": "Lei nº 6.450 de 14/10/1977", "tipo": "Revogação Permanente de Parte de Texto na Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1977/lei-6450-1977-10-14"}
+],
+"controle": []
+}

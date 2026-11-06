@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2010/lei-12270-2010-06-24",
+"urn": "urn:lex:br:federal:lei:2010-06-24;12270",
+"consultado_em": "2026-11-06",
+"codigo": "575912",
+"nome": "Lei nº 12.270 de 24/06/2010",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2010-06-25", "descricao": "Publicação Original [Diário Oficial da União de 25/06/2010] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2011-09-29", "nome": "Decreto nº 7.574 de 29/09/2011", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "com novo tratamento da matéria"}]},
+{"data": "2022-01-26", "nome": "Medida Provisória nº 1.098 de 26/01/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, caput, Inciso 2", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 10, caput", "art": "10", "acao": "alterou"}]},
+{"data": "2022-05-26", "nome": "Lei nº 14.353 de 26/05/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, caput, Inciso 2", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 10, caput", "art": "10", "acao": "alterou"}], "id": "federal/leis-ordinarias/2022/lei-14353-2022-05-26"}
+],
+"controle": []
+}

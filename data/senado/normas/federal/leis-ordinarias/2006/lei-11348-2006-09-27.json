@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2006/lei-11348-2006-09-27",
+"urn": "urn:lex:br:federal:lei:2006-09-27;11348",
+"consultado_em": "2026-11-06",
+"codigo": "572133",
+"nome": "Lei nº 11.348 de 27/09/2006",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2006-09-28", "descricao": "Publicação Original [Diário Oficial da União de 28/09/2006] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2010-06-21", "nome": "Lei nº 12.261 de 21/06/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2010/lei-12261-2010-06-21"}
+],
+"controle": []
+}

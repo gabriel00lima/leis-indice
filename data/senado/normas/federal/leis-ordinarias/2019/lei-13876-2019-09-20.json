@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2019/lei-13876-2019-09-20",
+"urn": "urn:lex:br:federal:lei:2019-09-20;13876",
+"consultado_em": "2026-11-06",
+"codigo": "31412614",
+"nome": "Lei nº 13.876 de 20/09/2019",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2019-09-23", "descricao": "Publicação Original [Diário Oficial da União de 23/09/2019] (p. 4, col. 1)"}
+],
+"alteracoes": [
+{"data": "2019-09-20", "nome": "Mensagem de Veto Parcial nº 443 de 20/09/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-05-04", "nome": "Lei nº 14.331 de 04/05/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14331-2022-05-04"},
+{"data": "2022-05-04", "nome": "Lei nº 14.331 de 04/05/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14331-2022-05-04"},
+{"data": "2022-05-04", "nome": "Lei nº 14.331 de 04/05/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2022/lei-14331-2022-05-04"}
+],
+"controle": []
+}

@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2017/lei-13463-2017-07-06",
+"urn": "urn:lex:br:federal:lei:2017-07-06;13463",
+"consultado_em": "2026-11-06",
+"codigo": "17717809",
+"nome": "Lei nº 13.463 de 06/07/2017",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2017-07-07", "descricao": "Publicação Original [Diário Oficial da União de 07/07/2017] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2017-07-06", "nome": "Mensagem de Veto Parcial nº 226 de 06/07/2017", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2017-07-06", "nome": "Mensagem de Veto Parcial nº 226 de 06/07/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput", "art": "4", "acao": "veto"}]}
+],
+"controle": [
+{"data": "2022-06-30", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.755 de 30/06/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}, {"dispositivo": "Art. 2, § 1", "art": "2", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}], "decisao": {"classe": "ADI", "numero": "5755"}}
+]
+}

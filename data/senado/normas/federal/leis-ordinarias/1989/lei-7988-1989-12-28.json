@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7988-1989-12-28",
+"urn": "urn:lex:br:federal:lei:1989-12-28;7988",
+"consultado_em": "2026-11-06",
+"codigo": "549864",
+"nome": "Lei nº 7.988 de 28/12/1989",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-12-29", "descricao": "Publicação Original [Diário Oficial da União de 29/12/1989] (p. 24781, col. 1)"},
+{"tipo": "RET", "data": "1990-01-16", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 16/01/1990] (p. 1089, col. 1)"}
+],
+"alteracoes": [
+{"data": "1990-03-22", "nome": "Lei nº 8.007 de 22/03/1990", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "ressalvou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/1990/lei-8007-1990-03-22"}
+],
+"controle": []
+}

@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1990/lei-8009-1990-03-29",
+"urn": "urn:lex:br:federal:lei:1990-03-29;8009",
+"consultado_em": "2026-11-06",
+"codigo": "549885",
+"nome": "Lei nº 8.009 de 29/03/1990",
+"apelidos": [
+"Lei do Bem de Família (1990)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1990-03-30", "descricao": "Publicação Original [Diário Oficial da União de 30/03/1990] (p. 6285, col. 1)"}
+],
+"alteracoes": [
+{"data": "1991-10-18", "nome": "Lei nº 8.245 de 18/10/1991", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/1991/lei-8245-1991-10-18"},
+{"data": "2015-06-01", "nome": "Lei Complementar nº 150 de 01/06/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 1", "art": "3", "acao": "revogou"}], "id": "federal/leis-complementares/2015/lcp-150-2015-06-01"},
+{"data": "2015-07-06", "nome": "Lei nº 13.144 de 06/07/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2015/lei-13144-2015-07-06"},
+{"data": "2019-01-18", "nome": "Medida Provisória nº 871 de 18/01/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 7", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 8", "art": "3", "acao": "acrescentou"}]}
+],
+"controle": []
+}

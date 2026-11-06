@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1985/lei-7312-1985-05-16",
+"urn": "urn:lex:br:federal:lei:1985-05-16;7312",
+"consultado_em": "2026-11-06",
+"codigo": "549188",
+"nome": "Lei nº 7.312 de 16/05/1985",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1985-05-17", "descricao": "Publicação Original [Diário Oficial da União de 17/05/1985] (p. 7345, col. 1)"}
+],
+"alteracoes": [
+{"data": "1995-01-24", "nome": "Lei nº 8.982 de 24/01/1995", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1995/lei-8982-1995-01-24"}
+],
+"controle": []
+}

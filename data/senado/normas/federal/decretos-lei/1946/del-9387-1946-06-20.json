@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1946/del-9387-1946-06-20",
+"urn": "urn:lex:br:federal:decreto.lei:1946-06-20;9387",
+"consultado_em": "2026-11-06",
+"codigo": "534426",
+"nome": "Decreto-Lei nº 9.387 de 20/06/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-06-22", "descricao": "Publicação Original [Diário Oficial da União de 22/06/1946] (p. 9359, col. 2)"}
+],
+"alteracoes": [
+{"data": "1946-07-18", "nome": "Decreto-Lei nº 9.486 de 18/07/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9486-1946-07-18"},
+{"data": "1946-12-16", "nome": "Decreto nº 22.284 de 16/12/1946", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1955-07-05", "nome": "Lei nº 2.532 de 05/07/1955", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1955/lei-2532-1955-07-05"},
+{"data": "1959-02-11", "nome": "Lei nº 3.542 de 11/02/1959", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1959/lei-3542-1959-02-11"}
+],
+"controle": []
+}

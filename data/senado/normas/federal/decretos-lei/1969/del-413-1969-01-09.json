@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1969/del-413-1969-01-09",
+"urn": "urn:lex:br:federal:decreto.lei:1969-01-09;413",
+"consultado_em": "2026-11-06",
+"codigo": "523462",
+"nome": "Decreto-Lei nº 413 de 09/01/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-01-10", "descricao": "Publicação Original [Diário Oficial da União de 10/01/1969] (p. 273, col. 3)"}
+],
+"alteracoes": [
+{"data": "1969-05-29", "nome": "Decreto nº 64.608 de 29/05/1969", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1975-12-16", "nome": "Lei nº 6.312 de 16/12/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1975/lei-6312-1975-12-16"},
+{"data": "1980-11-03", "nome": "Lei nº 6.840 de 03/11/1980", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1980/lei-6840-1980-11-03"},
+{"data": "1992-12-11", "nome": "Lei nº 8.522 de 11/12/1992", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 34, § 1", "art": "34", "acao": "alterou"}, {"dispositivo": "Art. 34, § 2", "art": "34", "acao": "alterou"}], "id": "federal/leis-ordinarias/1992/lei-8522-1992-12-11"},
+{"data": "1996-03-20", "nome": "Medida Provisória nº 1.367 de 20/03/1996", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

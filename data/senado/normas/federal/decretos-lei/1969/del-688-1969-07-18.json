@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-688-1969-07-18",
+"urn": "urn:lex:br:federal:decreto.lei:1969-07-18;688",
+"consultado_em": "2026-11-06",
+"codigo": "524003",
+"nome": "Decreto-Lei nº 688 de 18/07/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-07-18", "descricao": "Publicação Original [Diário Oficial da União de 18/07/1969] (p. 6105, col. 2)"}
+],
+"alteracoes": [
+{"data": "1969-08-11", "nome": "Decreto-Lei nº 755 de 11/08/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-755-1969-08-11"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1898/lei-496-1898-08-01",
+"urn": "urn:lex:br:federal:lei:1898-08-01;496",
+"consultado_em": "2026-11-06",
+"codigo": "541906",
+"nome": "Lei nº 496 de 01/08/1898",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1898-12-31", "descricao": "Publicação Original [Coleção de Leis do Brasil de 31/12/1898 - vol. 001] (p. 4, col. 1)"}
+],
+"alteracoes": [
+{"data": "1900-11-24", "nome": "Decreto nº 3.836 de 24/11/1900", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 26", "art": "26", "acao": "alterou"}]}
+],
+"controle": []
+}

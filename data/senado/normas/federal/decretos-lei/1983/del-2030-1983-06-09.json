@@ -1,0 +1,20 @@
+{
+"id": "federal/decretos-lei/1983/del-2030-1983-06-09",
+"urn": "urn:lex:br:federal:decreto.lei:1983-06-09;2030",
+"consultado_em": "2026-11-06",
+"codigo": "526669",
+"nome": "Decreto-Lei nº 2.030 de 09/06/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-06-10", "descricao": "Publicação Original [Diário Oficial da União de 10/06/1983] (p. 9930, col. 2)"}
+],
+"alteracoes": [
+{"data": "1983-09-05", "nome": "Decreto Legislativo nº 63 de 05/09/1983", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1983-10-19", "nome": "Decreto-Lei nº 2.064 de 19/10/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1983/del-2064-1983-10-19"},
+{"data": "1983-10-26", "nome": "Decreto-Lei nº 2.065 de 26/10/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1983/del-2065-1983-10-26"},
+{"data": "1983-11-09", "nome": "Decreto-Lei nº 2.067 de 09/11/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2067-1983-11-09"},
+{"data": "1985-12-23", "nome": "Lei nº 7.450 de 23/12/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7450-1985-12-23"},
+{"data": "1988-08-30", "nome": "Decreto-Lei nº 2.462 de 30/08/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1988/del-2462-1988-08-30"}
+],
+"controle": []
+}

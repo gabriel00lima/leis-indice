@@ -1,0 +1,30 @@
+{
+"id": "federal/leis-ordinarias/2016/lei-13243-2016-01-11",
+"urn": "urn:lex:br:federal:lei:2016-01-11;13243",
+"consultado_em": "2026-11-06",
+"codigo": "602468",
+"nome": "Lei nº 13.243 de 11/01/2016",
+"apelidos": [
+"Marco Legal de Ciência, Tecnologia e Inovação (2016)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2016-01-12", "descricao": "Publicação Original [Diário Oficial da União de 12/01/2016] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2016-01-11", "nome": "Mensagem de Veto Parcial nº 8 de 11/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-11", "nome": "Mensagem de Veto Parcial nº 8 de 11/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-11", "nome": "Mensagem de Veto Parcial nº 8 de 11/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-11", "nome": "Mensagem de Veto Parcial nº 8 de 11/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-11", "nome": "Mensagem de Veto Parcial nº 8 de 11/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-11", "nome": "Mensagem de Veto Parcial nº 8 de 11/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-11", "nome": "Mensagem de Veto Parcial nº 8 de 11/01/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 16, caput", "art": "16", "acao": "veto"}]},
+{"data": "2016-01-11", "nome": "Mensagem de Veto Parcial nº 8 de 11/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-11", "nome": "Mensagem de Veto Parcial nº 8 de 11/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-11", "nome": "Mensagem de Veto Parcial nº 8 de 11/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-11", "nome": "Mensagem de Veto Parcial nº 8 de 11/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-11", "nome": "Mensagem de Veto Parcial nº 8 de 11/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-02-07", "nome": "Decreto nº 9.283 de 07/02/2018", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2020-10-28", "nome": "Decreto nº 10.534 de 28/10/2020", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

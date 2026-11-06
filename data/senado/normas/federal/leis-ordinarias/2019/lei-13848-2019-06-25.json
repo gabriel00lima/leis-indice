@@ -1,0 +1,32 @@
+{
+"id": "federal/leis-ordinarias/2019/lei-13848-2019-06-25",
+"urn": "urn:lex:br:federal:lei:2019-06-25;13848",
+"consultado_em": "2026-11-06",
+"codigo": "31132350",
+"nome": "Lei nº 13.848 de 25/06/2019",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2019-06-26", "descricao": "Publicação Original [Diário Oficial da União de 26/06/2019] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2019-06-25", "nome": "Mensagem de Veto Parcial nº 266 de 25/06/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 15, § 3", "art": "15", "acao": "veto"}, {"dispositivo": "Art. 46", "art": "46", "acao": "veto"}, {"dispositivo": "Art. 49, Parágrafo Único", "art": "49", "acao": "veto"}]},
+{"data": "2019-06-25", "nome": "Mensagem de Veto Parcial nº 266 de 25/06/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-06-25", "nome": "Mensagem de Veto Parcial nº 266 de 25/06/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-06-25", "nome": "Mensagem de Veto Parcial nº 266 de 25/06/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-06-25", "nome": "Mensagem de Veto Parcial nº 266 de 25/06/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-06-25", "nome": "Mensagem de Veto Parcial nº 266 de 25/06/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-06-25", "nome": "Mensagem de Veto Parcial nº 266 de 25/06/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-06-25", "nome": "Mensagem de Veto Parcial nº 266 de 25/06/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-06-25", "nome": "Mensagem de Veto Parcial nº 266 de 25/06/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-06-25", "nome": "Mensagem de Veto Parcial nº 266 de 25/06/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-12-27", "nome": "Decreto nº 10.193 de 27/12/2019", "tipo": "Ressalva Permanente da Norma no todo", "dispositivos": []},
+{"data": "2020-06-30", "nome": "Decreto nº 10.411 de 30/06/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "regulamentou"}]},
+{"data": "2022-01-07", "nome": "Lei nº 14.301 de 07/01/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 43", "art": "43", "acao": "vetado"}], "id": "federal/leis-ordinarias/2022/lei-14301-2022-01-07"},
+{"data": "2022-12-29", "nome": "Lei nº 14.514 de 29/12/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3-A, caput", "art": "3-a", "acao": "vetado"}, {"dispositivo": "Art. 3-B, caput", "art": "3-b", "acao": "vetado"}], "id": "federal/leis-ordinarias/2022/lei-14514-2022-12-29"},
+{"data": "2025-09-17", "nome": "Medida Provisória nº 1.317 de 17/09/2025", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 12", "art": "2", "acao": "acrescentou"}]},
+{"data": "2025-09-17", "nome": "Medida Provisória nº 1.317 de 17/09/2025", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2026-02-25", "nome": "Lei nº 15.352 de 25/02/2026", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2026/lei-15352-2026-02-25"},
+{"data": "2026-02-25", "nome": "Lei nº 15.352 de 25/02/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 12", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15352-2026-02-25"}
+],
+"controle": []
+}

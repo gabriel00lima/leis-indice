@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1993/lei-8686-1993-07-20",
+"urn": "urn:lex:br:federal:lei:1993-07-20;8686",
+"consultado_em": "2026-11-06",
+"codigo": "550562",
+"nome": "Lei nº 8.686 de 20/07/1993",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-07-21", "descricao": "Publicação Original [Diário Oficial da União de 21/07/1993] (p. 10108, col. 1)"}
+],
+"alteracoes": [
+{"data": "2018-03-22", "nome": "Lei nº 13.638 de 22/03/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2018/lei-13638-2018-03-22"}
+],
+"controle": []
+}

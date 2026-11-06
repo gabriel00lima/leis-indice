@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1962/lei-4084-1962-06-30",
+"urn": "urn:lex:br:federal:lei:1962-06-30;4084",
+"consultado_em": "2026-11-06",
+"codigo": "545922",
+"nome": "Lei nº 4.084 de 30/06/1962",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-07-02", "descricao": "Publicação Original [Diário Oficial da União de 02/07/1962] (p. 7149, col. 1)"}
+],
+"alteracoes": [
+{"data": "1965-08-16", "nome": "Decreto nº 56.725 de 16/08/1965", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1977-01-18", "nome": "Decreto nº 79.137 de 18/01/1977", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1981-11-17", "nome": "Decreto nº 86.593 de 17/11/1981", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1986-07-02", "nome": "Lei nº 7.504 de 02/07/1986", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/1986/lei-7504-1986-07-02"}
+],
+"controle": []
+}

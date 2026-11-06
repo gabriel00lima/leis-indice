@@ -1,0 +1,26 @@
+{
+"id": "federal/leis-ordinarias/2017/lei-13444-2017-05-11",
+"urn": "urn:lex:br:federal:lei:2017-05-11;13444",
+"consultado_em": "2026-11-06",
+"codigo": "17690261",
+"nome": "Lei nº 13.444 de 11/05/2017",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2017-05-12", "descricao": "Publicação Original [Diário Oficial da União de 12/05/2017] (p. 2, col. 3)"}
+],
+"alteracoes": [
+{"data": "2017-05-11", "nome": "Mensagem de Veto Parcial nº 147 de 11/05/2017", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2017-05-11", "nome": "Mensagem de Veto Parcial nº 147 de 11/05/2017", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2017-05-11", "nome": "Mensagem de Veto Parcial nº 147 de 11/05/2017", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2017-05-11", "nome": "Mensagem de Veto Parcial nº 147 de 11/05/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 1", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 8, § 2", "art": "8", "acao": "veto"}, {"dispositivo": "Art. 8, § 5", "art": "8", "acao": "veto"}]},
+{"data": "2018-02-05", "nome": "Decreto nº 9.278 de 05/02/2018", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2019-10-09", "nome": "Decreto nº 10.046 de 09/10/2019", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "regulamentou"}]},
+{"data": "2021-12-17", "nome": "Decreto nº 10.900 de 17/12/2021", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 12, caput", "art": "12", "acao": "regulamentou"}]},
+{"data": "2022-02-23", "nome": "Decreto nº 10.977 de 23/02/2022", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2023-01-11", "nome": "Lei nº 14.534 de 11/01/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, § 2, Inciso 1, Alínea b", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 8, § 6", "art": "8", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14534-2023-01-11"},
+{"data": "2023-01-11", "nome": "Lei nº 14.534 de 11/01/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14534-2023-01-11"},
+{"data": "2023-01-11", "nome": "Lei nº 14.534 de 11/01/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14534-2023-01-11"},
+{"data": "2023-11-27", "nome": "Decreto nº 11.797 de 27/11/2023", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

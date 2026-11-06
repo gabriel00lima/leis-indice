@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2018/lei-13693-2018-07-10",
+"urn": "urn:lex:br:federal:lei:2018-07-10;13693",
+"consultado_em": "2026-11-06",
+"codigo": "27435393",
+"nome": "Lei nº 13.693 de 10/07/2018",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2018-07-11", "descricao": "Publicação Original [Diário Oficial da União de 11/07/2018] (p. 3, col. 1)"}
+],
+"alteracoes": [
+{"data": "2023-06-02", "nome": "Lei nº 14.593 de 02/06/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14593-2023-06-02"},
+{"data": "2023-06-02", "nome": "Lei nº 14.593 de 02/06/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14593-2023-06-02"},
+{"data": "2023-06-02", "nome": "Lei nº 14.593 de 02/06/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Ementa", "art": null, "acao": "alterou"}, {"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2023/lei-14593-2023-06-02"}
+],
+"controle": []
+}

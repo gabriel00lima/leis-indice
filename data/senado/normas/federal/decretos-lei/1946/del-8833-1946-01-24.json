@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8833-1946-01-24",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-24;8833",
+"consultado_em": "2026-11-06",
+"codigo": "533869",
+"nome": "Decreto-Lei nº 8.833 de 24/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-25", "descricao": "Publicação Original [Diário Oficial da União de 25/01/1946] (p. 1262, col. 3)"}
+],
+"alteracoes": [
+{"data": "1946-01-24", "nome": "Decreto-Lei nº 8.903 de 24/01/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-8903-1946-01-24"}
+],
+"controle": []
+}

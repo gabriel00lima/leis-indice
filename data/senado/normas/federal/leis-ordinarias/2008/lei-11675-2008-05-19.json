@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11675-2008-05-19",
+"urn": "urn:lex:br:federal:lei:2008-05-19;11675",
+"consultado_em": "2026-11-06",
+"codigo": "582097",
+"nome": "Lei nº 11.675 de 19/05/2008",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-05-20", "descricao": "Publicação Original [Diário Oficial da União de 20/05/2008] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2026-01-07", "nome": "Lei nº 15.330 de 07/01/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2026/lei-15330-2026-01-07"}
+],
+"controle": []
+}

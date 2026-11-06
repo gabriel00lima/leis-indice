@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2016/lei-13364-2016-11-29",
+"urn": "urn:lex:br:federal:lei:2016-11-29;13364",
+"consultado_em": "2026-11-06",
+"codigo": "602589",
+"nome": "Lei nº 13.364 de 29/11/2016",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2016-11-30", "descricao": "Publicação Original [Diário Oficial da União de 30/11/2016] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2019-09-17", "nome": "Lei nº 13.873 de 17/09/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Ementa", "art": null, "acao": "alterou"}, {"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2, caput", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3, caput", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3-A", "art": "3-a", "acao": "acrescentou"}, {"dispositivo": "Art. 3-B", "art": "3-b", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2019/lei-13873-2019-09-17"}
+],
+"controle": [
+{"data": "2026-03-05", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.772 de 05/03/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}, {"dispositivo": "Art. 2, caput", "art": "2", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}, {"dispositivo": "Art. 3, caput", "art": "3", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}], "decisao": {"classe": "ADI", "numero": "5772"}}
+]
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1940/del-2222-1940-05-23",
+"urn": "urn:lex:br:federal:decreto.lei:1940-05-23;2222",
+"consultado_em": "2026-11-06",
+"codigo": "527056",
+"nome": "Decreto-Lei nº 2.222 de 23/05/1940",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1940-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1940 - vol. 003] (p. 219, col. 1)"}
+],
+"alteracoes": [
+{"data": "1941-09-04", "nome": "Decreto-Lei nº 3.586 de 04/09/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3586-1941-09-04"}
+],
+"controle": []
+}

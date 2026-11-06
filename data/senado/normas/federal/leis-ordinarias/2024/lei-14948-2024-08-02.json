@@ -1,0 +1,31 @@
+{
+"id": "federal/leis-ordinarias/2024/lei-14948-2024-08-02",
+"urn": "urn:lex:br:federal:lei:2024-08-02;14948",
+"consultado_em": "2026-11-06",
+"codigo": "39410139",
+"nome": "Lei nº 14.948 de 02/08/2024",
+"apelidos": [
+"Marco Legal do Hidrogênio de Baixa Emissão de Carbono"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2024-08-02", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 02/08/2024 - nº 148-A] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2024-08-02", "nome": "Mensagem de Veto Parcial nº 741 de 02/08/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-08-02", "nome": "Mensagem de Veto Parcial nº 741 de 02/08/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-08-02", "nome": "Mensagem de Veto Parcial nº 741 de 02/08/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-08-02", "nome": "Mensagem de Veto Parcial nº 741 de 02/08/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-08-02", "nome": "Mensagem de Veto Parcial nº 741 de 02/08/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 30, caput", "art": "30", "acao": "veto"}, {"dispositivo": "Art. 30, Parágrafo Único, apenas o Caput", "art": "30", "acao": "veto"}, {"dispositivo": "Art. 30, Parágrafo Único, Inciso 1", "art": "30", "acao": "veto"}, {"dispositivo": "Art. 30, Parágrafo Único, Inciso 2", "art": "30", "acao": "veto"}, {"dispositivo": "Art. 31", "art": "31", "acao": "veto"}, {"dispositivo": "Art. 32", "art": "32", "acao": "veto"}, {"dispositivo": "Art. 33", "art": "33", "acao": "veto"}, {"dispositivo": "Art. 34, caput", "art": "34", "acao": "veto"}, {"dispositivo": "Art. 35, caput", "art": "35", "acao": "veto"}]},
+{"data": "2024-08-02", "nome": "Mensagem de Veto Parcial nº 741 de 02/08/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-08-02", "nome": "Mensagem de Veto Parcial nº 741 de 02/08/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-08-02", "nome": "Mensagem de Veto Parcial nº 741 de 02/08/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-08-02", "nome": "Mensagem de Veto Parcial nº 741 de 02/08/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-08-02", "nome": "Mensagem de Veto Parcial nº 741 de 02/08/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-08-02", "nome": "Mensagem de Veto Parcial nº 741 de 02/08/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-09-27", "nome": "Lei nº 14.990 de 27/09/2024", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 6, Parágrafo Único, Inciso 2", "art": "6", "acao": "correlato"}], "id": "federal/leis-ordinarias/2024/lei-14990-2024-09-27"},
+{"data": "2024-09-27", "nome": "Lei nº 14.990 de 27/09/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, Parágrafo Único, apenas o Caput", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 6, Parágrafo Único, Inciso 1", "art": "6", "acao": "acrescentou"}, {"dispositivo": "Art. 6, Parágrafo Único, Inciso 2", "art": "6", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2024/lei-14990-2024-09-27"},
+{"data": "2024-09-27", "nome": "Lei nº 14.990 de 27/09/2024", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14990-2024-09-27"},
+{"data": "2026-08-12", "nome": "Decreto nº 13.096 de 12/08/2026", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

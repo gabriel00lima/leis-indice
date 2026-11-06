@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2012/lei-12767-2012-12-27",
+"urn": "urn:lex:br:federal:lei:2012-12-27;12767",
+"consultado_em": "2026-11-06",
+"codigo": "588143",
+"nome": "Lei nº 12.767 de 27/12/2012",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2012-12-28", "descricao": "Publicação Original [Diário Oficial da União de 28/12/2012] (p. 4, col. 2)"}
+],
+"alteracoes": [
+{"data": "2013-07-09", "nome": "Lei nº 12.839 de 09/07/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12, § 12", "art": "12", "acao": "revogou"}], "id": "federal/leis-ordinarias/2013/lei-12839-2013-07-09"},
+{"data": "2016-11-17", "nome": "Lei nº 13.360 de 17/11/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 5", "art": "2", "acao": "vetado"}, {"dispositivo": "Art. 12, § 1", "art": "12", "acao": "vetado"}, {"dispositivo": "Art. 14-A, caput", "art": "14-a", "acao": "vetado"}, {"dispositivo": "Art. 14-A, Parágrafo Único", "art": "14-a", "acao": "vetado"}], "id": "federal/leis-ordinarias/2016/lei-13360-2016-11-17"}
+],
+"controle": []
+}

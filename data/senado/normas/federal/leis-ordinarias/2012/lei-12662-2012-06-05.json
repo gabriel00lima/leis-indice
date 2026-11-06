@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2012/lei-12662-2012-06-05",
+"urn": "urn:lex:br:federal:lei:2012-06-05;12662",
+"consultado_em": "2026-11-06",
+"codigo": "589585",
+"nome": "Lei nº 12.662 de 05/06/2012",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2012-06-06", "descricao": "Publicação Original [Diário Oficial da União de 06/06/2012] (p. 3, col. 2)"}
+],
+"alteracoes": [
+{"data": "2016-03-08", "nome": "Lei nº 13.257 de 08/03/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, § 3", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 5, § 4", "art": "5", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2016/lei-13257-2016-03-08"},
+{"data": "2018-06-25", "nome": "Lei nº 13.685 de 25/06/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 5", "art": "4", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2018/lei-13685-2018-06-25"}
+],
+"controle": []
+}

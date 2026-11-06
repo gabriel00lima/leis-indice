@@ -1,0 +1,27 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7961-1989-12-21",
+"urn": "urn:lex:br:federal:lei:1989-12-21;7961",
+"consultado_em": "2026-11-06",
+"codigo": "549837",
+"nome": "Lei nº 7.961 de 21/12/1989",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/1989] (p. 24075, col. 2)"}
+],
+"alteracoes": [
+{"data": "2000-12-28", "nome": "Medida Provisória nº 2.131 de 28/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2001-01-26", "nome": "Medida Provisória nº 2.131-1 de 26/01/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2001-02-23", "nome": "Medida Provisória nº 2.131-2 de 23/02/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2001-03-27", "nome": "Medida Provisória nº 2.131-3 de 27/03/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2001-04-26", "nome": "Medida Provisória nº 2.131-4 de 26/04/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2001-05-24", "nome": "Medida Provisória nº 2.131-5 de 24/05/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2001-06-21", "nome": "Medida Provisória nº 2.131-6 de 21/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2001-06-28", "nome": "Medida Provisória nº 2.188-7 de 28/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2001-07-27", "nome": "Medida Provisória nº 2.188-8 de 27/07/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2001-08-24", "nome": "Medida Provisória nº 2.188-9 de 24/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2001-08-31", "nome": "Medida Provisória nº 2.215-10 de 31/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "2001-09-05", "nome": "Medida Provisória nº 2.218 de 05/09/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2002-07-04", "nome": "Lei nº 10.486 de 04/07/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2002/lei-10486-2002-07-04"}
+],
+"controle": []
+}

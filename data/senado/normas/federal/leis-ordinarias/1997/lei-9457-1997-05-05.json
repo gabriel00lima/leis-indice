@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1997/lei-9457-1997-05-05",
+"urn": "urn:lex:br:federal:lei:1997-05-05;9457",
+"consultado_em": "2026-11-06",
+"codigo": "551333",
+"nome": "Lei nº 9.457 de 05/05/1997",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1997-05-06", "descricao": "Publicação Original [Diário Oficial da União de 06/05/1997] (p. 9009, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-10-01", "nome": "Medida Provisória nº 1.072 de 01/10/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}]},
+{"data": "2022-03-29", "nome": "Lei nº 14.317 de 29/03/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/2022/lei-14317-2022-03-29"}
+],
+"controle": []
+}

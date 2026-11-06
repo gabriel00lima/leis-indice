@@ -1,0 +1,27 @@
+{
+"id": "federal/leis-ordinarias/2024/lei-14802-2024-01-10",
+"urn": "urn:lex:br:federal:lei:2024-01-10;14802",
+"consultado_em": "2026-11-06",
+"codigo": "38150943",
+"nome": "Lei nº 14.802 de 10/01/2024",
+"apelidos": [
+"Plano Plurianual - PPA (2024-2027)"
+],
+"publicacoes": [
+{"tipo": "ANX", "data": "2024-01-11", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União de 11/01/2024] (p. 3, col. 1)"},
+{"tipo": "ANX", "data": "2024-01-11", "descricao": "Publicação Original de Anexo (008 - Anexo VIII) [Diário Oficial da União de 11/01/2024] (p. 917, col. 1)"},
+{"tipo": "ANX", "data": "2024-01-11", "descricao": "Publicação Original de Anexo (005 - Anexo V) [Diário Oficial da União de 11/01/2024] (p. 321, col. 1)"},
+{"tipo": "ANX", "data": "2024-01-11", "descricao": "Publicação Original de Anexo (006 - Anexo VI) [Diário Oficial da União de 11/01/2024] (p. 581, col. 1)"},
+{"tipo": "PUB", "data": "2024-01-11", "descricao": "Publicação Original [Diário Oficial da União de 11/01/2024] (p. 1, col. 1)"},
+{"tipo": "ANX", "data": "2024-01-11", "descricao": "Publicação Original de Anexo (002 - Anexo II) [Diário Oficial da União de 11/01/2024] (p. 24, col. 1)"},
+{"tipo": "ANX", "data": "2024-01-11", "descricao": "Publicação Original de Anexo (007 - Anexo VII-B) [Diário Oficial da União de 11/01/2024] (p. 903, col. 1)"},
+{"tipo": "ANX", "data": "2024-01-11", "descricao": "Publicação Original de Anexo (004 - Anexo IV) [Diário Oficial da União de 11/01/2024] (p. 315, col. 1)"},
+{"tipo": "ANX", "data": "2024-01-11", "descricao": "Publicação Original de Anexo (007 - Anexo VII-A) [Diário Oficial da União de 11/01/2024] (p. 786, col. 1)"},
+{"tipo": "ANX", "data": "2024-01-11", "descricao": "Publicação Original de Anexo (003 - Anexo III) [Diário Oficial da União de 11/01/2024] (p. 43, col. 1)"}
+],
+"alteracoes": [
+{"data": "2024-06-18", "nome": "Decreto nº 12.066 de 18/06/2024", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2024-12-23", "nome": "Lei nº 15.060 de 23/12/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 3", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2024/lei-15060-2024-12-23"}
+],
+"controle": []
+}

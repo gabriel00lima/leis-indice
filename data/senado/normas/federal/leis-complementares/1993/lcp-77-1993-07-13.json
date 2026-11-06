@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-complementares/1993/lcp-77-1993-07-13",
+"urn": "urn:lex:br:federal:lei.complementar:1993-07-13;77",
+"consultado_em": "2026-11-06",
+"codigo": "572832",
+"nome": "Lei Complementar nº 77 de 13/07/1993",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-07-14", "descricao": "Publicação Original [Diário Oficial da União de 14/07/1993] (p. 9693, col. 1)"},
+{"tipo": "REP", "data": "1993-07-21", "descricao": "Republicação Integral (Seq. 1) [Diário Oficial da União de 21/07/1993] (p. 10105, col. 1)"},
+{"tipo": "RET", "data": "1993-07-22", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 22/07/1993] (p. 10193, col. 1)"},
+{"tipo": "REP", "data": "1993-07-24", "descricao": "Republicação Integral (Seq. 2) [Diário Oficial da União - Edição Extra de 24/07/1993 - nº 139-A] (p. 10393, col. 1)"}
+],
+"alteracoes": [
+{"data": "1993-08-25", "nome": "Decreto nº 902 de 25/08/1993", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "regulamentou"}]},
+{"data": "1993-12-27", "nome": "Decreto nº 1.020 de 27/12/1993", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 20", "art": "20", "acao": "regulamentou"}]}
+],
+"controle": []
+}

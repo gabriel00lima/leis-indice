@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1988/lei-7652-1988-02-03",
+"urn": "urn:lex:br:federal:lei:1988-02-03;7652",
+"consultado_em": "2026-11-06",
+"codigo": "549528",
+"nome": "Lei nº 7.652 de 03/02/1988",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1988-02-05", "descricao": "Publicação Original [Diário Oficial da União de 05/02/1988] (p. 2217, col. 2)"}
+],
+"alteracoes": [
+{"data": "1997-01-08", "nome": "Lei nº 9.432 de 08/01/1997", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}], "id": "federal/leis-ordinarias/1997/lei-9432-1997-01-08"},
+{"data": "1997-06-17", "nome": "Decreto nº 2.256 de 17/06/1997", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1998-12-21", "nome": "Lei nº 9.774 de 21/12/1998", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 17", "art": "17", "acao": "revogou"}, {"dispositivo": "Art. 22", "art": "22", "acao": "alterou"}, {"dispositivo": "Art. 28", "art": "28", "acao": "alterou"}, {"dispositivo": "Art. 30", "art": "30", "acao": "alterou"}, {"dispositivo": "Art. 31", "art": "31", "acao": "alterou"}, {"dispositivo": "Art. 33", "art": "33", "acao": "alterou"}], "id": "federal/leis-ordinarias/1998/lei-9774-1998-12-21"}
+],
+"controle": []
+}

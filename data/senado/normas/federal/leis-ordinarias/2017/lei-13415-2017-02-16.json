@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2017/lei-13415-2017-02-16",
+"urn": "urn:lex:br:federal:lei:2017-02-16;13415",
+"consultado_em": "2026-11-06",
+"codigo": "602639",
+"nome": "Lei nº 13.415 de 16/02/2017",
+"apelidos": [
+"Reforma do Ensino Médio (2017)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2017-02-17", "descricao": "Publicação Original [Diário Oficial da União de 17/02/2017] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2023-07-31", "nome": "Lei nº 14.640 de 31/07/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14, § 3", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 14, § 4", "art": "14", "acao": "vetado"}, {"dispositivo": "Art. 14, § 5", "art": "14", "acao": "vetado"}, {"dispositivo": "Art. 17, Parágrafo Único", "art": "17", "acao": "renumerou"}, {"dispositivo": "Art. 17, § 2", "art": "17", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14640-2023-07-31"},
+{"data": "2023-07-31", "nome": "Lei nº 14.640 de 31/07/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14640-2023-07-31"},
+{"data": "2023-07-31", "nome": "Lei nº 14.640 de 31/07/2023", "tipo": "Alteração Vetada", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14640-2023-07-31"},
+{"data": "2023-07-31", "nome": "Lei nº 14.640 de 31/07/2023", "tipo": "Alteração Vetada", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14640-2023-07-31"}
+],
+"controle": []
+}

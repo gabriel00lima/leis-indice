@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8656-1946-01-14",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-14;8656",
+"consultado_em": "2026-11-06",
+"codigo": "533692",
+"nome": "Decreto-Lei nº 8.656 de 14/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-16", "descricao": "Publicação Original [Diário Oficial da União de 16/01/1946] (p. 697, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-03-11", "nome": "Decreto-Lei nº 9.048 de 11/03/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9048-1946-03-11"}
+],
+"controle": []
+}

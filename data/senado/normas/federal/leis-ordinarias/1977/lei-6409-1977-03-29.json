@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6409-1977-03-29",
+"urn": "urn:lex:br:federal:lei:1977-03-29;6409",
+"consultado_em": "2026-11-06",
+"codigo": "548285",
+"nome": "Lei nº 6.409 de 29/03/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-03-30", "descricao": "Publicação Original [Diário Oficial da União de 30/03/1977] (p. 3651, col. 2)"}
+],
+"alteracoes": [
+{"data": "1978-03-17", "nome": "Lei nº 6.518 de 17/03/1978", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1978/lei-6518-1978-03-17"}
+],
+"controle": []
+}

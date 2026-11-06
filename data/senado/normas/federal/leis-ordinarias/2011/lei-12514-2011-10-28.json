@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2011/lei-12514-2011-10-28",
+"urn": "urn:lex:br:federal:lei:2011-10-28;12514",
+"consultado_em": "2026-11-06",
+"codigo": "584370",
+"nome": "Lei nº 12.514 de 28/10/2011",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2011-10-31", "descricao": "Publicação Original [Diário Oficial da União de 31/10/2011] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-03-29", "nome": "Medida Provisória nº 1.040 de 29/03/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 8, Parágrafo Único", "art": "8", "acao": "alterou"}]},
+{"data": "2021-08-26", "nome": "Lei nº 14.195 de 26/08/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, Parágrafo Único", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 7, caput", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 7, caput, Inciso 1", "art": "7", "acao": "acrescentou"}, {"dispositivo": "Art. 7, caput, Inciso 2", "art": "7", "acao": "acrescentou"}, {"dispositivo": "Art. 8, caput", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8, § 1", "art": "8", "acao": "acrescentou"}, {"dispositivo": "Art. 8, Parágrafo Único", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 8, § 2", "art": "8", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2021/lei-14195-2021-08-26"}
+],
+"controle": []
+}

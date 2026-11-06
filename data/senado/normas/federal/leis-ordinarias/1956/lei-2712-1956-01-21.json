@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1956/lei-2712-1956-01-21",
+"urn": "urn:lex:br:federal:lei:1956-01-21;2712",
+"consultado_em": "2026-11-06",
+"codigo": "544530",
+"nome": "Lei nº 2.712 de 21/01/1956",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1956-01-21", "descricao": "Publicação Original [Diário Oficial da União de 21/01/1956] (p. 1185, col. 1)"}
+],
+"alteracoes": [
+{"data": "1956-07-18", "nome": "Lei nº 2.828 de 18/07/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2828-1956-07-18"}
+],
+"controle": []
+}

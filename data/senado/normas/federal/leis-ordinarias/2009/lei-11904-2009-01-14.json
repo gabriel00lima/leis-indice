@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2009/lei-11904-2009-01-14",
+"urn": "urn:lex:br:federal:lei:2009-01-14;11904",
+"consultado_em": "2026-11-06",
+"codigo": "583529",
+"nome": "Lei nº 11.904 de 14/01/2009",
+"apelidos": [
+"Estatuto de Museus (2009)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2009-01-15", "descricao": "Publicação Original [Diário Oficial da União de 15/01/2009] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2013-10-17", "nome": "Decreto nº 8.124 de 17/10/2013", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2015-07-06", "nome": "Lei nº 13.146 de 06/07/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 46, caput, Inciso 4, Alínea k", "art": "46", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2015/lei-13146-2015-07-06"}
+],
+"controle": []
+}

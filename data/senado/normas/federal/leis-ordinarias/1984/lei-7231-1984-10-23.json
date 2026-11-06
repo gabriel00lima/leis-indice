@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1984/lei-7231-1984-10-23",
+"urn": "urn:lex:br:federal:lei:1984-10-23;7231",
+"consultado_em": "2026-11-06",
+"codigo": "549107",
+"nome": "Lei nº 7.231 de 23/10/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-10-24", "descricao": "Publicação Original [Diário Oficial da União de 24/10/1984] (p. 15537, col. 1)"}
+],
+"alteracoes": [
+{"data": "1984-12-12", "nome": "Decreto nº 90.697 de 12/12/1984", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1984-12-12", "nome": "Decreto nº 90.698 de 12/12/1984", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1985-04-30", "nome": "Decreto nº 91.214 de 30/04/1985", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1987-05-14", "nome": "Decreto nº 94.331 de 14/05/1987", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1987-10-21", "nome": "Decreto-Lei nº 2.363 de 21/10/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2363-1987-10-21"}
+],
+"controle": []
+}

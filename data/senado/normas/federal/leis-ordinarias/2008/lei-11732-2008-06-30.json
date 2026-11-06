@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11732-2008-06-30",
+"urn": "urn:lex:br:federal:lei:2008-06-30;11732",
+"consultado_em": "2026-11-06",
+"codigo": "582154",
+"nome": "Lei nº 11.732 de 30/06/2008",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-07-01", "descricao": "Publicação Original [Diário Oficial da União de 01/07/2008] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2008-12-18", "nome": "Decreto nº 6.702 de 18/12/2008", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "regulamentou"}]},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2009-05-27", "nome": "Lei nº 11.941 de 27/05/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-11941-2009-05-27"}
+],
+"controle": []
+}

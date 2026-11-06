@@ -1,0 +1,37 @@
+{
+"id": "federal/leis-ordinarias/2023/lei-14785-2023-12-27",
+"urn": "urn:lex:br:federal:lei:2023-12-27;14785",
+"consultado_em": "2026-11-06",
+"codigo": "38039732",
+"nome": "Lei nº 14.785 de 27/12/2023",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2023-12-28", "descricao": "Publicação Original [Diário Oficial da União de 28/12/2023] (p. 28, col. 1)"},
+{"tipo": "RET", "data": "2024-04-16", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 16/04/2024] (p. 1, col. 1)"},
+{"tipo": "VEP", "data": "2024-05-22", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União de 22/05/2024] (p. 5, col. 2)"},
+{"tipo": "VEP", "data": "2025-07-02", "descricao": "Publicação de Veto Parcialmente Rejeitado (Seq. 2) [Diário Oficial da União de 02/07/2025] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2023-12-27", "nome": "Mensagem de Veto Parcial nº 741 de 27/12/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-12-27", "nome": "Mensagem de Veto Parcial nº 741 de 27/12/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-12-27", "nome": "Mensagem de Veto Parcial nº 741 de 27/12/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-12-27", "nome": "Mensagem de Veto Parcial nº 741 de 27/12/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-12-27", "nome": "Mensagem de Veto Parcial nº 741 de 27/12/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-12-27", "nome": "Mensagem de Veto Parcial nº 741 de 27/12/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-12-27", "nome": "Mensagem de Veto Parcial nº 741 de 27/12/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-12-27", "nome": "Mensagem de Veto Parcial nº 741 de 27/12/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-12-27", "nome": "Mensagem de Veto Parcial nº 741 de 27/12/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-12-27", "nome": "Mensagem de Veto Parcial nº 741 de 27/12/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-12-27", "nome": "Mensagem de Veto Parcial nº 741 de 27/12/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-12-27", "nome": "Mensagem de Veto Parcial nº 741 de 27/12/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-12-27", "nome": "Mensagem de Veto Parcial nº 741 de 27/12/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-12-27", "nome": "Mensagem de Veto Parcial nº 741 de 27/12/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 5, Inciso 5", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 27, caput, Inciso 1", "art": "27", "acao": "veto"}, {"dispositivo": "Art. 27, caput, Inciso 2", "art": "27", "acao": "veto"}, {"dispositivo": "Art. 27, caput, Inciso 3", "art": "27", "acao": "veto"}, {"dispositivo": "Art. 28, caput", "art": "28", "acao": "veto"}, {"dispositivo": "Art. 28, Parágrafo Único", "art": "28", "acao": "veto"}, {"dispositivo": "Art. 29, § 2", "art": "29", "acao": "veto"}, {"dispositivo": "Art. 30, § 2", "art": "30", "acao": "veto"}, {"dispositivo": "Art. 41, caput, Inciso 5", "art": "41", "acao": "veto"}, {"dispositivo": "Art. 59, caput", "art": "59", "acao": "veto"}, {"dispositivo": "Art. 59, § 1", "art": "59", "acao": "veto"}, {"dispositivo": "Art. 59, § 2", "art": "59", "acao": "veto"}, {"dispositivo": "Art. 60, caput", "art": "60", "acao": "veto"}, {"dispositivo": "Art. 61, caput", "art": "61", "acao": "veto"}, {"dispositivo": "Art. 62, caput, Inciso 1", "art": "62", "acao": "veto"}, {"dispositivo": "Art. 65, caput, Inciso 2", "art": "65", "acao": "veto"}, {"dispositivo": "Art. 65, caput, Inciso 3", "art": "65", "acao": "veto"}]},
+{"data": "2023-12-27", "nome": "Mensagem de Veto Parcial nº 741 de 27/12/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-12-23", "nome": "Lei nº 15.070 de 23/12/2024", "tipo": "Ressalva Permanente da Norma no todo", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-15070-2024-12-23"},
+{"data": "2024-12-23", "nome": "Lei nº 15.070 de 23/12/2024", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-15070-2024-12-23"},
+{"data": "2024-12-23", "nome": "Lei nº 15.070 de 23/12/2024", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-15070-2024-12-23"},
+{"data": "2024-12-23", "nome": "Lei nº 15.070 de 23/12/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, caput, Inciso 4", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 2, caput, Inciso 32", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 2, caput, Inciso 50", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3, § 1, Inciso 9", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, § 1, Inciso 10", "art": "3", "acao": "revogou"}], "id": "federal/leis-ordinarias/2024/lei-15070-2024-12-23"},
+{"data": "2025-06-30", "nome": "Decreto nº 12.538 de 30/06/2025", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

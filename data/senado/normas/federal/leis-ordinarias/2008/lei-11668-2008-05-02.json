@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11668-2008-05-02",
+"urn": "urn:lex:br:federal:lei:2008-05-02;11668",
+"consultado_em": "2026-11-06",
+"codigo": "569507",
+"nome": "Lei nº 11.668 de 02/05/2008",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-05-05", "descricao": "Publicação Original [Diário Oficial da União de 05/05/2008] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2008-11-07", "nome": "Decreto nº 6.639 de 07/11/2008", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2010-10-13", "nome": "Medida Provisória nº 509 de 13/10/2010", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 7, Parágrafo Único", "art": "7", "acao": "acrescentou"}]},
+{"data": "2011-04-07", "nome": "Lei nº 12.400 de 07/04/2011", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, caput, Inciso Único", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 7-A", "art": "7-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2011/lei-12400-2011-04-07"}
+],
+"controle": []
+}

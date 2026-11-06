@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6513-1977-12-20",
+"urn": "urn:lex:br:federal:lei:1977-12-20;6513",
+"consultado_em": "2026-11-06",
+"codigo": "548389",
+"nome": "Lei nº 6.513 de 20/12/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/1977] (p. 17665, col. 1)"}
+],
+"alteracoes": [
+{"data": "1981-07-06", "nome": "Decreto nº 86.176 de 06/07/1981", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1991-03-28", "nome": "Lei nº 8.181 de 28/03/1991", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 24, caput, Inciso 1", "art": "24", "acao": "alterou"}, {"dispositivo": "Art. 25, § 2", "art": "25", "acao": "revogou"}], "id": "federal/leis-ordinarias/1991/lei-8181-1991-03-28"},
+{"data": "2024-09-18", "nome": "Lei nº 14.978 de 18/09/2024", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14978-2024-09-18"}
+],
+"controle": []
+}

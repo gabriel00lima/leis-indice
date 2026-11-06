@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1967/del-102-1967-01-13",
+"urn": "urn:lex:br:federal:decreto.lei:1967-01-13;102",
+"consultado_em": "2026-11-06",
+"codigo": "522845",
+"nome": "Decreto-Lei nº 102 de 13/01/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-01-16", "descricao": "Publicação Original [Diário Oficial da União de 16/01/1967] (p. 617, col. 1)"}
+],
+"alteracoes": [
+{"data": "1975-04-16", "nome": "Lei nº 6.201 de 16/04/1975", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1975/lei-6201-1975-04-16"}
+],
+"controle": []
+}

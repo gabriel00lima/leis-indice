@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1983/del-2067-1983-11-09",
+"urn": "urn:lex:br:federal:decreto.lei:1983-11-09;2067",
+"consultado_em": "2026-11-06",
+"codigo": "526743",
+"nome": "Decreto-Lei nº 2.067 de 09/11/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-11-10", "descricao": "Publicação Original [Diário Oficial da União de 10/11/1983] (p. 19001, col. 1)"}
+],
+"alteracoes": [
+{"data": "1984-05-02", "nome": "Decreto Legislativo nº 7 de 02/05/1984", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1984-12-11", "nome": "Decreto-Lei nº 2.182 de 11/12/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/decretos-lei/1984/del-2182-1984-12-11"}
+],
+"controle": []
+}

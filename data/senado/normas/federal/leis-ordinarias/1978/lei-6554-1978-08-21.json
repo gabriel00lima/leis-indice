@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1978/lei-6554-1978-08-21",
+"urn": "urn:lex:br:federal:lei:1978-08-21;6554",
+"consultado_em": "2026-11-06",
+"codigo": "548430",
+"nome": "Lei nº 6.554 de 21/08/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-08-22", "descricao": "Publicação Original [Diário Oficial da União de 22/08/1978] (p. 13527, col. 2)"}
+],
+"alteracoes": [
+{"data": "1979-03-01", "nome": "Decreto nº 83.226 de 01/03/1979", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1979-06-18", "nome": "Decreto nº 83.583 de 18/06/1979", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1980-07-07", "nome": "Lei nº 6.810 de 07/07/1980", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1980/lei-6810-1980-07-07"},
+{"data": "1982-10-05", "nome": "Lei nº 7.034 de 05/10/1982", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7034-1982-10-05"},
+{"data": "1982-10-05", "nome": "Lei nº 7.038 de 05/10/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7038-1982-10-05"},
+{"data": "1983-11-23", "nome": "Lei nº 7.143 de 23/11/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1983/lei-7143-1983-11-23"}
+],
+"controle": []
+}

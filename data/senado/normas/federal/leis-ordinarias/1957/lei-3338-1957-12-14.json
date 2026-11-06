@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1957/lei-3338-1957-12-14",
+"urn": "urn:lex:br:federal:lei:1957-12-14;3338",
+"consultado_em": "2026-11-06",
+"codigo": "545137",
+"nome": "Lei nº 3.338 de 14/12/1957",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1957-12-17", "descricao": "Publicação Original [Diário Oficial da União de 17/12/1957] (p. 28221, col. 1)"}
+],
+"alteracoes": [
+{"data": "1958-07-15", "nome": "Lei nº 3.429 de 15/07/1958", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1958/lei-3429-1958-07-15"}
+],
+"controle": []
+}

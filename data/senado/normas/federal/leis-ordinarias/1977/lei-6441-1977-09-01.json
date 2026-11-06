@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6441-1977-09-01",
+"urn": "urn:lex:br:federal:lei:1977-09-01;6441",
+"consultado_em": "2026-11-06",
+"codigo": "548317",
+"nome": "Lei nº 6.441 de 01/09/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-09-02", "descricao": "Publicação Original [Diário Oficial da União de 02/09/1977] (p. 11622, col. 2)"}
+],
+"alteracoes": [
+{"data": "1978-03-01", "nome": "Decreto-Lei nº 1.609 de 01/03/1978", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/decretos-lei/1978/del-1609-1978-03-01"},
+{"data": "1978-04-27", "nome": "Decreto nº 81.613 de 27/04/1978", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1978-06-08", "nome": "Decreto nº 81.776 de 08/06/1978", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

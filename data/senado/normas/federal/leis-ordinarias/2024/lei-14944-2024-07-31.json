@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2024/lei-14944-2024-07-31",
+"urn": "urn:lex:br:federal:lei:2024-07-31;14944",
+"consultado_em": "2026-11-06",
+"codigo": "39388600",
+"nome": "Lei nº 14.944 de 31/07/2024",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2024-08-01", "descricao": "Publicação Original [Diário Oficial da União de 01/08/2024] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2024-09-10", "nome": "Decreto nº 12.173 de 10/09/2024", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "regulamentou"}, {"dispositivo": "Art. 26", "art": "26", "acao": "regulamentou"}, {"dispositivo": "Art. 27", "art": "27", "acao": "regulamentou"}]},
+{"data": "2024-11-22", "nome": "Medida Provisória nº 1.276 de 22/11/2024", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 46-A, caput", "art": "46-a", "acao": "acrescentou"}]},
+{"data": "2024-11-22", "nome": "Medida Provisória nº 1.276 de 22/11/2024", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2025-05-29", "nome": "Ato do Presidente do Congresso Nacional nº 33 de 29/05/2025", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

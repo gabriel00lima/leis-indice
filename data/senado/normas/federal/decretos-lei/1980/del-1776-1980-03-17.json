@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1980/del-1776-1980-03-17",
+"urn": "urn:lex:br:federal:decreto.lei:1980-03-17;1776",
+"consultado_em": "2026-11-06",
+"codigo": "526162",
+"nome": "Decreto-Lei nº 1.776 de 17/03/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-03-18", "descricao": "Publicação Original [Diário Oficial da União de 18/03/1980] (p. 4785, col. 1)"}
+],
+"alteracoes": [
+{"data": "1980-08-28", "nome": "Decreto Legislativo nº 89 de 28/08/1980", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1984-02-13", "nome": "Decreto-Lei nº 2.107 de 13/02/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2107-1984-02-13"},
+{"data": "1984-09-06", "nome": "Decreto-Lei nº 2.160 de 06/09/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2160-1984-09-06"},
+{"data": "1985-07-02", "nome": "Lei nº 7.334 de 02/07/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 2, § 3", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/1985/lei-7334-1985-07-02"}
+],
+"controle": []
+}

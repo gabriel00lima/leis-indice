@@ -1,0 +1,31 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6439-1977-09-01",
+"urn": "urn:lex:br:federal:lei:1977-09-01;6439",
+"consultado_em": "2026-11-06",
+"codigo": "548315",
+"nome": "Lei nº 6.439 de 01/09/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-09-02", "descricao": "Publicação Original [Diário Oficial da União de 02/09/1977] (p. 11617, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-09-08", "nome": "Decreto nº 80.303 de 08/09/1977", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1977-11-30", "nome": "Decreto nº 80.887 de 30/11/1977", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1978-06-28", "nome": "Lei nº 6.539 de 28/06/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1978/lei-6539-1978-06-28"},
+{"data": "1979-01-24", "nome": "Decreto nº 83.080 de 24/01/1979", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1979-01-24", "nome": "Decreto nº 83.081 de 24/01/1979", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1979-02-08", "nome": "Decreto nº 83.148 de 08/02/1979", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1979-02-08", "nome": "Decreto nº 83.149 de 08/02/1979", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1979-03-12", "nome": "Decreto nº 83.266 de 12/03/1979", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1979-12-05", "nome": "Decreto nº 84.265 de 05/12/1979", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1981-12-29", "nome": "Decreto-Lei nº 1.910 de 29/12/1981", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 31", "art": "31", "acao": "revogou"}], "id": "federal/decretos-lei/1981/del-1910-1981-12-29"},
+{"data": "1982-12-30", "nome": "Decreto nº 88.011 de 30/12/1982", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1983-12-09", "nome": "Decreto nº 89.167 de 09/12/1983", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1985-07-16", "nome": "Decreto nº 91.439 de 16/07/1985", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1989-01-15", "nome": "Medida Provisória nº 30 de 15/01/1989", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1990-03-07", "nome": "Decreto nº 99.060 de 07/03/1990", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "1991-10-11", "nome": "Decreto nº 229 de 11/10/1991", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-07-27", "nome": "Lei nº 8.689 de 27/07/1993", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [], "id": "federal/leis-ordinarias/1993/lei-8689-1993-07-27"}
+],
+"controle": []
+}

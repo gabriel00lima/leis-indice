@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2023/lei-14758-2023-12-19",
+"urn": "urn:lex:br:federal:lei:2023-12-19;14758",
+"consultado_em": "2026-11-06",
+"codigo": "37953903",
+"nome": "Lei nº 14.758 de 19/12/2023",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2023-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/2023] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2026-04-10", "nome": "Lei nº 15.385 de 10/04/2026", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2026/lei-15385-2026-04-10"},
+{"data": "2026-04-10", "nome": "Lei nº 15.385 de 10/04/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 3", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 7-A", "art": "7-a", "acao": "acrescentou"}, {"dispositivo": "Art. 7-B", "art": "7-b", "acao": "acrescentou"}, {"dispositivo": "Art. 7-C", "art": "7-c", "acao": "acrescentou"}, {"dispositivo": "Art. 10, § 5", "art": "10", "acao": "acrescentou"}, {"dispositivo": "Art. 15-A, caput", "art": "15-a", "acao": "acrescentou"}, {"dispositivo": "Art. 15-B, caput", "art": "15-b", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15385-2026-04-10"}
+],
+"controle": []
+}

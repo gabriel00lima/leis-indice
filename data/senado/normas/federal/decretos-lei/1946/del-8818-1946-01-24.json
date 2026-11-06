@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8818-1946-01-24",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-24;8818",
+"consultado_em": "2026-11-06",
+"codigo": "533854",
+"nome": "Decreto-Lei nº 8.818 de 24/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-25", "descricao": "Publicação Original [Diário Oficial da União de 25/01/1946] (p. 1261, col. 1)"}
+],
+"alteracoes": [
+{"data": "1948-08-11", "nome": "Lei nº 323 de 11/08/1948", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1948/lei-323-1948-08-11"}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7727-1989-01-09",
+"urn": "urn:lex:br:federal:lei:1989-01-09;7727",
+"consultado_em": "2026-11-06",
+"codigo": "549603",
+"nome": "Lei nº 7.727 de 09/01/1989",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-01-10", "descricao": "Publicação Original [Diário Oficial da União de 10/01/1989] (p. 569, col. 1)"}
+],
+"alteracoes": [
+{"data": "1992-04-27", "nome": "Lei nº 8.418 de 27/04/1992", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 1", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/1992/lei-8418-1992-04-27"},
+{"data": "1994-07-12", "nome": "Lei nº 8.914 de 12/07/1994", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "correlato"}], "id": "federal/leis-ordinarias/1994/lei-8914-1994-07-12"},
+{"data": "2000-05-10", "nome": "Lei nº 9.967 de 10/05/2000", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 1", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2000/lei-9967-2000-05-10"}
+],
+"controle": []
+}

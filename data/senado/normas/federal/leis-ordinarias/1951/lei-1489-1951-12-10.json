@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1951/lei-1489-1951-12-10",
+"urn": "urn:lex:br:federal:lei:1951-12-10;1489",
+"consultado_em": "2026-11-06",
+"codigo": "543176",
+"nome": "Lei nº 1.489 de 10/12/1951",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1951-12-13", "descricao": "Publicação Original [Diário Oficial da União de 13/12/1951] (p. 18209, col. 1)"}
+],
+"alteracoes": [
+{"data": "1962-08-14", "nome": "Decreto do Conselho de MInistros nº 1.313 de 14/08/1962", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

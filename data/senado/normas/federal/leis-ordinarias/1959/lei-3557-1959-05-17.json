@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1959/lei-3557-1959-05-17",
+"urn": "urn:lex:br:federal:lei:1959-05-17;3557",
+"consultado_em": "2026-11-06",
+"codigo": "545373",
+"nome": "Lei nº 3.557 de 17/05/1959",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1959-05-19", "descricao": "Publicação Original [Diário Oficial da União de 19/05/1959] (p. 11745, col. 2)"}
+],
+"alteracoes": [
+{"data": "1989-11-23", "nome": "Lei nº 7.891 de 23/11/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1989/lei-7891-1989-11-23"}
+],
+"controle": []
+}

@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/2022/lei-14293-2022-01-04",
+"urn": "urn:lex:br:federal:lei:2022-01-04;14293",
+"consultado_em": "2026-11-06",
+"codigo": "35410570",
+"nome": "Lei nº 14.293 de 04/01/2022",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2022-01-05", "descricao": "Publicação Original [Diário Oficial da União de 05/01/2022] (p. 2, col. 1)"},
+{"tipo": "VEP", "data": "2022-03-25", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União de 25/03/2022] (p. 4, col. 2)"}
+],
+"alteracoes": [
+{"data": "2022-01-04", "nome": "Mensagem de Veto Parcial nº 6 de 04/01/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-01-04", "nome": "Mensagem de Veto Parcial nº 6 de 04/01/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 2", "art": "2", "acao": "veto"}, {"dispositivo": "Art. 8, caput", "art": "8", "acao": "veto"}, {"dispositivo": "Art. 8, Parágrafo Único", "art": "8", "acao": "veto"}]},
+{"data": "2022-01-04", "nome": "Mensagem de Veto Parcial nº 6 de 04/01/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2026-08-17", "nome": "Lei nº 15.490 de 17/08/2026", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2026/lei-15490-2026-08-17"},
+{"data": "2026-08-17", "nome": "Lei nº 15.490 de 17/08/2026", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2026/lei-15490-2026-08-17"},
+{"data": "2026-08-17", "nome": "Lei nº 15.490 de 17/08/2026", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2026/lei-15490-2026-08-17"},
+{"data": "2026-08-17", "nome": "Lei nº 15.490 de 17/08/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 4, caput", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, Parágrafo Único, apenas o Caput", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, Parágrafo Único, Inciso 1", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, Parágrafo Único, Inciso 2", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, § 2, Inciso 1", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 5, § 2, Inciso 2", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 5, § 3", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 6, caput", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 6, caput, Inciso 1", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 6, caput, Inciso 4", "art": "6", "acao": "acrescentou"}, {"dispositivo": "Art. 6, caput, Inciso 5", "art": "6", "acao": "acrescentou"}, {"dispositivo": "Art. 7, § 1", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 7, § 2", "art": "7", "acao": "alterou"}], "id": "federal/leis-ordinarias/2026/lei-15490-2026-08-17"}
+],
+"controle": []
+}

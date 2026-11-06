@@ -1,0 +1,25 @@
+{
+"id": "federal/leis-ordinarias/2024/lei-14947-2024-08-02",
+"urn": "urn:lex:br:federal:lei:2024-08-02;14947",
+"consultado_em": "2026-11-06",
+"codigo": "39410103",
+"nome": "Lei nº 14.947 de 02/08/2024",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2024-08-02", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 02/08/2024 - nº 148-A] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "2025-07-28", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 28/07/2025] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2024-08-02", "nome": "Mensagem de Veto Parcial nº 740 de 02/08/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "veto"}]},
+{"data": "2024-08-02", "nome": "Mensagem de Veto Parcial nº 740 de 02/08/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-08-29", "nome": "Decreto nº 12.157 de 29/08/2024", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "correlato"}]},
+{"data": "2026-06-12", "nome": "Medida Provisória nº 1.366 de 12/06/2026", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 4, Inciso 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6, caput", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 6, Parágrafo Único", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 8, caput", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8, Parágrafo Único", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8-A", "art": "8-a", "acao": "acrescentou"}]},
+{"data": "2026-06-12", "nome": "Medida Provisória nº 1.366 de 12/06/2026", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2026-06-30", "nome": "Medida Provisória nº 1.374 de 30/06/2026", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2026-06-30", "nome": "Medida Provisória nº 1.374 de 30/06/2026", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 8-A, § 12", "art": "8-a", "acao": "acrescentou"}]},
+{"data": "2026-09-14", "nome": "Lei nº 15.503 de 14/09/2026", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2026/lei-15503-2026-09-14"},
+{"data": "2026-09-14", "nome": "Lei nº 15.503 de 14/09/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 4, Inciso 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6, caput", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 6, Parágrafo Único", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 8, caput", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8, Parágrafo Único", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8-A", "art": "8-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15503-2026-09-14"},
+{"data": "2026-09-14", "nome": "Lei nº 15.503 de 14/09/2026", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2026/lei-15503-2026-09-14"}
+],
+"controle": []
+}

@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4725-1965-07-13",
+"urn": "urn:lex:br:federal:lei:1965-07-13;4725",
+"consultado_em": "2026-11-06",
+"codigo": "546578",
+"nome": "Lei nº 4.725 de 13/07/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-07-13", "descricao": "Publicação Original [Diário Oficial da União de 13/07/1965] (p. 6561, col. 3)"}
+],
+"alteracoes": [
+{"data": "1965-12-16", "nome": "Lei nº 4.903 de 16/12/1965", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4903-1965-12-16"},
+{"data": "1965-12-23", "nome": "Lei nº 4.923 de 23/12/1965", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4923-1965-12-23"},
+{"data": "1968-06-12", "nome": "Lei nº 5.451 de 12/06/1968", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1968/lei-5451-1968-06-12"},
+{"data": "1969-01-21", "nome": "Decreto-Lei nº 424 de 21/01/1969", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12, Parágrafo Único", "art": "12", "acao": "revogou"}], "id": "federal/decretos-lei/1969/del-424-1969-01-21"}
+],
+"controle": []
+}

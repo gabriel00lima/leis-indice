@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1947/lei-94-1947-09-16",
+"urn": "urn:lex:br:federal:lei:1947-09-16;94",
+"consultado_em": "2026-11-06",
+"codigo": "541042",
+"nome": "Lei nº 94 de 16/09/1947",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1947-09-22", "descricao": "Publicação Original [Diário Oficial da União de 22/09/1947] (p. 12467, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-11-25", "nome": "Lei nº 5.567 de 25/11/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1969/lei-5567-1969-11-25"}
+],
+"controle": []
+}

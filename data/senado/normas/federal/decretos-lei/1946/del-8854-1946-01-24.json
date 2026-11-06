@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1946/del-8854-1946-01-24",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-24;8854",
+"consultado_em": "2026-11-06",
+"codigo": "533890",
+"nome": "Decreto-Lei nº 8.854 de 24/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-28", "descricao": "Publicação Original [Diário Oficial da União de 28/01/1946] (p. 1390, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-05-13", "nome": "Decreto-Lei nº 9.252 de 13/05/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9252-1946-05-13"},
+{"data": "1946-07-06", "nome": "Decreto-Lei nº 9.431 de 06/07/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9431-1946-07-06"},
+{"data": "1946-09-03", "nome": "Decreto nº 21.809 de 03/09/1946", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1948-02-28", "nome": "Lei nº 267 de 28/02/1948", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1948/lei-267-1948-02-28"},
+{"data": "1961-04-11", "nome": "Decreto nº 50.441 de 11/04/1961", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

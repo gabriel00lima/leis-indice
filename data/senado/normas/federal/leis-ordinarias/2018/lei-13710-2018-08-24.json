@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2018/lei-13710-2018-08-24",
+"urn": "urn:lex:br:federal:lei:2018-08-24;13710",
+"consultado_em": "2026-11-06",
+"codigo": "27462678",
+"nome": "Lei nº 13.710 de 24/08/2018",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2018-08-27", "descricao": "Publicação Original [Diário Oficial da União de 27/08/2018] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2026-01-08", "nome": "Lei nº 15.337 de 08/01/2026", "tipo": "Acréscimo Vetado", "dispositivos": [], "id": "federal/leis-ordinarias/2026/lei-15337-2026-01-08"},
+{"data": "2026-01-08", "nome": "Lei nº 15.337 de 08/01/2026", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2026/lei-15337-2026-01-08"},
+{"data": "2026-01-08", "nome": "Lei nº 15.337 de 08/01/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, caput, Inciso 14", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3-A, caput", "art": "3-a", "acao": "acrescentou"}, {"dispositivo": "Art. 3-A, Parágrafo Único", "art": "3-a", "acao": "acrescentou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2026/lei-15337-2026-01-08"},
+{"data": "2026-01-08", "nome": "Lei nº 15.337 de 08/01/2026", "tipo": "Acréscimo Vetado", "dispositivos": [], "id": "federal/leis-ordinarias/2026/lei-15337-2026-01-08"}
+],
+"controle": []
+}

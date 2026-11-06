@@ -1,0 +1,24 @@
+{
+"id": "federal/decretos-lei/1966/del-74-1966-11-21",
+"urn": "urn:lex:br:federal:decreto.lei:1966-11-21;74",
+"consultado_em": "2026-11-06",
+"codigo": "522789",
+"nome": "Decreto-Lei nº 74 de 21/11/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-22", "descricao": "Publicação Original [Diário Oficial da União de 22/11/1966] (p. 13529, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-01-31", "nome": "Decreto-Lei nº 127 de 31/01/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/decretos-lei/1967/del-127-1967-01-31"},
+{"data": "1967-02-17", "nome": "Decreto nº 60.237 de 17/02/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1967-02-21", "nome": "Decreto-Lei nº 184 de 21/02/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/decretos-lei/1967/del-184-1967-02-21"},
+{"data": "1967-02-28", "nome": "Decreto-Lei nº 242 de 28/02/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1967/del-242-1967-02-28"},
+{"data": "1970-05-11", "nome": "Decreto nº 66.544 de 11/05/1970", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1970-05-11", "nome": "Decreto nº 66.544 de 11/05/1970", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1972-01-24", "nome": "Decreto nº 70.025 de 24/01/1972", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1974-09-20", "nome": "Decreto nº 74.583 de 20/09/1974", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "1985-03-15", "nome": "Decreto nº 91.144 de 15/03/1985", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1985-11-28", "nome": "Decreto nº 92.000 de 28/11/1985", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,29 @@
+{
+"id": "federal/leis-ordinarias/1997/lei-9526-1997-12-08",
+"urn": "urn:lex:br:federal:lei:1997-12-08;9526",
+"consultado_em": "2026-11-06",
+"codigo": "551402",
+"nome": "Lei nº 9.526 de 08/12/1997",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1997-12-09", "descricao": "Publicação Original [Diário Oficial da União de 09/12/1997] (p. 29041, col. 1)"}
+],
+"alteracoes": [
+{"data": "1998-08-12", "nome": "Medida Provisória nº 1.711 de 12/08/1998", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "correlato"}]},
+{"data": "1998-09-10", "nome": "Medida Provisória nº 1.711-1 de 10/09/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1998-10-08", "nome": "Medida Provisória nº 1.711-2 de 08/10/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1998-11-05", "nome": "Medida Provisória nº 1.711-3 de 05/11/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1998-12-03", "nome": "Medida Provisória nº 1.711-4 de 03/12/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1998-12-30", "nome": "Medida Provisória nº 1.711-5 de 30/12/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1999-01-28", "nome": "Medida Provisória nº 1.711-6 de 28/01/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1999-02-25", "nome": "Medida Provisória nº 1.711-7 de 25/02/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1999-03-25", "nome": "Medida Provisória nº 1.711-8 de 25/03/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1999-04-22", "nome": "Medida Provisória nº 1.711-9 de 22/04/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1999-05-20", "nome": "Medida Provisória nº 1.711-10 de 20/05/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1999-06-17", "nome": "Medida Provisória nº 1.711-11 de 17/06/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1999-06-29", "nome": "Medida Provisória nº 1.831-12 de 29/06/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1999-07-27", "nome": "Medida Provisória nº 1.831-13 de 27/07/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1999-08-23", "nome": "Lei nº 9.814 de 23/08/1999", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4-A", "art": "4-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/1999/lei-9814-1999-08-23"}
+],
+"controle": []
+}

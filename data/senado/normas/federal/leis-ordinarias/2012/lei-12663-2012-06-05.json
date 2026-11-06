@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2012/lei-12663-2012-06-05",
+"urn": "urn:lex:br:federal:lei:2012-06-05;12663",
+"consultado_em": "2026-11-06",
+"codigo": "589586",
+"nome": "Lei nº 12.663 de 05/06/2012",
+"apelidos": [
+"Lei Geral da Copa (2012)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2012-06-06", "descricao": "Publicação Original [Diário Oficial da União de 06/06/2012] (p. 3, col. 3)"},
+{"tipo": "RET", "data": "2012-06-08", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 08/06/2012] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2012-08-07", "nome": "Decreto nº 7.783 de 07/08/2012", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2012-12-28", "nome": "Medida Provisória nº 600 de 28/12/2012", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 55, § 1", "art": "55", "acao": "acrescentou"}, {"dispositivo": "Art. 55, § 2", "art": "55", "acao": "acrescentou"}]},
+{"data": "2013-06-20", "nome": "Lei nº 12.833 de 20/06/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 55, § 1", "art": "55", "acao": "alterou"}, {"dispositivo": "Art. 55, § 2", "art": "55", "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12833-2013-06-20"}
+],
+"controle": []
+}

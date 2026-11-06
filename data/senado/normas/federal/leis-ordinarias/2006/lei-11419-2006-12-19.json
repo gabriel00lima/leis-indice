@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2006/lei-11419-2006-12-19",
+"urn": "urn:lex:br:federal:lei:2006-12-19;11419",
+"consultado_em": "2026-11-06",
+"codigo": "572571",
+"nome": "Lei nº 11.419 de 19/12/2006",
+"apelidos": [
+"Lei do Processo Judicial Eletrônico (2006)",
+"Lei de Informatização do Processo Judicial (2006)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2006-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/2006] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2019-01-03", "nome": "Lei nº 13.793 de 03/01/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11, § 6", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 11, § 7", "art": "11", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2019/lei-13793-2019-01-03"},
+{"data": "2022-03-29", "nome": "Lei nº 14.318 de 29/03/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11, § 5", "art": "11", "acao": "alterou"}], "id": "federal/leis-ordinarias/2022/lei-14318-2022-03-29"}
+],
+"controle": [
+{"data": "2020-02-20", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 3.880 de 20/02/2020", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1, Inciso 3, Alínea b", "art": "1", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 2", "art": "2", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 4", "art": "4", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 5", "art": "5", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 18", "art": "18", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "3880"}}
+]
+}

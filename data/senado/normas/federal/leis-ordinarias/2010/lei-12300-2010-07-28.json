@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2010/lei-12300-2010-07-28",
+"urn": "urn:lex:br:federal:lei:2010-07-28;12300",
+"consultado_em": "2026-11-06",
+"codigo": "575942",
+"nome": "Lei nº 12.300 de 28/07/2010",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2010-07-29", "descricao": "Publicação Original [Diário Oficial da União de 29/07/2010] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2012-12-19", "nome": "Resolução do Senado Federal nº 69 de 19/12/2012", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "correlato"}]},
+{"data": "2012-12-28", "nome": "Lei nº 12.779 de 28/12/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2012/lei-12779-2012-12-28"},
+{"data": "2016-06-27", "nome": "Lei nº 13.302 de 27/06/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, § 1", "art": "7", "acao": "alterou"}], "id": "federal/leis-ordinarias/2016/lei-13302-2016-06-27"},
+{"data": "2023-01-09", "nome": "Lei nº 14.526 de 09/01/2023", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "correlato"}], "id": "federal/leis-ordinarias/2023/lei-14526-2023-01-09"},
+{"data": "2023-10-03", "nome": "Ato da Comissão Diretora do Senado Federal nº 16 de 03/10/2023", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "regulamentou"}]},
+{"data": "2024-09-20", "nome": "Lei nº 14.982 de 20/09/2024", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 16, caput", "art": "16", "acao": "correlato"}], "id": "federal/leis-ordinarias/2024/lei-14982-2024-09-20"}
+],
+"controle": []
+}

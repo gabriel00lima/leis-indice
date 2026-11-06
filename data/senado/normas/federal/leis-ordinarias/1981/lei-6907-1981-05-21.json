@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1981/lei-6907-1981-05-21",
+"urn": "urn:lex:br:federal:lei:1981-05-21;6907",
+"consultado_em": "2026-11-06",
+"codigo": "548783",
+"nome": "Lei nº 6.907 de 21/05/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-05-22", "descricao": "Publicação Original [Diário Oficial da União de 22/05/1981] (p. 9365, col. 1)"},
+{"tipo": "RET", "data": "1981-06-04", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 04/06/1981] (p. 10373, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-05-25", "nome": "Lei nº 6.992 de 25/05/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-6992-1982-05-25"},
+{"data": "1982-12-07", "nome": "Lei nº 7.066 de 07/12/1982", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, § 2", "art": "7", "acao": "alterou"}], "id": "federal/leis-ordinarias/1982/lei-7066-1982-12-07"}
+],
+"controle": []
+}

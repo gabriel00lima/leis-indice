@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-593-1948-12-24",
+"urn": "urn:lex:br:federal:lei:1948-12-24;593",
+"consultado_em": "2026-11-06",
+"codigo": "542117",
+"nome": "Lei nº 593 de 24/12/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-12-29", "descricao": "Publicação Original [Diário Oficial da União de 29/12/1948] (p. 18461, col. 1)"}
+],
+"alteracoes": [
+{"data": "1951-09-17", "nome": "Lei nº 1.434 de 17/09/1951", "tipo": "Revigoração Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1951/lei-1434-1951-09-17"},
+{"data": "1969-06-23", "nome": "Decreto-Lei nº 645 de 23/06/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-645-1969-06-23"},
+{"data": "1991-05-21", "nome": "Lei nº 8.186 de 21/05/1991", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8186-1991-05-21"}
+],
+"controle": []
+}

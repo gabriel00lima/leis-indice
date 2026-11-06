@@ -1,0 +1,15 @@
+{
+"id": "federal/emendas-constitucionais/2021/emc-114-2021-12-16",
+"urn": "urn:lex:br:federal:emenda.constitucional:2021-12-16;114",
+"consultado_em": "2026-11-06",
+"codigo": "35289134",
+"nome": "Emenda Constitucional nº 114 de 16/12/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-12-17", "descricao": "Publicação Original [Diário Oficial da União de 17/12/2021] (p. 6, col. 2)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2023-11-30", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 7.064 de 30/11/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, caput", "art": "6", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}, {"dispositivo": "Art. 6, § 1", "art": "6", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}, {"dispositivo": "Art. 6, § 2", "art": "6", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}, {"dispositivo": "Art. 6, § 3", "art": "6", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}], "decisao": {"classe": "ADI", "numero": "7064"}}
+]
+}

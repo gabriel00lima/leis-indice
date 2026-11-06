@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1945/del-7367-1945-03-08",
+"urn": "urn:lex:br:federal:decreto.lei:1945-03-08;7367",
+"consultado_em": "2026-11-06",
+"codigo": "532470",
+"nome": "Decreto-Lei nº 7.367 de 08/03/1945",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1945-03-13", "descricao": "Publicação Original [Diário Oficial da União de 13/03/1945] (p. 4193, col. 1)"},
+{"tipo": "REP", "data": "1945-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1945 - vol. 005] (p. 397, col. 1)"}
+],
+"alteracoes": [
+{"data": "1945-06-27", "nome": "Decreto-Lei nº 7.682 de 27/06/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-7682-1945-06-27"}
+],
+"controle": []
+}

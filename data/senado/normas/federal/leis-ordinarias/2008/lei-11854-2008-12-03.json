@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11854-2008-12-03",
+"urn": "urn:lex:br:federal:lei:2008-12-03;11854",
+"consultado_em": "2026-11-06",
+"codigo": "583479",
+"nome": "Lei nº 11.854 de 03/12/2008",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-12-04", "descricao": "Publicação Original [Diário Oficial da União de 04/12/2008] (p. 40, col. 1)"}
+],
+"alteracoes": [
+{"data": "2026-02-17", "nome": "Lei nº 15.351 de 17/02/2026", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2026/lei-15351-2026-02-17"}
+],
+"controle": []
+}

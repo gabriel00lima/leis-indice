@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5388-1968-02-21",
+"urn": "urn:lex:br:federal:lei:1968-02-21;5388",
+"consultado_em": "2026-11-06",
+"codigo": "547252",
+"nome": "Lei nº 5.388 de 21/02/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-02-22", "descricao": "Publicação Original [Diário Oficial da União de 22/02/1968] (p. 1641, col. 2)"}
+],
+"alteracoes": [
+{"data": "1969-04-17", "nome": "Decreto-Lei nº 539 de 17/04/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-539-1969-04-17"}
+],
+"controle": []
+}

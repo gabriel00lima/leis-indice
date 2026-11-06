@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1970/del-1133-1970-11-16",
+"urn": "urn:lex:br:federal:decreto.lei:1970-11-16;1133",
+"consultado_em": "2026-11-06",
+"codigo": "524887",
+"nome": "Decreto-Lei nº 1.133 de 16/11/1970",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1970-11-17", "descricao": "Publicação Original [Diário Oficial da União de 17/11/1970] (p. 9753, col. 1)"}
+],
+"alteracoes": [
+{"data": "1971-01-12", "nome": "Decreto nº 68.044 de 12/01/1971", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1971-04-28", "nome": "Decreto Legislativo nº 3 de 28/04/1971", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1975-12-17", "nome": "Decreto-Lei nº 1.437 de 17/12/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1975/del-1437-1975-12-17"},
+{"data": "1977-12-21", "nome": "Decreto nº 81.101 de 21/12/1977", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}]},
+{"data": "1989-07-10", "nome": "Lei nº 7.798 de 10/07/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/1989/lei-7798-1989-07-10"}
+],
+"controle": []
+}

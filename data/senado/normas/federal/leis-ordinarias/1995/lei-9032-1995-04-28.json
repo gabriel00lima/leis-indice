@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9032-1995-04-28",
+"urn": "urn:lex:br:federal:lei:1995-04-28;9032",
+"consultado_em": "2026-11-06",
+"codigo": "550908",
+"nome": "Lei nº 9.032 de 28/04/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-04-29", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 29/04/1995 - nº 81-A] (p. 6033, col. 1)"}
+],
+"alteracoes": [
+{"data": "1995-11-20", "nome": "Lei nº 9.129 de 20/11/1995", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "correlato"}, {"dispositivo": "Art. 3", "art": "3", "acao": "correlato"}], "id": "federal/leis-ordinarias/1995/lei-9129-1995-11-20"},
+{"data": "2006-03-30", "nome": "Medida Provisória nº 288 de 30/03/2006", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]},
+{"data": "2006-07-07", "nome": "Lei nº 11.321 de 07/07/2006", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2006/lei-11321-2006-07-07"}
+],
+"controle": []
+}

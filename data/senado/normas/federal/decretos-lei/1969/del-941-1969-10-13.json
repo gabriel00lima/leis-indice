@@ -1,0 +1,20 @@
+{
+"id": "federal/decretos-lei/1969/del-941-1969-10-13",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-13;941",
+"consultado_em": "2026-11-06",
+"codigo": "524507",
+"nome": "Decreto-Lei nº 941 de 13/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-15", "descricao": "Publicação Original [Diário Oficial da União de 15/10/1969] (p. 8706, col. 1)"}
+],
+"alteracoes": [
+{"data": "1970-06-11", "nome": "Decreto nº 66.689 de 11/06/1970", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1971-10-29", "nome": "Lei nº 5.726 de 29/10/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5726-1971-10-29"},
+{"data": "1975-11-03", "nome": "Decreto nº 76.536 de 03/11/1975", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1975-11-18", "nome": "Lei nº 6.262 de 18/11/1975", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 132, § 1", "art": "132", "acao": "alterou"}, {"dispositivo": "Art. 132, § 3", "art": "132", "acao": "alterou"}], "id": "federal/leis-ordinarias/1975/lei-6262-1975-11-18"},
+{"data": "1979-08-29", "nome": "Decreto nº 83.914 de 29/08/1979", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1980-08-19", "nome": "Lei nº 6.815 de 19/08/1980", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1980/lei-6815-1980-08-19"}
+],
+"controle": []
+}

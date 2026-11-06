@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-531-1969-04-16",
+"urn": "urn:lex:br:federal:decreto.lei:1969-04-16;531",
+"consultado_em": "2026-11-06",
+"codigo": "523697",
+"nome": "Decreto-Lei nº 531 de 16/04/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-04-17", "descricao": "Publicação Original [Diário Oficial da União de 17/04/1969] (p. 3273, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-07-04", "nome": "Lei nº 7.336 de 04/07/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7336-1985-07-04"}
+],
+"controle": []
+}

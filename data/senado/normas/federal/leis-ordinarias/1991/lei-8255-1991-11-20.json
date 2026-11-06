@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1991/lei-8255-1991-11-20",
+"urn": "urn:lex:br:federal:lei:1991-11-20;8255",
+"consultado_em": "2026-11-06",
+"codigo": "550131",
+"nome": "Lei nº 8.255 de 20/11/1991",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1991-11-21", "descricao": "Publicação Original [Diário Oficial da União de 21/11/1991] (p. 26393, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-11-06", "nome": "Lei nº 12.086 de 06/11/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 7-A", "art": "7-a", "acao": "acrescentou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8-A", "art": "8-a", "acao": "acrescentou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}, {"dispositivo": "Art. 10-A", "art": "10-a", "acao": "acrescentou"}, {"dispositivo": "Art. 10-B", "art": "10-b", "acao": "acrescentou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 12, caput, Inciso 3, Alínea a", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 12, caput, Inciso 3, Alínea g", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 12, § 4", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 12, § 5", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "alterou"}, {"dispositivo": "Art. 14", "art": "14", "acao": "revogou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "revogou"}, {"dispositivo": "Art. 16", "art": "16", "acao": "revogou"}, {"dispositivo": "Art. 17", "art": "17", "acao": "revogou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "revogou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "revogou"}, {"dispositivo": "Art. 20", "art": "20", "acao": "revogou"}, {"dispositivo": "Art. 22", "art": "22", "acao": "alterou"}, {"dispositivo": "Art. 23, Parágrafo Único", "art": "23", "acao": "revogou"}, {"dispositivo": "Art. 23-A", "art": "23-a", "acao": "acrescentou"}, {"dispositivo": "Art. 24", "art": "24", "acao": "alterou"}, {"dispositivo": "Art. 26", "art": "26", "acao": "alterou"}, {"dispositivo": "Art. 28", "art": "28", "acao": "alterou"}, {"dispositivo": "Art. 29", "art": "29", "acao": "alterou"}, {"dispositivo": "Art. 29, § 1", "art": "29", "acao": "revogou"}, {"dispositivo": "Art. 29, § 2", "art": "29", "acao": "revogou"}, {"dispositivo": "Art. 29, § 3", "art": "29", "acao": "revogou"}, {"dispositivo": "Art. 29, § 4", "art": "29", "acao": "revogou"}, {"dispositivo": "Art. 30", "art": "30", "acao": "alterou"}, {"dispositivo": "Art. 32", "art": "32", "acao": "alterou"}, {"dispositivo": "Art. 35", "art": "35", "acao": "revogou"}], "id": "federal/leis-ordinarias/2009/lei-12086-2009-11-06"},
+{"data": "2010-04-29", "nome": "Decreto nº 7.163 de 29/04/2010", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 10-B, caput, Inciso 1", "art": "10-b", "acao": "regulamentou"}]},
+{"data": "2010-04-29", "nome": "Decreto nº 7.165 de 29/04/2010", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 10-B, caput, Inciso 1", "art": "10-b", "acao": "regulamentou"}]},
+{"data": "2026-04-27", "nome": "Lei nº 15.395 de 27/04/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 24, caput, Inciso 4", "art": "24", "acao": "acrescentou"}, {"dispositivo": "Art. 27-A, caput", "art": "27-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15395-2026-04-27"}
+],
+"controle": []
+}

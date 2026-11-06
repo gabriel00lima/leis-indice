@@ -1,0 +1,20 @@
+{
+"id": "federal/decretos-lei/1967/del-254-1967-02-28",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-28;254",
+"consultado_em": "2026-11-06",
+"codigo": "523148",
+"nome": "Decreto-Lei nº 254 de 28/02/1967",
+"apelidos": [
+"Código de Propriedade Industrial (1967) (CPI)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-28", "descricao": "Publicação Original [Diário Oficial da União de 28/02/1967] (p. 2444, col. 2)"}
+],
+"alteracoes": [
+{"data": "1968-09-05", "nome": "Decreto nº 63.216 de 05/09/1968", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1969-01-29", "nome": "Decreto-Lei nº 440 de 29/01/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-440-1969-01-29"},
+{"data": "1969-02-24", "nome": "Decreto nº 64.129 de 24/02/1969", "tipo": "Aprovação de Regimento", "dispositivos": []},
+{"data": "1971-12-21", "nome": "Lei nº 5.772 de 21/12/1971", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5772-1971-12-21"}
+],
+"controle": []
+}

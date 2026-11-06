@@ -1,0 +1,22 @@
+{
+"id": "federal/decretos-lei/1969/del-465-1969-02-11",
+"urn": "urn:lex:br:federal:decreto.lei:1969-02-11;465",
+"consultado_em": "2026-11-06",
+"codigo": "523567",
+"nome": "Decreto-Lei nº 465 de 11/02/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-02-12", "descricao": "Publicação Original [Diário Oficial da União de 12/02/1969] (p. 1410, col. 2)"}
+],
+"alteracoes": [
+{"data": "1970-02-25", "nome": "Decreto-Lei nº 1.086 de 25/02/1970", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1970/del-1086-1970-02-25"},
+{"data": "1970-08-31", "nome": "Decreto nº 67.125 de 31/08/1970", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1972-09-11", "nome": "Lei nº 5.802 de 11/09/1972", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}], "id": "federal/leis-ordinarias/1972/lei-5802-1972-09-11"},
+{"data": "1990-08-21", "nome": "Medida Provisória nº 209 de 21/08/1990", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "1990-09-21", "nome": "Medida Provisória nº 228 de 21/09/1990", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "1990-10-24", "nome": "Medida Provisória nº 251 de 24/10/1990", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "1990-11-23", "nome": "Medida Provisória nº 268 de 23/11/1990", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "1991-01-16", "nome": "Lei nº 8.168 de 16/01/1991", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8168-1991-01-16"}
+],
+"controle": []
+}

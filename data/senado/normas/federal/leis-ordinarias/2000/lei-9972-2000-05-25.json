@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2000/lei-9972-2000-05-25",
+"urn": "urn:lex:br:federal:lei:2000-05-25;9972",
+"consultado_em": "2026-11-06",
+"codigo": "551848",
+"nome": "Lei nº 9.972 de 25/05/2000",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-05-26", "descricao": "Publicação Original [Diário Oficial da União de 26/05/2000] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2000-11-17", "nome": "Decreto nº 3.664 de 17/11/2000", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2007-11-22", "nome": "Decreto nº 6.268 de 22/11/2007", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2010-12-01", "nome": "Lei nº 12.341 de 01/12/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9, § 2", "art": "9", "acao": "alterou"}], "id": "federal/leis-ordinarias/2010/lei-12341-2010-12-01"},
+{"data": "2015-05-06", "nome": "Decreto nº 8.446 de 06/05/2015", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2022-12-29", "nome": "Lei nº 14.515 de 29/12/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 1", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, caput, Inciso 2", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 8, caput", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}], "id": "federal/leis-ordinarias/2022/lei-14515-2022-12-29"},
+{"data": "2025-10-31", "nome": "Decreto nº 12.709 de 31/10/2025", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

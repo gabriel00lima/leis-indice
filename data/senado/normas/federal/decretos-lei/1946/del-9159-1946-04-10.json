@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1946/del-9159-1946-04-10",
+"urn": "urn:lex:br:federal:decreto.lei:1946-04-10;9159",
+"consultado_em": "2026-11-06",
+"codigo": "534197",
+"nome": "Decreto-Lei nº 9.159 de 10/04/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-04-11", "descricao": "Publicação Original [Diário Oficial da União de 11/04/1946] (p. 5289, col. 3)"}
+],
+"alteracoes": [
+{"data": "1946-04-25", "nome": "Decreto nº 21.025 de 25/04/1946", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1946-07-25", "nome": "Decreto-Lei nº 9.512 de 25/07/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9512-1946-07-25"},
+{"data": "1946-07-31", "nome": "Decreto-Lei nº 9.530 de 31/07/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9530-1946-07-31"},
+{"data": "1946-08-06", "nome": "Decreto-Lei nº 9.553 de 06/08/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9553-1946-08-06"}
+],
+"controle": []
+}

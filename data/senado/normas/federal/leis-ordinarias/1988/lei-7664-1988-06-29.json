@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1988/lei-7664-1988-06-29",
+"urn": "urn:lex:br:federal:lei:1988-06-29;7664",
+"consultado_em": "2026-11-06",
+"codigo": "549540",
+"nome": "Lei nº 7.664 de 29/06/1988",
+"apelidos": [
+"Lei de Substituição de Candidatos (1988)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1988-06-30", "descricao": "Publicação Original [Diário Oficial da União de 30/06/1988] (p. 12001, col. 1)"},
+{"tipo": "REP", "data": "1988-07-01", "descricao": "Republicação Integral (Seq. 1) [Diário Oficial da União de 01/07/1988] (p. 12097, col. 1)"}
+],
+"alteracoes": [
+{"data": "1988-09-29", "nome": "Lei nº 7.673 de 29/09/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 28", "art": "28", "acao": "alterou"}], "id": "federal/leis-ordinarias/1988/lei-7673-1988-09-29"},
+{"data": "1988-11-09", "nome": "Decreto nº 97.056 de 09/11/1988", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 35", "art": "35", "acao": "regulamentou"}]}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2006/lei-11364-2006-10-26",
+"urn": "urn:lex:br:federal:lei:2006-10-26;11364",
+"consultado_em": "2026-11-06",
+"codigo": "572149",
+"nome": "Lei nº 11.364 de 26/10/2006",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2006-10-27", "descricao": "Publicação Original [Diário Oficial da União de 27/10/2006] (p. 2, col. 3)"}
+],
+"alteracoes": [
+{"data": "2007-12-19", "nome": "Lei nº 11.618 de 19/12/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}], "id": "federal/leis-ordinarias/2007/lei-11618-2007-12-19"},
+{"data": "2023-09-20", "nome": "Lei nº 14.687 de 20/09/2023", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14687-2023-09-20"},
+{"data": "2026-03-30", "nome": "Lei nº 15.366 de 30/03/2026", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2026/lei-15366-2026-03-30"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1966/del-25-1966-11-01",
+"urn": "urn:lex:br:federal:decreto.lei:1966-11-01;25",
+"consultado_em": "2026-11-06",
+"codigo": "522692",
+"nome": "Decreto-Lei nº 25 de 01/11/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-03", "descricao": "Publicação Original [Diário Oficial da União de 03/11/1966] (p. 12667, col. 2)"}
+],
+"alteracoes": [
+{"data": "1986-12-09", "nome": "Decreto nº 93.667 de 09/12/1986", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1991-12-30", "nome": "Lei nº 8.391 de 30/12/1991", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8391-1991-12-30"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6503-1977-12-13",
+"urn": "urn:lex:br:federal:lei:1977-12-13;6503",
+"consultado_em": "2026-11-06",
+"codigo": "548379",
+"nome": "Lei nº 6.503 de 13/12/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-12-16", "descricao": "Publicação Original [Diário Oficial da União de 16/12/1977] (p. 17297, col. 1)"}
+],
+"alteracoes": [
+{"data": "1988-12-20", "nome": "Lei nº 7.692 de 20/12/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1988/lei-7692-1988-12-20"}
+],
+"controle": []
+}

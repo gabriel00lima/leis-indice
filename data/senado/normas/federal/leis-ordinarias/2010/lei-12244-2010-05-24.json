@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2010/lei-12244-2010-05-24",
+"urn": "urn:lex:br:federal:lei:2010-05-24;12244",
+"consultado_em": "2026-11-06",
+"codigo": "575886",
+"nome": "Lei nº 12.244 de 24/05/2010",
+"apelidos": [
+"Lei da Biblioteca Escolar (2010)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2010-05-25", "descricao": "Publicação Original [Diário Oficial da União de 25/05/2010] (p. 3, col. 1)"}
+],
+"alteracoes": [
+{"data": "2024-04-08", "nome": "Lei nº 14.837 de 08/04/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 2-A", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 3, caput", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, § 1", "art": "3", "acao": "vetado"}, {"dispositivo": "Art. 3, § 2", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, § 3", "art": "3", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2024/lei-14837-2024-04-08"}
+],
+"controle": []
+}

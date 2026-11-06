@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1969/del-917-1969-10-07",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-07;917",
+"consultado_em": "2026-11-06",
+"codigo": "524459",
+"nome": "Decreto-Lei nº 917 de 07/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-08", "descricao": "Publicação Original [Diário Oficial da União de 08/10/1969] (p. 8489, col. 4)"}
+],
+"alteracoes": [
+{"data": "1981-12-22", "nome": "Decreto nº 86.765 de 22/12/1981", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2022-07-12", "nome": "Lei nº 14.406 de 12/07/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 2, Alínea e", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 4", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14406-2022-07-12"},
+{"data": "2022-12-29", "nome": "Lei nº 14.515 de 29/12/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Alínea g", "art": "3", "acao": "revogou"}], "id": "federal/leis-ordinarias/2022/lei-14515-2022-12-29"}
+],
+"controle": []
+}

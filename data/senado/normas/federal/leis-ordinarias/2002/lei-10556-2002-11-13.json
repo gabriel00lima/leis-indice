@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10556-2002-11-13",
+"urn": "urn:lex:br:federal:lei:2002-11-13;10556",
+"consultado_em": "2026-11-06",
+"codigo": "552432",
+"nome": "Lei nº 10.556 de 13/11/2002",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-11-14", "descricao": "Publicação Original [Diário Oficial da União de 14/11/2002] (p. 5, col. 1)"}
+],
+"alteracoes": [
+{"data": "2006-06-29", "nome": "Medida Provisória nº 301 de 29/06/2006", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "revogou"}]},
+{"data": "2006-10-19", "nome": "Lei nº 11.355 de 19/10/2006", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2006/lei-11355-2006-10-19"},
+{"data": "2021-04-14", "nome": "Medida Provisória nº 1.042 de 14/04/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "acao": "revogou"}]},
+{"data": "2021-09-16", "nome": "Lei nº 14.204 de 16/09/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "acao": "revogou"}], "id": "federal/leis-ordinarias/2021/lei-14204-2021-09-16"}
+],
+"controle": []
+}

@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1979/del-1662-1979-02-02",
+"urn": "urn:lex:br:federal:decreto.lei:1979-02-02;1662",
+"consultado_em": "2026-11-06",
+"codigo": "525945",
+"nome": "Decreto-Lei nº 1.662 de 02/02/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-02-02", "descricao": "Publicação Original [Diário Oficial da União de 02/02/1979] (p. 1625, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-05-07", "nome": "Decreto-Lei nº 1.682 de 07/05/1979", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1682-1979-05-07"},
+{"data": "1979-05-30", "nome": "Decreto Legislativo nº 29 de 30/05/1979", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1987-12-21", "nome": "Decreto-Lei nº 2.397 de 21/12/1987", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2397-1987-12-21"},
+{"data": "1990-12-14", "nome": "Medida Provisória nº 287 de 14/12/1990", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "1993-07-06", "nome": "Lei nº 8.673 de 06/07/1993", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1993/lei-8673-1993-07-06"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2012/lei-12592-2012-01-18",
+"urn": "urn:lex:br:federal:lei:2012-01-18;12592",
+"consultado_em": "2026-11-06",
+"codigo": "589515",
+"nome": "Lei nº 12.592 de 18/01/2012",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2012-01-19", "descricao": "Publicação Original [Diário Oficial da União de 19/01/2012] (p. 1, col. 3)"},
+{"tipo": "RET", "data": "2012-01-20", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 20/01/2012] (p. 8, col. 1)"}
+],
+"alteracoes": [
+{"data": "2016-10-27", "nome": "Lei nº 13.352 de 27/10/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1-A", "art": "1-a", "acao": "acrescentou"}, {"dispositivo": "Art. 1-B, caput", "art": "1-b", "acao": "acrescentou"}, {"dispositivo": "Art. 1-C, caput", "art": "1-c", "acao": "acrescentou"}, {"dispositivo": "Art. 1-C, caput, Inciso 1", "art": "1-c", "acao": "acrescentou"}, {"dispositivo": "Art. 1-C, caput, Inciso 2", "art": "1-c", "acao": "acrescentou"}, {"dispositivo": "Art. 1-D, caput", "art": "1-d", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2016/lei-13352-2016-10-27"}
+],
+"controle": []
+}

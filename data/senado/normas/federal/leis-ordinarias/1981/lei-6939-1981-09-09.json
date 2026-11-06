@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1981/lei-6939-1981-09-09",
+"urn": "urn:lex:br:federal:lei:1981-09-09;6939",
+"consultado_em": "2026-11-06",
+"codigo": "548815",
+"nome": "Lei nº 6.939 de 09/09/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-09-10", "descricao": "Publicação Original [Diário Oficial da União de 10/09/1981] (p. 17053, col. 1)"}
+],
+"alteracoes": [
+{"data": "1981-12-22", "nome": "Decreto nº 86.764 de 22/12/1981", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1991-07-18", "nome": "Lei nº 8.209 de 18/07/1991", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 17", "art": "17", "acao": "alterou"}], "id": "federal/leis-ordinarias/1991/lei-8209-1991-07-18"},
+{"data": "1994-11-18", "nome": "Lei nº 8.934 de 18/11/1994", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1994/lei-8934-1994-11-18"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-9201-1946-04-26",
+"urn": "urn:lex:br:federal:decreto.lei:1946-04-26;9201",
+"consultado_em": "2026-11-06",
+"codigo": "534239",
+"nome": "Decreto-Lei nº 9.201 de 26/04/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-04-27", "descricao": "Publicação Original [Diário Oficial da União de 27/04/1946] (p. 6225, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-09-06", "nome": "Decreto-Lei nº 9.762 de 06/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9762-1946-09-06"},
+{"data": "1946-12-19", "nome": "Lei nº 7 de 19/12/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1946/lei-7-1946-12-19"}
+],
+"controle": []
+}

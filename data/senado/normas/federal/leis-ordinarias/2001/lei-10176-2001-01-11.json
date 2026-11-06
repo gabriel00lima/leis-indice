@@ -1,0 +1,25 @@
+{
+"id": "federal/leis-ordinarias/2001/lei-10176-2001-01-11",
+"urn": "urn:lex:br:federal:lei:2001-01-11;10176",
+"consultado_em": "2026-11-06",
+"codigo": "552052",
+"nome": "Lei nº 10.176 de 11/01/2001",
+"apelidos": [
+"Lei de Informática (2001)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2001-01-12", "descricao": "Publicação Original [Diário Oficial da União de 12/01/2001] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2001-04-20", "nome": "Decreto nº 3.800 de 20/04/2001", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "regulamentou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "regulamentou"}]},
+{"data": "2002-10-01", "nome": "Decreto nº 4.401 de 01/10/2002", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "regulamentou"}]},
+{"data": "2002-12-30", "nome": "Medida Provisória nº 100 de 30/12/2002", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}]},
+{"data": "2003-04-22", "nome": "Lei nº 10.664 de 22/04/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11, Parágrafo Único", "art": "11", "acao": "alterou"}], "id": "federal/leis-ordinarias/2003/lei-10664-2003-04-22"},
+{"data": "2004-12-30", "nome": "Lei nº 11.077 de 30/12/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-11077-2004-12-30"},
+{"data": "2006-09-26", "nome": "Decreto nº 5.906 de 26/09/2006", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "regulamentou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "regulamentou"}]},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2013-08-14", "nome": "Decreto nº 8.072 de 14/08/2013", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2014-08-08", "nome": "Lei nº 13.023 de 08/08/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "revogou"}], "id": "federal/leis-ordinarias/2014/lei-13023-2014-08-08"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-complementares/2026/lcp-229-2026-03-30",
+"urn": "urn:lex:br:federal:lei.complementar:2026-03-30;229",
+"consultado_em": "2026-11-06",
+"codigo": "42965327",
+"nome": "Lei Complementar nº 229 de 30/03/2026",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2026-03-31", "descricao": "Publicação Original [Diário Oficial da União de 31/03/2026] (p. 31, col. 2)"}
+],
+"alteracoes": [
+{"data": "2026-09-15", "nome": "Lei Complementar nº 237 de 15/09/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}], "id": "federal/leis-complementares/2026/lcp-237-2026-09-15"},
+{"data": "2026-09-15", "nome": "Lei Complementar nº 237 de 15/09/2026", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/2026/lcp-237-2026-09-15"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1991/lei-8173-1991-01-30",
+"urn": "urn:lex:br:federal:lei:1991-01-30;8173",
+"consultado_em": "2026-11-06",
+"codigo": "550049",
+"nome": "Lei nº 8.173 de 30/01/1991",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1991-01-31", "descricao": "Publicação Original [Diário Oficial da União de 31/01/1991] (p. 2169, col. 1)"}
+],
+"alteracoes": [
+{"data": "1992-07-21", "nome": "Lei nº 8.446 de 21/07/1992", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}], "id": "federal/leis-ordinarias/1992/lei-8446-1992-07-21"}
+],
+"controle": []
+}

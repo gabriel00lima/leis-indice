@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1984/del-2121-1984-05-16",
+"urn": "urn:lex:br:federal:decreto.lei:1984-05-16;2121",
+"consultado_em": "2026-11-06",
+"codigo": "526851",
+"nome": "Decreto-Lei nº 2.121 de 16/05/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-05-17", "descricao": "Publicação Original [Diário Oficial da União de 17/05/1984] (p. 6961, col. 1)"}
+],
+"alteracoes": [
+{"data": "1984-06-05", "nome": "Decreto-Lei nº 2.123 de 05/06/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1984/del-2123-1984-06-05"},
+{"data": "1984-12-05", "nome": "Decreto Legislativo nº 66 de 05/12/1984", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1985-07-02", "nome": "Lei nº 7.333 de 02/07/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7333-1985-07-02"}
+],
+"controle": []
+}

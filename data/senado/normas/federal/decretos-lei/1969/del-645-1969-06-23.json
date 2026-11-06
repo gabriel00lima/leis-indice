@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1969/del-645-1969-06-23",
+"urn": "urn:lex:br:federal:decreto.lei:1969-06-23;645",
+"consultado_em": "2026-11-06",
+"codigo": "523921",
+"nome": "Decreto-Lei nº 645 de 23/06/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-06-24", "descricao": "Publicação Original [Diário Oficial da União de 24/06/1969] (p. 5313, col. 4)"}
+],
+"alteracoes": [
+{"data": "1969-07-30", "nome": "Decreto-Lei nº 717 de 30/07/1969", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/decretos-lei/1969/del-717-1969-07-30"},
+{"data": "1973-05-02", "nome": "Decreto-Lei nº 1.270 de 02/05/1973", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}], "id": "federal/decretos-lei/1973/del-1270-1973-05-02"}
+],
+"controle": []
+}

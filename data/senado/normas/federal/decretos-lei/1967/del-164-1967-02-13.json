@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1967/del-164-1967-02-13",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-13;164",
+"consultado_em": "2026-11-06",
+"codigo": "522970",
+"nome": "Decreto-Lei nº 164 de 13/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-14", "descricao": "Publicação Original [Diário Oficial da União de 14/02/1967] (p. 1787, col. 3)"}
+],
+"alteracoes": [
+{"data": "1997-08-12", "nome": "Lei nº 9.479 de 12/08/1997", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9479-1997-08-12"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1979/lei-6686-1979-09-11",
+"urn": "urn:lex:br:federal:lei:1979-09-11;6686",
+"consultado_em": "2026-11-06",
+"codigo": "548562",
+"nome": "Lei nº 6.686 de 11/09/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-09-12", "descricao": "Publicação Original [Diário Oficial da União de 12/09/1979] (p. 13161, col. 1)"}
+],
+"alteracoes": [
+{"data": "1983-10-26", "nome": "Lei nº 7.135 de 26/10/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1983/lei-7135-1983-10-26"},
+{"data": "1986-06-24", "nome": "Resolução do Senado Federal nº 86 de 24/06/1986", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "suspensão"}]}
+],
+"controle": []
+}

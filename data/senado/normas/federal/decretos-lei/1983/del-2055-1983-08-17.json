@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1983/del-2055-1983-08-17",
+"urn": "urn:lex:br:federal:decreto.lei:1983-08-17;2055",
+"consultado_em": "2026-11-06",
+"codigo": "526719",
+"nome": "Decreto-Lei nº 2.055 de 17/08/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-08-19", "descricao": "Publicação Original [Diário Oficial da União de 19/08/1983] (p. 14713, col. 1)"},
+{"tipo": "RET", "data": "1983-08-22", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 22/08/1983] (p. 14780, col. 1)"}
+],
+"alteracoes": [
+{"data": "1984-08-14", "nome": "Decreto-Lei nº 2.157 de 14/08/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2157-1984-08-14"}
+],
+"controle": []
+}

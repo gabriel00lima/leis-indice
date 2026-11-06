@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2006/lei-11321-2006-07-07",
+"urn": "urn:lex:br:federal:lei:2006-07-07;11321",
+"consultado_em": "2026-11-06",
+"codigo": "572106",
+"nome": "Lei nº 11.321 de 07/07/2006",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2006-07-10", "descricao": "Publicação Original [Diário Oficial da União de 10/07/2006] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2007-03-29", "nome": "Medida Provisória nº 362 de 29/03/2007", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2007-06-28", "nome": "Lei nº 11.498 de 28/06/2007", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2007/lei-11498-2007-06-28"}
+],
+"controle": []
+}

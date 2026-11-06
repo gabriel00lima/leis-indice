@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11795-2008-10-08",
+"urn": "urn:lex:br:federal:lei:2008-10-08;11795",
+"consultado_em": "2026-11-06",
+"codigo": "582217",
+"nome": "Lei nº 11.795 de 08/10/2008",
+"apelidos": [
+"Lei do Consórcio (2008)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-10-09", "descricao": "Publicação Original [Diário Oficial da União de 09/10/2008] (p. 3, col. 1)"}
+],
+"alteracoes": [
+{"data": "2017-06-07", "nome": "Medida Provisória nº 784 de 07/06/2017", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 7, caput, Inciso 4", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 42, caput", "art": "42", "acao": "alterou"}, {"dispositivo": "Art. 43, caput", "art": "43", "acao": "revogou"}, {"dispositivo": "Art. 44, caput", "art": "44", "acao": "revogou"}]},
+{"data": "2017-11-13", "nome": "Lei nº 13.506 de 13/11/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, caput, Inciso 4", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 42, caput", "art": "42", "acao": "alterou"}, {"dispositivo": "Art. 42, caput, Inciso 1", "art": "42", "acao": "revogou"}, {"dispositivo": "Art. 42, caput, Inciso 2", "art": "42", "acao": "revogou"}, {"dispositivo": "Art. 42, caput, Inciso 3", "art": "42", "acao": "revogou"}, {"dispositivo": "Art. 42, caput, Inciso 4", "art": "42", "acao": "revogou"}, {"dispositivo": "Art. 42, caput, Inciso 5", "art": "42", "acao": "revogou"}, {"dispositivo": "Art. 42, caput, Inciso 6", "art": "42", "acao": "revogou"}, {"dispositivo": "Art. 42, caput, Inciso 7", "art": "42", "acao": "revogou"}, {"dispositivo": "Art. 42, caput, Inciso 8", "art": "42", "acao": "revogou"}, {"dispositivo": "Art. 42, Parágrafo Único", "art": "42", "acao": "revogou"}, {"dispositivo": "Art. 43, caput", "art": "43", "acao": "revogou"}, {"dispositivo": "Art. 44, caput", "art": "44", "acao": "revogou"}], "id": "federal/leis-ordinarias/2017/lei-13506-2017-11-13"},
+{"data": "2017-11-13", "nome": "Lei nº 13.506 de 13/11/2017", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2017/lei-13506-2017-11-13"}
+],
+"controle": [
+{"data": "2015-10-21", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.333 de 21/10/2015", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 14, § 7", "art": "14", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "4333"}}
+]
+}

@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11692-2008-06-10",
+"urn": "urn:lex:br:federal:lei:2008-06-10;11692",
+"consultado_em": "2026-11-06",
+"codigo": "582114",
+"nome": "Lei nº 11.692 de 10/06/2008",
+"apelidos": [
+"Lei do Programa Nacional de Inclusão de Jovens (Projovem) (2008)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-06-11", "descricao": "Publicação Original [Diário Oficial da União de 11/06/2008] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2008-11-04", "nome": "Decreto nº 6.629 de 04/11/2008", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2011-06-27", "nome": "Decreto nº 7.507 de 27/06/2011", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

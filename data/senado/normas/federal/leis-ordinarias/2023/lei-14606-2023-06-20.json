@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2023/lei-14606-2023-06-20",
+"urn": "urn:lex:br:federal:lei:2023-06-20;14606",
+"consultado_em": "2026-11-06",
+"codigo": "37246727",
+"nome": "Lei nº 14.606 de 20/06/2023",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2023-06-21", "descricao": "Publicação Original [Diário Oficial da União de 21/06/2023] (p. 10, col. 1)"}
+],
+"alteracoes": [
+{"data": "2024-11-29", "nome": "Lei nº 15.037 de 29/11/2024", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-15037-2024-11-29"},
+{"data": "2024-11-29", "nome": "Lei nº 15.037 de 29/11/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2024/lei-15037-2024-11-29"}
+],
+"controle": []
+}

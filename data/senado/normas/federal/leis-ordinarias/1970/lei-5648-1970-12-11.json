@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1970/lei-5648-1970-12-11",
+"urn": "urn:lex:br:federal:lei:1970-12-11;5648",
+"consultado_em": "2026-11-06",
+"codigo": "547521",
+"nome": "Lei nº 5.648 de 11/12/1970",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1970-12-14", "descricao": "Publicação Original [Diário Oficial da União de 14/12/1970] (p. 10577, col. 4)"}
+],
+"alteracoes": [
+{"data": "1971-01-22", "nome": "Decreto nº 68.104 de 22/01/1971", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1976-04-23", "nome": "Decreto nº 77.483 de 23/04/1976", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1991-04-04", "nome": "Decreto nº 77 de 04/04/1991", "tipo": "Aprovação de Regulamento", "dispositivos": []},
+{"data": "1996-05-14", "nome": "Lei nº 9.279 de 14/05/1996", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1996/lei-9279-1996-05-14"}
+],
+"controle": []
+}

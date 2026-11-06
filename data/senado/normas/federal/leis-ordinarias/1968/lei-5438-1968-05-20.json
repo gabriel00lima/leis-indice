@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5438-1968-05-20",
+"urn": "urn:lex:br:federal:lei:1968-05-20;5438",
+"consultado_em": "2026-11-06",
+"codigo": "547304",
+"nome": "Lei nº 5.438 de 20/05/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-05-21", "descricao": "Publicação Original [Diário Oficial da União de 21/05/1968] (p. 4065, col. 1)"}
+],
+"alteracoes": [
+{"data": "1975-12-01", "nome": "Lei nº 6.276 de 01/12/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1975/lei-6276-1975-12-01"}
+],
+"controle": []
+}

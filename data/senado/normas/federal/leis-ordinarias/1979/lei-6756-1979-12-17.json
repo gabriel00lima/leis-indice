@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1979/lei-6756-1979-12-17",
+"urn": "urn:lex:br:federal:lei:1979-12-17;6756",
+"consultado_em": "2026-11-06",
+"codigo": "548632",
+"nome": "Lei nº 6.756 de 17/12/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-12-19", "descricao": "Publicação Original [Diário Oficial da União de 19/12/1979] (p. 19329, col. 2)"}
+],
+"alteracoes": [
+{"data": "1980-11-17", "nome": "Lei nº 6.852 de 17/11/1980", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1980/lei-6852-1980-11-17"}
+],
+"controle": []
+}

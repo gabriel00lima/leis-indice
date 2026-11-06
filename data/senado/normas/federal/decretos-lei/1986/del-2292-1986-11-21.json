@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1986/del-2292-1986-11-21",
+"urn": "urn:lex:br:federal:decreto.lei:1986-11-21;2292",
+"consultado_em": "2026-11-06",
+"codigo": "527197",
+"nome": "Decreto-Lei nº 2.292 de 21/11/1986",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-11-24", "descricao": "Publicação Original [Diário Oficial da União de 24/11/1986] (p. 17555, col. 2)"}
+],
+"alteracoes": [
+{"data": "1987-01-30", "nome": "Decreto nº 93.989 de 30/01/1987", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1987-12-21", "nome": "Decreto-Lei nº 2.396 de 21/12/1987", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}], "id": "federal/decretos-lei/1987/del-2396-1987-12-21"},
+{"data": "1988-04-14", "nome": "Decreto-Lei nº 2.429 de 14/04/1988", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [], "id": "federal/decretos-lei/1988/del-2429-1988-04-14"},
+{"data": "1988-12-22", "nome": "Lei nº 7.713 de 22/12/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12, Parágrafo Único", "art": "12", "acao": "revogou"}], "id": "federal/leis-ordinarias/1988/lei-7713-1988-12-22"}
+],
+"controle": []
+}

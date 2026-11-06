@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1971/lei-5771-1971-12-21",
+"urn": "urn:lex:br:federal:lei:1971-12-21;5771",
+"consultado_em": "2026-11-06",
+"codigo": "547647",
+"nome": "Lei nº 5.771 de 21/12/1971",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1971-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/1971] (p. 10569, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-11-29", "nome": "Lei nº 5.945 de 29/11/1973", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1973/lei-5945-1973-11-29"}
+],
+"controle": []
+}

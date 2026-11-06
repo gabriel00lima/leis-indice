@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1944/del-6506-1944-05-17",
+"urn": "urn:lex:br:federal:decreto.lei:1944-05-17;6506",
+"consultado_em": "2026-11-06",
+"codigo": "531603",
+"nome": "Decreto-Lei nº 6.506 de 17/05/1944",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1944-05-19", "descricao": "Publicação Original [Diário Oficial da União de 19/05/1944] (p. 8893, col. 2)"}
+],
+"alteracoes": [
+{"data": "1944-08-23", "nome": "Decreto-Lei nº 6.817 de 23/08/1944", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1944/del-6817-1944-08-23"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1992/lei-8561-1992-12-29",
+"urn": "urn:lex:br:federal:lei:1992-12-29;8561",
+"consultado_em": "2026-11-06",
+"codigo": "550437",
+"nome": "Lei nº 8.561 de 29/12/1992",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1992-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/1992] (p. 18417, col. 2)"}
+],
+"alteracoes": [
+{"data": "1993-06-30", "nome": "Lei nº 8.669 de 30/06/1993", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1993/lei-8669-1993-06-30"}
+],
+"controle": []
+}

@@ -1,0 +1,24 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7752-1989-04-14",
+"urn": "urn:lex:br:federal:lei:1989-04-14;7752",
+"consultado_em": "2026-11-06",
+"codigo": "549628",
+"nome": "Lei nº 7.752 de 14/04/1989",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-04-18", "descricao": "Publicação Original [Diário Oficial da União de 18/04/1989] (p. 5778, col. 2)"},
+{"tipo": "RET", "data": "1989-04-21", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 21/04/1989] (p. 6065, col. 2)"}
+],
+"alteracoes": [
+{"data": "1989-12-18", "nome": "Decreto nº 98.595 de 18/12/1989", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1989-12-28", "nome": "Lei nº 7.988 de 28/12/1989", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [{"dispositivo": "Art. 13", "art": "13", "acao": "com novo tratamento da matéria"}], "id": "federal/leis-ordinarias/1989/lei-7988-1989-12-28"},
+{"data": "1990-02-21", "nome": "Medida Provisória nº 138 de 21/02/1990", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1990-03-15", "nome": "Medida Provisória nº 161 de 15/03/1990", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1990-03-22", "nome": "Lei nº 8.007 de 22/03/1990", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1990/lei-8007-1990-03-22"},
+{"data": "1990-04-12", "nome": "Lei nº 8.034 de 12/04/1990", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1990/lei-8034-1990-04-12"},
+{"data": "1990-12-14", "nome": "Medida Provisória nº 287 de 14/12/1990", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 7", "art": "1", "acao": "revogou"}]},
+{"data": "1990-12-27", "nome": "Lei nº 8.134 de 27/12/1990", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1990/lei-8134-1990-12-27"},
+{"data": "1992-01-08", "nome": "Lei nº 8.402 de 08/01/1992", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1992/lei-8402-1992-01-08"}
+],
+"controle": []
+}

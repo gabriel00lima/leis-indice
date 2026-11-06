@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1971/lei-5762-1971-12-14",
+"urn": "urn:lex:br:federal:lei:1971-12-14;5762",
+"consultado_em": "2026-11-06",
+"codigo": "547638",
+"nome": "Lei nº 5.762 de 14/12/1971",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1971-12-16", "descricao": "Publicação Original [Diário Oficial da União de 16/12/1971] (p. 10353, col. 1)"}
+],
+"alteracoes": [
+{"data": "1975-10-02", "nome": "Lei nº 6.245 de 02/10/1975", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 1", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 2, § 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/1975/lei-6245-1975-10-02"},
+{"data": "1983-05-09", "nome": "Decreto nº 88.293 de 09/05/1983", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1986-11-21", "nome": "Decreto-Lei nº 2.291 de 21/11/1986", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1986/del-2291-1986-11-21"}
+],
+"controle": []
+}

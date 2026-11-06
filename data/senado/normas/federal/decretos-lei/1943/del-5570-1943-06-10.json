@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1943/del-5570-1943-06-10",
+"urn": "urn:lex:br:federal:decreto.lei:1943-06-10;5570",
+"consultado_em": "2026-11-06",
+"codigo": "530666",
+"nome": "Decreto-Lei nº 5.570 de 10/06/1943",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1943-06-12", "descricao": "Publicação Original [Diário Oficial da União de 12/06/1943] (p. 9139, col. 1)"},
+{"tipo": "REP", "data": "1943-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1943 - vol. 003] (p. 228, col. 1)"}
+],
+"alteracoes": [
+{"data": "1944-06-22", "nome": "Decreto-Lei nº 6.620 de 22/06/1944", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1944/del-6620-1944-06-22"}
+],
+"controle": []
+}

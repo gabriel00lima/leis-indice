@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1958/lei-3501-1958-12-21",
+"urn": "urn:lex:br:federal:lei:1958-12-21;3501",
+"consultado_em": "2026-11-06",
+"codigo": "545317",
+"nome": "Lei nº 3.501 de 21/12/1958",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1958-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/1958] (p. 26947, col. 1)"}
+],
+"alteracoes": [
+{"data": "1963-09-12", "nome": "Lei nº 4.262 de 12/09/1963", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1963/lei-4262-1963-09-12"},
+{"data": "1963-09-12", "nome": "Lei nº 4.263 de 12/09/1963", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1963/lei-4263-1963-09-12"},
+{"data": "1967-02-10", "nome": "Decreto-Lei nº 158 de 10/02/1967", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1967/del-158-1967-02-10"}
+],
+"controle": []
+}

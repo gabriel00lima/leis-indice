@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1971/lei-5688-1971-08-03",
+"urn": "urn:lex:br:federal:lei:1971-08-03;5688",
+"consultado_em": "2026-11-06",
+"codigo": "547561",
+"nome": "Lei nº 5.688 de 03/08/1971",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1971-08-03", "descricao": "Publicação Original [Diário Oficial da União de 03/08/1971] (p. 6065, col. 4)"}
+],
+"alteracoes": [
+{"data": "1973-02-27", "nome": "Decreto-Lei nº 1.261 de 27/02/1973", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1973/del-1261-1973-02-27"}
+],
+"controle": []
+}

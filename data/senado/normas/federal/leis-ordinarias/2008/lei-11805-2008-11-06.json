@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11805-2008-11-06",
+"urn": "urn:lex:br:federal:lei:2008-11-06;11805",
+"consultado_em": "2026-11-06",
+"codigo": "583430",
+"nome": "Lei nº 11.805 de 06/11/2008",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-11-07", "descricao": "Publicação Original [Diário Oficial da União de 07/11/2008] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2008-12-09", "nome": "Medida Provisória nº 450 de 09/12/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 4", "art": "1", "acao": "alterou"}]},
+{"data": "2009-05-28", "nome": "Lei nº 11.943 de 28/05/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 4", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-11943-2009-05-28"}
+],
+"controle": []
+}

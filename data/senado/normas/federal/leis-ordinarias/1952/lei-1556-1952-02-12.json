@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1952/lei-1556-1952-02-12",
+"urn": "urn:lex:br:federal:lei:1952-02-12;1556",
+"consultado_em": "2026-11-06",
+"codigo": "543251",
+"nome": "Lei nº 1.556 de 12/02/1952",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1952-02-20", "descricao": "Publicação Original [Diário Oficial da União de 20/02/1952] (p. 2537, col. 1)"}
+],
+"alteracoes": [
+{"data": "1955-01-08", "nome": "Lei nº 2.393 de 08/01/1955", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1955/lei-2393-1955-01-08"}
+],
+"controle": []
+}

@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2026/lei-15358-2026-03-24",
+"urn": "urn:lex:br:federal:lei:2026-03-24;15358",
+"consultado_em": "2026-11-06",
+"codigo": "42931693",
+"nome": "Lei nº 15.358 de 24/03/2026",
+"apelidos": [
+"Lei Raul Jungmann; Marco Legal do Combate ao Crime Organizado no Brasil"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2026-03-25", "descricao": "Publicação Original [Diário Oficial da União de 25/03/2026] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2026-03-24", "nome": "Mensagem de Veto Parcial nº 216 de 24/03/2026", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2026-03-24", "nome": "Mensagem de Veto Parcial nº 216 de 24/03/2026", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2026-03-24", "nome": "Mensagem de Veto Parcial nº 216 de 24/03/2026", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2026-03-24", "nome": "Mensagem de Veto Parcial nº 216 de 24/03/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 3", "art": "2", "acao": "veto"}, {"dispositivo": "Art. 43, caput", "art": "43", "acao": "veto"}, {"dispositivo": "Art. 43, Parágrafo Único", "art": "43", "acao": "veto"}]}
+],
+"controle": []
+}

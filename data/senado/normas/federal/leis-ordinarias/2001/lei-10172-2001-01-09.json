@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2001/lei-10172-2001-01-09",
+"urn": "urn:lex:br:federal:lei:2001-01-09;10172",
+"consultado_em": "2026-11-06",
+"codigo": "552048",
+"nome": "Lei nº 10.172 de 09/01/2001",
+"apelidos": [
+"Lei do Plano Nacional de Educação (PNE) (2001) (PNE)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2001-01-10", "descricao": "Publicação Original [Diário Oficial da União de 10/01/2001] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-12-01", "nome": "Lei nº 12.102 de 01/12/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6-A", "art": "6-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2009/lei-12102-2009-12-01"},
+{"data": "2018-07-12", "nome": "Lei nº 13.696 de 12/07/2018", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2018/lei-13696-2018-07-12"}
+],
+"controle": []
+}

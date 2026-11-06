@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1969/del-1028-1969-10-21",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-21;1028",
+"consultado_em": "2026-11-06",
+"codigo": "524679",
+"nome": "Decreto-Lei nº 1.028 de 21/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-27", "descricao": "Publicação Original [Diário Oficial da União de 27/10/1969] (p. 9169, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-03-13", "nome": "Decreto nº 71.893 de 13/03/1973", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1976-09-23", "nome": "Lei nº 6.363 de 23/09/1976", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1976/lei-6363-1976-09-23"}
+],
+"controle": []
+}

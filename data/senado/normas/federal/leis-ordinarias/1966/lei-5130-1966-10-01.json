@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1966/lei-5130-1966-10-01",
+"urn": "urn:lex:br:federal:lei:1966-10-01;5130",
+"consultado_em": "2026-11-06",
+"codigo": "546988",
+"nome": "Lei nº 5.130 de 01/10/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-10-05", "descricao": "Publicação Original [Diário Oficial da União de 05/10/1966] (p. 11451, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-11-29", "nome": "Lei nº 5.946 de 29/11/1973", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1973/lei-5946-1973-11-29"}
+],
+"controle": []
+}

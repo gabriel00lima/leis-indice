@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1951/lei-1508-1951-12-19",
+"urn": "urn:lex:br:federal:lei:1951-12-19;1508",
+"consultado_em": "2026-11-06",
+"codigo": "543200",
+"nome": "Lei nº 1.508 de 19/12/1951",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1951-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/1951] (p. 18525, col. 4)"}
+],
+"alteracoes": [
+{"data": "1984-04-26", "nome": "Lei nº 7.187 de 26/04/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/1984/lei-7187-1984-04-26"}
+],
+"controle": []
+}

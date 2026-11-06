@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/2019/lei-13959-2019-12-18",
+"urn": "urn:lex:br:federal:lei:2019-12-18;13959",
+"consultado_em": "2026-11-06",
+"codigo": "31849181",
+"nome": "Lei nº 13.959 de 18/12/2019",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2019-12-19", "descricao": "Publicação Original [Diário Oficial da União de 19/12/2019] (p. 3, col. 2)"}
+],
+"alteracoes": [
+{"data": "2019-12-18", "nome": "Mensagem de Veto Parcial nº 712 de 18/12/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 1", "art": "2", "acao": "veto"}, {"dispositivo": "Art. 2, § 2", "art": "2", "acao": "veto"}, {"dispositivo": "Art. 3", "art": "3", "acao": "veto"}]},
+{"data": "2019-12-18", "nome": "Mensagem de Veto Parcial nº 712 de 18/12/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-12-18", "nome": "Mensagem de Veto Parcial nº 712 de 18/12/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-12-18", "nome": "Mensagem de Veto Parcial nº 712 de 18/12/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-07-14", "nome": "Lei nº 14.621 de 14/07/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 4", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2023/lei-14621-2023-07-14"},
+{"data": "2023-07-14", "nome": "Lei nº 14.621 de 14/07/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14621-2023-07-14"},
+{"data": "2026-06-19", "nome": "Medida Provisória nº 1.370 de 19/06/2026", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2026-06-19", "nome": "Medida Provisória nº 1.370 de 19/06/2026", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, § 3, Inciso 1", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 4", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 5, Inciso 2", "art": "2", "acao": "alterou"}]}
+],
+"controle": []
+}

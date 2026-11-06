@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4505-1964-11-30",
+"urn": "urn:lex:br:federal:lei:1964-11-30;4505",
+"consultado_em": "2026-11-06",
+"codigo": "546357",
+"nome": "Lei nº 4.505 de 30/11/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-11-30", "descricao": "Publicação Original [Diário Oficial da União de 30/11/1964] (p. 10879, col. 3)"}
+],
+"alteracoes": [
+{"data": "1965-03-22", "nome": "Decreto nº 55.852 de 22/03/1965", "tipo": "Aprovação de Regulamento", "dispositivos": []},
+{"data": "1966-10-21", "nome": "Lei nº 5.154 de 21/10/1966", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/1966/lei-5154-1966-10-21"}
+],
+"controle": []
+}

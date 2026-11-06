@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1871/lei-2033-1871-09-20",
+"urn": "urn:lex:br:federal:lei:1871-09-20;2033",
+"consultado_em": "2026-11-06",
+"codigo": "543804",
+"nome": "Lei nº 2.033 de 20/09/1871",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1871-12-31", "descricao": "Publicação Original [Coleção de Leis do Império do Brasil de 31/12/1871 - vol. 000 - Parte 001 - Tomo 31] (p. 126, col. 1)"}
+],
+"alteracoes": [
+{"data": "1871-11-22", "nome": "Decreto nº 4.824 de 22/11/1871", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/1973/lei-6001-1973-12-19",
+"urn": "urn:lex:br:federal:lei:1973-12-19;6001",
+"consultado_em": "2026-11-06",
+"codigo": "547877",
+"nome": "Lei nº 6.001 de 19/12/1973",
+"apelidos": [
+"Estatuto do Índio (1973)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-12-21", "descricao": "Publicação Original [Diário Oficial da União de 21/12/1973] (p. 13177, col. 1)"}
+],
+"alteracoes": [
+{"data": "1976-01-08", "nome": "Decreto nº 76.999 de 08/01/1976", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1983-11-10", "nome": "Decreto nº 88.985 de 10/11/1983", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 44", "art": "44", "acao": "regulamentou"}, {"dispositivo": "Art. 45", "art": "45", "acao": "regulamentou"}]},
+{"data": "1987-09-23", "nome": "Decreto nº 94.946 de 23/09/1987", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 17, caput, Item 1", "art": "17", "acao": "regulamentou"}]},
+{"data": "1991-02-04", "nome": "Decreto nº 22 de 04/02/1991", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2023-10-20", "nome": "Lei nº 14.701 de 20/10/2023", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14701-2023-10-20"},
+{"data": "2023-10-20", "nome": "Lei nº 14.701 de 20/10/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 9", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, caput, Inciso 9", "art": "2", "acao": "vetado"}], "id": "federal/leis-ordinarias/2023/lei-14701-2023-10-20"}
+],
+"controle": []
+}

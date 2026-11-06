@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1954/lei-2252-1954-07-01",
+"urn": "urn:lex:br:federal:lei:1954-07-01;2252",
+"consultado_em": "2026-11-06",
+"codigo": "544035",
+"nome": "Lei nº 2.252 de 01/07/1954",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1954-07-03", "descricao": "Publicação Original [Diário Oficial da União de 03/07/1954] (p. 11753, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-08-07", "nome": "Lei nº 12.015 de 07/08/2009", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2009/lei-12015-2009-08-07"}
+],
+"controle": []
+}

@@ -1,0 +1,24 @@
+{
+"id": "federal/leis-ordinarias/2017/lei-13529-2017-12-04",
+"urn": "urn:lex:br:federal:lei:2017-12-04;13529",
+"consultado_em": "2026-11-06",
+"codigo": "26308694",
+"nome": "Lei nº 13.529 de 04/12/2017",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2017-12-05", "descricao": "Publicação Original [Diário Oficial da União de 05/12/2017] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2017-12-04", "nome": "Decreto nº 9.217 de 04/12/2017", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2018-12-27", "nome": "Medida Provisória nº 868 de 27/12/2018", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 4, § 3", "art": "4", "acao": "revogou"}]},
+{"data": "2018-12-27", "nome": "Medida Provisória nº 868 de 27/12/2018", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2018-12-27", "nome": "Medida Provisória nº 868 de 27/12/2018", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2018-12-27", "nome": "Medida Provisória nº 868 de 27/12/2018", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2019-06-04", "nome": "Ato do Presidente do Congresso Nacional nº 36 de 04/06/2019", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2020-07-15", "nome": "Lei nº 14.026 de 15/07/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 4, § 3", "art": "4", "acao": "revogou"}], "id": "federal/leis-ordinarias/2020/lei-14026-2020-07-15"},
+{"data": "2020-07-15", "nome": "Lei nº 14.026 de 15/07/2020", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2020/lei-14026-2020-07-15"},
+{"data": "2020-07-15", "nome": "Lei nº 14.026 de 15/07/2020", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2020/lei-14026-2020-07-15"},
+{"data": "2020-07-15", "nome": "Lei nº 14.026 de 15/07/2020", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2020/lei-14026-2020-07-15"}
+],
+"controle": []
+}

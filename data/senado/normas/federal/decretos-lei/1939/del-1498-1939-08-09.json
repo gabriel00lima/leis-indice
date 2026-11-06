@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1939/del-1498-1939-08-09",
+"urn": "urn:lex:br:federal:decreto.lei:1939-08-09;1498",
+"consultado_em": "2026-11-06",
+"codigo": "525617",
+"nome": "Decreto-Lei nº 1.498 de 09/08/1939",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1939-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1939 - vol. 006] (p. 224, col. 1)"}
+],
+"alteracoes": [
+{"data": "1941-10-30", "nome": "Decreto-Lei nº 3.782 de 30/10/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3782-1941-10-30"}
+],
+"controle": []
+}

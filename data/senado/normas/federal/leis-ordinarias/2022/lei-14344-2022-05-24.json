@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2022/lei-14344-2022-05-24",
+"urn": "urn:lex:br:federal:lei:2022-05-24;14344",
+"consultado_em": "2026-11-06",
+"codigo": "35878228",
+"nome": "Lei nº 14.344 de 24/05/2022",
+"apelidos": [
+"Lei Henry Borel"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2022-05-25", "descricao": "Publicação Original [Diário Oficial da União de 25/05/2022] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2024-03-20", "nome": "Lei nº 14.826 de 20/03/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, caput, Inciso 7", "art": "5", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2024/lei-14826-2024-03-20"},
+{"data": "2024-03-20", "nome": "Lei nº 14.826 de 20/03/2024", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14826-2024-03-20"}
+],
+"controle": [
+{"data": "2024-05-17", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 7.192 de 17/05/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 21, § 1", "art": "21", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}], "decisao": {"classe": "ADI", "numero": "7192"}}
+]
+}

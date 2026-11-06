@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2019/lei-13901-2019-11-11",
+"urn": "urn:lex:br:federal:lei:2019-11-11;13901",
+"consultado_em": "2026-11-06",
+"codigo": "31666990",
+"nome": "Lei nº 13.901 de 11/11/2019",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2019-11-12", "descricao": "Publicação Original [Diário Oficial da União de 12/11/2019] (p. 3, col. 1)"},
+{"tipo": "VEP", "data": "2019-12-11", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União de 11/12/2019] (p. 3, col. 2)"}
+],
+"alteracoes": [
+{"data": "2019-11-11", "nome": "Mensagem de Veto Parcial nº 572 de 11/11/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-11-11", "nome": "Mensagem de Veto Parcial nº 572 de 11/11/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-11-11", "nome": "Mensagem de Veto Parcial nº 572 de 11/11/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "veto"}]},
+{"data": "2023-01-01", "nome": "Medida Provisória nº 1.154 de 01/01/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]},
+{"data": "2023-06-19", "nome": "Lei nº 14.600 de 19/06/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14600-2023-06-19"},
+{"data": "2023-06-19", "nome": "Lei nº 14.600 de 19/06/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2023/lei-14600-2023-06-19"}
+],
+"controle": []
+}

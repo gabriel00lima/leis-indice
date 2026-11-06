@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1993/lei-8693-1993-08-03",
+"urn": "urn:lex:br:federal:lei:1993-08-03;8693",
+"consultado_em": "2026-11-06",
+"codigo": "550569",
+"nome": "Lei nº 8.693 de 03/08/1993",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-08-04", "descricao": "Publicação Original [Diário Oficial da União de 04/08/1993] (p. 11137, col. 1)"}
+],
+"alteracoes": [
+{"data": "1996-11-19", "nome": "Medida Provisória nº 1.529 de 19/11/1996", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}]},
+{"data": "1996-12-16", "nome": "Lei nº 9.364 de 16/12/1996", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/1996/lei-9364-1996-12-16"}
+],
+"controle": []
+}

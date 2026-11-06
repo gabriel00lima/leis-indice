@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1946/del-9085-1946-03-25",
+"urn": "urn:lex:br:federal:decreto.lei:1946-03-25;9085",
+"consultado_em": "2026-11-06",
+"codigo": "534123",
+"nome": "Decreto-Lei nº 9.085 de 25/03/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-03-27", "descricao": "Publicação Original [Diário Oficial da União de 27/03/1946] (p. 4485, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-06-16", "nome": "Decreto-Lei nº 8 de 16/06/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1966/del-8-1966-06-16"},
+{"data": "1966-06-21", "nome": "Decreto nº 58.676 de 21/06/1966", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1982-03-23", "nome": "Decreto nº 87.056 de 23/03/1982", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1985-11-18", "nome": "Decreto nº 91.951 de 18/11/1985", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

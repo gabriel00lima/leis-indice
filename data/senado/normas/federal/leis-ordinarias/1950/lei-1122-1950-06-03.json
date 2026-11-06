@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1122-1950-06-03",
+"urn": "urn:lex:br:federal:lei:1950-06-03;1122",
+"consultado_em": "2026-11-06",
+"codigo": "542738",
+"nome": "Lei nº 1.122 de 03/06/1950",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-06-09", "descricao": "Publicação Original [Diário Oficial da União de 09/06/1950] (p. 8708, col. 3)"}
+],
+"alteracoes": [
+{"data": "1955-02-27", "nome": "Lei nº 2.432 de 27/02/1955", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1955/lei-2432-1955-02-27"}
+],
+"controle": []
+}

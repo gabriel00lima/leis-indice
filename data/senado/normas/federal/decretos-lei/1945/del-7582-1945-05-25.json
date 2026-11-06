@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1945/del-7582-1945-05-25",
+"urn": "urn:lex:br:federal:decreto.lei:1945-05-25;7582",
+"consultado_em": "2026-11-06",
+"codigo": "532679",
+"nome": "Decreto-Lei nº 7.582 de 25/05/1945",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1945-05-28", "descricao": "Publicação Original [Diário Oficial da União de 28/05/1945] (p. 9433, col. 1)"},
+{"tipo": "REP", "data": "1945-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1945 - vol. 003] (p. 166, col. 1)"}
+],
+"alteracoes": [
+{"data": "1945-11-23", "nome": "Decreto-Lei nº 8.218 de 23/11/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-8218-1945-11-23"}
+],
+"controle": []
+}

@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9034-1995-05-03",
+"urn": "urn:lex:br:federal:lei:1995-05-03;9034",
+"consultado_em": "2026-11-06",
+"codigo": "550910",
+"nome": "Lei nº 9.034 de 03/05/1995",
+"apelidos": [
+"Lei de Organização Criminosa (1995)",
+"Lei de Combate ao Crime Organizado (1995)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-05-04", "descricao": "Publicação Original [Diário Oficial da União de 04/05/1995] (p. 6241, col. 1)"}
+],
+"alteracoes": [
+{"data": "1996-09-05", "nome": "Lei nº 9.303 de 05/09/1996", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}], "id": "federal/leis-ordinarias/1996/lei-9303-1996-09-05"},
+{"data": "2001-04-11", "nome": "Lei nº 10.217 de 11/04/2001", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2001/lei-10217-2001-04-11"},
+{"data": "2013-08-02", "nome": "Lei nº 12.850 de 02/08/2013", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2013/lei-12850-2013-08-02"}
+],
+"controle": []
+}

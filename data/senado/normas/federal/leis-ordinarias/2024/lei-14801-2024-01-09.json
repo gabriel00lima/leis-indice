@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2024/lei-14801-2024-01-09",
+"urn": "urn:lex:br:federal:lei:2024-01-09;14801",
+"consultado_em": "2026-11-06",
+"codigo": "38147609",
+"nome": "Lei nº 14.801 de 09/01/2024",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2024-01-10", "descricao": "Publicação Original [Diário Oficial da União de 10/01/2024] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2024-03-26", "nome": "Decreto nº 11.964 de 26/03/2024", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2026-09-16", "nome": "Lei nº 15.506 de 16/09/2026", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2026/lei-15506-2026-09-16"},
+{"data": "2026-09-16", "nome": "Lei nº 15.506 de 16/09/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 2, Inciso 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 10", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15506-2026-09-16"},
+{"data": "2026-09-16", "nome": "Lei nº 15.506 de 16/09/2026", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2026/lei-15506-2026-09-16"}
+],
+"controle": []
+}

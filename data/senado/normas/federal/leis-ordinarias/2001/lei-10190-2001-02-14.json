@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2001/lei-10190-2001-02-14",
+"urn": "urn:lex:br:federal:lei:2001-02-14;10190",
+"consultado_em": "2026-11-06",
+"codigo": "552066",
+"nome": "Lei nº 10.190 de 14/02/2001",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2001-02-16", "descricao": "Publicação Original [Diário Oficial da União de 16/02/2001] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2008-12-03", "nome": "Medida Provisória nº 449 de 03/12/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]},
+{"data": "2009-05-27", "nome": "Lei nº 11.941 de 27/05/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2009/lei-11941-2009-05-27"},
+{"data": "2025-01-15", "nome": "Lei Complementar nº 213 de 15/01/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-complementares/2025/lcp-213-2025-01-15"}
+],
+"controle": []
+}

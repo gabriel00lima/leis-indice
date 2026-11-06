@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1984/del-2194-1984-12-26",
+"urn": "urn:lex:br:federal:decreto.lei:1984-12-26;2194",
+"consultado_em": "2026-11-06",
+"codigo": "527001",
+"nome": "Decreto-Lei nº 2.194 de 26/12/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-12-27", "descricao": "Publicação Original [Diário Oficial da União de 27/12/1984] (p. 19525, col. 2)"}
+],
+"alteracoes": [
+{"data": "1985-11-19", "nome": "Lei nº 7.407 de 19/11/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7407-1985-11-19"},
+{"data": "1986-12-16", "nome": "Decreto nº 93.715 de 16/12/1986", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1989-11-14", "nome": "Medida Provisória nº 106 de 14/11/1989", "tipo": "Ratificação Provisória", "dispositivos": [{"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "ratificado provisoriamente"}]},
+{"data": "1990-01-09", "nome": "Lei nº 7.995 de 09/01/1990", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1990/lei-7995-1990-01-09"}
+],
+"controle": []
+}

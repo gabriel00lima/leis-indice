@@ -1,0 +1,26 @@
+{
+"id": "federal/leis-ordinarias/2021/lei-14183-2021-07-14",
+"urn": "urn:lex:br:federal:lei:2021-07-14;14183",
+"consultado_em": "2026-11-06",
+"codigo": "34286177",
+"nome": "Lei nº 14.183 de 14/07/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-07-15", "descricao": "Publicação Original [Diário Oficial da União de 15/07/2021] (p. 1, col. 1)"},
+{"tipo": "REP", "data": "2021-07-15", "descricao": "Republicação Integral (Seq. 0) [Diário Oficial da União - Edição Extra de 15/07/2021] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-07-14", "nome": "Mensagem de Veto Parcial nº 339 de 14/07/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, caput", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 5, caput, Inciso 1", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 5, caput, Inciso 2", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 8", "art": "8", "acao": "veto"}]},
+{"data": "2021-07-14", "nome": "Mensagem de Veto Parcial nº 339 de 14/07/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-07-14", "nome": "Mensagem de Veto Parcial nº 339 de 14/07/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-07-14", "nome": "Mensagem de Veto Parcial nº 339 de 14/07/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-12-31", "nome": "Medida Provisória nº 1.095 de 31/12/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}]},
+{"data": "2021-12-31", "nome": "Medida Provisória nº 1.095 de 31/12/2021", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2022-06-21", "nome": "Lei nº 14.374 de 21/06/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9, caput", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 9, caput", "art": "9", "acao": "vetado"}], "id": "federal/leis-ordinarias/2022/lei-14374-2022-06-21"},
+{"data": "2022-06-21", "nome": "Lei nº 14.374 de 21/06/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14374-2022-06-21"}
+],
+"controle": [
+{"data": "2022-06-20", "nome": "Acórdão da Arguição de Descumprimento de Preceito Fundamental nº 893 de 20/06/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "efeito": "outro", "texto": "Revigoração"}], "decisao": {"classe": "ADPF", "numero": "893"}},
+{"data": "2024-03-08", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 7.239 de 08/03/2024", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 10, caput, Inciso 2", "art": "10", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "7239"}}
+]
+}

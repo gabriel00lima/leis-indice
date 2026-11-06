@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1969/del-717-1969-07-30",
+"urn": "urn:lex:br:federal:decreto.lei:1969-07-30;717",
+"consultado_em": "2026-11-06",
+"codigo": "524061",
+"nome": "Decreto-Lei nº 717 de 30/07/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-07-31", "descricao": "Publicação Original [Diário Oficial da União de 31/07/1969] (p. 6521, col. 1)"}
+],
+"alteracoes": [
+{"data": "1970-10-13", "nome": "Decreto-Lei nº 1.129 de 13/10/1970", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1970/del-1129-1970-10-13"},
+{"data": "1973-09-06", "nome": "Decreto-Lei nº 1.285 de 06/09/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1973/del-1285-1973-09-06"},
+{"data": "1976-12-30", "nome": "Decreto-Lei nº 1.515 de 30/12/1976", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1976/del-1515-1976-12-30"},
+{"data": "1977-07-07", "nome": "Lei nº 6.430 de 07/07/1977", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1977/lei-6430-1977-07-07"},
+{"data": "1992-12-11", "nome": "Lei nº 8.522 de 11/12/1992", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1992/lei-8522-1992-12-11"}
+],
+"controle": []
+}

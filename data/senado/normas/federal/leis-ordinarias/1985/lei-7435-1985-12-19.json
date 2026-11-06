@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1985/lei-7435-1985-12-19",
+"urn": "urn:lex:br:federal:lei:1985-12-19;7435",
+"consultado_em": "2026-11-06",
+"codigo": "549311",
+"nome": "Lei nº 7.435 de 19/12/1985",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1985-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/1985] (p. 18737, col. 2)"}
+],
+"alteracoes": [
+{"data": "1987-03-29", "nome": "Lei nº 7.590 de 29/03/1987", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1987/lei-7590-1987-03-29"}
+],
+"controle": []
+}

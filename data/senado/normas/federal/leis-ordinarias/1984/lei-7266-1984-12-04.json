@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1984/lei-7266-1984-12-04",
+"urn": "urn:lex:br:federal:lei:1984-12-04;7266",
+"consultado_em": "2026-11-06",
+"codigo": "549142",
+"nome": "Lei nº 7.266 de 04/12/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-12-05", "descricao": "Publicação Original [Diário Oficial da União de 05/12/1984] (p. 17994, col. 2)"}
+],
+"alteracoes": [
+{"data": "1987-01-06", "nome": "Lei nº 7.586 de 06/01/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1987/lei-7586-1987-01-06"}
+],
+"controle": []
+}

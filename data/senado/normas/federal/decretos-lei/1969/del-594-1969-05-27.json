@@ -1,0 +1,22 @@
+{
+"id": "federal/decretos-lei/1969/del-594-1969-05-27",
+"urn": "urn:lex:br:federal:decreto.lei:1969-05-27;594",
+"consultado_em": "2026-11-06",
+"codigo": "523821",
+"nome": "Decreto-Lei nº 594 de 27/05/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-05-28", "descricao": "Publicação Original [Diário Oficial da União de 28/05/1969] (p. 4521, col. 4)"}
+],
+"alteracoes": [
+{"data": "1970-01-26", "nome": "Decreto nº 66.118 de 26/01/1970", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1971-06-03", "nome": "Decreto nº 68.703 de 03/06/1971", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1971-11-01", "nome": "Decreto nº 69.450 de 01/11/1971", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1978-03-03", "nome": "Decreto-Lei nº 1.617 de 03/03/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1978/del-1617-1978-03-03"},
+{"data": "1981-05-11", "nome": "Lei nº 6.905 de 11/05/1981", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1981/lei-6905-1981-05-11"},
+{"data": "1982-01-20", "nome": "Decreto-Lei nº 1.924 de 20/01/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1924-1982-01-20"},
+{"data": "2018-06-11", "nome": "Medida Provisória nº 841 de 11/06/2018", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, caput, Alínea a", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, caput, Alínea b", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, caput, Alínea c", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "revogou"}]},
+{"data": "2018-12-12", "nome": "Lei nº 13.756 de 12/12/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "revogou"}], "id": "federal/leis-ordinarias/2018/lei-13756-2018-12-12"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1965/del-1-1965-11-13",
+"urn": "urn:lex:br:federal:decreto.lei:1965-11-13;1",
+"consultado_em": "2026-11-06",
+"codigo": "522644",
+"nome": "Decreto-Lei nº 1 de 13/11/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-11-17", "descricao": "Publicação Original [Diário Oficial da União de 17/11/1965] (p. 11729, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-05-13", "nome": "Decreto-Lei nº 7 de 13/05/1966", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/decretos-lei/1966/del-7-1966-05-13"},
+{"data": "1967-02-08", "nome": "Decreto nº 60.190 de 08/02/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

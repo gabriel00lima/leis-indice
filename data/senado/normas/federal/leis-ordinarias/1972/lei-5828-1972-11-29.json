@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1972/lei-5828-1972-11-29",
+"urn": "urn:lex:br:federal:lei:1972-11-29;5828",
+"consultado_em": "2026-11-06",
+"codigo": "547704",
+"nome": "Lei nº 5.828 de 29/11/1972",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1972-11-30", "descricao": "Publicação Original [Diário Oficial da União de 30/11/1972] (p. 10673, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-06-19", "nome": "Lei nº 5.893 de 19/06/1973", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/1973/lei-5893-1973-06-19"}
+],
+"controle": []
+}

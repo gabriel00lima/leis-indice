@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-842-1949-10-04",
+"urn": "urn:lex:br:federal:lei:1949-10-04;842",
+"consultado_em": "2026-11-06",
+"codigo": "542422",
+"nome": "Lei nº 842 de 04/10/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-10-05", "descricao": "Publicação Original [Diário Oficial da União de 05/10/1949] (p. 14217, col. 1)"}
+],
+"alteracoes": [
+{"data": "1949-12-03", "nome": "Decreto nº 27.541 de 03/12/1949", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1951-06-28", "nome": "Lei nº 1.389 de 28/06/1951", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1951/lei-1389-1951-06-28"},
+{"data": "1953-09-26", "nome": "Lei nº 1.991 de 26/09/1953", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1953/lei-1991-1953-09-26"}
+],
+"controle": []
+}

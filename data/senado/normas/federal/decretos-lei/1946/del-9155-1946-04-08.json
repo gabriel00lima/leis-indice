@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1946/del-9155-1946-04-08",
+"urn": "urn:lex:br:federal:decreto.lei:1946-04-08;9155",
+"consultado_em": "2026-11-06",
+"codigo": "534193",
+"nome": "Decreto-Lei nº 9.155 de 08/04/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-04-12", "descricao": "Publicação Original [Diário Oficial da União de 12/04/1946] (p. 5337, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-06-21", "nome": "Decreto-Lei nº 9.396 de 21/06/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9396-1946-06-21"},
+{"data": "1968-02-08", "nome": "Decreto nº 62.241 de 08/02/1968", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2013-06-05", "nome": "Lei nº 12.825 de 05/06/2013", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2013/lei-12825-2013-06-05"}
+],
+"controle": []
+}

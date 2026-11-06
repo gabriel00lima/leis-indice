@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1953/lei-1889-1953-06-13",
+"urn": "urn:lex:br:federal:lei:1953-06-13;1889",
+"consultado_em": "2026-11-06",
+"codigo": "543650",
+"nome": "Lei nº 1.889 de 13/06/1953",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1953-06-20", "descricao": "Publicação Original [Diário Oficial da União de 20/06/1953] (p. 10985, col. 1)"}
+],
+"alteracoes": [
+{"data": "1954-04-02", "nome": "Decreto nº 35.311 de 02/04/1954", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

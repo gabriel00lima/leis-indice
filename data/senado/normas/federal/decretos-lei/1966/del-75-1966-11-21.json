@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1966/del-75-1966-11-21",
+"urn": "urn:lex:br:federal:decreto.lei:1966-11-21;75",
+"consultado_em": "2026-11-06",
+"codigo": "522791",
+"nome": "Decreto-Lei nº 75 de 21/11/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-22", "descricao": "Publicação Original [Diário Oficial da União de 22/11/1966] (p. 13530, col. 1)"}
+],
+"alteracoes": [
+{"data": "1987-02-26", "nome": "Decreto-Lei nº 2.322 de 26/02/1987", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2322-1987-02-26"},
+{"data": "1991-03-01", "nome": "Lei nº 8.177 de 01/03/1991", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8177-1991-03-01"}
+],
+"controle": []
+}

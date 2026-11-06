@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2014/lei-13022-2014-08-08",
+"urn": "urn:lex:br:federal:lei:2014-08-08;13022",
+"consultado_em": "2026-11-06",
+"codigo": "584833",
+"nome": "Lei nº 13.022 de 08/08/2014",
+"apelidos": [
+"Estatuto Geral das Guardas Municipais (2014)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2014-08-11", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 11/08/2014] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2021-09-13", "nome": "Medida Provisória nº 1.070 de 13/09/2021", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2023-12-21", "nome": "Decreto nº 11.841 de 21/12/2023", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 5, caput, Inciso 4", "art": "5", "acao": "regulamentou"}, {"dispositivo": "Art. 5, caput, Inciso 13", "art": "5", "acao": "regulamentou"}, {"dispositivo": "Art. 5, caput, Inciso 14", "art": "5", "acao": "regulamentou"}, {"dispositivo": "Art. 5, Parágrafo Único", "art": "5", "acao": "regulamentou"}]}
+],
+"controle": [
+{"data": "2023-06-30", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.780 de 30/06/2023", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "5780"}},
+{"data": "2023-08-25", "nome": "Acórdão da Arguição de Descumprimento de Preceito Fundamental nº 995 de 25/08/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput", "art": "4", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}, {"dispositivo": "Art. 4, Parágrafo Único", "art": "4", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}], "decisao": {"classe": "ADPF", "numero": "995"}}
+]
+}

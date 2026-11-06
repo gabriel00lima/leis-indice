@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5506-1968-10-08",
+"urn": "urn:lex:br:federal:lei:1968-10-08;5506",
+"consultado_em": "2026-11-06",
+"codigo": "547375",
+"nome": "Lei nº 5.506 de 08/10/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-10-09", "descricao": "Publicação Original [Diário Oficial da União de 09/10/1968] (p. 8801, col. 1)"}
+],
+"alteracoes": [
+{"data": "1974-05-16", "nome": "Lei nº 6.047 de 16/05/1974", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1974/lei-6047-1974-05-16"},
+{"data": "1980-06-23", "nome": "Decreto-Lei nº 1.794 de 23/06/1980", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1980/del-1794-1980-06-23"}
+],
+"controle": []
+}

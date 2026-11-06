@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1956/lei-2931-1956-10-27",
+"urn": "urn:lex:br:federal:lei:1956-10-27;2931",
+"consultado_em": "2026-11-06",
+"codigo": "544770",
+"nome": "Lei nº 2.931 de 27/10/1956",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1956-10-29", "descricao": "Publicação Original [Diário Oficial da União de 29/10/1956] (p. 20572, col. 3)"}
+],
+"alteracoes": [
+{"data": "1969-01-09", "nome": "Decreto-Lei nº 413 de 09/01/1969", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1969/del-413-1969-01-09"}
+],
+"controle": []
+}

@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1975/del-1416-1975-08-25",
+"urn": "urn:lex:br:federal:decreto.lei:1975-08-25;1416",
+"consultado_em": "2026-11-06",
+"codigo": "525454",
+"nome": "Decreto-Lei nº 1.416 de 25/08/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-08-26", "descricao": "Publicação Original [Diário Oficial da União de 26/08/1975] (p. 10873, col. 1)"}
+],
+"alteracoes": [
+{"data": "1975-10-02", "nome": "Decreto Legislativo nº 84 de 02/10/1975", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1988-12-06", "nome": "Medida Provisória nº 23 de 06/12/1988", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1992-12-11", "nome": "Lei nº 8.522 de 11/12/1992", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1992/lei-8522-1992-12-11"},
+{"data": "2021-03-29", "nome": "Medida Provisória nº 1.040 de 29/03/2021", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2021-08-26", "nome": "Lei nº 14.195 de 26/08/2021", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14195-2021-08-26"}
+],
+"controle": []
+}

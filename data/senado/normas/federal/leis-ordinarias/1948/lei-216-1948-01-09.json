@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-216-1948-01-09",
+"urn": "urn:lex:br:federal:lei:1948-01-09;216",
+"consultado_em": "2026-11-06",
+"codigo": "541307",
+"nome": "Lei nº 216 de 09/01/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-01-13", "descricao": "Publicação Original [Diário Oficial da União de 13/01/1948] (p. 417, col. 2)"}
+],
+"alteracoes": [
+{"data": "1952-06-04", "nome": "Lei nº 1.616 de 04/06/1952", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1952/lei-1616-1952-06-04"}
+],
+"controle": []
+}

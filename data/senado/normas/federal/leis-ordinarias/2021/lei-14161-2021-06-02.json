@@ -1,0 +1,28 @@
+{
+"id": "federal/leis-ordinarias/2021/lei-14161-2021-06-02",
+"urn": "urn:lex:br:federal:lei:2021-06-02;14161",
+"consultado_em": "2026-11-06",
+"codigo": "34133219",
+"nome": "Lei nº 14.161 de 02/06/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-06-04", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 04/06/2021] (p. 1, col. 2)"},
+{"tipo": "RED", "data": "2021-06-14", "descricao": "Republicação de Dispositivo (Seq. 0) [Diário Oficial da União de 14/06/2021] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-06-02", "nome": "Mensagem de Veto Parcial nº 240 de 02/06/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 4", "art": "2", "acao": "veto"}, {"dispositivo": "Art. 10, caput", "art": "10", "acao": "veto"}]},
+{"data": "2021-06-02", "nome": "Mensagem de Veto Parcial nº 240 de 02/06/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-06-02", "nome": "Mensagem de Veto Parcial nº 240 de 02/06/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-07-01", "nome": "Decreto nº 10.739 de 01/07/2021", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "regulamentou"}]},
+{"data": "2021-12-01", "nome": "Lei nº 14.257 de 01/12/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/2021/lei-14257-2021-12-01"},
+{"data": "2021-12-01", "nome": "Lei nº 14.257 de 01/12/2021", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14257-2021-12-01"},
+{"data": "2022-05-25", "nome": "Lei nº 14.348 de 25/05/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 2, § 3", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 4", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14348-2022-05-25"},
+{"data": "2022-05-25", "nome": "Lei nº 14.348 de 25/05/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14348-2022-05-25"},
+{"data": "2022-05-25", "nome": "Lei nº 14.348 de 25/05/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14348-2022-05-25"},
+{"data": "2022-10-27", "nome": "Medida Provisória nº 1.139 de 27/10/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4, caput", "art": "4", "acao": "revogou"}]},
+{"data": "2022-10-27", "nome": "Medida Provisória nº 1.139 de 27/10/2022", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2023-04-20", "nome": "Lei nº 14.554 de 20/04/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14554-2023-04-20"},
+{"data": "2023-04-20", "nome": "Lei nº 14.554 de 20/04/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4, caput", "art": "4", "acao": "revogou"}], "id": "federal/leis-ordinarias/2023/lei-14554-2023-04-20"}
+],
+"controle": []
+}

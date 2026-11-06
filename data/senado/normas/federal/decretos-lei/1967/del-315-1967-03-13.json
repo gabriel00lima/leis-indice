@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1967/del-315-1967-03-13",
+"urn": "urn:lex:br:federal:decreto.lei:1967-03-13;315",
+"consultado_em": "2026-11-06",
+"codigo": "523268",
+"nome": "Decreto-Lei nº 315 de 13/03/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-03-13", "descricao": "Publicação Original [Diário Oficial da União de 13/03/1967] (p. 2995, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-08-27", "nome": "Decreto-Lei nº 792 de 27/08/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-792-1969-08-27"},
+{"data": "1971-12-20", "nome": "Lei nº 5.767 de 20/12/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5767-1971-12-20"},
+{"data": "1971-12-21", "nome": "Lei nº 5.771 de 21/12/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5771-1971-12-21"},
+{"data": "1975-12-15", "nome": "Lei nº 6.296 de 15/12/1975", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1975/lei-6296-1975-12-15"}
+],
+"controle": []
+}

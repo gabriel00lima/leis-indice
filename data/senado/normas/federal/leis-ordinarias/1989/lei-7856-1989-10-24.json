@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7856-1989-10-24",
+"urn": "urn:lex:br:federal:lei:1989-10-24;7856",
+"consultado_em": "2026-11-06",
+"codigo": "549732",
+"nome": "Lei nº 7.856 de 24/10/1989",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-10-25", "descricao": "Publicação Original [Diário Oficial da União de 25/10/1989] (p. 19213, col. 2)"}
+],
+"alteracoes": [
+{"data": "2008-01-03", "nome": "Medida Provisória nº 413 de 03/01/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}]},
+{"data": "2008-06-23", "nome": "Lei nº 11.727 de 23/06/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/2008/lei-11727-2008-06-23"}
+],
+"controle": []
+}

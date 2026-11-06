@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1937/del-14-1937-11-25",
+"urn": "urn:lex:br:federal:decreto.lei:1937-11-25;14",
+"consultado_em": "2026-11-06",
+"codigo": "522669",
+"nome": "Decreto-Lei nº 14 de 25/11/1937",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1937-11-30", "descricao": "Publicação Original [Diário Oficial da União de 30/11/1937] (p. 23594, col. 1)"}
+],
+"alteracoes": [
+{"data": "1971-01-14", "nome": "Decreto nº 68.063 de 14/01/1971", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1946/del-9502-1946-07-23",
+"urn": "urn:lex:br:federal:decreto.lei:1946-07-23;9502",
+"consultado_em": "2026-11-06",
+"codigo": "534541",
+"nome": "Decreto-Lei nº 9.502 de 23/07/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-07-27", "descricao": "Publicação Original [Diário Oficial da União de 27/07/1946] (p. 10926, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-08-28", "nome": "Decreto-Lei nº 9.666 de 28/08/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9666-1946-08-28"},
+{"data": "1946-08-29", "nome": "Decreto-Lei nº 9.675 de 29/08/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9675-1946-08-29"},
+{"data": "1956-06-18", "nome": "Lei nº 2.802 de 18/06/1956", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2802-1956-06-18"}
+],
+"controle": []
+}

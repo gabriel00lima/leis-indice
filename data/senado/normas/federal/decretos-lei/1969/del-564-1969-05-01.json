@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1969/del-564-1969-05-01",
+"urn": "urn:lex:br:federal:decreto.lei:1969-05-01;564",
+"consultado_em": "2026-11-06",
+"codigo": "523761",
+"nome": "Decreto-Lei nº 564 de 01/05/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-05-02", "descricao": "Publicação Original [Diário Oficial da União de 02/05/1969] (p. 3705, col. 2)"}
+],
+"alteracoes": [
+{"data": "1969-07-24", "nome": "Decreto-Lei nº 704 de 24/07/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-704-1969-07-24"},
+{"data": "1969-09-05", "nome": "Decreto nº 65.106 de 05/09/1969", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1969-09-11", "nome": "Decreto-Lei nº 852 de 11/09/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-852-1969-09-11"},
+{"data": "1971-05-25", "nome": "Lei Complementar nº 11 de 25/05/1971", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-complementares/1971/lcp-11-1971-05-25"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1992/lei-8477-1992-10-29",
+"urn": "urn:lex:br:federal:lei:1992-10-29;8477",
+"consultado_em": "2026-11-06",
+"codigo": "550353",
+"nome": "Lei nº 8.477 de 29/10/1992",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1992-10-30", "descricao": "Publicação Original [Diário Oficial da União de 30/10/1992] (p. 15273, col. 2)"}
+],
+"alteracoes": [
+{"data": "1994-12-02", "nome": "Medida Provisória nº 745 de 02/12/1994", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "correlato"}]},
+{"data": "1994-12-30", "nome": "Medida Provisória nº 804 de 30/12/1994", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "correlato"}]}
+],
+"controle": []
+}

@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2015/lei-13116-2015-04-20",
+"urn": "urn:lex:br:federal:lei:2015-04-20;13116",
+"consultado_em": "2026-11-06",
+"codigo": "584928",
+"nome": "Lei nº 13.116 de 20/04/2015",
+"apelidos": [
+"Lei Geral das Antenas (2015)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2015-04-22", "descricao": "Publicação Original [Diário Oficial da União de 22/04/2015] (p. 10, col. 1)"}
+],
+"alteracoes": [
+{"data": "2020-09-01", "nome": "Decreto nº 10.480 de 01/09/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2022-07-27", "nome": "Lei nº 14.424 de 27/07/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, § 11", "art": "7", "acao": "acrescentou"}, {"dispositivo": "Art. 7, § 12", "art": "7", "acao": "acrescentou"}, {"dispositivo": "Art. 7, § 13", "art": "7", "acao": "acrescentou"}, {"dispositivo": "Art. 7, § 14", "art": "7", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14424-2022-07-27"},
+{"data": "2025-12-22", "nome": "Lei nº 15.300 de 22/12/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, § 15", "art": "7", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2025/lei-15300-2025-12-22"}
+],
+"controle": [
+{"data": "2020-02-18", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.482 de 18/02/2020", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 12, caput", "art": "12", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "6482"}}
+]
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2012/lei-12777-2012-12-28",
+"urn": "urn:lex:br:federal:lei:2012-12-28;12777",
+"consultado_em": "2026-11-06",
+"codigo": "588153",
+"nome": "Lei nº 12.777 de 28/12/2012",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2012-12-31", "descricao": "Publicação Original [Diário Oficial da União de 31/12/2012] (p. 28, col. 1)"}
+],
+"alteracoes": [
+{"data": "2016-07-28", "nome": "Lei nº 13.323 de 28/07/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 3", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 4", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 5", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 6", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 7", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 8", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2016/lei-13323-2016-07-28"},
+{"data": "2023-01-09", "nome": "Lei nº 14.528 de 09/01/2023", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14528-2023-01-09"},
+{"data": "2024-09-20", "nome": "Lei nº 14.983 de 20/09/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7-A, caput", "art": "7-a", "acao": "acrescentou"}, {"dispositivo": "Art. 7-B, caput", "art": "7-b", "acao": "acrescentou"}, {"dispositivo": "Art. 7-B, § 1", "art": "7-b", "acao": "vetado"}, {"dispositivo": "Art. 7-B, § 2", "art": "7-b", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2024/lei-14983-2024-09-20"}
+],
+"controle": []
+}

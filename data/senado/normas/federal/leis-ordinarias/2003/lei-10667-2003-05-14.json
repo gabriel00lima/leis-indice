@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2003/lei-10667-2003-05-14",
+"urn": "urn:lex:br:federal:lei:2003-05-14;10667",
+"consultado_em": "2026-11-06",
+"codigo": "552543",
+"nome": "Lei nº 10.667 de 14/05/2003",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2003-05-15", "descricao": "Publicação Original [Diário Oficial da União de 15/05/2003] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2003-06-11", "nome": "Decreto nº 4.736 de 11/06/2003", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 15", "art": "15", "acao": "regulamentou"}]},
+{"data": "2007-06-15", "nome": "Medida Provisória nº 375 de 15/06/2007", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "revogou"}]},
+{"data": "2007-10-04", "nome": "Lei nº 11.526 de 04/10/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "revogou"}], "id": "federal/leis-ordinarias/2007/lei-11526-2007-10-04"},
+{"data": "2021-04-14", "nome": "Medida Provisória nº 1.042 de 14/04/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 19, caput", "art": "19", "acao": "revogou"}]},
+{"data": "2021-09-16", "nome": "Lei nº 14.204 de 16/09/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 19, caput", "art": "19", "acao": "revogou"}], "id": "federal/leis-ordinarias/2021/lei-14204-2021-09-16"},
+{"data": "2022-03-14", "nome": "Decreto nº 10.993 de 14/03/2022", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 15", "art": "15", "acao": "regulamentou"}]}
+],
+"controle": []
+}

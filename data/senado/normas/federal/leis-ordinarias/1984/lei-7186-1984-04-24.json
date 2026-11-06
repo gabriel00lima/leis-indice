@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1984/lei-7186-1984-04-24",
+"urn": "urn:lex:br:federal:lei:1984-04-24;7186",
+"consultado_em": "2026-11-06",
+"codigo": "549062",
+"nome": "Lei nº 7.186 de 24/04/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-04-25", "descricao": "Publicação Original [Diário Oficial da União de 25/04/1984] (p. 5841, col. 1)"}
+],
+"alteracoes": [
+{"data": "1984-06-28", "nome": "Decreto-Lei nº 2.144 de 28/06/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "prorrogação de prazo"}, {"dispositivo": "Art. 2, caput, Inciso 1", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1984/del-2144-1984-06-28"}
+],
+"controle": []
+}

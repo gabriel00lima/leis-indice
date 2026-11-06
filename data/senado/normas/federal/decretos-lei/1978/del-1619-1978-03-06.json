@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1978/del-1619-1978-03-06",
+"urn": "urn:lex:br:federal:decreto.lei:1978-03-06;1619",
+"consultado_em": "2026-11-06",
+"codigo": "525859",
+"nome": "Decreto-Lei nº 1.619 de 06/03/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-03-07", "descricao": "Publicação Original [Diário Oficial da União de 07/03/1978] (p. 3281, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-05-09", "nome": "Decreto Legislativo nº 41 de 09/05/1978", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1979-02-13", "nome": "Decreto-Lei nº 1.668 de 13/02/1979", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1668-1979-02-13"},
+{"data": "1979-12-28", "nome": "Decreto-Lei nº 1.751 de 28/12/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1979/del-1751-1979-12-28"}
+],
+"controle": []
+}

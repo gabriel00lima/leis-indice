@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/1991/lei-8191-1991-06-11",
+"urn": "urn:lex:br:federal:lei:1991-06-11;8191",
+"consultado_em": "2026-11-06",
+"codigo": "550067",
+"nome": "Lei nº 8.191 de 11/06/1991",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1991-06-12", "descricao": "Publicação Original [Diário Oficial da União de 12/06/1991] (p. 11213, col. 1)"}
+],
+"alteracoes": [
+{"data": "1991-06-25", "nome": "Decreto nº 151 de 25/06/1991", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1991-10-23", "nome": "Lei nº 8.248 de 23/10/1991", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8248-1991-10-23"},
+{"data": "1991-12-30", "nome": "Lei nº 8.369 de 30/12/1991", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8369-1991-12-30"},
+{"data": "1993-03-31", "nome": "Lei nº 8.643 de 31/03/1993", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "prorrogação de prazo"}], "id": "federal/leis-ordinarias/1993/lei-8643-1993-03-31"},
+{"data": "1994-11-18", "nome": "Medida Provisória nº 721 de 18/11/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "prorrogação de prazo"}]},
+{"data": "1994-12-20", "nome": "Medida Provisória nº 775 de 20/12/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "prorrogação de prazo"}]},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "correlato"}]}
+],
+"controle": []
+}

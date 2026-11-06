@@ -1,0 +1,26 @@
+{
+"id": "federal/leis-ordinarias/2022/lei-14399-2022-07-08",
+"urn": "urn:lex:br:federal:lei:2022-07-08;14399",
+"consultado_em": "2026-11-06",
+"codigo": "36062349",
+"nome": "Lei nº 14.399 de 08/07/2022",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2022-07-08", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 08/07/2022 - nº 128-B] (p. 4, col. 2)"}
+],
+"alteracoes": [
+{"data": "2022-08-26", "nome": "Medida Provisória nº 1.135 de 26/08/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 17, caput", "art": "17", "acao": "alterou"}]},
+{"data": "2022-08-26", "nome": "Medida Provisória nº 1.135 de 26/08/2022", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2023-02-14", "nome": "Ato do Presidente do Congresso Nacional nº 2 de 14/02/2023", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2023-03-23", "nome": "Decreto nº 11.453 de 23/03/2023", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2023-10-18", "nome": "Decreto nº 11.740 de 18/10/2023", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2024-11-22", "nome": "Medida Provisória nº 1.274 de 22/11/2024", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 8, caput, Inciso 2", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8, § 1", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8, § 2", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 14, § 1", "art": "14", "acao": "revogou"}, {"dispositivo": "Art. 16, caput", "art": "16", "acao": "alterou"}]},
+{"data": "2024-11-22", "nome": "Medida Provisória nº 1.274 de 22/11/2024", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2025-04-30", "nome": "Lei nº 15.132 de 30/04/2025", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2025/lei-15132-2025-04-30"},
+{"data": "2025-04-30", "nome": "Lei nº 15.132 de 30/04/2025", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2025/lei-15132-2025-04-30"},
+{"data": "2025-04-30", "nome": "Lei nº 15.132 de 30/04/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 8, caput, Inciso 2", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8, § 1", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 8, § 1-A", "art": "8", "acao": "acrescentou"}, {"dispositivo": "Art. 8, § 2", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 14, § 1", "art": "14", "acao": "revogou"}, {"dispositivo": "Art. 16, caput", "art": "16", "acao": "alterou"}, {"dispositivo": "Art. 17, caput", "art": "17", "acao": "alterou"}], "id": "federal/leis-ordinarias/2025/lei-15132-2025-04-30"},
+{"data": "2025-04-30", "nome": "Lei nº 15.132 de 30/04/2025", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2025/lei-15132-2025-04-30"},
+{"data": "2025-05-29", "nome": "Ato do Presidente do Congresso Nacional nº 32 de 29/05/2025", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

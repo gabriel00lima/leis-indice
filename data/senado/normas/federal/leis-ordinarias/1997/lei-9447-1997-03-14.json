@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1997/lei-9447-1997-03-14",
+"urn": "urn:lex:br:federal:lei:1997-03-14;9447",
+"consultado_em": "2026-11-06",
+"codigo": "551323",
+"nome": "Lei nº 9.447 de 14/03/1997",
+"apelidos": [
+"Lei da Responsabilidade Solidária (1997)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1997-03-15", "descricao": "Publicação Original [Diário Oficial da União de 15/03/1997] (p. 5196, col. 1)"}
+],
+"alteracoes": [
+{"data": "2017-06-07", "nome": "Medida Provisória nº 784 de 07/06/2017", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}]},
+{"data": "2017-11-13", "nome": "Lei nº 13.506 de 13/11/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}], "id": "federal/leis-ordinarias/2017/lei-13506-2017-11-13"}
+],
+"controle": []
+}

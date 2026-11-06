@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-653-1969-06-26",
+"urn": "urn:lex:br:federal:decreto.lei:1969-06-26;653",
+"consultado_em": "2026-11-06",
+"codigo": "523936",
+"nome": "Decreto-Lei nº 653 de 26/06/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-06-27", "descricao": "Publicação Original [Diário Oficial da União de 27/06/1969] (p. 5441, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-08-08", "nome": "Decreto-Lei nº 748 de 08/08/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-748-1969-08-08"}
+],
+"controle": []
+}

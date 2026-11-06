@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1963/lei-4279-1963-11-04",
+"urn": "urn:lex:br:federal:lei:1963-11-04;4279",
+"consultado_em": "2026-11-06",
+"codigo": "546128",
+"nome": "Lei nº 4.279 de 04/11/1963",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1963-11-11", "descricao": "Publicação Original [Diário Oficial da União de 11/11/1963] (p. 9481, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-04-06", "nome": "Lei nº 4.945 de 06/04/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-4945-1966-04-06"},
+{"data": "1973-12-13", "nome": "Lei nº 5.986 de 13/12/1973", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14, Parágrafo Único", "art": "14", "acao": "revogou"}], "id": "federal/leis-ordinarias/1973/lei-5986-1973-12-13"}
+],
+"controle": []
+}

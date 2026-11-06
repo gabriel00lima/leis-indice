@@ -1,0 +1,29 @@
+{
+"id": "federal/leis-ordinarias/2023/lei-14690-2023-10-03",
+"urn": "urn:lex:br:federal:lei:2023-10-03;14690",
+"consultado_em": "2026-11-06",
+"codigo": "37685971",
+"nome": "Lei nº 14.690 de 03/10/2023",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2023-10-03", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 03/10/2023] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2023-12-11", "nome": "Medida Provisória nº 1.199 de 11/12/2023", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2023-12-11", "nome": "Medida Provisória nº 1.199 de 11/12/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 8, § 1, Inciso 3", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 12, § 2", "art": "12", "acao": "revogou"}]},
+{"data": "2023-12-11", "nome": "Medida Provisória nº 1.199 de 11/12/2023", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2024-01-16", "nome": "Lei nº 14.818 de 16/01/2024", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 25", "art": "25", "acao": "correlato"}], "id": "federal/leis-ordinarias/2024/lei-14818-2024-01-16"},
+{"data": "2024-03-27", "nome": "Medida Provisória nº 1.211 de 27/03/2024", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2024-03-27", "nome": "Medida Provisória nº 1.211 de 27/03/2024", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 8, § 1, Inciso 3", "art": "8", "acao": "alterou"}]},
+{"data": "2024-04-22", "nome": "Medida Provisória nº 1.213 de 22/04/2024", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 10, § 2", "art": "10", "acao": "ressalvou"}]},
+{"data": "2024-04-22", "nome": "Medida Provisória nº 1.213 de 22/04/2024", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 10, caput", "art": "10", "acao": "correlato"}]},
+{"data": "2024-04-22", "nome": "Medida Provisória nº 1.213 de 22/04/2024", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2024-05-23", "nome": "Ato do Presidente do Congresso Nacional nº 30 de 23/05/2024", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2024-08-15", "nome": "Ato do Presidente do Congresso Nacional nº 63 de 15/08/2024", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2024-11-27", "nome": "Lei nº 15.034 de 27/11/2024", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-15034-2024-11-27"},
+{"data": "2024-11-27", "nome": "Lei nº 15.034 de 27/11/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, § 2", "art": "10", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2024/lei-15034-2024-11-27"},
+{"data": "2026-09-25", "nome": "Medida Provisória nº 1.393 de 25/09/2026", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2026-09-25", "nome": "Medida Provisória nº 1.393 de 25/09/2026", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 1, § 2", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 28-A", "art": "28-a", "acao": "acrescentou"}, {"dispositivo": "Art. 31-A, caput", "art": "31-a", "acao": "acrescentou"}, {"dispositivo": "Art. 31-A, Parágrafo Único", "art": "31-a", "acao": "acrescentou"}, {"dispositivo": "Art. 31-B, caput", "art": "31-b", "acao": "acrescentou"}, {"dispositivo": "Art. 31-C", "art": "31-c", "acao": "acrescentou"}, {"dispositivo": "Art. 31-D", "art": "31-d", "acao": "acrescentou"}, {"dispositivo": "Art. 31-E, caput", "art": "31-e", "acao": "acrescentou"}, {"dispositivo": "Art. 31-E, Parágrafo Único", "art": "31-e", "acao": "acrescentou"}, {"dispositivo": "Art. 31-F, caput", "art": "31-f", "acao": "acrescentou"}, {"dispositivo": "Art. 31-G", "art": "31-g", "acao": "acrescentou"}, {"dispositivo": "Art. 31-H, caput", "art": "31-h", "acao": "acrescentou"}, {"dispositivo": "Art. 31-H, Parágrafo Único", "art": "31-h", "acao": "acrescentou"}]}
+],
+"controle": []
+}

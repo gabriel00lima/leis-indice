@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1980/lei-6791-1980-06-09",
+"urn": "urn:lex:br:federal:lei:1980-06-09;6791",
+"consultado_em": "2026-11-06",
+"codigo": "548667",
+"nome": "Lei nº 6.791 de 09/06/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-06-10", "descricao": "Publicação Original [Diário Oficial da União de 10/06/1980] (p. 11382, col. 2)"}
+],
+"alteracoes": [
+{"data": "2025-11-13", "nome": "Lei nº 15.261 de 13/11/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1-A, caput", "art": "1-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2025/lei-15261-2025-11-13"}
+],
+"controle": []
+}

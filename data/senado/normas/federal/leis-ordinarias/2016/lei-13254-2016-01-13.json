@@ -1,0 +1,36 @@
+{
+"id": "federal/leis-ordinarias/2016/lei-13254-2016-01-13",
+"urn": "urn:lex:br:federal:lei:2016-01-13;13254",
+"consultado_em": "2026-11-06",
+"codigo": "602479",
+"nome": "Lei nº 13.254 de 13/01/2016",
+"apelidos": [
+"Lei da Repatriação de Bens (2016)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2016-01-14", "descricao": "Publicação Original [Diário Oficial da União de 14/01/2016] (p. 3, col. 2)"}
+],
+"alteracoes": [
+{"data": "2016-01-13", "nome": "Mensagem de Veto Parcial nº 21 de 13/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-13", "nome": "Mensagem de Veto Parcial nº 21 de 13/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-13", "nome": "Mensagem de Veto Parcial nº 21 de 13/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-13", "nome": "Mensagem de Veto Parcial nº 21 de 13/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-13", "nome": "Mensagem de Veto Parcial nº 21 de 13/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-13", "nome": "Mensagem de Veto Parcial nº 21 de 13/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-13", "nome": "Mensagem de Veto Parcial nº 21 de 13/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-13", "nome": "Mensagem de Veto Parcial nº 21 de 13/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-13", "nome": "Mensagem de Veto Parcial nº 21 de 13/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-13", "nome": "Mensagem de Veto Parcial nº 21 de 13/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-13", "nome": "Mensagem de Veto Parcial nº 21 de 13/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-13", "nome": "Mensagem de Veto Parcial nº 21 de 13/01/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-01-13", "nome": "Mensagem de Veto Parcial nº 21 de 13/01/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 5, Inciso 1", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 3, caput, Inciso 8", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, caput, Inciso 9", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 4, § 1, Inciso 6", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 4, § 8, Inciso 5", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 5, § 1, Inciso 5", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 5, § 1, Inciso 8", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 5, § 2, Inciso 1", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 5, § 3", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 5, § 4", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 8, § 1", "art": "8", "acao": "veto"}, {"dispositivo": "Art. 10, caput, Inciso 2", "art": "10", "acao": "veto"}]},
+{"data": "2016-06-27", "nome": "Lei nº 13.301 de 27/06/2016", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 8, caput", "art": "8", "acao": "correlato"}], "id": "federal/leis-ordinarias/2016/lei-13301-2016-06-27"},
+{"data": "2016-12-19", "nome": "Medida Provisória nº 753 de 19/12/2016", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 8, § 3", "art": "8", "acao": "acrescentou"}]},
+{"data": "2017-03-30", "nome": "Lei nº 13.428 de 30/03/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 4-A", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 4, § 2", "art": "4", "acao": "ressalvou"}, {"dispositivo": "Art. 5, § 1", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 7, caput", "art": "7", "acao": "reabertura de prazo"}, {"dispositivo": "Art. 8, caput", "art": "8", "acao": "ressalvou"}, {"dispositivo": "Art. 9, § 3", "art": "9", "acao": "acrescentou"}, {"dispositivo": "Art. 9, § 4", "art": "9", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2017/lei-13428-2017-03-30"},
+{"data": "2024-09-16", "nome": "Lei nº 14.973 de 16/09/2024", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14973-2024-09-16"}
+],
+"controle": [
+{"data": "2021-03-05", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.729 de 05/03/2021", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 7, § 1", "art": "7", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 7, § 2", "art": "7", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "5729"}},
+{"data": "2023-11-07", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.586 de 07/11/2023", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 11, caput", "art": "11", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "5586"}}
+]
+}

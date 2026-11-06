@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10464-2002-05-24",
+"urn": "urn:lex:br:federal:lei:2002-05-24;10464",
+"consultado_em": "2026-11-06",
+"codigo": "552340",
+"nome": "Lei nº 10.464 de 24/05/2002",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-05-27", "descricao": "Publicação Original [Diário Oficial da União de 27/05/2002] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2002-10-25", "nome": "Medida Provisória nº 77 de 25/10/2002", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}]},
+{"data": "2003-03-28", "nome": "Lei nº 10.646 de 28/03/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}], "id": "federal/leis-ordinarias/2003/lei-10646-2003-03-28"},
+{"data": "2003-03-31", "nome": "Medida Provisória nº 114 de 31/03/2003", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2003-07-02", "nome": "Lei nº 10.696 de 02/07/2003", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2003/lei-10696-2003-07-02"}
+],
+"controle": []
+}

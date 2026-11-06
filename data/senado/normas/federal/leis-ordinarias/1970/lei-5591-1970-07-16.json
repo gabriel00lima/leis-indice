@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1970/lei-5591-1970-07-16",
+"urn": "urn:lex:br:federal:lei:1970-07-16;5591",
+"consultado_em": "2026-11-06",
+"codigo": "547461",
+"nome": "Lei nº 5.591 de 16/07/1970",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1970-07-20", "descricao": "Publicação Original [Diário Oficial da União de 20/07/1970] (p. 5369, col. 1)"}
+],
+"alteracoes": [
+{"data": "1971-09-27", "nome": "Lei nº 5.707 de 27/09/1971", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/1971/lei-5707-1971-09-27"}
+],
+"controle": []
+}

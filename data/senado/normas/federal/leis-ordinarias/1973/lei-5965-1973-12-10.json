@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1973/lei-5965-1973-12-10",
+"urn": "urn:lex:br:federal:lei:1973-12-10;5965",
+"consultado_em": "2026-11-06",
+"codigo": "547841",
+"nome": "Lei nº 5.965 de 10/12/1973",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-12-12", "descricao": "Publicação Original [Diário Oficial da União de 12/12/1973] (p. 12717, col. 1)"}
+],
+"alteracoes": [
+{"data": "1981-11-18", "nome": "Lei nº 6.955 de 18/11/1981", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1981/lei-6955-1981-11-18"}
+],
+"controle": []
+}

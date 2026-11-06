@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1970/del-1134-1970-11-16",
+"urn": "urn:lex:br:federal:decreto.lei:1970-11-16;1134",
+"consultado_em": "2026-11-06",
+"codigo": "524889",
+"nome": "Decreto-Lei nº 1.134 de 16/11/1970",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1970-11-17", "descricao": "Publicação Original [Diário Oficial da União de 17/11/1970] (p. 9753, col. 2)"}
+],
+"alteracoes": [
+{"data": "1970-12-30", "nome": "Decreto-Lei nº 1.140 de 30/12/1970", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1970/del-1140-1970-12-30"},
+{"data": "1971-04-28", "nome": "Decreto Legislativo nº 4 de 28/04/1971", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1971-04-29", "nome": "Decreto nº 68.565 de 29/04/1971", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1971-07-06", "nome": "Decreto-Lei nº 1.179 de 06/07/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1971/del-1179-1971-07-06"},
+{"data": "1983-03-30", "nome": "Decreto nº 88.207 de 30/03/1983", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

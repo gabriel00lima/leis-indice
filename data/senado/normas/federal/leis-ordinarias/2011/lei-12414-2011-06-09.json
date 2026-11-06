@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2011/lei-12414-2011-06-09",
+"urn": "urn:lex:br:federal:lei:2011-06-09;12414",
+"consultado_em": "2026-11-06",
+"codigo": "585411",
+"nome": "Lei nº 12.414 de 09/06/2011",
+"apelidos": [
+"Lei do Cadastro Positivo (2011)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2011-06-10", "descricao": "Publicação Original [Diário Oficial da União de 10/06/2011] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2012-10-17", "nome": "Decreto nº 7.829 de 17/10/2012", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2019-04-08", "nome": "Lei Complementar nº 166 de 08/04/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 1", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 2", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 7-A", "art": "7-a", "acao": "acrescentou"}, {"dispositivo": "Art. 8, caput, Inciso 1", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 8, caput, Inciso 2", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 8, caput, Inciso 4", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 8, Parágrafo Único", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 9, caput", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 9, § 1", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 9, § 2", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 9, § 3", "art": "9", "acao": "revogou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 12, § 1", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 12, § 2", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 13, caput", "art": "13", "acao": "alterou"}, {"dispositivo": "Art. 13, caput, Inciso 1", "art": "13", "acao": "acrescentou"}, {"dispositivo": "Art. 13, caput, Inciso 2", "art": "13", "acao": "acrescentou"}, {"dispositivo": "Art. 13, caput, Inciso 3", "art": "13", "acao": "acrescentou"}, {"dispositivo": "Art. 16, caput", "art": "16", "acao": "alterou"}, {"dispositivo": "Art. 17, § 2", "art": "17", "acao": "alterou"}, {"dispositivo": "Art. 17-A", "art": "17-a", "acao": "acrescentou"}], "id": "federal/leis-complementares/2019/lcp-166-2019-04-08"},
+{"data": "2019-07-24", "nome": "Decreto nº 9.936 de 24/07/2019", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

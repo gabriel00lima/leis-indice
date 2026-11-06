@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2006/lei-11337-2006-07-26",
+"urn": "urn:lex:br:federal:lei:2006-07-26;11337",
+"consultado_em": "2026-11-06",
+"codigo": "572122",
+"nome": "Lei nº 11.337 de 26/07/2006",
+"apelidos": [
+"Lei do Fio-Terra (2006)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2006-07-27", "descricao": "Publicação Original [Diário Oficial da União de 27/07/2006] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-12-15", "nome": "Lei nº 12.119 de 15/12/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2009/lei-12119-2009-12-15"}
+],
+"controle": []
+}

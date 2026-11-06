@@ -1,0 +1,46 @@
+{
+"id": "federal/leis-ordinarias/1998/lei-9604-1998-02-05",
+"urn": "urn:lex:br:federal:lei:1998-02-05;9604",
+"consultado_em": "2026-11-06",
+"codigo": "551480",
+"nome": "Lei nº 9.604 de 05/02/1998",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1998-02-06", "descricao": "Publicação Original [Diário Oficial da União de 06/02/1998] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "1998-03-25", "nome": "Decreto nº 2.529 de 25/03/1998", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1999-12-09", "nome": "Medida Provisória nº 1.969-11 de 09/12/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2000-01-06", "nome": "Medida Provisória nº 1.969-12 de 06/01/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2000-02-03", "nome": "Medida Provisória nº 1.969-13 de 03/02/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2000-03-02", "nome": "Medida Provisória nº 1.969-14 de 02/03/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2000-03-30", "nome": "Medida Provisória nº 1.969-15 de 30/03/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2000-04-10", "nome": "Decreto nº 3.409 de 10/04/2000", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2000-04-20", "nome": "Medida Provisória nº 2.022-16 de 20/04/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2000-05-23", "nome": "Medida Provisória nº 2.022-17 de 23/05/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2000-06-21", "nome": "Medida Provisória nº 2.022-18 de 21/06/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2000-06-28", "nome": "Medida Provisória nº 2.043-19 de 28/06/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2000-07-28", "nome": "Medida Provisória nº 2.043-20 de 28/07/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2000-08-25", "nome": "Medida Provisória nº 2.043-21 de 25/08/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2000-09-26", "nome": "Medida Provisória nº 2.060 de 26/09/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2000-10-26", "nome": "Medida Provisória nº 2.060-1 de 26/10/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2000-11-23", "nome": "Medida Provisória nº 2.060-2 de 23/11/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2000-12-21", "nome": "Medida Provisória nº 2.060-3 de 21/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2000-12-27", "nome": "Medida Provisória nº 2.129-4 de 27/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2001-01-26", "nome": "Medida Provisória nº 2.129-5 de 26/01/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2001-02-23", "nome": "Medida Provisória nº 2.129-6 de 23/02/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2001-03-27", "nome": "Medida Provisória nº 2.129-7 de 27/03/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2001-04-26", "nome": "Medida Provisória nº 2.129-8 de 26/04/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2001-05-24", "nome": "Medida Provisória nº 2.129-9 de 24/05/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2001-06-22", "nome": "Medida Provisória nº 2.129-10 de 22/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2001-06-28", "nome": "Medida Provisória nº 2.187-11 de 28/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2001-07-27", "nome": "Medida Provisória nº 2.187-12 de 27/07/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2001-08-24", "nome": "Medida Provisória nº 2.187-13 de 24/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2004-05-31", "nome": "Medida Provisória nº 190 de 31/05/2004", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}]},
+{"data": "2004-09-29", "nome": "Lei nº 10.954 de 29/09/2004", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "acao": "alterou"}], "id": "federal/leis-ordinarias/2004/lei-10954-2004-09-29"}
+],
+"controle": [
+{"data": "2019-02-07", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 1.934 de 07/02/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}], "decisao": {"classe": "ADI", "numero": "1934"}},
+{"data": "2019-02-07", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 1.934 de 07/02/2019", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 2-A", "art": "2-a", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "1934"}}
+]
+}

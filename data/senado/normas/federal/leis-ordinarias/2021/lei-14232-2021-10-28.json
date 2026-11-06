@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2021/lei-14232-2021-10-28",
+"urn": "urn:lex:br:federal:lei:2021-10-28;14232",
+"consultado_em": "2026-11-06",
+"codigo": "35099599",
+"nome": "Lei nº 14.232 de 28/10/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-10-29", "descricao": "Publicação Original [Diário Oficial da União de 29/10/2021] (p. 1, col. 1)"},
+{"tipo": "VEP", "data": "2022-07-08", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União - Edição Extra de 08/07/2022 - nº 128-B] (p. 3, col. 2)"}
+],
+"alteracoes": [
+{"data": "2021-10-28", "nome": "Mensagem de Veto Parcial nº 550 de 28/10/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 5, Parágrafo Único", "art": "5", "acao": "veto"}]},
+{"data": "2021-10-28", "nome": "Mensagem de Veto Parcial nº 550 de 28/10/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-10-28", "nome": "Mensagem de Veto Parcial nº 550 de 28/10/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2026-01-08", "nome": "Lei nº 15.336 de 08/01/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 3", "art": "4", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15336-2026-01-08"},
+{"data": "2026-01-08", "nome": "Lei nº 15.336 de 08/01/2026", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2026/lei-15336-2026-01-08"},
+{"data": "2026-07-29", "nome": "Decreto nº 13.083 de 29/07/2026", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "regulamentou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "regulamentou"}]}
+],
+"controle": []
+}

@@ -1,0 +1,27 @@
+{
+"id": "federal/leis-ordinarias/1979/lei-6683-1979-08-28",
+"urn": "urn:lex:br:federal:lei:1979-08-28;6683",
+"consultado_em": "2026-11-06",
+"codigo": "548559",
+"nome": "Lei nº 6.683 de 28/08/1979",
+"apelidos": [
+"Lei da Anistia (1979)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-08-28", "descricao": "Publicação Original [Diário Oficial da União de 28/08/1979] (p. 12265, col. 2)"}
+],
+"alteracoes": [
+{"data": "1979-10-31", "nome": "Decreto nº 84.143 de 31/10/1979", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1980-08-14", "nome": "Decreto nº 85.043 de 14/08/1980", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1985-03-04", "nome": "Decreto-Lei nº 2.258 de 04/03/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1985/del-2258-1985-03-04"},
+{"data": "1995-05-24", "nome": "Decreto nº 1.500 de 24/05/1995", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "regulamentou"}]},
+{"data": "1995-12-04", "nome": "Lei nº 9.140 de 04/12/1995", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1995/lei-9140-1995-12-04"},
+{"data": "2001-05-31", "nome": "Medida Provisória nº 2.151 de 31/05/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3, § 5", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "2001-06-28", "nome": "Medida Provisória nº 2.151-1 de 28/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3, § 5", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "2001-07-27", "nome": "Medida Provisória nº 2.151-2 de 27/07/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3, § 5", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "2001-08-24", "nome": "Medida Provisória nº 2.151-3 de 24/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3, § 5", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}]},
+{"data": "2002-08-28", "nome": "Medida Provisória nº 65 de 28/08/2002", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3, § 5", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}]},
+{"data": "2002-11-13", "nome": "Lei nº 10.559 de 13/11/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3, § 5", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}], "id": "federal/leis-ordinarias/2002/lei-10559-2002-11-13"}
+],
+"controle": []
+}

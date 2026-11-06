@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9093-1995-09-12",
+"urn": "urn:lex:br:federal:lei:1995-09-12;9093",
+"consultado_em": "2026-11-06",
+"codigo": "550969",
+"nome": "Lei nº 9.093 de 12/09/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-09-13", "descricao": "Publicação Original [Diário Oficial da União de 13/09/1995] (p. 14117, col. 2)"}
+],
+"alteracoes": [
+{"data": "1996-12-10", "nome": "Lei nº 9.335 de 10/12/1996", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1996/lei-9335-1996-12-10"}
+],
+"controle": []
+}

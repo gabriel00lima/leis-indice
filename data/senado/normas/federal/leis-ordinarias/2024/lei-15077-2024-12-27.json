@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2024/lei-15077-2024-12-27",
+"urn": "urn:lex:br:federal:lei:2024-12-27;15077",
+"consultado_em": "2026-11-06",
+"codigo": "40019691",
+"nome": "Lei nº 15.077 de 27/12/2024",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2024-12-27", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 27/12/2024 - nº 249-A] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "2025-03-21", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 21/03/2025] (p. 9, col. 2)"}
+],
+"alteracoes": [
+{"data": "2024-12-27", "nome": "Mensagem de Veto Parcial nº 1.699 de 27/12/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-12-27", "nome": "Mensagem de Veto Parcial nº 1.699 de 27/12/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-12-27", "nome": "Mensagem de Veto Parcial nº 1.699 de 27/12/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9, caput, Inciso 2", "art": "9", "acao": "veto"}]},
+{"data": "2025-04-03", "nome": "Decreto nº 12.428 de 03/04/2025", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "acao": "regulamentou"}]},
+{"data": "2025-07-23", "nome": "Decreto nº 12.561 de 23/07/2025", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "regulamentou"}, {"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "regulamentou"}]}
+],
+"controle": []
+}

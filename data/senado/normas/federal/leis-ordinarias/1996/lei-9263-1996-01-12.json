@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1996/lei-9263-1996-01-12",
+"urn": "urn:lex:br:federal:lei:1996-01-12;9263",
+"consultado_em": "2026-11-06",
+"codigo": "551139",
+"nome": "Lei nº 9.263 de 12/01/1996",
+"apelidos": [
+"Lei do Planejamento Familiar (1996)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1996-01-15", "descricao": "Publicação Original [Diário Oficial da União de 15/01/1996] (p. 561, col. 2)"},
+{"tipo": "VET", "data": "1997-08-20", "descricao": "Publicação de Veto Rejeitado [Diário Oficial da União de 20/08/1997] (p. 17989, col. 1)"}
+],
+"alteracoes": [
+{"data": "2014-11-25", "nome": "Lei nº 13.045 de 25/11/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, Parágrafo Único, Inciso 5", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/2014/lei-13045-2014-11-25"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1974/lei-6159-1974-12-06",
+"urn": "urn:lex:br:federal:lei:1974-12-06;6159",
+"consultado_em": "2026-11-06",
+"codigo": "548035",
+"nome": "Lei nº 6.159 de 06/12/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-12-09", "descricao": "Publicação Original [Diário Oficial da União de 09/12/1974] (p. 13917, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-04-13", "nome": "Lei nº 6.982 de 13/04/1982", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/1982/lei-6982-1982-04-13"}
+],
+"controle": []
+}

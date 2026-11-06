@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1970/lei-5614-1970-10-05",
+"urn": "urn:lex:br:federal:lei:1970-10-05;5614",
+"consultado_em": "2026-11-06",
+"codigo": "547486",
+"nome": "Lei nº 5.614 de 05/10/1970",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1970-10-07", "descricao": "Publicação Original [Diário Oficial da União de 07/10/1970] (p. 8657, col. 2)"}
+],
+"alteracoes": [
+{"data": "1979-10-18", "nome": "Decreto-Lei nº 1.700 de 18/10/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/decretos-lei/1979/del-1700-1979-10-18"}
+],
+"controle": []
+}

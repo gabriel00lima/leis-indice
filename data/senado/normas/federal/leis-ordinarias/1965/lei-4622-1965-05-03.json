@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4622-1965-05-03",
+"urn": "urn:lex:br:federal:lei:1965-05-03;4622",
+"consultado_em": "2026-11-06",
+"codigo": "546475",
+"nome": "Lei nº 4.622 de 03/05/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-05-05", "descricao": "Publicação Original [Diário Oficial da União de 05/05/1965] (p. 4337, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-11-18", "nome": "Decreto-Lei nº 46 de 18/11/1966", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1966/del-46-1966-11-18"},
+{"data": "1967-10-20", "nome": "Lei nº 5.340 de 20/10/1967", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1967/lei-5340-1967-10-20"},
+{"data": "1968-11-28", "nome": "Lei nº 5.541 de 28/11/1968", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1968/lei-5541-1968-11-28"}
+],
+"controle": []
+}

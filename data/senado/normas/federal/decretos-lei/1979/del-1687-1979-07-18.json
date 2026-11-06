@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1979/del-1687-1979-07-18",
+"urn": "urn:lex:br:federal:decreto.lei:1979-07-18;1687",
+"consultado_em": "2026-11-06",
+"codigo": "525995",
+"nome": "Decreto-Lei nº 1.687 de 18/07/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-07-19", "descricao": "Publicação Original [Diário Oficial da União de 19/07/1979] (p. 10201, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-10-04", "nome": "Decreto Legislativo nº 60 de 04/10/1979", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1979-12-20", "nome": "Decreto-Lei nº 1.736 de 20/12/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1736-1979-12-20"}
+],
+"controle": []
+}

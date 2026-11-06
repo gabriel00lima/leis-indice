@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2010/lei-12348-2010-12-15",
+"urn": "urn:lex:br:federal:lei:2010-12-15;12348",
+"consultado_em": "2026-11-06",
+"codigo": "585345",
+"nome": "Lei nº 12.348 de 15/12/2010",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2010-12-16", "descricao": "Publicação Original [Diário Oficial da União de 16/12/2010] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-01-13", "nome": "Lei Complementar nº 178 de 13/01/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2-A, caput", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-A, Parágrafo Único", "art": "2-a", "acao": "acrescentou"}, {"dispositivo": "Art. 2-B, caput", "art": "2-b", "acao": "acrescentou"}, {"dispositivo": "Art. 2-B, Parágrafo Único", "art": "2-b", "acao": "acrescentou"}], "id": "federal/leis-complementares/2021/lcp-178-2021-01-13"}
+],
+"controle": []
+}

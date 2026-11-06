@@ -1,0 +1,31 @@
+{
+"id": "federal/leis-ordinarias/2022/lei-14514-2022-12-29",
+"urn": "urn:lex:br:federal:lei:2022-12-29;14514",
+"consultado_em": "2026-11-06",
+"codigo": "36695436",
+"nome": "Lei nº 14.514 de 29/12/2022",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2022-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/2022] (p. 1, col. 1)"},
+{"tipo": "VEP", "data": "2023-07-19", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União de 19/07/2023] (p. 1, col. 1)"},
+{"tipo": "VEP", "data": "2024-05-22", "descricao": "Publicação de Veto Parcialmente Rejeitado (Seq. 1) [Diário Oficial da União de 22/05/2024] (p. 3, col. 2)"}
+],
+"alteracoes": [
+{"data": "2022-12-29", "nome": "Mensagem de Veto Parcial nº 747 de 29/12/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-12-29", "nome": "Mensagem de Veto Parcial nº 747 de 29/12/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-12-29", "nome": "Mensagem de Veto Parcial nº 747 de 29/12/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-12-29", "nome": "Mensagem de Veto Parcial nº 747 de 29/12/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-12-29", "nome": "Mensagem de Veto Parcial nº 747 de 29/12/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-12-29", "nome": "Mensagem de Veto Parcial nº 747 de 29/12/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-12-29", "nome": "Mensagem de Veto Parcial nº 747 de 29/12/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-12-29", "nome": "Mensagem de Veto Parcial nº 747 de 29/12/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-12-29", "nome": "Mensagem de Veto Parcial nº 747 de 29/12/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-12-29", "nome": "Mensagem de Veto Parcial nº 747 de 29/12/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-12-29", "nome": "Mensagem de Veto Parcial nº 747 de 29/12/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-12-29", "nome": "Mensagem de Veto Parcial nº 747 de 29/12/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-12-29", "nome": "Mensagem de Veto Parcial nº 747 de 29/12/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-12-29", "nome": "Mensagem de Veto Parcial nº 747 de 29/12/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-12-29", "nome": "Mensagem de Veto Parcial nº 747 de 29/12/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, caput", "art": "10", "acao": "veto"}, {"dispositivo": "Art. 15, caput", "art": "15", "acao": "veto"}, {"dispositivo": "Art. 15, Parágrafo Único", "art": "15", "acao": "veto"}, {"dispositivo": "Art. 16", "art": "16", "acao": "veto"}, {"dispositivo": "Art. 17", "art": "17", "acao": "veto"}, {"dispositivo": "Art. 18, caput", "art": "18", "acao": "veto"}, {"dispositivo": "Art. 18, Parágrafo Único", "art": "18", "acao": "veto"}, {"dispositivo": "Art. 20, caput", "art": "20", "acao": "veto"}, {"dispositivo": "Art. 25, caput, Inciso 1", "art": "25", "acao": "veto"}]}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1987/lei-7622-1987-10-09",
+"urn": "urn:lex:br:federal:lei:1987-10-09;7622",
+"consultado_em": "2026-11-06",
+"codigo": "549498",
+"nome": "Lei nº 7.622 de 09/10/1987",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1987-10-13", "descricao": "Publicação Original [Diário Oficial da União de 13/10/1987] (p. 16845, col. 2)"}
+],
+"alteracoes": [
+{"data": "1991-06-25", "nome": "Lei nº 8.194 de 25/06/1991", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/1991/lei-8194-1991-06-25"},
+{"data": "1991-07-10", "nome": "Decreto de 10/07/1991", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1997-11-26", "nome": "Lei nº 9.519 de 26/11/1997", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9519-1997-11-26"}
+],
+"controle": []
+}

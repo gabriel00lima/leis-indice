@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1992/lei-8407-1992-01-10",
+"urn": "urn:lex:br:federal:lei:1992-01-10;8407",
+"consultado_em": "2026-11-06",
+"codigo": "550283",
+"nome": "Lei nº 8.407 de 10/01/1992",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1992-01-13", "descricao": "Publicação Original [Diário Oficial da União de 13/01/1992] (p. 445, col. 1)"}
+],
+"alteracoes": [
+{"data": "2008-06-13", "nome": "Lei nº 11.697 de 13/06/2008", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2008/lei-11697-2008-06-13"}
+],
+"controle": []
+}

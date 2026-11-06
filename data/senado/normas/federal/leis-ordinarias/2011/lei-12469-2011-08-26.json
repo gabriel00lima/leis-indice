@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2011/lei-12469-2011-08-26",
+"urn": "urn:lex:br:federal:lei:2011-08-26;12469",
+"consultado_em": "2026-11-06",
+"codigo": "584325",
+"nome": "Lei nº 12.469 de 26/08/2011",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2011-08-29", "descricao": "Publicação Original [Diário Oficial da União de 29/08/2011] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2013-05-15", "nome": "Lei nº 12.809 de 15/05/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}], "id": "federal/leis-ordinarias/2013/lei-12809-2013-05-15"},
+{"data": "2015-02-26", "nome": "Medida Provisória nº 669 de 26/02/2015", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}]},
+{"data": "2015-06-19", "nome": "Lei nº 13.137 de 19/06/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}], "id": "federal/leis-ordinarias/2015/lei-13137-2015-06-19"}
+],
+"controle": []
+}

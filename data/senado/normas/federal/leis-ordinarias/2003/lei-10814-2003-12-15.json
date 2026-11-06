@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2003/lei-10814-2003-12-15",
+"urn": "urn:lex:br:federal:lei:2003-12-15;10814",
+"consultado_em": "2026-11-06",
+"codigo": "552690",
+"nome": "Lei nº 10.814 de 15/12/2003",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2003-12-16", "descricao": "Publicação Original [Diário Oficial da União de 16/12/2003] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2005-01-12", "nome": "Lei nº 11.092 de 12/01/2005", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, Parágrafo Único", "art": "6", "acao": "alterou"}], "id": "federal/leis-ordinarias/2005/lei-11092-2005-01-12"},
+{"data": "2005-03-24", "nome": "Lei nº 11.105 de 24/03/2005", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}, {"dispositivo": "Art. 16", "art": "16", "acao": "revogou"}], "id": "federal/leis-ordinarias/2005/lei-11105-2005-03-24"},
+{"data": "2006-10-31", "nome": "Medida Provisória nº 327 de 31/10/2006", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "revogou"}]},
+{"data": "2007-03-21", "nome": "Lei nº 11.460 de 21/03/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "revogou"}], "id": "federal/leis-ordinarias/2007/lei-11460-2007-03-21"}
+],
+"controle": []
+}

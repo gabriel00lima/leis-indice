@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4680-1965-06-18",
+"urn": "urn:lex:br:federal:lei:1965-06-18;4680",
+"consultado_em": "2026-11-06",
+"codigo": "546533",
+"nome": "Lei nº 4.680 de 18/06/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-06-21", "descricao": "Publicação Original [Diário Oficial da União de 21/06/1965] (p. 5748, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-02-01", "nome": "Decreto nº 57.690 de 01/02/1966", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1997-06-26", "nome": "Decreto nº 2.262 de 26/06/1997", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2019-11-11", "nome": "Medida Provisória nº 905 de 11/11/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}, {"dispositivo": "Art. 16, caput", "art": "16", "acao": "alterou"}, {"dispositivo": "Art. 16, caput, Alínea a", "art": "16", "acao": "revogou"}, {"dispositivo": "Art. 16, caput, Alínea b", "art": "16", "acao": "revogou"}, {"dispositivo": "Art. 16, caput, Alínea c", "art": "16", "acao": "revogou"}, {"dispositivo": "Art. 16, caput, Alínea d", "art": "16", "acao": "revogou"}]}
+],
+"controle": []
+}

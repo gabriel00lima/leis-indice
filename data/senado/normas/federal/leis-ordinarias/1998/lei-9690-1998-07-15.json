@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1998/lei-9690-1998-07-15",
+"urn": "urn:lex:br:federal:lei:1998-07-15;9690",
+"consultado_em": "2026-11-06",
+"codigo": "551566",
+"nome": "Lei nº 9.690 de 15/07/1998",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1998-07-16", "descricao": "Publicação Original [Diário Oficial da União de 16/07/1998] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "1998-12-17", "nome": "Decreto nº 2.885 de 17/12/1998", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

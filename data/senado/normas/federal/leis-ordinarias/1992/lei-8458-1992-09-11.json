@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/1992/lei-8458-1992-09-11",
+"urn": "urn:lex:br:federal:lei:1992-09-11;8458",
+"consultado_em": "2026-11-06",
+"codigo": "550334",
+"nome": "Lei nº 8.458 de 11/09/1992",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1992-09-14", "descricao": "Publicação Original [Diário Oficial da União de 14/09/1992] (p. 12657, col. 1)"}
+],
+"alteracoes": [
+{"data": "1993-02-05", "nome": "Decreto nº 747 de 05/02/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-06-30", "nome": "Medida Provisória nº 331 de 30/06/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-07-28", "nome": "Medida Provisória nº 337 de 28/07/1993", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1993-08-27", "nome": "Medida Provisória nº 346 de 27/08/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-09-08", "nome": "Decreto nº 916 de 08/09/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-09-27", "nome": "Medida Provisória nº 356 de 27/09/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-10-28", "nome": "Medida Provisória nº 364 de 28/10/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-11-29", "nome": "Lei nº 8.736 de 29/11/1993", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1993/lei-8736-1993-11-29"}
+],
+"controle": []
+}

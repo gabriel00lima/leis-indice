@@ -1,0 +1,21 @@
+{
+"id": "federal/decretos-lei/1988/del-2450-1988-07-29",
+"urn": "urn:lex:br:federal:decreto.lei:1988-07-29;2450",
+"consultado_em": "2026-11-06",
+"codigo": "527513",
+"nome": "Decreto-Lei nº 2.450 de 29/07/1988",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1988-07-30", "descricao": "Publicação Original [Diário Oficial da União de 30/07/1988] (p. 14313, col. 1)"}
+],
+"alteracoes": [
+{"data": "1988-09-01", "nome": "Decreto-Lei nº 2.470 de 01/09/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/decretos-lei/1988/del-2470-1988-09-01"},
+{"data": "1989-06-19", "nome": "Medida Provisória nº 69 de 19/06/1989", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "1989-07-10", "nome": "Lei nº 7.798 de 10/07/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1989/lei-7798-1989-07-10"},
+{"data": "1993-10-29", "nome": "Medida Provisória nº 368 de 29/10/1993", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]},
+{"data": "1993-12-01", "nome": "Medida Provisória nº 380 de 01/12/1993", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]},
+{"data": "1993-12-30", "nome": "Medida Provisória nº 406 de 30/12/1993", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]},
+{"data": "1994-01-28", "nome": "Lei nº 8.850 de 28/01/1994", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/1994/lei-8850-1994-01-28"}
+],
+"controle": []
+}

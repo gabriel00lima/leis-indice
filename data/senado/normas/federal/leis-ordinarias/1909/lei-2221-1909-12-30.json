@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1909/lei-2221-1909-12-30",
+"urn": "urn:lex:br:federal:lei:1909-12-30;2221",
+"consultado_em": "2026-11-06",
+"codigo": "544000",
+"nome": "Lei nº 2.221 de 30/12/1909",
+"apelidos": [
+"Lei Orçamentária - Despesas (1910)"
+],
+"publicacoes": [
+{"tipo": "REP", "data": "1909-12-31", "descricao": "Republicação Integral [Diário Oficial da União de 31/12/1909] (p. 9932, col. 1)"}
+],
+"alteracoes": [
+{"data": "1910-01-10", "nome": "Decreto do Poder Legislativo nº 2.244 de 10/01/1910", "tipo": "Retificação com Sentido de Alteração da Norma no Todo", "dispositivos": []},
+{"data": "1910-03-10", "nome": "Decreto nº 7.886 de 10/03/1910", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

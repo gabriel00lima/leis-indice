@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7831-1989-10-02",
+"urn": "urn:lex:br:federal:lei:1989-10-02;7831",
+"consultado_em": "2026-11-06",
+"codigo": "549707",
+"nome": "Lei nº 7.831 de 02/10/1989",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-10-03", "descricao": "Publicação Original [Diário Oficial da União de 03/10/1989] (p. 17657, col. 1)"}
+],
+"alteracoes": [
+{"data": "2013-01-11", "nome": "Lei nº 12.786 de 11/01/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 4, § 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 5", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}], "id": "federal/leis-ordinarias/2013/lei-12786-2013-01-11"},
+{"data": "2016-05-02", "nome": "Decreto nº 8.734 de 02/05/2016", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

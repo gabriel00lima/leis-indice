@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2023/lei-14628-2023-07-20",
+"urn": "urn:lex:br:federal:lei:2023-07-20;14628",
+"consultado_em": "2026-11-06",
+"codigo": "37410428",
+"nome": "Lei nº 14.628 de 20/07/2023",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2023-07-21", "descricao": "Publicação Original [Diário Oficial da União de 21/07/2023] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2023-11-28", "nome": "Decreto nº 11.802 de 28/11/2023", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2024-03-05", "nome": "Decreto nº 11.937 de 05/03/2024", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 14", "art": "14", "acao": "regulamentou"}]},
+{"data": "2025-07-23", "nome": "Lei nº 15.178 de 23/07/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8, § 3", "art": "8", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2025/lei-15178-2025-07-23"},
+{"data": "2025-07-23", "nome": "Lei nº 15.178 de 23/07/2025", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2025/lei-15178-2025-07-23"},
+{"data": "2025-09-30", "nome": "Lei nº 15.227 de 30/09/2025", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2025/lei-15227-2025-09-30"},
+{"data": "2025-09-30", "nome": "Lei nº 15.227 de 30/09/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, § 3", "art": "5", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2025/lei-15227-2025-09-30"}
+],
+"controle": []
+}

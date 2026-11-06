@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/1975/lei-6263-1975-11-18",
+"urn": "urn:lex:br:federal:lei:1975-11-18;6263",
+"consultado_em": "2026-11-06",
+"codigo": "548139",
+"nome": "Lei nº 6.263 de 18/11/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-11-19", "descricao": "Publicação Original [Diário Oficial da União de 19/11/1975] (p. 15449, col. 2)"}
+],
+"alteracoes": [
+{"data": "1978-11-16", "nome": "Lei nº 6.590 de 16/11/1978", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1978/lei-6590-1978-11-16"},
+{"data": "1980-11-03", "nome": "Lei nº 6.841 de 03/11/1980", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1980/lei-6841-1980-11-03"},
+{"data": "1982-08-31", "nome": "Decreto-Lei nº 1.957 de 31/08/1982", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}], "id": "federal/decretos-lei/1982/del-1957-1982-08-31"},
+{"data": "1983-08-17", "nome": "Decreto-Lei nº 2.055 de 17/08/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2055-1983-08-17"},
+{"data": "1984-07-11", "nome": "Decreto nº 89.955 de 11/07/1984", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1987-03-31", "nome": "Decreto nº 94.159 de 31/03/1987", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2002-06-28", "nome": "Medida Provisória nº 49 de 28/06/2002", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2002-11-13", "nome": "Lei nº 10.552 de 13/11/2002", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2002/lei-10552-2002-11-13"}
+],
+"controle": []
+}

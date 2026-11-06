@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7761-1989-04-24",
+"urn": "urn:lex:br:federal:lei:1989-04-24;7761",
+"consultado_em": "2026-11-06",
+"codigo": "549637",
+"nome": "Lei nº 7.761 de 24/04/1989",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-04-25", "descricao": "Publicação Original [Diário Oficial da União de 25/04/1989] (p. 6323, col. 1)"}
+],
+"alteracoes": [
+{"data": "1997-03-07", "nome": "Lei nº 9.439 de 07/03/1997", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9439-1997-03-07"}
+],
+"controle": []
+}

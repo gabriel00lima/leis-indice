@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2010/lei-12189-2010-01-12",
+"urn": "urn:lex:br:federal:lei:2010-01-12;12189",
+"consultado_em": "2026-11-06",
+"codigo": "575831",
+"nome": "Lei nº 12.189 de 12/01/2010",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2010-01-13", "descricao": "Publicação Original [Diário Oficial da União de 13/01/2010] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2010-04-23", "nome": "Medida Provisória nº 487 de 23/04/2010", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 15", "art": "15", "acao": "revogou"}]},
+{"data": "2010-06-11", "nome": "Lei nº 12.249 de 11/06/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, Parágrafo Único", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "revogou"}], "id": "federal/leis-ordinarias/2010/lei-12249-2010-06-11"}
+],
+"controle": []
+}

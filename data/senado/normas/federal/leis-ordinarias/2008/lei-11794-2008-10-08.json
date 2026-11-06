@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11794-2008-10-08",
+"urn": "urn:lex:br:federal:lei:2008-10-08;11794",
+"consultado_em": "2026-11-06",
+"codigo": "582216",
+"nome": "Lei nº 11.794 de 08/10/2008",
+"apelidos": [
+"Lei Arouca (2008)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-10-09", "descricao": "Publicação Original [Diário Oficial da União de 09/10/2008] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-07-15", "nome": "Decreto nº 6.899 de 15/07/2009", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2025-07-30", "nome": "Lei nº 15.183 de 30/07/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 5", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 14", "art": "14", "acao": "alterou"}], "id": "federal/leis-ordinarias/2025/lei-15183-2025-07-30"}
+],
+"controle": []
+}

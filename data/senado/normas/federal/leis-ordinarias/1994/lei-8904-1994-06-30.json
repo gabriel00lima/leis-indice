@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/1994/lei-8904-1994-06-30",
+"urn": "urn:lex:br:federal:lei:1994-06-30;8904",
+"consultado_em": "2026-11-06",
+"codigo": "550780",
+"nome": "Lei nº 8.904 de 30/06/1994",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1994-07-04", "descricao": "Publicação Original [Diário Oficial da União de 04/07/1994] (p. 9977, col. 1)"}
+],
+"alteracoes": [
+{"data": "1994-07-04", "nome": "Medida Provisória nº 546 de 04/07/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "1994-08-03", "nome": "Medida Provisória nº 570 de 03/08/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "1994-09-02", "nome": "Medida Provisória nº 601 de 02/09/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-10-04", "nome": "Medida Provisória nº 639 de 04/10/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-11-03", "nome": "Medida Provisória nº 685 de 03/11/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-12-02", "nome": "Medida Provisória nº 737 de 02/12/1994", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "correlato"}]},
+{"data": "1994-12-30", "nome": "Medida Provisória nº 796 de 30/12/1994", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "correlato"}]},
+{"data": "1995-01-27", "nome": "Medida Provisória nº 861 de 27/01/1995", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "correlato"}]}
+],
+"controle": []
+}

@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1979/del-1727-1979-12-10",
+"urn": "urn:lex:br:federal:decreto.lei:1979-12-10;1727",
+"consultado_em": "2026-11-06",
+"codigo": "526064",
+"nome": "Decreto-Lei nº 1.727 de 10/12/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-12-10", "descricao": "Publicação Original [Diário Oficial da União de 10/12/1979] (p. 18577, col. 1)"}
+],
+"alteracoes": [
+{"data": "1980-05-15", "nome": "Decreto Legislativo nº 36 de 15/05/1980", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1985-02-11", "nome": "Decreto-Lei nº 2.243 de 11/02/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/decretos-lei/1985/del-2243-1985-02-11"},
+{"data": "1986-03-31", "nome": "Lei nº 7.455 de 31/03/1986", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7455-1986-03-31"},
+{"data": "1987-12-18", "nome": "Decreto-Lei nº 2.387 de 18/12/1987", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2387-1987-12-18"},
+{"data": "1996-02-07", "nome": "Lei nº 9.264 de 07/02/1996", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1996/lei-9264-1996-02-07"}
+],
+"controle": []
+}

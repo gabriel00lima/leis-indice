@@ -1,0 +1,20 @@
+{
+"id": "federal/decretos-lei/1979/del-1682-1979-05-07",
+"urn": "urn:lex:br:federal:decreto.lei:1979-05-07;1682",
+"consultado_em": "2026-11-06",
+"codigo": "525985",
+"nome": "Decreto-Lei nº 1.682 de 07/05/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-05-08", "descricao": "Publicação Original [Diário Oficial da União de 08/05/1979] (p. 6369, col. 2)"}
+],
+"alteracoes": [
+{"data": "1979-08-16", "nome": "Decreto Legislativo nº 51 de 16/08/1979", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1979-10-23", "nome": "Decreto-Lei nº 1.704 de 23/10/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 1", "art": "4", "acao": "alterou"}], "id": "federal/decretos-lei/1979/del-1704-1979-10-23"},
+{"data": "1987-12-21", "nome": "Decreto-Lei nº 2.397 de 21/12/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2397-1987-12-21"},
+{"data": "1988-12-29", "nome": "Lei nº 7.714 de 29/12/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/leis-ordinarias/1988/lei-7714-1988-12-29"},
+{"data": "1990-12-14", "nome": "Medida Provisória nº 287 de 14/12/1990", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "1993-07-06", "nome": "Lei nº 8.673 de 06/07/1993", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1993/lei-8673-1993-07-06"}
+],
+"controle": []
+}

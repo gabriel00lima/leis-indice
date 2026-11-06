@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1946/del-8830-1946-01-24",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-24;8830",
+"consultado_em": "2026-11-06",
+"codigo": "533866",
+"nome": "Decreto-Lei nº 8.830 de 24/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-24", "descricao": "Publicação Original [Diário Oficial da União de 24/01/1946] (p. 1211, col. 4)"}
+],
+"alteracoes": [
+{"data": "1946-01-26", "nome": "Decreto-Lei nº 8.915 de 26/01/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-8915-1946-01-26"},
+{"data": "1946-01-28", "nome": "Decreto-Lei nº 8.952 de 28/01/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-8952-1946-01-28"},
+{"data": "1946-02-02", "nome": "Decreto-Lei nº 8.965 de 02/02/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-8965-1946-02-02"},
+{"data": "1946-02-06", "nome": "Decreto-Lei nº 8.967 de 06/02/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-8967-1946-02-06"},
+{"data": "1946-07-31", "nome": "Decreto-Lei nº 9.530 de 31/07/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9530-1946-07-31"}
+],
+"controle": []
+}

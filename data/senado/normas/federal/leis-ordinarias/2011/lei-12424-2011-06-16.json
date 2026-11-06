@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2011/lei-12424-2011-06-16",
+"urn": "urn:lex:br:federal:lei:2011-06-16;12424",
+"consultado_em": "2026-11-06",
+"codigo": "585421",
+"nome": "Lei nº 12.424 de 16/06/2011",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2011-06-17", "descricao": "Publicação Original [Diário Oficial da União de 17/06/2011] (p. 2, col. 2)"},
+{"tipo": "REP", "data": "2011-06-20", "descricao": "Republicação Integral (Seq. 1) [Diário Oficial da União de 20/06/2011] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2022-04-20", "nome": "Medida Provisória nº 1.114 de 20/04/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]},
+{"data": "2022-10-26", "nome": "Lei nº 14.462 de 26/10/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2022/lei-14462-2022-10-26"}
+],
+"controle": []
+}

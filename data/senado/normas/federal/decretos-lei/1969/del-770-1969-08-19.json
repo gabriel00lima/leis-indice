@@ -1,0 +1,23 @@
+{
+"id": "federal/decretos-lei/1969/del-770-1969-08-19",
+"urn": "urn:lex:br:federal:decreto.lei:1969-08-19;770",
+"consultado_em": "2026-11-06",
+"codigo": "524166",
+"nome": "Decreto-Lei nº 770 de 19/08/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-08-27", "descricao": "Publicação Original [Diário Oficial da União de 27/08/1969] (p. 7273, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-10-21", "nome": "Decreto nº 65.482 de 21/10/1969", "tipo": "Aprovação de Estatuto", "dispositivos": []},
+{"data": "1975-07-07", "nome": "Decreto-Lei nº 1.408 de 07/07/1975", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "prorrogação de prazo"}], "id": "federal/decretos-lei/1975/del-1408-1975-07-07"},
+{"data": "1980-08-29", "nome": "Decreto-Lei nº 1.802 de 29/08/1980", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1980/del-1802-1980-08-29"},
+{"data": "1981-12-21", "nome": "Decreto-Lei nº 1.898 de 21/12/1981", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1981/del-1898-1981-12-21"},
+{"data": "1982-03-30", "nome": "Decreto-Lei nº 1.932 de 30/03/1982", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1932-1982-03-30"},
+{"data": "1984-06-26", "nome": "Decreto-Lei nº 2.134 de 26/06/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "prorrogação de prazo"}], "id": "federal/decretos-lei/1984/del-2134-1984-06-26"},
+{"data": "1985-12-19", "nome": "Decreto nº 92.181 de 19/12/1985", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "correlato"}]},
+{"data": "1985-12-23", "nome": "Lei nº 7.450 de 23/12/1985", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7450-1985-12-23"},
+{"data": "1988-05-19", "nome": "Decreto-Lei nº 2.433 de 19/05/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 15", "art": "15", "acao": "revogou"}], "id": "federal/decretos-lei/1988/del-2433-1988-05-19"}
+],
+"controle": []
+}

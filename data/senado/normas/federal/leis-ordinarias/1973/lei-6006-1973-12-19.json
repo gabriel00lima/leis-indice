@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1973/lei-6006-1973-12-19",
+"urn": "urn:lex:br:federal:lei:1973-12-19;6006",
+"consultado_em": "2026-11-06",
+"codigo": "547882",
+"nome": "Lei nº 6.006 de 19/12/1973",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-12-21", "descricao": "Publicação Original [Diário Oficial da União de 21/12/1973] (p. 13181, col. 4)"}
+],
+"alteracoes": [
+{"data": "1975-11-26", "nome": "Decreto nº 76.678 de 26/11/1975", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1989-04-07", "nome": "Lei nº 7.748 de 07/04/1989", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7748-1989-04-07"}
+],
+"controle": []
+}

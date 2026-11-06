@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1986/del-2318-1986-12-30",
+"urn": "urn:lex:br:federal:decreto.lei:1986-12-30;2318",
+"consultado_em": "2026-11-06",
+"codigo": "527249",
+"nome": "Decreto-Lei nº 2.318 de 30/12/1986",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-12-31", "descricao": "Publicação Original [Diário Oficial da União de 31/12/1986] (p. 20169, col. 1)"}
+],
+"alteracoes": [
+{"data": "1987-05-18", "nome": "Decreto nº 94.338 de 18/05/1987", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "regulamentou"}]},
+{"data": "1987-05-26", "nome": "Lei nº 7.604 de 26/05/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1987/lei-7604-1987-05-26"}
+],
+"controle": []
+}

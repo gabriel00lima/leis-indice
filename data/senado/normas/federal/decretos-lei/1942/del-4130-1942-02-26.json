@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1942/del-4130-1942-02-26",
+"urn": "urn:lex:br:federal:decreto.lei:1942-02-26;4130",
+"consultado_em": "2026-11-06",
+"codigo": "529216",
+"nome": "Decreto-Lei nº 4.130 de 26/02/1942",
+"apelidos": [
+"Lei do Ensino Militar no Exército (1942)"
+],
+"publicacoes": [
+{"tipo": "REP", "data": "1942-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1942 - vol. 001] (p. 235, col. 1)"}
+],
+"alteracoes": [
+{"data": "1945-08-06", "nome": "Decreto-Lei nº 7.836 de 06/08/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-7836-1945-08-06"}
+],
+"controle": []
+}

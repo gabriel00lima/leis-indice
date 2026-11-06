@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1986/lei-7520-1986-07-15",
+"urn": "urn:lex:br:federal:lei:1986-07-15;7520",
+"consultado_em": "2026-11-06",
+"codigo": "549396",
+"nome": "Lei nº 7.520 de 15/07/1986",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-07-16", "descricao": "Publicação Original [Diário Oficial da União de 16/07/1986] (p. 10473, col. 1)"}
+],
+"alteracoes": [
+{"data": "1987-12-17", "nome": "Lei nº 7.638 de 17/12/1987", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 24, Parágrafo Único", "art": "24", "acao": "alterou"}], "id": "federal/leis-ordinarias/1987/lei-7638-1987-12-17"},
+{"data": "1993-10-19", "nome": "Lei nº 8.720 de 19/10/1993", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1993/lei-8720-1993-10-19"},
+{"data": "1996-01-03", "nome": "Lei nº 9.254 de 03/01/1996", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}], "id": "federal/leis-ordinarias/1996/lei-9254-1996-01-03"}
+],
+"controle": []
+}

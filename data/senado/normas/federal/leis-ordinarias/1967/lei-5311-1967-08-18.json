@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1967/lei-5311-1967-08-18",
+"urn": "urn:lex:br:federal:lei:1967-08-18;5311",
+"consultado_em": "2026-11-06",
+"codigo": "547174",
+"nome": "Lei nº 5.311 de 18/08/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-08-22", "descricao": "Publicação Original [Diário Oficial da União de 22/08/1967] (p. 8711, col. 3)"}
+],
+"alteracoes": [
+{"data": "1968-10-01", "nome": "Lei nº 5.503 de 01/10/1968", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1968/lei-5503-1968-10-01"}
+],
+"controle": []
+}

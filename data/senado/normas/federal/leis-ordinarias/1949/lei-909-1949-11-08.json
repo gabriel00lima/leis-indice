@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-909-1949-11-08",
+"urn": "urn:lex:br:federal:lei:1949-11-08;909",
+"consultado_em": "2026-11-06",
+"codigo": "542498",
+"nome": "Lei nº 909 de 08/11/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-11-17", "descricao": "Publicação Original [Diário Oficial da União de 17/11/1949] (p. 16081, col. 1)"}
+],
+"alteracoes": [
+{"data": "1952-10-31", "nome": "Decreto nº 31.684 de 31/10/1952", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1964-06-15", "nome": "Lei nº 4.342 de 15/06/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4342-1964-06-15"},
+{"data": "1968-09-05", "nome": "Lei nº 5.497 de 05/09/1968", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1968/lei-5497-1968-09-05"},
+{"data": "1970-11-04", "nome": "Lei nº 5.620 de 04/11/1970", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1970/lei-5620-1970-11-04"},
+{"data": "1983-07-06", "nome": "Lei nº 7.113 de 06/07/1983", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1983/lei-7113-1983-07-06"}
+],
+"controle": []
+}

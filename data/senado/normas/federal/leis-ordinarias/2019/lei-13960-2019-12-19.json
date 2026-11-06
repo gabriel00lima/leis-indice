@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2019/lei-13960-2019-12-19",
+"urn": "urn:lex:br:federal:lei:2019-12-19;13960",
+"consultado_em": "2026-11-06",
+"codigo": "31861416",
+"nome": "Lei nº 13.960 de 19/12/2019",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2019-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/2019] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2023-09-18", "nome": "Lei nº 14.680 de 18/09/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14680-2023-09-18"},
+{"data": "2023-09-18", "nome": "Lei nº 14.680 de 18/09/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2023/lei-14680-2023-09-18"}
+],
+"controle": []
+}

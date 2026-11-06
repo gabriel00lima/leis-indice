@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1959/lei-3543-1959-02-11",
+"urn": "urn:lex:br:federal:lei:1959-02-11;3543",
+"consultado_em": "2026-11-06",
+"codigo": "545359",
+"nome": "Lei nº 3.543 de 11/02/1959",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1959-02-11", "descricao": "Publicação Original [Diário Oficial da União de 11/02/1959] (p. 2513, col. 2)"}
+],
+"alteracoes": [
+{"data": "1960-04-10", "nome": "Lei nº 3.747 de 10/04/1960", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1960/lei-3747-1960-04-10"},
+{"data": "1987-12-18", "nome": "Lei nº 7.642 de 18/12/1987", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}], "id": "federal/leis-ordinarias/1987/lei-7642-1987-12-18"},
+{"data": "1991-12-30", "nome": "Lei nº 8.391 de 30/12/1991", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8391-1991-12-30"}
+],
+"controle": []
+}

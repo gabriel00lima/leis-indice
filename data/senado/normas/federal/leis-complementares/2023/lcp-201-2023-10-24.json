@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-complementares/2023/lcp-201-2023-10-24",
+"urn": "urn:lex:br:federal:lei.complementar:2023-10-24;201",
+"consultado_em": "2026-11-06",
+"codigo": "37740658",
+"nome": "Lei Complementar nº 201 de 24/10/2023",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "ANX", "data": "2023-10-24", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União - Edição Extra de 24/10/2023 - nº 202-A] (p. 2, col. 1)"},
+{"tipo": "PUB", "data": "2023-10-24", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 24/10/2023 - nº 202-A] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2023-10-24", "nome": "Mensagem de Veto Parcial nº 543 de 24/10/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-10-24", "nome": "Mensagem de Veto Parcial nº 543 de 24/10/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, § 6", "art": "6", "acao": "veto"}]},
+{"data": "2025-01-13", "nome": "Lei Complementar nº 212 de 13/01/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, caput, Inciso 4", "art": "6", "acao": "vetado"}], "id": "federal/leis-complementares/2025/lcp-212-2025-01-13"}
+],
+"controle": []
+}

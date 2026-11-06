@@ -1,0 +1,25 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7802-1989-07-11",
+"urn": "urn:lex:br:federal:lei:1989-07-11;7802",
+"consultado_em": "2026-11-06",
+"codigo": "549678",
+"nome": "Lei nº 7.802 de 11/07/1989",
+"apelidos": [
+"Lei dos Agrotóxicos (1989)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-07-12", "descricao": "Publicação Original [Diário Oficial da União de 12/07/1989] (p. 11459, col. 1)"}
+],
+"alteracoes": [
+{"data": "1989-08-17", "nome": "Decreto nº 98.062 de 17/08/1989", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1990-01-11", "nome": "Decreto nº 98.816 de 11/01/1990", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1993-11-24", "nome": "Decreto nº 991 de 24/11/1993", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 20", "art": "20", "acao": "correlato"}]},
+{"data": "2000-06-06", "nome": "Lei nº 9.974 de 06/06/2000", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 7, caput, Inciso 2, Alínea d", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 12-A", "art": "12-a", "acao": "acrescentou"}, {"dispositivo": "Art. 14", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 14, caput, Alínea b", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 14, caput, Alínea c", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 14, caput, Alínea e", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "alterou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "alterou"}], "id": "federal/leis-ordinarias/2000/lei-9974-2000-06-06"},
+{"data": "2002-01-04", "nome": "Decreto nº 4.074 de 04/01/2002", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2022-12-29", "nome": "Lei nº 14.515 de 29/12/2022", "tipo": "Ressalva Permanente da Norma no todo", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14515-2022-12-29"},
+{"data": "2023-12-27", "nome": "Lei nº 14.785 de 27/12/2023", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14785-2023-12-27"},
+{"data": "2023-12-27", "nome": "Lei nº 14.785 de 27/12/2023", "tipo": "Convalidação", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14785-2023-12-27"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7972-1989-12-22",
+"urn": "urn:lex:br:federal:lei:1989-12-22;7972",
+"consultado_em": "2026-11-06",
+"codigo": "549848",
+"nome": "Lei nº 7.972 de 22/12/1989",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-12-26", "descricao": "Publicação Original [Diário Oficial da União de 26/12/1989] (p. 24236, col. 2)"}
+],
+"alteracoes": [
+{"data": "2012-04-03", "nome": "Medida Provisória nº 564 de 03/04/2012", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 3", "art": "1", "acao": "alterou"}]},
+{"data": "2012-08-30", "nome": "Lei nº 12.712 de 30/08/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 3", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2012/lei-12712-2012-08-30"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5538-1968-11-22",
+"urn": "urn:lex:br:federal:lei:1968-11-22;5538",
+"consultado_em": "2026-11-06",
+"codigo": "547407",
+"nome": "Lei nº 5.538 de 22/11/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-11-27", "descricao": "Publicação Original [Diário Oficial da União de 27/11/1968] (p. 10289, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-07-05", "nome": "Lei nº 5.897 de 05/07/1973", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 17", "art": "17", "acao": "alterou"}], "id": "federal/leis-ordinarias/1973/lei-5897-1973-07-05"}
+],
+"controle": []
+}

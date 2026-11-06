@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1969/del-860-1969-09-11",
+"urn": "urn:lex:br:federal:decreto.lei:1969-09-11;860",
+"consultado_em": "2026-11-06",
+"codigo": "524345",
+"nome": "Decreto-Lei nº 860 de 11/09/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-09-12", "descricao": "Publicação Original [Diário Oficial da União de 12/09/1969] (p. 7730, col. 3)"}
+],
+"alteracoes": [
+{"data": "1971-05-04", "nome": "Decreto nº 68.582 de 04/05/1971", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1979-11-12", "nome": "Lei nº 6.719 de 12/11/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}], "id": "federal/leis-ordinarias/1979/lei-6719-1979-11-12"}
+],
+"controle": []
+}

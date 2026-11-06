@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2020/lei-14047-2020-08-24",
+"urn": "urn:lex:br:federal:lei:2020-08-24;14047",
+"consultado_em": "2026-11-06",
+"codigo": "32584373",
+"nome": "Lei nº 14.047 de 24/08/2020",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2020-08-25", "descricao": "Publicação Original [Diário Oficial da União de 25/08/2020] (p. 4, col. 2)"}
+],
+"alteracoes": [
+{"data": "2020-08-24", "nome": "Mensagem de Veto Parcial nº 475 de 24/08/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-08-24", "nome": "Mensagem de Veto Parcial nº 475 de 24/08/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "veto"}]},
+{"data": "2020-08-24", "nome": "Mensagem de Veto Parcial nº 475 de 24/08/2020", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": []
+}

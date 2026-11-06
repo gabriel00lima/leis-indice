@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2016/lei-13319-2016-07-25",
+"urn": "urn:lex:br:federal:lei:2016-07-25;13319",
+"consultado_em": "2026-11-06",
+"codigo": "602544",
+"nome": "Lei nº 13.319 de 25/07/2016",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2016-07-26", "descricao": "Publicação Original [Diário Oficial da União de 26/07/2016] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2016-07-25", "nome": "Mensagem de Veto Parcial nº 421 de 25/07/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-07-25", "nome": "Mensagem de Veto Parcial nº 421 de 25/07/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-07-25", "nome": "Mensagem de Veto Parcial nº 421 de 25/07/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-07-25", "nome": "Mensagem de Veto Parcial nº 421 de 25/07/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-07-25", "nome": "Mensagem de Veto Parcial nº 421 de 25/07/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-08-05", "nome": "Lei nº 14.034 de 05/08/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, Parágrafo Único", "art": "6", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2020/lei-14034-2020-08-05"},
+{"data": "2022-06-14", "nome": "Lei nº 14.368 de 14/06/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2022/lei-14368-2022-06-14"}
+],
+"controle": []
+}

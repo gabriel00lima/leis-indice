@@ -1,0 +1,36 @@
+{
+"id": "federal/leis-ordinarias/2020/lei-14026-2020-07-15",
+"urn": "urn:lex:br:federal:lei:2020-07-15;14026",
+"consultado_em": "2026-11-06",
+"codigo": "32462863",
+"nome": "Lei nº 14.026 de 15/07/2020",
+"apelidos": [
+"Lei de Saneamento Básico (2020)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2020-07-16", "descricao": "Publicação Original [Diário Oficial da União de 16/07/2020] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2020-07-15", "nome": "Mensagem de Veto Parcial nº 396 de 15/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-15", "nome": "Mensagem de Veto Parcial nº 396 de 15/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-15", "nome": "Mensagem de Veto Parcial nº 396 de 15/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-15", "nome": "Mensagem de Veto Parcial nº 396 de 15/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-15", "nome": "Mensagem de Veto Parcial nº 396 de 15/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-15", "nome": "Mensagem de Veto Parcial nº 396 de 15/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-15", "nome": "Mensagem de Veto Parcial nº 396 de 15/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-15", "nome": "Mensagem de Veto Parcial nº 396 de 15/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-15", "nome": "Mensagem de Veto Parcial nº 396 de 15/07/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14, § 6", "art": "14", "acao": "veto"}, {"dispositivo": "Art. 14, § 7", "art": "14", "acao": "veto"}, {"dispositivo": "Art. 16, caput", "art": "16", "acao": "veto"}, {"dispositivo": "Art. 16, Parágrafo Único", "art": "16", "acao": "veto"}, {"dispositivo": "Art. 17, Parágrafo Único", "art": "17", "acao": "veto"}, {"dispositivo": "Art. 20", "art": "20", "acao": "veto"}, {"dispositivo": "Art. 21", "art": "21", "acao": "veto"}, {"dispositivo": "Art. 22, caput", "art": "22", "acao": "veto"}]},
+{"data": "2020-07-15", "nome": "Mensagem de Veto Parcial nº 396 de 15/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-15", "nome": "Mensagem de Veto Parcial nº 396 de 15/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-15", "nome": "Mensagem de Veto Parcial nº 396 de 15/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-15", "nome": "Mensagem de Veto Parcial nº 396 de 15/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-12-24", "nome": "Decreto nº 10.588 de 24/12/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 13", "art": "13", "acao": "regulamentou"}]},
+{"data": "2023-04-05", "nome": "Decreto nº 11.467 de 05/04/2023", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 13", "art": "13", "acao": "regulamentou"}]},
+{"data": "2023-07-12", "nome": "Decreto nº 11.599 de 12/07/2023", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 13", "art": "13", "acao": "regulamentou"}]}
+],
+"controle": [
+{"data": "2021-12-02", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.492 de 02/12/2021", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "6492"}},
+{"data": "2021-12-02", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.536 de 02/12/2021", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "6536"}},
+{"data": "2021-12-02", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.583 de 02/12/2021", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "6583"}}
+]
+}

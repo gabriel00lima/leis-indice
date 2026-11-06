@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-541-1948-12-15",
+"urn": "urn:lex:br:federal:lei:1948-12-15;541",
+"consultado_em": "2026-11-06",
+"codigo": "542005",
+"nome": "Lei nº 541 de 15/12/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-12-17", "descricao": "Publicação Original [Diário Oficial da União de 17/12/1948] (p. 17989, col. 3)"}
+],
+"alteracoes": [
+{"data": "1949-05-09", "nome": "Decreto nº 26.634 de 09/05/1949", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1962-09-24", "nome": "Lei nº 4.147 de 24/09/1962", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1962/lei-4147-1962-09-24"},
+{"data": "1967-02-28", "nome": "Decreto-Lei nº 292 de 28/02/1967", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1967/del-292-1967-02-28"}
+],
+"controle": []
+}

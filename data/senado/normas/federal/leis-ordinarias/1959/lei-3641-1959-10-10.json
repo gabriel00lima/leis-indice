@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1959/lei-3641-1959-10-10",
+"urn": "urn:lex:br:federal:lei:1959-10-10;3641",
+"consultado_em": "2026-11-06",
+"codigo": "545457",
+"nome": "Lei nº 3.641 de 10/10/1959",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1959-10-14", "descricao": "Publicação Original [Diário Oficial da União de 14/10/1959] (p. 21873, col. 1)"}
+],
+"alteracoes": [
+{"data": "1964-12-11", "nome": "Lei nº 4.566 de 11/12/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4566-1964-12-11"}
+],
+"controle": []
+}

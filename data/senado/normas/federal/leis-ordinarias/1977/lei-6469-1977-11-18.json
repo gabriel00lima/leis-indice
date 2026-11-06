@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6469-1977-11-18",
+"urn": "urn:lex:br:federal:lei:1977-11-18;6469",
+"consultado_em": "2026-11-06",
+"codigo": "548345",
+"nome": "Lei nº 6.469 de 18/11/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-11-21", "descricao": "Publicação Original [Diário Oficial da União de 21/11/1977] (p. 15713, col. 1)"}
+],
+"alteracoes": [
+{"data": "1980-10-27", "nome": "Lei nº 6.836 de 27/10/1980", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1980/lei-6836-1980-10-27"},
+{"data": "1982-08-30", "nome": "Lei nº 7.018 de 30/08/1982", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/1982/lei-7018-1982-08-30"}
+],
+"controle": []
+}

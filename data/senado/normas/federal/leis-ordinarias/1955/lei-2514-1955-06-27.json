@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1955/lei-2514-1955-06-27",
+"urn": "urn:lex:br:federal:lei:1955-06-27;2514",
+"consultado_em": "2026-11-06",
+"codigo": "544313",
+"nome": "Lei nº 2.514 de 27/06/1955",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1955-07-06", "descricao": "Publicação Original [Diário Oficial da União de 06/07/1955] (p. 12993, col. 1)"}
+],
+"alteracoes": [
+{"data": "1971-04-27", "nome": "Lei nº 5.653 de 27/04/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5653-1971-04-27"},
+{"data": "1979-12-05", "nome": "Lei nº 6.742 de 05/12/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6742-1979-12-05"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1952/lei-1580-1952-03-20",
+"urn": "urn:lex:br:federal:lei:1952-03-20;1580",
+"consultado_em": "2026-11-06",
+"codigo": "543276",
+"nome": "Lei nº 1.580 de 20/03/1952",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1952-03-24", "descricao": "Publicação Original [Diário Oficial da União de 24/03/1952] (p. 4737, col. 2)"}
+],
+"alteracoes": [
+{"data": "1957-04-16", "nome": "Lei nº 3.123 de 16/04/1957", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1957/lei-3123-1957-04-16"}
+],
+"controle": []
+}

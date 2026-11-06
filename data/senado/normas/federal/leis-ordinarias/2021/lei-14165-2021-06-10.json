@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2021/lei-14165-2021-06-10",
+"urn": "urn:lex:br:federal:lei:2021-06-10;14165",
+"consultado_em": "2026-11-06",
+"codigo": "34148147",
+"nome": "Lei nº 14.165 de 10/06/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-06-11", "descricao": "Publicação Original [Diário Oficial da União de 11/06/2021] (p. 3, col. 2)"}
+],
+"alteracoes": [
+{"data": "2024-10-10", "nome": "Lei nº 14.995 de 10/10/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 1, Inciso 2", "art": "3", "acao": "vetado"}, {"dispositivo": "Art. 6, caput", "art": "6", "acao": "vetado"}, {"dispositivo": "Art. 11, § 3", "art": "11", "acao": "vetado"}], "id": "federal/leis-ordinarias/2024/lei-14995-2024-10-10"},
+{"data": "2025-01-15", "nome": "Lei nº 15.102 de 15/01/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12, caput, Inciso 5", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 12, § 1", "art": "12", "acao": "acrescentou"}, {"dispositivo": "Art. 12, § 2", "art": "12", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2025/lei-15102-2025-01-15"},
+{"data": "2025-01-15", "nome": "Lei nº 15.102 de 15/01/2025", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2025/lei-15102-2025-01-15"}
+],
+"controle": []
+}

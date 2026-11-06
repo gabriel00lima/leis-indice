@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2018/lei-13649-2018-04-11",
+"urn": "urn:lex:br:federal:lei:2018-04-11;13649",
+"consultado_em": "2026-11-06",
+"codigo": "26535800",
+"nome": "Lei nº 13.649 de 11/04/2018",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2018-04-12", "descricao": "Publicação Original [Diário Oficial da União de 12/04/2018] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2019-07-25", "nome": "Decreto nº 9.942 de 25/07/2019", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2021-06-15", "nome": "Lei nº 14.173 de 15/06/2021", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14173-2021-06-15"},
+{"data": "2021-06-15", "nome": "Lei nº 14.173 de 15/06/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 3, Inciso 1", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 3, Inciso 2", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 3, Inciso 2-A", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 4, § 4", "art": "4", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2021/lei-14173-2021-06-15"}
+],
+"controle": [
+{"data": "2022-09-16", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.287 de 16/09/2022", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 3, § 1", "art": "3", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "6287"}}
+]
+}

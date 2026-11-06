@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1998/lei-9696-1998-09-01",
+"urn": "urn:lex:br:federal:lei:1998-09-01;9696",
+"consultado_em": "2026-11-06",
+"codigo": "551572",
+"nome": "Lei nº 9.696 de 01/09/1998",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1998-09-02", "descricao": "Publicação Original [Diário Oficial da União de 02/09/1998] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2022-06-27", "nome": "Lei nº 14.386 de 27/06/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 1", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, caput, Inciso 2", "art": "2", "acao": "vetado"}, {"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, caput, Inciso 4", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 4, caput", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, § 1", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 4, § 2", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 4, § 3", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 4, § 4", "art": "4", "acao": "acrescentou"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 5-A", "art": "5-a", "acao": "acrescentou"}, {"dispositivo": "Art. 5-A, caput, Inciso 16", "art": "5-a", "acao": "vetado"}, {"dispositivo": "Art. 5-B", "art": "5-b", "acao": "acrescentou"}, {"dispositivo": "Art. 5-C", "art": "5-c", "acao": "acrescentou"}, {"dispositivo": "Art. 5-D", "art": "5-d", "acao": "acrescentou"}, {"dispositivo": "Art. 5-E", "art": "5-e", "acao": "acrescentou"}, {"dispositivo": "Art. 5-F", "art": "5-f", "acao": "acrescentou"}, {"dispositivo": "Art. 5-G", "art": "5-g", "acao": "acrescentou"}, {"dispositivo": "Art. 5-H", "art": "5-h", "acao": "acrescentou"}, {"dispositivo": "Art. 5-I", "art": "5-i", "acao": "acrescentou"}, {"dispositivo": "Art. 5-J, caput", "art": "5-j", "acao": "acrescentou"}, {"dispositivo": "Art. 5-J, § 1", "art": "5-j", "acao": "acrescentou"}, {"dispositivo": "Art. 5-J, § 2", "art": "5-j", "acao": "acrescentou"}, {"dispositivo": "Art. 5-K, caput", "art": "5-k", "acao": "acrescentou"}, {"dispositivo": "Art. 5-K, Parágrafo Único", "art": "5-k", "acao": "acrescentou"}, {"dispositivo": "Art. 5-L, caput", "art": "5-l", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14386-2022-06-27"}
+],
+"controle": [
+{"data": "2023-02-28", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 3.428 de 28/02/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput", "art": "4", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}, {"dispositivo": "Art. 5, caput", "art": "5", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}], "decisao": {"classe": "ADI", "numero": "3428"}},
+{"data": "2024-10-25", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.260 de 25/10/2024", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 3, caput", "art": "3", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "6260"}}
+]
+}

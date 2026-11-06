@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1992/lei-8438-1992-06-30",
+"urn": "urn:lex:br:federal:lei:1992-06-30;8438",
+"consultado_em": "2026-11-06",
+"codigo": "550314",
+"nome": "Lei nº 8.438 de 30/06/1992",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1992-07-01", "descricao": "Publicação Original [Diário Oficial da União de 01/07/1992] (p. 8357, col. 2)"}
+],
+"alteracoes": [
+{"data": "1992-12-29", "nome": "Lei nº 8.561 de 29/12/1992", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1992/lei-8561-1992-12-29"}
+],
+"controle": []
+}

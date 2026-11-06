@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6511-1977-12-19",
+"urn": "urn:lex:br:federal:lei:1977-12-19;6511",
+"consultado_em": "2026-11-06",
+"codigo": "548387",
+"nome": "Lei nº 6.511 de 19/12/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/1977] (p. 17491, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-04-04", "nome": "Decreto nº 81.519 de 04/04/1978", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1980-11-03", "nome": "Lei nº 6.842 de 03/11/1980", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1980/lei-6842-1980-11-03"},
+{"data": "1980-11-25", "nome": "Decreto nº 85.411 de 25/11/1980", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

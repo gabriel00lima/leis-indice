@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1969/del-427-1969-01-22",
+"urn": "urn:lex:br:federal:decreto.lei:1969-01-22;427",
+"consultado_em": "2026-11-06",
+"codigo": "523490",
+"nome": "Decreto-Lei nº 427 de 22/01/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-01-23", "descricao": "Publicação Original [Diário Oficial da União de 23/01/1969] (p. 793, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-03-04", "nome": "Decreto nº 64.156 de 04/03/1969", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1979-10-18", "nome": "Decreto-Lei nº 1.700 de 18/10/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 1", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 2, § 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 2, § 3", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 2, § 4", "art": "2", "acao": "revogou"}], "id": "federal/decretos-lei/1979/del-1700-1979-10-18"},
+{"data": "1979-11-27", "nome": "Decreto-Lei nº 1.718 de 27/11/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}], "id": "federal/decretos-lei/1979/del-1718-1979-11-27"}
+],
+"controle": []
+}

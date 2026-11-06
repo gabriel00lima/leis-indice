@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-complementares/1991/lcp-69-1991-07-23",
+"urn": "urn:lex:br:federal:lei.complementar:1991-07-23;69",
+"consultado_em": "2026-11-06",
+"codigo": "540774",
+"nome": "Lei Complementar nº 69 de 23/07/1991",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1991-07-24", "descricao": "Publicação Original [Diário Oficial da União de 24/07/1991] (p. 14713, col. 1)"}
+],
+"alteracoes": [
+{"data": "1995-09-12", "nome": "Lei Complementar nº 83 de 12/09/1995", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 1", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, § 2", "art": "2", "acao": "renumerou"}, {"dispositivo": "Art. 2, § 2", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-complementares/1995/lcp-83-1995-09-12"},
+{"data": "1999-06-09", "nome": "Lei Complementar nº 97 de 09/06/1999", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-complementares/1999/lcp-97-1999-06-09"}
+],
+"controle": []
+}

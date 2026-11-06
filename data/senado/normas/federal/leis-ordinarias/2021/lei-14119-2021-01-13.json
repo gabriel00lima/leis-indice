@@ -1,0 +1,29 @@
+{
+"id": "federal/leis-ordinarias/2021/lei-14119-2021-01-13",
+"urn": "urn:lex:br:federal:lei:2021-01-13;14119",
+"consultado_em": "2026-11-06",
+"codigo": "33089316",
+"nome": "Lei nº 14.119 de 13/01/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-01-14", "descricao": "Publicação Original [Diário Oficial da União de 14/01/2021] (p. 7, col. 2)"},
+{"tipo": "RET", "data": "2021-01-15", "descricao": "Retificação (Seq. 0) [Diário Oficial da União de 15/01/2021] (p. 1, col. 1)"},
+{"tipo": "VEP", "data": "2021-03-26", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União - Edição Extra de 26/03/2021 - nº 58-D] (p. 3, col. 2)"},
+{"tipo": "VEP", "data": "2021-06-11", "descricao": "Publicação de Veto Parcialmente Rejeitado (Seq. 2) [Diário Oficial da União de 11/06/2021] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2021-01-13", "nome": "Mensagem de Veto Parcial nº 10 de 13/01/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-01-13", "nome": "Mensagem de Veto Parcial nº 10 de 13/01/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-01-13", "nome": "Mensagem de Veto Parcial nº 10 de 13/01/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-01-13", "nome": "Mensagem de Veto Parcial nº 10 de 13/01/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-01-13", "nome": "Mensagem de Veto Parcial nº 10 de 13/01/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, § 8", "art": "6", "acao": "veto"}, {"dispositivo": "Art. 8, § 1", "art": "8", "acao": "veto"}, {"dispositivo": "Art. 13, caput", "art": "13", "acao": "veto"}, {"dispositivo": "Art. 15", "art": "15", "acao": "veto"}, {"dispositivo": "Art. 16, caput", "art": "16", "acao": "veto"}, {"dispositivo": "Art. 16, § 1", "art": "16", "acao": "veto"}, {"dispositivo": "Art. 16, § 2", "art": "16", "acao": "veto"}, {"dispositivo": "Art. 17, caput", "art": "17", "acao": "veto"}, {"dispositivo": "Art. 17, Parágrafo Único", "art": "17", "acao": "veto"}, {"dispositivo": "Art. 18, caput", "art": "18", "acao": "veto"}, {"dispositivo": "Art. 19", "art": "19", "acao": "veto"}]},
+{"data": "2021-01-13", "nome": "Mensagem de Veto Parcial nº 10 de 13/01/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-01-13", "nome": "Mensagem de Veto Parcial nº 10 de 13/01/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-01-13", "nome": "Mensagem de Veto Parcial nº 10 de 13/01/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-01-13", "nome": "Mensagem de Veto Parcial nº 10 de 13/01/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-08-23", "nome": "Lei nº 14.653 de 23/08/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9, Parágrafo Único", "art": "9", "acao": "alterou"}], "id": "federal/leis-ordinarias/2023/lei-14653-2023-08-23"},
+{"data": "2023-08-23", "nome": "Lei nº 14.653 de 23/08/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14653-2023-08-23"},
+{"data": "2026-06-11", "nome": "Decreto nº 13.018 de 11/06/2026", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

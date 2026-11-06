@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4908-1965-12-17",
+"urn": "urn:lex:br:federal:lei:1965-12-17;4908",
+"consultado_em": "2026-11-06",
+"codigo": "546764",
+"nome": "Lei nº 4.908 de 17/12/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-12-21", "descricao": "Publicação Original [Diário Oficial da União de 21/12/1965] (p. 13177, col. 3)"}
+],
+"alteracoes": [
+{"data": "1968-10-04", "nome": "Lei nº 5.504 de 04/10/1968", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1968/lei-5504-1968-10-04"}
+],
+"controle": []
+}

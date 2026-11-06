@@ -1,0 +1,27 @@
+{
+"id": "federal/leis-ordinarias/1974/lei-6084-1974-07-10",
+"urn": "urn:lex:br:federal:lei:1974-07-10;6084",
+"consultado_em": "2026-11-06",
+"codigo": "547960",
+"nome": "Lei nº 6.084 de 10/07/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-07-11", "descricao": "Publicação Original [Diário Oficial da União de 11/07/1974] (p. 7715, col. 4)"}
+],
+"alteracoes": [
+{"data": "1975-08-13", "nome": "Lei nº 6.232 de 13/08/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1975/lei-6232-1975-08-13"},
+{"data": "2000-04-28", "nome": "Medida Provisória nº 1.934-13 de 28/04/2000", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2000-05-26", "nome": "Medida Provisória nº 1.934-14 de 26/05/2000", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2000-06-27", "nome": "Medida Provisória nº 1.934-15 de 27/06/2000", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2000-07-27", "nome": "Medida Provisória nº 1.934-16 de 27/07/2000", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2000-08-25", "nome": "Medida Provisória nº 1.934-17 de 25/08/2000", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2000-09-22", "nome": "Medida Provisória nº 1.934-18 de 22/09/2000", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2000-10-24", "nome": "Medida Provisória nº 1.934-19 de 24/10/2000", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2000-11-23", "nome": "Medida Provisória nº 1.934-20 de 23/11/2000", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2000-12-21", "nome": "Medida Provisória nº 1.934-21 de 21/12/2000", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2000-12-27", "nome": "Medida Provisória nº 2.066-22 de 27/12/2000", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2001-01-25", "nome": "Medida Provisória nº 2.066-23 de 25/01/2001", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2001-02-22", "nome": "Lei nº 10.204 de 22/02/2001", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2001/lei-10204-2001-02-22"}
+],
+"controle": []
+}

@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2022/lei-14308-2022-03-08",
+"urn": "urn:lex:br:federal:lei:2022-03-08;14308",
+"consultado_em": "2026-11-06",
+"codigo": "35531646",
+"nome": "Lei nº 14.308 de 08/03/2022",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2022-03-09", "descricao": "Publicação Original [Diário Oficial da União de 09/03/2022] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2022-03-08", "nome": "Mensagem de Veto Parcial nº 85 de 08/03/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-03-08", "nome": "Mensagem de Veto Parcial nº 85 de 08/03/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-03-08", "nome": "Mensagem de Veto Parcial nº 85 de 08/03/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 6", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 10, caput", "art": "10", "acao": "veto"}, {"dispositivo": "Art. 12, Parágrafo Único", "art": "12", "acao": "veto"}, {"dispositivo": "Art. 13, § 1", "art": "13", "acao": "veto"}]},
+{"data": "2022-03-08", "nome": "Mensagem de Veto Parcial nº 85 de 08/03/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-03-08", "nome": "Mensagem de Veto Parcial nº 85 de 08/03/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2026-06-26", "nome": "Lei nº 15.442 de 26/06/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11, Parágrafo Único", "art": "11", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15442-2026-06-26"},
+{"data": "2026-06-26", "nome": "Lei nº 15.442 de 26/06/2026", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2026/lei-15442-2026-06-26"}
+],
+"controle": []
+}

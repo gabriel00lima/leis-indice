@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1945/del-8208-1945-11-22",
+"urn": "urn:lex:br:federal:decreto.lei:1945-11-22;8208",
+"consultado_em": "2026-11-06",
+"codigo": "533249",
+"nome": "Decreto-Lei nº 8.208 de 22/11/1945",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1945-11-23", "descricao": "Publicação Original [Diário Oficial da União de 23/11/1945] (p. 17798, col. 1)"},
+{"tipo": "REP", "data": "1945-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1945 - vol. 007] (p. 113, col. 2)"}
+],
+"alteracoes": [
+{"data": "1945-12-07", "nome": "Decreto-Lei nº 8.321 de 07/12/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-8321-1945-12-07"}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/emendas-constitucionais/2009/emc-60-2009-11-11",
+"urn": "urn:lex:br:federal:emenda.constitucional:2009-11-11;60",
+"consultado_em": "2026-11-06",
+"codigo": "540663",
+"nome": "Emenda Constitucional nº 60 de 11/11/2009",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2009-11-12", "descricao": "Publicação Original [Diário Oficial da União de 12/11/2009] (p. 8, col. 2)"}
+],
+"alteracoes": [
+{"data": "2013-04-23", "nome": "Lei nº 12.800 de 23/04/2013", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2013/lei-12800-2013-04-23"},
+{"data": "2018-01-04", "nome": "Medida Provisória nº 817 de 04/01/2018", "tipo": "Regulamentação Provisória de Norma", "dispositivos": []},
+{"data": "2018-06-18", "nome": "Lei nº 13.681 de 18/06/2018", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/leis-ordinarias/2018/lei-13681-2018-06-18"}
+],
+"controle": []
+}

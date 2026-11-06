@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1980/lei-6858-1980-11-24",
+"urn": "urn:lex:br:federal:lei:1980-11-24;6858",
+"consultado_em": "2026-11-06",
+"codigo": "548734",
+"nome": "Lei nº 6.858 de 24/11/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-11-25", "descricao": "Publicação Original [Diário Oficial da União de 25/11/1980] (p. 23537, col. 1)"}
+],
+"alteracoes": [
+{"data": "1981-03-26", "nome": "Decreto nº 85.845 de 26/03/1981", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1982-08-31", "nome": "Lei nº 7.019 de 31/08/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7019-1982-08-31"}
+],
+"controle": []
+}

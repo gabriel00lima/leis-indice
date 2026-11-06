@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2010/lei-12375-2010-12-30",
+"urn": "urn:lex:br:federal:lei:2010-12-30;12375",
+"consultado_em": "2026-11-06",
+"codigo": "585372",
+"nome": "Lei nº 12.375 de 30/12/2010",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2010-12-31", "descricao": "Publicação Original [Diário Oficial da União de 31/12/2010] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2015-01-19", "nome": "Lei nº 13.097 de 19/01/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}], "id": "federal/leis-ordinarias/2015/lei-13097-2015-01-19"}
+],
+"controle": []
+}

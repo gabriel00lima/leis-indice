@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-9797-1946-09-09",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-09;9797",
+"consultado_em": "2026-11-06",
+"codigo": "534837",
+"nome": "Decreto-Lei nº 9.797 de 09/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-11", "descricao": "Publicação Original [Diário Oficial da União de 11/09/1946] (p. 12657, col. 1)"}
+],
+"alteracoes": [
+{"data": "1949-12-17", "nome": "Lei nº 984 de 17/12/1949", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1949/lei-984-1949-12-17"},
+{"data": "1962-07-19", "nome": "Lei nº 4.097 de 19/07/1962", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1962/lei-4097-1962-07-19"}
+],
+"controle": []
+}

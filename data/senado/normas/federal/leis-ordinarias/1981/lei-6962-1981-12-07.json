@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1981/lei-6962-1981-12-07",
+"urn": "urn:lex:br:federal:lei:1981-12-07;6962",
+"consultado_em": "2026-11-06",
+"codigo": "548838",
+"nome": "Lei nº 6.962 de 07/12/1981",
+"apelidos": [
+"Lei Orçamentária Anual (LOA) (1982)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-12-10", "descricao": "Publicação Original [Diário Oficial da União de 10/12/1981] (p. 23317, col. 1)"}
+],
+"alteracoes": [
+{"data": "1981-12-28", "nome": "Decreto nº 86.794 de 28/12/1981", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1981-12-28", "nome": "Decreto-Lei nº 1.909 de 28/12/1981", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1981/del-1909-1981-12-28"},
+{"data": "1982-12-01", "nome": "Lei nº 7.050 de 01/12/1982", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7050-1982-12-01"}
+],
+"controle": []
+}

@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1967/del-237-1967-02-28",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-28;237",
+"consultado_em": "2026-11-06",
+"codigo": "523114",
+"nome": "Decreto-Lei nº 237 de 28/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-28", "descricao": "Publicação Original [Diário Oficial da União de 28/02/1967] (p. 2434, col. 2)"}
+],
+"alteracoes": [
+{"data": "1973-10-04", "nome": "Decreto nº 72.873 de 04/10/1973", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1976-10-27", "nome": "Lei nº 6.369 de 27/10/1976", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1976/lei-6369-1976-10-27"},
+{"data": "1982-12-02", "nome": "Lei nº 7.052 de 02/12/1982", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7052-1982-12-02"},
+{"data": "1997-09-23", "nome": "Lei nº 9.503 de 23/09/1997", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "revogou"}], "id": "federal/leis-ordinarias/1997/lei-9503-1997-09-23"}
+],
+"controle": []
+}

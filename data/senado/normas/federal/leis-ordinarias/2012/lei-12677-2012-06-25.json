@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2012/lei-12677-2012-06-25",
+"urn": "urn:lex:br:federal:lei:2012-06-25;12677",
+"consultado_em": "2026-11-06",
+"codigo": "589600",
+"nome": "Lei nº 12.677 de 25/06/2012",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2012-06-26", "descricao": "Publicação Original [Diário Oficial da União de 26/06/2012] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2012-12-28", "nome": "Lei nº 12.772 de 28/12/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}], "id": "federal/leis-ordinarias/2012/lei-12772-2012-12-28"},
+{"data": "2018-03-20", "nome": "Lei nº 13.634 de 20/03/2018", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "com novo tratamento da matéria"}], "id": "federal/leis-ordinarias/2018/lei-13634-2018-03-20"},
+{"data": "2018-03-20", "nome": "Lei nº 13.635 de 20/03/2018", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "com novo tratamento da matéria"}], "id": "federal/leis-ordinarias/2018/lei-13635-2018-03-20"},
+{"data": "2018-03-20", "nome": "Lei nº 13.637 de 20/03/2018", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "com novo tratamento da matéria"}], "id": "federal/leis-ordinarias/2018/lei-13637-2018-03-20"},
+{"data": "2019-03-12", "nome": "Decreto nº 9.725 de 12/03/2019", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "com novo tratamento da matéria"}, {"dispositivo": "Art. 7", "art": "7", "acao": "com novo tratamento da matéria"}, {"dispositivo": "Art. 8", "art": "8", "acao": "com novo tratamento da matéria"}]},
+{"data": "2019-07-08", "nome": "Lei nº 13.856 de 08/07/2019", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2019/lei-13856-2019-07-08"}
+],
+"controle": []
+}

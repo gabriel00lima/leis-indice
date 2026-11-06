@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1955/lei-2395-1955-01-11",
+"urn": "urn:lex:br:federal:lei:1955-01-11;2395",
+"consultado_em": "2026-11-06",
+"codigo": "544190",
+"nome": "Lei nº 2.395 de 11/01/1955",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1955-01-14", "descricao": "Publicação Original [Diário Oficial da União de 14/01/1955] (p. 601, col. 3)"}
+],
+"alteracoes": [
+{"data": "1959-01-02", "nome": "Lei nº 3.521 de 02/01/1959", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1959/lei-3521-1959-01-02"}
+],
+"controle": []
+}

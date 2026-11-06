@@ -1,0 +1,25 @@
+{
+"id": "federal/leis-ordinarias/2019/lei-13969-2019-12-26",
+"urn": "urn:lex:br:federal:lei:2019-12-26;13969",
+"consultado_em": "2026-11-06",
+"codigo": "31885339",
+"nome": "Lei nº 13.969 de 26/12/2019",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "ANX", "data": "2019-12-27", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União - Edição Extra de 27/12/2019 - nº 250-A] (p. 5, col. 2)"},
+{"tipo": "PUB", "data": "2019-12-27", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 27/12/2019 - nº 250-A] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2019-12-26", "nome": "Mensagem de Veto Parcial nº 741 de 26/12/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-12-26", "nome": "Mensagem de Veto Parcial nº 741 de 26/12/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 18", "art": "3", "acao": "veto"}]},
+{"data": "2019-12-26", "nome": "Mensagem de Veto Parcial nº 741 de 26/12/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-12-26", "nome": "Mensagem de Veto Parcial nº 741 de 26/12/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-05-20", "nome": "Decreto nº 10.356 de 20/05/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2024-09-11", "nome": "Lei nº 14.968 de 11/09/2024", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14968-2024-09-11"},
+{"data": "2024-09-11", "nome": "Lei nº 14.968 de 11/09/2024", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14968-2024-09-11"},
+{"data": "2024-09-11", "nome": "Lei nº 14.968 de 11/09/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 1, Alínea a", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, caput, Inciso 1, Alínea b", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, caput, Inciso 1, Alínea c", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, caput, Inciso 2, Alínea a", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, caput, Inciso 2, Alínea b", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, caput, Inciso 2, Alínea c", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, caput, Inciso 3, Alínea a", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, caput, Inciso 3, Alínea b", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, caput, Inciso 3, Alínea c", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, caput, Inciso 4, Alínea a", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, caput, Inciso 4, Alínea b", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, caput, Inciso 4, Alínea c", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, § 5, Inciso 1", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, § 5, Inciso 2", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, § 5, Inciso 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, § 6, Inciso 1", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, § 6, Inciso 2", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, § 6, Inciso 3", "art": "3", "acao": "revogou"}], "id": "federal/leis-ordinarias/2024/lei-14968-2024-09-11"},
+{"data": "2024-09-11", "nome": "Lei nº 14.968 de 11/09/2024", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14968-2024-09-11"},
+{"data": "2024-09-11", "nome": "Lei nº 14.968 de 11/09/2024", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14968-2024-09-11"}
+],
+"controle": []
+}

@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1982/del-1984-1982-12-28",
+"urn": "urn:lex:br:federal:decreto.lei:1982-12-28;1984",
+"consultado_em": "2026-11-06",
+"codigo": "526577",
+"nome": "Decreto-Lei nº 1.984 de 28/12/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-12-29", "descricao": "Publicação Original [Diário Oficial da União de 29/12/1982] (p. 24554, col. 2)"}
+],
+"alteracoes": [
+{"data": "1983-01-06", "nome": "Decreto-Lei nº 2.004 de 06/01/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2004-1983-01-06"},
+{"data": "1983-09-26", "nome": "Lei nº 7.125 de 26/09/1983", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1983/lei-7125-1983-09-26"},
+{"data": "1983-12-20", "nome": "Decreto-Lei nº 2.079 de 20/12/1983", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2079-1983-12-20"},
+{"data": "1985-04-09", "nome": "Lei nº 7.306 de 09/04/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7306-1985-04-09"},
+{"data": "1985-11-01", "nome": "Lei nº 7.396 de 01/11/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7396-1985-11-01"}
+],
+"controle": []
+}
