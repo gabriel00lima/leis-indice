@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2020/lei-14024-2020-07-09",
+"urn": "urn:lex:br:federal:lei:2020-07-09;14024",
+"consultado_em": "2026-11-07",
+"codigo": "32450354",
+"nome": "Lei nº 14.024 de 09/07/2020",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2020-07-10", "descricao": "Publicação Original [Diário Oficial da União de 10/07/2020] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2020-07-09", "nome": "Mensagem de Veto Parcial nº 388 de 09/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-12-30", "nome": "Medida Provisória nº 1.090 de 30/12/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]},
+{"data": "2022-06-21", "nome": "Lei nº 14.375 de 21/06/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2022/lei-14375-2022-06-21"}
+],
+"controle": []
+}

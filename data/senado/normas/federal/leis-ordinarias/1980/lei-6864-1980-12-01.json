@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1980/lei-6864-1980-12-01",
+"urn": "urn:lex:br:federal:lei:1980-12-01;6864",
+"consultado_em": "2026-11-07",
+"codigo": "548740",
+"nome": "Lei nº 6.864 de 01/12/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-12-02", "descricao": "Publicação Original [Diário Oficial da União de 02/12/1980] (p. 24137, col. 1)"}
+],
+"alteracoes": [
+{"data": "1981-03-30", "nome": "Decreto nº 85.850 de 30/03/1981", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

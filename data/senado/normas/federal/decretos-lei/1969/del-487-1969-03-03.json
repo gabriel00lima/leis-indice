@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-487-1969-03-03",
+"urn": "urn:lex:br:federal:decreto.lei:1969-03-03;487",
+"consultado_em": "2026-11-07",
+"codigo": "523610",
+"nome": "Decreto-Lei nº 487 de 03/03/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-03-04", "descricao": "Publicação Original [Diário Oficial da União de 04/03/1969] (p. 1874, col. 4)"}
+],
+"alteracoes": [
+{"data": "1969-07-18", "nome": "Decreto-Lei nº 687 de 18/07/1969", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1969/del-687-1969-07-18"}
+],
+"controle": []
+}

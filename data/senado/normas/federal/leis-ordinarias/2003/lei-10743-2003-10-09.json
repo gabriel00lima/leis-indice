@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2003/lei-10743-2003-10-09",
+"urn": "urn:lex:br:federal:lei:2003-10-09;10743",
+"consultado_em": "2026-11-07",
+"codigo": "552619",
+"nome": "Lei nº 10.743 de 09/10/2003",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2003-10-10", "descricao": "Publicação Original [Diário Oficial da União de 10/10/2003] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "correlato"}, {"dispositivo": "Art. 9", "art": "9", "acao": "correlato"}]}
+],
+"controle": [
+{"data": "2020-05-14", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 3.242 de 14/05/2020", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "3242"}}
+]
+}

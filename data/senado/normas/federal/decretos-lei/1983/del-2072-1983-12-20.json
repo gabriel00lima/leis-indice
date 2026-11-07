@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1983/del-2072-1983-12-20",
+"urn": "urn:lex:br:federal:decreto.lei:1983-12-20;2072",
+"consultado_em": "2026-11-07",
+"codigo": "526753",
+"nome": "Decreto-Lei nº 2.072 de 20/12/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-12-21", "descricao": "Publicação Original [Diário Oficial da União de 21/12/1983] (p. 21451, col. 1)"}
+],
+"alteracoes": [
+{"data": "1984-05-29", "nome": "Decreto Legislativo nº 15 de 29/05/1984", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1984-12-11", "nome": "Decreto-Lei nº 2.182 de 11/12/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2182-1984-12-11"}
+],
+"controle": []
+}

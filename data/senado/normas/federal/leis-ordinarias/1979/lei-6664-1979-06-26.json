@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1979/lei-6664-1979-06-26",
+"urn": "urn:lex:br:federal:lei:1979-06-26;6664",
+"consultado_em": "2026-11-07",
+"codigo": "548540",
+"nome": "Lei nº 6.664 de 26/06/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-06-27", "descricao": "Publicação Original [Diário Oficial da União de 27/06/1979] (p. 9017, col. 1)"},
+{"tipo": "RET", "data": "1979-06-28", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 28/06/1979] (p. 9105, col. 1)"}
+],
+"alteracoes": [
+{"data": "1980-09-15", "nome": "Decreto nº 85.138 de 15/09/1980", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1985-11-04", "nome": "Lei nº 7.399 de 04/11/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1985/lei-7399-1985-11-04"},
+{"data": "1986-01-10", "nome": "Decreto nº 92.290 de 10/01/1986", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

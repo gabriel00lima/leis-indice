@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9030-1995-04-13",
+"urn": "urn:lex:br:federal:lei:1995-04-13;9030",
+"consultado_em": "2026-11-07",
+"codigo": "550906",
+"nome": "Lei nº 9.030 de 13/04/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-04-17", "descricao": "Publicação Original [Diário Oficial da União de 17/04/1995] (p. 5361, col. 2)"}
+],
+"alteracoes": [
+{"data": "1995-10-26", "nome": "Medida Provisória nº 1.160 de 26/10/1995", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2007-06-15", "nome": "Medida Provisória nº 375 de 15/06/2007", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2007-10-04", "nome": "Lei nº 11.526 de 04/10/2007", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2007/lei-11526-2007-10-04"}
+],
+"controle": []
+}

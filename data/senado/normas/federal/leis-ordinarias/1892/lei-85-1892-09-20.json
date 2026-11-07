@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1892/lei-85-1892-09-20",
+"urn": "urn:lex:br:federal:lei:1892-09-20;85",
+"consultado_em": "2026-11-07",
+"codigo": "541019",
+"nome": "Lei nº 85 de 20/09/1892",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1892-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1892 - vol. 001] (p. 84, col. 1)"}
+],
+"alteracoes": [
+{"data": "1897-12-09", "nome": "Lei nº 479 de 09/12/1897", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 8", "art": "4", "acao": "revogou"}], "id": "federal/leis-ordinarias/1897/lei-479-1897-12-09"},
+{"data": "1898-07-19", "nome": "Lei nº 493 de 19/07/1898", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 20", "art": "20", "acao": "revogou"}], "id": "federal/leis-ordinarias/1898/lei-493-1898-07-19"}
+],
+"controle": []
+}

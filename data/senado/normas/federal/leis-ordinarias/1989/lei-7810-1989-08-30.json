@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7810-1989-08-30",
+"urn": "urn:lex:br:federal:lei:1989-08-30;7810",
+"consultado_em": "2026-11-07",
+"codigo": "549686",
+"nome": "Lei nº 7.810 de 30/08/1989",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-08-31", "descricao": "Publicação Original [Diário Oficial da União de 31/08/1989] (p. 15177, col. 1)"}
+],
+"alteracoes": [
+{"data": "1990-02-14", "nome": "Medida Provisória nº 132 de 14/02/1990", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "1990-03-14", "nome": "Lei nº 8.003 de 14/03/1990", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1990/lei-8003-1990-03-14"}
+],
+"controle": []
+}

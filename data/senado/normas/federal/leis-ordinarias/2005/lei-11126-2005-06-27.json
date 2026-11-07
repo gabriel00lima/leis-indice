@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2005/lei-11126-2005-06-27",
+"urn": "urn:lex:br:federal:lei:2005-06-27;11126",
+"consultado_em": "2026-11-07",
+"codigo": "570575",
+"nome": "Lei nº 11.126 de 27/06/2005",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2005-06-28", "descricao": "Publicação Original [Diário Oficial da União de 28/06/2005] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2006-09-21", "nome": "Decreto nº 5.904 de 21/09/2006", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2015-07-06", "nome": "Lei nº 13.146 de 06/07/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2015/lei-13146-2015-07-06"}
+],
+"controle": []
+}

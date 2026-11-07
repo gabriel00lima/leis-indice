@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2007/lei-11460-2007-03-21",
+"urn": "urn:lex:br:federal:lei:2007-03-21;11460",
+"consultado_em": "2026-11-07",
+"codigo": "572612",
+"nome": "Lei nº 11.460 de 21/03/2007",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2007-03-22", "descricao": "Publicação Original [Diário Oficial da União de 22/03/2007] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2023-10-20", "nome": "Lei nº 14.701 de 20/10/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "vetado"}], "id": "federal/leis-ordinarias/2023/lei-14701-2023-10-20"}
+],
+"controle": []
+}

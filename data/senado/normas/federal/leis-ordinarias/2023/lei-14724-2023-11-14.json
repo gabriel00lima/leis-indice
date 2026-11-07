@@ -1,0 +1,36 @@
+{
+"id": "federal/leis-ordinarias/2023/lei-14724-2023-11-14",
+"urn": "urn:lex:br:federal:lei:2023-11-14;14724",
+"consultado_em": "2026-11-07",
+"codigo": "37823468",
+"nome": "Lei nº 14.724 de 14/11/2023",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "ANX", "data": "2023-11-14", "descricao": "Publicação Original de Anexo (004 - Anexo IV) [Diário Oficial da União - Edição Extra de 14/11/2023 - nº 216-C] (p. 3, col. 1)"},
+{"tipo": "PUB", "data": "2023-11-14", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 14/11/2023] (p. 1, col. 1)"},
+{"tipo": "ANX", "data": "2023-11-14", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União - Edição Extra de 14/11/2023 - nº 216-C] (p. 2, col. 2)"},
+{"tipo": "ANX", "data": "2023-11-14", "descricao": "Publicação Original de Anexo (005 - Anexo V) [Diário Oficial da União - Edição Extra de 14/11/2023 - nº 216-C] (p. 3, col. 2)"},
+{"tipo": "ANX", "data": "2023-11-14", "descricao": "Publicação Original de Anexo (003 - Anexo III) [Diário Oficial da União - Edição Extra de 14/11/2023 - nº 216-C] (p. 3, col. 1)"},
+{"tipo": "ANX", "data": "2023-11-14", "descricao": "Publicação Original de Anexo (007 - Anexo VII) [Diário Oficial da União - Edição Extra de 14/11/2023 - nº 216-C] (p. 3, col. 1)"},
+{"tipo": "ANX", "data": "2023-11-14", "descricao": "Publicação Original de Anexo (002 - Anexo II) [Diário Oficial da União - Edição Extra de 14/11/2023 - nº 216-C] (p. 3, col. 1)"},
+{"tipo": "ANX", "data": "2023-11-14", "descricao": "Publicação Original de Anexo (006 - Anexo VI) [Diário Oficial da União - Edição Extra de 14/11/2023 - nº 216-C] (p. 3, col. 1)"},
+{"tipo": "VEP", "data": "2024-05-23", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União de 23/05/2024] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2023-11-14", "nome": "Mensagem de Veto Parcial nº 587 de 14/11/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-11-14", "nome": "Mensagem de Veto Parcial nº 587 de 14/11/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-11-14", "nome": "Mensagem de Veto Parcial nº 587 de 14/11/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-11-14", "nome": "Mensagem de Veto Parcial nº 587 de 14/11/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-11-14", "nome": "Mensagem de Veto Parcial nº 587 de 14/11/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-11-14", "nome": "Mensagem de Veto Parcial nº 587 de 14/11/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-11-14", "nome": "Mensagem de Veto Parcial nº 587 de 14/11/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 21, § 2", "art": "21", "acao": "veto"}, {"dispositivo": "Art. 21, § 3", "art": "21", "acao": "veto"}, {"dispositivo": "Art. 23", "art": "23", "acao": "veto"}, {"dispositivo": "Art. 24", "art": "24", "acao": "veto"}, {"dispositivo": "Art. 25", "art": "25", "acao": "veto"}, {"dispositivo": "Art. 26", "art": "26", "acao": "veto"}, {"dispositivo": "Art. 36, caput, Inciso 4", "art": "36", "acao": "veto"}, {"dispositivo": "Anexo 6", "art": null, "acao": "veto"}]},
+{"data": "2023-11-14", "nome": "Mensagem de Veto Parcial nº 587 de 14/11/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-12-21", "nome": "Decreto nº 11.839 de 21/12/2023", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 29", "art": "29", "acao": "regulamentou"}, {"dispositivo": "Art. 31, Parágrafo Único", "art": "31", "acao": "regulamentou"}]},
+{"data": "2024-11-13", "nome": "Medida Provisória nº 1.273 de 13/11/2024", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2024-11-13", "nome": "Medida Provisória nº 1.273 de 13/11/2024", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 9, caput", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 9, Parágrafo Único", "art": "9", "acao": "revogou"}]},
+{"data": "2024-11-13", "nome": "Medida Provisória nº 1.273 de 13/11/2024", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2024-12-19", "nome": "Decreto nº 12.326 de 19/12/2024", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 21", "art": "21", "acao": "regulamentou"}, {"dispositivo": "Art. 22", "art": "22", "acao": "regulamentou"}]},
+{"data": "2025-04-23", "nome": "Ato do Presidente do Congresso Nacional nº 29 de 23/04/2025", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

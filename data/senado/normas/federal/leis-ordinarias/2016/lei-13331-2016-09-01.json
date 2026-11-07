@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2016/lei-13331-2016-09-01",
+"urn": "urn:lex:br:federal:lei:2016-09-01;13331",
+"consultado_em": "2026-11-07",
+"codigo": "602556",
+"nome": "Lei nº 13.331 de 01/09/2016",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2016-09-02", "descricao": "Publicação Original [Diário Oficial da União de 02/09/2016] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2022-03-15", "nome": "Medida Provisória nº 1.103 de 15/03/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]},
+{"data": "2022-08-03", "nome": "Lei nº 14.430 de 03/08/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2022/lei-14430-2022-08-03"}
+],
+"controle": []
+}

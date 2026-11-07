@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9320-1946-06-03",
+"urn": "urn:lex:br:federal:decreto.lei:1946-06-03;9320",
+"consultado_em": "2026-11-07",
+"codigo": "534359",
+"nome": "Decreto-Lei nº 9.320 de 03/06/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-06-05", "descricao": "Publicação Original [Diário Oficial da União de 05/06/1946] (p. 8367, col. 2)"}
+],
+"alteracoes": [
+{"data": "1946-09-02", "nome": "Decreto-Lei nº 9.692 de 02/09/1946", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9692-1946-09-02"}
+],
+"controle": []
+}

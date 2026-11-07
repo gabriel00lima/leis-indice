@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11828-2008-11-20",
+"urn": "urn:lex:br:federal:lei:2008-11-20;11828",
+"consultado_em": "2026-11-07",
+"codigo": "583453",
+"nome": "Lei nº 11.828 de 20/11/2008",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-11-21", "descricao": "Publicação Original [Diário Oficial da União de 21/11/2008] (p. 4, col. 1)"}
+],
+"alteracoes": [
+{"data": "2013-05-15", "nome": "Lei nº 12.810 de 15/05/2013", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}], "id": "federal/leis-ordinarias/2013/lei-12810-2013-05-15"}
+],
+"controle": []
+}

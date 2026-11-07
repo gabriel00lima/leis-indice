@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1982/del-1986-1982-12-28",
+"urn": "urn:lex:br:federal:decreto.lei:1982-12-28;1986",
+"consultado_em": "2026-11-07",
+"codigo": "526581",
+"nome": "Decreto-Lei nº 1.986 de 28/12/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-12-29", "descricao": "Publicação Original [Diário Oficial da União de 29/12/1982] (p. 24556, col. 1)"}
+],
+"alteracoes": [
+{"data": "1986-07-23", "nome": "Decreto-Lei nº 2.285 de 23/07/1986", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1986/del-2285-1986-07-23"},
+{"data": "2021-12-29", "nome": "Lei nº 14.286 de 29/12/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 2", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2021/lei-14286-2021-12-29"}
+],
+"controle": []
+}

@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1954/lei-2354-1954-11-29",
+"urn": "urn:lex:br:federal:lei:1954-11-29;2354",
+"consultado_em": "2026-11-07",
+"codigo": "544147",
+"nome": "Lei nº 2.354 de 29/11/1954",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1954-11-29", "descricao": "Publicação Original [Diário Oficial da União de 29/11/1954] (p. 18945, col. 2)"}
+],
+"alteracoes": [
+{"data": "1955-11-18", "nome": "Decreto nº 38.250 de 18/11/1955", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1956-09-04", "nome": "Lei nº 2.862 de 04/09/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2862-1956-09-04"},
+{"data": "1962-11-28", "nome": "Lei nº 4.155 de 28/11/1962", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 41", "art": "41", "acao": "revogou"}], "id": "federal/leis-ordinarias/1962/lei-4155-1962-11-28"},
+{"data": "1977-11-14", "nome": "Lei nº 6.468 de 14/11/1977", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}], "id": "federal/leis-ordinarias/1977/lei-6468-1977-11-14"}
+],
+"controle": []
+}

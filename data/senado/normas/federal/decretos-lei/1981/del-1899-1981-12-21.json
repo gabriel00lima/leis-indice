@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1981/del-1899-1981-12-21",
+"urn": "urn:lex:br:federal:decreto.lei:1981-12-21;1899",
+"consultado_em": "2026-11-07",
+"codigo": "526407",
+"nome": "Decreto-Lei nº 1.899 de 21/12/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/1981] (p. 24438, col. 2)"}
+],
+"alteracoes": [
+{"data": "1982-02-18", "nome": "Decreto nº 86.955 de 18/02/1982", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1982-06-02", "nome": "Decreto Legislativo nº 45 de 02/06/1982", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1992-12-11", "nome": "Lei nº 8.522 de 11/12/1992", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1992/lei-8522-1992-12-11"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1975/lei-6269-1975-11-24",
+"urn": "urn:lex:br:federal:lei:1975-11-24;6269",
+"consultado_em": "2026-11-07",
+"codigo": "548145",
+"nome": "Lei nº 6.269 de 24/11/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-11-25", "descricao": "Publicação Original [Diário Oficial da União de 25/11/1975] (p. 15721, col. 2)"}
+],
+"alteracoes": [
+{"data": "1976-06-08", "nome": "Decreto nº 77.774 de 08/06/1976", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1993-07-06", "nome": "Lei nº 8.672 de 06/07/1993", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1993/lei-8672-1993-07-06"}
+],
+"controle": []
+}

@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2019/lei-13853-2019-07-08",
+"urn": "urn:lex:br:federal:lei:2019-07-08;13853",
+"consultado_em": "2026-11-07",
+"codigo": "31172769",
+"nome": "Lei nº 13.853 de 08/07/2019",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2019-07-09", "descricao": "Publicação Original [Diário Oficial da União de 09/07/2019] (p. 1, col. 1)"},
+{"tipo": "VEP", "data": "2019-12-20", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União de 20/12/2019] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2019-07-08", "nome": "Mensagem de Veto Parcial nº 288 de 08/07/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-07-08", "nome": "Mensagem de Veto Parcial nº 288 de 08/07/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 20, § 3", "art": "20", "acao": "veto"}]},
+{"data": "2022-06-13", "nome": "Medida Provisória nº 1.124 de 13/06/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}]},
+{"data": "2022-10-25", "nome": "Lei nº 14.460 de 25/10/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/2022/lei-14460-2022-10-25"}
+],
+"controle": []
+}

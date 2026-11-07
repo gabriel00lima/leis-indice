@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1984/del-2131-1984-06-25",
+"urn": "urn:lex:br:federal:decreto.lei:1984-06-25;2131",
+"consultado_em": "2026-11-07",
+"codigo": "526873",
+"nome": "Decreto-Lei nº 2.131 de 25/06/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-06-27", "descricao": "Publicação Original [Diário Oficial da União de 27/06/1984] (p. 9163, col. 2)"}
+],
+"alteracoes": [
+{"data": "1984-11-19", "nome": "Decreto-Lei nº 2.172 de 19/11/1984", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2172-1984-11-19"}
+],
+"controle": []
+}

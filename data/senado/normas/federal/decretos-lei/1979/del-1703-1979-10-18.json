@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1979/del-1703-1979-10-18",
+"urn": "urn:lex:br:federal:decreto.lei:1979-10-18;1703",
+"consultado_em": "2026-11-07",
+"codigo": "526016",
+"nome": "Decreto-Lei nº 1.703 de 18/10/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-10-19", "descricao": "Publicação Original [Diário Oficial da União de 19/10/1979] (p. 15401, col. 2)"}
+],
+"alteracoes": [
+{"data": "1980-04-08", "nome": "Decreto Legislativo nº 6 de 08/04/1980", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1981-07-23", "nome": "Decreto-Lei nº 1.878 de 23/07/1981", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "prorrogação de prazo"}, {"dispositivo": "Art. 2, caput, Item 3", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "prorrogação de prazo"}], "id": "federal/decretos-lei/1981/del-1878-1981-07-23"},
+{"data": "1982-08-03", "nome": "Decreto-Lei nº 1.953 de 03/08/1982", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1953-1982-08-03"},
+{"data": "1983-12-28", "nome": "Decreto-Lei nº 2.101 de 28/12/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "prorrogação de prazo"}, {"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "prorrogação de prazo"}], "id": "federal/decretos-lei/1983/del-2101-1983-12-28"}
+],
+"controle": []
+}

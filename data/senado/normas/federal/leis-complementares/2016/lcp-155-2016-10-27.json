@@ -1,0 +1,40 @@
+{
+"id": "federal/leis-complementares/2016/lcp-155-2016-10-27",
+"urn": "urn:lex:br:federal:lei.complementar:2016-10-27;155",
+"consultado_em": "2026-11-07",
+"codigo": "572910",
+"nome": "Lei Complementar nº 155 de 27/10/2016",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "ANX", "data": "2016-10-28", "descricao": "Publicação Original de Anexo (004 - Anexo IV) [Diário Oficial da União de 28/10/2016] (p. 4, col. 2)"},
+{"tipo": "ANX", "data": "2016-10-28", "descricao": "Publicação Original de Anexo (003 - Anexo III) [Diário Oficial da União de 28/10/2016] (p. 4, col. 1)"},
+{"tipo": "ANX", "data": "2016-10-28", "descricao": "Publicação Original de Anexo (005 - Anexo V) [Diário Oficial da União de 28/10/2016] (p. 4, col. 2)"},
+{"tipo": "ANX", "data": "2016-10-28", "descricao": "Publicação Original de Anexo (002 - Anexo II) [Diário Oficial da União de 28/10/2016] (p. 4, col. 1)"},
+{"tipo": "ANX", "data": "2016-10-28", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União de 28/10/2016] (p. 4, col. 1)"},
+{"tipo": "PUB", "data": "2016-10-28", "descricao": "Publicação Original [Diário Oficial da União de 28/10/2016] (p. 1, col. 1)"},
+{"tipo": "VEP", "data": "2016-12-29", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União de 29/12/2016] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2016-10-27", "nome": "Mensagem de Veto Parcial nº 589 de 27/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-27", "nome": "Mensagem de Veto Parcial nº 589 de 27/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-27", "nome": "Mensagem de Veto Parcial nº 589 de 27/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-27", "nome": "Mensagem de Veto Parcial nº 589 de 27/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-27", "nome": "Mensagem de Veto Parcial nº 589 de 27/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-27", "nome": "Mensagem de Veto Parcial nº 589 de 27/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-27", "nome": "Mensagem de Veto Parcial nº 589 de 27/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-27", "nome": "Mensagem de Veto Parcial nº 589 de 27/10/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 6", "art": "6", "acao": "veto"}, {"dispositivo": "Art. 7", "art": "7", "acao": "veto"}, {"dispositivo": "Art. 10, caput, Inciso 7", "art": "10", "acao": "veto"}]},
+{"data": "2016-10-27", "nome": "Mensagem de Veto Parcial nº 589 de 27/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-27", "nome": "Mensagem de Veto Parcial nº 589 de 27/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-27", "nome": "Mensagem de Veto Parcial nº 589 de 27/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-27", "nome": "Mensagem de Veto Parcial nº 589 de 27/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-27", "nome": "Mensagem de Veto Parcial nº 589 de 27/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-27", "nome": "Mensagem de Veto Parcial nº 589 de 27/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-27", "nome": "Mensagem de Veto Parcial nº 589 de 27/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-27", "nome": "Mensagem de Veto Parcial nº 589 de 27/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-27", "nome": "Mensagem de Veto Parcial nº 589 de 27/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-27", "nome": "Mensagem de Veto Parcial nº 589 de 27/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-04-06", "nome": "Lei Complementar nº 162 de 06/04/2018", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "com novo tratamento da matéria"}], "id": "federal/leis-complementares/2018/lcp-162-2018-04-06"},
+{"data": "2022-03-17", "nome": "Lei Complementar nº 193 de 17/03/2022", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "correlato"}], "id": "federal/leis-complementares/2022/lcp-193-2022-03-17"}
+],
+"controle": []
+}

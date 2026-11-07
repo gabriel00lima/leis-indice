@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2001/lei-10359-2001-12-27",
+"urn": "urn:lex:br:federal:lei:2001-12-27;10359",
+"consultado_em": "2026-11-07",
+"codigo": "552235",
+"nome": "Lei nº 10.359 de 27/12/2001",
+"apelidos": [
+"Lei do Bloqueador de TV (2001)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2001-12-28", "descricao": "Publicação Original [Diário Oficial da União de 28/12/2001] (p. 6, col. 1)"}
+],
+"alteracoes": [
+{"data": "2002-11-27", "nome": "Medida Provisória nº 79 de 27/11/2002", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "2003-05-15", "nome": "Lei nº 10.672 de 15/05/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}], "id": "federal/leis-ordinarias/2003/lei-10672-2003-05-15"},
+{"data": "2004-06-29", "nome": "Medida Provisória nº 195 de 29/06/2004", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []}
+],
+"controle": []
+}

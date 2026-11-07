@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5456-1968-06-20",
+"urn": "urn:lex:br:federal:lei:1968-06-20;5456",
+"consultado_em": "2026-11-07",
+"codigo": "547324",
+"nome": "Lei nº 5.456 de 20/06/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-06-21", "descricao": "Publicação Original [Diário Oficial da União de 21/06/1968] (p. 5081, col. 1)"}
+],
+"alteracoes": [
+{"data": "1981-09-17", "nome": "Lei nº 6.946 de 17/09/1981", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/1981/lei-6946-1981-09-17"},
+{"data": "1986-11-21", "nome": "Decreto-Lei nº 2.300 de 21/11/1986", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1986/del-2300-1986-11-21"}
+],
+"controle": []
+}

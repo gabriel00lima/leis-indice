@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2018/lei-13712-2018-08-24",
+"urn": "urn:lex:br:federal:lei:2018-08-24;13712",
+"consultado_em": "2026-11-07",
+"codigo": "27462798",
+"nome": "Lei nº 13.712 de 24/08/2018",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "ANX", "data": "2018-08-27", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União de 27/08/2018] (p. 2, col. 3)"},
+{"tipo": "PUB", "data": "2018-08-27", "descricao": "Publicação Original [Diário Oficial da União de 27/08/2018] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2018-08-24", "nome": "Mensagem de Veto Parcial nº 469 de 24/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-08-24", "nome": "Mensagem de Veto Parcial nº 469 de 24/08/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, Parágrafo Único", "art": "4", "acao": "veto"}]}
+],
+"controle": []
+}

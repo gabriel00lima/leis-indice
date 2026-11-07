@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2009/lei-12029-2009-09-15",
+"urn": "urn:lex:br:federal:lei:2009-09-15;12029",
+"consultado_em": "2026-11-07",
+"codigo": "580252",
+"nome": "Lei nº 12.029 de 15/09/2009",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2009-09-16", "descricao": "Publicação Original [Diário Oficial da União de 16/09/2009] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "2009-09-17", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 17/09/2009] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2010-06-11", "nome": "Lei nº 12.249 de 11/06/2010", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, Parágrafo Único", "art": "6", "acao": "alterou"}], "id": "federal/leis-ordinarias/2010/lei-12249-2010-06-11"}
+],
+"controle": []
+}

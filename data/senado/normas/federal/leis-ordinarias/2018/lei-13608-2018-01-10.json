@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2018/lei-13608-2018-01-10",
+"urn": "urn:lex:br:federal:lei:2018-01-10;13608",
+"consultado_em": "2026-11-07",
+"codigo": "26341985",
+"nome": "Lei nº 13.608 de 10/01/2018",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2018-01-11", "descricao": "Publicação Original [Diário Oficial da União de 11/01/2018] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2019-12-24", "nome": "Lei nº 13.964 de 24/12/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4-A, caput", "art": "4-a", "acao": "acrescentou"}, {"dispositivo": "Art. 4-A, Parágrafo Único", "art": "4-a", "acao": "acrescentou"}, {"dispositivo": "Art. 4-B, caput", "art": "4-b", "acao": "acrescentou"}, {"dispositivo": "Art. 4-B, Parágrafo Único", "art": "4-b", "acao": "acrescentou"}, {"dispositivo": "Art. 4-C", "art": "4-c", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2019/lei-13964-2019-12-24"},
+{"data": "2019-12-24", "nome": "Lei nº 13.964 de 24/12/2019", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2019/lei-13964-2019-12-24"}
+],
+"controle": []
+}

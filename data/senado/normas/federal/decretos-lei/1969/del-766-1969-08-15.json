@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-766-1969-08-15",
+"urn": "urn:lex:br:federal:decreto.lei:1969-08-15;766",
+"consultado_em": "2026-11-07",
+"codigo": "524158",
+"nome": "Decreto-Lei nº 766 de 15/08/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-08-18", "descricao": "Publicação Original [Diário Oficial da União de 18/08/1969] (p. 6985, col. 1)"}
+],
+"alteracoes": [
+{"data": "1970-06-26", "nome": "Lei nº 5.584 de 26/06/1970", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1970/lei-5584-1970-06-26"}
+],
+"controle": []
+}

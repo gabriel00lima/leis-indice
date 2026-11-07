@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1967/del-284-1967-02-28",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-28;284",
+"consultado_em": "2026-11-07",
+"codigo": "523206",
+"nome": "Decreto-Lei nº 284 de 28/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-28", "descricao": "Publicação Original [Diário Oficial da União de 28/02/1967] (p. 2463, col. 2)"}
+],
+"alteracoes": [
+{"data": "1969-02-05", "nome": "Decreto nº 64.064 de 05/02/1969", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1975-12-26", "nome": "Decreto-Lei nº 1.438 de 26/12/1975", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1975/del-1438-1975-12-26"},
+{"data": "1976-06-09", "nome": "Decreto nº 77.789 de 09/06/1976", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1977-11-17", "nome": "Decreto-Lei nº 1.582 de 17/11/1977", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1977/del-1582-1977-11-17"}
+],
+"controle": []
+}

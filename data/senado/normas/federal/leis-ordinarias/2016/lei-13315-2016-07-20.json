@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2016/lei-13315-2016-07-20",
+"urn": "urn:lex:br:federal:lei:2016-07-20;13315",
+"consultado_em": "2026-11-07",
+"codigo": "602540",
+"nome": "Lei nº 13.315 de 20/07/2016",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2016-07-21", "descricao": "Publicação Original [Diário Oficial da União de 21/07/2016] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2016-07-20", "nome": "Mensagem de Veto Parcial nº 410 de 20/07/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "veto"}]},
+{"data": "2016-07-20", "nome": "Mensagem de Veto Parcial nº 410 de 20/07/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-07-20", "nome": "Mensagem de Veto Parcial nº 410 de 20/07/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-07-20", "nome": "Mensagem de Veto Parcial nº 410 de 20/07/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-09-21", "nome": "Medida Provisória nº 1.138 de 21/09/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]},
+{"data": "2023-02-28", "nome": "Lei nº 14.537 de 28/02/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2023/lei-14537-2023-02-28"}
+],
+"controle": []
+}

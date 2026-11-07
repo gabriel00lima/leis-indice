@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1970/lei-5617-1970-10-15",
+"urn": "urn:lex:br:federal:lei:1970-10-15;5617",
+"consultado_em": "2026-11-07",
+"codigo": "547489",
+"nome": "Lei nº 5.617 de 15/10/1970",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1970-10-16", "descricao": "Publicação Original [Diário Oficial da União de 16/10/1970] (p. 8889, col. 1)"}
+],
+"alteracoes": [
+{"data": "1976-01-21", "nome": "Decreto nº 77.066 de 21/01/1976", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1985-06-26", "nome": "Decreto nº 91.370 de 26/06/1985", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

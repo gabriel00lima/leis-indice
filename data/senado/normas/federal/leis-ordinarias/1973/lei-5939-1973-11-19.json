@@ -1,0 +1,32 @@
+{
+"id": "federal/leis-ordinarias/1973/lei-5939-1973-11-19",
+"urn": "urn:lex:br:federal:lei:1973-11-19;5939",
+"consultado_em": "2026-11-07",
+"codigo": "547815",
+"nome": "Lei nº 5.939 de 19/11/1973",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-11-21", "descricao": "Publicação Original [Diário Oficial da União de 21/11/1973] (p. 11898, col. 2)"}
+],
+"alteracoes": [
+{"data": "1976-02-20", "nome": "Decreto nº 77.210 de 20/02/1976", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1993-03-31", "nome": "Lei nº 8.641 de 31/03/1993", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1993/lei-8641-1993-03-31"},
+{"data": "1996-10-11", "nome": "Medida Provisória nº 1.523 de 11/10/1996", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1996-11-12", "nome": "Medida Provisória nº 1.523-1 de 12/11/1996", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1996-12-12", "nome": "Medida Provisória nº 1.523-2 de 12/12/1996", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-01-09", "nome": "Medida Provisória nº 1.523-3 de 09/01/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-02-05", "nome": "Medida Provisória nº 1.523-4 de 05/02/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-03-06", "nome": "Medida Provisória nº 1.523-5 de 06/03/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-04-03", "nome": "Medida Provisória nº 1.523-6 de 03/04/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-04-30", "nome": "Medida Provisória nº 1.523-7 de 30/04/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-05-28", "nome": "Medida Provisória nº 1.523-8 de 28/05/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-06-27", "nome": "Medida Provisória nº 1.523-9 de 27/06/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-07-25", "nome": "Medida Provisória nº 1.523-10 de 25/07/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-08-26", "nome": "Medida Provisória nº 1.523-11 de 26/08/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-09-25", "nome": "Medida Provisória nº 1.523-12 de 25/09/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-10-23", "nome": "Medida Provisória nº 1.523-13 de 23/10/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-11-10", "nome": "Medida Provisória nº 1.596-14 de 10/11/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-12-10", "nome": "Lei nº 9.528 de 10/12/1997", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9528-1997-12-10"}
+],
+"controle": []
+}

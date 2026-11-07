@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1961/lei-3931-1961-08-03",
+"urn": "urn:lex:br:federal:lei:1961-08-03;3931",
+"consultado_em": "2026-11-07",
+"codigo": "545763",
+"nome": "Lei nº 3.931 de 03/08/1961",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1961-08-04", "descricao": "Publicação Original [Diário Oficial da União de 04/08/1961] (p. 7081, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-06-01", "nome": "Lei nº 5.011 de 01/06/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5011-1966-06-01"}
+],
+"controle": []
+}

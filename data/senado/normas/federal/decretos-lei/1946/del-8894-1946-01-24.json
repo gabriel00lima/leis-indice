@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-8894-1946-01-24",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-24;8894",
+"consultado_em": "2026-11-07",
+"codigo": "533930",
+"nome": "Decreto-Lei nº 8.894 de 24/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-02-01", "descricao": "Publicação Original [Diário Oficial da União de 01/02/1946] (p. 1590, col. 3)"}
+],
+"alteracoes": [
+{"data": "1946-07-22", "nome": "Decreto-Lei nº 9.497 de 22/07/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9497-1946-07-22"},
+{"data": "1946-09-06", "nome": "Decreto-Lei nº 9.767 de 06/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9767-1946-09-06"}
+],
+"controle": []
+}

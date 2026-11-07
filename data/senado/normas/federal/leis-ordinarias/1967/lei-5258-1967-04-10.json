@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1967/lei-5258-1967-04-10",
+"urn": "urn:lex:br:federal:lei:1967-04-10;5258",
+"consultado_em": "2026-11-07",
+"codigo": "547120",
+"nome": "Lei nº 5.258 de 10/04/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-04-11", "descricao": "Publicação Original [Diário Oficial da União de 11/04/1967] (p. 4193, col. 1)"}
+],
+"alteracoes": [
+{"data": "1968-05-22", "nome": "Lei nº 5.439 de 22/05/1968", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1968/lei-5439-1968-05-22"},
+{"data": "1979-10-10", "nome": "Lei nº 6.697 de 10/10/1979", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6697-1979-10-10"}
+],
+"controle": []
+}

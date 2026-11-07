@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-799-1969-08-28",
+"urn": "urn:lex:br:federal:decreto.lei:1969-08-28;799",
+"consultado_em": "2026-11-07",
+"codigo": "524224",
+"nome": "Decreto-Lei nº 799 de 28/08/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-08-28", "descricao": "Publicação Original [Diário Oficial da União de 28/08/1969] (p. 7307, col. 4)"}
+],
+"alteracoes": [
+{"data": "1973-09-10", "nome": "Lei nº 5.917 de 10/09/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-5917-1973-09-10"}
+],
+"controle": []
+}

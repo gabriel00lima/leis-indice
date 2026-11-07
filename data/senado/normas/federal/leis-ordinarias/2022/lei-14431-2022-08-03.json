@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/2022/lei-14431-2022-08-03",
+"urn": "urn:lex:br:federal:lei:2022-08-03;14431",
+"consultado_em": "2026-11-07",
+"codigo": "36198108",
+"nome": "Lei nº 14.431 de 03/08/2022",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2022-08-04", "descricao": "Publicação Original [Diário Oficial da União de 04/08/2022] (p. 5, col. 1)"}
+],
+"alteracoes": [
+{"data": "2022-08-04", "nome": "Mensagem de Veto Parcial nº 434 de 04/08/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-08-04", "nome": "Mensagem de Veto Parcial nº 434 de 04/08/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-08-04", "nome": "Mensagem de Veto Parcial nº 434 de 04/08/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-08-04", "nome": "Mensagem de Veto Parcial nº 434 de 04/08/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "veto"}]},
+{"data": "2022-12-27", "nome": "Lei nº 14.509 de 27/12/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, Parágrafo Único", "art": "7", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14509-2022-12-27"},
+{"data": "2022-12-27", "nome": "Lei nº 14.509 de 27/12/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14509-2022-12-27"}
+],
+"controle": [
+{"data": "2023-09-11", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 7.223 de 11/09/2023", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 2", "art": "2", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "7223"}}
+]
+}

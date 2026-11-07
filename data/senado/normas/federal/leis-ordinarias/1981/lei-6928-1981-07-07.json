@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1981/lei-6928-1981-07-07",
+"urn": "urn:lex:br:federal:lei:1981-07-07;6928",
+"consultado_em": "2026-11-07",
+"codigo": "548804",
+"nome": "Lei nº 6.928 de 07/07/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-07-08", "descricao": "Publicação Original [Diário Oficial da União de 08/07/1981] (p. 12664, col. 1)"}
+],
+"alteracoes": [
+{"data": "1993-01-08", "nome": "Lei nº 8.621 de 08/01/1993", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1993/lei-8621-1993-01-08"}
+],
+"controle": []
+}

@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2018/lei-13724-2018-10-04",
+"urn": "urn:lex:br:federal:lei:2018-10-04;13724",
+"consultado_em": "2026-11-07",
+"codigo": "30228651",
+"nome": "Lei nº 13.724 de 04/10/2018",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2018-10-05", "descricao": "Publicação Original [Diário Oficial da União de 05/10/2018] (p. 3, col. 2)"}
+],
+"alteracoes": [
+{"data": "2018-10-04", "nome": "Mensagem de Veto Parcial nº 559 de 04/10/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-10-04", "nome": "Mensagem de Veto Parcial nº 559 de 04/10/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-10-04", "nome": "Mensagem de Veto Parcial nº 559 de 04/10/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, caput, Inciso 1", "art": "6", "acao": "veto"}, {"dispositivo": "Art. 7", "art": "7", "acao": "veto"}]},
+{"data": "2023-11-23", "nome": "Lei nº 14.729 de 23/11/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14729-2023-11-23"},
+{"data": "2023-11-23", "nome": "Lei nº 14.729 de 23/11/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, Parágrafo Único, Inciso 7", "art": "2", "acao": "acrescentou"}, {"dispositivo": "Art. 5, Parágrafo Único", "art": "5", "acao": "renumerou"}, {"dispositivo": "Art. 5, § 2", "art": "5", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14729-2023-11-23"}
+],
+"controle": []
+}

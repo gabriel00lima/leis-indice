@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1975/lei-6280-1975-12-09",
+"urn": "urn:lex:br:federal:lei:1975-12-09;6280",
+"consultado_em": "2026-11-07",
+"codigo": "548156",
+"nome": "Lei nº 6.280 de 09/12/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-12-09", "descricao": "Publicação Original [Diário Oficial da União de 09/12/1975] (p. 16351, col. 1)"}
+],
+"alteracoes": [
+{"data": "1976-11-08", "nome": "Lei nº 6.372 de 08/11/1976", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}], "id": "federal/leis-ordinarias/1976/lei-6372-1976-11-08"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4903-1965-12-16",
+"urn": "urn:lex:br:federal:lei:1965-12-16;4903",
+"consultado_em": "2026-11-07",
+"codigo": "546759",
+"nome": "Lei nº 4.903 de 16/12/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/1965] (p. 13076, col. 3)"}
+],
+"alteracoes": [
+{"data": "1966-07-29", "nome": "Decreto-Lei nº 15 de 29/07/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1966/del-15-1966-07-29"},
+{"data": "1969-01-21", "nome": "Decreto-Lei nº 424 de 21/01/1969", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 3", "art": "2", "acao": "revogou"}], "id": "federal/decretos-lei/1969/del-424-1969-01-21"}
+],
+"controle": []
+}

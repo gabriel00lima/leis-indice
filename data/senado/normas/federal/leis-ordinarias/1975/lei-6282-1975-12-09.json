@@ -1,0 +1,27 @@
+{
+"id": "federal/leis-ordinarias/1975/lei-6282-1975-12-09",
+"urn": "urn:lex:br:federal:lei:1975-12-09;6282",
+"consultado_em": "2026-11-07",
+"codigo": "548158",
+"nome": "Lei nº 6.282 de 09/12/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-12-10", "descricao": "Publicação Original [Diário Oficial da União de 10/12/1975] (p. 16398, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-10-24", "nome": "Lei nº 6.584 de 24/10/1978", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1978/lei-6584-1978-10-24"},
+{"data": "1979-08-21", "nome": "Decreto nº 83.869 de 21/08/1979", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1988-12-20", "nome": "Lei nº 7.699 de 20/12/1988", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1988/lei-7699-1988-12-20"},
+{"data": "1998-12-29", "nome": "Medida Provisória nº 1.787 de 29/12/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "1999-01-28", "nome": "Medida Provisória nº 1.787-1 de 28/01/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "1999-02-25", "nome": "Medida Provisória nº 1.787-2 de 25/02/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "1999-03-25", "nome": "Medida Provisória nº 1.787-3 de 25/03/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "1999-04-22", "nome": "Medida Provisória nº 1.787-4 de 22/04/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "1999-05-20", "nome": "Medida Provisória nº 1.787-5 de 20/05/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "1999-06-17", "nome": "Medida Provisória nº 1.787-6 de 17/06/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "1999-06-29", "nome": "Medida Provisória nº 1.856-7 de 29/06/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "1999-07-27", "nome": "Medida Provisória nº 1.856-8 de 27/07/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "1999-08-23", "nome": "Lei nº 9.821 de 23/08/1999", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/1999/lei-9821-1999-08-23"}
+],
+"controle": []
+}

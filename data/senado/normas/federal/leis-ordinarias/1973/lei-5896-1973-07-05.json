@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1973/lei-5896-1973-07-05",
+"urn": "urn:lex:br:federal:lei:1973-07-05;5896",
+"consultado_em": "2026-11-07",
+"codigo": "547772",
+"nome": "Lei nº 5.896 de 05/07/1973",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-07-05", "descricao": "Publicação Original [Diário Oficial da União de 05/07/1973] (p. 6489, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-12-07", "nome": "Lei nº 6.497 de 07/12/1977", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1977/lei-6497-1977-12-07"},
+{"data": "1982-12-29", "nome": "Lei nº 7.087 de 29/12/1982", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7087-1982-12-29"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1979/lei-6696-1979-10-08",
+"urn": "urn:lex:br:federal:lei:1979-10-08;6696",
+"consultado_em": "2026-11-07",
+"codigo": "548572",
+"nome": "Lei nº 6.696 de 08/10/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-10-09", "descricao": "Publicação Original [Diário Oficial da União de 09/10/1979] (p. 14785, col. 1)"}
+],
+"alteracoes": [
+{"data": "1980-12-01", "nome": "Lei nº 6.864 de 01/12/1980", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1980/lei-6864-1980-12-01"}
+],
+"controle": []
+}

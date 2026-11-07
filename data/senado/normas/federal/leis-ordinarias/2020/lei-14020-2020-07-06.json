@@ -1,0 +1,36 @@
+{
+"id": "federal/leis-ordinarias/2020/lei-14020-2020-07-06",
+"urn": "urn:lex:br:federal:lei:2020-07-06;14020",
+"consultado_em": "2026-11-07",
+"codigo": "32432200",
+"nome": "Lei nº 14.020 de 06/07/2020",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2020-07-07", "descricao": "Publicação Original [Diário Oficial da União de 07/07/2020] (p. 1, col. 2)"},
+{"tipo": "VEP", "data": "2020-11-06", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União - Edição Extra de 06/11/2020 - nº 212-B] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2020-07-06", "nome": "Mensagem de Veto Parcial nº 377 de 06/07/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9, § 1, Inciso 6, Alínea b", "art": "9", "acao": "veto"}, {"dispositivo": "Art. 9, § 1, Inciso 6, Alínea c", "art": "9", "acao": "veto"}, {"dispositivo": "Art. 9, § 1, Inciso 6, Alínea d", "art": "9", "acao": "veto"}, {"dispositivo": "Art. 17, caput, Inciso 4", "art": "17", "acao": "veto"}, {"dispositivo": "Art. 27", "art": "27", "acao": "veto"}, {"dispositivo": "Art. 28", "art": "28", "acao": "veto"}, {"dispositivo": "Art. 30", "art": "30", "acao": "veto"}, {"dispositivo": "Art. 32", "art": "32", "acao": "veto"}, {"dispositivo": "Art. 33", "art": "33", "acao": "veto"}, {"dispositivo": "Art. 34", "art": "34", "acao": "veto"}, {"dispositivo": "Art. 35", "art": "35", "acao": "veto"}, {"dispositivo": "Art. 36", "art": "36", "acao": "veto"}, {"dispositivo": "Art. 37", "art": "37", "acao": "veto"}]},
+{"data": "2020-07-06", "nome": "Mensagem de Veto Parcial nº 377 de 06/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-06", "nome": "Mensagem de Veto Parcial nº 377 de 06/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-06", "nome": "Mensagem de Veto Parcial nº 377 de 06/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-06", "nome": "Mensagem de Veto Parcial nº 377 de 06/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-06", "nome": "Mensagem de Veto Parcial nº 377 de 06/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-06", "nome": "Mensagem de Veto Parcial nº 377 de 06/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-06", "nome": "Mensagem de Veto Parcial nº 377 de 06/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-06", "nome": "Mensagem de Veto Parcial nº 377 de 06/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-06", "nome": "Mensagem de Veto Parcial nº 377 de 06/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-06", "nome": "Mensagem de Veto Parcial nº 377 de 06/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-06", "nome": "Mensagem de Veto Parcial nº 377 de 06/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-06", "nome": "Mensagem de Veto Parcial nº 377 de 06/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-06", "nome": "Mensagem de Veto Parcial nº 377 de 06/07/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-07-13", "nome": "Decreto nº 10.422 de 13/07/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, caput", "art": "7", "acao": "prorrogação de prazo"}, {"dispositivo": "Art. 8, caput", "art": "8", "acao": "prorrogação de prazo"}, {"dispositivo": "Art. 16, caput", "art": "16", "acao": "prorrogação de prazo"}, {"dispositivo": "Art. 18, caput", "art": "18", "acao": "prorrogação de prazo"}]},
+{"data": "2020-08-24", "nome": "Decreto nº 10.470 de 24/08/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, caput", "art": "7", "acao": "prorrogação de prazo"}, {"dispositivo": "Art. 8, caput", "art": "8", "acao": "prorrogação de prazo"}, {"dispositivo": "Art. 16, caput", "art": "16", "acao": "prorrogação de prazo"}, {"dispositivo": "Art. 18, caput", "art": "18", "acao": "prorrogação de prazo"}]},
+{"data": "2020-09-17", "nome": "Lei nº 14.058 de 17/09/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "regulamentou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "regulamentou"}], "id": "federal/leis-ordinarias/2020/lei-14058-2020-09-17"},
+{"data": "2020-10-13", "nome": "Decreto nº 10.517 de 13/10/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "prorrogação de prazo"}, {"dispositivo": "Art. 7, caput", "art": "7", "acao": "prorrogação de prazo"}, {"dispositivo": "Art. 8, caput", "art": "8", "acao": "prorrogação de prazo"}, {"dispositivo": "Art. 16", "art": "16", "acao": "prorrogação de prazo"}, {"dispositivo": "Art. 18", "art": "18", "acao": "prorrogação de prazo"}]},
+{"data": "2020-10-22", "nome": "Lei nº 14.075 de 22/10/2020", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "correlato"}, {"dispositivo": "Art. 18", "art": "18", "acao": "correlato"}], "id": "federal/leis-ordinarias/2020/lei-14075-2020-10-22"},
+{"data": "2021-04-27", "nome": "Medida Provisória nº 1.045 de 27/04/2021", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "correlato"}]},
+{"data": "2021-05-03", "nome": "Lei nº 14.148 de 03/05/2021", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14148-2021-05-03"}
+],
+"controle": []
+}

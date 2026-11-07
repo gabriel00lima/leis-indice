@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1992/lei-8422-1992-05-13",
+"urn": "urn:lex:br:federal:lei:1992-05-13;8422",
+"consultado_em": "2026-11-07",
+"codigo": "550298",
+"nome": "Lei nº 8.422 de 13/05/1992",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1992-05-14", "descricao": "Publicação Original [Diário Oficial da União de 14/05/1992] (p. 6025, col. 1)"}
+],
+"alteracoes": [
+{"data": "1992-07-20", "nome": "Decreto nº 607 de 20/07/1992", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 8", "art": "4", "acao": "regulamentou"}]}
+],
+"controle": []
+}

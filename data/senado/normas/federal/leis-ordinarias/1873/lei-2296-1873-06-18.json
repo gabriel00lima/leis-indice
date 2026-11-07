@@ -1,0 +1,14 @@
+{
+"id": "federal/leis-ordinarias/1873/lei-2296-1873-06-18",
+"urn": "urn:lex:br:federal:lei:1873-06-18;2296",
+"consultado_em": "2026-11-07",
+"codigo": "544081",
+"nome": "Lei nº 2.296 de 18/06/1873",
+"apelidos": [],
+"publicacoes": [],
+"alteracoes": [
+{"data": "1873-11-12", "nome": "Decreto nº 5.461 de 12/11/1873", "tipo": "Aprovação de Regulamento", "dispositivos": []},
+{"data": "1882-09-23", "nome": "Lei nº 3.111 de 23/09/1882", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 5", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}], "id": "federal/leis-ordinarias/1882/lei-3111-1882-09-23"}
+],
+"controle": []
+}

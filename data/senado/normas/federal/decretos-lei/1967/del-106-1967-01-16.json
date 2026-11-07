@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1967/del-106-1967-01-16",
+"urn": "urn:lex:br:federal:decreto.lei:1967-01-16;106",
+"consultado_em": "2026-11-07",
+"codigo": "522853",
+"nome": "Decreto-Lei nº 106 de 16/01/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-01-17", "descricao": "Publicação Original [Diário Oficial da União de 17/01/1967] (p. 673, col. 2)"}
+],
+"alteracoes": [
+{"data": "1967-03-06", "nome": "Decreto nº 60.301 de 06/03/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1984-12-03", "nome": "Lei nº 7.262 de 03/12/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1984/lei-7262-1984-12-03"}
+],
+"controle": []
+}

@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1979/del-1737-1979-12-20",
+"urn": "urn:lex:br:federal:decreto.lei:1979-12-20;1737",
+"consultado_em": "2026-11-07",
+"codigo": "526084",
+"nome": "Decreto-Lei nº 1.737 de 20/12/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-12-21", "descricao": "Publicação Original [Diário Oficial da União de 21/12/1979] (p. 19579, col. 2)"}
+],
+"alteracoes": [
+{"data": "1980-06-25", "nome": "Decreto Legislativo nº 46 de 25/06/1980", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1987-02-26", "nome": "Decreto-Lei nº 2.323 de 26/02/1987", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2323-1987-02-26"},
+{"data": "1994-02-21", "nome": "Decreto nº 1.058 de 21/02/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2024-09-16", "nome": "Lei nº 14.973 de 16/09/2024", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14973-2024-09-16"}
+],
+"controle": []
+}

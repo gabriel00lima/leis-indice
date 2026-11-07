@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1986/lei-7525-1986-07-22",
+"urn": "urn:lex:br:federal:lei:1986-07-22;7525",
+"consultado_em": "2026-11-07",
+"codigo": "549401",
+"nome": "Lei nº 7.525 de 22/07/1986",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-07-23", "descricao": "Publicação Original [Diário Oficial da União de 23/07/1986] (p. 10881, col. 1)"}
+],
+"alteracoes": [
+{"data": "1987-04-21", "nome": "Decreto nº 94.240 de 21/04/1987", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

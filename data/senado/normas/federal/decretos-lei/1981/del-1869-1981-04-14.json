@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1981/del-1869-1981-04-14",
+"urn": "urn:lex:br:federal:decreto.lei:1981-04-14;1869",
+"consultado_em": "2026-11-07",
+"codigo": "526347",
+"nome": "Decreto-Lei nº 1.869 de 14/04/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-04-15", "descricao": "Publicação Original [Diário Oficial da União de 15/04/1981] (p. 7006, col. 2)"}
+],
+"alteracoes": [
+{"data": "1981-11-23", "nome": "Decreto Legislativo nº 68 de 23/11/1981", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1982-06-22", "nome": "Decreto-Lei nº 1.946 de 22/06/1982", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/decretos-lei/1982/del-1946-1982-06-22"},
+{"data": "1988-05-19", "nome": "Decreto-Lei nº 2.433 de 19/05/1988", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1988/del-2433-1988-05-19"}
+],
+"controle": []
+}

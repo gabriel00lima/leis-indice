@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1978/del-1651-1978-12-21",
+"urn": "urn:lex:br:federal:decreto.lei:1978-12-21;1651",
+"consultado_em": "2026-11-07",
+"codigo": "525923",
+"nome": "Decreto-Lei nº 1.651 de 21/12/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/1978] (p. 20689, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-05-10", "nome": "Decreto Legislativo nº 12 de 10/05/1979", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1979-10-30", "nome": "Decreto-Lei nº 1.707 de 30/10/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1979/del-1707-1979-10-30"},
+{"data": "1979-12-31", "nome": "Decreto-Lei nº 1.756 de 31/12/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1756-1979-12-31"},
+{"data": "1985-04-02", "nome": "Decreto-Lei nº 2.277 de 02/04/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1985/del-2277-1985-04-02"},
+{"data": "1987-07-14", "nome": "Lei nº 7.614 de 14/07/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1987/lei-7614-1987-07-14"}
+],
+"controle": []
+}

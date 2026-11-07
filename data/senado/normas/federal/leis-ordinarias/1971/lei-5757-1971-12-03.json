@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1971/lei-5757-1971-12-03",
+"urn": "urn:lex:br:federal:lei:1971-12-03;5757",
+"consultado_em": "2026-11-07",
+"codigo": "547633",
+"nome": "Lei nº 5.757 de 03/12/1971",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1971-12-07", "descricao": "Publicação Original [Diário Oficial da União de 07/12/1971] (p. 10003, col. 1)"}
+],
+"alteracoes": [
+{"data": "1986-07-22", "nome": "Lei nº 7.526 de 22/07/1986", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7526-1986-07-22"}
+],
+"controle": []
+}

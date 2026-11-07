@@ -1,0 +1,26 @@
+{
+"id": "federal/leis-ordinarias/1990/lei-8085-1990-10-23",
+"urn": "urn:lex:br:federal:lei:1990-10-23;8085",
+"consultado_em": "2026-11-07",
+"codigo": "549961",
+"nome": "Lei nº 8.085 de 23/10/1990",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1990-10-24", "descricao": "Publicação Original [Diário Oficial da União de 24/10/1990] (p. 20219, col. 2)"}
+],
+"alteracoes": [
+{"data": "2001-01-26", "nome": "Medida Provisória nº 2.113-27 de 26/01/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}]},
+{"data": "2001-02-23", "nome": "Medida Provisória nº 2.113-28 de 23/02/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}]},
+{"data": "2001-03-27", "nome": "Medida Provisória nº 2.113-29 de 27/03/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}]},
+{"data": "2001-04-26", "nome": "Medida Provisória nº 2.113-30 de 26/04/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}]},
+{"data": "2001-05-24", "nome": "Medida Provisória nº 2.113-31 de 24/05/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}]},
+{"data": "2001-06-21", "nome": "Medida Provisória nº 2.113-32 de 21/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}]},
+{"data": "2001-06-28", "nome": "Medida Provisória nº 2.158-33 de 28/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}]},
+{"data": "2001-07-27", "nome": "Medida Provisória nº 2.158-34 de 27/07/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}]},
+{"data": "2001-08-24", "nome": "Medida Provisória nº 2.158-35 de 24/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}]},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2019-10-04", "nome": "Decreto nº 10.044 de 04/10/2019", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "correlato"}]},
+{"data": "2023-03-02", "nome": "Decreto nº 11.428 de 02/03/2023", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "correlato"}]}
+],
+"controle": []
+}

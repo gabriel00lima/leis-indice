@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1835/lei-4-1835-06-10",
+"urn": "urn:lex:br:federal:lei:1835-06-10;4",
+"consultado_em": "2026-11-07",
+"codigo": "540816",
+"nome": "Lei nº 4 de 10/06/1835",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1835-12-31", "descricao": "Publicação Original [Coleção de Leis do Império do Brasil de 31/12/1835 - vol. 001 - Parte 001] (p. 5, col. 1)"}
+],
+"alteracoes": [
+{"data": "1886-10-15", "nome": "Lei nº 3.310 de 15/10/1886", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/1886/lei-3310-1886-10-15"}
+],
+"controle": []
+}

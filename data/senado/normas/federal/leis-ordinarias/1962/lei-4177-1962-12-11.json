@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1962/lei-4177-1962-12-11",
+"urn": "urn:lex:br:federal:lei:1962-12-11;4177",
+"consultado_em": "2026-11-07",
+"codigo": "546019",
+"nome": "Lei nº 4.177 de 11/12/1962",
+"apelidos": [
+"Lei Orçamentária Anual (LOA) (1963)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/1962] (p. 13037, col. 1)"}
+],
+"alteracoes": [
+{"data": "1963-12-12", "nome": "Lei nº 4.294 de 12/12/1963", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1963/lei-4294-1963-12-12"}
+],
+"controle": []
+}

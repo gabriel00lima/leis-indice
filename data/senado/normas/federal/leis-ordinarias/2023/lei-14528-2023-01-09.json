@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2023/lei-14528-2023-01-09",
+"urn": "urn:lex:br:federal:lei:2023-01-09;14528",
+"consultado_em": "2026-11-07",
+"codigo": "36754120",
+"nome": "Lei nº 14.528 de 09/01/2023",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2023-01-10", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 10/01/2023 - nº 7-C] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2012-12-28", "nome": "Lei nº 12.777 de 28/12/2012", "tipo": "Convalidação", "dispositivos": [], "id": "federal/leis-ordinarias/2012/lei-12777-2012-12-28"}
+],
+"controle": []
+}

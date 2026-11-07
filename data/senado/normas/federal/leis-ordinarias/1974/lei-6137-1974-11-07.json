@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1974/lei-6137-1974-11-07",
+"urn": "urn:lex:br:federal:lei:1974-11-07;6137",
+"consultado_em": "2026-11-07",
+"codigo": "548013",
+"nome": "Lei nº 6.137 de 07/11/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-11-08", "descricao": "Publicação Original [Diário Oficial da União de 08/11/1974] (p. 12726, col. 3)"}
+],
+"alteracoes": [
+{"data": "2021-03-29", "nome": "Medida Provisória nº 1.040 de 29/03/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}]},
+{"data": "2021-08-26", "nome": "Lei nº 14.195 de 26/08/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/2021/lei-14195-2021-08-26"}
+],
+"controle": []
+}

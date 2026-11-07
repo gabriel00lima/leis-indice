@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1970/lei-5624-1970-12-01",
+"urn": "urn:lex:br:federal:lei:1970-12-01;5624",
+"consultado_em": "2026-11-07",
+"codigo": "547496",
+"nome": "Lei nº 5.624 de 01/12/1970",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1970-12-02", "descricao": "Publicação Original [Diário Oficial da União de 02/12/1970] (p. 10257, col. 3)"}
+],
+"alteracoes": [
+{"data": "1971-07-12", "nome": "Lei nº 5.674 de 12/07/1971", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5674-1971-07-12"}
+],
+"controle": []
+}

@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/2022/lei-14515-2022-12-29",
+"urn": "urn:lex:br:federal:lei:2022-12-29;14515",
+"consultado_em": "2026-11-07",
+"codigo": "36695472",
+"nome": "Lei nº 14.515 de 29/12/2022",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "ANX", "data": "2022-12-30", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União de 30/12/2022] (p. 5, col. 1)"},
+{"tipo": "PUB", "data": "2022-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/2022] (p. 3, col. 1)"},
+{"tipo": "VEP", "data": "2025-07-02", "descricao": "Publicação de Veto Parcialmente Rejeitado (Seq. 1) [Diário Oficial da União de 02/07/2025] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2022-12-29", "nome": "Mensagem de Veto Parcial nº 748 de 29/12/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 24, caput", "art": "24", "acao": "veto"}, {"dispositivo": "Art. 24, Parágrafo Único", "art": "24", "acao": "veto"}, {"dispositivo": "Art. 35, Parágrafo Único", "art": "35", "acao": "veto"}]},
+{"data": "2022-12-29", "nome": "Mensagem de Veto Parcial nº 748 de 29/12/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-12-29", "nome": "Mensagem de Veto Parcial nº 748 de 29/12/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-05-28", "nome": "Decreto nº 12.031 de 28/05/2024", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2024-07-31", "nome": "Decreto nº 12.126 de 31/07/2024", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2025-06-11", "nome": "Decreto nº 12.502 de 11/06/2025", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2025-10-31", "nome": "Decreto nº 12.709 de 31/10/2025", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

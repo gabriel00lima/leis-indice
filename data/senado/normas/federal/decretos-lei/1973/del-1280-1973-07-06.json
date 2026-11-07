@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1973/del-1280-1973-07-06",
+"urn": "urn:lex:br:federal:decreto.lei:1973-07-06;1280",
+"consultado_em": "2026-11-07",
+"codigo": "525180",
+"nome": "Decreto-Lei nº 1.280 de 06/07/1973",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-07-09", "descricao": "Publicação Original [Diário Oficial da União de 09/07/1973] (p. 6594, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-08-31", "nome": "Decreto Legislativo nº 51 de 31/08/1973", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1973-12-26", "nome": "Decreto-Lei nº 1.298 de 26/12/1973", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1973/del-1298-1973-12-26"}
+],
+"controle": []
+}

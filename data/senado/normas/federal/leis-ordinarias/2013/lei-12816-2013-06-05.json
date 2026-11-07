@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2013/lei-12816-2013-06-05",
+"urn": "urn:lex:br:federal:lei:2013-06-05;12816",
+"consultado_em": "2026-11-07",
+"codigo": "588192",
+"nome": "Lei nº 12.816 de 05/06/2013",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2013-06-06", "descricao": "Publicação Original [Diário Oficial da União de 06/06/2013] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2022-08-04", "nome": "Decreto nº 11.162 de 04/08/2022", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "regulamentou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "regulamentou"}]}
+],
+"controle": []
+}

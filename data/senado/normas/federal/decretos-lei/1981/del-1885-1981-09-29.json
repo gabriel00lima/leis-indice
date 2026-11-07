@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1981/del-1885-1981-09-29",
+"urn": "urn:lex:br:federal:decreto.lei:1981-09-29;1885",
+"consultado_em": "2026-11-07",
+"codigo": "526379",
+"nome": "Decreto-Lei nº 1.885 de 29/09/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-09-30", "descricao": "Publicação Original [Diário Oficial da União de 30/09/1981] (p. 18373, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-04-19", "nome": "Decreto Legislativo nº 21 de 19/04/1982", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1982-11-23", "nome": "Decreto-Lei nº 1.967 de 23/11/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1967-1982-11-23"},
+{"data": "1983-10-19", "nome": "Decreto-Lei nº 2.064 de 19/10/1983", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2064-1983-10-19"},
+{"data": "1983-10-26", "nome": "Decreto-Lei nº 2.065 de 26/10/1983", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2065-1983-10-26"},
+{"data": "1984-06-26", "nome": "Decreto-Lei nº 2.134 de 26/06/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2134-1984-06-26"}
+],
+"controle": []
+}

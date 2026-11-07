@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4331-1964-06-01",
+"urn": "urn:lex:br:federal:lei:1964-06-01;4331",
+"consultado_em": "2026-11-07",
+"codigo": "546180",
+"nome": "Lei nº 4.331 de 01/06/1964",
+"apelidos": [
+"Lei Oscar Corrêa (1964)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-06-04", "descricao": "Publicação Original [Diário Oficial da União de 04/06/1964] (p. 4753, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-06-03", "nome": "Decreto-Lei nº 607 de 03/06/1969", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1969/del-607-1969-06-03"},
+{"data": "1972-07-06", "nome": "Lei nº 5.791 de 06/07/1972", "tipo": "Revigoração Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5791-1972-07-06"},
+{"data": "1975-09-08", "nome": "Lei nº 6.235 de 08/09/1975", "tipo": "Revigoração Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1975/lei-6235-1975-09-08"}
+],
+"controle": []
+}

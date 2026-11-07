@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1963/lei-4266-1963-10-03",
+"urn": "urn:lex:br:federal:lei:1963-10-03;4266",
+"consultado_em": "2026-11-07",
+"codigo": "546114",
+"nome": "Lei nº 4.266 de 03/10/1963",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1963-10-08", "descricao": "Publicação Original [Diário Oficial da União de 08/10/1963] (p. 8481, col. 1)"}
+],
+"alteracoes": [
+{"data": "1963-12-10", "nome": "Decreto nº 53.153 de 10/12/1963", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1968-12-11", "nome": "Lei nº 5.559 de 11/12/1968", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1968/lei-5559-1968-12-11"},
+{"data": "1973-06-08", "nome": "Lei nº 5.890 de 08/06/1973", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-5890-1973-06-08"},
+{"data": "1975-04-29", "nome": "Lei nº 6.205 de 29/04/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1975/lei-6205-1975-04-29"}
+],
+"controle": []
+}

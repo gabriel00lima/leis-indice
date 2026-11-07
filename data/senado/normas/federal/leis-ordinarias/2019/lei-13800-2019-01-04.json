@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/2019/lei-13800-2019-01-04",
+"urn": "urn:lex:br:federal:lei:2019-01-04;13800",
+"consultado_em": "2026-11-07",
+"codigo": "30774410",
+"nome": "Lei nº 13.800 de 04/01/2019",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2019-01-07", "descricao": "Publicação Original [Diário Oficial da União de 07/01/2019] (p. 1, col. 1)"},
+{"tipo": "VEP", "data": "2019-06-21", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União de 21/06/2019] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2019-01-04", "nome": "Mensagem de Veto Parcial nº 15 de 04/01/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 9", "art": "2", "acao": "veto"}, {"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "veto"}, {"dispositivo": "Art. 5, § 4", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 28", "art": "28", "acao": "veto"}, {"dispositivo": "Art. 29", "art": "29", "acao": "veto"}, {"dispositivo": "Art. 30", "art": "30", "acao": "veto"}, {"dispositivo": "Art. 33, caput, Inciso 1", "art": "33", "acao": "veto"}]},
+{"data": "2019-01-04", "nome": "Mensagem de Veto Parcial nº 15 de 04/01/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-01-04", "nome": "Mensagem de Veto Parcial nº 15 de 04/01/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-01-04", "nome": "Mensagem de Veto Parcial nº 15 de 04/01/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-01-04", "nome": "Mensagem de Veto Parcial nº 15 de 04/01/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-01-04", "nome": "Mensagem de Veto Parcial nº 15 de 04/01/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-01-04", "nome": "Mensagem de Veto Parcial nº 15 de 04/01/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-01-04", "nome": "Mensagem de Veto Parcial nº 15 de 04/01/2019", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": []
+}

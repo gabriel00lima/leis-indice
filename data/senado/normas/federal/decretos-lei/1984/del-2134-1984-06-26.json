@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1984/del-2134-1984-06-26",
+"urn": "urn:lex:br:federal:decreto.lei:1984-06-26;2134",
+"consultado_em": "2026-11-07",
+"codigo": "526881",
+"nome": "Decreto-Lei nº 2.134 de 26/06/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-06-27", "descricao": "Publicação Original [Diário Oficial da União de 27/06/1984] (p. 9165, col. 2)"}
+],
+"alteracoes": [
+{"data": "1987-12-21", "nome": "Decreto-Lei nº 2.394 de 21/12/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2394-1987-12-21"}
+],
+"controle": []
+}

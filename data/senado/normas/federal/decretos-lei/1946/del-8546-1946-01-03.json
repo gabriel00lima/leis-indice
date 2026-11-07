@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1946/del-8546-1946-01-03",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-03;8546",
+"consultado_em": "2026-11-07",
+"codigo": "533585",
+"nome": "Decreto-Lei nº 8.546 de 03/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-05", "descricao": "Publicação Original [Diário Oficial da União de 05/01/1946] (p. 161, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-05-23", "nome": "Decreto-Lei nº 9.278 de 23/05/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9278-1946-05-23"},
+{"data": "1946-08-19", "nome": "Decreto-Lei nº 9.607 de 19/08/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9607-1946-08-19"},
+{"data": "1946-09-17", "nome": "Decreto-Lei nº 9.909 de 17/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9909-1946-09-17"}
+],
+"controle": []
+}

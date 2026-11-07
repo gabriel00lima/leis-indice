@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1980/del-1807-1980-10-06",
+"urn": "urn:lex:br:federal:decreto.lei:1980-10-06;1807",
+"consultado_em": "2026-11-07",
+"codigo": "526224",
+"nome": "Decreto-Lei nº 1.807 de 06/10/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-10-07", "descricao": "Publicação Original [Diário Oficial da União de 07/10/1980] (p. 19921, col. 2)"}
+],
+"alteracoes": [
+{"data": "1981-03-12", "nome": "Decreto Legislativo nº 1 de 12/03/1981", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

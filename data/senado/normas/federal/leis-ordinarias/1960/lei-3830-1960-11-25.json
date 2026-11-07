@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1960/lei-3830-1960-11-25",
+"urn": "urn:lex:br:federal:lei:1960-11-25;3830",
+"consultado_em": "2026-11-07",
+"codigo": "545652",
+"nome": "Lei nº 3.830 de 25/11/1960",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1960-11-28", "descricao": "Publicação Original [Diário Oficial da União de 28/11/1960] (p. 15381, col. 1)"}
+],
+"alteracoes": [
+{"data": "1962-11-28", "nome": "Lei nº 4.154 de 28/11/1962", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1962/lei-4154-1962-11-28"}
+],
+"controle": []
+}

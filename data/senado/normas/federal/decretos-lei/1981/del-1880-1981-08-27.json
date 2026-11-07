@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1981/del-1880-1981-08-27",
+"urn": "urn:lex:br:federal:decreto.lei:1981-08-27;1880",
+"consultado_em": "2026-11-07",
+"codigo": "526369",
+"nome": "Decreto-Lei nº 1.880 de 27/08/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-08-28", "descricao": "Publicação Original [Diário Oficial da União de 28/08/1981] (p. 16237, col. 2)"}
+],
+"alteracoes": [
+{"data": "1982-02-17", "nome": "Decreto-Lei nº 1.927 de 17/02/1982", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1927-1982-02-17"},
+{"data": "1982-03-31", "nome": "Decreto Legislativo nº 14 de 31/03/1982", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1982-09-15", "nome": "Decreto Legislativo nº 83 de 15/09/1982", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1982-11-30", "nome": "Decreto-Lei nº 1.971 de 30/11/1982", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1971-1982-11-30"},
+{"data": "1983-06-28", "nome": "Decreto-Lei nº 2.036 de 28/06/1983", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2036-1983-06-28"}
+],
+"controle": []
+}

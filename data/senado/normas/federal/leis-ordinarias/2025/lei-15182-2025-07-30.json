@@ -1,0 +1,24 @@
+{
+"id": "federal/leis-ordinarias/2025/lei-15182-2025-07-30",
+"urn": "urn:lex:br:federal:lei:2025-07-30;15182",
+"consultado_em": "2026-11-07",
+"codigo": "41180763",
+"nome": "Lei nº 15.182 de 30/07/2025",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2025-07-31", "descricao": "Publicação Original [Diário Oficial da União de 31/07/2025] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2025-07-30", "nome": "Mensagem de Veto Parcial nº 1.049 de 30/07/2025", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2025-07-30", "nome": "Mensagem de Veto Parcial nº 1.049 de 30/07/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, caput, Inciso 1, Alínea b", "art": "6", "acao": "veto"}, {"dispositivo": "Art. 6, caput, Inciso 1, Alínea c", "art": "6", "acao": "veto"}, {"dispositivo": "Art. 6, caput, Inciso 1, Alínea f", "art": "6", "acao": "veto"}, {"dispositivo": "Art. 6, caput, Inciso 2, Alínea b", "art": "6", "acao": "veto"}]},
+{"data": "2025-07-30", "nome": "Mensagem de Veto Parcial nº 1.049 de 30/07/2025", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2025-07-30", "nome": "Mensagem de Veto Parcial nº 1.049 de 30/07/2025", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2025-07-30", "nome": "Mensagem de Veto Parcial nº 1.049 de 30/07/2025", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2025-07-30", "nome": "Mensagem de Veto Parcial nº 1.049 de 30/07/2025", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2025-07-30", "nome": "Mensagem de Veto Parcial nº 1.049 de 30/07/2025", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2025-07-30", "nome": "Mensagem de Veto Parcial nº 1.049 de 30/07/2025", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2025-07-30", "nome": "Mensagem de Veto Parcial nº 1.049 de 30/07/2025", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2025-07-30", "nome": "Mensagem de Veto Parcial nº 1.049 de 30/07/2025", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1957/lei-3271-1957-09-30",
+"urn": "urn:lex:br:federal:lei:1957-09-30;3271",
+"consultado_em": "2026-11-07",
+"codigo": "545048",
+"nome": "Lei nº 3.271 de 30/09/1957",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1957-10-01", "descricao": "Publicação Original [Diário Oficial da União de 01/10/1957] (p. 23017, col. 1)"}
+],
+"alteracoes": [
+{"data": "1961-05-03", "nome": "Decreto nº 50.525 de 03/05/1961", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1961-06-12", "nome": "Decreto nº 50.785 de 12/06/1961", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1965-07-14", "nome": "Lei nº 4.730 de 14/07/1965", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4730-1965-07-14"},
+{"data": "1969-10-21", "nome": "Decreto-Lei nº 1.028 de 21/10/1969", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1969/del-1028-1969-10-21"}
+],
+"controle": []
+}

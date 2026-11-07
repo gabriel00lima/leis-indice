@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1952/lei-1772-1952-12-18",
+"urn": "urn:lex:br:federal:lei:1952-12-18;1772",
+"consultado_em": "2026-11-07",
+"codigo": "543508",
+"nome": "Lei nº 1.772 de 18/12/1952",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1952-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/1952] (p. 19481, col. 2)"}
+],
+"alteracoes": [
+{"data": "1954-11-29", "nome": "Lei nº 2.354 de 29/11/1954", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2354-1954-11-29"}
+],
+"controle": []
+}

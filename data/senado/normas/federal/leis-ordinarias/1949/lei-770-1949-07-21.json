@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-770-1949-07-21",
+"urn": "urn:lex:br:federal:lei:1949-07-21;770",
+"consultado_em": "2026-11-07",
+"codigo": "542340",
+"nome": "Lei nº 770 de 21/07/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-07-27", "descricao": "Publicação Original [Diário Oficial da União de 27/07/1949] (p. 10705, col. 1)"}
+],
+"alteracoes": [
+{"data": "1949-10-27", "nome": "Decreto nº 27.365 de 27/10/1949", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1953-02-23", "nome": "Lei nº 1.817 de 23/02/1953", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1953/lei-1817-1953-02-23"},
+{"data": "1960-08-02", "nome": "Lei nº 3.791 de 02/08/1960", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1960/lei-3791-1960-08-02"},
+{"data": "1973-05-22", "nome": "Decreto nº 72.290 de 22/05/1973", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1985-03-15", "nome": "Decreto nº 91.144 de 15/03/1985", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

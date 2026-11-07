@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1954/lei-2313-1954-09-03",
+"urn": "urn:lex:br:federal:lei:1954-09-03;2313",
+"consultado_em": "2026-11-07",
+"codigo": "544100",
+"nome": "Lei nº 2.313 de 03/09/1954",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1954-09-13", "descricao": "Publicação Original [Diário Oficial da União de 13/09/1954] (p. 15337, col. 1)"}
+],
+"alteracoes": [
+{"data": "1956-11-21", "nome": "Decreto nº 40.395 de 21/11/1956", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1993-11-11", "nome": "Medida Provisória nº 371 de 11/11/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-12-10", "nome": "Lei nº 8.749 de 10/12/1993", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1993/lei-8749-1993-12-10"},
+{"data": "2024-09-16", "nome": "Lei nº 14.973 de 16/09/2024", "tipo": "Ressalva Permanente da Norma no todo", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14973-2024-09-16"},
+{"data": "2024-09-16", "nome": "Lei nº 14.973 de 16/09/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2024/lei-14973-2024-09-16"},
+{"data": "2026-05-04", "nome": "Medida Provisória nº 1.355 de 04/05/2026", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "ressalvou"}]}
+],
+"controle": []
+}

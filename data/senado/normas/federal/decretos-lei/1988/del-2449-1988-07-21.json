@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1988/del-2449-1988-07-21",
+"urn": "urn:lex:br:federal:decreto.lei:1988-07-21;2449",
+"consultado_em": "2026-11-07",
+"codigo": "527511",
+"nome": "Decreto-Lei nº 2.449 de 21/07/1988",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1988-07-22", "descricao": "Publicação Original [Diário Oficial da União de 22/07/1988] (p. 13761, col. 2)"}
+],
+"alteracoes": [
+{"data": "1988-12-07", "nome": "Medida Provisória nº 24 de 07/12/1988", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1995-10-26", "nome": "Medida Provisória nº 1.167 de 26/10/1995", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": [
+{"data": "1995-10-09", "nome": "Resolução do Senado Federal nº 49 de 09/10/1995", "tipo": "Suspensão de Execução por Inconstitucionalidade da Norma No Todo", "dispositivos": [], "efeito": "inconstitucional"}
+]
+}

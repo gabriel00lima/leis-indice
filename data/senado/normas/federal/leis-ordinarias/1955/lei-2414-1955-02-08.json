@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1955/lei-2414-1955-02-08",
+"urn": "urn:lex:br:federal:lei:1955-02-08;2414",
+"consultado_em": "2026-11-07",
+"codigo": "544210",
+"nome": "Lei nº 2.414 de 08/02/1955",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1955-02-11", "descricao": "Publicação Original [Diário Oficial da União de 11/02/1955] (p. 2185, col. 1)"}
+],
+"alteracoes": [
+{"data": "1962-02-23", "nome": "Lei nº 4.050 de 23/02/1962", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1962/lei-4050-1962-02-23"}
+],
+"controle": []
+}

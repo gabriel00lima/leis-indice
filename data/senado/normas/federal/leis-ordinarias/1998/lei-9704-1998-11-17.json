@@ -1,0 +1,34 @@
+{
+"id": "federal/leis-ordinarias/1998/lei-9704-1998-11-17",
+"urn": "urn:lex:br:federal:lei:1998-11-17;9704",
+"consultado_em": "2026-11-07",
+"codigo": "551580",
+"nome": "Lei nº 9.704 de 17/11/1998",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1998-11-18", "descricao": "Publicação Original [Diário Oficial da União de 18/11/1998] (p. 3, col. 1)"}
+],
+"alteracoes": [
+{"data": "2000-04-06", "nome": "Medida Provisória nº 1.984-16 de 06/04/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}]},
+{"data": "2000-05-04", "nome": "Medida Provisória nº 1.984-17 de 04/05/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}]},
+{"data": "2000-06-01", "nome": "Medida Provisória nº 1.984-18 de 01/06/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}]},
+{"data": "2000-06-29", "nome": "Medida Provisória nº 1.984-19 de 29/06/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}]},
+{"data": "2000-07-28", "nome": "Medida Provisória nº 1.984-20 de 28/07/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}]},
+{"data": "2000-08-28", "nome": "Medida Provisória nº 1.984-21 de 28/08/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}]},
+{"data": "2000-09-27", "nome": "Medida Provisória nº 1.984-22 de 27/09/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}]},
+{"data": "2000-10-26", "nome": "Medida Provisória nº 1.984-23 de 26/10/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}]},
+{"data": "2000-11-23", "nome": "Medida Provisória nº 1.984-24 de 23/11/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}]},
+{"data": "2000-12-21", "nome": "Medida Provisória nº 1.984-25 de 21/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "alterou"}]},
+{"data": "2000-12-27", "nome": "Medida Provisória nº 2.102-26 de 27/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "alterou"}]},
+{"data": "2001-01-26", "nome": "Medida Provisória nº 2.102-27 de 26/01/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "alterou"}]},
+{"data": "2001-02-23", "nome": "Medida Provisória nº 2.102-28 de 23/02/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "alterou"}]},
+{"data": "2001-03-27", "nome": "Medida Provisória nº 2.102-29 de 27/03/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "alterou"}]},
+{"data": "2001-04-26", "nome": "Medida Provisória nº 2.102-30 de 26/04/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "alterou"}]},
+{"data": "2001-05-24", "nome": "Medida Provisória nº 2.102-31 de 24/05/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "alterou"}]},
+{"data": "2001-06-21", "nome": "Medida Provisória nº 2.102-32 de 21/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "alterou"}]},
+{"data": "2001-06-28", "nome": "Medida Provisória nº 2.180-33 de 28/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "alterou"}]},
+{"data": "2001-07-27", "nome": "Medida Provisória nº 2.180-34 de 27/07/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "alterou"}]},
+{"data": "2001-08-24", "nome": "Medida Provisória nº 2.180-35 de 24/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "alterou"}]}
+],
+"controle": []
+}

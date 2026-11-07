@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1972/lei-5849-1972-12-07",
+"urn": "urn:lex:br:federal:lei:1972-12-07;5849",
+"consultado_em": "2026-11-07",
+"codigo": "547725",
+"nome": "Lei nº 5.849 de 07/12/1972",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1972-12-07", "descricao": "Publicação Original [Diário Oficial da União de 07/12/1972] (p. 10946, col. 2)"},
+{"tipo": "RET", "data": "1972-12-15", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 15/12/1972] (p. 11257, col. 2)"}
+],
+"alteracoes": [
+{"data": "1973-02-27", "nome": "Decreto-Lei nº 1.262 de 27/02/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1973/del-1262-1973-02-27"}
+],
+"controle": []
+}

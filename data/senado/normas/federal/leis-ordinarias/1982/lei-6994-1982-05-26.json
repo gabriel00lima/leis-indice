@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/1982/lei-6994-1982-05-26",
+"urn": "urn:lex:br:federal:lei:1982-05-26;6994",
+"consultado_em": "2026-11-07",
+"codigo": "548870",
+"nome": "Lei nº 6.994 de 26/05/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-05-31", "descricao": "Publicação Original [Diário Oficial da União de 31/05/1982] (p. 9849, col. 1)"}
+],
+"alteracoes": [
+{"data": "1983-03-08", "nome": "Decreto nº 88.147 de 08/03/1983", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1993-11-25", "nome": "Lei nº 8.734 de 25/11/1993", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}], "id": "federal/leis-ordinarias/1993/lei-8734-1993-11-25"},
+{"data": "1994-07-04", "nome": "Lei nº 8.906 de 04/07/1994", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1994/lei-8906-1994-07-04"},
+{"data": "1998-03-13", "nome": "Medida Provisória nº 1.642-41 de 13/03/1998", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1998-04-07", "nome": "Medida Provisória nº 1.651-42 de 07/04/1998", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1998-05-05", "nome": "Medida Provisória nº 1.651-43 de 05/05/1998", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1998-05-27", "nome": "Lei nº 9.649 de 27/05/1998", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1998/lei-9649-1998-05-27"}
+],
+"controle": []
+}

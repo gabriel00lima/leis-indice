@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-complementares/2024/lcp-207-2024-05-16",
+"urn": "urn:lex:br:federal:lei.complementar:2024-05-16;207",
+"consultado_em": "2026-11-07",
+"codigo": "38505601",
+"nome": "Lei Complementar nº 207 de 16/05/2024",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2024-05-17", "descricao": "Publicação Original [Diário Oficial da União de 17/05/2024] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2024-05-16", "nome": "Mensagem de Veto Parcial nº 195 de 16/05/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 20, caput", "art": "20", "acao": "veto"}]},
+{"data": "2024-05-16", "nome": "Mensagem de Veto Parcial nº 195 de 16/05/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-05-16", "nome": "Mensagem de Veto Parcial nº 195 de 16/05/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-08-07", "nome": "Decreto nº 12.132 de 07/08/2024", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 6, § 1", "art": "6", "acao": "regulamentou"}]},
+{"data": "2024-12-30", "nome": "Lei Complementar nº 211 de 30/12/2024", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-complementares/2024/lcp-211-2024-12-30"}
+],
+"controle": []
+}

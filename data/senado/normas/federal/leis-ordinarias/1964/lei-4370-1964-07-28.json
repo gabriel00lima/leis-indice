@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4370-1964-07-28",
+"urn": "urn:lex:br:federal:lei:1964-07-28;4370",
+"consultado_em": "2026-11-07",
+"codigo": "546220",
+"nome": "Lei nº 4.370 de 28/07/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-08-07", "descricao": "Publicação Original [Diário Oficial da União de 07/08/1964] (p. 7042, col. 1)"}
+],
+"alteracoes": [
+{"data": "1964-11-12", "nome": "Lei nº 4.470 de 12/11/1964", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "revogou"}], "id": "federal/leis-ordinarias/1964/lei-4470-1964-11-12"},
+{"data": "1964-12-11", "nome": "Lei nº 4.570 de 11/12/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4570-1964-12-11"},
+{"data": "1967-02-23", "nome": "Decreto-Lei nº 185 de 23/02/1967", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1967/del-185-1967-02-23"}
+],
+"controle": []
+}

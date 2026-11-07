@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1974/lei-6054-1974-06-12",
+"urn": "urn:lex:br:federal:lei:1974-06-12;6054",
+"consultado_em": "2026-11-07",
+"codigo": "547930",
+"nome": "Lei nº 6.054 de 12/06/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-06-14", "descricao": "Publicação Original [Diário Oficial da União de 14/06/1974] (p. 6725, col. 1)"}
+],
+"alteracoes": [
+{"data": "1994-11-18", "nome": "Lei nº 8.934 de 18/11/1994", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1994/lei-8934-1994-11-18"}
+],
+"controle": []
+}

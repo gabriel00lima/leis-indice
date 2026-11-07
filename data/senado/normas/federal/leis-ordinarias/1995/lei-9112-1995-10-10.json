@@ -1,0 +1,34 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9112-1995-10-10",
+"urn": "urn:lex:br:federal:lei:1995-10-10;9112",
+"consultado_em": "2026-11-07",
+"codigo": "550988",
+"nome": "Lei nº 9.112 de 10/10/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-10-11", "descricao": "Publicação Original [Diário Oficial da União de 11/10/1995] (p. 16056, col. 1)"},
+{"tipo": "RET", "data": "1995-10-18", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 18/10/1995] (p. 16393, col. 2)"}
+],
+"alteracoes": [
+{"data": "1996-04-12", "nome": "Decreto nº 1.861 de 12/04/1996", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "regulamentou"}]},
+{"data": "2000-09-27", "nome": "Medida Provisória nº 2.049-23 de 27/09/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2000-10-26", "nome": "Medida Provisória nº 2.049-24 de 26/10/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2000-11-23", "nome": "Medida Provisória nº 2.049-25 de 23/11/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2000-12-21", "nome": "Medida Provisória nº 2.049-26 de 21/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2000-12-27", "nome": "Medida Provisória nº 2.123-27 de 27/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2001-01-26", "nome": "Medida Provisória nº 2.123-28 de 26/01/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2001-02-23", "nome": "Medida Provisória nº 2.123-29 de 23/02/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2001-03-27", "nome": "Medida Provisória nº 2.123-30 de 27/03/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2001-04-02", "nome": "Medida Provisória nº 2.143-31 de 02/04/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2001-05-02", "nome": "Medida Provisória nº 2.143-32 de 02/05/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2001-05-31", "nome": "Medida Provisória nº 2.143-33 de 31/05/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2001-06-28", "nome": "Medida Provisória nº 2.143-34 de 28/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2001-07-27", "nome": "Medida Provisória nº 2.143-35 de 27/07/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2001-08-24", "nome": "Medida Provisória nº 2.143-36 de 24/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2001-08-31", "nome": "Medida Provisória nº 2.216-37 de 31/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "2002-04-30", "nome": "Decreto nº 4.214 de 30/04/2002", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2018-09-05", "nome": "Decreto nº 9.493 de 05/09/2018", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "regulamentou"}]}
+],
+"controle": []
+}

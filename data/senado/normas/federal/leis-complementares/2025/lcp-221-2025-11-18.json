@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-complementares/2025/lcp-221-2025-11-18",
+"urn": "urn:lex:br:federal:lei.complementar:2025-11-18;221",
+"consultado_em": "2026-11-07",
+"codigo": "41711232",
+"nome": "Lei Complementar nº 221 de 18/11/2025",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2025-11-19", "descricao": "Publicação Original [Diário Oficial da União de 19/11/2025] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2026-08-27", "nome": "Lei Complementar nº 235 de 27/08/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 4", "art": "1", "acao": "acrescentou"}, {"dispositivo": "Art. 1, § 5", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-complementares/2026/lcp-235-2026-08-27"},
+{"data": "2026-08-27", "nome": "Lei Complementar nº 235 de 27/08/2026", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-complementares/2026/lcp-235-2026-08-27"}
+],
+"controle": []
+}

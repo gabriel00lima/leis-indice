@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1976/del-1486-1976-11-01",
+"urn": "urn:lex:br:federal:decreto.lei:1976-11-01;1486",
+"consultado_em": "2026-11-07",
+"codigo": "525594",
+"nome": "Decreto-Lei nº 1.486 de 01/11/1976",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1976-11-01", "descricao": "Publicação Original [Diário Oficial da União de 01/11/1976] (p. 14423, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-03-18", "nome": "Decreto Legislativo nº 2 de 18/03/1977", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

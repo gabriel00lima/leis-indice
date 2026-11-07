@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2022/lei-14457-2022-09-21",
+"urn": "urn:lex:br:federal:lei:2022-09-21;14457",
+"consultado_em": "2026-11-07",
+"codigo": "36360116",
+"nome": "Lei nº 14.457 de 21/09/2022",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2022-09-22", "descricao": "Publicação Original [Diário Oficial da União de 22/09/2022] (p. 10, col. 1)"},
+{"tipo": "VET", "data": "2022-12-22", "descricao": "Publicação de Veto Rejeitado [Diário Oficial da União de 22/12/2022] (p. 3, col. 1)"}
+],
+"alteracoes": [
+{"data": "2022-09-21", "nome": "Mensagem de Veto Parcial nº 535 de 21/09/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-09-21", "nome": "Mensagem de Veto Parcial nº 535 de 21/09/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 21, caput", "art": "21", "acao": "veto"}, {"dispositivo": "Art. 21, caput, Inciso 1", "art": "21", "acao": "veto"}, {"dispositivo": "Art. 21, caput, Inciso 2", "art": "21", "acao": "veto"}]}
+],
+"controle": []
+}

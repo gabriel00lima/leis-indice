@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2015/lei-13135-2015-06-17",
+"urn": "urn:lex:br:federal:lei:2015-06-17;13135",
+"consultado_em": "2026-11-07",
+"codigo": "584947",
+"nome": "Lei nº 13.135 de 17/06/2015",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2015-06-18", "descricao": "Publicação Original [Diário Oficial da União de 18/06/2015] (p. 1, col. 1)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2024-10-18", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.389 de 18/10/2024", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "5389"}}
+]
+}

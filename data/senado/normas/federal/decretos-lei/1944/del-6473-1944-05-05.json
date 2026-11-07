@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1944/del-6473-1944-05-05",
+"urn": "urn:lex:br:federal:decreto.lei:1944-05-05;6473",
+"consultado_em": "2026-11-07",
+"codigo": "531570",
+"nome": "Decreto-Lei nº 6.473 de 05/05/1944",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1944-05-08", "descricao": "Publicação Original [Diário Oficial da União de 08/05/1944] (p. 8121, col. 1)"}
+],
+"alteracoes": [
+{"data": "1944-09-27", "nome": "Decreto-Lei nº 6.907 de 27/09/1944", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1944/del-6907-1944-09-27"}
+],
+"controle": []
+}

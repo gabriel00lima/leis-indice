@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1975/lei-6301-1975-12-15",
+"urn": "urn:lex:br:federal:lei:1975-12-15;6301",
+"consultado_em": "2026-11-07",
+"codigo": "548177",
+"nome": "Lei nº 6.301 de 15/12/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-12-16", "descricao": "Publicação Original [Diário Oficial da União de 16/12/1975] (p. 16681, col. 2)"}
+],
+"alteracoes": [
+{"data": "1976-05-27", "nome": "Decreto nº 77.698 de 27/05/1976", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1978-05-22", "nome": "Decreto nº 81.707 de 22/05/1978", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1979-05-23", "nome": "Lei nº 6.650 de 23/05/1979", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6650-1979-05-23"},
+{"data": "1981-01-28", "nome": "Decreto nº 85.668 de 28/01/1981", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

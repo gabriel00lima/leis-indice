@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4694-1965-06-21",
+"urn": "urn:lex:br:federal:lei:1965-06-21;4694",
+"consultado_em": "2026-11-07",
+"codigo": "546547",
+"nome": "Lei nº 4.694 de 21/06/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-06-23", "descricao": "Publicação Original [Diário Oficial da União de 23/06/1965] (p. 5857, col. 3)"}
+],
+"alteracoes": [
+{"data": "1974-12-02", "nome": "Decreto-Lei nº 1.367 de 02/12/1974", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "prorrogação de prazo"}], "id": "federal/decretos-lei/1974/del-1367-1974-12-02"}
+],
+"controle": []
+}

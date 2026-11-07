@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1997/lei-9539-1997-12-12",
+"urn": "urn:lex:br:federal:lei:1997-12-12;9539",
+"consultado_em": "2026-11-07",
+"codigo": "551415",
+"nome": "Lei nº 9.539 de 12/12/1997",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1997-12-15", "descricao": "Publicação Original [Diário Oficial da União de 15/12/1997] (p. 29950, col. 1)"}
+],
+"alteracoes": [
+{"data": "1998-02-09", "nome": "Decreto nº 2.493 de 09/02/1998", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1978/lei-6595-1978-11-21",
+"urn": "urn:lex:br:federal:lei:1978-11-21;6595",
+"consultado_em": "2026-11-07",
+"codigo": "548471",
+"nome": "Lei nº 6.595 de 21/11/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-11-22", "descricao": "Publicação Original [Diário Oficial da União de 22/11/1978] (p. 18729, col. 2)"}
+],
+"alteracoes": [
+{"data": "1980-11-19", "nome": "Lei nº 6.857 de 19/11/1980", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1980/lei-6857-1980-11-19"},
+{"data": "1982-03-29", "nome": "Lei nº 6.980 de 29/03/1982", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-6980-1982-03-29"},
+{"data": "1986-06-27", "nome": "Lei nº 7.501 de 27/06/1986", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7501-1986-06-27"}
+],
+"controle": []
+}

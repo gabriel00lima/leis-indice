@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-complementares/1996/lcp-84-1996-01-18",
+"urn": "urn:lex:br:federal:lei.complementar:1996-01-18;84",
+"consultado_em": "2026-11-07",
+"codigo": "572839",
+"nome": "Lei Complementar nº 84 de 18/01/1996",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1996-01-19", "descricao": "Publicação Original [Diário Oficial da União de 19/01/1996] (p. 841, col. 2)"}
+],
+"alteracoes": [
+{"data": "1996-02-29", "nome": "Decreto nº 1.826 de 29/02/1996", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1999-11-26", "nome": "Lei nº 9.876 de 26/11/1999", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1999/lei-9876-1999-11-26"}
+],
+"controle": []
+}

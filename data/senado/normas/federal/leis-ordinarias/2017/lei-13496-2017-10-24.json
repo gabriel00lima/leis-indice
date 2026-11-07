@@ -1,0 +1,28 @@
+{
+"id": "federal/leis-ordinarias/2017/lei-13496-2017-10-24",
+"urn": "urn:lex:br:federal:lei:2017-10-24;13496",
+"consultado_em": "2026-11-07",
+"codigo": "26266181",
+"nome": "Lei nº 13.496 de 24/10/2017",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2017-10-25", "descricao": "Publicação Original [Diário Oficial da União de 25/10/2017] (p. 2, col. 3)"}
+],
+"alteracoes": [
+{"data": "2017-10-24", "nome": "Mensagem de Veto Parcial nº 411 de 24/10/2017", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2017-10-24", "nome": "Mensagem de Veto Parcial nº 411 de 24/10/2017", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2017-10-24", "nome": "Mensagem de Veto Parcial nº 411 de 24/10/2017", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2017-10-24", "nome": "Mensagem de Veto Parcial nº 411 de 24/10/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 10", "art": "2", "acao": "veto"}, {"dispositivo": "Art. 4, caput, Inciso 2", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 11, § 2", "art": "11", "acao": "veto"}, {"dispositivo": "Art. 12, caput", "art": "12", "acao": "veto"}, {"dispositivo": "Art. 12, § 1", "art": "12", "acao": "veto"}, {"dispositivo": "Art. 12, § 2", "art": "12", "acao": "veto"}, {"dispositivo": "Art. 12, § 3", "art": "12", "acao": "veto"}]},
+{"data": "2017-10-24", "nome": "Mensagem de Veto Parcial nº 411 de 24/10/2017", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2017-10-31", "nome": "Medida Provisória nº 807 de 31/10/2017", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2017-10-31", "nome": "Medida Provisória nº 807 de 31/10/2017", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 3", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 8, § 2", "art": "8", "acao": "alterou"}]},
+{"data": "2018-01-09", "nome": "Lei nº 13.606 de 09/01/2018", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2018/lei-13606-2018-01-09"},
+{"data": "2018-01-09", "nome": "Lei nº 13.606 de 09/01/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 4, Inciso 4", "art": "1", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2018/lei-13606-2018-01-09"},
+{"data": "2018-04-10", "nome": "Ato do Presidente do Congresso Nacional nº 21 de 10/04/2018", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "2022-06-21", "nome": "Lei nº 14.375 de 21/06/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14375-2022-06-21"},
+{"data": "2022-06-21", "nome": "Lei nº 14.375 de 21/06/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 4, Inciso 4", "art": "1", "acao": "ressalvou"}, {"dispositivo": "Art. 11-A", "art": "11-a", "acao": "vetado"}], "id": "federal/leis-ordinarias/2022/lei-14375-2022-06-21"},
+{"data": "2023-05-30", "nome": "Lei nº 14.592 de 30/05/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14592-2023-05-30"},
+{"data": "2023-05-30", "nome": "Lei nº 14.592 de 30/05/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 4, Inciso 4", "art": "1", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2023/lei-14592-2023-05-30"}
+],
+"controle": []
+}

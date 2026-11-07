@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1979/del-1726-1979-12-07",
+"urn": "urn:lex:br:federal:decreto.lei:1979-12-07;1726",
+"consultado_em": "2026-11-07",
+"codigo": "526062",
+"nome": "Decreto-Lei nº 1.726 de 07/12/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-12-07", "descricao": "Publicação Original [Diário Oficial da União de 07/12/1979] (p. 18477, col. 2)"}
+],
+"alteracoes": [
+{"data": "1979-12-31", "nome": "Decreto-Lei nº 1.753 de 31/12/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1753-1979-12-31"},
+{"data": "1980-05-13", "nome": "Decreto Legislativo nº 29 de 13/05/1980", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1982-05-10", "nome": "Decreto-Lei nº 1.938 de 10/05/1982", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 4", "art": "2", "acao": "revogou"}], "id": "federal/decretos-lei/1982/del-1938-1982-05-10"},
+{"data": "1982-08-03", "nome": "Decreto-Lei nº 1.953 de 03/08/1982", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 4, Alínea e", "art": "2", "acao": "revogou"}], "id": "federal/decretos-lei/1982/del-1953-1982-08-03"},
+{"data": "1988-05-19", "nome": "Decreto-Lei nº 2.434 de 19/05/1988", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1988/del-2434-1988-05-19"}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1967/lei-5276-1967-04-24",
+"urn": "urn:lex:br:federal:lei:1967-04-24;5276",
+"consultado_em": "2026-11-07",
+"codigo": "547138",
+"nome": "Lei nº 5.276 de 24/04/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-04-26", "descricao": "Publicação Original [Diário Oficial da União de 26/04/1967] (p. 4707, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-12-04", "nome": "Lei nº 5.369 de 04/12/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1967/lei-5369-1967-12-04"},
+{"data": "1978-10-20", "nome": "Lei nº 6.583 de 20/10/1978", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}], "id": "federal/leis-ordinarias/1978/lei-6583-1978-10-20"},
+{"data": "1991-09-17", "nome": "Lei nº 8.234 de 17/09/1991", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8234-1991-09-17"}
+],
+"controle": []
+}

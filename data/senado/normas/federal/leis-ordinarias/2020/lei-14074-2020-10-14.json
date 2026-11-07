@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2020/lei-14074-2020-10-14",
+"urn": "urn:lex:br:federal:lei:2020-10-14;14074",
+"consultado_em": "2026-11-07",
+"codigo": "32872552",
+"nome": "Lei nº 14.074 de 14/10/2020",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2020-10-15", "descricao": "Publicação Original [Diário Oficial da União de 15/10/2020] (p. 4, col. 2)"}
+],
+"alteracoes": [
+{"data": "2021-07-13", "nome": "Decreto nº 10.747 de 13/07/2021", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 5", "art": "4", "acao": "correlato"}]},
+{"data": "2023-01-01", "nome": "Medida Provisória nº 1.154 de 01/01/2023", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2023-06-19", "nome": "Lei nº 14.600 de 19/06/2023", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14600-2023-06-19"}
+],
+"controle": []
+}

@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2026/lei-15421-2026-06-01",
+"urn": "urn:lex:br:federal:lei:2026-06-01;15421",
+"consultado_em": "2026-11-07",
+"codigo": "43339681",
+"nome": "Lei nº 15.421 de 01/06/2026",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2026-06-02", "descricao": "Publicação Original [Diário Oficial da União de 02/06/2026] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2026-06-01", "nome": "Mensagem de Veto Parcial nº 499 de 01/06/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 72, caput", "art": "72", "acao": "veto"}]},
+{"data": "2026-06-01", "nome": "Mensagem de Veto Parcial nº 499 de 01/06/2026", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2026-09-25", "nome": "Medida Provisória nº 1.394 de 25/09/2026", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 68, caput", "art": "68", "acao": "revogou"}, {"dispositivo": "Art. 68, § 1", "art": "68", "acao": "revogou"}, {"dispositivo": "Art. 68, § 2", "art": "68", "acao": "revogou"}]},
+{"data": "2026-09-28", "nome": "Lei nº 15.522 de 28/09/2026", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2026/lei-15522-2026-09-28"},
+{"data": "2026-09-28", "nome": "Lei nº 15.522 de 28/09/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 5", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/2026/lei-15522-2026-09-28"}
+],
+"controle": []
+}

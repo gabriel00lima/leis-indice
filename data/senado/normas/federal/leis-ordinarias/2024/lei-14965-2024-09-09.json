@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2024/lei-14965-2024-09-09",
+"urn": "urn:lex:br:federal:lei:2024-09-09;14965",
+"consultado_em": "2026-11-07",
+"codigo": "39581018",
+"nome": "Lei nº 14.965 de 09/09/2024",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2024-09-10", "descricao": "Publicação Original [Diário Oficial da União de 10/09/2024] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2026-06-26", "nome": "Lei nº 15.439 de 26/06/2026", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 7, caput, Inciso 12", "art": "7", "acao": "correlato"}], "id": "federal/leis-ordinarias/2026/lei-15439-2026-06-26"}
+],
+"controle": []
+}

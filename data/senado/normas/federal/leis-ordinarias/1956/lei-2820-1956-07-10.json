@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1956/lei-2820-1956-07-10",
+"urn": "urn:lex:br:federal:lei:1956-07-10;2820",
+"consultado_em": "2026-11-07",
+"codigo": "544643",
+"nome": "Lei nº 2.820 de 10/07/1956",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1956-07-16", "descricao": "Publicação Original [Diário Oficial da União de 16/07/1956] (p. 13409, col. 1)"}
+],
+"alteracoes": [
+{"data": "1956-09-11", "nome": "Decreto nº 39.966 de 11/09/1956", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1957-05-22", "nome": "Decreto nº 41.561 de 22/05/1957", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1962-07-18", "nome": "Lei nº 4.096 de 18/07/1962", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1962/lei-4096-1962-07-18"}
+],
+"controle": []
+}

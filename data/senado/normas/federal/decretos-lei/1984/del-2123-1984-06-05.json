@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1984/del-2123-1984-06-05",
+"urn": "urn:lex:br:federal:decreto.lei:1984-06-05;2123",
+"consultado_em": "2026-11-07",
+"codigo": "526855",
+"nome": "Decreto-Lei nº 2.123 de 05/06/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-06-06", "descricao": "Publicação Original [Diário Oficial da União de 06/06/1984] (p. 8018, col. 2)"}
+],
+"alteracoes": [
+{"data": "1984-12-05", "nome": "Decreto Legislativo nº 66 de 05/12/1984", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1985-07-02", "nome": "Lei nº 7.334 de 02/07/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7334-1985-07-02"}
+],
+"controle": []
+}

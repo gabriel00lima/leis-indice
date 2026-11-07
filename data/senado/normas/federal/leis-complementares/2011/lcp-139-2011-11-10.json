@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-complementares/2011/lcp-139-2011-11-10",
+"urn": "urn:lex:br:federal:lei.complementar:2011-11-10;139",
+"consultado_em": "2026-11-07",
+"codigo": "572894",
+"nome": "Lei Complementar nº 139 de 10/11/2011",
+"apelidos": [
+"Lei do Supersimples (2011)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2011-11-11", "descricao": "Publicação Original [Diário Oficial da União de 11/11/2011] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2014-08-07", "nome": "Lei Complementar nº 147 de 07/08/2014", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-complementares/2014/lcp-147-2014-08-07"}
+],
+"controle": []
+}

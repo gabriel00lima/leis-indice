@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1971/lei-5772-1971-12-21",
+"urn": "urn:lex:br:federal:lei:1971-12-21;5772",
+"consultado_em": "2026-11-07",
+"codigo": "547648",
+"nome": "Lei nº 5.772 de 21/12/1971",
+"apelidos": [
+"Código de Propriedade Industrial (1971) (CPI)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1971-12-31", "descricao": "Publicação Original [Diário Oficial da União de 31/12/1971] (p. 10897, col. 1)"}
+],
+"alteracoes": [
+{"data": "1974-08-30", "nome": "Decreto Legislativo nº 59 de 30/08/1974", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1976-07-07", "nome": "Lei nº 6.348 de 07/07/1976", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1976/lei-6348-1976-07-07"},
+{"data": "1996-05-14", "nome": "Lei nº 9.279 de 14/05/1996", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1996/lei-9279-1996-05-14"}
+],
+"controle": []
+}

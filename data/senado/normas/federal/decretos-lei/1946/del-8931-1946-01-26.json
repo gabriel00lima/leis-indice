@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-8931-1946-01-26",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-26;8931",
+"consultado_em": "2026-11-07",
+"codigo": "533969",
+"nome": "Decreto-Lei nº 8.931 de 26/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-02-01", "descricao": "Publicação Original [Diário Oficial da União de 01/02/1946] (p. 1593, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-03-06", "nome": "Decreto-Lei nº 9.040 de 06/03/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9040-1946-03-06"},
+{"data": "1946-06-10", "nome": "Decreto-Lei nº 9.341 de 10/06/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9341-1946-06-10"}
+],
+"controle": []
+}

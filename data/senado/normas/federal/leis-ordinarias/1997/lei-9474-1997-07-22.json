@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1997/lei-9474-1997-07-22",
+"urn": "urn:lex:br:federal:lei:1997-07-22;9474",
+"consultado_em": "2026-11-07",
+"codigo": "551350",
+"nome": "Lei nº 9.474 de 22/07/1997",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1997-07-23", "descricao": "Publicação Original [Diário Oficial da União de 23/07/1997] (p. 15822, col. 1)"}
+],
+"alteracoes": [
+{"data": "2018-02-05", "nome": "Decreto nº 9.277 de 05/02/2018", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 21", "art": "21", "acao": "regulamentou"}, {"dispositivo": "Art. 22", "art": "22", "acao": "regulamentou"}]},
+{"data": "2018-06-21", "nome": "Lei nº 13.684 de 21/06/2018", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2018/lei-13684-2018-06-21"}
+],
+"controle": []
+}

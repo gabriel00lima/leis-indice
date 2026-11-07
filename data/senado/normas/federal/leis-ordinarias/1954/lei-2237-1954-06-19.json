@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1954/lei-2237-1954-06-19",
+"urn": "urn:lex:br:federal:lei:1954-06-19;2237",
+"consultado_em": "2026-11-07",
+"codigo": "544019",
+"nome": "Lei nº 2.237 de 19/06/1954",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1954-06-22", "descricao": "Publicação Original [Diário Oficial da União de 22/06/1954] (p. 11025, col. 1)"}
+],
+"alteracoes": [
+{"data": "1957-06-24", "nome": "Lei nº 3.185 de 24/06/1957", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 15", "art": "15", "acao": "revogou"}], "id": "federal/leis-ordinarias/1957/lei-3185-1957-06-24"},
+{"data": "1962-10-11", "nome": "Lei Delegada nº 11 de 11/10/1962", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1964-11-30", "nome": "Lei nº 4.504 de 30/11/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4504-1964-11-30"}
+],
+"controle": []
+}

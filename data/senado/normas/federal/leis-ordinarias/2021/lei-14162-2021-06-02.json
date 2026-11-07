@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2021/lei-14162-2021-06-02",
+"urn": "urn:lex:br:federal:lei:2021-06-02;14162",
+"consultado_em": "2026-11-07",
+"codigo": "34133352",
+"nome": "Lei nº 14.162 de 02/06/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-06-04", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 04/06/2021] (p. 2, col. 1)"},
+{"tipo": "VET", "data": "2021-12-31", "descricao": "Publicação de Veto Rejeitado [Diário Oficial da União - Edição Extra de 31/12/2021] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-06-02", "nome": "Mensagem de Veto Parcial nº 241 de 02/06/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-06-02", "nome": "Mensagem de Veto Parcial nº 241 de 02/06/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "veto"}]},
+{"data": "2026-04-27", "nome": "Lei nº 15.395 de 27/04/2026", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2026/lei-15395-2026-04-27"},
+{"data": "2026-04-27", "nome": "Lei nº 15.395 de 27/04/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5-A, caput", "art": "5-a", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2026/lei-15395-2026-04-27"}
+],
+"controle": []
+}

@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2005/lei-11097-2005-01-13",
+"urn": "urn:lex:br:federal:lei:2005-01-13;11097",
+"consultado_em": "2026-11-07",
+"codigo": "570546",
+"nome": "Lei nº 11.097 de 13/01/2005",
+"apelidos": [
+"Lei do Biodiesel (2005)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2005-01-14", "descricao": "Publicação Original [Diário Oficial da União de 14/01/2005] (p. 8, col. 3)"}
+],
+"alteracoes": [
+{"data": "2005-05-18", "nome": "Lei nº 11.116 de 18/05/2005", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 4", "art": "2", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2005/lei-11116-2005-05-18"},
+{"data": "2005-05-20", "nome": "Decreto nº 5.448 de 20/05/2005", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2, § 1", "art": "2", "acao": "regulamentou"}]},
+{"data": "2012-12-28", "nome": "Lei nº 12.778 de 28/12/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 56", "art": "56", "acao": "alterou"}, {"dispositivo": "Art. 56, § 8", "art": "56", "acao": "revogou"}, {"dispositivo": "Art. 140, § 1, Inciso 1", "art": "140", "acao": "alterou"}, {"dispositivo": "Art. 205", "art": "205", "acao": "alterou"}, {"dispositivo": "Art. 258", "art": "258", "acao": "alterou"}, {"dispositivo": "Art. 258-A, Parágrafo Único", "art": "258-a", "acao": "alterou"}, {"dispositivo": "Anexo 9", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 15", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 16", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 19", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 83", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 85", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 87", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 89", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 90", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 120", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 123", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 125", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 137", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 159", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 160", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 162", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 163", "art": null, "acao": "alterou"}, {"dispositivo": "Anexo 170", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/2012/lei-12778-2012-12-28"},
+{"data": "2014-05-28", "nome": "Medida Provisória nº 647 de 28/05/2014", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}]},
+{"data": "2014-09-24", "nome": "Lei nº 13.033 de 24/09/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/2014/lei-13033-2014-09-24"}
+],
+"controle": []
+}

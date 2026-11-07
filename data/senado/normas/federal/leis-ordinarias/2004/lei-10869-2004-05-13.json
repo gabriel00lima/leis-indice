@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2004/lei-10869-2004-05-13",
+"urn": "urn:lex:br:federal:lei:2004-05-13;10869",
+"consultado_em": "2026-11-07",
+"codigo": "552745",
+"nome": "Lei nº 10.869 de 13/05/2004",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2004-05-14", "descricao": "Publicação Original [Diário Oficial da União de 14/05/2004] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2007-06-15", "nome": "Medida Provisória nº 375 de 15/06/2007", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}]},
+{"data": "2007-06-18", "nome": "Medida Provisória nº 377 de 18/06/2007", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]},
+{"data": "2007-10-04", "nome": "Lei nº 11.526 de 04/10/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}], "id": "federal/leis-ordinarias/2007/lei-11526-2007-10-04"},
+{"data": "2008-07-23", "nome": "Lei nº 11.754 de 23/07/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2008/lei-11754-2008-07-23"}
+],
+"controle": [
+{"data": "2019-10-03", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 3.145 de 03/10/2019", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "3145"}}
+]
+}

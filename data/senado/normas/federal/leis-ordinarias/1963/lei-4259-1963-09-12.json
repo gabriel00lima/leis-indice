@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1963/lei-4259-1963-09-12",
+"urn": "urn:lex:br:federal:lei:1963-09-12;4259",
+"consultado_em": "2026-11-07",
+"codigo": "546106",
+"nome": "Lei nº 4.259 de 12/09/1963",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1963-10-07", "descricao": "Publicação Original [Diário Oficial da União de 07/10/1963] (p. 6457, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-03-29", "nome": "Decreto nº 58.100 de 29/03/1966", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1969-10-13", "nome": "Decreto-Lei nº 956 de 13/10/1969", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/decretos-lei/1969/del-956-1969-10-13"},
+{"data": "1975-07-07", "nome": "Lei nº 6.220 de 07/07/1975", "tipo": "Revigoração Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1975/lei-6220-1975-07-07"}
+],
+"controle": []
+}

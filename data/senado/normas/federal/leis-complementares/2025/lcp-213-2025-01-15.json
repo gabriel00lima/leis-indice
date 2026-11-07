@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-complementares/2025/lcp-213-2025-01-15",
+"urn": "urn:lex:br:federal:lei.complementar:2025-01-15;213",
+"consultado_em": "2026-11-07",
+"codigo": "40167942",
+"nome": "Lei Complementar nº 213 de 15/01/2025",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2025-01-16", "descricao": "Publicação Original [Diário Oficial da União de 16/01/2025] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2025-01-15", "nome": "Mensagem de Veto Parcial nº 51 de 15/01/2025", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2025-01-15", "nome": "Mensagem de Veto Parcial nº 51 de 15/01/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11, caput", "art": "11", "acao": "veto"}, {"dispositivo": "Art. 11, caput, Inciso 1", "art": "11", "acao": "veto"}, {"dispositivo": "Art. 11, caput, Inciso 2", "art": "11", "acao": "veto"}, {"dispositivo": "Art. 11, caput, Inciso 3", "art": "11", "acao": "veto"}, {"dispositivo": "Art. 11, caput, Inciso 4", "art": "11", "acao": "veto"}]}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1962/lei-4116-1962-08-27",
+"urn": "urn:lex:br:federal:lei:1962-08-27;4116",
+"consultado_em": "2026-11-07",
+"codigo": "545958",
+"nome": "Lei nº 4.116 de 27/08/1962",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-08-27", "descricao": "Publicação Original [Diário Oficial da União de 27/08/1962] (p. 8885, col. 1)"}
+],
+"alteracoes": [
+{"data": "1971-08-10", "nome": "Resolução do Senado Federal nº 31 de 10/08/1971", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "suspensão"}]},
+{"data": "1978-05-12", "nome": "Lei nº 6.530 de 12/05/1978", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1978/lei-6530-1978-05-12"}
+],
+"controle": []
+}

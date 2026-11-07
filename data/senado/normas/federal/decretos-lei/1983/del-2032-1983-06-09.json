@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1983/del-2032-1983-06-09",
+"urn": "urn:lex:br:federal:decreto.lei:1983-06-09;2032",
+"consultado_em": "2026-11-07",
+"codigo": "526673",
+"nome": "Decreto-Lei nº 2.032 de 09/06/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-06-10", "descricao": "Publicação Original [Diário Oficial da União de 10/06/1983] (p. 9931, col. 2)"}
+],
+"alteracoes": [
+{"data": "1983-09-19", "nome": "Decreto Legislativo nº 65 de 19/09/1983", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1983-10-03", "nome": "Decreto nº 88.783 de 03/10/1983", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1986-11-04", "nome": "Decreto nº 93.507 de 04/11/1986", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1987-11-11", "nome": "Decreto-Lei nº 2.369 de 11/11/1987", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/decretos-lei/1987/del-2369-1987-11-11"},
+{"data": "2013-01-11", "nome": "Lei nº 12.787 de 11/01/2013", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2013/lei-12787-2013-01-11"}
+],
+"controle": []
+}

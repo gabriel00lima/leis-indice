@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1987/del-2336-1987-06-15",
+"urn": "urn:lex:br:federal:decreto.lei:1987-06-15;2336",
+"consultado_em": "2026-11-07",
+"codigo": "527285",
+"nome": "Decreto-Lei nº 2.336 de 15/06/1987",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1987-06-16", "descricao": "Publicação Original [Diário Oficial da União de 16/06/1987] (p. 9269, col. 1)"}
+],
+"alteracoes": [
+{"data": "1987-06-18", "nome": "Decreto-Lei nº 2.337 de 18/06/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2337-1987-06-18"},
+{"data": "1988-08-26", "nome": "Decreto Legislativo nº 66 de 26/08/1988", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1989-01-31", "nome": "Lei nº 7.730 de 31/01/1989", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7730-1989-01-31"}
+],
+"controle": []
+}

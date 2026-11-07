@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1982/lei-6986-1982-04-13",
+"urn": "urn:lex:br:federal:lei:1982-04-13;6986",
+"consultado_em": "2026-11-07",
+"codigo": "548862",
+"nome": "Lei nº 6.986 de 13/04/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-04-14", "descricao": "Publicação Original [Diário Oficial da União de 14/04/1982] (p. 6444, col. 2)"}
+],
+"alteracoes": [
+{"data": "1984-12-27", "nome": "Decreto-Lei nº 2.202 de 27/12/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 4", "art": "3", "acao": "revogou"}], "id": "federal/decretos-lei/1984/del-2202-1984-12-27"},
+{"data": "1985-02-21", "nome": "Decreto-Lei nº 2.246 de 21/02/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 4", "art": "3", "acao": "revogou"}], "id": "federal/decretos-lei/1985/del-2246-1985-02-21"}
+],
+"controle": []
+}

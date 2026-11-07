@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-284-1948-05-27",
+"urn": "urn:lex:br:federal:lei:1948-05-27;284",
+"consultado_em": "2026-11-07",
+"codigo": "541446",
+"nome": "Lei nº 284 de 27/05/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-06-01", "descricao": "Publicação Original [Diário Oficial da União de 01/06/1948] (p. 8141, col. 4)"}
+],
+"alteracoes": [
+{"data": "1949-10-24", "nome": "Lei nº 886 de 24/10/1949", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1949/lei-886-1949-10-24"},
+{"data": "1951-07-06", "nome": "Lei nº 1.391 de 06/07/1951", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1951/lei-1391-1951-07-06"}
+],
+"controle": []
+}

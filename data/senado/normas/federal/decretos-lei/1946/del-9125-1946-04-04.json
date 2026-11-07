@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1946/del-9125-1946-04-04",
+"urn": "urn:lex:br:federal:decreto.lei:1946-04-04;9125",
+"consultado_em": "2026-11-07",
+"codigo": "534163",
+"nome": "Decreto-Lei nº 9.125 de 04/04/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-04-06", "descricao": "Publicação Original [Diário Oficial da União de 06/04/1946] (p. 5069, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-06-19", "nome": "Decreto-Lei nº 9.382 de 19/06/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9382-1946-06-19"},
+{"data": "1946-08-08", "nome": "Decreto-Lei nº 9.556 de 08/08/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9556-1946-08-08"},
+{"data": "1946-09-12", "nome": "Decreto-Lei nº 9.846 de 12/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9846-1946-09-12"}
+],
+"controle": []
+}

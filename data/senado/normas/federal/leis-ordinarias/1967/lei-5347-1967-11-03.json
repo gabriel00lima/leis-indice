@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1967/lei-5347-1967-11-03",
+"urn": "urn:lex:br:federal:lei:1967-11-03;5347",
+"consultado_em": "2026-11-07",
+"codigo": "547210",
+"nome": "Lei nº 5.347 de 03/11/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-11-07", "descricao": "Publicação Original [Diário Oficial da União de 07/11/1967] (p. 11271, col. 2)"}
+],
+"alteracoes": [
+{"data": "1991-06-12", "nome": "Lei nº 8.192 de 12/06/1991", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8192-1991-06-12"}
+],
+"controle": []
+}

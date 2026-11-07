@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1984/lei-7260-1984-12-03",
+"urn": "urn:lex:br:federal:lei:1984-12-03;7260",
+"consultado_em": "2026-11-07",
+"codigo": "549136",
+"nome": "Lei nº 7.260 de 03/12/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-12-04", "descricao": "Publicação Original [Diário Oficial da União de 04/12/1984] (p. 17931, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-07-08", "nome": "Lei nº 7.338 de 08/07/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7338-1985-07-08"}
+],
+"controle": []
+}

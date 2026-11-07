@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1998/lei-9716-1998-11-26",
+"urn": "urn:lex:br:federal:lei:1998-11-26;9716",
+"consultado_em": "2026-11-07",
+"codigo": "551592",
+"nome": "Lei nº 9.716 de 26/11/1998",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1998-11-27", "descricao": "Publicação Original [Diário Oficial da União de 27/11/1998] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2006-08-24", "nome": "Medida Provisória nº 320 de 24/08/2006", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, § 1", "art": "3", "acao": "alterou"}]},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

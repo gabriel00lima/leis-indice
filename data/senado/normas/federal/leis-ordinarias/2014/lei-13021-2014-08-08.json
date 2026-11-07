@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2014/lei-13021-2014-08-08",
+"urn": "urn:lex:br:federal:lei:2014-08-08;13021",
+"consultado_em": "2026-11-07",
+"codigo": "584832",
+"nome": "Lei nº 13.021 de 08/08/2014",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2014-08-11", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 11/08/2014] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2014-08-08", "nome": "Medida Provisória nº 653 de 08/08/2014", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 6, Parágrafo Único", "art": "6", "acao": "acrescentou"}]}
+],
+"controle": []
+}

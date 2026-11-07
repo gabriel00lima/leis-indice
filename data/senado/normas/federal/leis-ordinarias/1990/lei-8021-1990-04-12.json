@@ -1,0 +1,41 @@
+{
+"id": "federal/leis-ordinarias/1990/lei-8021-1990-04-12",
+"urn": "urn:lex:br:federal:lei:1990-04-12;8021",
+"consultado_em": "2026-11-07",
+"codigo": "549897",
+"nome": "Lei nº 8.021 de 12/04/1990",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1990-04-13", "descricao": "Publicação Original [Diário Oficial da União de 13/04/1990] (p. 7089, col. 2)"},
+{"tipo": "RET", "data": "1990-04-23", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 23/04/1990] (p. 7537, col. 1)"}
+],
+"alteracoes": [
+{"data": "1990-04-17", "nome": "Medida Provisória nº 181 de 17/04/1990", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1990-04-23", "nome": "Medida Provisória nº 182 de 23/04/1990", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1990-05-23", "nome": "Medida Provisória nº 186 de 23/05/1990", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1990-06-22", "nome": "Medida Provisória nº 192 de 22/06/1990", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1990-07-24", "nome": "Medida Provisória nº 197 de 24/07/1990", "tipo": "Ressalva Provisória da Norma no Todo", "dispositivos": []},
+{"data": "1990-07-26", "nome": "Medida Provisória nº 198 de 26/07/1990", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1990-08-23", "nome": "Lei nº 8.076 de 23/08/1990", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1990/lei-8076-1990-08-23"},
+{"data": "1993-11-11", "nome": "Medida Provisória nº 371 de 11/11/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-12-10", "nome": "Lei nº 8.749 de 10/12/1993", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1993/lei-8749-1993-12-10"},
+{"data": "1994-06-30", "nome": "Medida Provisória nº 542 de 30/06/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 2", "art": "2", "acao": "revogou"}]},
+{"data": "1994-07-29", "nome": "Medida Provisória nº 566 de 29/07/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "acao": "revogou"}]},
+{"data": "1994-08-26", "nome": "Medida Provisória nº 596 de 26/08/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "acao": "revogou"}]},
+{"data": "1994-09-27", "nome": "Medida Provisória nº 635 de 27/09/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "acao": "revogou"}]},
+{"data": "1994-10-27", "nome": "Medida Provisória nº 681 de 27/10/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "acao": "revogou"}]},
+{"data": "1994-11-25", "nome": "Medida Provisória nº 731 de 25/11/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "acao": "revogou"}]},
+{"data": "1994-12-23", "nome": "Medida Provisória nº 785 de 23/12/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "acao": "revogou"}]},
+{"data": "1995-01-20", "nome": "Medida Provisória nº 851 de 20/01/1995", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "acao": "revogou"}]},
+{"data": "1995-02-21", "nome": "Medida Provisória nº 911 de 21/02/1995", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "acao": "revogou"}]},
+{"data": "1995-03-23", "nome": "Medida Provisória nº 953 de 23/03/1995", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "acao": "revogou"}]},
+{"data": "1995-04-20", "nome": "Medida Provisória nº 978 de 20/04/1995", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "acao": "revogou"}]},
+{"data": "1995-05-19", "nome": "Medida Provisória nº 1.004 de 19/05/1995", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "acao": "revogou"}]},
+{"data": "1995-06-20", "nome": "Medida Provisória nº 1.027 de 20/06/1995", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "acao": "revogou"}]},
+{"data": "1995-06-29", "nome": "Lei nº 9.069 de 29/06/1995", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/1995/lei-9069-1995-06-29"},
+{"data": "1996-12-27", "nome": "Lei nº 9.430 de 27/12/1996", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, § 5", "art": "6", "acao": "revogou"}], "id": "federal/leis-ordinarias/1996/lei-9430-1996-12-27"},
+{"data": "2002-08-29", "nome": "Medida Provisória nº 66 de 29/08/2002", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 7, § 1", "art": "7", "acao": "alterou"}]},
+{"data": "2021-12-29", "nome": "Lei nº 14.286 de 29/12/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9, caput", "art": "9", "acao": "revogou"}], "id": "federal/leis-ordinarias/2021/lei-14286-2021-12-29"}
+],
+"controle": []
+}

@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1975/del-1405-1975-06-20",
+"urn": "urn:lex:br:federal:decreto.lei:1975-06-20;1405",
+"consultado_em": "2026-11-07",
+"codigo": "525432",
+"nome": "Decreto-Lei nº 1.405 de 20/06/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-06-23", "descricao": "Publicação Original [Diário Oficial da União de 23/06/1975] (p. 7449, col. 1)"}
+],
+"alteracoes": [
+{"data": "1975-08-29", "nome": "Decreto Legislativo nº 72 de 29/08/1975", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1982-01-20", "nome": "Decreto-Lei nº 1.923 de 20/01/1982", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1982/del-1923-1982-01-20"},
+{"data": "1988-08-30", "nome": "Decreto-Lei nº 2.463 de 30/08/1988", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1988/del-2463-1988-08-30"},
+{"data": "2018-06-11", "nome": "Medida Provisória nº 841 de 11/06/2018", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2018-12-12", "nome": "Lei nº 13.756 de 12/12/2018", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2018/lei-13756-2018-12-12"}
+],
+"controle": []
+}

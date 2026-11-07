@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1975/del-1387-1975-01-07",
+"urn": "urn:lex:br:federal:decreto.lei:1975-01-07;1387",
+"consultado_em": "2026-11-07",
+"codigo": "525396",
+"nome": "Decreto-Lei nº 1.387 de 07/01/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-01-08", "descricao": "Publicação Original [Diário Oficial da União de 08/01/1975] (p. 265, col. 1)"}
+],
+"alteracoes": [
+{"data": "1975-04-17", "nome": "Decreto Legislativo nº 33 de 17/04/1975", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1979-09-24", "nome": "Decreto-Lei nº 1.696 de 24/09/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1696-1979-09-24"},
+{"data": "1980-05-13", "nome": "Decreto-Lei nº 1.785 de 13/05/1980", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1980/del-1785-1980-05-13"}
+],
+"controle": []
+}

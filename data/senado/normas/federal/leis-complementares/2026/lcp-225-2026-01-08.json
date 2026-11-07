@@ -1,0 +1,24 @@
+{
+"id": "federal/leis-complementares/2026/lcp-225-2026-01-08",
+"urn": "urn:lex:br:federal:lei.complementar:2026-01-08;225",
+"consultado_em": "2026-11-07",
+"codigo": "41964432",
+"nome": "Lei Complementar nº 225 de 08/01/2026",
+"apelidos": [
+"Código de Defesa do Contribuinte"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2026-01-09", "descricao": "Publicação Original [Diário Oficial da União de 09/01/2026] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2026-01-08", "nome": "Mensagem de Veto Parcial nº 21 de 08/01/2026", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2026-01-08", "nome": "Mensagem de Veto Parcial nº 21 de 08/01/2026", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2026-01-08", "nome": "Mensagem de Veto Parcial nº 21 de 08/01/2026", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2026-01-08", "nome": "Mensagem de Veto Parcial nº 21 de 08/01/2026", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2026-01-08", "nome": "Mensagem de Veto Parcial nº 21 de 08/01/2026", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2026-01-08", "nome": "Mensagem de Veto Parcial nº 21 de 08/01/2026", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2026-01-08", "nome": "Mensagem de Veto Parcial nº 21 de 08/01/2026", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2026-01-08", "nome": "Mensagem de Veto Parcial nº 22 de 08/01/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8, caput, Inciso 2", "art": "8", "acao": "veto"}, {"dispositivo": "Art. 31, § 2, Inciso 1", "art": "31", "acao": "veto"}, {"dispositivo": "Art. 32, caput, Inciso 1", "art": "32", "acao": "veto"}, {"dispositivo": "Art. 32, caput, Inciso 3", "art": "32", "acao": "veto"}, {"dispositivo": "Art. 32, § 1", "art": "32", "acao": "veto"}, {"dispositivo": "Art. 32, § 3", "art": "32", "acao": "veto"}, {"dispositivo": "Art. 32, § 4, apenas o Caput", "art": "32", "acao": "veto"}, {"dispositivo": "Art. 32, § 4, Inciso 1", "art": "32", "acao": "veto"}, {"dispositivo": "Art. 32, § 4, Inciso 2", "art": "32", "acao": "veto"}]}
+],
+"controle": []
+}

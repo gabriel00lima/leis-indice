@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1946/del-9218-1946-05-01",
+"urn": "urn:lex:br:federal:decreto.lei:1946-05-01;9218",
+"consultado_em": "2026-11-07",
+"codigo": "534256",
+"nome": "Decreto-Lei nº 9.218 de 01/05/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-05-04", "descricao": "Publicação Original [Diário Oficial da União de 04/05/1946] (p. 6774, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-09-06", "nome": "Decreto-Lei nº 9.777 de 06/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9777-1946-09-06"},
+{"data": "1961-06-27", "nome": "Decreto nº 50.869 de 27/06/1961", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1963-06-17", "nome": "Lei nº 4.235 de 17/06/1963", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1963/lei-4235-1963-06-17"},
+{"data": "1964-08-21", "nome": "Lei nº 4.380 de 21/08/1964", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4380-1964-08-21"}
+],
+"controle": []
+}

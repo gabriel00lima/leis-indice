@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1985/lei-7326-1985-06-18",
+"urn": "urn:lex:br:federal:lei:1985-06-18;7326",
+"consultado_em": "2026-11-07",
+"codigo": "549202",
+"nome": "Lei nº 7.326 de 18/06/1985",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1985-06-19", "descricao": "Publicação Original [Diário Oficial da União de 19/06/1985] (p. 8564, col. 2)"}
+],
+"alteracoes": [
+{"data": "1985-11-25", "nome": "Decreto nº 91.983 de 25/11/1985", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1995-10-17", "nome": "Lei nº 9.114 de 17/10/1995", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/leis-ordinarias/1995/lei-9114-1995-10-17"},
+{"data": "1997-11-26", "nome": "Lei nº 9.519 de 26/11/1997", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9519-1997-11-26"}
+],
+"controle": []
+}

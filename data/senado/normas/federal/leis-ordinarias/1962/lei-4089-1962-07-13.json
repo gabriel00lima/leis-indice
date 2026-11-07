@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/1962/lei-4089-1962-07-13",
+"urn": "urn:lex:br:federal:lei:1962-07-13;4089",
+"consultado_em": "2026-11-07",
+"codigo": "545927",
+"nome": "Lei nº 4.089 de 13/07/1962",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-07-20", "descricao": "Publicação Original [Diário Oficial da União de 20/07/1962] (p. 7735, col. 1)"}
+],
+"alteracoes": [
+{"data": "1962-11-07", "nome": "Decreto do Conselho de MInistros nº 1.487 de 07/11/1962", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1964-06-26", "nome": "Lei nº 4.345 de 26/06/1964", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 29", "art": "29", "acao": "revogou"}, {"dispositivo": "Art. 29, § 1", "art": "29", "acao": "revogou"}, {"dispositivo": "Art. 29, § 2", "art": "29", "acao": "revogou"}, {"dispositivo": "Art. 29, § 3", "art": "29", "acao": "revogou"}], "id": "federal/leis-ordinarias/1964/lei-4345-1964-06-26"},
+{"data": "1966-11-18", "nome": "Decreto-Lei nº 52 de 18/11/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1966/del-52-1966-11-18"},
+{"data": "1967-08-16", "nome": "Decreto nº 61.160 de 16/08/1967", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1968-06-25", "nome": "Decreto nº 62.896 de 25/06/1968", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1973-10-03", "nome": "Decreto nº 72.872 de 03/10/1973", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1980-01-24", "nome": "Decreto nº 84.426 de 24/01/1980", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

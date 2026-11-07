@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1951/lei-1383-1951-06-13",
+"urn": "urn:lex:br:federal:lei:1951-06-13;1383",
+"consultado_em": "2026-11-07",
+"codigo": "543041",
+"nome": "Lei nº 1.383 de 13/06/1951",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1951-06-16", "descricao": "Publicação Original [Diário Oficial da União de 16/06/1951] (p. 9156, col. 1)"}
+],
+"alteracoes": [
+{"data": "1956-12-11", "nome": "Lei nº 3.000 de 11/12/1956", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-3000-1956-12-11"},
+{"data": "2021-12-29", "nome": "Lei nº 14.286 de 29/12/2021", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14286-2021-12-29"}
+],
+"controle": []
+}

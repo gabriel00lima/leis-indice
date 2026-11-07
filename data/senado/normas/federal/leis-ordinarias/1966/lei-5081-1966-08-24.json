@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1966/lei-5081-1966-08-24",
+"urn": "urn:lex:br:federal:lei:1966-08-24;5081",
+"consultado_em": "2026-11-07",
+"codigo": "546939",
+"nome": "Lei nº 5.081 de 24/08/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-08-26", "descricao": "Publicação Original [Diário Oficial da União de 26/08/1966] (p. 9843, col. 1)"}
+],
+"alteracoes": [
+{"data": "1975-06-30", "nome": "Lei nº 6.215 de 30/06/1975", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, caput, Item 3", "art": "6", "acao": "alterou"}], "id": "federal/leis-ordinarias/1975/lei-6215-1975-06-30"}
+],
+"controle": []
+}

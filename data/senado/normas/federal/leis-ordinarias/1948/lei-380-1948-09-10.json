@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-380-1948-09-10",
+"urn": "urn:lex:br:federal:lei:1948-09-10;380",
+"consultado_em": "2026-11-07",
+"codigo": "541654",
+"nome": "Lei nº 380 de 10/09/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-09-16", "descricao": "Publicação Original [Diário Oficial da União de 16/09/1948] (p. 13478, col. 3)"}
+],
+"alteracoes": [
+{"data": "1960-05-04", "nome": "Lei nº 3.765 de 04/05/1960", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1960/lei-3765-1960-05-04"}
+],
+"controle": []
+}

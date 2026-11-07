@@ -1,0 +1,55 @@
+{
+"id": "federal/leis-ordinarias/1999/lei-9883-1999-12-07",
+"urn": "urn:lex:br:federal:lei:1999-12-07;9883",
+"consultado_em": "2026-11-07",
+"codigo": "551759",
+"nome": "Lei nº 9.883 de 07/12/1999",
+"apelidos": [
+"Lei da Agência Brasileira de Inteligência (ABIN) (1999)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1999-12-08", "descricao": "Publicação Original [Diário Oficial da União de 08/12/1999] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2000-01-13", "nome": "Medida Provisória nº 1.999-14 de 13/01/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "2000-02-11", "nome": "Medida Provisória nº 1.999-15 de 11/02/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "2000-03-10", "nome": "Medida Provisória nº 1.999-16 de 10/03/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "2000-04-11", "nome": "Medida Provisória nº 1.999-17 de 11/04/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "2000-05-05", "nome": "Decreto nº 3.448 de 05/05/2000", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2000-05-11", "nome": "Medida Provisória nº 1.999-18 de 11/05/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "2000-05-29", "nome": "Decreto nº 3.493 de 29/05/2000", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2000-06-08", "nome": "Medida Provisória nº 1.999-19 de 08/06/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "2000-06-29", "nome": "Medida Provisória nº 2.049-20 de 29/06/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "2000-07-28", "nome": "Medida Provisória nº 2.049-21 de 28/07/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "2000-08-28", "nome": "Medida Provisória nº 2.049-22 de 28/08/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "2000-09-27", "nome": "Medida Provisória nº 2.049-23 de 27/09/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "2000-10-26", "nome": "Medida Provisória nº 2.049-24 de 26/10/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "2000-11-23", "nome": "Medida Provisória nº 2.049-25 de 23/11/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "2000-12-21", "nome": "Decreto nº 3.695 de 21/12/2000", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2000-12-21", "nome": "Medida Provisória nº 2.049-26 de 21/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "2000-12-27", "nome": "Medida Provisória nº 2.123-27 de 27/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "2001-01-26", "nome": "Medida Provisória nº 2.123-28 de 26/01/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]},
+{"data": "2001-02-23", "nome": "Medida Provisória nº 2.123-29 de 23/02/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 9-A", "art": "9-a", "acao": "alterou"}]},
+{"data": "2001-03-27", "nome": "Medida Provisória nº 2.123-30 de 27/03/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 9-A", "art": "9-a", "acao": "alterou"}]},
+{"data": "2001-04-02", "nome": "Medida Provisória nº 2.143-31 de 02/04/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 9-A", "art": "9-a", "acao": "alterou"}]},
+{"data": "2001-05-02", "nome": "Medida Provisória nº 2.143-32 de 02/05/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 9-A", "art": "9-a", "acao": "alterou"}]},
+{"data": "2001-05-31", "nome": "Medida Provisória nº 2.143-33 de 31/05/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 9-A", "art": "9-a", "acao": "alterou"}]},
+{"data": "2001-06-28", "nome": "Medida Provisória nº 2.143-34 de 28/06/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 9-A", "art": "9-a", "acao": "alterou"}]},
+{"data": "2001-07-27", "nome": "Medida Provisória nº 2.143-35 de 27/07/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 9-A", "art": "9-a", "acao": "alterou"}]},
+{"data": "2001-08-24", "nome": "Medida Provisória nº 2.143-36 de 24/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 9-A", "art": "9-a", "acao": "alterou"}]},
+{"data": "2001-08-31", "nome": "Medida Provisória nº 2.216-37 de 31/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 9-A", "art": "9-a", "acao": "alterou"}]},
+{"data": "2002-09-13", "nome": "Decreto nº 4.376 de 13/09/2002", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2008-03-24", "nome": "Decreto nº 6.408 de 24/03/2008", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2009-02-18", "nome": "Decreto de 18/02/2009", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2010-12-29", "nome": "Decreto nº 7.411 de 29/12/2010", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2013-11-22", "nome": "Resolução do Congresso Nacional nº 2 de 22/11/2013", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2016-06-29", "nome": "Decreto nº 8.793 de 29/06/2016", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "regulamentou"}]},
+{"data": "2016-11-17", "nome": "Decreto nº 8.905 de 17/11/2016", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2021-08-24", "nome": "Decreto nº 10.778 de 24/08/2021", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2023-09-06", "nome": "Decreto nº 11.693 de 06/09/2023", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2023-12-06", "nome": "Decreto nº 11.816 de 06/12/2023", "tipo": "Delegação de Competência", "dispositivos": [{"dispositivo": "Art. 8, § 2", "art": "8", "acao": "dispositivo com competência delegada"}]}
+],
+"controle": [
+{"data": "2020-08-13", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.529 de 13/08/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, Parágrafo Único", "art": "4", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}], "decisao": {"classe": "ADI", "numero": "6529"}}
+]
+}

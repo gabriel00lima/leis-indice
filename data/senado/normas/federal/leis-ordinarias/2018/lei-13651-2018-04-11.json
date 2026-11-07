@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2018/lei-13651-2018-04-11",
+"urn": "urn:lex:br:federal:lei:2018-04-11;13651",
+"consultado_em": "2026-11-07",
+"codigo": "26535657",
+"nome": "Lei nº 13.651 de 11/04/2018",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "ANX", "data": "2018-04-12", "descricao": "Publicação Original de Anexo (004 - Anexo IV) [Diário Oficial da União de 12/04/2018] (p. 3, col. 3)"},
+{"tipo": "ANX", "data": "2018-04-12", "descricao": "Publicação Original de Anexo (002 - Anexo II) [Diário Oficial da União de 12/04/2018] (p. 3, col. 2)"},
+{"tipo": "ANX", "data": "2018-04-12", "descricao": "Publicação Original de Anexo (003 - Anexo III) [Diário Oficial da União de 12/04/2018] (p. 3, col. 3)"},
+{"tipo": "PUB", "data": "2018-04-12", "descricao": "Publicação Original [Diário Oficial da União de 12/04/2018] (p. 2, col. 2)"},
+{"tipo": "ANX", "data": "2018-04-12", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União de 12/04/2018] (p. 3, col. 2)"},
+{"tipo": "ANX", "data": "2018-04-12", "descricao": "Publicação Original de Anexo (005 - Anexo V) [Diário Oficial da União de 12/04/2018] (p. 3, col. 3)"}
+],
+"alteracoes": [
+{"data": "2019-03-12", "nome": "Decreto nº 9.725 de 12/03/2019", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "com novo tratamento da matéria"}, {"dispositivo": "Art. 21", "art": "21", "acao": "com novo tratamento da matéria"}]}
+],
+"controle": []
+}

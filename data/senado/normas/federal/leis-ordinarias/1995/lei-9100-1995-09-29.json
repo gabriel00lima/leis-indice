@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9100-1995-09-29",
+"urn": "urn:lex:br:federal:lei:1995-09-29;9100",
+"consultado_em": "2026-11-07",
+"codigo": "550976",
+"nome": "Lei nº 9.100 de 29/09/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-10-02", "descricao": "Publicação Original [Diário Oficial da União de 02/10/1995] (p. 15333, col. 1)"}
+],
+"alteracoes": [
+{"data": "1996-08-29", "nome": "Lei nº 9.301 de 29/08/1996", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 75", "art": "75", "acao": "revogou"}], "id": "federal/leis-ordinarias/1996/lei-9301-1996-08-29"},
+{"data": "1997-09-30", "nome": "Lei nº 9.504 de 30/09/1997", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 50, § 2", "art": "50", "acao": "revogou"}, {"dispositivo": "Art. 64, § 1", "art": "64", "acao": "revogou"}], "id": "federal/leis-ordinarias/1997/lei-9504-1997-09-30"}
+],
+"controle": []
+}

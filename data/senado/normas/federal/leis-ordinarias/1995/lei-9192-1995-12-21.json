@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9192-1995-12-21",
+"urn": "urn:lex:br:federal:lei:1995-12-21;9192",
+"consultado_em": "2026-11-07",
+"codigo": "551068",
+"nome": "Lei nº 9.192 de 21/12/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/1995] (p. 21817, col. 1)"}
+],
+"alteracoes": [
+{"data": "1996-05-23", "nome": "Decreto nº 1.916 de 23/05/1996", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1998-03-13", "nome": "Medida Provisória nº 1.616-16 de 13/03/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "1998-04-07", "nome": "Medida Provisória nº 1.649-17 de 07/04/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "1998-05-04", "nome": "Medida Provisória nº 1.657-18 de 04/05/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "1998-05-25", "nome": "Lei nº 9.640 de 25/05/1998", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/1998/lei-9640-1998-05-25"},
+{"data": "2019-12-24", "nome": "Medida Provisória nº 914 de 24/12/2019", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []}
+],
+"controle": []
+}

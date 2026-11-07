@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1966/lei-5145-1966-10-20",
+"urn": "urn:lex:br:federal:lei:1966-10-20;5145",
+"consultado_em": "2026-11-07",
+"codigo": "547003",
+"nome": "Lei nº 5.145 de 20/10/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-10-24", "descricao": "Publicação Original [Diário Oficial da União de 24/10/1966] (p. 12204, col. 2)"}
+],
+"alteracoes": [
+{"data": "1973-12-27", "nome": "Lei nº 6.014 de 27/12/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-6014-1973-12-27"}
+],
+"controle": []
+}

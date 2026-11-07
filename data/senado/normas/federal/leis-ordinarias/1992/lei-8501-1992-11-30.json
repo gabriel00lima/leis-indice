@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1992/lei-8501-1992-11-30",
+"urn": "urn:lex:br:federal:lei:1992-11-30;8501",
+"consultado_em": "2026-11-07",
+"codigo": "550377",
+"nome": "Lei nº 8.501 de 30/11/1992",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1992-12-01", "descricao": "Publicação Original [Diário Oficial da União de 01/12/1992] (p. 16519, col. 1)"},
+{"tipo": "REP", "data": "1992-12-15", "descricao": "Republicação Integral (Seq. 1) [Diário Oficial da União de 15/12/1992] (p. 17208, col. 2)"}
+],
+"alteracoes": [
+{"data": "1993-07-22", "nome": "Decreto nº 879 de 22/07/1993", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

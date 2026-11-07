@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2000/lei-9967-2000-05-10",
+"urn": "urn:lex:br:federal:lei:2000-05-10;9967",
+"consultado_em": "2026-11-07",
+"codigo": "551843",
+"nome": "Lei nº 9.967 de 10/05/2000",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-05-11", "descricao": "Publicação Original [Diário Oficial da União de 11/05/2000] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-11-30", "nome": "Lei nº 14.253 de 30/11/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 2", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 3", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, caput, Inciso 4", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2021/lei-14253-2021-11-30"}
+],
+"controle": []
+}

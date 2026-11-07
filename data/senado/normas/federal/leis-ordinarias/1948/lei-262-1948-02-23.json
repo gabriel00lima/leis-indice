@@ -1,0 +1,31 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-262-1948-02-23",
+"urn": "urn:lex:br:federal:lei:1948-02-23;262",
+"consultado_em": "2026-11-07",
+"codigo": "541395",
+"nome": "Lei nº 262 de 23/02/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-02-25", "descricao": "Publicação Original [Diário Oficial da União de 25/02/1948] (p. 2609, col. 4)"}
+],
+"alteracoes": [
+{"data": "1948-03-23", "nome": "Decreto nº 24.697-A de 23/03/1948", "tipo": "Aprovação de Regulamento", "dispositivos": []},
+{"data": "1948-05-31", "nome": "Decreto nº 25.030 de 31/05/1948", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1948-06-09", "nome": "Decreto nº 25.071 de 09/06/1948", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1948-08-20", "nome": "Decreto nº 25.387 de 20/08/1948", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1948-09-03", "nome": "Decreto nº 25.442 de 03/09/1948", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1948-12-03", "nome": "Decreto nº 25.944 de 03/12/1948", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1948-12-14", "nome": "Decreto nº 26.015 de 14/12/1948", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1949-05-12", "nome": "Decreto nº 26.669 de 12/05/1949", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1949-06-30", "nome": "Lei nº 752 de 30/06/1949", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1949/lei-752-1949-06-30"},
+{"data": "1949-07-15", "nome": "Decreto nº 26.906 de 15/07/1949", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1949-09-16", "nome": "Decreto nº 27.188 de 16/09/1949", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1949-09-23", "nome": "Decreto nº 27.218 de 23/09/1949", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1949-10-04", "nome": "Lei nº 842 de 04/10/1949", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1949/lei-842-1949-10-04"},
+{"data": "1949-12-03", "nome": "Decreto nº 27.541 de 03/12/1949", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1951-06-28", "nome": "Lei nº 1.389 de 28/06/1951", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1951/lei-1389-1951-06-28"},
+{"data": "1952-10-03", "nome": "Decreto nº 31.535 de 03/10/1952", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1953-09-26", "nome": "Lei nº 1.991 de 26/09/1953", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1953/lei-1991-1953-09-26"}
+],
+"controle": []
+}

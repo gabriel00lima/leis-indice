@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5548-1968-12-02",
+"urn": "urn:lex:br:federal:lei:1968-12-02;5548",
+"consultado_em": "2026-11-07",
+"codigo": "547418",
+"nome": "Lei nº 5.548 de 02/12/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-12-04", "descricao": "Publicação Original [Diário Oficial da União de 04/12/1968] (p. 10489, col. 1)"}
+],
+"alteracoes": [
+{"data": "1968-12-27", "nome": "Decreto-Lei nº 390 de 27/12/1968", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1968/del-390-1968-12-27"}
+],
+"controle": []
+}

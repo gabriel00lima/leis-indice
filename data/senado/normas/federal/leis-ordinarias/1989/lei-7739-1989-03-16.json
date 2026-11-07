@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7739-1989-03-16",
+"urn": "urn:lex:br:federal:lei:1989-03-16;7739",
+"consultado_em": "2026-11-07",
+"codigo": "549615",
+"nome": "Lei nº 7.739 de 16/03/1989",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-03-20", "descricao": "Publicação Original [Diário Oficial da União de 20/03/1989] (p. 4257, col. 1)"}
+],
+"alteracoes": [
+{"data": "1989-11-03", "nome": "Decreto nº 98.356 de 03/11/1989", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

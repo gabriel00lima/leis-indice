@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2010/lei-12191-2010-01-13",
+"urn": "urn:lex:br:federal:lei:2010-01-13;12191",
+"consultado_em": "2026-11-07",
+"codigo": "575833",
+"nome": "Lei nº 12.191 de 13/01/2010",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2010-01-14", "descricao": "Publicação Original [Diário Oficial da União de 14/01/2010] (p. 1, col. 2)"},
+{"tipo": "RET", "data": "2010-01-15", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 15/01/2010] (p. 4, col. 2)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2021-11-03", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.377 de 03/11/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade de Parte do Texto"}], "decisao": {"classe": "ADI", "numero": "4377"}}
+]
+}

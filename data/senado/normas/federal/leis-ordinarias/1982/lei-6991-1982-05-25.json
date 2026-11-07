@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1982/lei-6991-1982-05-25",
+"urn": "urn:lex:br:federal:lei:1982-05-25;6991",
+"consultado_em": "2026-11-07",
+"codigo": "548867",
+"nome": "Lei nº 6.991 de 25/05/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-05-27", "descricao": "Publicação Original [Diário Oficial da União de 27/05/1982] (p. 9593, col. 1)"}
+],
+"alteracoes": [
+{"data": "1983-09-26", "nome": "Lei nº 7.125 de 26/09/1983", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1983/lei-7125-1983-09-26"}
+],
+"controle": []
+}

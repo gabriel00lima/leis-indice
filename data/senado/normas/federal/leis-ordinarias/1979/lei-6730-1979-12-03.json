@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1979/lei-6730-1979-12-03",
+"urn": "urn:lex:br:federal:lei:1979-12-03;6730",
+"consultado_em": "2026-11-07",
+"codigo": "548606",
+"nome": "Lei nº 6.730 de 03/12/1979",
+"apelidos": [
+"Lei Orçamentária Anual (LOA) (1980)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-12-04", "descricao": "Publicação Original [Diário Oficial da União de 04/12/1979] (p. 18137, col. 1)"},
+{"tipo": "RET", "data": "1980-01-14", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 14/01/1980] (p. 851, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-12-27", "nome": "Decreto-Lei nº 1.742 de 27/12/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1742-1979-12-27"},
+{"data": "1980-12-01", "nome": "Lei nº 6.865 de 01/12/1980", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1980/lei-6865-1980-12-01"}
+],
+"controle": []
+}

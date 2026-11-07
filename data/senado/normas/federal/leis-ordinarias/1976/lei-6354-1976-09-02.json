@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1976/lei-6354-1976-09-02",
+"urn": "urn:lex:br:federal:lei:1976-09-02;6354",
+"consultado_em": "2026-11-07",
+"codigo": "548230",
+"nome": "Lei nº 6.354 de 02/09/1976",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1976-09-03", "descricao": "Publicação Original [Diário Oficial da União de 03/09/1976] (p. 11687, col. 1)"},
+{"tipo": "RET", "data": "1976-09-09", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 09/09/1976] (p. 11880, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-12-19", "nome": "Decreto nº 92.180 de 19/12/1985", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1987-11-17", "nome": "Decreto nº 95.247 de 17/11/1987", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1998-03-24", "nome": "Lei nº 9.615 de 24/03/1998", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 2", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, caput, Inciso 5", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, § 1", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3, § 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "revogou"}, {"dispositivo": "Art. 15, § 2", "art": "15", "acao": "revogou"}, {"dispositivo": "Art. 16, Parágrafo Único", "art": "16", "acao": "revogou"}, {"dispositivo": "Art. 23", "art": "23", "acao": "revogou"}, {"dispositivo": "Art. 26", "art": "26", "acao": "revogou"}], "id": "federal/leis-ordinarias/1998/lei-9615-1998-03-24"}
+],
+"controle": []
+}

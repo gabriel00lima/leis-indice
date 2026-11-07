@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-976-1949-12-17",
+"urn": "urn:lex:br:federal:lei:1949-12-17;976",
+"consultado_em": "2026-11-07",
+"codigo": "542575",
+"nome": "Lei nº 976 de 17/12/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/1949] (p. 17657, col. 3)"}
+],
+"alteracoes": [
+{"data": "1950-12-02", "nome": "Lei nº 1.253 de 02/12/1950", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1950/lei-1253-1950-12-02"}
+],
+"controle": []
+}

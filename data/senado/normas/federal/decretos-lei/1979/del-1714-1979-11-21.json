@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1979/del-1714-1979-11-21",
+"urn": "urn:lex:br:federal:decreto.lei:1979-11-21;1714",
+"consultado_em": "2026-11-07",
+"codigo": "526038",
+"nome": "Decreto-Lei nº 1.714 de 21/11/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-11-22", "descricao": "Publicação Original [Diário Oficial da União de 22/11/1979] (p. 17380, col. 1)"}
+],
+"alteracoes": [
+{"data": "1980-05-06", "nome": "Decreto Legislativo nº 22 de 06/05/1980", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1983-11-23", "nome": "Lei nº 7.147 de 23/11/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1983/lei-7147-1983-11-23"},
+{"data": "1987-11-18", "nome": "Decreto-Lei nº 2.372 de 18/11/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2372-1987-11-18"},
+{"data": "1996-03-15", "nome": "Lei nº 9.266 de 15/03/1996", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1996/lei-9266-1996-03-15"}
+],
+"controle": []
+}

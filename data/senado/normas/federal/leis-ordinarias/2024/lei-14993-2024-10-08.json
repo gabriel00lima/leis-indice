@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2024/lei-14993-2024-10-08",
+"urn": "urn:lex:br:federal:lei:2024-10-08;14993",
+"consultado_em": "2026-11-07",
+"codigo": "39738545",
+"nome": "Lei nº 14.993 de 08/10/2024",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2024-10-09", "descricao": "Publicação Original [Diário Oficial da União de 09/10/2024] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2024-10-08", "nome": "Mensagem de Veto Parcial nº 1.244 de 08/10/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-10-08", "nome": "Mensagem de Veto Parcial nº 1.244 de 08/10/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-10-08", "nome": "Mensagem de Veto Parcial nº 1.244 de 08/10/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 24, caput", "art": "24", "acao": "veto"}]},
+{"data": "2024-10-08", "nome": "Mensagem de Veto Parcial nº 1.244 de 08/10/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2025-09-05", "nome": "Decreto nº 12.614 de 05/09/2025", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2026-08-12", "nome": "Decreto nº 13.094 de 12/08/2026", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "regulamentou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "regulamentou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "regulamentou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "regulamentou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "regulamentou"}]},
+{"data": "2026-08-12", "nome": "Decreto nº 13.095 de 12/08/2026", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 26", "art": "26", "acao": "regulamentou"}, {"dispositivo": "Art. 27", "art": "27", "acao": "regulamentou"}, {"dispositivo": "Art. 28", "art": "28", "acao": "regulamentou"}, {"dispositivo": "Art. 29", "art": "29", "acao": "regulamentou"}]}
+],
+"controle": []
+}

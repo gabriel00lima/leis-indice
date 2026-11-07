@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1185-1950-08-31",
+"urn": "urn:lex:br:federal:lei:1950-08-31;1185",
+"consultado_em": "2026-11-07",
+"codigo": "542811",
+"nome": "Lei nº 1.185 de 31/08/1950",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-08-31", "descricao": "Publicação Original [Diário Oficial da União de 31/08/1950] (p. 12897, col. 1)"}
+],
+"alteracoes": [
+{"data": "1952-05-22", "nome": "Lei nº 1.607 de 22/05/1952", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 1", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/1952/lei-1607-1952-05-22"}
+],
+"controle": []
+}

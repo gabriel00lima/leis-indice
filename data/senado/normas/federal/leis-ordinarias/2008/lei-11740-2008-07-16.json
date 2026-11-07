@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11740-2008-07-16",
+"urn": "urn:lex:br:federal:lei:2008-07-16;11740",
+"consultado_em": "2026-11-07",
+"codigo": "582162",
+"nome": "Lei nº 11.740 de 16/07/2008",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-07-17", "descricao": "Publicação Original [Diário Oficial da União de 17/07/2008] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2008-12-29", "nome": "Lei nº 11.892 de 29/12/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "alterou"}], "id": "federal/leis-ordinarias/2008/lei-11892-2008-12-29"}
+],
+"controle": []
+}

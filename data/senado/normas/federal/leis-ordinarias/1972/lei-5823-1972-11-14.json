@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1972/lei-5823-1972-11-14",
+"urn": "urn:lex:br:federal:lei:1972-11-14;5823",
+"consultado_em": "2026-11-07",
+"codigo": "547699",
+"nome": "Lei nº 5.823 de 14/11/1972",
+"apelidos": [
+"Lei dos Sucos (1972)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1972-11-17", "descricao": "Publicação Original [Diário Oficial da União de 17/11/1972] (p. 10241, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-12-06", "nome": "Decreto nº 73.267 de 06/12/1973", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1980-01-09", "nome": "Decreto nº 84.386 de 09/01/1980", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1981-12-21", "nome": "Decreto-Lei nº 1.899 de 21/12/1981", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}], "id": "federal/decretos-lei/1981/del-1899-1981-12-21"},
+{"data": "1994-07-14", "nome": "Lei nº 8.918 de 14/07/1994", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1994/lei-8918-1994-07-14"}
+],
+"controle": []
+}

@@ -1,0 +1,25 @@
+{
+"id": "federal/emendas-constitucionais/2004/emc-45-2004-12-08",
+"urn": "urn:lex:br:federal:emenda.constitucional:2004-12-08;45",
+"consultado_em": "2026-11-07",
+"codigo": "540648",
+"nome": "Emenda Constitucional nº 45 de 08/12/2004",
+"apelidos": [
+"PEC DA REFORMA DO JUDICIÁRIO"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2004-12-31", "descricao": "Publicação Original [Diário Oficial da União de 31/12/2004] (p. 9, col. 3)"}
+],
+"alteracoes": [
+{"data": "2005-04-27", "nome": "Resolução do Senado Federal nº 7 de 27/04/2005", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": [
+{"data": "2020-05-28", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 3.392 de 28/05/2020", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "constitucional", "texto": "Dispositivo com Parte de Texto Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "3392"}},
+{"data": "2020-05-28", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 3.423 de 28/05/2020", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "constitucional", "texto": "Dispositivo com Parte de Texto Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "3423"}},
+{"data": "2020-05-28", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 3.432 de 28/05/2020", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "constitucional", "texto": "Dispositivo com Parte de Texto Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "3432"}},
+{"data": "2020-05-28", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 3.520 de 28/05/2020", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "constitucional", "texto": "Dispositivo com Parte de Texto Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "3520"}},
+{"data": "2023-06-30", "nome": "Acórdão da Ação Direta de Inconstitucionalidade por Omissão nº 27 de 30/06/2023", "tipo": "Inconstitucionalidade por Omissão", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "efeito": "inconstitucional", "texto": "Dispositivo Declarado Inconstitucional por Omissão"}], "decisao": {"classe": "ADO", "numero": "27"}},
+{"data": "2023-09-11", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 3.486 de 11/09/2023", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "constitucional", "texto": "Dispositivo com Parte de Texto Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "3486"}},
+{"data": "2023-09-11", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 3.493 de 11/09/2023", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "constitucional", "texto": "Dispositivo com Parte de Texto Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "3493"}}
+]
+}

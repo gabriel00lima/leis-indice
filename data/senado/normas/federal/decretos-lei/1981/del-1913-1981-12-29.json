@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1981/del-1913-1981-12-29",
+"urn": "urn:lex:br:federal:decreto.lei:1981-12-29;1913",
+"consultado_em": "2026-11-07",
+"codigo": "526435",
+"nome": "Decreto-Lei nº 1.913 de 29/12/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/1981] (p. 25151, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-06-24", "nome": "Decreto Legislativo nº 61 de 24/06/1982", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1982-12-30", "nome": "Decreto-Lei nº 1.997 de 30/12/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1997-1982-12-30"}
+],
+"controle": []
+}

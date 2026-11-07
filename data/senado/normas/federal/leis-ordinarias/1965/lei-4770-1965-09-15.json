@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4770-1965-09-15",
+"urn": "urn:lex:br:federal:lei:1965-09-15;4770",
+"consultado_em": "2026-11-07",
+"codigo": "546623",
+"nome": "Lei nº 4.770 de 15/09/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-09-16", "descricao": "Publicação Original [Diário Oficial da União de 16/09/1965] (p. 9529, col. 1)"}
+],
+"alteracoes": [
+{"data": "1965-12-03", "nome": "Decreto nº 57.383 de 03/12/1965", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

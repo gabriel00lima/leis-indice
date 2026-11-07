@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1980/lei-6884-1980-12-09",
+"urn": "urn:lex:br:federal:lei:1980-12-09;6884",
+"consultado_em": "2026-11-07",
+"codigo": "548760",
+"nome": "Lei nº 6.884 de 09/12/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-12-11", "descricao": "Publicação Original [Diário Oficial da União de 11/12/1980] (p. 24789, col. 1)"}
+],
+"alteracoes": [
+{"data": "1994-07-04", "nome": "Lei nº 8.906 de 04/07/1994", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1994/lei-8906-1994-07-04"}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2005/lei-11098-2005-01-13",
+"urn": "urn:lex:br:federal:lei:2005-01-13;11098",
+"consultado_em": "2026-11-07",
+"codigo": "570547",
+"nome": "Lei nº 11.098 de 13/01/2005",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2005-01-14", "descricao": "Publicação Original [Diário Oficial da União de 14/01/2005] (p. 9, col. 3)"}
+],
+"alteracoes": [
+{"data": "2005-07-21", "nome": "Medida Provisória nº 258 de 21/07/2005", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}]},
+{"data": "2007-03-16", "nome": "Medida Provisória nº 359 de 16/03/2007", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 8, caput, Inciso 1", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 8, caput, Inciso 2", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 8, caput, Inciso 3", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 8, caput, Inciso 4", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 8, caput, Inciso 5", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 8, caput, Inciso 6", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 8, caput, Inciso 7", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}]},
+{"data": "2007-07-11", "nome": "Lei nº 11.501 de 11/07/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 8, caput, Inciso 1", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 8, caput, Inciso 2", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 8, caput, Inciso 3", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 8, caput, Inciso 4", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 8, caput, Inciso 6", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 8, caput, Inciso 7", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}], "id": "federal/leis-ordinarias/2007/lei-11501-2007-07-11"}
+],
+"controle": []
+}

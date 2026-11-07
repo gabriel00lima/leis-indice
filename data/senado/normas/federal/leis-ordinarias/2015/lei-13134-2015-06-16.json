@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2015/lei-13134-2015-06-16",
+"urn": "urn:lex:br:federal:lei:2015-06-16;13134",
+"consultado_em": "2026-11-07",
+"codigo": "584946",
+"nome": "Lei nº 13.134 de 16/06/2015",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2015-06-17", "descricao": "Publicação Original [Diário Oficial da União de 17/06/2015] (p. 1, col. 2)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2024-10-18", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.340 de 18/10/2024", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "constitucional", "texto": "Dispositivo com Parte de Texto Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "5340"}},
+{"data": "2024-10-18", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.389 de 18/10/2024", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "5389"}}
+]
+}

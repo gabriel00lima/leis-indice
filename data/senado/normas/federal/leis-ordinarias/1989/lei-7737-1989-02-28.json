@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7737-1989-02-28",
+"urn": "urn:lex:br:federal:lei:1989-02-28;7737",
+"consultado_em": "2026-11-07",
+"codigo": "549613",
+"nome": "Lei nº 7.737 de 28/02/1989",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-03-01", "descricao": "Publicação Original [Diário Oficial da União de 01/03/1989] (p. 3089, col. 1)"}
+],
+"alteracoes": [
+{"data": "1989-04-19", "nome": "Medida Provisória nº 48 de 19/04/1989", "tipo": "Novo Tratamento Provisório da Matería", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "com novo tratamento provisório da matéria"}]},
+{"data": "1989-05-22", "nome": "Medida Provisória nº 57 de 22/05/1989", "tipo": "Novo Tratamento Provisório da Matería", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "com novo tratamento provisório da matéria"}]},
+{"data": "1989-06-19", "nome": "Lei nº 7.777 de 19/06/1989", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "com novo tratamento da matéria"}], "id": "federal/leis-ordinarias/1989/lei-7777-1989-06-19"}
+],
+"controle": []
+}

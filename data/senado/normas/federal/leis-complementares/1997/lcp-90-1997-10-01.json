@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-complementares/1997/lcp-90-1997-10-01",
+"urn": "urn:lex:br:federal:lei.complementar:1997-10-01;90",
+"consultado_em": "2026-11-07",
+"codigo": "572845",
+"nome": "Lei Complementar nº 90 de 01/10/1997",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1997-10-02", "descricao": "Publicação Original [Diário Oficial da União de 02/10/1997] (p. 21909, col. 1)"},
+{"tipo": "RET", "data": "1997-10-06", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 06/10/1997] (p. 22313, col. 1)"},
+{"tipo": "RET", "data": "1997-10-07", "descricao": "Retificação (Seq. 2) [Diário Oficial da União de 07/10/1997] (p. 22377, col. 1)"}
+],
+"alteracoes": [
+{"data": "2015-01-12", "nome": "Lei Complementar nº 149 de 12/01/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 1", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, caput, Inciso 4", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 4, Parágrafo Único", "art": "4", "acao": "acrescentou"}], "id": "federal/leis-complementares/2015/lcp-149-2015-01-12"}
+],
+"controle": []
+}

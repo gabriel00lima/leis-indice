@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1984/lei-7238-1984-10-29",
+"urn": "urn:lex:br:federal:lei:1984-10-29;7238",
+"consultado_em": "2026-11-07",
+"codigo": "549114",
+"nome": "Lei nº 7.238 de 29/10/1984",
+"apelidos": [
+"Lei do Reajuste Salarial Automático (1984)",
+"Lei Marchezan (1984)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-10-31", "descricao": "Publicação Original [Diário Oficial da União de 31/10/1984] (p. 16001, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-02-27", "nome": "Decreto nº 91.001 de 27/02/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "alterou"}]},
+{"data": "1985-06-26", "nome": "Decreto nº 91.370 de 26/06/1985", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

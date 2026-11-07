@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2003/lei-10711-2003-08-05",
+"urn": "urn:lex:br:federal:lei:2003-08-05;10711",
+"consultado_em": "2026-11-07",
+"codigo": "552587",
+"nome": "Lei nº 10.711 de 05/08/2003",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2003-08-06", "descricao": "Publicação Original [Diário Oficial da União de 06/08/2003] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2004-07-23", "nome": "Decreto nº 5.153 de 23/07/2004", "tipo": "Aprovação de Regulamento", "dispositivos": []},
+{"data": "2020-12-18", "nome": "Decreto nº 10.586 de 18/12/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2022-12-29", "nome": "Lei nº 14.515 de 29/12/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 42, caput", "art": "42", "acao": "revogou"}, {"dispositivo": "Art. 42, caput, Inciso 1", "art": "42", "acao": "revogou"}, {"dispositivo": "Art. 42, caput, Inciso 2", "art": "42", "acao": "revogou"}, {"dispositivo": "Art. 43, caput, Inciso 1", "art": "43", "acao": "revogou"}, {"dispositivo": "Art. 43, caput, Inciso 2", "art": "43", "acao": "revogou"}, {"dispositivo": "Art. 43, caput, Inciso 3", "art": "43", "acao": "revogou"}, {"dispositivo": "Art. 43, caput, Inciso 4", "art": "43", "acao": "revogou"}, {"dispositivo": "Art. 43, caput, Inciso 5", "art": "43", "acao": "revogou"}, {"dispositivo": "Art. 43, caput, Inciso 6", "art": "43", "acao": "revogou"}], "id": "federal/leis-ordinarias/2022/lei-14515-2022-12-29"}
+],
+"controle": []
+}

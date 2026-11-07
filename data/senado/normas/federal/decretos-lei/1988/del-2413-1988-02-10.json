@@ -1,0 +1,21 @@
+{
+"id": "federal/decretos-lei/1988/del-2413-1988-02-10",
+"urn": "urn:lex:br:federal:decreto.lei:1988-02-10;2413",
+"consultado_em": "2026-11-07",
+"codigo": "527439",
+"nome": "Decreto-Lei nº 2.413 de 10/02/1988",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1988-02-11", "descricao": "Publicação Original [Diário Oficial da União de 11/02/1988] (p. 2497, col. 2)"},
+{"tipo": "RET", "data": "1988-02-12", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 12/02/1988] (p. 2593, col. 1)"}
+],
+"alteracoes": [
+{"data": "1988-04-14", "nome": "Decreto-Lei nº 2.429 de 14/04/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}], "id": "federal/decretos-lei/1988/del-2429-1988-04-14"},
+{"data": "1988-08-30", "nome": "Decreto-Lei nº 2.463 de 30/08/1988", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1988/del-2463-1988-08-30"},
+{"data": "1988-12-22", "nome": "Lei nº 7.713 de 22/12/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "alterou"}], "id": "federal/leis-ordinarias/1988/lei-7713-1988-12-22"},
+{"data": "1988-12-29", "nome": "Lei nº 7.714 de 29/12/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}], "id": "federal/leis-ordinarias/1988/lei-7714-1988-12-29"},
+{"data": "1989-06-14", "nome": "Decreto Legislativo nº 46 de 14/06/1989", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1989-12-28", "nome": "Lei nº 7.988 de 28/12/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1989/lei-7988-1989-12-28"}
+],
+"controle": []
+}

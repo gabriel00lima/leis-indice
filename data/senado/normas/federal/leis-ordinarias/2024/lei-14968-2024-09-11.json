@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2024/lei-14968-2024-09-11",
+"urn": "urn:lex:br:federal:lei:2024-09-11;14968",
+"consultado_em": "2026-11-07",
+"codigo": "39600111",
+"nome": "Lei nº 14.968 de 11/09/2024",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2024-09-12", "descricao": "Publicação Original [Diário Oficial da União de 12/09/2024] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2024-09-11", "nome": "Mensagem de Veto Parcial nº 1.060 de 11/09/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-09-11", "nome": "Mensagem de Veto Parcial nº 1.060 de 11/09/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11, Parágrafo Único", "art": "11", "acao": "veto"}]}
+],
+"controle": []
+}

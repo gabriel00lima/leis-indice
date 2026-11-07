@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1980/del-1835-1980-12-23",
+"urn": "urn:lex:br:federal:decreto.lei:1980-12-23;1835",
+"consultado_em": "2026-11-07",
+"codigo": "526279",
+"nome": "Decreto-Lei nº 1.835 de 23/12/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-12-24", "descricao": "Publicação Original [Diário Oficial da União de 24/12/1980] (p. 25827, col. 1)"},
+{"tipo": "RET", "data": "1981-01-15", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 15/01/1981] (p. 961, col. 1)"}
+],
+"alteracoes": [
+{"data": "1983-11-09", "nome": "Decreto-Lei nº 2.068 de 09/11/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2068-1983-11-09"}
+],
+"controle": []
+}

@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1999/lei-9876-1999-11-26",
+"urn": "urn:lex:br:federal:lei:1999-11-26;9876",
+"consultado_em": "2026-11-07",
+"codigo": "551752",
+"nome": "Lei nº 9.876 de 26/11/1999",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1999-11-29", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 29/11/1999] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "1999-12-06", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 06/12/1999] (p. 3, col. 2)"}
+],
+"alteracoes": [
+{"data": "1999-11-29", "nome": "Decreto nº 3.265 de 29/11/1999", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": [
+{"data": "2024-03-21", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.110 de 21/03/2024", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 3, § 1", "art": "3", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 3, § 2", "art": "3", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "2110"}},
+{"data": "2024-03-21", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.111 de 21/03/2024", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 3, § 1", "art": "3", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 3, § 2", "art": "3", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "2111"}}
+]
+}

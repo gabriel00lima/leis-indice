@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1967/lei-5355-1967-11-10",
+"urn": "urn:lex:br:federal:lei:1967-11-10;5355",
+"consultado_em": "2026-11-07",
+"codigo": "547219",
+"nome": "Lei nº 5.355 de 10/11/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-11-14", "descricao": "Publicação Original [Diário Oficial da União de 14/11/1967] (p. 11463, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-06-18", "nome": "Lei nº 7.326 de 18/06/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7326-1985-06-18"},
+{"data": "1997-11-26", "nome": "Lei nº 9.519 de 26/11/1997", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9519-1997-11-26"}
+],
+"controle": []
+}

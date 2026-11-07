@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1969/del-893-1969-09-26",
+"urn": "urn:lex:br:federal:decreto.lei:1969-09-26;893",
+"consultado_em": "2026-11-07",
+"codigo": "524411",
+"nome": "Decreto-Lei nº 893 de 26/09/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-09-29", "descricao": "Publicação Original [Diário Oficial da União de 29/09/1969] (p. 8161, col. 3)"}
+],
+"alteracoes": [
+{"data": "1972-08-29", "nome": "Decreto nº 71.037 de 29/08/1972", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1973-12-27", "nome": "Lei nº 6.014 de 27/12/1973", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-6014-1973-12-27"}
+],
+"controle": []
+}

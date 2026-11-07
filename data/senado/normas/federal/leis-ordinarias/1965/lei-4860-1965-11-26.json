@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4860-1965-11-26",
+"urn": "urn:lex:br:federal:lei:1965-11-26;4860",
+"consultado_em": "2026-11-07",
+"codigo": "546714",
+"nome": "Lei nº 4.860 de 26/11/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-11-29", "descricao": "Publicação Original [Diário Oficial da União de 29/11/1965] (p. 12073, col. 4)"}
+],
+"alteracoes": [
+{"data": "1967-01-31", "nome": "Decreto-Lei nº 126 de 31/01/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/decretos-lei/1967/del-126-1967-01-31"},
+{"data": "1975-12-29", "nome": "Decreto nº 76.925 de 29/12/1975", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

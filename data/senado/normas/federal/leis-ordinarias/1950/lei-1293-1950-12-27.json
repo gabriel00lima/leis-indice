@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1293-1950-12-27",
+"urn": "urn:lex:br:federal:lei:1950-12-27;1293",
+"consultado_em": "2026-11-07",
+"codigo": "542941",
+"nome": "Lei nº 1.293 de 27/12/1950",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-12-28", "descricao": "Publicação Original [Diário Oficial da União de 28/12/1950] (p. 18529, col. 1)"}
+],
+"alteracoes": [
+{"data": "1951-08-08", "nome": "Decreto nº 29.859 de 08/08/1951", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 70", "art": "70", "acao": "correlato"}]},
+{"data": "1951-09-20", "nome": "Decreto nº 30.003 de 20/09/1951", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 70", "art": "70", "acao": "correlato"}]},
+{"data": "1952-09-18", "nome": "Decreto nº 31.474 de 18/09/1952", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 70", "art": "70", "acao": "correlato"}]},
+{"data": "1952-10-17", "nome": "Decreto nº 31.615 de 17/10/1952", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 70", "art": "70", "acao": "correlato"}]},
+{"data": "1953-07-09", "nome": "Decreto nº 33.268 de 09/07/1953", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 70", "art": "70", "acao": "correlato"}]},
+{"data": "1953-12-31", "nome": "Decreto nº 34.872 de 31/12/1953", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 70", "art": "70", "acao": "correlato"}]},
+{"data": "1957-07-15", "nome": "Decreto nº 41.852 de 15/07/1957", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1959-03-24", "nome": "Decreto nº 45.623 de 24/03/1959", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 70", "art": "70", "acao": "correlato"}]},
+{"data": "1960-04-20", "nome": "Lei nº 3.756 de 20/04/1960", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 38", "art": "38", "acao": "revogou"}], "id": "federal/leis-ordinarias/1960/lei-3756-1960-04-20"}
+],
+"controle": []
+}

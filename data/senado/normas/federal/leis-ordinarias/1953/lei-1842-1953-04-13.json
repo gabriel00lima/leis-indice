@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1953/lei-1842-1953-04-13",
+"urn": "urn:lex:br:federal:lei:1953-04-13;1842",
+"consultado_em": "2026-11-07",
+"codigo": "543601",
+"nome": "Lei nº 1.842 de 13/04/1953",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1953-04-15", "descricao": "Publicação Original [Diário Oficial da União de 15/04/1953] (p. 6657, col. 1)"}
+],
+"alteracoes": [
+{"data": "1956-02-09", "nome": "Lei nº 2.725 de 09/02/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2725-1956-02-09"}
+],
+"controle": []
+}

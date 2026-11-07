@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2004/lei-10845-2004-03-05",
+"urn": "urn:lex:br:federal:lei:2004-03-05;10845",
+"consultado_em": "2026-11-07",
+"codigo": "552721",
+"nome": "Lei nº 10.845 de 05/03/2004",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2004-03-08", "descricao": "Publicação Original [Diário Oficial da União de 08/03/2004] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2007-06-20", "nome": "Lei nº 11.494 de 20/06/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 3", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/2007/lei-11494-2007-06-20"}
+],
+"controle": []
+}

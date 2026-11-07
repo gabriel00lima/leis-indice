@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1957/lei-3144-1957-05-20",
+"urn": "urn:lex:br:federal:lei:1957-05-20;3144",
+"consultado_em": "2026-11-07",
+"codigo": "573374",
+"nome": "Lei nº 3.144 de 20/05/1957",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1957-05-21", "descricao": "Publicação Original [Diário Oficial da União de 21/05/1957] (p. 12577, col. 3)"}
+],
+"alteracoes": [
+{"data": "1960-12-12", "nome": "Lei nº 3.834-B de 12/12/1960", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/leis-ordinarias/1960/lei-3834-b-1960-12-12"},
+{"data": "1964-06-03", "nome": "Decreto nº 53.943 de 03/06/1964", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

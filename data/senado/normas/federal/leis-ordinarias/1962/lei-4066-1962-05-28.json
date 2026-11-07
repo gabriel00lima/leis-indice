@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1962/lei-4066-1962-05-28",
+"urn": "urn:lex:br:federal:lei:1962-05-28;4066",
+"consultado_em": "2026-11-07",
+"codigo": "545899",
+"nome": "Lei nº 4.066 de 28/05/1962",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-06-05", "descricao": "Publicação Original [Diário Oficial da União de 05/06/1962] (p. 6149, col. 1)"}
+],
+"alteracoes": [
+{"data": "1965-07-13", "nome": "Lei nº 4.725 de 13/07/1965", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4725-1965-07-13"},
+{"data": "1968-07-09", "nome": "Lei nº 5.472 de 09/07/1968", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/1968/lei-5472-1968-07-09"},
+{"data": "1968-12-12", "nome": "Lei nº 5.562 de 12/12/1968", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1968/lei-5562-1968-12-12"}
+],
+"controle": []
+}

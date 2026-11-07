@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1974/lei-6071-1974-07-03",
+"urn": "urn:lex:br:federal:lei:1974-07-03;6071",
+"consultado_em": "2026-11-07",
+"codigo": "547947",
+"nome": "Lei nº 6.071 de 03/07/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-07-04", "descricao": "Publicação Original [Diário Oficial da União de 04/07/1974] (p. 7389, col. 2)"},
+{"tipo": "RET", "data": "1974-07-11", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 11/07/1974] (p. 7715, col. 3)"}
+],
+"alteracoes": [
+{"data": "1979-05-16", "nome": "Lei nº 6.649 de 16/05/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}], "id": "federal/leis-ordinarias/1979/lei-6649-1979-05-16"},
+{"data": "2009-08-07", "nome": "Lei nº 12.016 de 07/08/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2009/lei-12016-2009-08-07"}
+],
+"controle": []
+}

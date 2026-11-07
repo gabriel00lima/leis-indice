@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1984/del-2195-1984-12-26",
+"urn": "urn:lex:br:federal:decreto.lei:1984-12-26;2195",
+"consultado_em": "2026-11-07",
+"codigo": "527003",
+"nome": "Decreto-Lei nº 2.195 de 26/12/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-12-27", "descricao": "Publicação Original [Diário Oficial da União de 27/12/1984] (p. 19526, col. 2)"}
+],
+"alteracoes": [
+{"data": "1985-11-19", "nome": "Lei nº 7.407 de 19/11/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7407-1985-11-19"}
+],
+"controle": []
+}

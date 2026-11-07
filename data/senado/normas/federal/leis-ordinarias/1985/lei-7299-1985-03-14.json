@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1985/lei-7299-1985-03-14",
+"urn": "urn:lex:br:federal:lei:1985-03-14;7299",
+"consultado_em": "2026-11-07",
+"codigo": "549175",
+"nome": "Lei nº 7.299 de 14/03/1985",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1985-03-14", "descricao": "Publicação Original [Diário Oficial da União de 14/03/1985] (p. 4517, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-06-04", "nome": "Resolução da Câmara dos Deputados nº 7 de 04/06/1985", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1986-06-04", "nome": "Lei nº 7.483 de 04/06/1986", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7483-1986-06-04"}
+],
+"controle": []
+}

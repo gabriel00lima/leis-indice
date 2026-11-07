@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9795-1946-09-06",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-06;9795",
+"consultado_em": "2026-11-07",
+"codigo": "534835",
+"nome": "Decreto-Lei nº 9.795 de 06/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-10", "descricao": "Publicação Original [Diário Oficial da União de 10/09/1946] (p. 12588, col. 1)"}
+],
+"alteracoes": [
+{"data": "1952-10-01", "nome": "Lei nº 1.684 de 01/10/1952", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1952/lei-1684-1952-10-01"}
+],
+"controle": []
+}

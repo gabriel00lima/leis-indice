@@ -1,0 +1,27 @@
+{
+"id": "federal/decretos-lei/1981/del-1873-1981-05-27",
+"urn": "urn:lex:br:federal:decreto.lei:1981-05-27;1873",
+"consultado_em": "2026-11-07",
+"codigo": "526355",
+"nome": "Decreto-Lei nº 1.873 de 27/05/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-05-28", "descricao": "Publicação Original [Diário Oficial da União de 28/05/1981] (p. 9809, col. 2)"}
+],
+"alteracoes": [
+{"data": "1981-07-08", "nome": "Decreto-Lei nº 1.874 de 08/07/1981", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1981/del-1874-1981-07-08"},
+{"data": "1982-03-09", "nome": "Decreto Legislativo nº 2 de 09/03/1982", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1987-07-23", "nome": "Decreto nº 94.664 de 23/07/1987", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1987-07-23", "nome": "Decreto nº 94.667 de 23/07/1987", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1997-05-02", "nome": "Medida Provisória nº 1.573-7 de 02/05/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}]},
+{"data": "1997-06-03", "nome": "Medida Provisória nº 1.573-8 de 03/06/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}]},
+{"data": "1997-07-03", "nome": "Medida Provisória nº 1.573-9 de 03/07/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}]},
+{"data": "1997-07-31", "nome": "Medida Provisória nº 1.573-10 de 31/07/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}]},
+{"data": "1997-08-29", "nome": "Medida Provisória nº 1.573-11 de 29/08/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}]},
+{"data": "1997-09-26", "nome": "Medida Provisória nº 1.573-12 de 26/09/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}]},
+{"data": "1997-10-27", "nome": "Medida Provisória nº 1.573-13 de 27/10/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}]},
+{"data": "1997-11-10", "nome": "Medida Provisória nº 1.595-14 de 10/11/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Anexo 2", "art": null, "acao": "alterou"}]},
+{"data": "1997-12-10", "nome": "Lei nº 9.527 de 10/12/1997", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "alterou"}], "id": "federal/leis-ordinarias/1997/lei-9527-1997-12-10"}
+],
+"controle": []
+}

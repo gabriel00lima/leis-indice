@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1960/lei-3855-1960-12-18",
+"urn": "urn:lex:br:federal:lei:1960-12-18;3855",
+"consultado_em": "2026-11-07",
+"codigo": "545681",
+"nome": "Lei nº 3.855 de 18/12/1960",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1960-12-21", "descricao": "Publicação Original [Diário Oficial da União de 21/12/1960] (p. 16179, col. 2)"}
+],
+"alteracoes": [
+{"data": "1966-05-05", "nome": "Lei nº 4.962 de 05/05/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-4962-1966-05-05"}
+],
+"controle": []
+}

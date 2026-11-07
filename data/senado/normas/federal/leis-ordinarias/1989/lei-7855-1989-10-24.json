@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7855-1989-10-24",
+"urn": "urn:lex:br:federal:lei:1989-10-24;7855",
+"consultado_em": "2026-11-07",
+"codigo": "549731",
+"nome": "Lei nº 7.855 de 24/10/1989",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-10-25", "descricao": "Publicação Original [Diário Oficial da União de 25/10/1989] (p. 19212, col. 2)"}
+],
+"alteracoes": [
+{"data": "1989-11-14", "nome": "Medida Provisória nº 106 de 14/11/1989", "tipo": "Novo Tratamento Provisório da Matería", "dispositivos": [{"dispositivo": "Art. 7, § 2", "art": "7", "acao": "com novo tratamento provisório da matéria"}]},
+{"data": "1989-12-12", "nome": "Lei nº 7.923 de 12/12/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, § 2", "art": "7", "acao": "alterou"}], "id": "federal/leis-ordinarias/1989/lei-7923-1989-12-12"},
+{"data": "2019-11-11", "nome": "Medida Provisória nº 905 de 11/11/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 4", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4, caput", "art": "4", "acao": "alterou"}]}
+],
+"controle": []
+}

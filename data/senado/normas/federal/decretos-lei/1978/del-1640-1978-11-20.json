@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1978/del-1640-1978-11-20",
+"urn": "urn:lex:br:federal:decreto.lei:1978-11-20;1640",
+"consultado_em": "2026-11-07",
+"codigo": "525901",
+"nome": "Decreto-Lei nº 1.640 de 20/11/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-11-22", "descricao": "Publicação Original [Diário Oficial da União de 22/11/1978] (p. 18730, col. 2)"}
+],
+"alteracoes": [
+{"data": "1979-04-19", "nome": "Decreto Legislativo nº 1 de 19/04/1979", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1979-06-18", "nome": "Decreto-Lei nº 1.684 de 18/06/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1979/del-1684-1979-06-18"},
+{"data": "1979-09-12", "nome": "Decreto Legislativo nº 57 de 12/09/1979", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

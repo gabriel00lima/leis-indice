@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10470-2002-06-25",
+"urn": "urn:lex:br:federal:lei:2002-06-25;10470",
+"consultado_em": "2026-11-07",
+"codigo": "552346",
+"nome": "Lei nº 10.470 de 25/06/2002",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-06-26", "descricao": "Publicação Original [Diário Oficial da União de 26/06/2002] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2002-07-04", "nome": "Medida Provisória nº 52 de 04/07/2002", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}]},
+{"data": "2002-12-18", "nome": "Medida Provisória nº 86 de 18/12/2002", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}]},
+{"data": "2003-05-14", "nome": "Lei nº 10.667 de 14/05/2003", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2003/lei-10667-2003-05-14"},
+{"data": "2006-06-29", "nome": "Medida Provisória nº 301 de 29/06/2006", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2006-10-19", "nome": "Lei nº 11.355 de 19/10/2006", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 5", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2006/lei-11355-2006-10-19"},
+{"data": "2007-06-15", "nome": "Medida Provisória nº 375 de 15/06/2007", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "revogou"}]},
+{"data": "2007-10-04", "nome": "Lei nº 11.526 de 04/10/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Anexo 1", "art": null, "acao": "revogou"}], "id": "federal/leis-ordinarias/2007/lei-11526-2007-10-04"}
+],
+"controle": []
+}

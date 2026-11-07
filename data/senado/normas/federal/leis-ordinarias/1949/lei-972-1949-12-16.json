@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-972-1949-12-16",
+"urn": "urn:lex:br:federal:lei:1949-12-16;972",
+"consultado_em": "2026-11-07",
+"codigo": "542570",
+"nome": "Lei nº 972 de 16/12/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-12-19", "descricao": "Publicação Original [Diário Oficial da União de 19/12/1949] (p. 17516, col. 3)"}
+],
+"alteracoes": [
+{"data": "1953-11-02", "nome": "Lei nº 2.058 de 02/11/1953", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1953/lei-2058-1953-11-02"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10603-2002-12-17",
+"urn": "urn:lex:br:federal:lei:2002-12-17;10603",
+"consultado_em": "2026-11-07",
+"codigo": "552479",
+"nome": "Lei nº 10.603 de 17/12/2002",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-12-18", "descricao": "Publicação Original [Diário Oficial da União de 18/12/2002] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2024-12-23", "nome": "Lei nº 15.070 de 23/12/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2024/lei-15070-2024-12-23"}
+],
+"controle": []
+}

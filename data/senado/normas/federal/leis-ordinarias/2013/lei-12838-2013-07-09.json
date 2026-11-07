@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2013/lei-12838-2013-07-09",
+"urn": "urn:lex:br:federal:lei:2013-07-09;12838",
+"consultado_em": "2026-11-07",
+"codigo": "591286",
+"nome": "Lei nº 12.838 de 09/07/2013",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2013-07-10", "descricao": "Publicação Original [Diário Oficial da União de 10/07/2013] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2020-03-30", "nome": "Medida Provisória nº 930 de 30/03/2020", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2020-07-28", "nome": "Lei nº 14.031 de 28/07/2020", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "correlato"}, {"dispositivo": "Art. 4", "art": "4", "acao": "correlato"}, {"dispositivo": "Art. 5", "art": "5", "acao": "correlato"}, {"dispositivo": "Art. 6", "art": "6", "acao": "correlato"}, {"dispositivo": "Art. 7", "art": "7", "acao": "correlato"}, {"dispositivo": "Art. 8", "art": "8", "acao": "correlato"}, {"dispositivo": "Art. 9", "art": "9", "acao": "correlato"}], "id": "federal/leis-ordinarias/2020/lei-14031-2020-07-28"}
+],
+"controle": []
+}

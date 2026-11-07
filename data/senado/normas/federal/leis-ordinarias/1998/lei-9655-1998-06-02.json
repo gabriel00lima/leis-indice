@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1998/lei-9655-1998-06-02",
+"urn": "urn:lex:br:federal:lei:1998-06-02;9655",
+"consultado_em": "2026-11-07",
+"codigo": "551531",
+"nome": "Lei nº 9.655 de 02/06/1998",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1998-06-03", "descricao": "Publicação Original [Diário Oficial da União de 03/06/1998] (p. 1, col. 2)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2020-04-24", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.179 de 24/04/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, caput", "art": "5", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}, {"dispositivo": "Art. 5, caput", "art": "5", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade Parcial sem Redução do Texto"}], "decisao": {"classe": "ADI", "numero": "5179"}}
+]
+}

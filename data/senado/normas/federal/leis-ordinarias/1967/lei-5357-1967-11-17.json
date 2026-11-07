@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1967/lei-5357-1967-11-17",
+"urn": "urn:lex:br:federal:lei:1967-11-17;5357",
+"consultado_em": "2026-11-07",
+"codigo": "547221",
+"nome": "Lei nº 5.357 de 17/11/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-11-20", "descricao": "Publicação Original [Diário Oficial da União de 20/11/1967] (p. 11647, col. 1)"}
+],
+"alteracoes": [
+{"data": "2000-04-28", "nome": "Lei nº 9.966 de 28/04/2000", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2000/lei-9966-2000-04-28"}
+],
+"controle": []
+}

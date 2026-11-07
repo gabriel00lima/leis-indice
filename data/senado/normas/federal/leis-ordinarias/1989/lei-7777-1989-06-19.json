@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7777-1989-06-19",
+"urn": "urn:lex:br:federal:lei:1989-06-19;7777",
+"consultado_em": "2026-11-07",
+"codigo": "549653",
+"nome": "Lei nº 7.777 de 19/06/1989",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-06-20", "descricao": "Publicação Original [Diário Oficial da União de 20/06/1989] (p. 9865, col. 1)"}
+],
+"alteracoes": [
+{"data": "1989-07-11", "nome": "Lei nº 7.801 de 11/07/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}], "id": "federal/leis-ordinarias/1989/lei-7801-1989-07-11"},
+{"data": "1991-03-01", "nome": "Lei nº 8.177 de 01/03/1991", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}], "id": "federal/leis-ordinarias/1991/lei-8177-1991-03-01"}
+],
+"controle": []
+}

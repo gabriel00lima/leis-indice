@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2018/lei-13726-2018-10-08",
+"urn": "urn:lex:br:federal:lei:2018-10-08;13726",
+"consultado_em": "2026-11-07",
+"codigo": "30229942",
+"nome": "Lei nº 13.726 de 08/10/2018",
+"apelidos": [
+"Lei da Desburocratização (2018)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2018-10-09", "descricao": "Publicação Original [Diário Oficial da União de 09/10/2018] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2018-10-08", "nome": "Mensagem de Veto Parcial nº 565 de 08/10/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-10-08", "nome": "Mensagem de Veto Parcial nº 565 de 08/10/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-10-08", "nome": "Mensagem de Veto Parcial nº 565 de 08/10/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-10-08", "nome": "Mensagem de Veto Parcial nº 565 de 08/10/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "veto"}, {"dispositivo": "Art. 4, caput", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 4, Parágrafo Único", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 10, caput", "art": "10", "acao": "veto"}]}
+],
+"controle": []
+}

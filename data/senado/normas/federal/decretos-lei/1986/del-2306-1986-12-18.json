@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1986/del-2306-1986-12-18",
+"urn": "urn:lex:br:federal:decreto.lei:1986-12-18;2306",
+"consultado_em": "2026-11-07",
+"codigo": "527225",
+"nome": "Decreto-Lei nº 2.306 de 18/12/1986",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-12-19", "descricao": "Publicação Original [Diário Oficial da União de 19/12/1986] (p. 19209, col. 2)"}
+],
+"alteracoes": [
+{"data": "1989-06-08", "nome": "Medida Provisória nº 66 de 08/06/1989", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

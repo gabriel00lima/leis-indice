@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1984/del-2126-1984-06-19",
+"urn": "urn:lex:br:federal:decreto.lei:1984-06-19;2126",
+"consultado_em": "2026-11-07",
+"codigo": "526861",
+"nome": "Decreto-Lei nº 2.126 de 19/06/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-06-20", "descricao": "Publicação Original [Diário Oficial da União de 20/06/1984] (p. 8819, col. 2)"}
+],
+"alteracoes": [
+{"data": "1984-12-04", "nome": "Decreto Legislativo nº 59 de 04/12/1984", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1985-01-28", "nome": "Decreto-Lei nº 2.239 de 28/01/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1985/del-2239-1985-01-28"},
+{"data": "1985-03-13", "nome": "Decreto-Lei nº 2.269 de 13/03/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1985/del-2269-1985-03-13"},
+{"data": "1986-03-31", "nome": "Lei nº 7.455 de 31/03/1986", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7455-1986-03-31"}
+],
+"controle": []
+}

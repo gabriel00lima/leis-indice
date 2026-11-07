@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1958/lei-3520-1958-12-30",
+"urn": "urn:lex:br:federal:lei:1958-12-30;3520",
+"consultado_em": "2026-11-07",
+"codigo": "545336",
+"nome": "Lei nº 3.520 de 30/12/1958",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1958-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/1958] (p. 27496, col. 4)"}
+],
+"alteracoes": [
+{"data": "1961-05-20", "nome": "Decreto nº 50.642 de 20/05/1961", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1961-06-26", "nome": "Decreto nº 50.851 de 26/06/1961", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1962-11-28", "nome": "Lei nº 4.153 de 28/11/1962", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1962/lei-4153-1962-11-28"},
+{"data": "1968-04-25", "nome": "Lei nº 5.421 de 25/04/1968", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/1968/lei-5421-1968-04-25"}
+],
+"controle": []
+}

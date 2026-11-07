@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-complementares/2018/lcp-162-2018-04-06",
+"urn": "urn:lex:br:federal:lei.complementar:2018-04-06;162",
+"consultado_em": "2026-11-07",
+"codigo": "26525929",
+"nome": "Lei Complementar nº 162 de 06/04/2018",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2018-04-09", "descricao": "Publicação Original [Diário Oficial da União de 09/04/2018] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2019-06-12", "nome": "Lei Complementar nº 168 de 12/06/2019", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-complementares/2019/lcp-168-2019-06-12"},
+{"data": "2022-03-17", "nome": "Lei Complementar nº 193 de 17/03/2022", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "correlato"}], "id": "federal/leis-complementares/2022/lcp-193-2022-03-17"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1973/lei-5999-1973-12-18",
+"urn": "urn:lex:br:federal:lei:1973-12-18;5999",
+"consultado_em": "2026-11-07",
+"codigo": "547875",
+"nome": "Lei nº 5.999 de 18/12/1973",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/1973] (p. 13115, col. 4)"}
+],
+"alteracoes": [
+{"data": "1983-11-07", "nome": "Lei nº 7.137 de 07/11/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1983/lei-7137-1983-11-07"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9859-1946-09-13",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-13;9859",
+"consultado_em": "2026-11-07",
+"codigo": "534896",
+"nome": "Decreto-Lei nº 9.859 de 13/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-16", "descricao": "Publicação Original [Diário Oficial da União de 16/09/1946] (p. 12949, col. 1)"}
+],
+"alteracoes": [
+{"data": "1956-11-08", "nome": "Lei nº 2.943 de 08/11/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2943-1956-11-08"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1984/del-2182-1984-12-11",
+"urn": "urn:lex:br:federal:decreto.lei:1984-12-11;2182",
+"consultado_em": "2026-11-07",
+"codigo": "526977",
+"nome": "Decreto-Lei nº 2.182 de 11/12/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-12-12", "descricao": "Publicação Original [Diário Oficial da União de 12/12/1984] (p. 18551, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-12-23", "nome": "Lei nº 7.450 de 23/12/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7450-1985-12-23"}
+],
+"controle": []
+}

@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2021/lei-14286-2021-12-29",
+"urn": "urn:lex:br:federal:lei:2021-12-29;14286",
+"consultado_em": "2026-11-07",
+"codigo": "35368728",
+"nome": "Lei nº 14.286 de 29/12/2021",
+"apelidos": [
+"Marco Legal do Câmbio (2021)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/2021] (p. 6, col. 1)"}
+],
+"alteracoes": [
+{"data": "2023-06-14", "nome": "Lei nº 14.596 de 14/06/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 24", "art": "24", "acao": "revogou"}], "id": "federal/leis-ordinarias/2023/lei-14596-2023-06-14"},
+{"data": "2023-08-23", "nome": "Lei nº 14.651 de 23/08/2023", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14651-2023-08-23"},
+{"data": "2023-08-23", "nome": "Lei nº 14.651 de 23/08/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14, § 4", "art": "14", "acao": "alterou"}, {"dispositivo": "Art. 14, § 5", "art": "14", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2023/lei-14651-2023-08-23"}
+],
+"controle": []
+}

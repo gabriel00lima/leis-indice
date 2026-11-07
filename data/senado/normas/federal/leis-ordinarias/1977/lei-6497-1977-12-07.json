@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6497-1977-12-07",
+"urn": "urn:lex:br:federal:lei:1977-12-07;6497",
+"consultado_em": "2026-11-07",
+"codigo": "548373",
+"nome": "Lei nº 6.497 de 07/12/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-12-09", "descricao": "Publicação Original [Diário Oficial da União de 09/12/1977] (p. 16872, col. 2)"}
+],
+"alteracoes": [
+{"data": "1979-07-24", "nome": "Lei nº 6.677 de 24/07/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6677-1979-07-24"},
+{"data": "1982-12-29", "nome": "Lei nº 7.087 de 29/12/1982", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7087-1982-12-29"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-971-1949-12-16",
+"urn": "urn:lex:br:federal:lei:1949-12-16;971",
+"consultado_em": "2026-11-07",
+"codigo": "542569",
+"nome": "Lei nº 971 de 16/12/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-12-19", "descricao": "Publicação Original [Diário Oficial da União de 19/12/1949] (p. 17513, col. 3)"}
+],
+"alteracoes": [
+{"data": "1972-10-11", "nome": "Decreto nº 71.243 de 11/10/1972", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

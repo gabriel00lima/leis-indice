@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1975/del-1402-1975-05-23",
+"urn": "urn:lex:br:federal:decreto.lei:1975-05-23;1402",
+"consultado_em": "2026-11-07",
+"codigo": "525426",
+"nome": "Decreto-Lei nº 1.402 de 23/05/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-05-26", "descricao": "Publicação Original [Diário Oficial da União de 26/05/1975] (p. 6257, col. 1)"},
+{"tipo": "RET", "data": "1975-06-04", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 04/06/1975] (p. 6658, col. 2)"}
+],
+"alteracoes": [
+{"data": "1975-08-18", "nome": "Decreto Legislativo nº 66 de 18/08/1975", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1976-12-20", "nome": "Decreto-Lei nº 1.496 de 20/12/1976", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1976/del-1496-1976-12-20"},
+{"data": "1977-04-27", "nome": "Decreto Legislativo nº 14 de 27/04/1977", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

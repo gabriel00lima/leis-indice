@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1980/del-1839-1980-12-23",
+"urn": "urn:lex:br:federal:decreto.lei:1980-12-23;1839",
+"consultado_em": "2026-11-07",
+"codigo": "526287",
+"nome": "Decreto-Lei nº 1.839 de 23/12/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-12-24", "descricao": "Publicação Original [Diário Oficial da União de 24/12/1980] (p. 25829, col. 1)"},
+{"tipo": "REP", "data": "1980-12-31", "descricao": "Republicação Integral (Seq. 1) [Diário Oficial da União de 31/12/1980] (p. 26290, col. 2)"}
+],
+"alteracoes": [
+{"data": "1981-12-29", "nome": "Decreto-Lei nº 1.913 de 29/12/1981", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1981/del-1913-1981-12-29"}
+],
+"controle": []
+}

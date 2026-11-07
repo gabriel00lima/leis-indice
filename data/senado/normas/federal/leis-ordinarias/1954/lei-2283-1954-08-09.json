@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1954/lei-2283-1954-08-09",
+"urn": "urn:lex:br:federal:lei:1954-08-09;2283",
+"consultado_em": "2026-11-07",
+"codigo": "544067",
+"nome": "Lei nº 2.283 de 09/08/1954",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1954-08-11", "descricao": "Publicação Original [Diário Oficial da União de 11/08/1954] (p. 13905, col. 1)"}
+],
+"alteracoes": [
+{"data": "1956-01-19", "nome": "Lei nº 2.710 de 19/01/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2710-1956-01-19"},
+{"data": "1960-07-30", "nome": "Lei nº 3.783 de 30/07/1960", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1960/lei-3783-1960-07-30"}
+],
+"controle": []
+}

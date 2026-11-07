@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1984/del-2107-1984-02-13",
+"urn": "urn:lex:br:federal:decreto.lei:1984-02-13;2107",
+"consultado_em": "2026-11-07",
+"codigo": "526823",
+"nome": "Decreto-Lei nº 2.107 de 13/02/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-02-14", "descricao": "Publicação Original [Diário Oficial da União de 14/02/1984] (p. 2233, col. 1)"}
+],
+"alteracoes": [
+{"data": "1984-09-06", "nome": "Decreto-Lei nº 2.160 de 06/09/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2160-1984-09-06"},
+{"data": "1985-03-13", "nome": "Decreto-Lei nº 2.269 de 13/03/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1985/del-2269-1985-03-13"}
+],
+"controle": []
+}

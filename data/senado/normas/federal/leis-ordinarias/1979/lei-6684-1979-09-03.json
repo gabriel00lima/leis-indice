@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1979/lei-6684-1979-09-03",
+"urn": "urn:lex:br:federal:lei:1979-09-03;6684",
+"consultado_em": "2026-11-07",
+"codigo": "548560",
+"nome": "Lei nº 6.684 de 03/09/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-09-04", "descricao": "Publicação Original [Diário Oficial da União de 04/09/1979] (p. 12761, col. 1)"}
+],
+"alteracoes": [
+{"data": "1980-08-06", "nome": "Decreto nº 85.005 de 06/08/1980", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1981-06-02", "nome": "Decreto nº 86.062 de 02/06/1981", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1982-08-30", "nome": "Lei nº 7.017 de 30/08/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7017-1982-08-30"},
+{"data": "1983-06-28", "nome": "Decreto nº 88.438 de 28/06/1983", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1983-06-28", "nome": "Decreto nº 88.439 de 28/06/1983", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1995-09-19", "nome": "Lei nº 9.098 de 19/09/1995", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 25, § 8", "art": "25", "acao": "revogou"}, {"dispositivo": "Art. 25, § 10", "art": "25", "acao": "revogou"}], "id": "federal/leis-ordinarias/1995/lei-9098-1995-09-19"}
+],
+"controle": []
+}

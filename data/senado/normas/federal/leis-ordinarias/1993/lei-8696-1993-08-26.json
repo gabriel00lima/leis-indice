@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1993/lei-8696-1993-08-26",
+"urn": "urn:lex:br:federal:lei:1993-08-26;8696",
+"consultado_em": "2026-11-07",
+"codigo": "550572",
+"nome": "Lei nº 8.696 de 26/08/1993",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-08-27", "descricao": "Publicação Original [Diário Oficial da União de 27/08/1993] (p. 12681, col. 1)"}
+],
+"alteracoes": [
+{"data": "1996-12-27", "nome": "Lei nº 9.430 de 27/12/1996", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/1996/lei-9430-1996-12-27"}
+],
+"controle": []
+}

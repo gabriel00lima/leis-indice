@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2015/lei-13169-2015-10-06",
+"urn": "urn:lex:br:federal:lei:2015-10-06;13169",
+"consultado_em": "2026-11-07",
+"codigo": "584981",
+"nome": "Lei nº 13.169 de 06/10/2015",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2015-10-07", "descricao": "Publicação Original [Diário Oficial da União de 07/10/2015] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2016-11-17", "nome": "Lei nº 13.360 de 17/11/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8, § 1", "art": "8", "acao": "vetado"}, {"dispositivo": "Art. 8, § 2", "art": "8", "acao": "vetado"}, {"dispositivo": "Art. 8, § 3", "art": "8", "acao": "vetado"}], "id": "federal/leis-ordinarias/2016/lei-13360-2016-11-17"}
+],
+"controle": [
+{"data": "2020-06-15", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.485 de 15/06/2020", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "5485"}},
+{"data": "2021-04-16", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.101 de 16/04/2021", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "4101"}}
+]
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2004/lei-11034-2004-12-22",
+"urn": "urn:lex:br:federal:lei:2004-12-22;11034",
+"consultado_em": "2026-11-07",
+"codigo": "570483",
+"nome": "Lei nº 11.034 de 22/12/2004",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2004-12-23", "descricao": "Publicação Original [Diário Oficial da União de 23/12/2004] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2006-06-29", "nome": "Medida Provisória nº 301 de 29/06/2006", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "revogou"}]},
+{"data": "2006-10-19", "nome": "Lei nº 11.355 de 19/10/2006", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Anexo 2", "art": null, "acao": "revogou"}], "id": "federal/leis-ordinarias/2006/lei-11355-2006-10-19"}
+],
+"controle": []
+}

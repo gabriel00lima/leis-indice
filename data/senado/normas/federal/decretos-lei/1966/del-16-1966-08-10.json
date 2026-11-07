@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1966/del-16-1966-08-10",
+"urn": "urn:lex:br:federal:decreto.lei:1966-08-10;16",
+"consultado_em": "2026-11-07",
+"codigo": "522674",
+"nome": "Decreto-Lei nº 16 de 10/08/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-08-11", "descricao": "Publicação Original [Diário Oficial da União de 11/08/1966] (p. 9211, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-11-18", "nome": "Decreto-Lei nº 56 de 18/11/1966", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1966/del-56-1966-11-18"},
+{"data": "1997-02-20", "nome": "Lei nº 9.437 de 20/02/1997", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9437-1997-02-20"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/emendas-constitucionais/1977/emc-9-1977-06-28",
+"urn": "urn:lex:br:federal:emenda.constitucional:1977-06-28;9",
+"consultado_em": "2026-11-07",
+"codigo": "593601",
+"nome": "Emenda Constitucional nº 9 de 28/06/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-06-29", "descricao": "Publicação Original [Diário Oficial da União de 29/06/1977] (p. 8121, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-12-26", "nome": "Lei nº 6.515 de 26/12/1977", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/leis-ordinarias/1977/lei-6515-1977-12-26"}
+],
+"controle": []
+}

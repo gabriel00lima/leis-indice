@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1937/lei-470-1937-08-09",
+"urn": "urn:lex:br:federal:lei:1937-08-09;470",
+"consultado_em": "2026-11-07",
+"codigo": "541849",
+"nome": "Lei nº 470 de 09/08/1937",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1937-08-20", "descricao": "Publicação Original [Diário Oficial da União de 20/08/1937] (p. 17607, col. 2)"}
+],
+"alteracoes": [
+{"data": "1937-12-16", "nome": "Decreto-Lei nº 72 de 16/12/1937", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 3", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}], "id": "federal/decretos-lei/1937/del-72-1937-12-16"}
+],
+"controle": []
+}

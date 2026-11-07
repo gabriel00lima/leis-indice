@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11678-2008-05-19",
+"urn": "urn:lex:br:federal:lei:2008-05-19;11678",
+"consultado_em": "2026-11-07",
+"codigo": "582100",
+"nome": "Lei nº 11.678 de 19/05/2008",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-05-20", "descricao": "Publicação Original [Diário Oficial da União de 20/05/2008] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2025-07-17", "nome": "Lei nº 15.168 de 17/07/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Ementa", "art": null, "acao": "alterou"}, {"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/2025/lei-15168-2025-07-17"}
+],
+"controle": []
+}

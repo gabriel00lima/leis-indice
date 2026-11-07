@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1945/del-7449-1945-04-09",
+"urn": "urn:lex:br:federal:decreto.lei:1945-04-09;7449",
+"consultado_em": "2026-11-07",
+"codigo": "532547",
+"nome": "Decreto-Lei nº 7.449 de 09/04/1945",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1945-04-11", "descricao": "Publicação Original [Diário Oficial da União de 11/04/1945] (p. 6449, col. 1)"},
+{"tipo": "REP", "data": "1945-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1945 - vol. 003] (p. 30, col. 1)"}
+],
+"alteracoes": [
+{"data": "1945-10-24", "nome": "Decreto-Lei nº 8.127 de 24/10/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-8127-1945-10-24"}
+],
+"controle": []
+}

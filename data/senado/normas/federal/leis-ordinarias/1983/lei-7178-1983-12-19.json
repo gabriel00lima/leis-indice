@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1983/lei-7178-1983-12-19",
+"urn": "urn:lex:br:federal:lei:1983-12-19;7178",
+"consultado_em": "2026-11-07",
+"codigo": "549054",
+"nome": "Lei nº 7.178 de 19/12/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/1983] (p. 21273, col. 2)"}
+],
+"alteracoes": [
+{"data": "1984-11-13", "nome": "Lei nº 7.246 de 13/11/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1984/lei-7246-1984-11-13"},
+{"data": "1984-12-20", "nome": "Lei nº 7.297 de 20/12/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1984/lei-7297-1984-12-20"},
+{"data": "1993-03-12", "nome": "Lei nº 8.634 de 12/03/1993", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1993/lei-8634-1993-03-12"}
+],
+"controle": []
+}

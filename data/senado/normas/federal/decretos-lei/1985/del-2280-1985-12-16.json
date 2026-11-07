@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1985/del-2280-1985-12-16",
+"urn": "urn:lex:br:federal:decreto.lei:1985-12-16;2280",
+"consultado_em": "2026-11-07",
+"codigo": "527173",
+"nome": "Decreto-Lei nº 2.280 de 16/12/1985",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1985-12-17", "descricao": "Publicação Original [Diário Oficial da União de 17/12/1985] (p. 18450, col. 2)"}
+],
+"alteracoes": [
+{"data": "1988-09-14", "nome": "Decreto-Lei nº 2.475 de 14/09/1988", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1988/del-2475-1988-09-14"}
+],
+"controle": []
+}
