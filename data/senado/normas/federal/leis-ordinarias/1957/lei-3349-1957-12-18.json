@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1957/lei-3349-1957-12-18",
+"urn": "urn:lex:br:federal:lei:1957-12-18;3349",
+"consultado_em": "2026-11-08",
+"codigo": "545150",
+"nome": "Lei nº 3.349 de 18/12/1957",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1957-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/1957] (p. 28525, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-12-01", "nome": "Lei nº 7.049 de 01/12/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7049-1982-12-01"}
+],
+"controle": []
+}

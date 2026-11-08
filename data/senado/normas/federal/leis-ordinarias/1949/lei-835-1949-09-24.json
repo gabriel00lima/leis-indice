@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-835-1949-09-24",
+"urn": "urn:lex:br:federal:lei:1949-09-24;835",
+"consultado_em": "2026-11-08",
+"codigo": "542414",
+"nome": "Lei nº 835 de 24/09/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-09-29", "descricao": "Publicação Original [Diário Oficial da União de 29/09/1949] (p. 13953, col. 3)"}
+],
+"alteracoes": [
+{"data": "1950-12-28", "nome": "Lei nº 1.297 de 28/12/1950", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1950/lei-1297-1950-12-28"}
+],
+"controle": []
+}

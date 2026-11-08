@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1960/lei-3798-1960-08-02",
+"urn": "urn:lex:br:federal:lei:1960-08-02;3798",
+"consultado_em": "2026-11-08",
+"codigo": "545620",
+"nome": "Lei nº 3.798 de 02/08/1960",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1960-08-06", "descricao": "Publicação Original [Diário Oficial da União de 06/08/1960] (p. 11111, col. 2)"}
+],
+"alteracoes": [
+{"data": "1961-12-15", "nome": "Lei nº 4.005 de 15/12/1961", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1961/lei-4005-1961-12-15"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4656-1965-06-02",
+"urn": "urn:lex:br:federal:lei:1965-06-02;4656",
+"consultado_em": "2026-11-08",
+"codigo": "546509",
+"nome": "Lei nº 4.656 de 02/06/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-06-03", "descricao": "Publicação Original [Diário Oficial da União de 03/06/1965] (p. 5258, col. 4)"}
+],
+"alteracoes": [
+{"data": "1969-10-13", "nome": "Decreto-Lei nº 940 de 13/10/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-940-1969-10-13"}
+],
+"controle": []
+}

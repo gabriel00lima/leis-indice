@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1986/del-2302-1986-11-21",
+"urn": "urn:lex:br:federal:decreto.lei:1986-11-21;2302",
+"consultado_em": "2026-11-08",
+"codigo": "527217",
+"nome": "Decreto-Lei nº 2.302 de 21/11/1986",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-11-24", "descricao": "Publicação Original [Diário Oficial da União de 24/11/1986] (p. 17561, col. 1)"}
+],
+"alteracoes": [
+{"data": "1987-06-12", "nome": "Decreto-Lei nº 2.335 de 12/06/1987", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2335-1987-06-12"}
+],
+"controle": []
+}

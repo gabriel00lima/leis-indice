@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1983/del-2047-1983-07-20",
+"urn": "urn:lex:br:federal:decreto.lei:1983-07-20;2047",
+"consultado_em": "2026-11-08",
+"codigo": "526703",
+"nome": "Decreto-Lei nº 2.047 de 20/07/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-07-21", "descricao": "Publicação Original [Diário Oficial da União de 21/07/1983] (p. 12905, col. 2)"}
+],
+"alteracoes": [
+{"data": "1983-10-10", "nome": "Decreto Legislativo nº 80 de 10/10/1983", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": [
+{"data": "1995-05-22", "nome": "Resolução do Senado Federal nº 18 de 22/05/1995", "tipo": "Suspensão de Execução por Inconstitucionalidade da Norma No Todo", "dispositivos": [], "efeito": "inconstitucional"}
+]
+}

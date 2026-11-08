@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1983/del-2021-1983-05-18",
+"urn": "urn:lex:br:federal:decreto.lei:1983-05-18;2021",
+"consultado_em": "2026-11-08",
+"codigo": "526651",
+"nome": "Decreto-Lei nº 2.021 de 18/05/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-05-19", "descricao": "Publicação Original [Diário Oficial da União de 19/05/1983] (p. 8445, col. 1)"}
+],
+"alteracoes": [
+{"data": "1983-07-20", "nome": "Decreto-Lei nº 2.046 de 20/07/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}], "id": "federal/decretos-lei/1983/del-2046-1983-07-20"},
+{"data": "1983-08-23", "nome": "Decreto-Lei nº 2.058 de 23/08/1983", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2058-1983-08-23"}
+],
+"controle": []
+}

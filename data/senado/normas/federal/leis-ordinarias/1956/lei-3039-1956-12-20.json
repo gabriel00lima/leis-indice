@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1956/lei-3039-1956-12-20",
+"urn": "urn:lex:br:federal:lei:1956-12-20;3039",
+"consultado_em": "2026-11-08",
+"codigo": "544892",
+"nome": "Lei nº 3.039 de 20/12/1956",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1956-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/1956] (p. 24201, col. 2)"}
+],
+"alteracoes": [
+{"data": "1957-09-03", "nome": "Decreto nº 42.218 de 03/09/1957", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1957-09-20", "nome": "Decreto nº 42.315 de 20/09/1957", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1959-04-17", "nome": "Decreto nº 45.830 de 17/04/1959", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1961-07-26", "nome": "Lei nº 3.928 de 26/07/1961", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1961/lei-3928-1961-07-26"}
+],
+"controle": []
+}

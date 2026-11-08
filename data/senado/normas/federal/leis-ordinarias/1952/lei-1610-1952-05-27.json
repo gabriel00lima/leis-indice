@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1952/lei-1610-1952-05-27",
+"urn": "urn:lex:br:federal:lei:1952-05-27;1610",
+"consultado_em": "2026-11-08",
+"codigo": "543313",
+"nome": "Lei nº 1.610 de 27/05/1952",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1952-05-30", "descricao": "Publicação Original [Diário Oficial da União de 30/05/1952] (p. 9041, col. 1)"}
+],
+"alteracoes": [
+{"data": "1955-09-10", "nome": "Lei nº 2.595 de 10/09/1955", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1955/lei-2595-1955-09-10"},
+{"data": "1958-12-30", "nome": "Lei nº 3.516 de 30/12/1958", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1958/lei-3516-1958-12-30"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1961/lei-3963-1961-09-20",
+"urn": "urn:lex:br:federal:lei:1961-09-20;3963",
+"consultado_em": "2026-11-08",
+"codigo": "545795",
+"nome": "Lei nº 3.963 de 20/09/1961",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1961-09-22", "descricao": "Publicação Original [Diário Oficial da União de 22/09/1961] (p. 8499, col. 1)"}
+],
+"alteracoes": [
+{"data": "1964-12-11", "nome": "Lei nº 4.568 de 11/12/1964", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4568-1964-12-11"}
+],
+"controle": []
+}

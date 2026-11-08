@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4788-1965-10-13",
+"urn": "urn:lex:br:federal:lei:1965-10-13;4788",
+"consultado_em": "2026-11-08",
+"codigo": "546642",
+"nome": "Lei nº 4.788 de 13/10/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-10-15", "descricao": "Publicação Original [Diário Oficial da União de 15/10/1965] (p. 10537, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-12-30", "nome": "Decreto-Lei nº 99 de 30/12/1966", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1966/del-99-1966-12-30"}
+],
+"controle": []
+}

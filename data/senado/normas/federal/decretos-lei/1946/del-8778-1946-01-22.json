@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-8778-1946-01-22",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-22;8778",
+"consultado_em": "2026-11-08",
+"codigo": "533814",
+"nome": "Decreto-Lei nº 8.778 de 22/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-24", "descricao": "Publicação Original [Diário Oficial da União de 24/01/1946] (p. 1207, col. 4)"}
+],
+"alteracoes": [
+{"data": "1959-10-10", "nome": "Lei nº 3.640 de 10/10/1959", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1959/lei-3640-1959-10-10"},
+{"data": "1986-06-25", "nome": "Lei nº 7.498 de 25/06/1986", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7498-1986-06-25"}
+],
+"controle": []
+}

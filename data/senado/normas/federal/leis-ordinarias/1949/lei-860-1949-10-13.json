@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-860-1949-10-13",
+"urn": "urn:lex:br:federal:lei:1949-10-13;860",
+"consultado_em": "2026-11-08",
+"codigo": "542441",
+"nome": "Lei nº 860 de 13/10/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-10-15", "descricao": "Publicação Original [Diário Oficial da União de 15/10/1949] (p. 14699, col. 2)"}
+],
+"alteracoes": [
+{"data": "1950-07-25", "nome": "Decreto nº 28.418 de 25/07/1950", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1954-06-05", "nome": "Lei nº 2.217 de 05/06/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2217-1954-06-05"},
+{"data": "1954-09-24", "nome": "Decreto nº 36.226 de 24/09/1954", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

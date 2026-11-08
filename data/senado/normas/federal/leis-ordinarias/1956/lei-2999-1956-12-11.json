@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1956/lei-2999-1956-12-11",
+"urn": "urn:lex:br:federal:lei:1956-12-11;2999",
+"consultado_em": "2026-11-08",
+"codigo": "544845",
+"nome": "Lei nº 2.999 de 11/12/1956",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1956-12-13", "descricao": "Publicação Original [Diário Oficial da União de 13/12/1956] (p. 23681, col. 1)"}
+],
+"alteracoes": [
+{"data": "1957-07-25", "nome": "Decreto nº 41.894 de 25/07/1957", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

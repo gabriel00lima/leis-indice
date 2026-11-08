@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1955/lei-2634-1955-10-26",
+"urn": "urn:lex:br:federal:lei:1955-10-26;2634",
+"consultado_em": "2026-11-08",
+"codigo": "544444",
+"nome": "Lei nº 2.634 de 26/10/1955",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1955-11-01", "descricao": "Publicação Original [Diário Oficial da União de 01/11/1955] (p. 20281, col. 1)"}
+],
+"alteracoes": [
+{"data": "1957-11-11", "nome": "Lei nº 3.306 de 11/11/1957", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1957/lei-3306-1957-11-11"}
+],
+"controle": []
+}

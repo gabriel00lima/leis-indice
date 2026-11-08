@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1961/lei-3868-1961-01-30",
+"urn": "urn:lex:br:federal:lei:1961-01-30;3868",
+"consultado_em": "2026-11-08",
+"codigo": "545699",
+"nome": "Lei nº 3.868 de 30/01/1961",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1961-01-30", "descricao": "Publicação Original [Diário Oficial da União de 30/01/1961] (p. 833, col. 1)"}
+],
+"alteracoes": [
+{"data": "1970-05-20", "nome": "Decreto nº 66.598 de 20/05/1970", "tipo": "Aprovação de Estatuto", "dispositivos": []}
+],
+"controle": []
+}

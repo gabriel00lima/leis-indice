@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-495-1948-11-26",
+"urn": "urn:lex:br:federal:lei:1948-11-26;495",
+"consultado_em": "2026-11-08",
+"codigo": "541905",
+"nome": "Lei nº 495 de 26/11/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-12-07", "descricao": "Publicação Original [Diário Oficial da União de 07/12/1948] (p. 17421, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-12-07", "nome": "Decreto-Lei nº 1.642 de 07/12/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1978/del-1642-1978-12-07"}
+],
+"controle": []
+}

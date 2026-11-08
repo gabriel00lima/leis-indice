@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4476-1964-11-12",
+"urn": "urn:lex:br:federal:lei:1964-11-12;4476",
+"consultado_em": "2026-11-08",
+"codigo": "546327",
+"nome": "Lei nº 4.476 de 12/11/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-11-17", "descricao": "Publicação Original [Diário Oficial da União de 17/11/1964] (p. 10395, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-11-23", "nome": "Decreto-Lei nº 77 de 23/11/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1966/del-77-1966-11-23"},
+{"data": "1969-04-23", "nome": "Decreto-Lei nº 548 de 23/04/1969", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1969/del-548-1969-04-23"}
+],
+"controle": []
+}

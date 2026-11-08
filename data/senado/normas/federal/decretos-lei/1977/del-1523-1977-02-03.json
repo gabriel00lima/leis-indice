@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1977/del-1523-1977-02-03",
+"urn": "urn:lex:br:federal:decreto.lei:1977-02-03;1523",
+"consultado_em": "2026-11-08",
+"codigo": "525667",
+"nome": "Decreto-Lei nº 1.523 de 03/02/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-02-04", "descricao": "Publicação Original [Diário Oficial da União de 04/02/1977] (p. 1505, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-05-17", "nome": "Decreto Legislativo nº 43 de 17/05/1977", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1980-08-05", "nome": "Decreto-Lei nº 1.799 de 05/08/1980", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/decretos-lei/1980/del-1799-1980-08-05"}
+],
+"controle": []
+}

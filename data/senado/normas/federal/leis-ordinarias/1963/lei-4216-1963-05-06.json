@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1963/lei-4216-1963-05-06",
+"urn": "urn:lex:br:federal:lei:1963-05-06;4216",
+"consultado_em": "2026-11-08",
+"codigo": "546058",
+"nome": "Lei nº 4.216 de 06/05/1963",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1963-05-28", "descricao": "Publicação Original [Diário Oficial da União de 28/05/1963] (p. 4737, col. 1)"}
+],
+"alteracoes": [
+{"data": "1963-06-25", "nome": "Decreto nº 52.149 de 25/06/1963", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1964-07-16", "nome": "Lei nº 4.357 de 16/07/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4357-1964-07-16"},
+{"data": "1965-10-11", "nome": "Decreto nº 57.050 de 11/10/1965", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1966-08-04", "nome": "Decreto nº 58.989 de 04/08/1966", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1966-10-27", "nome": "Lei nº 5.174 de 27/10/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5174-1966-10-27"}
+],
+"controle": []
+}

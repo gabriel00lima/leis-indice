@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-841-1969-09-09",
+"urn": "urn:lex:br:federal:decreto.lei:1969-09-09;841",
+"consultado_em": "2026-11-08",
+"codigo": "524307",
+"nome": "Decreto-Lei nº 841 de 09/09/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-09-10", "descricao": "Publicação Original [Diário Oficial da União de 10/09/1969] (p. 7650, col. 4)"}
+],
+"alteracoes": [
+{"data": "1979-06-05", "nome": "Lei nº 6.655 de 05/06/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6655-1979-06-05"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1952/lei-1599-1952-05-09",
+"urn": "urn:lex:br:federal:lei:1952-05-09;1599",
+"consultado_em": "2026-11-08",
+"codigo": "543301",
+"nome": "Lei nº 1.599 de 09/05/1952",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1952-05-10", "descricao": "Publicação Original [Diário Oficial da União de 10/05/1952] (p. 7865, col. 1)"}
+],
+"alteracoes": [
+{"data": "1952-09-18", "nome": "Decreto nº 31.480 de 18/09/1952", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 10, § 3", "art": "10", "acao": "regulamentou"}]}
+],
+"controle": []
+}

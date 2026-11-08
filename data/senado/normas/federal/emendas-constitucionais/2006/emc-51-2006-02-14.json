@@ -1,0 +1,15 @@
+{
+"id": "federal/emendas-constitucionais/2006/emc-51-2006-02-14",
+"urn": "urn:lex:br:federal:emenda.constitucional:2006-02-14;51",
+"consultado_em": "2026-11-08",
+"codigo": "540654",
+"nome": "Emenda Constitucional nº 51 de 14/02/2006",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2006-02-15", "descricao": "Publicação Original [Diário Oficial da União de 15/02/2006] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2006-10-05", "nome": "Lei nº 11.350 de 05/10/2006", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "correlato"}], "id": "federal/leis-ordinarias/2006/lei-11350-2006-10-05"}
+],
+"controle": []
+}

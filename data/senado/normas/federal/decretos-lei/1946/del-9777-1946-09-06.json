@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1946/del-9777-1946-09-06",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-06;9777",
+"consultado_em": "2026-11-08",
+"codigo": "534817",
+"nome": "Decreto-Lei nº 9.777 de 06/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-17", "descricao": "Publicação Original [Diário Oficial da União de 17/09/1946] (p. 12995, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-05-01", "nome": "Decreto-Lei nº 9.218 de 01/05/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9218-1946-05-01"},
+{"data": "1951-11-24", "nome": "Lei nº 1.473 de 24/11/1951", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}], "id": "federal/leis-ordinarias/1951/lei-1473-1951-11-24"},
+{"data": "1961-06-27", "nome": "Decreto nº 50.869 de 27/06/1961", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

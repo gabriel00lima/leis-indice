@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4774-1965-09-15",
+"urn": "urn:lex:br:federal:lei:1965-09-15;4774",
+"consultado_em": "2026-11-08",
+"codigo": "546627",
+"nome": "Lei nº 4.774 de 15/09/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-09-20", "descricao": "Publicação Original [Diário Oficial da União de 20/09/1965] (p. 9625, col. 1)"}
+],
+"alteracoes": [
+{"data": "1986-04-16", "nome": "Lei nº 7.461 de 16/04/1986", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7461-1986-04-16"}
+],
+"controle": []
+}

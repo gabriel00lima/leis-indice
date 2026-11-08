@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9302-1946-05-27",
+"urn": "urn:lex:br:federal:decreto.lei:1946-05-27;9302",
+"consultado_em": "2026-11-08",
+"codigo": "534341",
+"nome": "Decreto-Lei nº 9.302 de 27/05/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-05-29", "descricao": "Publicação Original [Diário Oficial da União de 29/05/1946] (p. 7960, col. 4)"}
+],
+"alteracoes": [
+{"data": "1946-09-10", "nome": "Decreto-Lei nº 9.820 de 10/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9820-1946-09-10"}
+],
+"controle": []
+}

@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1982/del-1917-1982-01-12",
+"urn": "urn:lex:br:federal:decreto.lei:1982-01-12;1917",
+"consultado_em": "2026-11-08",
+"codigo": "526443",
+"nome": "Decreto-Lei nº 1.917 de 12/01/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-01-13", "descricao": "Publicação Original [Diário Oficial da União de 13/01/1982] (p. 537, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-06-30", "nome": "Decreto Legislativo nº 69 de 30/06/1982", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1983-01-06", "nome": "Decreto-Lei nº 2.004 de 06/01/1983", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2004-1983-01-06"},
+{"data": "1985-04-09", "nome": "Lei nº 7.306 de 09/04/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7306-1985-04-09"},
+{"data": "1985-11-01", "nome": "Lei nº 7.396 de 01/11/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7396-1985-11-01"}
+],
+"controle": []
+}

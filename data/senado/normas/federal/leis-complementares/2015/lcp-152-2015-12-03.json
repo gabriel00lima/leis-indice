@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-complementares/2015/lcp-152-2015-12-03",
+"urn": "urn:lex:br:federal:lei.complementar:2015-12-03;152",
+"consultado_em": "2026-11-08",
+"codigo": "572907",
+"nome": "Lei Complementar nº 152 de 03/12/2015",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2015-12-04", "descricao": "Publicação Original [Diário Oficial da União de 04/12/2015] (p. 2, col. 1)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2019-11-19", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.490 de 19/11/2019", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "5490"}},
+{"data": "2023-05-19", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.430 de 19/05/2023", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "5430"}}
+]
+}

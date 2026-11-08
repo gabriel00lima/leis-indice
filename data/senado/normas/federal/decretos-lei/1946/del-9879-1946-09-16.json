@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1946/del-9879-1946-09-16",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-16;9879",
+"consultado_em": "2026-11-08",
+"codigo": "534916",
+"nome": "Decreto-Lei nº 9.879 de 16/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-17", "descricao": "Publicação Original [Diário Oficial da União de 17/09/1946] (p. 13001, col. 2)"}
+],
+"alteracoes": [
+{"data": "1949-02-02", "nome": "Lei nº 615 de 02/02/1949", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1949/lei-615-1949-02-02"},
+{"data": "1949-11-04", "nome": "Decreto nº 27.396 de 04/11/1949", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1951-12-19", "nome": "Lei nº 1.506 de 19/12/1951", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1951/lei-1506-1951-12-19"}
+],
+"controle": []
+}

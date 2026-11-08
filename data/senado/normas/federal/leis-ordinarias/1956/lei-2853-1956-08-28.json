@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1956/lei-2853-1956-08-28",
+"urn": "urn:lex:br:federal:lei:1956-08-28;2853",
+"consultado_em": "2026-11-08",
+"codigo": "544680",
+"nome": "Lei nº 2.853 de 28/08/1956",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1956-08-29", "descricao": "Publicação Original [Diário Oficial da União de 29/08/1956] (p. 16393, col. 1)"}
+],
+"alteracoes": [
+{"data": "1964-07-30", "nome": "Lei nº 4.373 de 30/07/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4373-1964-07-30"},
+{"data": "1969-09-05", "nome": "Decreto-Lei nº 820 de 05/09/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-820-1969-09-05"},
+{"data": "1971-10-27", "nome": "Lei nº 5.725 de 27/10/1971", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5725-1971-10-27"},
+{"data": "1977-10-04", "nome": "Lei nº 6.445 de 04/10/1977", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1977/lei-6445-1977-10-04"}
+],
+"controle": []
+}

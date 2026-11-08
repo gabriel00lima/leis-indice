@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1981/del-1914-1981-12-29",
+"urn": "urn:lex:br:federal:decreto.lei:1981-12-29;1914",
+"consultado_em": "2026-11-08",
+"codigo": "526437",
+"nome": "Decreto-Lei nº 1.914 de 29/12/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/1981] (p. 25151, col. 2)"}
+],
+"alteracoes": [
+{"data": "1982-06-24", "nome": "Decreto Legislativo nº 62 de 24/06/1982", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1983-01-04", "nome": "Decreto-Lei nº 2.001 de 04/01/1983", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2001-1983-01-04"}
+],
+"controle": []
+}

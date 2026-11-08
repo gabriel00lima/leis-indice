@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1954/lei-2163-1954-01-05",
+"urn": "urn:lex:br:federal:lei:1954-01-05;2163",
+"consultado_em": "2026-11-08",
+"codigo": "543940",
+"nome": "Lei nº 2.163 de 05/01/1954",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1954-01-07", "descricao": "Publicação Original [Diário Oficial da União de 07/01/1954] (p. 265, col. 2)"}
+],
+"alteracoes": [
+{"data": "1954-09-20", "nome": "Decreto nº 36.193 de 20/09/1954", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

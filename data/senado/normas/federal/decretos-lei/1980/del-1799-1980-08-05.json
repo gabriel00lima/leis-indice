@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1980/del-1799-1980-08-05",
+"urn": "urn:lex:br:federal:decreto.lei:1980-08-05;1799",
+"consultado_em": "2026-11-08",
+"codigo": "526208",
+"nome": "Decreto-Lei nº 1.799 de 05/08/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-08-06", "descricao": "Publicação Original [Diário Oficial da União de 06/08/1980] (p. 15538, col. 2)"}
+],
+"alteracoes": [
+{"data": "1980-11-19", "nome": "Decreto Legislativo nº 120 de 19/11/1980", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1987-05-05", "nome": "Decreto-Lei nº 2.328 de 05/05/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2328-1987-05-05"}
+],
+"controle": []
+}

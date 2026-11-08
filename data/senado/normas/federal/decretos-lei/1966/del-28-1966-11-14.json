@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1966/del-28-1966-11-14",
+"urn": "urn:lex:br:federal:decreto.lei:1966-11-14;28",
+"consultado_em": "2026-11-08",
+"codigo": "522698",
+"nome": "Decreto-Lei nº 28 de 14/11/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-14", "descricao": "Publicação Original [Diário Oficial da União de 14/11/1966] (p. 13147, col. 2)"}
+],
+"alteracoes": [
+{"data": "1966-12-28", "nome": "Ato Complementar nº 31 de 28/12/1966", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4621-1965-04-30",
+"urn": "urn:lex:br:federal:lei:1965-04-30;4621",
+"consultado_em": "2026-11-08",
+"codigo": "546474",
+"nome": "Lei nº 4.621 de 30/04/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-04-30", "descricao": "Publicação Original [Diário Oficial da União de 30/04/1965] (p. 4193, col. 3)"}
+],
+"alteracoes": [
+{"data": "1965-05-14", "nome": "Decreto nº 56.284 de 14/05/1965", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1965-11-29", "nome": "Lei nº 4.862 de 29/11/1965", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4862-1965-11-29"},
+{"data": "1966-11-21", "nome": "Decreto-Lei nº 62 de 21/11/1966", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, Parágrafo Único", "art": "10", "acao": "revogou"}], "id": "federal/decretos-lei/1966/del-62-1966-11-21"}
+],
+"controle": []
+}

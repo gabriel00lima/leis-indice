@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1952/lei-1550-1952-02-05",
+"urn": "urn:lex:br:federal:lei:1952-02-05;1550",
+"consultado_em": "2026-11-08",
+"codigo": "543245",
+"nome": "Lei nº 1.550 de 05/02/1952",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1952-02-08", "descricao": "Publicação Original [Diário Oficial da União de 08/02/1952] (p. 1843, col. 1)"}
+],
+"alteracoes": [
+{"data": "1955-11-22", "nome": "Lei nº 2.652 de 22/11/1955", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1955/lei-2652-1955-11-22"}
+],
+"controle": []
+}

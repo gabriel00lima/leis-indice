@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1961/lei-3906-1961-06-19",
+"urn": "urn:lex:br:federal:lei:1961-06-19;3906",
+"consultado_em": "2026-11-08",
+"codigo": "545738",
+"nome": "Lei nº 3.906 de 19/06/1961",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1961-06-19", "descricao": "Publicação Original [Diário Oficial da União de 19/06/1961] (p. 5481, col. 1)"}
+],
+"alteracoes": [
+{"data": "1962-09-27", "nome": "Decreto do Conselho de MInistros nº 1.420 de 27/09/1962", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1963-04-08", "nome": "Decreto nº 51.893 de 08/04/1963", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

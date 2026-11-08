@@ -1,0 +1,34 @@
+{
+"id": "federal/decretos-lei/1977/del-1561-1977-07-13",
+"urn": "urn:lex:br:federal:decreto.lei:1977-07-13;1561",
+"consultado_em": "2026-11-08",
+"codigo": "525743",
+"nome": "Decreto-Lei nº 1.561 de 13/07/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-07-14", "descricao": "Publicação Original [Diário Oficial da União de 14/07/1977] (p. 8897, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-09-22", "nome": "Decreto Legislativo nº 87 de 22/09/1977", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1980-05-28", "nome": "Decreto-Lei nº 1.789 de 28/05/1980", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1980/del-1789-1980-05-28"},
+{"data": "1987-12-21", "nome": "Decreto-Lei nº 2.398 de 21/12/1987", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}], "id": "federal/decretos-lei/1987/del-2398-1987-12-21"},
+{"data": "1997-02-14", "nome": "Medida Provisória nº 1.567 de 14/02/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1997-03-14", "nome": "Medida Provisória nº 1.567-1 de 14/03/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1997-04-15", "nome": "Medida Provisória nº 1.567-2 de 15/04/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1997-05-15", "nome": "Medida Provisória nº 1.567-3 de 15/05/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1997-06-12", "nome": "Medida Provisória nº 1.567-4 de 12/06/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1997-07-11", "nome": "Medida Provisória nº 1.567-5 de 11/07/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1997-08-08", "nome": "Medida Provisória nº 1.567-6 de 08/08/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1997-09-09", "nome": "Medida Provisória nº 1.567-7 de 09/09/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1997-10-09", "nome": "Medida Provisória nº 1.567-8 de 09/10/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1997-11-06", "nome": "Medida Provisória nº 1.567-9 de 06/11/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1997-12-04", "nome": "Medida Provisória nº 1.567-10 de 04/12/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1997-12-31", "nome": "Medida Provisória nº 1.567-11 de 31/12/1997", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1998-01-29", "nome": "Medida Provisória nº 1.567-12 de 29/01/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1998-02-26", "nome": "Medida Provisória nº 1.567-13 de 26/02/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1998-03-24", "nome": "Medida Provisória nº 1.647-14 de 24/03/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1998-04-23", "nome": "Medida Provisória nº 1.647-15 de 23/04/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1998-05-15", "nome": "Lei nº 9.636 de 15/05/1998", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}], "id": "federal/leis-ordinarias/1998/lei-9636-1998-05-15"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1953/lei-1888-1953-06-13",
+"urn": "urn:lex:br:federal:lei:1953-06-13;1888",
+"consultado_em": "2026-11-08",
+"codigo": "543649",
+"nome": "Lei nº 1.888 de 13/06/1953",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1953-06-20", "descricao": "Publicação Original [Diário Oficial da União de 20/06/1953] (p. 10985, col. 1)"}
+],
+"alteracoes": [
+{"data": "1968-12-21", "nome": "Decreto-Lei nº 377 de 21/12/1968", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1968/del-377-1968-12-21"}
+],
+"controle": []
+}

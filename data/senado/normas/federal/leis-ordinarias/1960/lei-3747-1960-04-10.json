@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1960/lei-3747-1960-04-10",
+"urn": "urn:lex:br:federal:lei:1960-04-10;3747",
+"consultado_em": "2026-11-08",
+"codigo": "545565",
+"nome": "Lei nº 3.747 de 10/04/1960",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1960-04-12", "descricao": "Publicação Original [Diário Oficial da União de 12/04/1960] (p. 6905, col. 1)"}
+],
+"alteracoes": [
+{"data": "1987-12-18", "nome": "Lei nº 7.642 de 18/12/1987", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1987/lei-7642-1987-12-18"}
+],
+"controle": []
+}

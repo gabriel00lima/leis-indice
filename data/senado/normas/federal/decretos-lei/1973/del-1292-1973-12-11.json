@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1973/del-1292-1973-12-11",
+"urn": "urn:lex:br:federal:decreto.lei:1973-12-11;1292",
+"consultado_em": "2026-11-08",
+"codigo": "525205",
+"nome": "Decreto-Lei nº 1.292 de 11/12/1973",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-12-12", "descricao": "Publicação Original [Diário Oficial da União de 12/12/1973] (p. 12718, col. 1)"}
+],
+"alteracoes": [
+{"data": "1974-04-18", "nome": "Decreto Legislativo nº 7 de 18/04/1974", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1989-07-10", "nome": "Lei nº 7.798 de 10/07/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/1989/lei-7798-1989-07-10"}
+],
+"controle": []
+}

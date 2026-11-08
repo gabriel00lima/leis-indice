@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-292-1948-06-22",
+"urn": "urn:lex:br:federal:lei:1948-06-22;292",
+"consultado_em": "2026-11-08",
+"codigo": "541463",
+"nome": "Lei nº 292 de 22/06/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-07-01", "descricao": "Publicação Original [Diário Oficial da União de 01/07/1948] (p. 9661, col. 2)"}
+],
+"alteracoes": [
+{"data": "1948-12-24", "nome": "Lei nº 599 de 24/12/1948", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1948/lei-599-1948-12-24"}
+],
+"controle": []
+}

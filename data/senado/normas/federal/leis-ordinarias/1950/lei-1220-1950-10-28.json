@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1220-1950-10-28",
+"urn": "urn:lex:br:federal:lei:1950-10-28;1220",
+"consultado_em": "2026-11-08",
+"codigo": "542853",
+"nome": "Lei nº 1.220 de 28/10/1950",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-11-01", "descricao": "Publicação Original [Diário Oficial da União de 01/11/1950] (p. 15785, col. 1)"}
+],
+"alteracoes": [
+{"data": "1962-11-12", "nome": "Decreto do Conselho de MInistros nº 1.516 de 12/11/1962", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1968-11-06", "nome": "Decreto nº 63.563 de 06/11/1968", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1987-12-29", "nome": "Decreto-Lei nº 2.405 de 29/12/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2405-1987-12-29"}
+],
+"controle": []
+}

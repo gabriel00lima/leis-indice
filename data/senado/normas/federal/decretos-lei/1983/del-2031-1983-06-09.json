@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1983/del-2031-1983-06-09",
+"urn": "urn:lex:br:federal:decreto.lei:1983-06-09;2031",
+"consultado_em": "2026-11-08",
+"codigo": "526671",
+"nome": "Decreto-Lei nº 2.031 de 09/06/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-06-10", "descricao": "Publicação Original [Diário Oficial da União de 10/06/1983] (p. 9931, col. 1)"}
+],
+"alteracoes": [
+{"data": "1983-09-19", "nome": "Decreto Legislativo nº 64 de 19/09/1983", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1983-10-19", "nome": "Decreto-Lei nº 2.064 de 19/10/1983", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2064-1983-10-19"},
+{"data": "1983-10-26", "nome": "Decreto-Lei nº 2.065 de 26/10/1983", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2065-1983-10-26"},
+{"data": "1984-06-13", "nome": "Decreto-Lei nº 2.124 de 13/06/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2124-1984-06-13"},
+{"data": "1985-06-27", "nome": "Lei nº 7.329 de 27/06/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7329-1985-06-27"}
+],
+"controle": []
+}

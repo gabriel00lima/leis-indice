@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1969/del-554-1969-04-25",
+"urn": "urn:lex:br:federal:decreto.lei:1969-04-25;554",
+"consultado_em": "2026-11-08",
+"codigo": "523741",
+"nome": "Decreto-Lei nº 554 de 25/04/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-04-25", "descricao": "Publicação Original [Diário Oficial da União de 25/04/1969] (p. 3538, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-11-08", "nome": "Resolução do Senado Federal nº 126 de 08/11/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "suspensão"}]},
+{"data": "1993-07-06", "nome": "Lei Complementar nº 76 de 06/07/1993", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-complementares/1993/lcp-76-1993-07-06"}
+],
+"controle": []
+}

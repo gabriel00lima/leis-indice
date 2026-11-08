@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1961/lei-4047-1961-12-21",
+"urn": "urn:lex:br:federal:lei:1961-12-21;4047",
+"consultado_em": "2026-11-08",
+"codigo": "545880",
+"nome": "Lei nº 4.047 de 21/12/1961",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-01-18", "descricao": "Publicação Original [Diário Oficial da União de 18/01/1962] (p. 657, col. 1)"}
+],
+"alteracoes": [
+{"data": "1965-07-15", "nome": "Lei nº 4.741 de 15/07/1965", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4741-1965-07-15"}
+],
+"controle": []
+}

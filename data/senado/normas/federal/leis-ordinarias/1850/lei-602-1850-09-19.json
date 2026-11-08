@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1850/lei-602-1850-09-19",
+"urn": "urn:lex:br:federal:lei:1850-09-19;602",
+"consultado_em": "2026-11-08",
+"codigo": "542130",
+"nome": "Lei nº 602 de 19/09/1850",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1850-12-31", "descricao": "Publicação Original [Coleção de Leis do Império do Brasil de 31/12/1850 - vol. 001 - Parte 001 - Tomo XI] (p. 314, col. 1)"}
+],
+"alteracoes": [
+{"data": "1873-09-10", "nome": "Lei nº 2.395 de 10/09/1873", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1873/lei-2395-1873-09-10"}
+],
+"controle": []
+}

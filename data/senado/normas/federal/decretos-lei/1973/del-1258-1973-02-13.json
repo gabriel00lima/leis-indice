@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1973/del-1258-1973-02-13",
+"urn": "urn:lex:br:federal:decreto.lei:1973-02-13;1258",
+"consultado_em": "2026-11-08",
+"codigo": "525137",
+"nome": "Decreto-Lei nº 1.258 de 13/02/1973",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-02-14", "descricao": "Publicação Original [Diário Oficial da União de 14/02/1973] (p. 1745, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-04-26", "nome": "Decreto Legislativo nº 13 de 26/04/1973", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

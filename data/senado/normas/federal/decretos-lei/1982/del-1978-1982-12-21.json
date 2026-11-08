@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1982/del-1978-1982-12-21",
+"urn": "urn:lex:br:federal:decreto.lei:1982-12-21;1978",
+"consultado_em": "2026-11-08",
+"codigo": "526565",
+"nome": "Decreto-Lei nº 1.978 de 21/12/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/1982] (p. 23960, col. 2)"},
+{"tipo": "RET", "data": "1982-12-23", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 23/12/1982] (p. 24085, col. 2)"}
+],
+"alteracoes": [
+{"data": "1983-05-12", "nome": "Decreto Legislativo nº 26 de 12/05/1983", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1983-06-30", "nome": "Decreto-Lei nº 2.041 de 30/06/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2041-1983-06-30"}
+],
+"controle": []
+}

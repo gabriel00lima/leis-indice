@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1960/lei-3842-1960-12-15",
+"urn": "urn:lex:br:federal:lei:1960-12-15;3842",
+"consultado_em": "2026-11-08",
+"codigo": "545668",
+"nome": "Lei nº 3.842 de 15/12/1960",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1960-12-16", "descricao": "Publicação Original [Diário Oficial da União de 16/12/1960] (p. 16013, col. 1)"}
+],
+"alteracoes": [
+{"data": "1962-12-04", "nome": "Lei nº 4.167 de 04/12/1962", "tipo": "Revigoração Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1962/lei-4167-1962-12-04"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1983/del-2003-1983-01-06",
+"urn": "urn:lex:br:federal:decreto.lei:1983-01-06;2003",
+"consultado_em": "2026-11-08",
+"codigo": "526615",
+"nome": "Decreto-Lei nº 2.003 de 06/01/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-01-07", "descricao": "Publicação Original [Diário Oficial da União de 07/01/1983] (p. 433, col. 1)"}
+],
+"alteracoes": [
+{"data": "1983-06-07", "nome": "Decreto Legislativo nº 32 de 07/06/1983", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

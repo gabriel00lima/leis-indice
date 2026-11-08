@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-complementares/2025/lcp-220-2025-10-31",
+"urn": "urn:lex:br:federal:lei.complementar:2025-10-31;220",
+"consultado_em": "2026-11-08",
+"codigo": "41627430",
+"nome": "Lei Complementar nº 220 de 31/10/2025",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2025-11-03", "descricao": "Publicação Original [Diário Oficial da União de 03/11/2025] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2025-10-31", "nome": "Mensagem de Veto Parcial nº 1.620 de 31/10/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 18, caput", "art": "18", "acao": "veto"}]},
+{"data": "2025-10-31", "nome": "Mensagem de Veto Parcial nº 1.620 de 31/10/2025", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2026-06-17", "nome": "Lei nº 15.436 de 17/06/2026", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 26, caput, Inciso 4", "art": "26", "acao": "correlato"}], "id": "federal/leis-ordinarias/2026/lei-15436-2026-06-17"}
+],
+"controle": []
+}

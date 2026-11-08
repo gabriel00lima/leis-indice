@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1946/del-9022-1946-02-26",
+"urn": "urn:lex:br:federal:decreto.lei:1946-02-26;9022",
+"consultado_em": "2026-11-08",
+"codigo": "534060",
+"nome": "Decreto-Lei nº 9.022 de 26/02/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-02-28", "descricao": "Publicação Original [Diário Oficial da União de 28/02/1946] (p. 3073, col. 1)"}
+],
+"alteracoes": [
+{"data": "1948-12-13", "nome": "Lei nº 534 de 13/12/1948", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1948/lei-534-1948-12-13"},
+{"data": "1961-06-28", "nome": "Decreto nº 50.872 de 28/06/1961", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1962-10-11", "nome": "Lei Delegada nº 10 de 11/10/1962", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1962-10-11", "nome": "Lei Delegada nº 8 de 11/10/1962", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

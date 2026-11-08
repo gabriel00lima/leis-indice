@@ -1,0 +1,23 @@
+{
+"id": "federal/decretos-lei/1987/del-2351-1987-08-07",
+"urn": "urn:lex:br:federal:decreto.lei:1987-08-07;2351",
+"consultado_em": "2026-11-08",
+"codigo": "527315",
+"nome": "Decreto-Lei nº 2.351 de 07/08/1987",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1987-08-10", "descricao": "Publicação Original [Diário Oficial da União de 10/08/1987] (p. 12581, col. 1)"}
+],
+"alteracoes": [
+{"data": "1987-09-30", "nome": "Decreto nº 94.989 de 30/09/1987", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": []},
+{"data": "1987-09-30", "nome": "Decreto nº 94.990 de 30/09/1987", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1987-11-30", "nome": "Decreto nº 95.307 de 30/11/1987", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1987-11-30", "nome": "Decreto nº 95.308 de 30/11/1987", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1987-12-29", "nome": "Decreto nº 95.579 de 29/12/1987", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1987-12-29", "nome": "Decreto nº 95.580 de 29/12/1987", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1988-08-26", "nome": "Decreto Legislativo nº 34 de 26/08/1988", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "2006-03-30", "nome": "Medida Provisória nº 288 de 30/03/2006", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2006-07-07", "nome": "Lei nº 11.321 de 07/07/2006", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2006/lei-11321-2006-07-07"}
+],
+"controle": []
+}

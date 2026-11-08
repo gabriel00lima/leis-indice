@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1958/lei-3401-1958-06-12",
+"urn": "urn:lex:br:federal:lei:1958-06-12;3401",
+"consultado_em": "2026-11-08",
+"codigo": "545214",
+"nome": "Lei nº 3.401 de 12/06/1958",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1958-06-13", "descricao": "Publicação Original [Diário Oficial da União de 13/06/1958] (p. 13441, col. 1)"}
+],
+"alteracoes": [
+{"data": "1963-07-19", "nome": "Lei nº 4.243 de 19/07/1963", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1963/lei-4243-1963-07-19"}
+],
+"controle": []
+}

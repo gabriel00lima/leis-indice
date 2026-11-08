@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1960/lei-3783-1960-07-30",
+"urn": "urn:lex:br:federal:lei:1960-07-30;3783",
+"consultado_em": "2026-11-08",
+"codigo": "545605",
+"nome": "Lei nº 3.783 de 30/07/1960",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1960-08-01", "descricao": "Publicação Original [Diário Oficial da União de 01/08/1960] (p. 10877, col. 1)"}
+],
+"alteracoes": [
+{"data": "1962-06-11", "nome": "Lei nº 4.069 de 11/06/1962", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1962/lei-4069-1962-06-11"},
+{"data": "1963-07-17", "nome": "Lei nº 4.242 de 17/07/1963", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 1", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4, § 2", "art": "4", "acao": "revogou"}], "id": "federal/leis-ordinarias/1963/lei-4242-1963-07-17"}
+],
+"controle": []
+}

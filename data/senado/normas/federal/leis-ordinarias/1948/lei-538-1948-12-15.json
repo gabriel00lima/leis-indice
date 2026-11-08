@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-538-1948-12-15",
+"urn": "urn:lex:br:federal:lei:1948-12-15;538",
+"consultado_em": "2026-11-08",
+"codigo": "541999",
+"nome": "Lei nº 538 de 15/12/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-12-17", "descricao": "Publicação Original [Diário Oficial da União de 17/12/1948] (p. 17989, col. 1)"}
+],
+"alteracoes": [
+{"data": "1951-05-14", "nome": "Lei nº 1.368 de 14/05/1951", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1951/lei-1368-1951-05-14"}
+],
+"controle": []
+}

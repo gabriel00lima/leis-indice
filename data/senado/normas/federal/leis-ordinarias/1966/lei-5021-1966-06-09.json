@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1966/lei-5021-1966-06-09",
+"urn": "urn:lex:br:federal:lei:1966-06-09;5021",
+"consultado_em": "2026-11-08",
+"codigo": "546879",
+"nome": "Lei nº 5.021 de 09/06/1966",
+"apelidos": [
+"Lei do Mandado de Segurança (1966)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-06-13", "descricao": "Publicação Original [Diário Oficial da União de 13/06/1966] (p. 6273, col. 3)"}
+],
+"alteracoes": [
+{"data": "1993-11-23", "nome": "Medida Provisória nº 375 de 23/11/1993", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "correlato"}]},
+{"data": "2009-08-07", "nome": "Lei nº 12.016 de 07/08/2009", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2009/lei-12016-2009-08-07"}
+],
+"controle": []
+}

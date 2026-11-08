@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-9500-1946-07-23",
+"urn": "urn:lex:br:federal:decreto.lei:1946-07-23;9500",
+"consultado_em": "2026-11-08",
+"codigo": "534539",
+"nome": "Decreto-Lei nº 9.500 de 23/07/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-07-25", "descricao": "Publicação Original [Diário Oficial da União de 25/07/1946] (p. 10787, col. 1)"}
+],
+"alteracoes": [
+{"data": "1952-03-28", "nome": "Lei nº 1.585 de 28/03/1952", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1952/lei-1585-1952-03-28"},
+{"data": "1964-08-17", "nome": "Lei nº 4.375 de 17/08/1964", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4375-1964-08-17"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1954/lei-2321-1954-09-11",
+"urn": "urn:lex:br:federal:lei:1954-09-11;2321",
+"consultado_em": "2026-11-08",
+"codigo": "544110",
+"nome": "Lei nº 2.321 de 11/09/1954",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1954-09-14", "descricao": "Publicação Original [Diário Oficial da União de 14/09/1954] (p. 15385, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-06-25", "nome": "Decreto nº 83.613 de 25/06/1979", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

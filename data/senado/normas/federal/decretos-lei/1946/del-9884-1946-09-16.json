@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-9884-1946-09-16",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-16;9884",
+"consultado_em": "2026-11-08",
+"codigo": "534921",
+"nome": "Decreto-Lei nº 9.884 de 16/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-17", "descricao": "Publicação Original [Diário Oficial da União de 17/09/1946] (p. 13003, col. 4)"}
+],
+"alteracoes": [
+{"data": "1945-04-06", "nome": "Decreto nº 18.318 de 06/04/1945", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1946-08-02", "nome": "Decreto-Lei nº 9.539 de 02/08/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9539-1946-08-02"}
+],
+"controle": []
+}

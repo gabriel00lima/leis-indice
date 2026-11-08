@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9544-1946-08-05",
+"urn": "urn:lex:br:federal:decreto.lei:1946-08-05;9544",
+"consultado_em": "2026-11-08",
+"codigo": "534584",
+"nome": "Decreto-Lei nº 9.544 de 05/08/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-08-05", "descricao": "Publicação Original [Diário Oficial da União de 05/08/1946] (p. 11291, col. 3)"}
+],
+"alteracoes": [
+{"data": "1949-12-03", "nome": "Lei nº 949 de 03/12/1949", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1949/lei-949-1949-12-03"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1982/del-1995-1982-12-29",
+"urn": "urn:lex:br:federal:decreto.lei:1982-12-29;1995",
+"consultado_em": "2026-11-08",
+"codigo": "526599",
+"nome": "Decreto-Lei nº 1.995 de 29/12/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/1982] (p. 24657, col. 1)"}
+],
+"alteracoes": [
+{"data": "1988-09-08", "nome": "Decreto-Lei nº 2.473 de 08/09/1988", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1988/del-2473-1988-09-08"}
+],
+"controle": []
+}

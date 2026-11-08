@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4401-1964-09-10",
+"urn": "urn:lex:br:federal:lei:1964-09-10;4401",
+"consultado_em": "2026-11-08",
+"codigo": "546251",
+"nome": "Lei nº 4.401 de 10/09/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-09-21", "descricao": "Publicação Original [Diário Oficial da União de 21/09/1964] (p. 8409, col. 1)"}
+],
+"alteracoes": [
+{"data": "1964-12-10", "nome": "Lei nº 4.540 de 10/12/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4540-1964-12-10"},
+{"data": "1966-10-20", "nome": "Lei nº 5.145 de 20/10/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5145-1966-10-20"}
+],
+"controle": []
+}

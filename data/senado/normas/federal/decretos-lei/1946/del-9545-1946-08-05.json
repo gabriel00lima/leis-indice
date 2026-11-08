@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-9545-1946-08-05",
+"urn": "urn:lex:br:federal:decreto.lei:1946-08-05;9545",
+"consultado_em": "2026-11-08",
+"codigo": "534585",
+"nome": "Decreto-Lei nº 9.545 de 05/08/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-08-07", "descricao": "Publicação Original [Diário Oficial da União de 07/08/1946] (p. 11395, col. 1)"}
+],
+"alteracoes": [
+{"data": "1951-06-20", "nome": "Lei nº 1.387 de 20/06/1951", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1951/lei-1387-1951-06-20"},
+{"data": "1966-09-21", "nome": "Lei nº 5.108 de 21/09/1966", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5108-1966-09-21"}
+],
+"controle": []
+}

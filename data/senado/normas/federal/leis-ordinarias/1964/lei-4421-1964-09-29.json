@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4421-1964-09-29",
+"urn": "urn:lex:br:federal:lei:1964-09-29;4421",
+"consultado_em": "2026-11-08",
+"codigo": "546271",
+"nome": "Lei nº 4.421 de 29/09/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-10-05", "descricao": "Publicação Original [Diário Oficial da União de 05/10/1964] (p. 8945, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-05-04", "nome": "Decreto nº 79.656 de 04/05/1977", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

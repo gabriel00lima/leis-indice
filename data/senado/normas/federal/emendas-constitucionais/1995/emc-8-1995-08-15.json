@@ -1,0 +1,15 @@
+{
+"id": "federal/emendas-constitucionais/1995/emc-8-1995-08-15",
+"urn": "urn:lex:br:federal:emenda.constitucional:1995-08-15;8",
+"consultado_em": "2026-11-08",
+"codigo": "593599",
+"nome": "Emenda Constitucional nº 8 de 15/08/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-08-16", "descricao": "Publicação Original [Diário Oficial da União de 16/08/1995] (p. 12354, col. 2)"}
+],
+"alteracoes": [
+{"data": "1997-07-16", "nome": "Lei nº 9.472 de 16/07/1997", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9472-1997-07-16"}
+],
+"controle": []
+}

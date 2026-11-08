@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1963/lei-4299-1963-12-23",
+"urn": "urn:lex:br:federal:lei:1963-12-23;4299",
+"consultado_em": "2026-11-08",
+"codigo": "546148",
+"nome": "Lei nº 4.299 de 23/12/1963",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-01-10", "descricao": "Publicação Original [Diário Oficial da União de 10/01/1964] (p. 233, col. 1)"}
+],
+"alteracoes": [
+{"data": "1965-09-28", "nome": "Lei nº 4.784 de 28/09/1965", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4784-1965-09-28"}
+],
+"controle": []
+}

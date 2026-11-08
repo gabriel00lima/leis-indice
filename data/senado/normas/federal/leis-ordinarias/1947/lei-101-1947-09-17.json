@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1947/lei-101-1947-09-17",
+"urn": "urn:lex:br:federal:lei:1947-09-17;101",
+"consultado_em": "2026-11-08",
+"codigo": "541058",
+"nome": "Lei nº 101 de 17/09/1947",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1947-09-29", "descricao": "Publicação Original [Diário Oficial da União de 29/09/1947] (p. 12627, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-05-24", "nome": "Lei nº 6.533 de 24/05/1978", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1978/lei-6533-1978-05-24"}
+],
+"controle": []
+}

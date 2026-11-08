@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1987/del-2329-1987-05-20",
+"urn": "urn:lex:br:federal:decreto.lei:1987-05-20;2329",
+"consultado_em": "2026-11-08",
+"codigo": "527271",
+"nome": "Decreto-Lei nº 2.329 de 20/05/1987",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1987-05-21", "descricao": "Publicação Original [Diário Oficial da União de 21/05/1987] (p. 7576, col. 2)"}
+],
+"alteracoes": [
+{"data": "1987-06-26", "nome": "Decreto-Lei nº 2.340 de 26/06/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2340-1987-06-26"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9732-1946-09-04",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-04;9732",
+"consultado_em": "2026-11-08",
+"codigo": "534772",
+"nome": "Decreto-Lei nº 9.732 de 04/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-06", "descricao": "Publicação Original [Diário Oficial da União de 06/09/1946] (p. 12482, col. 4)"}
+],
+"alteracoes": [
+{"data": "1991-08-30", "nome": "Decreto nº 203 de 30/08/1991", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

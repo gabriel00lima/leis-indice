@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-complementares/1974/lcp-18-1974-05-10",
+"urn": "urn:lex:br:federal:lei.complementar:1974-05-10;18",
+"consultado_em": "2026-11-08",
+"codigo": "540723",
+"nome": "Lei Complementar nº 18 de 10/05/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-05-13", "descricao": "Publicação Original [Diário Oficial da União de 13/05/1974] (p. 5429, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-04-14", "nome": "Decreto-Lei nº 1.542 de 14/04/1977", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1977/del-1542-1977-04-14"},
+{"data": "1990-05-18", "nome": "Lei Complementar nº 64 de 18/05/1990", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-complementares/1990/lcp-64-1990-05-18"}
+],
+"controle": []
+}

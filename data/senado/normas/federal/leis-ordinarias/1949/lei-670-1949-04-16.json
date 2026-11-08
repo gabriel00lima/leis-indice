@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-670-1949-04-16",
+"urn": "urn:lex:br:federal:lei:1949-04-16;670",
+"consultado_em": "2026-11-08",
+"codigo": "542221",
+"nome": "Lei nº 670 de 16/04/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-04-20", "descricao": "Publicação Original [Diário Oficial da União de 20/04/1949] (p. 5857, col. 3)"}
+],
+"alteracoes": [
+{"data": "1949-12-15", "nome": "Lei nº 969 de 15/12/1949", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1949/lei-969-1949-12-15"}
+],
+"controle": []
+}

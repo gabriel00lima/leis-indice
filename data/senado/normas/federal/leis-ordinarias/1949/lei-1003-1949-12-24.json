@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-1003-1949-12-24",
+"urn": "urn:lex:br:federal:lei:1949-12-24;1003",
+"consultado_em": "2026-11-08",
+"codigo": "542603",
+"nome": "Lei nº 1.003 de 24/12/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-12-28", "descricao": "Publicação Original [Diário Oficial da União de 28/12/1949] (p. 17899, col. 2)"}
+],
+"alteracoes": [
+{"data": "1952-11-01", "nome": "Lei nº 1.719 de 01/11/1952", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1952/lei-1719-1952-11-01"},
+{"data": "1953-11-16", "nome": "Lei nº 2.095 de 16/11/1953", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1953/lei-2095-1953-11-16"},
+{"data": "1955-12-27", "nome": "Lei nº 2.697 de 27/12/1955", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1955/lei-2697-1955-12-27"}
+],
+"controle": []
+}

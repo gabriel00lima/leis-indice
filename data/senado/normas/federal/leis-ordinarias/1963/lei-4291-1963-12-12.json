@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1963/lei-4291-1963-12-12",
+"urn": "urn:lex:br:federal:lei:1963-12-12;4291",
+"consultado_em": "2026-11-08",
+"codigo": "546140",
+"nome": "Lei nº 4.291 de 12/12/1963",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1963-12-27", "descricao": "Publicação Original [Diário Oficial da União de 27/12/1963] (p. 10956, col. 2)"}
+],
+"alteracoes": [
+{"data": "1964-03-06", "nome": "Decreto nº 53.668 de 06/03/1964", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1964-06-26", "nome": "Lei nº 4.345 de 26/06/1964", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}], "id": "federal/leis-ordinarias/1964/lei-4345-1964-06-26"}
+],
+"controle": []
+}

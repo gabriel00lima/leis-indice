@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4701-1965-06-28",
+"urn": "urn:lex:br:federal:lei:1965-06-28;4701",
+"consultado_em": "2026-11-08",
+"codigo": "546554",
+"nome": "Lei nº 4.701 de 28/06/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-07-01", "descricao": "Publicação Original [Diário Oficial da União de 01/07/1965] (p. 6113, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-02-15", "nome": "Decreto nº 57.812 de 15/02/1966", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1967-02-27", "nome": "Decreto-Lei nº 211 de 27/02/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1967/del-211-1967-02-27"},
+{"data": "2001-03-21", "nome": "Lei nº 10.205 de 21/03/2001", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2001/lei-10205-2001-03-21"}
+],
+"controle": []
+}

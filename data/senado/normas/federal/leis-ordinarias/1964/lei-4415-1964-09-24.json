@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4415-1964-09-24",
+"urn": "urn:lex:br:federal:lei:1964-09-24;4415",
+"consultado_em": "2026-11-08",
+"codigo": "546265",
+"nome": "Lei nº 4.415 de 24/09/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-09-29", "descricao": "Publicação Original [Diário Oficial da União de 29/09/1964] (p. 8738, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-11-21", "nome": "Decreto-Lei nº 69 de 21/11/1966", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1966/del-69-1966-11-21"},
+{"data": "1986-06-27", "nome": "Lei nº 7.501 de 27/06/1986", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7501-1986-06-27"}
+],
+"controle": []
+}

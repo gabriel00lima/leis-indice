@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1955/lei-2511-1955-06-22",
+"urn": "urn:lex:br:federal:lei:1955-06-22;2511",
+"consultado_em": "2026-11-08",
+"codigo": "544310",
+"nome": "Lei nº 2.511 de 22/06/1955",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1955-06-23", "descricao": "Publicação Original [Diário Oficial da União de 23/06/1955] (p. 12265, col. 1)"}
+],
+"alteracoes": [
+{"data": "1960-03-04", "nome": "Lei nº 3.729 de 04/03/1960", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1960/lei-3729-1960-03-04"}
+],
+"controle": []
+}

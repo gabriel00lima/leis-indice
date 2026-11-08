@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1947/lei-192-1947-12-22",
+"urn": "urn:lex:br:federal:lei:1947-12-22;192",
+"consultado_em": "2026-11-08",
+"codigo": "541259",
+"nome": "Lei nº 192 de 22/12/1947",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1947-12-24", "descricao": "Publicação Original [Diário Oficial da União de 24/12/1947] (p. 16157, col. 2)"}
+],
+"alteracoes": [
+{"data": "1948-02-25", "nome": "Decreto nº 24.579 de 25/02/1948", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

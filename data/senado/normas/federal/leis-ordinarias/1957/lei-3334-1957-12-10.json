@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1957/lei-3334-1957-12-10",
+"urn": "urn:lex:br:federal:lei:1957-12-10;3334",
+"consultado_em": "2026-11-08",
+"codigo": "545133",
+"nome": "Lei nº 3.334 de 10/12/1957",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1957-12-10", "descricao": "Publicação Original [Diário Oficial da União de 10/12/1957] (p. 27581, col. 1)"}
+],
+"alteracoes": [
+{"data": "1959-04-27", "nome": "Decreto nº 45.874 de 27/04/1959", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

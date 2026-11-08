@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1986/del-2286-1986-07-23",
+"urn": "urn:lex:br:federal:decreto.lei:1986-07-23;2286",
+"consultado_em": "2026-11-08",
+"codigo": "527185",
+"nome": "Decreto-Lei nº 2.286 de 23/07/1986",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-07-24", "descricao": "Publicação Original [Diário Oficial da União de 24/07/1986] (p. 10961, col. 2)"}
+],
+"alteracoes": [
+{"data": "1986-12-23", "nome": "Decreto-Lei nº 2.314 de 23/12/1986", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/decretos-lei/1986/del-2314-1986-12-23"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/emendas-constitucionais/1995/emc-9-1995-11-09",
+"urn": "urn:lex:br:federal:emenda.constitucional:1995-11-09;9",
+"consultado_em": "2026-11-08",
+"codigo": "593602",
+"nome": "Emenda Constitucional nº 9 de 09/11/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-11-10", "descricao": "Publicação Original [Diário Oficial da União de 10/11/1995] (p. 17961, col. 1)"}
+],
+"alteracoes": [
+{"data": "1997-08-06", "nome": "Lei nº 9.478 de 06/08/1997", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9478-1997-08-06"}
+],
+"controle": []
+}

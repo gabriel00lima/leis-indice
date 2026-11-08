@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-608-1949-01-10",
+"urn": "urn:lex:br:federal:lei:1949-01-10;608",
+"consultado_em": "2026-11-08",
+"codigo": "542138",
+"nome": "Lei nº 608 de 10/01/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-01-22", "descricao": "Publicação Original [Diário Oficial da União de 22/01/1949] (p. 1073, col. 2)"}
+],
+"alteracoes": [
+{"data": "1950-01-19", "nome": "Decreto nº 27.702 de 19/01/1950", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1950-07-24", "nome": "Lei nº 1.164 de 24/07/1950", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1950/lei-1164-1950-07-24"}
+],
+"controle": []
+}

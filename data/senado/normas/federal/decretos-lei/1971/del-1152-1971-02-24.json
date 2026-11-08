@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1971/del-1152-1971-02-24",
+"urn": "urn:lex:br:federal:decreto.lei:1971-02-24;1152",
+"consultado_em": "2026-11-08",
+"codigo": "524925",
+"nome": "Decreto-Lei nº 1.152 de 24/02/1971",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1971-02-25", "descricao": "Publicação Original [Diário Oficial da União de 25/02/1971] (p. 1343, col. 1)"}
+],
+"alteracoes": [
+{"data": "1971-05-13", "nome": "Decreto Legislativo nº 23 de 13/05/1971", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

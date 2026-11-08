@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1967/del-174-1967-02-15",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-15;174",
+"consultado_em": "2026-11-08",
+"codigo": "522989",
+"nome": "Decreto-Lei nº 174 de 15/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-16", "descricao": "Publicação Original [Diário Oficial da União de 16/02/1967] (p. 1905, col. 4)"}
+],
+"alteracoes": [
+{"data": "1967-04-04", "nome": "Decreto-Lei nº 321 de 04/04/1967", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1967/del-321-1967-04-04"},
+{"data": "1968-09-20", "nome": "Lei nº 5.500 de 20/09/1968", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1968/lei-5500-1968-09-20"},
+{"data": "1972-11-10", "nome": "Lei nº 5.821 de 10/11/1972", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5821-1972-11-10"}
+],
+"controle": []
+}

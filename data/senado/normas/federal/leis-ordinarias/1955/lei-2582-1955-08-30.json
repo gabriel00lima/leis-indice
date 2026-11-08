@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1955/lei-2582-1955-08-30",
+"urn": "urn:lex:br:federal:lei:1955-08-30;2582",
+"consultado_em": "2026-11-08",
+"codigo": "544388",
+"nome": "Lei nº 2.582 de 30/08/1955",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1955-08-31", "descricao": "Publicação Original [Diário Oficial da União de 31/08/1955] (p. 16617, col. 1)"}
+],
+"alteracoes": [
+{"data": "1956-11-30", "nome": "Lei nº 2.982 de 30/11/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2982-1956-11-30"}
+],
+"controle": []
+}

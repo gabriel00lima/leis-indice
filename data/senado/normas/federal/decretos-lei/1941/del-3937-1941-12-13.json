@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1941/del-3937-1941-12-13",
+"urn": "urn:lex:br:federal:decreto.lei:1941-12-13;3937",
+"consultado_em": "2026-11-08",
+"codigo": "529024",
+"nome": "Decreto-Lei nº 3.937 de 13/12/1941",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1941-12-17", "descricao": "Publicação Original [Diário Oficial da União de 17/12/1941] (p. 23361, col. 1)"},
+{"tipo": "REP", "data": "1941-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1941 - vol. 007] (p. 631, col. 1)"}
+],
+"alteracoes": [
+{"data": "1942-10-23", "nome": "Decreto-Lei nº 4.870 de 23/10/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4870-1942-10-23"},
+{"data": "1943-08-11", "nome": "Decreto-Lei nº 5.740 de 11/08/1943", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1943/del-5740-1943-08-11"}
+],
+"controle": []
+}

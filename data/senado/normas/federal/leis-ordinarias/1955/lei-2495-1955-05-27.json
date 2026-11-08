@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1955/lei-2495-1955-05-27",
+"urn": "urn:lex:br:federal:lei:1955-05-27;2495",
+"consultado_em": "2026-11-08",
+"codigo": "544293",
+"nome": "Lei nº 2.495 de 27/05/1955",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1955-06-02", "descricao": "Publicação Original [Diário Oficial da União de 02/06/1955] (p. 10857, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-12-10", "nome": "Lei nº 6.750 de 10/12/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6750-1979-12-10"}
+],
+"controle": []
+}

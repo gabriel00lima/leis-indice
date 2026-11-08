@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-complementares/2022/lcp-190-2022-01-04",
+"urn": "urn:lex:br:federal:lei.complementar:2022-01-04;190",
+"consultado_em": "2026-11-08",
+"codigo": "35410454",
+"nome": "Lei Complementar nº 190 de 04/01/2022",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2022-01-05", "descricao": "Publicação Original [Diário Oficial da União de 05/01/2022] (p. 1, col. 1)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2023-11-29", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 7.066 de 29/11/2023", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "7066"}},
+{"data": "2023-11-29", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 7.070 de 29/11/2023", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "7070"}},
+{"data": "2023-11-29", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 7.078 de 29/11/2023", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "7078"}}
+]
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1943/del-5273-1943-02-23",
+"urn": "urn:lex:br:federal:decreto.lei:1943-02-23;5273",
+"consultado_em": "2026-11-08",
+"codigo": "530367",
+"nome": "Decreto-Lei nº 5.273 de 23/02/1943",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1943-02-25", "descricao": "Publicação Original [Diário Oficial da União de 25/02/1943] (p. 2745, col. 1)"},
+{"tipo": "REP", "data": "1943-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1943 - vol. 001] (p. 103, col. 1)"}
+],
+"alteracoes": [
+{"data": "1943-12-30", "nome": "Decreto-Lei nº 6.161 de 30/12/1943", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1943/del-6161-1943-12-30"}
+],
+"controle": []
+}

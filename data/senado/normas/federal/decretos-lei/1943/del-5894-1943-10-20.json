@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1943/del-5894-1943-10-20",
+"urn": "urn:lex:br:federal:decreto.lei:1943-10-20;5894",
+"consultado_em": "2026-11-08",
+"codigo": "530989",
+"nome": "Decreto-Lei nº 5.894 de 20/10/1943",
+"apelidos": [
+"Código de Caça (1943)"
+],
+"publicacoes": [
+{"tipo": "REP", "data": "1943-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1943 - vol. 007] (p. 72, col. 1)"}
+],
+"alteracoes": [
+{"data": "1944-02-02", "nome": "Decreto-Lei nº 6.236 de 02/02/1944", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1944/del-6236-1944-02-02"}
+],
+"controle": []
+}

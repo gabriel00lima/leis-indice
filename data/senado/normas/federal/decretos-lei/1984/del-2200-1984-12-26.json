@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1984/del-2200-1984-12-26",
+"urn": "urn:lex:br:federal:decreto.lei:1984-12-26;2200",
+"consultado_em": "2026-11-08",
+"codigo": "527013",
+"nome": "Decreto-Lei nº 2.200 de 26/12/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-12-27", "descricao": "Publicação Original [Diário Oficial da União de 27/12/1984] (p. 19528, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-02-25", "nome": "Decreto-Lei nº 2.249 de 25/02/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1985/del-2249-1985-02-25"},
+{"data": "1985-03-12", "nome": "Decreto-Lei nº 2.262 de 12/03/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1985/del-2262-1985-03-12"},
+{"data": "1985-07-02", "nome": "Lei nº 7.333 de 02/07/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7333-1985-07-02"}
+],
+"controle": []
+}

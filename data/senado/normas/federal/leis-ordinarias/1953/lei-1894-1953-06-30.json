@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1953/lei-1894-1953-06-30",
+"urn": "urn:lex:br:federal:lei:1953-06-30;1894",
+"consultado_em": "2026-11-08",
+"codigo": "543655",
+"nome": "Lei nº 1.894 de 30/06/1953",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1953-07-06", "descricao": "Publicação Original [Diário Oficial da União de 06/07/1953] (p. 11969, col. 2)"}
+],
+"alteracoes": [
+{"data": "1961-05-15", "nome": "Lei nº 3.894 de 15/05/1961", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1961/lei-3894-1961-05-15"}
+],
+"controle": []
+}

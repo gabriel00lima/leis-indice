@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-924-1949-11-21",
+"urn": "urn:lex:br:federal:lei:1949-11-21;924",
+"consultado_em": "2026-11-08",
+"codigo": "542513",
+"nome": "Lei nº 924 de 21/11/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-11-24", "descricao": "Publicação Original [Diário Oficial da União de 24/11/1949] (p. 16433, col. 1)"}
+],
+"alteracoes": [
+{"data": "1953-11-02", "nome": "Lei nº 2.059 de 02/11/1953", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1953/lei-2059-1953-11-02"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1969/del-435-1969-01-24",
+"urn": "urn:lex:br:federal:decreto.lei:1969-01-24;435",
+"consultado_em": "2026-11-08",
+"codigo": "523506",
+"nome": "Decreto-Lei nº 435 de 24/01/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-01-24", "descricao": "Publicação Original [Diário Oficial da União de 24/01/1969] (p. 859, col. 2)"}
+],
+"alteracoes": [
+{"data": "1984-12-19", "nome": "Decreto-Lei nº 2.183 de 19/12/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "perda de eficácia de parte do texto"}], "id": "federal/decretos-lei/1984/del-2183-1984-12-19"},
+{"data": "1985-04-15", "nome": "Lei nº 7.308 de 15/04/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7308-1985-04-15"}
+],
+"controle": []
+}

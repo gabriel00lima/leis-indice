@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-690-1949-04-30",
+"urn": "urn:lex:br:federal:lei:1949-04-30;690",
+"consultado_em": "2026-11-08",
+"codigo": "542246",
+"nome": "Lei nº 690 de 30/04/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-05-05", "descricao": "Publicação Original [Diário Oficial da União de 05/05/1949] (p. 6905, col. 1)"}
+],
+"alteracoes": [
+{"data": "1949-06-27", "nome": "Lei nº 749 de 27/06/1949", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1949/lei-749-1949-06-27"},
+{"data": "1950-08-28", "nome": "Lei nº 1.183 de 28/08/1950", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1950/lei-1183-1950-08-28"},
+{"data": "1952-03-20", "nome": "Lei nº 1.580 de 20/03/1952", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1952/lei-1580-1952-03-20"}
+],
+"controle": []
+}

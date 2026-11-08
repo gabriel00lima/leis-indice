@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1957/lei-3337-1957-12-12",
+"urn": "urn:lex:br:federal:lei:1957-12-12;3337",
+"consultado_em": "2026-11-08",
+"codigo": "545136",
+"nome": "Lei nº 3.337 de 12/12/1957",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1957-12-13", "descricao": "Publicação Original [Diário Oficial da União de 13/12/1957] (p. 27917, col. 1)"}
+],
+"alteracoes": [
+{"data": "1957-12-16", "nome": "Decreto nº 42.823 de 16/12/1957", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1959-01-16", "nome": "Decreto nº 45.264 de 16/01/1959", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1962-06-11", "nome": "Lei nº 4.069 de 11/06/1962", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/1962/lei-4069-1962-06-11"}
+],
+"controle": []
+}

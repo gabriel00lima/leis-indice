@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-complementares/1977/lcp-32-1977-12-26",
+"urn": "urn:lex:br:federal:lei.complementar:1977-12-26;32",
+"consultado_em": "2026-11-08",
+"codigo": "540737",
+"nome": "Lei Complementar nº 32 de 26/12/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-12-26", "descricao": "Publicação Original [Diário Oficial da União de 26/12/1977] (p. 17825, col. 1)"},
+{"tipo": "RET", "data": "1977-12-28", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 28/12/1977] (p. 18057, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-05-16", "nome": "Lei Complementar nº 33 de 16/05/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-complementares/1978/lcp-33-1978-05-16"}
+],
+"controle": []
+}

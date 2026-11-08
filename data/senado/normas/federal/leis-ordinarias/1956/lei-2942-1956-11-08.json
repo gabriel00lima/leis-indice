@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1956/lei-2942-1956-11-08",
+"urn": "urn:lex:br:federal:lei:1956-11-08;2942",
+"consultado_em": "2026-11-08",
+"codigo": "544785",
+"nome": "Lei nº 2.942 de 08/11/1956",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1956-11-10", "descricao": "Publicação Original [Diário Oficial da União de 10/11/1956] (p. 21425, col. 1)"}
+],
+"alteracoes": [
+{"data": "1958-03-12", "nome": "Lei nº 3.374 de 12/03/1958", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1958/lei-3374-1958-03-12"}
+],
+"controle": []
+}

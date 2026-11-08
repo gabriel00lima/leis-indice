@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1946/del-9411-1946-06-28",
+"urn": "urn:lex:br:federal:decreto.lei:1946-06-28;9411",
+"consultado_em": "2026-11-08",
+"codigo": "534450",
+"nome": "Decreto-Lei nº 9.411 de 28/06/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-06-29", "descricao": "Publicação Original [Diário Oficial da União de 29/06/1946] (p. 9665, col. 2)"}
+],
+"alteracoes": [
+{"data": "1946-09-04", "nome": "Decreto-Lei nº 9.738 de 04/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9738-1946-09-04"},
+{"data": "1946-12-12", "nome": "Decreto nº 22.260 de 12/12/1946", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1947-02-15", "nome": "Lei nº 27 de 15/02/1947", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1947/lei-27-1947-02-15"}
+],
+"controle": []
+}

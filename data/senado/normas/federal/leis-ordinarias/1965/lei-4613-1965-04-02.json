@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4613-1965-04-02",
+"urn": "urn:lex:br:federal:lei:1965-04-02;4613",
+"consultado_em": "2026-11-08",
+"codigo": "546466",
+"nome": "Lei nº 4.613 de 02/04/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-04-07", "descricao": "Publicação Original [Diário Oficial da União de 07/04/1965] (p. 3497, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-07-29", "nome": "Decreto nº 58.932 de 29/07/1966", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1969-03-05", "nome": "Decreto-Lei nº 491 de 05/03/1969", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1969/del-491-1969-03-05"},
+{"data": "1969-07-17", "nome": "Decreto nº 64.833 de 17/07/1969", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1970-10-13", "nome": "Decreto nº 67.374 de 13/10/1970", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

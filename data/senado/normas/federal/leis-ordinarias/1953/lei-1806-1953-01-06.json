@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1953/lei-1806-1953-01-06",
+"urn": "urn:lex:br:federal:lei:1953-01-06;1806",
+"consultado_em": "2026-11-08",
+"codigo": "543558",
+"nome": "Lei nº 1.806 de 06/01/1953",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1953-01-07", "descricao": "Publicação Original [Diário Oficial da União de 07/01/1953] (p. 276, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-10-27", "nome": "Lei nº 5.173 de 27/10/1966", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5173-1966-10-27"}
+],
+"controle": []
+}

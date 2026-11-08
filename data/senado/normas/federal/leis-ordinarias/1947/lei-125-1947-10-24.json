@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1947/lei-125-1947-10-24",
+"urn": "urn:lex:br:federal:lei:1947-10-24;125",
+"consultado_em": "2026-11-08",
+"codigo": "541111",
+"nome": "Lei nº 125 de 24/10/1947",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1947-11-01", "descricao": "Publicação Original [Diário Oficial da União de 01/11/1947] (p. 14013, col. 2)"}
+],
+"alteracoes": [
+{"data": "1959-05-27", "nome": "Decreto nº 46.125 de 27/05/1959", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

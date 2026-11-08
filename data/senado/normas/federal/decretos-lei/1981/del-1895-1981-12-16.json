@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1981/del-1895-1981-12-16",
+"urn": "urn:lex:br:federal:decreto.lei:1981-12-16;1895",
+"consultado_em": "2026-11-08",
+"codigo": "526399",
+"nome": "Decreto-Lei nº 1.895 de 16/12/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-12-17", "descricao": "Publicação Original [Diário Oficial da União de 17/12/1981] (p. 24064, col. 2)"}
+],
+"alteracoes": [
+{"data": "1982-05-26", "nome": "Decreto Legislativo nº 41 de 26/05/1982", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

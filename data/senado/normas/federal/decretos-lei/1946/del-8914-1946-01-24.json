@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8914-1946-01-24",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-24;8914",
+"consultado_em": "2026-11-08",
+"codigo": "533950",
+"nome": "Decreto-Lei nº 8.914 de 24/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-30", "descricao": "Publicação Original [Diário Oficial da União de 30/01/1946] (p. 1511, col. 4)"}
+],
+"alteracoes": [
+{"data": "1946-04-23", "nome": "Decreto-Lei nº 9.191 de 23/04/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9191-1946-04-23"}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1988/del-2472-1988-09-01",
+"urn": "urn:lex:br:federal:decreto.lei:1988-09-01;2472",
+"consultado_em": "2026-11-08",
+"codigo": "527557",
+"nome": "Decreto-Lei nº 2.472 de 01/09/1988",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1988-09-02", "descricao": "Publicação Original [Diário Oficial da União de 02/09/1988] (p. 16934, col. 2)"}
+],
+"alteracoes": [
+{"data": "1989-08-30", "nome": "Decreto nº 98.097 de 30/08/1989", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2006-08-24", "nome": "Medida Provisória nº 320 de 24/08/2006", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "alterou"}]},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

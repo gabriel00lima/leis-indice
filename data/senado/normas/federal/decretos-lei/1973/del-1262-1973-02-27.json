@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1973/del-1262-1973-02-27",
+"urn": "urn:lex:br:federal:decreto.lei:1973-02-27;1262",
+"consultado_em": "2026-11-08",
+"codigo": "525145",
+"nome": "Decreto-Lei nº 1.262 de 27/02/1973",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-02-28", "descricao": "Publicação Original [Diário Oficial da União de 28/02/1973] (p. 2129, col. 2)"}
+],
+"alteracoes": [
+{"data": "1973-04-30", "nome": "Decreto Legislativo nº 15 de 30/04/1973", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/emendas-constitucionais/1975/emc-4-1975-04-23",
+"urn": "urn:lex:br:federal:emenda.constitucional:1975-04-23;4",
+"consultado_em": "2026-11-08",
+"codigo": "593586",
+"nome": "Emenda Constitucional nº 4 de 23/04/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-04-24", "descricao": "Publicação Original [Diário Oficial da União de 24/04/1975] (p. 4785, col. 1)"}
+],
+"alteracoes": [
+{"data": "1975-07-02", "nome": "Lei Complementar nº 25 de 02/07/1975", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/leis-complementares/1975/lcp-25-1975-07-02"}
+],
+"controle": []
+}

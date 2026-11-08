@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1967/del-302-1967-02-28",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-28;302",
+"consultado_em": "2026-11-08",
+"codigo": "523242",
+"nome": "Decreto-Lei nº 302 de 28/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-28", "descricao": "Publicação Original [Diário Oficial da União de 28/02/1967] (p. 2480, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-05-12", "nome": "Decreto nº 60.722 de 12/05/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1968-12-30", "nome": "Decreto-Lei nº 391 de 30/12/1968", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1968/del-391-1968-12-30"},
+{"data": "1969-11-20", "nome": "Decreto nº 65.719 de 20/11/1969", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1975-01-29", "nome": "Decreto nº 75.321 de 29/01/1975", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

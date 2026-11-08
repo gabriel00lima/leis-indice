@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1956/lei-2815-1956-07-06",
+"urn": "urn:lex:br:federal:lei:1956-07-06;2815",
+"consultado_em": "2026-11-08",
+"codigo": "544638",
+"nome": "Lei nº 2.815 de 06/07/1956",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1956-07-11", "descricao": "Publicação Original [Diário Oficial da União de 11/07/1956] (p. 13145, col. 3)"}
+],
+"alteracoes": [
+{"data": "2021-03-29", "nome": "Medida Provisória nº 1.040 de 29/03/2021", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2021-08-26", "nome": "Lei nº 14.195 de 26/08/2021", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14195-2021-08-26"}
+],
+"controle": []
+}

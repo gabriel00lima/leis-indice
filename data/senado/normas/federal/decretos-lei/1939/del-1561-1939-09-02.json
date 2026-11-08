@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1939/del-1561-1939-09-02",
+"urn": "urn:lex:br:federal:decreto.lei:1939-09-02;1561",
+"consultado_em": "2026-11-08",
+"codigo": "525742",
+"nome": "Decreto-Lei nº 1.561 de 02/09/1939",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1939-09-04", "descricao": "Publicação Original [Diário Oficial da União de 04/09/1939] (p. 21265, col. 1)"},
+{"tipo": "REP", "data": "1939-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1939 - vol. 006] (p. 267, col. 1)"}
+],
+"alteracoes": [
+{"data": "1941-01-15", "nome": "Decreto-Lei nº 2.947 de 15/01/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-2947-1941-01-15"}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1983/del-2028-1983-06-09",
+"urn": "urn:lex:br:federal:decreto.lei:1983-06-09;2028",
+"consultado_em": "2026-11-08",
+"codigo": "526665",
+"nome": "Decreto-Lei nº 2.028 de 09/06/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-06-10", "descricao": "Publicação Original [Diário Oficial da União de 10/06/1983] (p. 9929, col. 2)"}
+],
+"alteracoes": [
+{"data": "1983-10-19", "nome": "Decreto-Lei nº 2.064 de 19/10/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2064-1983-10-19"},
+{"data": "1983-10-26", "nome": "Decreto-Lei nº 2.065 de 26/10/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2065-1983-10-26"},
+{"data": "1983-11-09", "nome": "Decreto-Lei nº 2.067 de 09/11/1983", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/decretos-lei/1983/del-2067-1983-11-09"}
+],
+"controle": []
+}

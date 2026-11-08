@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1947/lei-102-1947-09-18",
+"urn": "urn:lex:br:federal:lei:1947-09-18;102",
+"consultado_em": "2026-11-08",
+"codigo": "541059",
+"nome": "Lei nº 102 de 18/09/1947",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1947-09-26", "descricao": "Publicação Original [Diário Oficial da União de 26/09/1947] (p. 12627, col. 1)"}
+],
+"alteracoes": [
+{"data": "1948-02-06", "nome": "Lei nº 227 de 06/02/1948", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Alínea d", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/1948/lei-227-1948-02-06"}
+],
+"controle": []
+}

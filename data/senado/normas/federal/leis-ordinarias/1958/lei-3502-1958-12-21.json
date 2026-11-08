@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1958/lei-3502-1958-12-21",
+"urn": "urn:lex:br:federal:lei:1958-12-21;3502",
+"consultado_em": "2026-11-08",
+"codigo": "545318",
+"nome": "Lei nº 3.502 de 21/12/1958",
+"apelidos": [
+"Lei Bilac Pinto (1958)",
+"Lei do Enriquecimento Ilícito (1958)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1958-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/1958] (p. 26947, col. 3)"}
+],
+"alteracoes": [
+{"data": "1992-06-02", "nome": "Lei nº 8.429 de 02/06/1992", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1992/lei-8429-1992-06-02"}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1976/del-1456-1976-04-07",
+"urn": "urn:lex:br:federal:decreto.lei:1976-04-07;1456",
+"consultado_em": "2026-11-08",
+"codigo": "525534",
+"nome": "Decreto-Lei nº 1.456 de 07/04/1976",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1976-04-08", "descricao": "Publicação Original [Diário Oficial da União de 08/04/1976] (p. 4545, col. 4)"}
+],
+"alteracoes": [
+{"data": "1976-05-20", "nome": "Decreto Legislativo nº 42 de 20/05/1976", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1979-12-03", "nome": "Decreto-Lei nº 1.722 de 03/12/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 3", "art": "1", "acao": "revogou"}], "id": "federal/decretos-lei/1979/del-1722-1979-12-03"},
+{"data": "1981-12-16", "nome": "Decreto-Lei nº 1.894 de 16/12/1981", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1981/del-1894-1981-12-16"}
+],
+"controle": []
+}

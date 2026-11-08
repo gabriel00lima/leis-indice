@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1953/lei-2069-1953-11-09",
+"urn": "urn:lex:br:federal:lei:1953-11-09;2069",
+"consultado_em": "2026-11-08",
+"codigo": "543844",
+"nome": "Lei nº 2.069 de 09/11/1953",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1953-11-11", "descricao": "Publicação Original [Diário Oficial da União de 11/11/1953] (p. 19114, col. 2)"}
+],
+"alteracoes": [
+{"data": "1956-06-15", "nome": "Lei nº 2.799 de 15/06/1956", "tipo": "Revigoração Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2799-1956-06-15"}
+],
+"controle": []
+}

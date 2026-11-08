@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1961/lei-3919-1961-07-19",
+"urn": "urn:lex:br:federal:lei:1961-07-19;3919",
+"consultado_em": "2026-11-08",
+"codigo": "545751",
+"nome": "Lei nº 3.919 de 19/07/1961",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1961-07-20", "descricao": "Publicação Original [Diário Oficial da União de 20/07/1961] (p. 6545, col. 2)"}
+],
+"alteracoes": [
+{"data": "1984-06-04", "nome": "Lei nº 7.190 de 04/06/1984", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1984/lei-7190-1984-06-04"}
+],
+"controle": []
+}

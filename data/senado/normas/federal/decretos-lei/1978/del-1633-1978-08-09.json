@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1978/del-1633-1978-08-09",
+"urn": "urn:lex:br:federal:decreto.lei:1978-08-09;1633",
+"consultado_em": "2026-11-08",
+"codigo": "525887",
+"nome": "Decreto-Lei nº 1.633 de 09/08/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-08-10", "descricao": "Publicação Original [Diário Oficial da União de 10/08/1978] (p. 12727, col. 1)"},
+{"tipo": "RET", "data": "1978-08-23", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 23/08/1978] (p. 13623, col. 1)"},
+{"tipo": "RET", "data": "1978-08-24", "descricao": "Retificação (Seq. 2) [Diário Oficial da União de 24/08/1978] (p. 13728, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-10-05", "nome": "Decreto Legislativo nº 66 de 05/10/1978", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1996-12-27", "nome": "Lei nº 9.430 de 27/12/1996", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}], "id": "federal/leis-ordinarias/1996/lei-9430-1996-12-27"}
+],
+"controle": []
+}

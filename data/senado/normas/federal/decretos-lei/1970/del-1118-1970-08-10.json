@@ -1,0 +1,20 @@
+{
+"id": "federal/decretos-lei/1970/del-1118-1970-08-10",
+"urn": "urn:lex:br:federal:decreto.lei:1970-08-10;1118",
+"consultado_em": "2026-11-08",
+"codigo": "524858",
+"nome": "Decreto-Lei nº 1.118 de 10/08/1970",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1970-08-10", "descricao": "Publicação Original [Diário Oficial da União de 10/08/1970] (p. 6953, col. 2)"}
+],
+"alteracoes": [
+{"data": "1970-09-04", "nome": "Decreto Legislativo nº 56 de 04/09/1970", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1971-09-24", "nome": "Decreto-Lei nº 1.189 de 24/09/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1971/del-1189-1971-09-24"},
+{"data": "1972-07-28", "nome": "Decreto nº 70.885 de 28/07/1972", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1978-05-03", "nome": "Decreto nº 81.620 de 03/05/1978", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1990-12-14", "nome": "Medida Provisória nº 287 de 14/12/1990", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "alterou"}]},
+{"data": "1996-12-27", "nome": "Lei nº 9.430 de 27/12/1996", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}], "id": "federal/leis-ordinarias/1996/lei-9430-1996-12-27"}
+],
+"controle": []
+}

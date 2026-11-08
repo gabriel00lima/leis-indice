@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1959/lei-3579-1959-07-10",
+"urn": "urn:lex:br:federal:lei:1959-07-10;3579",
+"consultado_em": "2026-11-08",
+"codigo": "545395",
+"nome": "Lei nº 3.579 de 10/07/1959",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1959-07-13", "descricao": "Publicação Original [Diário Oficial da União de 13/07/1959] (p. 15673, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-10-13", "nome": "Decreto-Lei nº 958 de 13/10/1969", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1969/del-958-1969-10-13"}
+],
+"controle": []
+}

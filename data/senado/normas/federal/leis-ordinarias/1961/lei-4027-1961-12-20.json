@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1961/lei-4027-1961-12-20",
+"urn": "urn:lex:br:federal:lei:1961-12-20;4027",
+"consultado_em": "2026-11-08",
+"codigo": "545859",
+"nome": "Lei nº 4.027 de 20/12/1961",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-01-08", "descricao": "Publicação Original [Diário Oficial da União de 08/01/1962] (p. 189, col. 1)"}
+],
+"alteracoes": [
+{"data": "1964-08-17", "nome": "Lei nº 4.375 de 17/08/1964", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4375-1964-08-17"}
+],
+"controle": []
+}

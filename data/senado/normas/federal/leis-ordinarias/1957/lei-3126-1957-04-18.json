@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1957/lei-3126-1957-04-18",
+"urn": "urn:lex:br:federal:lei:1957-04-18;3126",
+"consultado_em": "2026-11-08",
+"codigo": "573350",
+"nome": "Lei nº 3.126 de 18/04/1957",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1957-04-23", "descricao": "Publicação Original [Diário Oficial da União de 23/04/1957] (p. 9913, col. 1)"}
+],
+"alteracoes": [
+{"data": "1968-12-11", "nome": "Lei nº 5.558 de 11/12/1968", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1968/lei-5558-1968-12-11"}
+],
+"controle": []
+}

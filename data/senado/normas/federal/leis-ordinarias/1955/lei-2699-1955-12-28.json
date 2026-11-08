@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1955/lei-2699-1955-12-28",
+"urn": "urn:lex:br:federal:lei:1955-12-28;2699",
+"consultado_em": "2026-11-08",
+"codigo": "544515",
+"nome": "Lei nº 2.699 de 28/12/1955",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1955-12-29", "descricao": "Publicação Original [Diário Oficial da União de 29/12/1955] (p. 23773, col. 4)"}
+],
+"alteracoes": [
+{"data": "1956-12-29", "nome": "Lei nº 3.085 de 29/12/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-3085-1956-12-29"},
+{"data": "1964-11-25", "nome": "Lei nº 4.494 de 25/11/1964", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4494-1964-11-25"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4442-1964-10-29",
+"urn": "urn:lex:br:federal:lei:1964-10-29;4442",
+"consultado_em": "2026-11-08",
+"codigo": "546293",
+"nome": "Lei nº 4.442 de 29/10/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-10-30", "descricao": "Publicação Original [Diário Oficial da União de 30/10/1964] (p. 9827, col. 2)"}
+],
+"alteracoes": [
+{"data": "1965-08-12", "nome": "Lei nº 4.750 de 12/08/1965", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4750-1965-08-12"}
+],
+"controle": []
+}

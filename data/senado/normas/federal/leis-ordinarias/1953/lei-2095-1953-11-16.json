@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1953/lei-2095-1953-11-16",
+"urn": "urn:lex:br:federal:lei:1953-11-16;2095",
+"consultado_em": "2026-11-08",
+"codigo": "543871",
+"nome": "Lei nº 2.095 de 16/11/1953",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1953-11-20", "descricao": "Publicação Original [Diário Oficial da União de 20/11/1953] (p. 19857, col. 1)"}
+],
+"alteracoes": [
+{"data": "1955-12-27", "nome": "Lei nº 2.697 de 27/12/1955", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1955/lei-2697-1955-12-27"}
+],
+"controle": []
+}

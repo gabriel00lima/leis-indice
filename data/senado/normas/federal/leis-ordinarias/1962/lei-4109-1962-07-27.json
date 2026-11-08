@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1962/lei-4109-1962-07-27",
+"urn": "urn:lex:br:federal:lei:1962-07-27;4109",
+"consultado_em": "2026-11-08",
+"codigo": "545950",
+"nome": "Lei nº 4.109 de 27/07/1962",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-07-27", "descricao": "Publicação Original [Diário Oficial da União de 27/07/1962] (p. 7973, col. 1)"}
+],
+"alteracoes": [
+{"data": "1962-08-22", "nome": "Lei nº 4.115 de 22/08/1962", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1962/lei-4115-1962-08-22"}
+],
+"controle": []
+}

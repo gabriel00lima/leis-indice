@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1062-1950-02-10",
+"urn": "urn:lex:br:federal:lei:1950-02-10;1062",
+"consultado_em": "2026-11-08",
+"codigo": "542669",
+"nome": "Lei nº 1.062 de 10/02/1950",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-02-24", "descricao": "Publicação Original [Diário Oficial da União de 24/02/1950] (p. 2585, col. 2)"}
+],
+"alteracoes": [
+{"data": "1950-06-30", "nome": "Decreto nº 28.332 de 30/06/1950", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1956-12-21", "nome": "Lei nº 3.047 de 21/12/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-3047-1956-12-21"}
+],
+"controle": []
+}

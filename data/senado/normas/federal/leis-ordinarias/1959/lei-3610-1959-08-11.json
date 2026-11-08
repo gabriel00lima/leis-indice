@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1959/lei-3610-1959-08-11",
+"urn": "urn:lex:br:federal:lei:1959-08-11;3610",
+"consultado_em": "2026-11-08",
+"codigo": "545426",
+"nome": "Lei nº 3.610 de 11/08/1959",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1959-08-12", "descricao": "Publicação Original [Diário Oficial da União de 12/08/1959] (p. 17513, col. 3)"}
+],
+"alteracoes": [
+{"data": "1960-07-07", "nome": "Decreto nº 48.469 de 07/07/1960", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

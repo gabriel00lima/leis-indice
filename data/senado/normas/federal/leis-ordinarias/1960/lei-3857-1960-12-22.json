@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1960/lei-3857-1960-12-22",
+"urn": "urn:lex:br:federal:lei:1960-12-22;3857",
+"consultado_em": "2026-11-08",
+"codigo": "545683",
+"nome": "Lei nº 3.857 de 22/12/1960",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1960-12-23", "descricao": "Publicação Original [Diário Oficial da União de 23/12/1960] (p. 16269, col. 1)"}
+],
+"alteracoes": [
+{"data": "1965-11-01", "nome": "Decreto nº 57.146 de 01/11/1965", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1977-01-18", "nome": "Decreto nº 79.137 de 18/01/1977", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2019-11-11", "nome": "Medida Provisória nº 905 de 11/11/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 56, caput", "art": "56", "acao": "alterou"}, {"dispositivo": "Art. 57", "art": "57", "acao": "revogou"}]}
+],
+"controle": []
+}

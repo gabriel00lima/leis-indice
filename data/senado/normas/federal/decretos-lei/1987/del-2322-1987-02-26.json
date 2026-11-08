@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1987/del-2322-1987-02-26",
+"urn": "urn:lex:br:federal:decreto.lei:1987-02-26;2322",
+"consultado_em": "2026-11-08",
+"codigo": "527257",
+"nome": "Decreto-Lei nº 2.322 de 26/02/1987",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1987-02-27", "descricao": "Publicação Original [Diário Oficial da União de 27/02/1987] (p. 2901, col. 1)"}
+],
+"alteracoes": [
+{"data": "1987-07-02", "nome": "Decreto nº 94.548 de 02/07/1987", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1987/del-2394-1987-12-21",
+"urn": "urn:lex:br:federal:decreto.lei:1987-12-21;2394",
+"consultado_em": "2026-11-08",
+"codigo": "527401",
+"nome": "Decreto-Lei nº 2.394 de 21/12/1987",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1987-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/1987] (p. 22227, col. 1)"}
+],
+"alteracoes": [
+{"data": "1988-02-10", "nome": "Decreto-Lei nº 2.413 de 10/02/1988", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "correlato"}], "id": "federal/decretos-lei/1988/del-2413-1988-02-10"},
+{"data": "1988-02-10", "nome": "Decreto-Lei nº 2.413 de 10/02/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8, caput", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 8, Parágrafo Único", "art": "8", "acao": "revogou"}], "id": "federal/decretos-lei/1988/del-2413-1988-02-10"},
+{"data": "1988-08-25", "nome": "Decreto-Lei nº 2.458 de 25/08/1988", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "com novo tratamento da matéria"}], "id": "federal/decretos-lei/1988/del-2458-1988-08-25"},
+{"data": "1988-12-22", "nome": "Lei nº 7.713 de 22/12/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, caput, Item 3", "art": "7", "acao": "revogou"}], "id": "federal/leis-ordinarias/1988/lei-7713-1988-12-22"}
+],
+"controle": []
+}

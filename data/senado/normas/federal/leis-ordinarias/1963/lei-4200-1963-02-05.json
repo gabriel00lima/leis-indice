@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/1963/lei-4200-1963-02-05",
+"urn": "urn:lex:br:federal:lei:1963-02-05;4200",
+"consultado_em": "2026-11-08",
+"codigo": "546042",
+"nome": "Lei nº 4.200 de 05/02/1963",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1963-02-18", "descricao": "Publicação Original [Diário Oficial da União de 18/02/1963] (p. 1777, col. 1)"}
+],
+"alteracoes": [
+{"data": "1963-08-12", "nome": "Decreto nº 52.347 de 12/08/1963", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1963-10-15", "nome": "Decreto nº 52.692 de 15/10/1963", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1963-10-15", "nome": "Decreto nº 52.693 de 15/10/1963", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1963-12-31", "nome": "Decreto nº 53.385 de 31/12/1963", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1964-02-20", "nome": "Decreto nº 53.573 de 20/02/1964", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1964-11-30", "nome": "Lei nº 4.506 de 30/11/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4506-1964-11-30"},
+{"data": "1966-11-14", "nome": "Decreto-Lei nº 29 de 14/11/1966", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 26", "art": "26", "acao": "revogou"}], "id": "federal/decretos-lei/1966/del-29-1966-11-14"}
+],
+"controle": []
+}

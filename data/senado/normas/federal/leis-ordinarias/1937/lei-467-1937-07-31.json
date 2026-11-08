@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1937/lei-467-1937-07-31",
+"urn": "urn:lex:br:federal:lei:1937-07-31;467",
+"consultado_em": "2026-11-08",
+"codigo": "541843",
+"nome": "Lei nº 467 de 31/07/1937",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1937-08-07", "descricao": "Publicação Original [Diário Oficial da União de 07/08/1937] (p. 16702, col. 1)"}
+],
+"alteracoes": [
+{"data": "1945-12-06", "nome": "Decreto-Lei nº 8.309 de 06/12/1945", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1945/del-8309-1945-12-06"}
+],
+"controle": []
+}

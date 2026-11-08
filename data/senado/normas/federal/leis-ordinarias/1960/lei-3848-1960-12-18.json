@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1960/lei-3848-1960-12-18",
+"urn": "urn:lex:br:federal:lei:1960-12-18;3848",
+"consultado_em": "2026-11-08",
+"codigo": "545674",
+"nome": "Lei nº 3.848 de 18/12/1960",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1960-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/1960] (p. 16118, col. 1)"}
+],
+"alteracoes": [
+{"data": "1961-01-21", "nome": "Decreto nº 49.973 de 21/01/1961", "tipo": "Aprovação de Estatuto", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1963/lei-4265-1963-10-03",
+"urn": "urn:lex:br:federal:lei:1963-10-03;4265",
+"consultado_em": "2026-11-08",
+"codigo": "546113",
+"nome": "Lei nº 4.265 de 03/10/1963",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1963-10-29", "descricao": "Publicação Original [Diário Oficial da União de 29/10/1963] (p. 9073, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-12-08", "nome": "Lei nº 5.187 de 08/12/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5187-1966-12-08"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1979/del-1667-1979-02-13",
+"urn": "urn:lex:br:federal:decreto.lei:1979-02-13;1667",
+"consultado_em": "2026-11-08",
+"codigo": "525955",
+"nome": "Decreto-Lei nº 1.667 de 13/02/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-02-14", "descricao": "Publicação Original [Diário Oficial da União de 14/02/1979] (p. 2284, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-06-05", "nome": "Decreto Legislativo nº 33 de 05/06/1979", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1979-12-28", "nome": "Decreto-Lei nº 1.750 de 28/12/1979", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1750-1979-12-28"}
+],
+"controle": []
+}

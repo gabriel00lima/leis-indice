@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1960/lei-3736-1960-03-22",
+"urn": "urn:lex:br:federal:lei:1960-03-22;3736",
+"consultado_em": "2026-11-08",
+"codigo": "545554",
+"nome": "Lei nº 3.736 de 22/03/1960",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1960-03-29", "descricao": "Publicação Original [Diário Oficial da União de 29/03/1960] (p. 5681, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-10-20", "nome": "Lei nº 5.143 de 20/10/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5143-1966-10-20"},
+{"data": "1981-02-18", "nome": "Decreto nº 85.737 de 18/02/1981", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1991-10-22", "nome": "Lei nº 8.246 de 22/10/1991", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8246-1991-10-22"}
+],
+"controle": []
+}

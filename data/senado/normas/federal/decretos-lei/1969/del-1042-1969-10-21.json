@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1969/del-1042-1969-10-21",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-21;1042",
+"consultado_em": "2026-11-08",
+"codigo": "524707",
+"nome": "Decreto-Lei nº 1.042 de 21/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-21", "descricao": "Publicação Original [Diário Oficial da União de 21/10/1969] (p. 8955, col. 4)"}
+],
+"alteracoes": [
+{"data": "1970-03-02", "nome": "Decreto-Lei nº 1.089 de 02/03/1970", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1970/del-1089-1970-03-02"},
+{"data": "1979-10-18", "nome": "Decreto-Lei nº 1.700 de 18/10/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 11", "art": "1", "acao": "alterou"}], "id": "federal/decretos-lei/1979/del-1700-1979-10-18"},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

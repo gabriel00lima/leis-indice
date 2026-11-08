@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1963/lei-4238-1963-06-26",
+"urn": "urn:lex:br:federal:lei:1963-06-26;4238",
+"consultado_em": "2026-11-08",
+"codigo": "546083",
+"nome": "Lei nº 4.238 de 26/06/1963",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1963-07-01", "descricao": "Publicação Original [Diário Oficial da União de 01/07/1963] (p. 5641, col. 2)"}
+],
+"alteracoes": [
+{"data": "1969-06-17", "nome": "Decreto-Lei nº 633 de 17/06/1969", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1969/del-633-1969-06-17"}
+],
+"controle": []
+}

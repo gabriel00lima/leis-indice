@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1953/lei-1956-1953-08-26",
+"urn": "urn:lex:br:federal:lei:1953-08-26;1956",
+"consultado_em": "2026-11-08",
+"codigo": "543722",
+"nome": "Lei nº 1.956 de 26/08/1953",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1953-08-29", "descricao": "Publicação Original [Diário Oficial da União de 29/08/1953] (p. 14833, col. 1)"}
+],
+"alteracoes": [
+{"data": "1956-10-08", "nome": "Lei nº 2.905 de 08/10/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2905-1956-10-08"},
+{"data": "1976-07-06", "nome": "Lei nº 6.347 de 06/07/1976", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1976/lei-6347-1976-07-06"}
+],
+"controle": []
+}

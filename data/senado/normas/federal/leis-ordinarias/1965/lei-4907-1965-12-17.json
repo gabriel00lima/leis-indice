@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4907-1965-12-17",
+"urn": "urn:lex:br:federal:lei:1965-12-17;4907",
+"consultado_em": "2026-11-08",
+"codigo": "546763",
+"nome": "Lei nº 4.907 de 17/12/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-12-21", "descricao": "Publicação Original [Diário Oficial da União de 21/12/1965] (p. 13177, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-09-28", "nome": "Decreto nº 59.316 de 28/09/1966", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1975-12-11", "nome": "Lei nº 6.288 de 11/12/1975", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1975/lei-6288-1975-12-11"}
+],
+"controle": []
+}

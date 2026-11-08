@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1958/lei-3382-1958-04-24",
+"urn": "urn:lex:br:federal:lei:1958-04-24;3382",
+"consultado_em": "2026-11-08",
+"codigo": "545189",
+"nome": "Lei nº 3.382 de 24/04/1958",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1958-04-25", "descricao": "Publicação Original [Diário Oficial da União de 25/04/1958] (p. 9387, col. 1)"}
+],
+"alteracoes": [
+{"data": "1963-04-08", "nome": "Decreto nº 51.893 de 08/04/1963", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

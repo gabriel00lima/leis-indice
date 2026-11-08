@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1966/del-56-1966-11-18",
+"urn": "urn:lex:br:federal:decreto.lei:1966-11-18;56",
+"consultado_em": "2026-11-08",
+"codigo": "522754",
+"nome": "Decreto-Lei nº 56 de 18/11/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-21", "descricao": "Publicação Original [Diário Oficial da União de 21/11/1966] (p. 13418, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-11-14", "nome": "Decreto-Lei nº 1.712 de 14/11/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1712-1979-11-14"}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1967/del-244-1967-02-28",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-28;244",
+"consultado_em": "2026-11-08",
+"codigo": "523128",
+"nome": "Decreto-Lei nº 244 de 28/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-28", "descricao": "Publicação Original [Diário Oficial da União de 28/02/1967] (p. 2440, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-06-21", "nome": "Decreto nº 60.883 de 21/06/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1969-12-02", "nome": "Lei Complementar nº 4 de 02/12/1969", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-complementares/1969/lcp-4-1969-12-02"},
+{"data": "1988-05-19", "nome": "Decreto-Lei nº 2.433 de 19/05/1988", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1988/del-2433-1988-05-19"}
+],
+"controle": []
+}

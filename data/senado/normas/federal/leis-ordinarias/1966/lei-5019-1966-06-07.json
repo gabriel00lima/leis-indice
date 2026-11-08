@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1966/lei-5019-1966-06-07",
+"urn": "urn:lex:br:federal:lei:1966-06-07;5019",
+"consultado_em": "2026-11-08",
+"codigo": "546877",
+"nome": "Lei nº 5.019 de 07/06/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-06-10", "descricao": "Publicação Original [Diário Oficial da União de 10/06/1966] (p. 6212, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-08-11", "nome": "Decreto nº 59.050 de 11/08/1966", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1969-10-01", "nome": "Decreto-Lei nº 904 de 01/10/1969", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "revogou"}, {"dispositivo": "Art. 22, Parágrafo Único", "art": "22", "acao": "revogou"}], "id": "federal/decretos-lei/1969/del-904-1969-10-01"},
+{"data": "1972-01-25", "nome": "Decreto nº 70.049 de 25/01/1972", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

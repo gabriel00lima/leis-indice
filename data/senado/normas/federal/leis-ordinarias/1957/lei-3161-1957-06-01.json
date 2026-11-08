@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1957/lei-3161-1957-06-01",
+"urn": "urn:lex:br:federal:lei:1957-06-01;3161",
+"consultado_em": "2026-11-08",
+"codigo": "573394",
+"nome": "Lei nº 3.161 de 01/06/1957",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1957-06-04", "descricao": "Publicação Original [Diário Oficial da União de 04/06/1957] (p. 13801, col. 2)"}
+],
+"alteracoes": [
+{"data": "1958-10-20", "nome": "Decreto nº 44.684 de 20/10/1958", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

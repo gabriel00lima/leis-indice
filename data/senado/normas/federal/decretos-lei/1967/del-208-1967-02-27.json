@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1967/del-208-1967-02-27",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-27;208",
+"consultado_em": "2026-11-08",
+"codigo": "523057",
+"nome": "Decreto-Lei nº 208 de 27/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-27", "descricao": "Publicação Original [Diário Oficial da União de 27/02/1967] (p. 2351, col. 4)"}
+],
+"alteracoes": [
+{"data": "1967-10-18", "nome": "Decreto-Lei nº 335 de 18/10/1967", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "revogou"}], "id": "federal/decretos-lei/1967/del-335-1967-10-18"},
+{"data": "1967-12-28", "nome": "Decreto-Lei nº 343 de 28/12/1967", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1967/del-343-1967-12-28"}
+],
+"controle": []
+}

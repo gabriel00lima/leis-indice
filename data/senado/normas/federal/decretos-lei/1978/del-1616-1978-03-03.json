@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1978/del-1616-1978-03-03",
+"urn": "urn:lex:br:federal:decreto.lei:1978-03-03;1616",
+"consultado_em": "2026-11-08",
+"codigo": "525853",
+"nome": "Decreto-Lei nº 1.616 de 03/03/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-03-06", "descricao": "Publicação Original [Diário Oficial da União de 06/03/1978] (p. 3188, col. 2)"}
+],
+"alteracoes": [
+{"data": "1978-05-09", "nome": "Decreto Legislativo nº 40 de 09/05/1978", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1979-02-19", "nome": "Decreto-Lei nº 1.674 de 19/02/1979", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1674-1979-02-19"}
+],
+"controle": []
+}

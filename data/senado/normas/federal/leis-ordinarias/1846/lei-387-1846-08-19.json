@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1846/lei-387-1846-08-19",
+"urn": "urn:lex:br:federal:lei:1846-08-19;387",
+"consultado_em": "2026-11-08",
+"codigo": "541668",
+"nome": "Lei nº 387 de 19/08/1846",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1846-12-31", "descricao": "Publicação Original [Coleção de Leis do Império do Brasil de 31/12/1846 - vol. 001 - Parte 001 - Tomo VIII] (p. 13, col. 1)"}
+],
+"alteracoes": [
+{"data": "1852-09-13", "nome": "Decreto do Poder Legislativo nº 671 de 13/09/1852", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1855-09-19", "nome": "Decreto do Poder Legislativo nº 842 de 19/09/1855", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

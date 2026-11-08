@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1961/lei-4015-1961-12-16",
+"urn": "urn:lex:br:federal:lei:1961-12-16;4015",
+"consultado_em": "2026-11-08",
+"codigo": "545847",
+"nome": "Lei nº 4.015 de 16/12/1961",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-01-08", "descricao": "Publicação Original [Diário Oficial da União de 08/01/1962] (p. 186, col. 4)"}
+],
+"alteracoes": [
+{"data": "1966-05-13", "nome": "Lei nº 4.982 de 13/05/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-4982-1966-05-13"}
+],
+"controle": []
+}

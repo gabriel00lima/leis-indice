@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1969/del-862-1969-09-12",
+"urn": "urn:lex:br:federal:decreto.lei:1969-09-12;862",
+"consultado_em": "2026-11-08",
+"codigo": "524349",
+"nome": "Decreto-Lei nº 862 de 12/09/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-09-12", "descricao": "Publicação Original [Diário Oficial da União de 12/09/1969] (p. 7731, col. 4)"}
+],
+"alteracoes": [
+{"data": "1975-12-02", "nome": "Decreto-Lei nº 1.429 de 02/12/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1975/del-1429-1975-12-02"},
+{"data": "1976-07-22", "nome": "Decreto nº 78.108 de 22/07/1976", "tipo": "Aprovação de Estatuto", "dispositivos": []},
+{"data": "1978-05-05", "nome": "Decreto nº 81.628 de 05/05/1978", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1985-03-15", "nome": "Decreto nº 91.144 de 15/03/1985", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1988-05-27", "nome": "Decreto nº 96.106 de 27/05/1988", "tipo": "Aprovação de Estatuto", "dispositivos": []}
+],
+"controle": []
+}

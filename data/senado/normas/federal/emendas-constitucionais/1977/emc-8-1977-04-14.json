@@ -1,0 +1,17 @@
+{
+"id": "federal/emendas-constitucionais/1977/emc-8-1977-04-14",
+"urn": "urn:lex:br:federal:emenda.constitucional:1977-04-14;8",
+"consultado_em": "2026-11-08",
+"codigo": "593598",
+"nome": "Emenda Constitucional nº 8 de 14/04/1977",
+"apelidos": [
+"PACOTE DE ABRIL."
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-04-14", "descricao": "Publicação Original [Diário Oficial da União de 14/04/1977] (p. 4195, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-04-14", "nome": "Decreto-Lei nº 1.543 de 14/04/1977", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/decretos-lei/1977/del-1543-1977-04-14"}
+],
+"controle": []
+}

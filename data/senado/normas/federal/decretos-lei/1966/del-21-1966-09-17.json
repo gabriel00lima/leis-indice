@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1966/del-21-1966-09-17",
+"urn": "urn:lex:br:federal:decreto.lei:1966-09-17;21",
+"consultado_em": "2026-11-08",
+"codigo": "522684",
+"nome": "Decreto-Lei nº 21 de 17/09/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-09-20", "descricao": "Publicação Original [Diário Oficial da União de 20/09/1966] (p. 10843, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-08-05", "nome": "Decreto-Lei nº 732 de 05/08/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-732-1969-08-05"}
+],
+"controle": []
+}

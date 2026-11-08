@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1947/lei-200-1947-12-30",
+"urn": "urn:lex:br:federal:lei:1947-12-30;200",
+"consultado_em": "2026-11-08",
+"codigo": "541276",
+"nome": "Lei nº 200 de 30/12/1947",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1947-12-31", "descricao": "Publicação Original [Diário Oficial da União de 31/12/1947] (p. 16437, col. 1)"}
+],
+"alteracoes": [
+{"data": "1950-09-06", "nome": "Lei nº 1.193 de 06/09/1950", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1950/lei-1193-1950-09-06"},
+{"data": "1976-12-07", "nome": "Decreto nº 78.902 de 07/12/1976", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

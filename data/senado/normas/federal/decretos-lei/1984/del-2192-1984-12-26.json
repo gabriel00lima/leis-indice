@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1984/del-2192-1984-12-26",
+"urn": "urn:lex:br:federal:decreto.lei:1984-12-26;2192",
+"consultado_em": "2026-11-08",
+"codigo": "526997",
+"nome": "Decreto-Lei nº 2.192 de 26/12/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-12-27", "descricao": "Publicação Original [Diário Oficial da União de 27/12/1984] (p. 19524, col. 1)"}
+],
+"alteracoes": [
+{"data": "1987-06-11", "nome": "Decreto-Lei nº 2.333 de 11/06/1987", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2333-1987-06-11"},
+{"data": "1991-12-30", "nome": "Lei nº 8.383 de 30/12/1991", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8383-1991-12-30"}
+],
+"controle": []
+}
