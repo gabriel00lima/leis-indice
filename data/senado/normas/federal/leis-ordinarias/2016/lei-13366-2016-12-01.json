@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2016/lei-13366-2016-12-01",
+"urn": "urn:lex:br:federal:lei:2016-12-01;13366",
+"consultado_em": "2026-11-09",
+"codigo": "602591",
+"nome": "Lei nº 13.366 de 01/12/2016",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2016-12-02", "descricao": "Publicação Original [Diário Oficial da União de 02/12/2016] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2016-12-01", "nome": "Mensagem de Veto Parcial nº 630 de 01/12/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "veto"}]}
+],
+"controle": []
+}

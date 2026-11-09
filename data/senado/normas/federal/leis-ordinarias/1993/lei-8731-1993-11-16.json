@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1993/lei-8731-1993-11-16",
+"urn": "urn:lex:br:federal:lei:1993-11-16;8731",
+"consultado_em": "2026-11-09",
+"codigo": "550607",
+"nome": "Lei nº 8.731 de 16/11/1993",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-11-17", "descricao": "Publicação Original [Diário Oficial da União de 17/11/1993] (p. 17253, col. 1)"}
+],
+"alteracoes": [
+{"data": "1998-04-15", "nome": "Decreto nº 2.548 de 15/04/1998", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

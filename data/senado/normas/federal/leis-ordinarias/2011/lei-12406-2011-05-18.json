@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2011/lei-12406-2011-05-18",
+"urn": "urn:lex:br:federal:lei:2011-05-18;12406",
+"consultado_em": "2026-11-09",
+"codigo": "585403",
+"nome": "Lei nº 12.406 de 18/05/2011",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2011-05-19", "descricao": "Publicação Original [Diário Oficial da União de 19/05/2011] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2016-06-10", "nome": "Medida Provisória nº 731 de 10/06/2016", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 3", "art": "1", "acao": "revogou"}]},
+{"data": "2016-10-10", "nome": "Lei nº 13.346 de 10/10/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 3", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2016/lei-13346-2016-10-10"}
+],
+"controle": []
+}

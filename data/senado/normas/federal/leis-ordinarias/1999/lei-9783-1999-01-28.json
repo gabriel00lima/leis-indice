@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1999/lei-9783-1999-01-28",
+"urn": "urn:lex:br:federal:lei:1999-01-28;9783",
+"consultado_em": "2026-11-09",
+"codigo": "551659",
+"nome": "Lei nº 9.783 de 28/01/1999",
+"apelidos": [
+"Lei da Contribuição Previdenciária do Servidor Público (1999)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1999-01-29", "descricao": "Publicação Original [Diário Oficial da União de 29/01/1999] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2000-07-19", "nome": "Lei nº 9.988 de 19/07/2000", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/2000/lei-9988-2000-07-19"},
+{"data": "2001-08-31", "nome": "Medida Provisória nº 2.216-37 de 31/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2004-02-19", "nome": "Medida Provisória nº 167 de 19/02/2004", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 1-A", "art": "1-a", "acao": "acrescentou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 3-A", "art": "3-a", "acao": "acrescentou"}, {"dispositivo": "Art. 3-B", "art": "3-b", "acao": "acrescentou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 4-A", "art": "4-a", "acao": "acrescentou"}, {"dispositivo": "Art. 5-A", "art": "5-a", "acao": "acrescentou"}]}
+],
+"controle": []
+}

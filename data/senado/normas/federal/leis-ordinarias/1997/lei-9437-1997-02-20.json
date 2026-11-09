@@ -1,0 +1,25 @@
+{
+"id": "federal/leis-ordinarias/1997/lei-9437-1997-02-20",
+"urn": "urn:lex:br:federal:lei:1997-02-20;9437",
+"consultado_em": "2026-11-09",
+"codigo": "551313",
+"nome": "Lei nº 9.437 de 20/02/1997",
+"apelidos": [
+"Lei do Porte de Armas (1997)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1997-02-21", "descricao": "Publicação Original [Diário Oficial da União de 21/02/1997] (p. 3251, col. 1)"},
+{"tipo": "RET", "data": "1997-02-25", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 25/02/1997] (p. 3411, col. 1)"}
+],
+"alteracoes": [
+{"data": "1997-05-08", "nome": "Decreto nº 2.222 de 08/05/1997", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1998-03-30", "nome": "Decreto nº 2.532 de 30/03/1998", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2000-06-20", "nome": "Medida Provisória nº 2.029 de 20/06/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "suspensão"}]},
+{"data": "2000-06-28", "nome": "Medida Provisória nº 2.045-1 de 28/06/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "suspensão"}]},
+{"data": "2000-07-28", "nome": "Medida Provisória nº 2.045-2 de 28/07/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "suspensão"}]},
+{"data": "2000-08-25", "nome": "Medida Provisória nº 2.045-3 de 25/08/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "suspensão"}]},
+{"data": "2000-09-26", "nome": "Medida Provisória nº 2.045-4 de 26/09/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "suspensão"}]},
+{"data": "2003-12-22", "nome": "Lei nº 10.826 de 22/12/2003", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2003/lei-10826-2003-12-22"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1978/lei-6575-1978-09-30",
+"urn": "urn:lex:br:federal:lei:1978-09-30;6575",
+"consultado_em": "2026-11-09",
+"codigo": "548451",
+"nome": "Lei nº 6.575 de 30/09/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-10-03", "descricao": "Publicação Original [Diário Oficial da União de 03/10/1978] (p. 16035, col. 1)"}
+],
+"alteracoes": [
+{"data": "2015-08-25", "nome": "Lei nº 13.160 de 25/08/2015", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2015/lei-13160-2015-08-25"}
+],
+"controle": []
+}

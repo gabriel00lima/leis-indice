@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1982/lei-7061-1982-12-06",
+"urn": "urn:lex:br:federal:lei:1982-12-06;7061",
+"consultado_em": "2026-11-09",
+"codigo": "548937",
+"nome": "Lei nº 7.061 de 06/12/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-12-07", "descricao": "Publicação Original [Diário Oficial da União de 07/12/1982] (p. 22764, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-12-02", "nome": "Lei nº 7.411 de 02/12/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7411-1985-12-02"}
+],
+"controle": []
+}

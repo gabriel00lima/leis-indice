@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2006/lei-11372-2006-11-28",
+"urn": "urn:lex:br:federal:lei:2006-11-28;11372",
+"consultado_em": "2026-11-09",
+"codigo": "572157",
+"nome": "Lei nº 11.372 de 28/11/2006",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2006-11-29", "descricao": "Publicação Original [Diário Oficial da União de 29/11/2006] (p. 5, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-07-06", "nome": "Lei nº 11.967 de 06/07/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}], "id": "federal/leis-ordinarias/2009/lei-11967-2009-07-06"}
+],
+"controle": [
+{"data": "2025-03-18", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 7.739 de 18/03/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 1", "art": "3", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}, {"dispositivo": "Art. 3, caput, Inciso 2", "art": "3", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}, {"dispositivo": "Art. 3, caput, Inciso 4", "art": "3", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}], "decisao": {"classe": "ADI", "numero": "7739"}}
+]
+}

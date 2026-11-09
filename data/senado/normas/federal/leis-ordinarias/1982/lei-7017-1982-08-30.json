@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1982/lei-7017-1982-08-30",
+"urn": "urn:lex:br:federal:lei:1982-08-30;7017",
+"consultado_em": "2026-11-09",
+"codigo": "548893",
+"nome": "Lei nº 7.017 de 30/08/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-08-31", "descricao": "Publicação Original [Diário Oficial da União de 31/08/1982] (p. 16169, col. 1)"}
+],
+"alteracoes": [
+{"data": "1983-06-28", "nome": "Decreto nº 88.438 de 28/06/1983", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1983-06-28", "nome": "Decreto nº 88.439 de 28/06/1983", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

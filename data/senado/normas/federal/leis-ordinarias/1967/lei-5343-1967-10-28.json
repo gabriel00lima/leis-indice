@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1967/lei-5343-1967-10-28",
+"urn": "urn:lex:br:federal:lei:1967-10-28;5343",
+"consultado_em": "2026-11-09",
+"codigo": "547206",
+"nome": "Lei nº 5.343 de 28/10/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-10-31", "descricao": "Publicação Original [Diário Oficial da União de 31/10/1967] (p. 11031, col. 3)"}
+],
+"alteracoes": [
+{"data": "1971-05-25", "nome": "Decreto nº 68.675 de 25/05/1971", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

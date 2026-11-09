@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1969/lei-5575-1969-12-17",
+"urn": "urn:lex:br:federal:lei:1969-12-17;5575",
+"consultado_em": "2026-11-09",
+"codigo": "547445",
+"nome": "Lei nº 5.575 de 17/12/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-12-19", "descricao": "Publicação Original [Diário Oficial da União de 19/12/1969] (p. 10815, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-05-25", "nome": "Decreto nº 72.300 de 25/05/1973", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2019/lei-13957-2019-12-18",
+"urn": "urn:lex:br:federal:lei:2019-12-18;13957",
+"consultado_em": "2026-11-09",
+"codigo": "31849239",
+"nome": "Lei nº 13.957 de 18/12/2019",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2019-12-18", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 18/12/2019] (p. 1, col. 1)"},
+{"tipo": "RET", "data": "2019-12-19", "descricao": "Retificação (Seq. 0) [Diário Oficial da União - Edição Extra de 19/12/2019] (p. 1, col. 1)"},
+{"tipo": "VEP", "data": "2020-03-19", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União de 19/03/2020] (p. 4, col. 2)"}
+],
+"alteracoes": [
+{"data": "2019-12-18", "nome": "Mensagem de Veto Parcial nº 710 de 18/12/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-12-18", "nome": "Mensagem de Veto Parcial nº 710 de 18/12/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-12-18", "nome": "Mensagem de Veto Parcial nº 710 de 18/12/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "veto"}]}
+],
+"controle": []
+}

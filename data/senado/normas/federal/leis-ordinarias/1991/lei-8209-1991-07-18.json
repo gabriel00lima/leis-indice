@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1991/lei-8209-1991-07-18",
+"urn": "urn:lex:br:federal:lei:1991-07-18;8209",
+"consultado_em": "2026-11-09",
+"codigo": "550085",
+"nome": "Lei nº 8.209 de 18/07/1991",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1991-07-19", "descricao": "Publicação Original [Diário Oficial da União de 19/07/1991] (p. 14417, col. 1)"}
+],
+"alteracoes": [
+{"data": "1994-11-18", "nome": "Lei nº 8.934 de 18/11/1994", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1994/lei-8934-1994-11-18"}
+],
+"controle": []
+}

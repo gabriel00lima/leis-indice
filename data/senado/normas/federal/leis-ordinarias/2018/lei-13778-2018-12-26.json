@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2018/lei-13778-2018-12-26",
+"urn": "urn:lex:br:federal:lei:2018-12-26;13778",
+"consultado_em": "2026-11-09",
+"codigo": "30760558",
+"nome": "Lei nº 13.778 de 26/12/2018",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2018-12-27", "descricao": "Publicação Original [Diário Oficial da União de 27/12/2018] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2022-03-17", "nome": "Medida Provisória nº 1.107 de 17/03/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]}
+],
+"controle": []
+}

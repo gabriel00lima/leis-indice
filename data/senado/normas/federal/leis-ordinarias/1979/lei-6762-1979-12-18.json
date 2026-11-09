@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1979/lei-6762-1979-12-18",
+"urn": "urn:lex:br:federal:lei:1979-12-18;6762",
+"consultado_em": "2026-11-09",
+"codigo": "548638",
+"nome": "Lei nº 6.762 de 18/12/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-12-19", "descricao": "Publicação Original [Diário Oficial da União de 19/12/1979] (p. 19333, col. 2)"}
+],
+"alteracoes": [
+{"data": "1981-12-23", "nome": "Decreto-Lei nº 1.905 de 23/12/1981", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1981/del-1905-1981-12-23"}
+],
+"controle": []
+}

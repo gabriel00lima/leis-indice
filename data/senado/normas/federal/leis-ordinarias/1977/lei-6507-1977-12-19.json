@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6507-1977-12-19",
+"urn": "urn:lex:br:federal:lei:1977-12-19;6507",
+"consultado_em": "2026-11-09",
+"codigo": "548383",
+"nome": "Lei nº 6.507 de 19/12/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/1977] (p. 17489, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-06-07", "nome": "Decreto nº 81.771 de 07/06/1978", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1981-12-21", "nome": "Decreto-Lei nº 1.899 de 21/12/1981", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "alterou"}], "id": "federal/decretos-lei/1981/del-1899-1981-12-21"},
+{"data": "2003-08-05", "nome": "Lei nº 10.711 de 05/08/2003", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2003/lei-10711-2003-08-05"}
+],
+"controle": []
+}

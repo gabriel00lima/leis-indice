@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1938/del-587-1938-08-01",
+"urn": "urn:lex:br:federal:decreto.lei:1938-08-01;587",
+"consultado_em": "2026-11-09",
+"codigo": "523806",
+"nome": "Decreto-Lei nº 587 de 01/08/1938",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1938-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1938 - vol. 003] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "1943-11-24", "nome": "Decreto-Lei nº 6.029 de 24/11/1943", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1943/del-6029-1943-11-24"}
+],
+"controle": []
+}

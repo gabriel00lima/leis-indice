@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1974/lei-6138-1974-11-08",
+"urn": "urn:lex:br:federal:lei:1974-11-08;6138",
+"consultado_em": "2026-11-09",
+"codigo": "548014",
+"nome": "Lei nº 6.138 de 08/11/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-11-11", "descricao": "Publicação Original [Diário Oficial da União de 11/11/1974] (p. 12773, col. 1)"}
+],
+"alteracoes": [
+{"data": "1975-04-09", "nome": "Decreto nº 75.583 de 09/04/1975", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1980-12-16", "nome": "Lei nº 6.894 de 16/12/1980", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1980/lei-6894-1980-12-16"}
+],
+"controle": []
+}

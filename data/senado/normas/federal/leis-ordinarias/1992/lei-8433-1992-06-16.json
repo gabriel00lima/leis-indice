@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1992/lei-8433-1992-06-16",
+"urn": "urn:lex:br:federal:lei:1992-06-16;8433",
+"consultado_em": "2026-11-09",
+"codigo": "550309",
+"nome": "Lei nº 8.433 de 16/06/1992",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1992-06-17", "descricao": "Publicação Original [Diário Oficial da União de 17/06/1992] (p. 7657, col. 1)"}
+],
+"alteracoes": [
+{"data": "1994-06-21", "nome": "Lei nº 8.888 de 21/06/1994", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1994/lei-8888-1994-06-21"},
+{"data": "1994-10-10", "nome": "Decreto nº 1.262 de 10/10/1994", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

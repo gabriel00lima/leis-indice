@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1974/lei-6063-1974-06-27",
+"urn": "urn:lex:br:federal:lei:1974-06-27;6063",
+"consultado_em": "2026-11-09",
+"codigo": "547939",
+"nome": "Lei nº 6.063 de 27/06/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-06-27", "descricao": "Publicação Original [Diário Oficial da União de 27/06/1974] (p. 7157, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-10-11", "nome": "Lei nº 6.578 de 11/10/1978", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1978/lei-6578-1978-10-11"}
+],
+"controle": []
+}

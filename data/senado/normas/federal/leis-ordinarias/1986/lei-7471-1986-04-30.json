@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1986/lei-7471-1986-04-30",
+"urn": "urn:lex:br:federal:lei:1986-04-30;7471",
+"consultado_em": "2026-11-09",
+"codigo": "549347",
+"nome": "Lei nº 7.471 de 30/04/1986",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-05-02", "descricao": "Publicação Original [Diário Oficial da União de 02/05/1986] (p. 6293, col. 2)"}
+],
+"alteracoes": [
+{"data": "1986-07-14", "nome": "Lei nº 7.517 de 14/07/1986", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7517-1986-07-14"}
+],
+"controle": []
+}

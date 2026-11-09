@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2011/lei-12441-2011-07-11",
+"urn": "urn:lex:br:federal:lei:2011-07-11;12441",
+"consultado_em": "2026-11-09",
+"codigo": "585438",
+"nome": "Lei nº 12.441 de 11/07/2011",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2011-07-12", "descricao": "Publicação Original [Diário Oficial da União de 12/07/2011] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-12-27", "nome": "Medida Provisória nº 1.085 de 27/12/2021", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}]},
+{"data": "2022-06-27", "nome": "Lei nº 14.382 de 27/06/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/2022/lei-14382-2022-06-27"}
+],
+"controle": []
+}

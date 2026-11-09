@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2026/lei-15373-2026-04-01",
+"urn": "urn:lex:br:federal:lei:2026-04-01;15373",
+"consultado_em": "2026-11-09",
+"codigo": "43009098",
+"nome": "Lei nº 15.373 de 01/04/2026",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "ANX", "data": "2026-04-02", "descricao": "Publicação Original de Anexo (003 - Anexo III) [Diário Oficial da União de 02/04/2026] (p. 3, col. 1)"},
+{"tipo": "ANX", "data": "2026-04-02", "descricao": "Publicação Original de Anexo (004 - Anexo IV) [Diário Oficial da União de 02/04/2026] (p. 3, col. 1)"},
+{"tipo": "ANX", "data": "2026-04-02", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União de 02/04/2026] (p. 2, col. 2)"},
+{"tipo": "ANX", "data": "2026-04-02", "descricao": "Publicação Original de Anexo (002 - Anexo II) [Diário Oficial da União de 02/04/2026] (p. 2, col. 2)"},
+{"tipo": "PUB", "data": "2026-04-02", "descricao": "Publicação Original [Diário Oficial da União de 02/04/2026] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2026-04-01", "nome": "Mensagem de Veto Parcial nº 241 de 01/04/2026", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2026-04-01", "nome": "Mensagem de Veto Parcial nº 241 de 01/04/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 2", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 1, caput, Inciso 3", "art": "1", "acao": "veto"}, {"dispositivo": "Anexo 1", "art": null, "acao": "veto de parte do texto"}, {"dispositivo": "Anexo 2", "art": null, "acao": "veto de parte do texto"}, {"dispositivo": "Anexo 3", "art": null, "acao": "veto de parte do texto"}, {"dispositivo": "Anexo 4", "art": null, "acao": "veto de parte do texto"}]},
+{"data": "2026-04-01", "nome": "Mensagem de Veto Parcial nº 241 de 01/04/2026", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": []
+}

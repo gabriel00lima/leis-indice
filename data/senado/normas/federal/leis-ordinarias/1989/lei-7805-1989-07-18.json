@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7805-1989-07-18",
+"urn": "urn:lex:br:federal:lei:1989-07-18;7805",
+"consultado_em": "2026-11-09",
+"codigo": "549681",
+"nome": "Lei nº 7.805 de 18/07/1989",
+"apelidos": [
+"Lei da Exploração Mineral (1989)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-07-20", "descricao": "Publicação Original [Diário Oficial da União de 20/07/1989] (p. 12027, col. 2)"},
+{"tipo": "RET", "data": "1989-10-11", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 11/10/1989] (p. 18292, col. 2)"}
+],
+"alteracoes": [
+{"data": "1990-01-09", "nome": "Decreto nº 98.812 de 09/01/1990", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2018-06-12", "nome": "Decreto nº 9.406 de 12/06/2018", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2022-02-11", "nome": "Decreto nº 10.966 de 11/02/2022", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

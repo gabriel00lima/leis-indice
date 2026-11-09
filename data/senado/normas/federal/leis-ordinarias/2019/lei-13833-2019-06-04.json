@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2019/lei-13833-2019-06-04",
+"urn": "urn:lex:br:federal:lei:2019-06-04;13833",
+"consultado_em": "2026-11-09",
+"codigo": "30984397",
+"nome": "Lei nº 13.833 de 04/06/2019",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2019-06-05", "descricao": "Publicação Original [Diário Oficial da União de 05/06/2019] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2019-06-04", "nome": "Decreto nº 9.821 de 04/06/2019", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2019-06-04", "nome": "Mensagem de Veto Parcial nº 228 de 04/06/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 3, caput", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "veto"}]},
+{"data": "2019-06-04", "nome": "Mensagem de Veto Parcial nº 228 de 04/06/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-06-04", "nome": "Mensagem de Veto Parcial nº 228 de 04/06/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-06-04", "nome": "Mensagem de Veto Parcial nº 228 de 04/06/2019", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": []
+}

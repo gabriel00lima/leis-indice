@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6458-1977-11-01",
+"urn": "urn:lex:br:federal:lei:1977-11-01;6458",
+"consultado_em": "2026-11-09",
+"codigo": "548334",
+"nome": "Lei nº 6.458 de 01/11/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-11-03", "descricao": "Publicação Original [Diário Oficial da União de 03/11/1977] (p. 14777, col. 1)"}
+],
+"alteracoes": [
+{"data": "2022-01-07", "nome": "Lei nº 14.301 de 07/01/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2022/lei-14301-2022-01-07"}
+],
+"controle": []
+}

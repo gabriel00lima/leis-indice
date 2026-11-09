@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1999/lei-9932-1999-12-20",
+"urn": "urn:lex:br:federal:lei:1999-12-20;9932",
+"consultado_em": "2026-11-09",
+"codigo": "551808",
+"nome": "Lei nº 9.932 de 20/12/1999",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1999-12-21", "descricao": "Publicação Original [Diário Oficial da União de 21/12/1999] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2007-01-15", "nome": "Lei Complementar nº 126 de 15/01/2007", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-complementares/2007/lcp-126-2007-01-15"}
+],
+"controle": []
+}

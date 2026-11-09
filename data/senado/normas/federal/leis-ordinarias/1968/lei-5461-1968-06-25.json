@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5461-1968-06-25",
+"urn": "urn:lex:br:federal:lei:1968-06-25;5461",
+"consultado_em": "2026-11-09",
+"codigo": "547329",
+"nome": "Lei nº 5.461 de 25/06/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-06-28", "descricao": "Publicação Original [Diário Oficial da União de 28/06/1968] (p. 5321, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-09-05", "nome": "Decreto-Lei nº 828 de 05/09/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-828-1969-09-05"},
+{"data": "1969-10-10", "nome": "Decreto nº 65.331 de 10/10/1969", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1989-10-12", "nome": "Lei nº 7.839 de 12/10/1989", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7839-1989-10-12"}
+],
+"controle": []
+}

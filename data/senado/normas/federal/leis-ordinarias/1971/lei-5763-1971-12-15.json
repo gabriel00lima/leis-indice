@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1971/lei-5763-1971-12-15",
+"urn": "urn:lex:br:federal:lei:1971-12-15;5763",
+"consultado_em": "2026-11-09",
+"codigo": "547639",
+"nome": "Lei nº 5.763 de 15/12/1971",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1971-12-16", "descricao": "Publicação Original [Diário Oficial da União de 16/12/1971] (p. 10353, col. 4)"}
+],
+"alteracoes": [
+{"data": "2014-06-02", "nome": "Lei nº 12.986 de 02/06/2014", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2014/lei-12986-2014-06-02"}
+],
+"controle": []
+}

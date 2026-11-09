@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1971/lei-5705-1971-09-21",
+"urn": "urn:lex:br:federal:lei:1971-09-21;5705",
+"consultado_em": "2026-11-09",
+"codigo": "547578",
+"nome": "Lei nº 5.705 de 21/09/1971",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1971-09-22", "descricao": "Publicação Original [Diário Oficial da União de 22/09/1971] (p. 7681, col. 1)"}
+],
+"alteracoes": [
+{"data": "1989-10-12", "nome": "Lei nº 7.839 de 12/10/1989", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7839-1989-10-12"}
+],
+"controle": []
+}

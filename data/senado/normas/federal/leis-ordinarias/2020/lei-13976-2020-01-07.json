@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2020/lei-13976-2020-01-07",
+"urn": "urn:lex:br:federal:lei:2020-01-07;13976",
+"consultado_em": "2026-11-09",
+"codigo": "31901701",
+"nome": "Lei nº 13.976 de 07/01/2020",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2020-01-08", "descricao": "Publicação Original [Diário Oficial da União de 08/01/2020] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-05-14", "nome": "Medida Provisória nº 1.049 de 14/05/2021", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2021-10-15", "nome": "Lei nº 14.222 de 15/10/2021", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14222-2021-10-15"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5543-1968-11-29",
+"urn": "urn:lex:br:federal:lei:1968-11-29;5543",
+"consultado_em": "2026-11-09",
+"codigo": "547413",
+"nome": "Lei nº 5.543 de 29/11/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-12-02", "descricao": "Publicação Original [Diário Oficial da União de 02/12/1968] (p. 10401, col. 1)"}
+],
+"alteracoes": [
+{"data": "1971-07-20", "nome": "Lei nº 5.680 de 20/07/1971", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5680-1971-07-20"}
+],
+"controle": []
+}

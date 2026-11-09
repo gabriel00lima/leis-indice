@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2003/lei-10742-2003-10-06",
+"urn": "urn:lex:br:federal:lei:2003-10-06;10742",
+"consultado_em": "2026-11-09",
+"codigo": "552618",
+"nome": "Lei nº 10.742 de 06/10/2003",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2003-10-07", "descricao": "Publicação Original [Diário Oficial da União de 07/10/2003] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2003-12-29", "nome": "Decreto nº 4.937 de 29/12/2003", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "regulamentou"}]},
+{"data": "2016-12-19", "nome": "Medida Provisória nº 754 de 19/12/2016", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4, § 9", "art": "4", "acao": "alterou"}]},
+{"data": "2020-03-31", "nome": "Medida Provisória nº 933 de 31/03/2020", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "ressalvou"}]},
+{"data": "2021-03-01", "nome": "Lei nº 14.121 de 01/03/2021", "tipo": "Ressalva Permanente da Norma no todo", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14121-2021-03-01"}
+],
+"controle": []
+}

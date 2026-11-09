@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1979/lei-6718-1979-11-12",
+"urn": "urn:lex:br:federal:lei:1979-11-12;6718",
+"consultado_em": "2026-11-09",
+"codigo": "548594",
+"nome": "Lei nº 6.718 de 12/11/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-11-12", "descricao": "Publicação Original [Diário Oficial da União de 12/11/1979] (p. 16692, col. 1)"}
+],
+"alteracoes": [
+{"data": "1984-07-16", "nome": "Lei nº 7.211 de 16/07/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1984/lei-7211-1984-07-16"},
+{"data": "1985-12-17", "nome": "Lei nº 7.430 de 17/12/1985", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7430-1985-12-17"}
+],
+"controle": []
+}

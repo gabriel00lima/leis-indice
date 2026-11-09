@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2018/lei-13634-2018-03-20",
+"urn": "urn:lex:br:federal:lei:2018-03-20;13634",
+"consultado_em": "2026-11-09",
+"codigo": "26376822",
+"nome": "Lei nº 13.634 de 20/03/2018",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "ANX", "data": "2018-03-21", "descricao": "Publicação Original de Anexo [Diário Oficial da União de 21/03/2018] (p. 2, col. 1)"},
+{"tipo": "PUB", "data": "2018-03-21", "descricao": "Publicação Original [Diário Oficial da União de 21/03/2018] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2019-03-12", "nome": "Decreto nº 9.725 de 12/03/2019", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "com novo tratamento da matéria"}]}
+],
+"controle": []
+}

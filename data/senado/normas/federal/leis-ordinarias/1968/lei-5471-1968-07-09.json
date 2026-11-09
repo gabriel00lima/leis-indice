@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5471-1968-07-09",
+"urn": "urn:lex:br:federal:lei:1968-07-09;5471",
+"consultado_em": "2026-11-09",
+"codigo": "547340",
+"nome": "Lei nº 5.471 de 09/07/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-07-10", "descricao": "Publicação Original [Diário Oficial da União de 10/07/1968] (p. 5769, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-10-13", "nome": "Decreto nº 65.347 de 13/10/1969", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "correlato"}, {"dispositivo": "Art. 3", "art": "3", "acao": "correlato"}]}
+],
+"controle": []
+}

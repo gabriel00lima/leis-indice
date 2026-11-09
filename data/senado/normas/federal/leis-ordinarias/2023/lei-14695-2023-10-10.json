@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2023/lei-14695-2023-10-10",
+"urn": "urn:lex:br:federal:lei:2023-10-10;14695",
+"consultado_em": "2026-11-09",
+"codigo": "37707927",
+"nome": "Lei nº 14.695 de 10/10/2023",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2023-10-11", "descricao": "Publicação Original [Diário Oficial da União de 11/10/2023] (p. 1, col. 2)"},
+{"tipo": "VEP", "data": "2023-12-22", "descricao": "Publicação de Veto Parcialmente Rejeitado (Seq. 1) [Diário Oficial da União - Edição Extra de 22/12/2023 - nº 243-C] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2023-10-10", "nome": "Mensagem de Veto Parcial nº 505 de 10/10/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "veto"}]},
+{"data": "2023-10-10", "nome": "Mensagem de Veto Parcial nº 505 de 10/10/2023", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2000/lei-9992-2000-07-24",
+"urn": "urn:lex:br:federal:lei:2000-07-24;9992",
+"consultado_em": "2026-11-09",
+"codigo": "551868",
+"nome": "Lei nº 9.992 de 24/07/2000",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-07-25", "descricao": "Publicação Original [Diário Oficial da União de 25/07/2000] (p. 2, col. 1)"},
+{"tipo": "RET", "data": "2000-07-26", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 26/07/2000] (p. 22, col. 1)"}
+],
+"alteracoes": [
+{"data": "2002-08-06", "nome": "Decreto nº 4.324 de 06/08/2002", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

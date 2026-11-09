@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2003/lei-10744-2003-10-09",
+"urn": "urn:lex:br:federal:lei:2003-10-09;10744",
+"consultado_em": "2026-11-09",
+"codigo": "552620",
+"nome": "Lei nº 10.744 de 09/10/2003",
+"apelidos": [
+"Lei do Seguro Aéreo (2003)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2003-10-10", "descricao": "Publicação Original [Diário Oficial da União de 10/10/2003] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2004-04-05", "nome": "Decreto nº 5.035 de 05/04/2004", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

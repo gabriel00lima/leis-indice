@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5399-1968-03-20",
+"urn": "urn:lex:br:federal:lei:1968-03-20;5399",
+"consultado_em": "2026-11-09",
+"codigo": "547263",
+"nome": "Lei nº 5.399 de 20/03/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-03-22", "descricao": "Publicação Original [Diário Oficial da União de 22/03/1968] (p. 2369, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-11-26", "nome": "Decreto nº 91.985 de 26/11/1985", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

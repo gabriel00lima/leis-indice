@@ -1,0 +1,25 @@
+{
+"id": "federal/leis-ordinarias/2020/lei-14043-2020-08-19",
+"urn": "urn:lex:br:federal:lei:2020-08-19;14043",
+"consultado_em": "2026-11-09",
+"codigo": "32570049",
+"nome": "Lei nº 14.043 de 19/08/2020",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2020-08-20", "descricao": "Publicação Original [Diário Oficial da União de 20/08/2020] (p. 5, col. 1)"}
+],
+"alteracoes": [
+{"data": "2020-08-19", "nome": "Mensagem de Veto Parcial nº 466 de 19/08/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 1", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, caput, Inciso 2", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, § 3", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, § 4", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, § 5", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, § 6", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, § 8", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, § 9", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 17, caput", "art": "17", "acao": "veto"}, {"dispositivo": "Art. 17, Parágrafo Único", "art": "17", "acao": "veto"}]},
+{"data": "2020-08-19", "nome": "Mensagem de Veto Parcial nº 466 de 19/08/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-08-19", "nome": "Mensagem de Veto Parcial nº 466 de 19/08/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-08-19", "nome": "Mensagem de Veto Parcial nº 466 de 19/08/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-08-19", "nome": "Mensagem de Veto Parcial nº 466 de 19/08/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-08-19", "nome": "Mensagem de Veto Parcial nº 466 de 19/08/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-08-19", "nome": "Mensagem de Veto Parcial nº 466 de 19/08/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-08-19", "nome": "Mensagem de Veto Parcial nº 466 de 19/08/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-08-19", "nome": "Mensagem de Veto Parcial nº 466 de 19/08/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-08-19", "nome": "Mensagem de Veto Parcial nº 466 de 19/08/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-12-29", "nome": "Lei nº 14.115 de 29/12/2020", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 10, § 4", "art": "10", "acao": "correlato"}, {"dispositivo": "Art. 10, § 5", "art": "10", "acao": "correlato"}, {"dispositivo": "Art. 20, caput", "art": "20", "acao": "correlato"}], "id": "federal/leis-ordinarias/2020/lei-14115-2020-12-29"}
+],
+"controle": []
+}

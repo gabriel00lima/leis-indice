@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5393-1968-02-23",
+"urn": "urn:lex:br:federal:lei:1968-02-23;5393",
+"consultado_em": "2026-11-09",
+"codigo": "547257",
+"nome": "Lei nº 5.393 de 23/02/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-02-28", "descricao": "Publicação Original [Diário Oficial da União de 28/02/1968] (p. 1713, col. 2)"}
+],
+"alteracoes": [
+{"data": "1972-11-10", "nome": "Lei nº 5.821 de 10/11/1972", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5821-1972-11-10"}
+],
+"controle": []
+}

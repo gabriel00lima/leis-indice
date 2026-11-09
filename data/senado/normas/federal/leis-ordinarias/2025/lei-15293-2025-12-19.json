@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2025/lei-15293-2025-12-19",
+"urn": "urn:lex:br:federal:lei:2025-12-19;15293",
+"consultado_em": "2026-11-09",
+"codigo": "41853438",
+"nome": "Lei nº 15.293 de 19/12/2025",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "ANX", "data": "2025-12-22", "descricao": "Publicação Original de Anexo (002 - Anexo II) [Diário Oficial da União de 22/12/2025] (p. 2, col. 1)"},
+{"tipo": "ANX", "data": "2025-12-22", "descricao": "Publicação Original de Anexo (003 - Anexo III) [Diário Oficial da União de 22/12/2025] (p. 2, col. 1)"},
+{"tipo": "PUB", "data": "2025-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/2025] (p. 1, col. 2)"},
+{"tipo": "ANX", "data": "2025-12-22", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União de 22/12/2025] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2025-12-19", "nome": "Mensagem de Veto Parcial nº 1.877 de 19/12/2025", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2025-12-19", "nome": "Mensagem de Veto Parcial nº 1.877 de 19/12/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 2", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 1, caput, Inciso 3", "art": "1", "acao": "veto"}, {"dispositivo": "Anexo 1", "art": null, "acao": "veto de parte do texto"}, {"dispositivo": "Anexo 2", "art": null, "acao": "veto de parte do texto"}, {"dispositivo": "Anexo 3", "art": null, "acao": "veto de parte do texto"}]},
+{"data": "2025-12-19", "nome": "Mensagem de Veto Parcial nº 1.877 de 19/12/2025", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": []
+}

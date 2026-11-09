@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2004/lei-10940-2004-08-27",
+"urn": "urn:lex:br:federal:lei:2004-08-27;10940",
+"consultado_em": "2026-11-09",
+"codigo": "552816",
+"nome": "Lei nº 10.940 de 27/08/2004",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2004-08-30", "descricao": "Publicação Original [Diário Oficial da União de 30/08/2004] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2007-12-28", "nome": "Medida Provisória nº 411 de 28/12/2007", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}]},
+{"data": "2008-06-10", "nome": "Lei nº 11.692 de 10/06/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}], "id": "federal/leis-ordinarias/2008/lei-11692-2008-06-10"}
+],
+"controle": []
+}

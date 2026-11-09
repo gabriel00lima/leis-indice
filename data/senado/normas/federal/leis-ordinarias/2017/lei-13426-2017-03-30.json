@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2017/lei-13426-2017-03-30",
+"urn": "urn:lex:br:federal:lei:2017-03-30;13426",
+"consultado_em": "2026-11-09",
+"codigo": "17668436",
+"nome": "Lei nº 13.426 de 30/03/2017",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2017-03-31", "descricao": "Publicação Original [Diário Oficial da União de 31/03/2017] (p. 3, col. 1)"}
+],
+"alteracoes": [
+{"data": "2017-03-30", "nome": "Mensagem de Veto Parcial nº 98 de 30/03/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 4, Parágrafo Único", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "veto"}]},
+{"data": "2025-04-17", "nome": "Decreto nº 12.439 de 17/04/2025", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

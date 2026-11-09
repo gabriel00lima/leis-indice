@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1997/lei-9506-1997-10-30",
+"urn": "urn:lex:br:federal:lei:1997-10-30;9506",
+"consultado_em": "2026-11-09",
+"codigo": "551382",
+"nome": "Lei nº 9.506 de 30/10/1997",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1997-10-31", "descricao": "Publicação Original [Diário Oficial da União de 31/10/1997] (p. 24529, col. 1)"}
+],
+"alteracoes": [
+{"data": "1997-12-16", "nome": "Resolução do Congresso Nacional nº 1 de 16/12/1997", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1999-01-29", "nome": "Ato da Mesa Diretora do Congresso Nacional nº 1 de 29/01/1999", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

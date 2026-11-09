@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1992/lei-8445-1992-07-20",
+"urn": "urn:lex:br:federal:lei:1992-07-20;8445",
+"consultado_em": "2026-11-09",
+"codigo": "550321",
+"nome": "Lei nº 8.445 de 20/07/1992",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1992-07-21", "descricao": "Publicação Original [Diário Oficial da União de 21/07/1992] (p. 9593, col. 2)"}
+],
+"alteracoes": [
+{"data": "1992-09-17", "nome": "Lei nº 8.460 de 17/09/1992", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1992/lei-8460-1992-09-17"},
+{"data": "2008-05-14", "nome": "Medida Provisória nº 431 de 14/05/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}]},
+{"data": "2008-09-22", "nome": "Lei nº 11.784 de 22/09/2008", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/2008/lei-11784-2008-09-22"}
+],
+"controle": []
+}

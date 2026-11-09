@@ -1,0 +1,26 @@
+{
+"id": "federal/leis-ordinarias/2017/lei-13488-2017-10-06",
+"urn": "urn:lex:br:federal:lei:2017-10-06;13488",
+"consultado_em": "2026-11-09",
+"codigo": "26248253",
+"nome": "Lei nº 13.488 de 06/10/2017",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2017-10-06", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 06/10/2017 - nº 193-A] (p. 1, col. 3)"},
+{"tipo": "VEP", "data": "2017-12-18", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União de 18/12/2017] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2017-10-06", "nome": "Mensagem de Veto Parcial nº 380 de 06/10/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 11, caput", "art": "11", "acao": "veto"}]},
+{"data": "2017-10-06", "nome": "Mensagem de Veto Parcial nº 380 de 06/10/2017", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2017-10-06", "nome": "Mensagem de Veto Parcial nº 380 de 06/10/2017", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2017-10-06", "nome": "Mensagem de Veto Parcial nº 380 de 06/10/2017", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2017-10-06", "nome": "Mensagem de Veto Parcial nº 380 de 06/10/2017", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2017-10-06", "nome": "Mensagem de Veto Parcial nº 380 de 06/10/2017", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2017-10-06", "nome": "Mensagem de Veto Parcial nº 380 de 06/10/2017", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-09-27", "nome": "Lei nº 13.877 de 27/09/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput", "art": "4", "acao": "revogou"}], "id": "federal/leis-ordinarias/2019/lei-13877-2019-09-27"},
+{"data": "2019-09-27", "nome": "Lei nº 13.877 de 27/09/2019", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2019/lei-13877-2019-09-27"}
+],
+"controle": [
+{"data": "2020-03-04", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.947 de 04/03/2020", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "5947"}}
+]
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2006/lei-11360-2006-10-19",
+"urn": "urn:lex:br:federal:lei:2006-10-19;11360",
+"consultado_em": "2026-11-09",
+"codigo": "572145",
+"nome": "Lei nº 11.360 de 19/10/2006",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2006-10-20", "descricao": "Publicação Original [Diário Oficial da União de 20/10/2006] (p. 38, col. 1)"}
+],
+"alteracoes": [
+{"data": "2007-11-13", "nome": "Medida Provisória nº 401 de 13/11/2007", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2008-04-24", "nome": "Lei nº 11.663 de 24/04/2008", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2008/lei-11663-2008-04-24"}
+],
+"controle": []
+}

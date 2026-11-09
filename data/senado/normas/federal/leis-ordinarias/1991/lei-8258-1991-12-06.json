@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1991/lei-8258-1991-12-06",
+"urn": "urn:lex:br:federal:lei:1991-12-06;8258",
+"consultado_em": "2026-11-09",
+"codigo": "550134",
+"nome": "Lei nº 8.258 de 06/12/1991",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1991-12-09", "descricao": "Publicação Original [Diário Oficial da União de 09/12/1991] (p. 28117, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-11-06", "nome": "Lei nº 12.086 de 06/11/2009", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2009/lei-12086-2009-11-06"}
+],
+"controle": []
+}

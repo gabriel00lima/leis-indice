@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1999/lei-9848-1999-10-26",
+"urn": "urn:lex:br:federal:lei:1999-10-26;9848",
+"consultado_em": "2026-11-09",
+"codigo": "551724",
+"nome": "Lei nº 9.848 de 26/10/1999",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1999-10-27", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 27/10/1999] (p. 3, col. 2)"}
+],
+"alteracoes": [
+{"data": "2001-07-27", "nome": "Medida Provisória nº 2.168-39 de 27/07/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "2001-08-24", "nome": "Medida Provisória nº 2.168-40 de 24/08/2001", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9042-1995-05-09",
+"urn": "urn:lex:br:federal:lei:1995-05-09;9042",
+"consultado_em": "2026-11-09",
+"codigo": "550918",
+"nome": "Lei nº 9.042 de 09/05/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-05-10", "descricao": "Publicação Original [Diário Oficial da União de 10/05/1995] (p. 6642, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-12-27", "nome": "Medida Provisória nº 1.085 de 27/12/2021", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2022-06-27", "nome": "Lei nº 14.382 de 27/06/2022", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14382-2022-06-27"}
+],
+"controle": []
+}

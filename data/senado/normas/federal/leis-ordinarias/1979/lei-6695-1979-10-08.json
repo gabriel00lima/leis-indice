@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1979/lei-6695-1979-10-08",
+"urn": "urn:lex:br:federal:lei:1979-10-08;6695",
+"consultado_em": "2026-11-09",
+"codigo": "548571",
+"nome": "Lei nº 6.695 de 08/10/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-10-09", "descricao": "Publicação Original [Diário Oficial da União de 09/10/1979] (p. 14785, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-08-27", "nome": "Decreto nº 91.575 de 27/08/1985", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

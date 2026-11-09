@@ -1,0 +1,29 @@
+{
+"id": "federal/leis-ordinarias/2022/lei-14365-2022-06-02",
+"urn": "urn:lex:br:federal:lei:2022-06-02;14365",
+"consultado_em": "2026-11-09",
+"codigo": "35924693",
+"nome": "Lei nº 14.365 de 02/06/2022",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2022-06-03", "descricao": "Publicação Original [Diário Oficial da União de 03/06/2022] (p. 1, col. 1)"},
+{"tipo": "VEP", "data": "2022-07-08", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União - Edição Extra de 08/07/2022 - nº 128-B] (p. 4, col. 1)"}
+],
+"alteracoes": [
+{"data": "2022-06-02", "nome": "Mensagem de Veto Parcial nº 275 de 02/06/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-06-02", "nome": "Mensagem de Veto Parcial nº 275 de 02/06/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-06-02", "nome": "Mensagem de Veto Parcial nº 275 de 02/06/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-06-02", "nome": "Mensagem de Veto Parcial nº 275 de 02/06/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-06-02", "nome": "Mensagem de Veto Parcial nº 275 de 02/06/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-06-02", "nome": "Mensagem de Veto Parcial nº 275 de 02/06/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-06-02", "nome": "Mensagem de Veto Parcial nº 275 de 02/06/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-06-02", "nome": "Mensagem de Veto Parcial nº 275 de 02/06/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-06-02", "nome": "Mensagem de Veto Parcial nº 275 de 02/06/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-06-02", "nome": "Mensagem de Veto Parcial nº 275 de 02/06/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-06-02", "nome": "Mensagem de Veto Parcial nº 275 de 02/06/2022", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-06-02", "nome": "Mensagem de Veto Parcial nº 275 de 02/06/2022", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": [
+{"data": "2025-06-14", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 7.231 de 14/06/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade de Parte do Texto"}], "decisao": {"classe": "ADI", "numero": "7231"}}
+]
+}

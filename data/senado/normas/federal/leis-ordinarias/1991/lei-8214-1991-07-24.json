@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1991/lei-8214-1991-07-24",
+"urn": "urn:lex:br:federal:lei:1991-07-24;8214",
+"consultado_em": "2026-11-09",
+"codigo": "550090",
+"nome": "Lei nº 8.214 de 24/07/1991",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1991-07-25", "descricao": "Publicação Original [Diário Oficial da União de 25/07/1991] (p. 14819, col. 1)"}
+],
+"alteracoes": [
+{"data": "1993-01-28", "nome": "Decreto nº 736 de 28/01/1993", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 50", "art": "50", "acao": "regulamentou"}]}
+],
+"controle": []
+}

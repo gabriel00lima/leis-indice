@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1970/lei-5630-1970-12-02",
+"urn": "urn:lex:br:federal:lei:1970-12-02;5630",
+"consultado_em": "2026-11-09",
+"codigo": "547502",
+"nome": "Lei nº 5.630 de 02/12/1970",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1970-12-03", "descricao": "Publicação Original [Diário Oficial da União de 03/12/1970] (p. 10297, col. 1)"}
+],
+"alteracoes": [
+{"data": "1981-09-17", "nome": "Lei nº 6.947 de 17/09/1981", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1981/lei-6947-1981-09-17"}
+],
+"controle": []
+}

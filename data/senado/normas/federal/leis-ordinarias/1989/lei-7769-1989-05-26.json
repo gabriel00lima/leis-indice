@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7769-1989-05-26",
+"urn": "urn:lex:br:federal:lei:1989-05-26;7769",
+"consultado_em": "2026-11-09",
+"codigo": "549645",
+"nome": "Lei nº 7.769 de 26/05/1989",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-05-29", "descricao": "Publicação Original [Diário Oficial da União de 29/05/1989] (p. 8265, col. 1)"}
+],
+"alteracoes": [
+{"data": "1990-03-15", "nome": "Medida Provisória nº 154 de 15/03/1990", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "1990-04-12", "nome": "Lei nº 8.030 de 12/04/1990", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1990/lei-8030-1990-04-12"}
+],
+"controle": []
+}

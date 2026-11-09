@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2014/lei-12977-2014-05-20",
+"urn": "urn:lex:br:federal:lei:2014-05-20;12977",
+"consultado_em": "2026-11-09",
+"codigo": "584788",
+"nome": "Lei nº 12.977 de 20/05/2014",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2014-05-21", "descricao": "Publicação Original [Diário Oficial da União de 21/05/2014] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2022-03-31", "nome": "Medida Provisória nº 1.112 de 31/03/2022", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

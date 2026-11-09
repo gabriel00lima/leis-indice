@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2020/lei-13974-2020-01-07",
+"urn": "urn:lex:br:federal:lei:2020-01-07;13974",
+"consultado_em": "2026-11-09",
+"codigo": "31901671",
+"nome": "Lei nº 13.974 de 07/01/2020",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2020-01-08", "descricao": "Publicação Original [Diário Oficial da União de 08/01/2020] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2023-01-12", "nome": "Medida Provisória nº 1.158 de 12/01/2023", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2023-01-12", "nome": "Medida Provisória nº 1.158 de 12/01/2023", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2023-01-12", "nome": "Medida Provisória nº 1.158 de 12/01/2023", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2023-01-12", "nome": "Medida Provisória nº 1.158 de 12/01/2023", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 3, caput, Inciso 1", "art": "3", "acao": "alterou"}, {"dispositivo": "Art. 4, § 5", "art": "4", "acao": "alterou"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "alterou"}, {"dispositivo": "Art. 5, Parágrafo Único", "art": "5", "acao": "acrescentou"}, {"dispositivo": "Art. 6, caput", "art": "6", "acao": "alterou"}, {"dispositivo": "Art. 6, caput, Inciso 1", "art": "6", "acao": "acrescentou"}, {"dispositivo": "Art. 6, caput, Inciso 2", "art": "6", "acao": "acrescentou"}, {"dispositivo": "Art. 7, caput, Inciso", "art": "7", "acao": "acrescentou"}, {"dispositivo": "Art. 7, caput", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 7, Parágrafo Único, Inciso", "art": "7", "acao": "acrescentou"}, {"dispositivo": "Art. 7, Parágrafo Único", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 8, § 3", "art": "8", "acao": "alterou"}, {"dispositivo": "Art. 9, caput", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 9, § 1", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 9, § 2", "art": "9", "acao": "alterou"}, {"dispositivo": "Art. 10, caput", "art": "10", "acao": "revogou"}, {"dispositivo": "Art. 11, caput", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 12, caput", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 13, caput", "art": "13", "acao": "revogou"}]},
+{"data": "2023-06-15", "nome": "Ato do Presidente do Congresso Nacional nº 39 de 15/06/2023", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

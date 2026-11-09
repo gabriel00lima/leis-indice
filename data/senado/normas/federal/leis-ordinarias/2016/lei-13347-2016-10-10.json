@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2016/lei-13347-2016-10-10",
+"urn": "urn:lex:br:federal:lei:2016-10-10;13347",
+"consultado_em": "2026-11-09",
+"codigo": "602572",
+"nome": "Lei nº 13.347 de 10/10/2016",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2016-10-11", "descricao": "Publicação Original [Diário Oficial da União de 11/10/2016] (p. 3, col. 1)"}
+],
+"alteracoes": [
+{"data": "2016-10-10", "nome": "Mensagem de Veto Parcial nº 538 de 10/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-10", "nome": "Mensagem de Veto Parcial nº 538 de 10/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-10", "nome": "Mensagem de Veto Parcial nº 538 de 10/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-10", "nome": "Mensagem de Veto Parcial nº 538 de 10/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-10", "nome": "Mensagem de Veto Parcial nº 538 de 10/10/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-10-10", "nome": "Mensagem de Veto Parcial nº 538 de 10/10/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 3", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 2, caput", "art": "2", "acao": "veto"}, {"dispositivo": "Art. 3, caput", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 4, caput", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 5", "art": "5", "acao": "veto"}]},
+{"data": "2017-07-11", "nome": "Lei nº 13.465 de 11/07/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2017/lei-13465-2017-07-11"}
+],
+"controle": []
+}

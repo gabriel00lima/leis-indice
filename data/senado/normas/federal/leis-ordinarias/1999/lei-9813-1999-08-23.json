@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1999/lei-9813-1999-08-23",
+"urn": "urn:lex:br:federal:lei:1999-08-23;9813",
+"consultado_em": "2026-11-09",
+"codigo": "551689",
+"nome": "Lei nº 9.813 de 23/08/1999",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1999-08-24", "descricao": "Publicação Original [Diário Oficial da União de 24/08/1999] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-12-29", "nome": "Lei nº 14.286 de 29/12/2021", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14286-2021-12-29"}
+],
+"controle": []
+}

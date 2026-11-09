@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1991/lei-8243-1991-10-14",
+"urn": "urn:lex:br:federal:lei:1991-10-14;8243",
+"consultado_em": "2026-11-09",
+"codigo": "550119",
+"nome": "Lei nº 8.243 de 14/10/1991",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1991-10-16", "descricao": "Publicação Original [Diário Oficial da União de 16/10/1991] (p. 22590, col. 1)"}
+],
+"alteracoes": [
+{"data": "2006-05-29", "nome": "Medida Provisória nº 295 de 29/05/2006", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2006-09-08", "nome": "Lei nº 11.344 de 08/09/2006", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2006/lei-11344-2006-09-08"}
+],
+"controle": []
+}

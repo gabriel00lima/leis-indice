@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9247-1995-12-26",
+"urn": "urn:lex:br:federal:lei:1995-12-26;9247",
+"consultado_em": "2026-11-09",
+"codigo": "551123",
+"nome": "Lei nº 9.247 de 26/12/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-12-27", "descricao": "Publicação Original [Diário Oficial da União de 27/12/1995] (p. 22300, col. 2)"}
+],
+"alteracoes": [
+{"data": "1997-11-26", "nome": "Lei nº 9.519 de 26/11/1997", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9519-1997-11-26"},
+{"data": "2025-10-08", "nome": "Lei nº 15.235 de 08/10/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 20, § 1, Inciso 1", "art": "20", "acao": "revogou"}, {"dispositivo": "Art. 20, § 1, Inciso 2", "art": "20", "acao": "revogou"}], "id": "federal/leis-ordinarias/2025/lei-15235-2025-10-08"}
+],
+"controle": []
+}

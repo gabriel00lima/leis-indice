@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5479-1968-08-10",
+"urn": "urn:lex:br:federal:lei:1968-08-10;5479",
+"consultado_em": "2026-11-09",
+"codigo": "547348",
+"nome": "Lei nº 5.479 de 10/08/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-08-14", "descricao": "Publicação Original [Diário Oficial da União de 14/08/1968] (p. 7177, col. 1)"}
+],
+"alteracoes": [
+{"data": "1992-11-18", "nome": "Lei nº 8.489 de 18/11/1992", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1992/lei-8489-1992-11-18"}
+],
+"controle": []
+}

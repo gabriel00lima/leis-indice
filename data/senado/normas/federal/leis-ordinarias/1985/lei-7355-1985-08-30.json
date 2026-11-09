@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1985/lei-7355-1985-08-30",
+"urn": "urn:lex:br:federal:lei:1985-08-30;7355",
+"consultado_em": "2026-11-09",
+"codigo": "549231",
+"nome": "Lei nº 7.355 de 30/08/1985",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1985-09-02", "descricao": "Publicação Original [Diário Oficial da União de 02/09/1985] (p. 12809, col. 2)"}
+],
+"alteracoes": [
+{"data": "1991-10-18", "nome": "Lei nº 8.245 de 18/10/1991", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8245-1991-10-18"}
+],
+"controle": []
+}

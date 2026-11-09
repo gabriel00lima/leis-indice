@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2020/lei-13983-2020-04-03",
+"urn": "urn:lex:br:federal:lei:2020-04-03;13983",
+"consultado_em": "2026-11-09",
+"codigo": "32053665",
+"nome": "Lei nº 13.983 de 03/04/2020",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "ANX", "data": "2020-04-03", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União - Edição Extra de 03/04/2020 - nº 65-B] (p. 2, col. 2)"},
+{"tipo": "PUB", "data": "2020-04-03", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 03/04/2020 - nº 65-B] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2020-04-03", "nome": "Mensagem de Veto Parcial nº 150 de 03/04/2020", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": []
+}

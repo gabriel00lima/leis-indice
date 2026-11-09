@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1990/lei-8099-1990-12-05",
+"urn": "urn:lex:br:federal:lei:1990-12-05;8099",
+"consultado_em": "2026-11-09",
+"codigo": "549975",
+"nome": "Lei nº 8.099 de 05/12/1990",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1990-12-06", "descricao": "Publicação Original [Diário Oficial da União de 06/12/1990] (p. 23463, col. 1)"}
+],
+"alteracoes": [
+{"data": "1992-05-13", "nome": "Lei nº 8.422 de 13/05/1992", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1992/lei-8422-1992-05-13"}
+],
+"controle": []
+}

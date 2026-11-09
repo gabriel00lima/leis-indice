@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1989/lei-7789-1989-07-03",
+"urn": "urn:lex:br:federal:lei:1989-07-03;7789",
+"consultado_em": "2026-11-09",
+"codigo": "549665",
+"nome": "Lei nº 7.789 de 03/07/1989",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1989-07-04", "descricao": "Publicação Original [Diário Oficial da União de 04/07/1989] (p. 10842, col. 1)"}
+],
+"alteracoes": [
+{"data": "1989-07-06", "nome": "Decreto nº 97.915 de 06/07/1989", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1990-03-15", "nome": "Medida Provisória nº 154 de 15/03/1990", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}]},
+{"data": "1990-04-12", "nome": "Lei nº 8.030 de 12/04/1990", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/1990/lei-8030-1990-04-12"},
+{"data": "1991-09-05", "nome": "Lei nº 8.222 de 05/09/1991", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8222-1991-09-05"},
+{"data": "2006-03-30", "nome": "Medida Provisória nº 288 de 30/03/2006", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]},
+{"data": "2006-07-07", "nome": "Lei nº 11.321 de 07/07/2006", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2006/lei-11321-2006-07-07"}
+],
+"controle": []
+}

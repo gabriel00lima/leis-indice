@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1973/lei-5959-1973-12-10",
+"urn": "urn:lex:br:federal:lei:1973-12-10;5959",
+"consultado_em": "2026-11-09",
+"codigo": "547835",
+"nome": "Lei nº 5.959 de 10/12/1973",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-12-11", "descricao": "Publicação Original [Diário Oficial da União de 11/12/1973] (p. 12649, col. 1)"}
+],
+"alteracoes": [
+{"data": "2002-07-04", "nome": "Lei nº 10.486 de 04/07/2002", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2002/lei-10486-2002-07-04"}
+],
+"controle": []
+}

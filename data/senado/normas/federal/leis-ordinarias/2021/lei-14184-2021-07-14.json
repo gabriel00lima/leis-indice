@@ -1,0 +1,23 @@
+{
+"id": "federal/leis-ordinarias/2021/lei-14184-2021-07-14",
+"urn": "urn:lex:br:federal:lei:2021-07-14;14184",
+"consultado_em": "2026-11-09",
+"codigo": "34286357",
+"nome": "Lei nº 14.184 de 14/07/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-07-15", "descricao": "Publicação Original [Diário Oficial da União de 15/07/2021] (p. 2, col. 2)"},
+{"tipo": "VET", "data": "2021-10-18", "descricao": "Publicação de Veto Rejeitado [Diário Oficial da União de 18/10/2021] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2021-07-14", "nome": "Mensagem de Veto Parcial nº 340 de 14/07/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-07-14", "nome": "Mensagem de Veto Parcial nº 340 de 14/07/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-07-14", "nome": "Mensagem de Veto Parcial nº 340 de 14/07/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2021-07-14", "nome": "Mensagem de Veto Parcial nº 340 de 14/07/2021", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-06-01", "nome": "Decreto nº 11.088 de 01/06/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "acao": "ressalvou"}]},
+{"data": "2022-06-01", "nome": "Decreto nº 11.088 de 01/06/2022", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": [
+{"data": "2024-11-29", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 7.174 de 29/11/2024", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 4, caput, Inciso 8", "art": "4", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "7174"}}
+]
+}

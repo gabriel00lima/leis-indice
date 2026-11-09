@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1992/lei-8472-1992-10-14",
+"urn": "urn:lex:br:federal:lei:1992-10-14;8472",
+"consultado_em": "2026-11-09",
+"codigo": "550348",
+"nome": "Lei nº 8.472 de 14/10/1992",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1992-10-15", "descricao": "Publicação Original [Diário Oficial da União de 15/10/1992] (p. 14473, col. 1)"}
+],
+"alteracoes": [
+{"data": "2008-10-29", "nome": "Lei nº 11.798 de 29/10/2008", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2008/lei-11798-2008-10-29"}
+],
+"controle": []
+}

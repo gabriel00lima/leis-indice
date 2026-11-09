@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1994/lei-8863-1994-03-28",
+"urn": "urn:lex:br:federal:lei:1994-03-28;8863",
+"consultado_em": "2026-11-09",
+"codigo": "550739",
+"nome": "Lei nº 8.863 de 28/03/1994",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1994-03-29", "descricao": "Publicação Original [Diário Oficial da União de 29/03/1994] (p. 4553, col. 2)"}
+],
+"alteracoes": [
+{"data": "2024-09-09", "nome": "Lei nº 14.967 de 09/09/2024", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-14967-2024-09-09"}
+],
+"controle": []
+}

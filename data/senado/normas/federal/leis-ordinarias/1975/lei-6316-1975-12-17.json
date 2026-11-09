@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1975/lei-6316-1975-12-17",
+"urn": "urn:lex:br:federal:lei:1975-12-17;6316",
+"consultado_em": "2026-11-09",
+"codigo": "548192",
+"nome": "Lei nº 6.316 de 17/12/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-12-18", "descricao": "Publicação Original [Diário Oficial da União de 18/12/1975] (p. 16805, col. 2)"}
+],
+"alteracoes": [
+{"data": "1977-01-18", "nome": "Decreto nº 79.137 de 18/01/1977", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1995-09-19", "nome": "Lei nº 9.098 de 19/09/1995", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 17, § 8", "art": "17", "acao": "revogou"}, {"dispositivo": "Art. 17, § 10", "art": "17", "acao": "revogou"}], "id": "federal/leis-ordinarias/1995/lei-9098-1995-09-19"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1999/lei-9822-1999-08-23",
+"urn": "urn:lex:br:federal:lei:1999-08-23;9822",
+"consultado_em": "2026-11-09",
+"codigo": "551698",
+"nome": "Lei nº 9.822 de 23/08/1999",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1999-08-24", "descricao": "Publicação Original [Diário Oficial da União de 24/08/1999] (p. 6, col. 2)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2023-11-29", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 3.952 de 29/11/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}], "decisao": {"classe": "ADI", "numero": "3952"}}
+]
+}

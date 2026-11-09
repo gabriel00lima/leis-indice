@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1998/lei-9630-1998-04-23",
+"urn": "urn:lex:br:federal:lei:1998-04-23;9630",
+"consultado_em": "2026-11-09",
+"codigo": "551506",
+"nome": "Lei nº 9.630 de 23/04/1998",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1998-04-24", "descricao": "Publicação Original [Diário Oficial da União de 24/04/1998] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "1998-10-28", "nome": "Medida Provisória nº 1.720 de 28/10/1998", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]},
+{"data": "1999-01-28", "nome": "Lei nº 9.783 de 28/01/1999", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1999/lei-9783-1999-01-28"}
+],
+"controle": []
+}

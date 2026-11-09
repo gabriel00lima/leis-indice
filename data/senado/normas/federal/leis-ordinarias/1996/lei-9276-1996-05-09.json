@@ -1,0 +1,28 @@
+{
+"id": "federal/leis-ordinarias/1996/lei-9276-1996-05-09",
+"urn": "urn:lex:br:federal:lei:1996-05-09;9276",
+"consultado_em": "2026-11-09",
+"codigo": "551152",
+"nome": "Lei nº 9.276 de 09/05/1996",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1996-05-10", "descricao": "Publicação Original [Diário Oficial da União de 10/05/1996] (p. 7947, col. 2)"},
+{"tipo": "REA", "data": "1996-07-08", "descricao": "Retificação de Anexo (Seq. 1)(001 - Anexo I) [Diário Oficial da União de 08/07/1996] (p. 12487, col. 1)"},
+{"tipo": "RET", "data": "1996-08-28", "descricao": "Retificação (Seq. 2) [Diário Oficial da União de 28/08/1996] (p. 16557, col. 1)"},
+{"tipo": "RET", "data": "1996-11-26", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 26/11/1996] (p. 24869, col. 1)"}
+],
+"alteracoes": [
+{"data": "1996-06-28", "nome": "Medida Provisória nº 1.510 de 28/06/1996", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "correlato"}]},
+{"data": "1996-07-09", "nome": "Medida Provisória nº 1.493-7 de 09/07/1996", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1996-08-08", "nome": "Medida Provisória nº 1.493-8 de 08/08/1996", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1996-09-05", "nome": "Medida Provisória nº 1.493-9 de 05/09/1996", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1996-10-02", "nome": "Medida Provisória nº 1.493-10 de 02/10/1996", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1996-10-31", "nome": "Medida Provisória nº 1.493-11 de 31/10/1996", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1996-11-29", "nome": "Medida Provisória nº 1.493-12 de 29/11/1996", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1996-12-18", "nome": "Medida Provisória nº 1.545 de 18/12/1996", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-01-16", "nome": "Medida Provisória nº 1.545-14 de 16/01/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-02-13", "nome": "Medida Provisória nº 1.545-15 de 13/02/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-03-14", "nome": "Lei nº 9.443 de 14/03/1997", "tipo": "Ratificação Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9443-1997-03-14"}
+],
+"controle": []
+}

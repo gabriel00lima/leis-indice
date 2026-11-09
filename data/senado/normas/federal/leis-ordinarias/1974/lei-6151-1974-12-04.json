@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1974/lei-6151-1974-12-04",
+"urn": "urn:lex:br:federal:lei:1974-12-04;6151",
+"consultado_em": "2026-11-09",
+"codigo": "548027",
+"nome": "Lei nº 6.151 de 04/12/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-12-06", "descricao": "Publicação Original [Diário Oficial da União de 06/12/1974] (p. 13869, col. 1)"}
+],
+"alteracoes": [
+{"data": "1975-04-23", "nome": "Resolução do Congresso Nacional nº 1 de 23/04/1975", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": []}
+],
+"controle": []
+}

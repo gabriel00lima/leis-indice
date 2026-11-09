@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1978/lei-6540-1978-06-28",
+"urn": "urn:lex:br:federal:lei:1978-06-28;6540",
+"consultado_em": "2026-11-09",
+"codigo": "548416",
+"nome": "Lei nº 6.540 de 28/06/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-06-29", "descricao": "Publicação Original [Diário Oficial da União de 29/06/1978] (p. 9975, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-02-12", "nome": "Decreto nº 83.161 de 12/02/1979", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1979-09-04", "nome": "Decreto nº 83.934 de 04/09/1979", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1986-05-12", "nome": "Decreto nº 92.638 de 12/05/1986", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2006-02-09", "nome": "Lei nº 11.279 de 09/02/2006", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2006/lei-11279-2006-02-09"}
+],
+"controle": []
+}

@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2012/lei-12619-2012-04-30",
+"urn": "urn:lex:br:federal:lei:2012-04-30;12619",
+"consultado_em": "2026-11-09",
+"codigo": "589542",
+"nome": "Lei nº 12.619 de 30/04/2012",
+"apelidos": [
+"Lei do Descanso para Motoristas (2012)",
+"Lei do Caminhoneiro (2012)",
+"Estatuto do Motorista (2012)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2012-05-02", "descricao": "Publicação Original [Diário Oficial da União de 02/05/2012] (p. 5, col. 1)"}
+],
+"alteracoes": [
+{"data": "2015-03-02", "nome": "Lei nº 13.103 de 02/03/2015", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}], "id": "federal/leis-ordinarias/2015/lei-13103-2015-03-02"},
+{"data": "2015-04-16", "nome": "Decreto nº 8.433 de 16/04/2015", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

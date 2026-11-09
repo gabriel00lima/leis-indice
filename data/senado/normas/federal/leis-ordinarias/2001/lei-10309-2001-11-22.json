@@ -1,0 +1,24 @@
+{
+"id": "federal/leis-ordinarias/2001/lei-10309-2001-11-22",
+"urn": "urn:lex:br:federal:lei:2001-11-22;10309",
+"consultado_em": "2026-11-09",
+"codigo": "552185",
+"nome": "Lei nº 10.309 de 22/11/2001",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2001-11-23", "descricao": "Publicação Original [Diário Oficial da União de 23/11/2001] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2001-12-21", "nome": "Decreto nº 4.060 de 21/12/2001", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": []},
+{"data": "2002-01-18", "nome": "Decreto nº 4.093 de 18/01/2002", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": []},
+{"data": "2002-02-18", "nome": "Medida Provisória nº 32 de 18/02/2002", "tipo": "Provisoria de Prorrogação de Prazo da Norma no Todo", "dispositivos": []},
+{"data": "2002-02-21", "nome": "Decreto nº 4.139 de 21/02/2002", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": []},
+{"data": "2002-03-21", "nome": "Decreto nº 4.171 de 21/03/2002", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": []},
+{"data": "2002-04-19", "nome": "Decreto nº 4.203 de 19/04/2002", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": []},
+{"data": "2002-05-15", "nome": "Lei nº 10.459 de 15/05/2002", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2002/lei-10459-2002-05-15"},
+{"data": "2002-05-21", "nome": "Decreto nº 4.242 de 21/05/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "prorrogação de prazo"}]},
+{"data": "2002-06-20", "nome": "Decreto nº 4.274 de 20/06/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "prorrogação de prazo"}]},
+{"data": "2002-07-18", "nome": "Decreto nº 4.306 de 18/07/2002", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "prorrogação de prazo"}]}
+],
+"controle": []
+}

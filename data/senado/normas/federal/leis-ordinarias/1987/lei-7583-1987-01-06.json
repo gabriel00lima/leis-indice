@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1987/lei-7583-1987-01-06",
+"urn": "urn:lex:br:federal:lei:1987-01-06;7583",
+"consultado_em": "2026-11-09",
+"codigo": "549459",
+"nome": "Lei nº 7.583 de 06/01/1987",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1987-01-07", "descricao": "Publicação Original [Diário Oficial da União de 07/01/1987] (p. 130, col. 1)"}
+],
+"alteracoes": [
+{"data": "1987-11-17", "nome": "Lei nº 7.631 de 17/11/1987", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1987/lei-7631-1987-11-17"}
+],
+"controle": []
+}

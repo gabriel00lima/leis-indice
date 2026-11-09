@@ -1,0 +1,30 @@
+{
+"id": "federal/leis-ordinarias/2024/lei-14995-2024-10-10",
+"urn": "urn:lex:br:federal:lei:2024-10-10;14995",
+"consultado_em": "2026-11-09",
+"codigo": "39754968",
+"nome": "Lei nº 14.995 de 10/10/2024",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2024-10-10", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 10/10/2024 - nº 197-A] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2024-10-10", "nome": "Mensagem de Veto Parcial nº 1.255 de 10/10/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-10-10", "nome": "Mensagem de Veto Parcial nº 1.255 de 10/10/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-10-10", "nome": "Mensagem de Veto Parcial nº 1.255 de 10/10/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-10-10", "nome": "Mensagem de Veto Parcial nº 1.255 de 10/10/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-10-10", "nome": "Mensagem de Veto Parcial nº 1.255 de 10/10/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-10-10", "nome": "Mensagem de Veto Parcial nº 1.255 de 10/10/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 17", "art": "17", "acao": "veto"}, {"dispositivo": "Art. 18", "art": "18", "acao": "veto"}, {"dispositivo": "Art. 45", "art": "45", "acao": "veto"}, {"dispositivo": "Art. 51, caput", "art": "51", "acao": "veto"}]},
+{"data": "2024-10-10", "nome": "Mensagem de Veto Parcial nº 1.255 de 10/10/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-10-10", "nome": "Mensagem de Veto Parcial nº 1.255 de 10/10/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-10-10", "nome": "Mensagem de Veto Parcial nº 1.255 de 10/10/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-10-10", "nome": "Mensagem de Veto Parcial nº 1.255 de 10/10/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-10-10", "nome": "Mensagem de Veto Parcial nº 1.255 de 10/10/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-10-10", "nome": "Mensagem de Veto Parcial nº 1.255 de 10/10/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-10-10", "nome": "Mensagem de Veto Parcial nº 1.255 de 10/10/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-10-10", "nome": "Mensagem de Veto Parcial nº 1.255 de 10/10/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-12-27", "nome": "Lei nº 15.077 de 27/12/2024", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-15077-2024-12-27"},
+{"data": "2024-12-27", "nome": "Lei nº 15.077 de 27/12/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 42, § 2", "art": "42", "acao": "alterou"}], "id": "federal/leis-ordinarias/2024/lei-15077-2024-12-27"}
+],
+"controle": []
+}

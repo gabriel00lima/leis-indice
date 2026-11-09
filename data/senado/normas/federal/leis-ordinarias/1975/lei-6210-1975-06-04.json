@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1975/lei-6210-1975-06-04",
+"urn": "urn:lex:br:federal:lei:1975-06-04;6210",
+"consultado_em": "2026-11-09",
+"codigo": "548086",
+"nome": "Lei nº 6.210 de 04/06/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-06-05", "descricao": "Publicação Original [Diário Oficial da União de 05/06/1975] (p. 6713, col. 1)"}
+],
+"alteracoes": [
+{"data": "1975-09-24", "nome": "Lei nº 6.243 de 24/09/1975", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1975/lei-6243-1975-09-24"},
+{"data": "1979-01-24", "nome": "Decreto nº 83.080 de 24/01/1979", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

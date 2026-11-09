@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1971/lei-5766-1971-12-20",
+"urn": "urn:lex:br:federal:lei:1971-12-20;5766",
+"consultado_em": "2026-11-09",
+"codigo": "547642",
+"nome": "Lei nº 5.766 de 20/12/1971",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1971-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/1971] (p. 10473, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-01-18", "nome": "Decreto nº 79.137 de 18/01/1977", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1977-06-17", "nome": "Decreto nº 79.822 de 17/06/1977", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

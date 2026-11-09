@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1975/lei-6257-1975-10-29",
+"urn": "urn:lex:br:federal:lei:1975-10-29;6257",
+"consultado_em": "2026-11-09",
+"codigo": "548133",
+"nome": "Lei nº 6.257 de 29/10/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-10-30", "descricao": "Publicação Original [Diário Oficial da União de 30/10/1975] (p. 14337, col. 1)"}
+],
+"alteracoes": [
+{"data": "1976-08-04", "nome": "Decreto nº 78.203 de 04/08/1976", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

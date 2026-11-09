@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1970/lei-5587-1970-07-02",
+"urn": "urn:lex:br:federal:lei:1970-07-02;5587",
+"consultado_em": "2026-11-09",
+"codigo": "547457",
+"nome": "Lei nº 5.587 de 02/07/1970",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1970-07-03", "descricao": "Publicação Original [Diário Oficial da União de 03/07/1970] (p. 4905, col. 1)"}
+],
+"alteracoes": [
+{"data": "1972-10-31", "nome": "Lei nº 5.815 de 31/10/1972", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5815-1972-10-31"},
+{"data": "1974-10-01", "nome": "Lei nº 6.110 de 01/10/1974", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1974/lei-6110-1974-10-01"},
+{"data": "1976-10-27", "nome": "Lei nº 6.370 de 27/10/1976", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1976/lei-6370-1976-10-27"},
+{"data": "1977-10-06", "nome": "Lei nº 6.447 de 06/10/1977", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1977/lei-6447-1977-10-06"},
+{"data": "1978-09-30", "nome": "Lei nº 6.570 de 30/09/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1978/lei-6570-1978-09-30"},
+{"data": "1979-12-04", "nome": "Lei nº 6.735 de 04/12/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6735-1979-12-04"}
+],
+"controle": []
+}

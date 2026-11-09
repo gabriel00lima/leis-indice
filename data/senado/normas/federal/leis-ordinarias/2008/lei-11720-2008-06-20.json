@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2008/lei-11720-2008-06-20",
+"urn": "urn:lex:br:federal:lei:2008-06-20;11720",
+"consultado_em": "2026-11-09",
+"codigo": "582142",
+"nome": "Lei nº 11.720 de 20/06/2008",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2008-06-23", "descricao": "Publicação Original [Diário Oficial da União de 23/06/2008] (p. 6, col. 1)"}
+],
+"alteracoes": [
+{"data": "2019-01-18", "nome": "Medida Provisória nº 871 de 18/01/2019", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2019-06-18", "nome": "Lei nº 13.846 de 18/06/2019", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2019/lei-13846-2019-06-18"}
+],
+"controle": []
+}

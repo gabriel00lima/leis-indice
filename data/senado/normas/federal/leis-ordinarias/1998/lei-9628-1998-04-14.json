@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1998/lei-9628-1998-04-14",
+"urn": "urn:lex:br:federal:lei:1998-04-14;9628",
+"consultado_em": "2026-11-09",
+"codigo": "551504",
+"nome": "Lei nº 9.628 de 14/04/1998",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1998-04-15", "descricao": "Publicação Original [Diário Oficial da União de 15/04/1998] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2014-09-24", "nome": "Lei nº 13.032 de 24/09/2014", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}], "id": "federal/leis-ordinarias/2014/lei-13032-2014-09-24"}
+],
+"controle": []
+}

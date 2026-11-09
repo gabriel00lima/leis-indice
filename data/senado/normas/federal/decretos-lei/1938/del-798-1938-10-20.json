@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1938/del-798-1938-10-20",
+"urn": "urn:lex:br:federal:decreto.lei:1938-10-20;798",
+"consultado_em": "2026-11-09",
+"codigo": "524221",
+"nome": "Decreto-Lei nº 798 de 20/10/1938",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1938-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1938 - vol. 004] (p. 53, col. 1)"}
+],
+"alteracoes": [
+{"data": "1939-12-05", "nome": "Decreto-Lei nº 1.839 de 05/12/1939", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1939/del-1839-1939-12-05"}
+],
+"controle": []
+}

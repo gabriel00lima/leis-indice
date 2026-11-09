@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9121-1995-10-30",
+"urn": "urn:lex:br:federal:lei:1995-10-30;9121",
+"consultado_em": "2026-11-09",
+"codigo": "550997",
+"nome": "Lei nº 9.121 de 30/10/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-10-31", "descricao": "Publicação Original [Diário Oficial da União de 31/10/1995] (p. 17185, col. 1)"},
+{"tipo": "RET", "data": "1995-12-29", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 29/12/1995] (p. 22648, col. 2)"},
+{"tipo": "RET", "data": "1996-01-19", "descricao": "Retificação (Seq. 2) [Diário Oficial da União de 19/01/1996] (p. 841, col. 1)"}
+],
+"alteracoes": [
+{"data": "1996-06-21", "nome": "Decreto de 21/06/1996", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

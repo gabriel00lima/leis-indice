@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1972/lei-5820-1972-11-10",
+"urn": "urn:lex:br:federal:lei:1972-11-10;5820",
+"consultado_em": "2026-11-09",
+"codigo": "547696",
+"nome": "Lei nº 5.820 de 10/11/1972",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1972-11-10", "descricao": "Publicação Original [Diário Oficial da União de 10/11/1972] (p. 10009, col. 1)"}
+],
+"alteracoes": [
+{"data": "1997-09-23", "nome": "Lei nº 9.503 de 23/09/1997", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9503-1997-09-23"}
+],
+"controle": []
+}

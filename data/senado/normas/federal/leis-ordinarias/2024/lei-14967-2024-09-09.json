@@ -1,0 +1,24 @@
+{
+"id": "federal/leis-ordinarias/2024/lei-14967-2024-09-09",
+"urn": "urn:lex:br:federal:lei:2024-09-09;14967",
+"consultado_em": "2026-11-09",
+"codigo": "39581130",
+"nome": "Lei nº 14.967 de 09/09/2024",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "ANX", "data": "2024-09-10", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União de 10/09/2024] (p. 6, col. 2)"},
+{"tipo": "PUB", "data": "2024-09-10", "descricao": "Publicação Original [Diário Oficial da União de 10/09/2024] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2024-09-09", "nome": "Mensagem de Veto Parcial nº 1.059 de 09/09/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-09-09", "nome": "Mensagem de Veto Parcial nº 1.059 de 09/09/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-09-09", "nome": "Mensagem de Veto Parcial nº 1.059 de 09/09/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-09-09", "nome": "Mensagem de Veto Parcial nº 1.059 de 09/09/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-09-09", "nome": "Mensagem de Veto Parcial nº 1.059 de 09/09/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-09-09", "nome": "Mensagem de Veto Parcial nº 1.059 de 09/09/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, § 2", "art": "7", "acao": "veto"}, {"dispositivo": "Art. 19, caput, Inciso 6", "art": "19", "acao": "veto"}, {"dispositivo": "Art. 20, § 2", "art": "20", "acao": "veto"}, {"dispositivo": "Art. 20, § 3", "art": "20", "acao": "veto"}, {"dispositivo": "Art. 20, § 4", "art": "20", "acao": "veto"}, {"dispositivo": "Art. 20, § 5", "art": "20", "acao": "veto"}, {"dispositivo": "Art. 71, caput", "art": "71", "acao": "veto"}]},
+{"data": "2024-09-09", "nome": "Mensagem de Veto Parcial nº 1.059 de 09/09/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2024-09-09", "nome": "Mensagem de Veto Parcial nº 1.059 de 09/09/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2026-06-09", "nome": "Decreto nº 13.012 de 09/06/2026", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

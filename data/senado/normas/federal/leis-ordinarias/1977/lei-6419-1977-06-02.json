@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6419-1977-06-02",
+"urn": "urn:lex:br:federal:lei:1977-06-02;6419",
+"consultado_em": "2026-11-09",
+"codigo": "548295",
+"nome": "Lei nº 6.419 de 02/06/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-06-03", "descricao": "Publicação Original [Diário Oficial da União de 03/06/1977] (p. 6829, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-09-28", "nome": "Decreto nº 82.343 de 28/09/1978", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1988-06-29", "nome": "Decreto-Lei nº 2.445 de 29/06/1988", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1988/del-2445-1988-06-29"}
+],
+"controle": []
+}

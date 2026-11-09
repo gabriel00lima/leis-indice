@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2014/lei-13017-2014-07-21",
+"urn": "urn:lex:br:federal:lei:2014-07-21;13017",
+"consultado_em": "2026-11-09",
+"codigo": "584828",
+"nome": "Lei nº 13.017 de 21/07/2014",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2014-07-22", "descricao": "Publicação Original [Diário Oficial da União de 22/07/2014] (p. 3, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-12-29", "nome": "Lei nº 14.286 de 29/12/2021", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14286-2021-12-29"}
+],
+"controle": []
+}

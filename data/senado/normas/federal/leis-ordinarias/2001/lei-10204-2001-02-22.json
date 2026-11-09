@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2001/lei-10204-2001-02-22",
+"urn": "urn:lex:br:federal:lei:2001-02-22;10204",
+"consultado_em": "2026-11-09",
+"codigo": "552080",
+"nome": "Lei nº 10.204 de 22/02/2001",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2001-02-23", "descricao": "Publicação Original [Diário Oficial da União de 23/02/2001] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2020-06-10", "nome": "Lei nº 14.011 de 10/06/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, § 2", "art": "4", "acao": "vetado"}], "id": "federal/leis-ordinarias/2020/lei-14011-2020-06-10"}
+],
+"controle": []
+}

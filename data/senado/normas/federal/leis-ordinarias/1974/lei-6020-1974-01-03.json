@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1974/lei-6020-1974-01-03",
+"urn": "urn:lex:br:federal:lei:1974-01-03;6020",
+"consultado_em": "2026-11-09",
+"codigo": "547896",
+"nome": "Lei nº 6.020 de 03/01/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-01-04", "descricao": "Publicação Original [Diário Oficial da União de 04/01/1974] (p. 73, col. 4)"}
+],
+"alteracoes": [
+{"data": "1974-03-12", "nome": "Decreto-Lei nº 1.319 de 12/03/1974", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1974/del-1319-1974-03-12"}
+],
+"controle": []
+}

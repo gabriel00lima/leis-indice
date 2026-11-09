@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1978/lei-6606-1978-12-07",
+"urn": "urn:lex:br:federal:lei:1978-12-07;6606",
+"consultado_em": "2026-11-09",
+"codigo": "548482",
+"nome": "Lei nº 6.606 de 07/12/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-12-12", "descricao": "Publicação Original [Diário Oficial da União de 12/12/1978] (p. 19910, col. 2)"}
+],
+"alteracoes": [
+{"data": "1981-05-27", "nome": "Decreto nº 86.036 de 27/05/1981", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2025-07-30", "nome": "Lei nº 15.182 de 30/07/2025", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2025/lei-15182-2025-07-30"}
+],
+"controle": []
+}

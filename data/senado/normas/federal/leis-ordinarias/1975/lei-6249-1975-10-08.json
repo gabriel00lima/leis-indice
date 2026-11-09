@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1975/lei-6249-1975-10-08",
+"urn": "urn:lex:br:federal:lei:1975-10-08;6249",
+"consultado_em": "2026-11-09",
+"codigo": "548125",
+"nome": "Lei nº 6.249 de 08/10/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-10-09", "descricao": "Publicação Original [Diário Oficial da União de 09/10/1975] (p. 13457, col. 2)"}
+],
+"alteracoes": [
+{"data": "1976-06-02", "nome": "Decreto nº 77.740 de 02/06/1976", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1978-06-30", "nome": "Lei nº 6.543 de 30/06/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1978/lei-6543-1978-06-30"},
+{"data": "1979-07-05", "nome": "Decreto nº 83.703 de 05/07/1979", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1982-04-20", "nome": "Decreto-Lei nº 1.934 de 20/04/1982", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 15", "art": "15", "acao": "revogou"}], "id": "federal/decretos-lei/1982/del-1934-1982-04-20"},
+{"data": "1982-09-20", "nome": "Decreto nº 87.572 de 20/09/1982", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1984-05-11", "nome": "Decreto nº 89.652 de 11/05/1984", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

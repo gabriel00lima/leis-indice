@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1982/lei-7080-1982-12-21",
+"urn": "urn:lex:br:federal:lei:1982-12-21;7080",
+"consultado_em": "2026-11-09",
+"codigo": "548956",
+"nome": "Lei nº 7.080 de 21/12/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/1982] (p. 23957, col. 2)"}
+],
+"alteracoes": [
+{"data": "1987-07-07", "nome": "Lei nº 7.610 de 07/07/1987", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 3", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1987/lei-7610-1987-07-07"}
+],
+"controle": []
+}

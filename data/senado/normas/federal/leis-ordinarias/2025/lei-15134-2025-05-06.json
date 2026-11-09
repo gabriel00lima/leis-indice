@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/2025/lei-15134-2025-05-06",
+"urn": "urn:lex:br:federal:lei:2025-05-06;15134",
+"consultado_em": "2026-11-09",
+"codigo": "40685437",
+"nome": "Lei nº 15.134 de 06/05/2025",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2025-05-07", "descricao": "Publicação Original [Diário Oficial da União de 07/05/2025] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2025-05-06", "nome": "Mensagem de Veto Parcial nº 552 de 06/05/2025", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2025-05-06", "nome": "Mensagem de Veto Parcial nº 552 de 06/05/2025", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2025-05-06", "nome": "Mensagem de Veto Parcial nº 552 de 06/05/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 2, caput", "art": "2", "acao": "veto"}, {"dispositivo": "Art. 4, caput, Inciso 1", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 9", "art": "9", "acao": "veto"}, {"dispositivo": "Art. 10", "art": "10", "acao": "veto"}]},
+{"data": "2025-05-06", "nome": "Mensagem de Veto Parcial nº 552 de 06/05/2025", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2025-05-06", "nome": "Mensagem de Veto Parcial nº 552 de 06/05/2025", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2025-05-06", "nome": "Mensagem de Veto Parcial nº 552 de 06/05/2025", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2025-05-06", "nome": "Mensagem de Veto Parcial nº 552 de 06/05/2025", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2025-05-06", "nome": "Mensagem de Veto Parcial nº 552 de 06/05/2025", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": []
+}

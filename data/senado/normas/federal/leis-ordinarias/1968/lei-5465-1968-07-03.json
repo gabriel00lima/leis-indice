@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5465-1968-07-03",
+"urn": "urn:lex:br:federal:lei:1968-07-03;5465",
+"consultado_em": "2026-11-09",
+"codigo": "547333",
+"nome": "Lei nº 5.465 de 03/07/1968",
+"apelidos": [
+"Lei do Boi (1968)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-07-04", "descricao": "Publicação Original [Diário Oficial da União de 04/07/1968] (p. 5537, col. 1)"}
+],
+"alteracoes": [
+{"data": "1968-12-12", "nome": "Decreto nº 63.788 de 12/12/1968", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1985-12-17", "nome": "Lei nº 7.423 de 17/12/1985", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7423-1985-12-17"}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1979/lei-6717-1979-11-12",
+"urn": "urn:lex:br:federal:lei:1979-11-12;6717",
+"consultado_em": "2026-11-09",
+"codigo": "548593",
+"nome": "Lei nº 6.717 de 12/11/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-11-12", "descricao": "Publicação Original [Diário Oficial da União de 12/11/1979] (p. 16691, col. 2)"}
+],
+"alteracoes": [
+{"data": "1988-08-30", "nome": "Decreto-Lei nº 2.463 de 30/08/1988", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1988/del-2463-1988-08-30"},
+{"data": "2018-06-11", "nome": "Medida Provisória nº 841 de 11/06/2018", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "revogou"}]},
+{"data": "2018-12-12", "nome": "Lei nº 13.756 de 12/12/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/2018/lei-13756-2018-12-12"}
+],
+"controle": []
+}

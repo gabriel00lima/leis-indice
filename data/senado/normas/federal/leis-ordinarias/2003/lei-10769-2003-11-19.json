@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2003/lei-10769-2003-11-19",
+"urn": "urn:lex:br:federal:lei:2003-11-19;10769",
+"consultado_em": "2026-11-09",
+"codigo": "552645",
+"nome": "Lei nº 10.769 de 19/11/2003",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2003-11-20", "descricao": "Publicação Original [Diário Oficial da União de 20/11/2003] (p. 3, col. 1)"},
+{"tipo": "RET", "data": "2003-11-21", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 21/11/2003] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2004-08-10", "nome": "Decreto nº 5.176 de 10/08/2004", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

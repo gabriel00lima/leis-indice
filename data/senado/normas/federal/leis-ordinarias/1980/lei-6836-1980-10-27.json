@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1980/lei-6836-1980-10-27",
+"urn": "urn:lex:br:federal:lei:1980-10-27;6836",
+"consultado_em": "2026-11-09",
+"codigo": "548712",
+"nome": "Lei nº 6.836 de 27/10/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-10-29", "descricao": "Publicação Original [Diário Oficial da União de 29/10/1980] (p. 21537, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-08-30", "nome": "Lei nº 7.018 de 30/08/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7018-1982-08-30"}
+],
+"controle": []
+}

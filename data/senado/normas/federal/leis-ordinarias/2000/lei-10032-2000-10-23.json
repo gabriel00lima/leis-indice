@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2000/lei-10032-2000-10-23",
+"urn": "urn:lex:br:federal:lei:2000-10-23;10032",
+"consultado_em": "2026-11-09",
+"codigo": "551908",
+"nome": "Lei nº 10.032 de 23/10/2000",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-10-24", "descricao": "Publicação Original [Diário Oficial da União de 24/10/2000] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2002-06-21", "nome": "Decreto nº 4.279 de 21/06/2002", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2019-07-08", "nome": "Lei nº 13.856 de 08/07/2019", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [], "id": "federal/leis-ordinarias/2019/lei-13856-2019-07-08"}
+],
+"controle": []
+}

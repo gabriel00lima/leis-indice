@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1983/lei-7132-1983-10-26",
+"urn": "urn:lex:br:federal:lei:1983-10-26;7132",
+"consultado_em": "2026-11-09",
+"codigo": "549008",
+"nome": "Lei nº 7.132 de 26/10/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-10-27", "descricao": "Publicação Original [Diário Oficial da União de 27/10/1983] (p. 18210, col. 2)"}
+],
+"alteracoes": [
+{"data": "1996-12-27", "nome": "Lei nº 9.430 de 27/12/1996", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}], "id": "federal/leis-ordinarias/1996/lei-9430-1996-12-27"},
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

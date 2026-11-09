@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5381-1968-02-09",
+"urn": "urn:lex:br:federal:lei:1968-02-09;5381",
+"consultado_em": "2026-11-09",
+"codigo": "547245",
+"nome": "Lei nº 5.381 de 09/02/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-02-14", "descricao": "Publicação Original [Diário Oficial da União de 14/02/1968] (p. 1441, col. 1)"}
+],
+"alteracoes": [
+{"data": "1975-04-29", "nome": "Decreto nº 75.679 de 29/04/1975", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1976-04-29", "nome": "Decreto nº 77.510 de 29/04/1976", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1978-04-28", "nome": "Decreto nº 81.615 de 28/04/1978", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1979-10-31", "nome": "Decreto nº 84.135 de 31/10/1979", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1981-10-29", "nome": "Decreto nº 86.514 de 29/10/1981", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1983-04-30", "nome": "Decreto nº 88.267 de 30/04/1983", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2026/lei-15473-2026-07-22",
+"urn": "urn:lex:br:federal:lei:2026-07-22;15473",
+"consultado_em": "2026-11-09",
+"codigo": "43591496",
+"nome": "Lei nº 15.473 de 22/07/2026",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2026-07-22", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 22/07/2026 - nº 136-A] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2026-07-22", "nome": "Medida Provisória nº 1.379 de 22/07/2026", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3, § 1-A", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, § 12", "art": "3", "acao": "acrescentou"}, {"dispositivo": "Art. 3, § 13", "art": "3", "acao": "acrescentou"}]},
+{"data": "2026-07-22", "nome": "Medida Provisória nº 1.379 de 22/07/2026", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2026-08-05", "nome": "Decreto nº 13.091 de 05/08/2026", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 3, § 13", "art": "3", "acao": "correlato"}]}
+],
+"controle": []
+}

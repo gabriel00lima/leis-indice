@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1985/lei-7437-1985-12-20",
+"urn": "urn:lex:br:federal:lei:1985-12-20;7437",
+"consultado_em": "2026-11-09",
+"codigo": "549313",
+"nome": "Lei nº 7.437 de 20/12/1985",
+"apelidos": [
+"Lei Caó (1985)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1985-12-23", "descricao": "Publicação Original [Diário Oficial da União de 23/12/1985] (p. 18857, col. 2)"}
+],
+"alteracoes": [
+{"data": "1989-01-05", "nome": "Lei nº 7.716 de 05/01/1989", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7716-1989-01-05"},
+{"data": "1990-09-21", "nome": "Lei nº 8.081 de 21/09/1990", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1990/lei-8081-1990-09-21"},
+{"data": "1994-06-03", "nome": "Lei nº 8.882 de 03/06/1994", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1994/lei-8882-1994-06-03"},
+{"data": "1997-05-13", "nome": "Lei nº 9.459 de 13/05/1997", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9459-1997-05-13"}
+],
+"controle": []
+}

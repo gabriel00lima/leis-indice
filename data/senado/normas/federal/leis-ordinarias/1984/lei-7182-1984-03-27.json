@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1984/lei-7182-1984-03-27",
+"urn": "urn:lex:br:federal:lei:1984-03-27;7182",
+"consultado_em": "2026-11-09",
+"codigo": "549058",
+"nome": "Lei nº 7.182 de 27/03/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-03-29", "descricao": "Publicação Original [Diário Oficial da União de 29/03/1984] (p. 4401, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-12-18", "nome": "Lei nº 7.433 de 18/12/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7433-1985-12-18"}
+],
+"controle": []
+}

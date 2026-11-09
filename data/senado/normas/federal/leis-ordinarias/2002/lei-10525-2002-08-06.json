@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10525-2002-08-06",
+"urn": "urn:lex:br:federal:lei:2002-08-06;10525",
+"consultado_em": "2026-11-09",
+"codigo": "552401",
+"nome": "Lei nº 10.525 de 06/08/2002",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-08-07", "descricao": "Publicação Original [Diário Oficial da União de 07/08/2002] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2006-03-30", "nome": "Medida Provisória nº 288 de 30/03/2006", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2006-07-07", "nome": "Lei nº 11.321 de 07/07/2006", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2006/lei-11321-2006-07-07"}
+],
+"controle": []
+}

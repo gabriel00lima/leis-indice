@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1993/lei-8700-1993-08-27",
+"urn": "urn:lex:br:federal:lei:1993-08-27;8700",
+"consultado_em": "2026-11-09",
+"codigo": "550576",
+"nome": "Lei nº 8.700 de 27/08/1993",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-08-30", "descricao": "Publicação Original [Diário Oficial da União de 30/08/1993] (p. 12821, col. 2)"}
+],
+"alteracoes": [
+{"data": "1994-02-27", "nome": "Medida Provisória nº 434 de 27/02/1994", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "1994-03-29", "nome": "Medida Provisória nº 457 de 29/03/1994", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "1994-04-28", "nome": "Medida Provisória nº 482 de 28/04/1994", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "1994-05-27", "nome": "Lei nº 8.880 de 27/05/1994", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1994/lei-8880-1994-05-27"}
+],
+"controle": []
+}

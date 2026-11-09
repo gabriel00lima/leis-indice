@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2022/lei-14291-2022-01-03",
+"urn": "urn:lex:br:federal:lei:2022-01-03;14291",
+"consultado_em": "2026-11-09",
+"codigo": "35405830",
+"nome": "Lei nº 14.291 de 03/01/2022",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2022-01-04", "descricao": "Publicação Original [Diário Oficial da União de 04/01/2022] (p. 1, col. 2)"},
+{"tipo": "VET", "data": "2022-02-15", "descricao": "Publicação de Veto Rejeitado [Diário Oficial da União de 15/02/2022] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2022-01-03", "nome": "Mensagem de Veto Parcial nº 4 de 03/01/2022", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": []
+}

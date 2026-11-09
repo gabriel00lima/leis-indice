@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2016/lei-13266-2016-04-05",
+"urn": "urn:lex:br:federal:lei:2016-04-05;13266",
+"consultado_em": "2026-11-09",
+"codigo": "602491",
+"nome": "Lei nº 13.266 de 05/04/2016",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2016-04-06", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 06/04/2016 - nº 65-A] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2016-04-05", "nome": "Mensagem de Veto Parcial nº 125 de 05/04/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, caput, Inciso 14", "art": "6", "acao": "veto"}, {"dispositivo": "Art. 11", "art": "11", "acao": "veto"}]},
+{"data": "2016-04-05", "nome": "Mensagem de Veto Parcial nº 125 de 05/04/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-04-05", "nome": "Mensagem de Veto Parcial nº 125 de 05/04/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-04-05", "nome": "Mensagem de Veto Parcial nº 125 de 05/04/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-04-05", "nome": "Mensagem de Veto Parcial nº 125 de 05/04/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-04-05", "nome": "Mensagem de Veto Parcial nº 125 de 05/04/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2017-05-31", "nome": "Decreto nº 9.067 de 31/05/2017", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

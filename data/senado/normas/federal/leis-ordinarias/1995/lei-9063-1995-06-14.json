@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9063-1995-06-14",
+"urn": "urn:lex:br:federal:lei:1995-06-14;9063",
+"consultado_em": "2026-11-09",
+"codigo": "550939",
+"nome": "Lei nº 9.063 de 14/06/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-06-20", "descricao": "Publicação Original [Diário Oficial da União de 20/06/1995] (p. 8885, col. 1)"}
+],
+"alteracoes": [
+{"data": "2006-03-30", "nome": "Medida Provisória nº 288 de 30/03/2006", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]},
+{"data": "2006-07-07", "nome": "Lei nº 11.321 de 07/07/2006", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2006/lei-11321-2006-07-07"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6426-1977-06-30",
+"urn": "urn:lex:br:federal:lei:1977-06-30;6426",
+"consultado_em": "2026-11-09",
+"codigo": "548302",
+"nome": "Lei nº 6.426 de 30/06/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-07-04", "descricao": "Publicação Original [Diário Oficial da União de 04/07/1977] (p. 8329, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-02-08", "nome": "Decreto nº 81.316 de 08/02/1978", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1993-06-09", "nome": "Decreto nº 836 de 09/06/1993", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "regulamentou"}]}
+],
+"controle": []
+}

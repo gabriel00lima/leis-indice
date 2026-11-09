@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2000/lei-10002-2000-09-14",
+"urn": "urn:lex:br:federal:lei:2000-09-14;10002",
+"consultado_em": "2026-11-09",
+"codigo": "551878",
+"nome": "Lei nº 10.002 de 14/09/2000",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-09-15", "descricao": "Publicação Original [Diário Oficial da União de 15/09/2000] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2000-12-27", "nome": "Decreto nº 3.712 de 27/12/2000", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

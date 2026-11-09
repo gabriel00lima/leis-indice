@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1980/lei-6891-1980-12-11",
+"urn": "urn:lex:br:federal:lei:1980-12-11;6891",
+"consultado_em": "2026-11-09",
+"codigo": "548767",
+"nome": "Lei nº 6.891 de 11/12/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-12-15", "descricao": "Publicação Original [Diário Oficial da União de 15/12/1980] (p. 25017, col. 2)"}
+],
+"alteracoes": [
+{"data": "2008-01-11", "nome": "Lei nº 11.641 de 11/01/2008", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2008/lei-11641-2008-01-11"}
+],
+"controle": []
+}

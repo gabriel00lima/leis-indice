@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2024/lei-14852-2024-05-03",
+"urn": "urn:lex:br:federal:lei:2024-05-03;14852",
+"consultado_em": "2026-11-09",
+"codigo": "38444921",
+"nome": "Lei nº 14.852 de 03/05/2024",
+"apelidos": [
+"Marco Legal dos Jogos Eletrônicos"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2024-05-06", "descricao": "Publicação Original [Diário Oficial da União de 06/05/2024] (p. 3, col. 1)"}
+],
+"alteracoes": [
+{"data": "2024-05-03", "nome": "Mensagem de Veto Parcial nº 168 de 03/05/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 19", "art": "19", "acao": "veto"}]},
+{"data": "2024-05-03", "nome": "Mensagem de Veto Parcial nº 168 de 03/05/2024", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2026-03-18", "nome": "Decreto nº 12.880 de 18/03/2026", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 16", "art": "16", "acao": "correlato"}, {"dispositivo": "Art. 17, caput", "art": "17", "acao": "correlato"}]},
+{"data": "2026-10-14", "nome": "Decreto nº 13.138 de 14/10/2026", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

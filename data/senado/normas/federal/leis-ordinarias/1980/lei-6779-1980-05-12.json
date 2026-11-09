@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1980/lei-6779-1980-05-12",
+"urn": "urn:lex:br:federal:lei:1980-05-12;6779",
+"consultado_em": "2026-11-09",
+"codigo": "548655",
+"nome": "Lei nº 6.779 de 12/05/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-05-13", "descricao": "Publicação Original [Diário Oficial da União de 13/05/1980] (p. 8483, col. 2)"}
+],
+"alteracoes": [
+{"data": "1982-12-21", "nome": "Lei nº 7.080 de 21/12/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7080-1982-12-21"}
+],
+"controle": []
+}

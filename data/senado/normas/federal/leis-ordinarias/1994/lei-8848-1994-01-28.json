@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1994/lei-8848-1994-01-28",
+"urn": "urn:lex:br:federal:lei:1994-01-28;8848",
+"consultado_em": "2026-11-09",
+"codigo": "550724",
+"nome": "Lei nº 8.848 de 28/01/1994",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1994-01-29", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 29/01/1994 - nº 20-A] (p. 1383, col. 1)"}
+],
+"alteracoes": [
+{"data": "1994-02-27", "nome": "Medida Provisória nº 434 de 27/02/1994", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

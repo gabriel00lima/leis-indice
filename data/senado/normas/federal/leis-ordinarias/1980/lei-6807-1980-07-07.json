@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1980/lei-6807-1980-07-07",
+"urn": "urn:lex:br:federal:lei:1980-07-07;6807",
+"consultado_em": "2026-11-09",
+"codigo": "548683",
+"nome": "Lei nº 6.807 de 07/07/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-07-08", "descricao": "Publicação Original [Diário Oficial da União de 08/07/1980] (p. 13582, col. 2)"}
+],
+"alteracoes": [
+{"data": "1980-10-07", "nome": "Decreto nº 85.238 de 07/10/1980", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1985-10-17", "nome": "Decreto nº 91.782 de 17/10/1985", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1987-10-09", "nome": "Lei nº 7.622 de 09/10/1987", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1987/lei-7622-1987-10-09"}
+],
+"controle": []
+}

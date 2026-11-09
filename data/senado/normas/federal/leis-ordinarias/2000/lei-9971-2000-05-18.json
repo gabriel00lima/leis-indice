@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2000/lei-9971-2000-05-18",
+"urn": "urn:lex:br:federal:lei:2000-05-18;9971",
+"consultado_em": "2026-11-09",
+"codigo": "551847",
+"nome": "Lei nº 9.971 de 18/05/2000",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-05-19", "descricao": "Publicação Original [Diário Oficial da União de 19/05/2000] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2006-03-30", "nome": "Medida Provisória nº 288 de 30/03/2006", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2006-07-07", "nome": "Lei nº 11.321 de 07/07/2006", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2006/lei-11321-2006-07-07"}
+],
+"controle": []
+}

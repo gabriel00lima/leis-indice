@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1994/lei-8895-1994-06-21",
+"urn": "urn:lex:br:federal:lei:1994-06-21;8895",
+"consultado_em": "2026-11-09",
+"codigo": "550771",
+"nome": "Lei nº 8.895 de 21/06/1994",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1994-06-22", "descricao": "Publicação Original [Diário Oficial da União de 22/06/1994] (p. 9092, col. 1)"}
+],
+"alteracoes": [
+{"data": "2002-01-24", "nome": "Medida Provisória nº 26 de 24/01/2002", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2002-04-24", "nome": "Lei nº 10.432 de 24/04/2002", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2002/lei-10432-2002-04-24"}
+],
+"controle": []
+}

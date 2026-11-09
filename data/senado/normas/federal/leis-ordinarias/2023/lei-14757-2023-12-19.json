@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2023/lei-14757-2023-12-19",
+"urn": "urn:lex:br:federal:lei:2023-12-19;14757",
+"consultado_em": "2026-11-09",
+"codigo": "37953867",
+"nome": "Lei nº 14.757 de 19/12/2023",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2023-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/2023] (p. 1, col. 1)"},
+{"tipo": "VEP", "data": "2024-05-22", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União de 22/05/2024] (p. 5, col. 1)"},
+{"tipo": "VEP", "data": "2024-06-13", "descricao": "Publicação de Veto Parcialmente Rejeitado (Seq. 2) [Diário Oficial da União de 13/06/2024] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2023-12-19", "nome": "Mensagem de Veto Parcial nº 693 de 19/12/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-12-19", "nome": "Mensagem de Veto Parcial nº 693 de 19/12/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-12-19", "nome": "Mensagem de Veto Parcial nº 693 de 19/12/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "veto"}]}
+],
+"controle": []
+}

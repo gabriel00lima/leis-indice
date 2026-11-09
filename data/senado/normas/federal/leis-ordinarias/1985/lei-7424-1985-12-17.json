@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1985/lei-7424-1985-12-17",
+"urn": "urn:lex:br:federal:lei:1985-12-17;7424",
+"consultado_em": "2026-11-09",
+"codigo": "549300",
+"nome": "Lei nº 7.424 de 17/12/1985",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1985-12-18", "descricao": "Publicação Original [Diário Oficial da União de 18/12/1985] (p. 18541, col. 1)"}
+],
+"alteracoes": [
+{"data": "1990-07-04", "nome": "Lei nº 8.059 de 04/07/1990", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1990/lei-8059-1990-07-04"},
+{"data": "2019-12-16", "nome": "Lei nº 13.954 de 16/12/2019", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2019/lei-13954-2019-12-16"}
+],
+"controle": []
+}

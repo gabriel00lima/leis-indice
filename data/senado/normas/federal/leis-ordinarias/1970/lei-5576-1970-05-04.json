@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1970/lei-5576-1970-05-04",
+"urn": "urn:lex:br:federal:lei:1970-05-04;5576",
+"consultado_em": "2026-11-09",
+"codigo": "547446",
+"nome": "Lei nº 5.576 de 04/05/1970",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1970-05-06", "descricao": "Publicação Original [Diário Oficial da União de 06/05/1970] (p. 3257, col. 1)"}
+],
+"alteracoes": [
+{"data": "1972-05-18", "nome": "Decreto nº 70.568 de 18/05/1972", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1972-05-22", "nome": "Decreto nº 70.584 de 22/05/1972", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1972-11-10", "nome": "Lei nº 5.821 de 10/11/1972", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5821-1972-11-10"}
+],
+"controle": []
+}

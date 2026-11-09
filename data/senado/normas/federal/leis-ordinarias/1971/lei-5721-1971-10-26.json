@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1971/lei-5721-1971-10-26",
+"urn": "urn:lex:br:federal:lei:1971-10-26;5721",
+"consultado_em": "2026-11-09",
+"codigo": "547594",
+"nome": "Lei nº 5.721 de 26/10/1971",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1971-10-27", "descricao": "Publicação Original [Diário Oficial da União de 27/10/1971] (p. 8682, col. 1)"}
+],
+"alteracoes": [
+{"data": "1986-11-21", "nome": "Decreto-Lei nº 2.300 de 21/11/1986", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/decretos-lei/1986/del-2300-1986-11-21"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9003-1995-03-16",
+"urn": "urn:lex:br:federal:lei:1995-03-16;9003",
+"consultado_em": "2026-11-09",
+"codigo": "550879",
+"nome": "Lei nº 9.003 de 16/03/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-03-17", "descricao": "Publicação Original [Diário Oficial da União de 17/03/1995] (p. 3593, col. 2)"}
+],
+"alteracoes": [
+{"data": "1996-05-20", "nome": "Decreto nº 1.908 de 20/05/1996", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "regulamentou"}]},
+{"data": "1998-08-26", "nome": "Decreto nº 2.752 de 26/08/1998", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "regulamentou"}]}
+],
+"controle": []
+}

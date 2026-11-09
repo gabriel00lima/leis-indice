@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1996/lei-9429-1996-12-26",
+"urn": "urn:lex:br:federal:lei:1996-12-26;9429",
+"consultado_em": "2026-11-09",
+"codigo": "551305",
+"nome": "Lei nº 9.429 de 26/12/1996",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1996-12-27", "descricao": "Publicação Original [Diário Oficial da União de 27/12/1996] (p. 28659, col. 1)"}
+],
+"alteracoes": [
+{"data": "2008-11-07", "nome": "Medida Provisória nº 446 de 07/11/2008", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}]},
+{"data": "2009-11-27", "nome": "Lei nº 12.101 de 27/11/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}], "id": "federal/leis-ordinarias/2009/lei-12101-2009-11-27"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1985/lei-7410-1985-11-27",
+"urn": "urn:lex:br:federal:lei:1985-11-27;7410",
+"consultado_em": "2026-11-09",
+"codigo": "549286",
+"nome": "Lei nº 7.410 de 27/11/1985",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1985-11-28", "descricao": "Publicação Original [Diário Oficial da União de 28/11/1985] (p. 17421, col. 1)"}
+],
+"alteracoes": [
+{"data": "1986-04-09", "nome": "Decreto nº 92.530 de 09/04/1986", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2024-11-18", "nome": "Lei nº 15.026 de 18/11/2024", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-15026-2024-11-18"}
+],
+"controle": []
+}

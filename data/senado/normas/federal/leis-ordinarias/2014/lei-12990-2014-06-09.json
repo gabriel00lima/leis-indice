@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/2014/lei-12990-2014-06-09",
+"urn": "urn:lex:br:federal:lei:2014-06-09;12990",
+"consultado_em": "2026-11-09",
+"codigo": "584801",
+"nome": "Lei nº 12.990 de 09/06/2014",
+"apelidos": [
+"Lei de Cotas Raciais em Concursos Públicos (2014)",
+"Lei de Cotas no Serviço Público (2014)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2014-06-10", "descricao": "Publicação Original [Diário Oficial da União de 10/06/2014] (p. 3, col. 1)"}
+],
+"alteracoes": [
+{"data": "2025-06-03", "nome": "Lei nº 15.142 de 03/06/2025", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2025/lei-15142-2025-06-03"}
+],
+"controle": [
+{"data": "2017-06-08", "nome": "Acórdão da Ação Declaratória de Constitucionalidade nº 41 de 08/06/2017", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADC", "numero": "41"}},
+{"data": "2024-06-14", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 7.654 de 14/06/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, caput", "art": "6", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}], "decisao": {"classe": "ADI", "numero": "7654"}}
+]
+}

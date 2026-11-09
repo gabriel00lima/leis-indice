@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2014/lei-12974-2014-05-15",
+"urn": "urn:lex:br:federal:lei:2014-05-15;12974",
+"consultado_em": "2026-11-09",
+"codigo": "584785",
+"nome": "Lei nº 12.974 de 15/05/2014",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2014-05-16", "descricao": "Publicação Original [Diário Oficial da União de 16/05/2014] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2024-09-18", "nome": "Lei nº 14.978 de 18/09/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}, {"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 8, caput, Inciso 1", "art": "8", "acao": "revogou"}], "id": "federal/leis-ordinarias/2024/lei-14978-2024-09-18"}
+],
+"controle": []
+}

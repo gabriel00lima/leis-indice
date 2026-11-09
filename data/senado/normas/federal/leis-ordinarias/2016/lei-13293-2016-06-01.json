@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2016/lei-13293-2016-06-01",
+"urn": "urn:lex:br:federal:lei:2016-06-01;13293",
+"consultado_em": "2026-11-09",
+"codigo": "602518",
+"nome": "Lei nº 13.293 de 01/06/2016",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2016-06-02", "descricao": "Publicação Original [Diário Oficial da União de 02/06/2016] (p. 1, col. 3)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2022-05-27", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.869 de 27/05/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade de Parte do Texto"}], "decisao": {"classe": "ADI", "numero": "4869"}}
+]
+}

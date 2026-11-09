@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1982/lei-7035-1982-10-05",
+"urn": "urn:lex:br:federal:lei:1982-10-05;7035",
+"consultado_em": "2026-11-09",
+"codigo": "548911",
+"nome": "Lei nº 7.035 de 05/10/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-10-06", "descricao": "Publicação Original [Diário Oficial da União de 06/10/1982] (p. 18706, col. 2)"}
+],
+"alteracoes": [
+{"data": "1982-12-28", "nome": "Decreto-Lei nº 1.984 de 28/12/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1984-1982-12-28"}
+],
+"controle": []
+}

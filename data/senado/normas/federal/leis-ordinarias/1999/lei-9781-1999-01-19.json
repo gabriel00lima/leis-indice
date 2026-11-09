@@ -1,0 +1,21 @@
+{
+"id": "federal/leis-ordinarias/1999/lei-9781-1999-01-19",
+"urn": "urn:lex:br:federal:lei:1999-01-19;9781",
+"consultado_em": "2026-11-09",
+"codigo": "551657",
+"nome": "Lei nº 9.781 de 19/01/1999",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1999-01-20", "descricao": "Publicação Original [Diário Oficial da União de 20/01/1999] (p. 3, col. 2)"}
+],
+"alteracoes": [
+{"data": "1999-03-02", "nome": "Decreto nº 2.978 de 02/03/1999", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2000-08-11", "nome": "Medida Provisória nº 2.055 de 11/08/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5, caput, Inciso 1", "art": "5", "acao": "alterou"}]},
+{"data": "2000-09-12", "nome": "Medida Provisória nº 2.055-1 de 12/09/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5, caput, Inciso 1", "art": "5", "acao": "alterou"}]},
+{"data": "2000-10-11", "nome": "Medida Provisória nº 2.055-2 de 11/10/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5, caput, Inciso 1", "art": "5", "acao": "alterou"}]},
+{"data": "2000-11-09", "nome": "Medida Provisória nº 2.055-3 de 09/11/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5, caput, Inciso 1", "art": "5", "acao": "alterou"}]},
+{"data": "2000-12-07", "nome": "Medida Provisória nº 2.055-4 de 07/12/2000", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 5, caput, Inciso 1", "art": "5", "acao": "alterou"}]},
+{"data": "2011-11-30", "nome": "Lei nº 12.529 de 30/11/2011", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2011/lei-12529-2011-11-30"}
+],
+"controle": []
+}

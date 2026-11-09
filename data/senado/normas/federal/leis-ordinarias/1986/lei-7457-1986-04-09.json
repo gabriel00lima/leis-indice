@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1986/lei-7457-1986-04-09",
+"urn": "urn:lex:br:federal:lei:1986-04-09;7457",
+"consultado_em": "2026-11-09",
+"codigo": "549333",
+"nome": "Lei nº 7.457 de 09/04/1986",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-04-10", "descricao": "Publicação Original [Diário Oficial da União de 10/04/1986] (p. 5165, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-11-06", "nome": "Lei nº 12.086 de 06/11/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2009/lei-12086-2009-11-06"}
+],
+"controle": []
+}

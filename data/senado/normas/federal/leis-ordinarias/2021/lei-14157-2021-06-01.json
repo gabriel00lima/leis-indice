@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2021/lei-14157-2021-06-01",
+"urn": "urn:lex:br:federal:lei:2021-06-01;14157",
+"consultado_em": "2026-11-09",
+"codigo": "34125164",
+"nome": "Lei nº 14.157 de 01/06/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-06-02", "descricao": "Publicação Original [Diário Oficial da União de 02/06/2021] (p. 4, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-06-01", "nome": "Mensagem de Veto Parcial nº 235 de 01/06/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput", "art": "4", "acao": "veto"}]},
+{"data": "2021-06-01", "nome": "Mensagem de Veto Parcial nº 235 de 01/06/2021", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": []
+}

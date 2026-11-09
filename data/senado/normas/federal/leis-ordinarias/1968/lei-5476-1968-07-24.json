@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5476-1968-07-24",
+"urn": "urn:lex:br:federal:lei:1968-07-24;5476",
+"consultado_em": "2026-11-09",
+"codigo": "547345",
+"nome": "Lei nº 5.476 de 24/07/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-07-25", "descricao": "Publicação Original [Diário Oficial da União de 25/07/1968] (p. 6353, col. 2)"}
+],
+"alteracoes": [
+{"data": "1984-01-03", "nome": "Decreto nº 89.269 de 03/01/1984", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}
