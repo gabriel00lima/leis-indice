@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1978/del-1649-1978-12-19",
+"urn": "urn:lex:br:federal:decreto.lei:1978-12-19;1649",
+"consultado_em": "2026-11-10",
+"codigo": "525919",
+"nome": "Decreto-Lei nº 1.649 de 19/12/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/1978] (p. 20469, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-01-24", "nome": "Decreto-Lei nº 1.660 de 24/01/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}], "id": "federal/decretos-lei/1979/del-1660-1979-01-24"},
+{"data": "1979-05-04", "nome": "Decreto Legislativo nº 9 de 04/05/1979", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

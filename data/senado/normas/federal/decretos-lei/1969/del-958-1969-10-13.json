@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-958-1969-10-13",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-13;958",
+"consultado_em": "2026-11-10",
+"codigo": "524541",
+"nome": "Decreto-Lei nº 958 de 13/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-17", "descricao": "Publicação Original [Diário Oficial da União de 17/10/1969] (p. 8803, col. 4)"}
+],
+"alteracoes": [
+{"data": "1982-09-01", "nome": "Lei nº 7.020 de 01/09/1982", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7020-1982-09-01"}
+],
+"controle": []
+}

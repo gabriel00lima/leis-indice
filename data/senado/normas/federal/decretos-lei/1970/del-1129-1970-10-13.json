@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1970/del-1129-1970-10-13",
+"urn": "urn:lex:br:federal:decreto.lei:1970-10-13;1129",
+"consultado_em": "2026-11-10",
+"codigo": "524880",
+"nome": "Decreto-Lei nº 1.129 de 13/10/1970",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1970-10-14", "descricao": "Publicação Original [Diário Oficial da União de 14/10/1970] (p. 8842, col. 1)"}
+],
+"alteracoes": [
+{"data": "1970-11-23", "nome": "Decreto nº 67.644 de 23/11/1970", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1970-11-28", "nome": "Decreto Legislativo nº 74 de 28/11/1970", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1976-12-30", "nome": "Decreto-Lei nº 1.515 de 30/12/1976", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1976/del-1515-1976-12-30"}
+],
+"controle": []
+}

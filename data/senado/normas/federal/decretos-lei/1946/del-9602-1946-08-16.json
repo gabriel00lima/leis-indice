@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-9602-1946-08-16",
+"urn": "urn:lex:br:federal:decreto.lei:1946-08-16;9602",
+"consultado_em": "2026-11-10",
+"codigo": "534642",
+"nome": "Decreto-Lei nº 9.602 de 16/08/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-08-19", "descricao": "Publicação Original [Diário Oficial da União de 19/08/1946] (p. 11861, col. 2)"}
+],
+"alteracoes": [
+{"data": "1946-09-13", "nome": "Decreto-Lei nº 9.863 de 13/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9863-1946-09-13"},
+{"data": "2021-12-29", "nome": "Lei nº 14.286 de 29/12/2021", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2021/lei-14286-2021-12-29"}
+],
+"controle": []
+}

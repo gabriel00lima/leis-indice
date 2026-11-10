@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1941/del-3185-1941-04-09",
+"urn": "urn:lex:br:federal:decreto.lei:1941-04-09;3185",
+"consultado_em": "2026-11-10",
+"codigo": "528273",
+"nome": "Decreto-Lei nº 3.185 de 09/04/1941",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1941-04-14", "descricao": "Publicação Original [Diário Oficial da União de 14/04/1941] (p. 7307, col. 1)"},
+{"tipo": "REP", "data": "1941-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1941 - vol. 001] (p. 21, col. 1)"}
+],
+"alteracoes": [
+{"data": "1941-09-23", "nome": "Decreto-Lei nº 3.647 de 23/09/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3647-1941-09-23"}
+],
+"controle": []
+}

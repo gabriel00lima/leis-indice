@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9310-1946-05-29",
+"urn": "urn:lex:br:federal:decreto.lei:1946-05-29;9310",
+"consultado_em": "2026-11-10",
+"codigo": "534349",
+"nome": "Decreto-Lei nº 9.310 de 29/05/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-05-30", "descricao": "Publicação Original [Diário Oficial da União de 30/05/1946] (p. 8033, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-08-30", "nome": "Decreto-Lei nº 9.685 de 30/08/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9685-1946-08-30"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1982/del-1994-1982-12-29",
+"urn": "urn:lex:br:federal:decreto.lei:1982-12-29;1994",
+"consultado_em": "2026-11-10",
+"codigo": "526597",
+"nome": "Decreto-Lei nº 1.994 de 29/12/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/1982] (p. 24656, col. 1)"}
+],
+"alteracoes": [
+{"data": "1983-05-18", "nome": "Decreto-Lei nº 2.021 de 18/05/1983", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2021-1983-05-18"}
+],
+"controle": []
+}

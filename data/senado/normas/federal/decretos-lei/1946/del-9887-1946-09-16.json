@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1946/del-9887-1946-09-16",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-16;9887",
+"consultado_em": "2026-11-10",
+"codigo": "534924",
+"nome": "Decreto-Lei nº 9.887 de 16/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-17", "descricao": "Publicação Original [Diário Oficial da União de 17/09/1946] (p. 13004, col. 2)"}
+],
+"alteracoes": [
+{"data": "1950-04-19", "nome": "Lei nº 1.086 de 19/04/1950", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1950/lei-1086-1950-04-19"},
+{"data": "1954-09-11", "nome": "Lei nº 2.321 de 11/09/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2321-1954-09-11"},
+{"data": "1954-11-22", "nome": "Lei nº 2.341 de 22/11/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2341-1954-11-22"}
+],
+"controle": []
+}

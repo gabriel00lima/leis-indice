@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9736-1946-09-04",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-04;9736",
+"consultado_em": "2026-11-10",
+"codigo": "534776",
+"nome": "Decreto-Lei nº 9.736 de 04/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-06", "descricao": "Publicação Original [Diário Oficial da União de 06/09/1946] (p. 12484, col. 4)"}
+],
+"alteracoes": [
+{"data": "1954-09-03", "nome": "Lei nº 2.314 de 03/09/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2314-1954-09-03"}
+],
+"controle": []
+}

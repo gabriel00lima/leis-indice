@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1979/del-1695-1979-09-18",
+"urn": "urn:lex:br:federal:decreto.lei:1979-09-18;1695",
+"consultado_em": "2026-11-10",
+"codigo": "526005",
+"nome": "Decreto-Lei nº 1.695 de 18/09/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-09-18", "descricao": "Publicação Original [Diário Oficial da União de 18/09/1979] (p. 13523, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-11-14", "nome": "Decreto Legislativo nº 71 de 14/11/1979", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1988-02-10", "nome": "Decreto-Lei nº 2.413 de 10/02/1988", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "correlato"}], "id": "federal/decretos-lei/1988/del-2413-1988-02-10"}
+],
+"controle": []
+}

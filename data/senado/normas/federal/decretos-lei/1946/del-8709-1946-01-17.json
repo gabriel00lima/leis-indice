@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8709-1946-01-17",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-17;8709",
+"consultado_em": "2026-11-10",
+"codigo": "533745",
+"nome": "Decreto-Lei nº 8.709 de 17/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-19", "descricao": "Publicação Original [Diário Oficial da União de 19/01/1946] (p. 915, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-02-28", "nome": "Decreto-Lei nº 281 de 28/02/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1967/del-281-1967-02-28"}
+],
+"controle": []
+}

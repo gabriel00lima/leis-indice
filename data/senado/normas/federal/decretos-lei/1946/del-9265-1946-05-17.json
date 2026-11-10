@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-9265-1946-05-17",
+"urn": "urn:lex:br:federal:decreto.lei:1946-05-17;9265",
+"consultado_em": "2026-11-10",
+"codigo": "534303",
+"nome": "Decreto-Lei nº 9.265 de 17/05/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-05-20", "descricao": "Publicação Original [Diário Oficial da União de 20/05/1946] (p. 7423, col. 3)"}
+],
+"alteracoes": [
+{"data": "1946-05-17", "nome": "Decreto nº 21.139 de 17/05/1946", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1953-05-07", "nome": "Decreto nº 32.742 de 07/05/1953", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

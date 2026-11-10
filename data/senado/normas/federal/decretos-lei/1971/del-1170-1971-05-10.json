@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1971/del-1170-1971-05-10",
+"urn": "urn:lex:br:federal:decreto.lei:1971-05-10;1170",
+"consultado_em": "2026-11-10",
+"codigo": "524961",
+"nome": "Decreto-Lei nº 1.170 de 10/05/1971",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1971-05-11", "descricao": "Publicação Original [Diário Oficial da União de 11/05/1971] (p. 3521, col. 1)"}
+],
+"alteracoes": [
+{"data": "1971-06-18", "nome": "Decreto Legislativo nº 42 de 18/06/1971", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1984-12-19", "nome": "Decreto-Lei nº 2.183 de 19/12/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "perda de eficácia de parte do texto"}], "id": "federal/decretos-lei/1984/del-2183-1984-12-19"}
+],
+"controle": []
+}

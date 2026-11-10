@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8724-1946-01-18",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-18;8724",
+"consultado_em": "2026-11-10",
+"codigo": "533760",
+"nome": "Decreto-Lei nº 8.724 de 18/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-21", "descricao": "Publicação Original [Diário Oficial da União de 21/01/1946] (p. 993, col. 2)"}
+],
+"alteracoes": [
+{"data": "1949-10-21", "nome": "Lei nº 884 de 21/10/1949", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1949/lei-884-1949-10-21"}
+],
+"controle": []
+}

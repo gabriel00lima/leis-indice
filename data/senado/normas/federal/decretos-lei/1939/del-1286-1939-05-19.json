@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1939/del-1286-1939-05-19",
+"urn": "urn:lex:br:federal:decreto.lei:1939-05-19;1286",
+"consultado_em": "2026-11-10",
+"codigo": "525191",
+"nome": "Decreto-Lei nº 1.286 de 19/05/1939",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1939-05-23", "descricao": "Publicação Original [Diário Oficial da União de 23/05/1939] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "1943-06-08", "nome": "Decreto-Lei nº 5.558 de 08/06/1943", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1943/del-5558-1943-06-08"}
+],
+"controle": []
+}

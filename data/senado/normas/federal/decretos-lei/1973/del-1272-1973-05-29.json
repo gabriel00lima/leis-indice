@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1973/del-1272-1973-05-29",
+"urn": "urn:lex:br:federal:decreto.lei:1973-05-29;1272",
+"consultado_em": "2026-11-10",
+"codigo": "525164",
+"nome": "Decreto-Lei nº 1.272 de 29/05/1973",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-05-30", "descricao": "Publicação Original [Diário Oficial da União de 30/05/1973] (p. 5193, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-08-23", "nome": "Decreto Legislativo nº 42 de 23/08/1973", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

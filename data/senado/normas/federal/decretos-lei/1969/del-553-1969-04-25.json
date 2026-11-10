@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-553-1969-04-25",
+"urn": "urn:lex:br:federal:decreto.lei:1969-04-25;553",
+"consultado_em": "2026-11-10",
+"codigo": "523739",
+"nome": "Decreto-Lei nº 553 de 25/04/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-04-28", "descricao": "Publicação Original [Diário Oficial da União de 28/04/1969] (p. 3585, col. 1)"}
+],
+"alteracoes": [
+{"data": "1970-03-25", "nome": "Decreto-Lei nº 1.098 de 25/03/1970", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1970/del-1098-1970-03-25"}
+],
+"controle": []
+}

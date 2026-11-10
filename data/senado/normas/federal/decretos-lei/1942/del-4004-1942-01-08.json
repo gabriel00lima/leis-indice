@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1942/del-4004-1942-01-08",
+"urn": "urn:lex:br:federal:decreto.lei:1942-01-08;4004",
+"consultado_em": "2026-11-10",
+"codigo": "529091",
+"nome": "Decreto-Lei nº 4.004 de 08/01/1942",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1942-01-10", "descricao": "Publicação Original [Diário Oficial da União de 10/01/1942] (p. 426, col. 1)"},
+{"tipo": "REP", "data": "1942-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1942 - vol. 001] (p. 22, col. 1)"}
+],
+"alteracoes": [
+{"data": "1942-04-15", "nome": "Decreto-Lei nº 4.256 de 15/04/1942", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4256-1942-04-15"}
+],
+"controle": []
+}

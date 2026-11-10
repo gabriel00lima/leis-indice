@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1977/del-1531-1977-03-30",
+"urn": "urn:lex:br:federal:decreto.lei:1977-03-30;1531",
+"consultado_em": "2026-11-10",
+"codigo": "525683",
+"nome": "Decreto-Lei nº 1.531 de 30/03/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-03-31", "descricao": "Publicação Original [Diário Oficial da União de 31/03/1977] (p. 3715, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-05-27", "nome": "Decreto Legislativo nº 48 de 27/05/1977", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1977-08-01", "nome": "Decreto-Lei nº 1.567 de 01/08/1977", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1977/del-1567-1977-08-01"},
+{"data": "1982-06-29", "nome": "Decreto-Lei nº 1.948 de 29/06/1982", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1948-1982-06-29"}
+],
+"controle": []
+}

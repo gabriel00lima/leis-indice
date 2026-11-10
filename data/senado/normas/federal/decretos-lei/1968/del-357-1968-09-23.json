@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1968/del-357-1968-09-23",
+"urn": "urn:lex:br:federal:decreto.lei:1968-09-23;357",
+"consultado_em": "2026-11-10",
+"codigo": "523350",
+"nome": "Decreto-Lei nº 357 de 23/09/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-09-23", "descricao": "Publicação Original [Diário Oficial da União de 23/09/1968] (p. 8331, col. 1)"}
+],
+"alteracoes": [
+{"data": "1968-11-26", "nome": "Decreto Legislativo nº 51 de 26/11/1968", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

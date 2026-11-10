@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9869-1946-09-13",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-13;9869",
+"consultado_em": "2026-11-10",
+"codigo": "534906",
+"nome": "Decreto-Lei nº 9.869 de 13/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-14", "descricao": "Publicação Original [Diário Oficial da União de 14/09/1946] (p. 12892, col. 3)"}
+],
+"alteracoes": [
+{"data": "1948-08-06", "nome": "Lei nº 319 de 06/08/1948", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1948/lei-319-1948-08-06"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1967/del-226-1967-02-28",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-28;226",
+"consultado_em": "2026-11-10",
+"codigo": "523092",
+"nome": "Decreto-Lei nº 226 de 28/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-28", "descricao": "Publicação Original [Diário Oficial da União de 28/02/1967] (p. 2417, col. 3)"}
+],
+"alteracoes": [
+{"data": "1975-01-08", "nome": "Decreto nº 75.198 de 08/01/1975", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

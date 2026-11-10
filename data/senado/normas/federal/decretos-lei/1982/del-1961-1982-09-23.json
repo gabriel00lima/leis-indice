@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1982/del-1961-1982-09-23",
+"urn": "urn:lex:br:federal:decreto.lei:1982-09-23;1961",
+"consultado_em": "2026-11-10",
+"codigo": "526531",
+"nome": "Decreto-Lei nº 1.961 de 23/09/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-09-24", "descricao": "Publicação Original [Diário Oficial da União de 24/09/1982] (p. 18001, col. 2)"},
+{"tipo": "RET", "data": "1983-01-13", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 13/01/1983] (p. 763, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-11-01", "nome": "Decreto nº 87.772 de 01/11/1982", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1983-04-19", "nome": "Decreto Legislativo nº 13 de 19/04/1983", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

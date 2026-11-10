@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8951-1946-01-28",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-28;8951",
+"consultado_em": "2026-11-10",
+"codigo": "533989",
+"nome": "Decreto-Lei nº 8.951 de 28/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-02-04", "descricao": "Publicação Original [Diário Oficial da União de 04/02/1946] (p. 1745, col. 2)"}
+],
+"alteracoes": [
+{"data": "1957-06-24", "nome": "Lei nº 3.186 de 24/06/1957", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1957/lei-3186-1957-06-24"}
+],
+"controle": []
+}

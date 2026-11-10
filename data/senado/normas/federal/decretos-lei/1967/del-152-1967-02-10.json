@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1967/del-152-1967-02-10",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-10;152",
+"consultado_em": "2026-11-10",
+"codigo": "522946",
+"nome": "Decreto-Lei nº 152 de 10/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-13", "descricao": "Publicação Original [Diário Oficial da União de 13/02/1967] (p. 1721, col. 2)"}
+],
+"alteracoes": [
+{"data": "1967-08-22", "nome": "Decreto nº 61.203 de 22/08/1967", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1969-01-15", "nome": "Decreto nº 63.991 de 15/01/1969", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1977-06-17", "nome": "Lei nº 6.424 de 17/06/1977", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}], "id": "federal/leis-ordinarias/1977/lei-6424-1977-06-17"}
+],
+"controle": []
+}

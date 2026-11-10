@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1977/del-1520-1977-01-17",
+"urn": "urn:lex:br:federal:decreto.lei:1977-01-17;1520",
+"consultado_em": "2026-11-10",
+"codigo": "525661",
+"nome": "Decreto-Lei nº 1.520 de 17/01/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-01-18", "descricao": "Publicação Original [Diário Oficial da União de 18/01/1977] (p. 609, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-05-02", "nome": "Lei nº 6.413 de 02/05/1977", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1977/lei-6413-1977-05-02"},
+{"data": "1979-01-09", "nome": "Decreto-Lei nº 1.655 de 09/01/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1655-1979-01-09"},
+{"data": "1979-05-10", "nome": "Decreto Legislativo nº 14 de 10/05/1979", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

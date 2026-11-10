@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9124-1946-04-04",
+"urn": "urn:lex:br:federal:decreto.lei:1946-04-04;9124",
+"consultado_em": "2026-11-10",
+"codigo": "534162",
+"nome": "Decreto-Lei nº 9.124 de 04/04/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-04-04", "descricao": "Publicação Original [Diário Oficial da União de 04/04/1946] (p. 4962, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-07-05", "nome": "Decreto-Lei nº 9.428 de 05/07/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9428-1946-07-05"}
+],
+"controle": []
+}

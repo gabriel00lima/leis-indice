@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1968/del-389-1968-12-26",
+"urn": "urn:lex:br:federal:decreto.lei:1968-12-26;389",
+"consultado_em": "2026-11-10",
+"codigo": "523414",
+"nome": "Decreto-Lei nº 389 de 26/12/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-12-27", "descricao": "Publicação Original [Diário Oficial da União de 27/12/1968] (p. 11202, col. 4)"}
+],
+"alteracoes": [
+{"data": "1972-09-27", "nome": "Resolução do Senado Federal nº 45 de 27/09/1972", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "suspensão"}]},
+{"data": "1977-12-22", "nome": "Lei nº 6.514 de 22/12/1977", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1977/lei-6514-1977-12-22"}
+],
+"controle": []
+}

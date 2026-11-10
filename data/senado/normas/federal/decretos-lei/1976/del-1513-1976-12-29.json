@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1976/del-1513-1976-12-29",
+"urn": "urn:lex:br:federal:decreto.lei:1976-12-29;1513",
+"consultado_em": "2026-11-10",
+"codigo": "525647",
+"nome": "Decreto-Lei nº 1.513 de 29/12/1976",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1976-12-29", "descricao": "Publicação Original [Diário Oficial da União de 29/12/1976] (p. 16899, col. 4)"}
+],
+"alteracoes": [
+{"data": "1977-04-29", "nome": "Decreto Legislativo nº 25 de 29/04/1977", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1978-08-31", "nome": "Decreto-Lei nº 1.634 de 31/08/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1978/del-1634-1978-08-31"}
+],
+"controle": []
+}

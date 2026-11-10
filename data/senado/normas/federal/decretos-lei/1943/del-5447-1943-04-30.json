@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1943/del-5447-1943-04-30",
+"urn": "urn:lex:br:federal:decreto.lei:1943-04-30;5447",
+"consultado_em": "2026-11-10",
+"codigo": "530542",
+"nome": "Decreto-Lei nº 5.447 de 30/04/1943",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1943-05-04", "descricao": "Publicação Original [Diário Oficial da União de 04/05/1943] (p. 6756, col. 1)"},
+{"tipo": "REP", "data": "1943-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1943 - vol. 003] (p. 128, col. 1)"}
+],
+"alteracoes": [
+{"data": "1945-10-06", "nome": "Decreto-Lei nº 8.045 de 06/10/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-8045-1945-10-06"}
+],
+"controle": []
+}

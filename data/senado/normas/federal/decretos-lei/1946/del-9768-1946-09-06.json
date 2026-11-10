@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9768-1946-09-06",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-06;9768",
+"consultado_em": "2026-11-10",
+"codigo": "534808",
+"nome": "Decreto-Lei nº 9.768 de 06/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-11", "descricao": "Publicação Original [Diário Oficial da União de 11/09/1946] (p. 12635, col. 1)"}
+],
+"alteracoes": [
+{"data": "1949-10-20", "nome": "Lei nº 876 de 20/10/1949", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1949/lei-876-1949-10-20"}
+],
+"controle": []
+}

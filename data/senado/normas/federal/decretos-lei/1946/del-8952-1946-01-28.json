@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8952-1946-01-28",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-28;8952",
+"consultado_em": "2026-11-10",
+"codigo": "533990",
+"nome": "Decreto-Lei nº 8.952 de 28/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-30", "descricao": "Publicação Original [Diário Oficial da União de 30/01/1946] (p. 1512, col. 2)"}
+],
+"alteracoes": [
+{"data": "1946-02-02", "nome": "Decreto-Lei nº 8.965 de 02/02/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-8965-1946-02-02"}
+],
+"controle": []
+}

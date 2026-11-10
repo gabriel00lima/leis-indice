@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1946/del-9853-1946-09-13",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-13;9853",
+"consultado_em": "2026-11-10",
+"codigo": "534890",
+"nome": "Decreto-Lei nº 9.853 de 13/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-16", "descricao": "Publicação Original [Diário Oficial da União de 16/09/1946] (p. 2947, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-03-09", "nome": "Decreto nº 60.344 de 09/03/1967", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1967-12-05", "nome": "Decreto nº 61.836 de 05/12/1967", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2019-11-11", "nome": "Medida Provisória nº 905 de 11/11/2019", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "ressalvou"}]},
+{"data": "2022-09-21", "nome": "Lei nº 14.457 de 21/09/2022", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14457-2022-09-21"},
+{"data": "2023-05-30", "nome": "Lei nº 14.592 de 30/05/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 3", "art": "3", "acao": "vetado"}], "id": "federal/leis-ordinarias/2023/lei-14592-2023-05-30"}
+],
+"controle": []
+}

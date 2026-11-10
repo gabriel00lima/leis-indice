@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-547-1969-04-18",
+"urn": "urn:lex:br:federal:decreto.lei:1969-04-18;547",
+"consultado_em": "2026-11-10",
+"codigo": "523728",
+"nome": "Decreto-Lei nº 547 de 18/04/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-04-22", "descricao": "Publicação Original [Diário Oficial da União de 22/04/1969] (p. 3377, col. 3)"}
+],
+"alteracoes": [
+{"data": "1978-06-30", "nome": "Lei nº 6.545 de 30/06/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1978/lei-6545-1978-06-30"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1973/del-1283-1973-08-20",
+"urn": "urn:lex:br:federal:decreto.lei:1973-08-20;1283",
+"consultado_em": "2026-11-10",
+"codigo": "525186",
+"nome": "Decreto-Lei nº 1.283 de 20/08/1973",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-08-21", "descricao": "Publicação Original [Diário Oficial da União de 21/08/1973] (p. 8258, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-09-21", "nome": "Decreto Legislativo nº 60 de 21/09/1973", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1974-07-23", "nome": "Decreto-Lei nº 1.338 de 23/07/1974", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1974/del-1338-1974-07-23"}
+],
+"controle": []
+}

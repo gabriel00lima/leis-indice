@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9053-1946-03-12",
+"urn": "urn:lex:br:federal:decreto.lei:1946-03-12;9053",
+"consultado_em": "2026-11-10",
+"codigo": "534091",
+"nome": "Decreto-Lei nº 9.053 de 12/03/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-03-14", "descricao": "Publicação Original [Diário Oficial da União de 14/03/1946] (p. 3693, col. 2)"}
+],
+"alteracoes": [
+{"data": "1947-12-17", "nome": "Lei nº 186 de 17/12/1947", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1947/lei-186-1947-12-17"}
+],
+"controle": []
+}

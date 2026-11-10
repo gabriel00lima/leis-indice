@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-607-1969-06-03",
+"urn": "urn:lex:br:federal:decreto.lei:1969-06-03;607",
+"consultado_em": "2026-11-10",
+"codigo": "523846",
+"nome": "Decreto-Lei nº 607 de 03/06/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-06-04", "descricao": "Publicação Original [Diário Oficial da União de 04/06/1969] (p. 4745, col. 1)"}
+],
+"alteracoes": [
+{"data": "1972-07-06", "nome": "Lei nº 5.791 de 06/07/1972", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5791-1972-07-06"}
+],
+"controle": []
+}

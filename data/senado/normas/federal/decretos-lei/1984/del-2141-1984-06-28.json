@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1984/del-2141-1984-06-28",
+"urn": "urn:lex:br:federal:decreto.lei:1984-06-28;2141",
+"consultado_em": "2026-11-10",
+"codigo": "526895",
+"nome": "Decreto-Lei nº 2.141 de 28/06/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-06-29", "descricao": "Publicação Original [Diário Oficial da União de 29/06/1984] (p. 9355, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-01-07", "nome": "Decreto-Lei nº 2.222 de 07/01/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1985/del-2222-1985-01-07"}
+],
+"controle": []
+}

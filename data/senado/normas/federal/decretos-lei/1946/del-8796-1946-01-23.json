@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8796-1946-01-23",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-23;8796",
+"consultado_em": "2026-11-10",
+"codigo": "533832",
+"nome": "Decreto-Lei nº 8.796 de 23/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-24", "descricao": "Publicação Original [Diário Oficial da União de 24/01/1946] (p. 1210, col. 4)"}
+],
+"alteracoes": [
+{"data": "1948-07-18", "nome": "Lei nº 304 de 18/07/1948", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1948/lei-304-1948-07-18"}
+],
+"controle": []
+}

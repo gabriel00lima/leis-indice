@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1942/del-4825-1942-10-12",
+"urn": "urn:lex:br:federal:decreto.lei:1942-10-12;4825",
+"consultado_em": "2026-11-10",
+"codigo": "529917",
+"nome": "Decreto-Lei nº 4.825 de 12/10/1942",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1942-10-14", "descricao": "Publicação Original [Diário Oficial da União de 14/10/1942] (p. 15319, col. 1)"},
+{"tipo": "REP", "data": "1942-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1942 - vol. 007] (p. 67, col. 1)"}
+],
+"alteracoes": [
+{"data": "1945-02-26", "nome": "Decreto-Lei nº 7.342 de 26/02/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-7342-1945-02-26"}
+],
+"controle": []
+}

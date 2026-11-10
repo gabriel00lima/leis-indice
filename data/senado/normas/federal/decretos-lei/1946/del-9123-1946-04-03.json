@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1946/del-9123-1946-04-03",
+"urn": "urn:lex:br:federal:decreto.lei:1946-04-03;9123",
+"consultado_em": "2026-11-10",
+"codigo": "534161",
+"nome": "Decreto-Lei nº 9.123 de 03/04/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-04-13", "descricao": "Publicação Original [Diário Oficial da União de 13/04/1946] (p. 5393, col. 2)"}
+],
+"alteracoes": [
+{"data": "1942-03-11", "nome": "Decreto-Lei nº 4.166 de 11/03/1942", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4166-1942-03-11"},
+{"data": "1949-03-09", "nome": "Decreto nº 26.432 de 09/03/1949", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1952-03-11", "nome": "Lei nº 1.571 de 11/03/1952", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1952/lei-1571-1952-03-11"}
+],
+"controle": []
+}

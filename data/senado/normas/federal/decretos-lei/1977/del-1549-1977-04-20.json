@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1977/del-1549-1977-04-20",
+"urn": "urn:lex:br:federal:decreto.lei:1977-04-20;1549",
+"consultado_em": "2026-11-10",
+"codigo": "525719",
+"nome": "Decreto-Lei nº 1.549 de 20/04/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-04-22", "descricao": "Publicação Original [Diário Oficial da União de 22/04/1977] (p. 4595, col. 4)"}
+],
+"alteracoes": [
+{"data": "1977-06-22", "nome": "Decreto Legislativo nº 65 de 22/06/1977", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1978-05-02", "nome": "Lei nº 6.527 de 02/05/1978", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1978/lei-6527-1978-05-02"}
+],
+"controle": []
+}

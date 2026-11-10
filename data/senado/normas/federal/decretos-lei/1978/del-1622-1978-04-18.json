@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1978/del-1622-1978-04-18",
+"urn": "urn:lex:br:federal:decreto.lei:1978-04-18;1622",
+"consultado_em": "2026-11-10",
+"codigo": "525865",
+"nome": "Decreto-Lei nº 1.622 de 18/04/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-04-19", "descricao": "Publicação Original [Diário Oficial da União de 19/04/1978] (p. 5503, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-06-06", "nome": "Decreto Legislativo nº 45 de 06/06/1978", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1988-05-19", "nome": "Decreto-Lei nº 2.433 de 19/05/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/decretos-lei/1988/del-2433-1988-05-19"},
+{"data": "1997-11-14", "nome": "Medida Provisória nº 1.602 de 14/11/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-12-10", "nome": "Lei nº 9.532 de 10/12/1997", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9532-1997-12-10"}
+],
+"controle": []
+}

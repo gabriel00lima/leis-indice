@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1968/del-349-1968-01-24",
+"urn": "urn:lex:br:federal:decreto.lei:1968-01-24;349",
+"consultado_em": "2026-11-10",
+"codigo": "523335",
+"nome": "Decreto-Lei nº 349 de 24/01/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-01-25", "descricao": "Publicação Original [Diário Oficial da União de 25/01/1968] (p. 825, col. 1)"}
+],
+"alteracoes": [
+{"data": "1968-03-22", "nome": "Decreto Legislativo nº 16 de 22/03/1968", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1969-10-21", "nome": "Decreto-Lei nº 1.013 de 21/10/1969", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1969/del-1013-1969-10-21"}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1988/del-2446-1988-06-30",
+"urn": "urn:lex:br:federal:decreto.lei:1988-06-30;2446",
+"consultado_em": "2026-11-10",
+"codigo": "527505",
+"nome": "Decreto-Lei nº 2.446 de 30/06/1988",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1988-07-01", "descricao": "Publicação Original [Diário Oficial da União de 01/07/1988] (p. 12100, col. 2)"},
+{"tipo": "RET", "data": "1988-07-05", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 05/07/1988] (p. 12321, col. 1)"}
+],
+"alteracoes": [
+{"data": "1988-08-25", "nome": "Decreto-Lei nº 2.457 de 25/08/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "prorrogação de prazo"}], "id": "federal/decretos-lei/1988/del-2457-1988-08-25"},
+{"data": "1989-06-14", "nome": "Ato Declaratório de 14/06/1989", "tipo": "Rejeição", "dispositivos": []}
+],
+"controle": []
+}

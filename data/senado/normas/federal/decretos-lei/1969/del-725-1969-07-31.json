@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-725-1969-07-31",
+"urn": "urn:lex:br:federal:decreto.lei:1969-07-31;725",
+"consultado_em": "2026-11-10",
+"codigo": "524077",
+"nome": "Decreto-Lei nº 725 de 31/07/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-08-01", "descricao": "Publicação Original [Diário Oficial da União de 01/08/1969] (p. 6585, col. 4)"}
+],
+"alteracoes": [
+{"data": "1969-08-28", "nome": "Decreto-Lei nº 803 de 28/08/1969", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1969/del-803-1969-08-28"}
+],
+"controle": []
+}

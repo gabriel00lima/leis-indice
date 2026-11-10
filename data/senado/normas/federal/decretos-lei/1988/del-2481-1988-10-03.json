@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1988/del-2481-1988-10-03",
+"urn": "urn:lex:br:federal:decreto.lei:1988-10-03;2481",
+"consultado_em": "2026-11-10",
+"codigo": "527575",
+"nome": "Decreto-Lei nº 2.481 de 03/10/1988",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1988-10-04", "descricao": "Publicação Original [Diário Oficial da União de 04/10/1988] (p. 19291, col. 2)"}
+],
+"alteracoes": [
+{"data": "1988-10-18", "nome": "Decreto nº 96.998 de 18/10/1988", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,26 @@
+{
+"id": "federal/decretos-lei/1967/del-299-1967-02-28",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-28;299",
+"consultado_em": "2026-11-10",
+"codigo": "523236",
+"nome": "Decreto-Lei nº 299 de 28/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-28", "descricao": "Publicação Original [Diário Oficial da União de 28/02/1967] (p. 2473, col. 3)"}
+],
+"alteracoes": [
+{"data": "1967-05-11", "nome": "Decreto nº 60.712 de 11/05/1967", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1967-09-15", "nome": "Decreto nº 61.358 de 15/09/1967", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1967-11-03", "nome": "Decreto nº 61.620 de 03/11/1967", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1967-12-04", "nome": "Decreto nº 61.821 de 04/12/1967", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1968-11-06", "nome": "Decreto nº 63.555 de 06/11/1968", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1969-06-13", "nome": "Decreto nº 64.698 de 13/06/1969", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1969-09-19", "nome": "Decreto nº 65.196 de 19/09/1969", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1969-10-21", "nome": "Decreto nº 65.579 de 21/10/1969", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1971-07-06", "nome": "Decreto nº 68.883 de 06/07/1971", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1975-02-26", "nome": "Decreto nº 75.418 de 26/02/1975", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1975-06-02", "nome": "Decreto nº 75.810 de 02/06/1975", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1975-07-30", "nome": "Decreto nº 76.050 de 30/07/1975", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

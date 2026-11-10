@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1984/del-2177-1984-12-03",
+"urn": "urn:lex:br:federal:decreto.lei:1984-12-03;2177",
+"consultado_em": "2026-11-10",
+"codigo": "526967",
+"nome": "Decreto-Lei nº 2.177 de 03/12/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-12-04", "descricao": "Publicação Original [Diário Oficial da União de 04/12/1984] (p. 17933, col. 2)"}
+],
+"alteracoes": [
+{"data": "1985-01-03", "nome": "Decreto-Lei nº 2.219 de 03/01/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1985/del-2219-1985-01-03"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1979/del-1701-1979-10-18",
+"urn": "urn:lex:br:federal:decreto.lei:1979-10-18;1701",
+"consultado_em": "2026-11-10",
+"codigo": "526012",
+"nome": "Decreto-Lei nº 1.701 de 18/10/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-10-19", "descricao": "Publicação Original [Diário Oficial da União de 19/10/1979] (p. 15401, col. 1)"}
+],
+"alteracoes": [
+{"data": "1980-04-08", "nome": "Decreto Legislativo nº 5 de 08/04/1980", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

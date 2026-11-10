@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9520-1946-07-25",
+"urn": "urn:lex:br:federal:decreto.lei:1946-07-25;9520",
+"consultado_em": "2026-11-10",
+"codigo": "534560",
+"nome": "Decreto-Lei nº 9.520 de 25/07/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-07-27", "descricao": "Publicação Original [Diário Oficial da União de 27/07/1946] (p. 10929, col. 4)"}
+],
+"alteracoes": [
+{"data": "1948-12-24", "nome": "Lei nº 600-A de 24/12/1948", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1948/lei-600-a-1948-12-24"}
+],
+"controle": []
+}

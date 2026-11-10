@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1983/del-2024-1983-05-25",
+"urn": "urn:lex:br:federal:decreto.lei:1983-05-25;2024",
+"consultado_em": "2026-11-10",
+"codigo": "526657",
+"nome": "Decreto-Lei nº 2.024 de 25/05/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-05-26", "descricao": "Publicação Original [Diário Oficial da União de 26/05/1983] (p. 8948, col. 2)"}
+],
+"alteracoes": [
+{"data": "1983-06-07", "nome": "Decreto nº 88.371 de 07/06/1983", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1983-09-26", "nome": "Decreto Legislativo nº 69 de 26/09/1983", "tipo": "Rejeição", "dispositivos": []}
+],
+"controle": []
+}

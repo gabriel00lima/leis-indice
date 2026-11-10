@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1942/del-4345-1942-05-26",
+"urn": "urn:lex:br:federal:decreto.lei:1942-05-26;4345",
+"consultado_em": "2026-11-10",
+"codigo": "529431",
+"nome": "Decreto-Lei nº 4.345 de 26/05/1942",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1942-05-28", "descricao": "Publicação Original [Diário Oficial da União de 28/05/1942] (p. 8697, col. 2)"}
+],
+"alteracoes": [
+{"data": "1973-08-22", "nome": "Decreto nº 72.680 de 22/08/1973", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

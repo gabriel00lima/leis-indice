@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1969/del-1034-1969-10-21",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-21;1034",
+"consultado_em": "2026-11-10",
+"codigo": "524691",
+"nome": "Decreto-Lei nº 1.034 de 21/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-21", "descricao": "Publicação Original [Diário Oficial da União de 21/10/1969] (p. 8952, col. 2)"}
+],
+"alteracoes": [
+{"data": "1970-04-06", "nome": "Decreto-Lei nº 1.103 de 06/04/1970", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1970/del-1103-1970-04-06"},
+{"data": "1970-11-12", "nome": "Decreto nº 67.562 de 12/11/1970", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1983-06-20", "nome": "Lei nº 7.102 de 20/06/1983", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1983/lei-7102-1983-06-20"}
+],
+"controle": []
+}

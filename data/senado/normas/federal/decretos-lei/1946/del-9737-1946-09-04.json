@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-9737-1946-09-04",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-04;9737",
+"consultado_em": "2026-11-10",
+"codigo": "534777",
+"nome": "Decreto-Lei nº 9.737 de 04/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-06", "descricao": "Publicação Original [Diário Oficial da União de 06/09/1946] (p. 12484, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-09-04", "nome": "Decreto nº 21.814 de 04/09/1946", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1949-12-02", "nome": "Lei nº 943 de 02/12/1949", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1949/lei-943-1949-12-02"}
+],
+"controle": []
+}

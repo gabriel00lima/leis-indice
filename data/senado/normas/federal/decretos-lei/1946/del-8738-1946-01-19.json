@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8738-1946-01-19",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-19;8738",
+"consultado_em": "2026-11-10",
+"codigo": "533774",
+"nome": "Decreto-Lei nº 8.738 de 19/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-21", "descricao": "Publicação Original [Diário Oficial da União de 21/01/1946] (p. 1000, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-07-08", "nome": "Decreto-Lei nº 9.438 de 08/07/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9438-1946-07-08"}
+],
+"controle": []
+}

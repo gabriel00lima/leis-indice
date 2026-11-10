@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1978/del-1617-1978-03-03",
+"urn": "urn:lex:br:federal:decreto.lei:1978-03-03;1617",
+"consultado_em": "2026-11-10",
+"codigo": "525855",
+"nome": "Decreto-Lei nº 1.617 de 03/03/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-03-06", "descricao": "Publicação Original [Diário Oficial da União de 06/03/1978] (p. 3189, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-05-04", "nome": "Decreto Legislativo nº 37 de 04/05/1978", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1993-07-06", "nome": "Lei nº 8.672 de 06/07/1993", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1993/lei-8672-1993-07-06"}
+],
+"controle": []
+}

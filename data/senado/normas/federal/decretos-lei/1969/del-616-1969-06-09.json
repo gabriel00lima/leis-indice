@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1969/del-616-1969-06-09",
+"urn": "urn:lex:br:federal:decreto.lei:1969-06-09;616",
+"consultado_em": "2026-11-10",
+"codigo": "523864",
+"nome": "Decreto-Lei nº 616 de 09/06/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-06-10", "descricao": "Publicação Original [Diário Oficial da União de 10/06/1969] (p. 4881, col. 2)"}
+],
+"alteracoes": [
+{"data": "1969-10-10", "nome": "Decreto nº 65.322 de 10/10/1969", "tipo": "Aprovação de Estatuto", "dispositivos": []},
+{"data": "1978-10-02", "nome": "Decreto nº 82.351 de 02/10/1978", "tipo": "Aprovação de Estatuto", "dispositivos": []},
+{"data": "1986-11-21", "nome": "Decreto nº 93.613 de 21/11/1986", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": []}
+],
+"controle": []
+}

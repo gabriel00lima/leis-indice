@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1981/del-1881-1981-08-27",
+"urn": "urn:lex:br:federal:decreto.lei:1981-08-27;1881",
+"consultado_em": "2026-11-10",
+"codigo": "526371",
+"nome": "Decreto-Lei nº 1.881 de 27/08/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-08-28", "descricao": "Publicação Original [Diário Oficial da União de 28/08/1981] (p. 16237, col. 2)"}
+],
+"alteracoes": [
+{"data": "1982-04-14", "nome": "Decreto Legislativo nº 19 de 14/04/1982", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

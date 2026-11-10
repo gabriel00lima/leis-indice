@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-761-1969-08-14",
+"urn": "urn:lex:br:federal:decreto.lei:1969-08-14;761",
+"consultado_em": "2026-11-10",
+"codigo": "524148",
+"nome": "Decreto-Lei nº 761 de 14/08/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-08-15", "descricao": "Publicação Original [Diário Oficial da União de 15/08/1969] (p. 6945, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-06-08", "nome": "Lei nº 5.889 de 08/06/1973", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-5889-1973-06-08"}
+],
+"controle": []
+}

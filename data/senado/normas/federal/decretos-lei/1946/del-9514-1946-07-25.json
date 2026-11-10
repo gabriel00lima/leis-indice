@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9514-1946-07-25",
+"urn": "urn:lex:br:federal:decreto.lei:1946-07-25;9514",
+"consultado_em": "2026-11-10",
+"codigo": "534554",
+"nome": "Decreto-Lei nº 9.514 de 25/07/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-07-27", "descricao": "Publicação Original [Diário Oficial da União de 27/07/1946] (p. 10929, col. 1)"}
+],
+"alteracoes": [
+{"data": "1950-10-26", "nome": "Lei nº 1.212 de 26/10/1950", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1950/lei-1212-1950-10-26"}
+],
+"controle": []
+}

@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1946/del-9686-1946-08-30",
+"urn": "urn:lex:br:federal:decreto.lei:1946-08-30;9686",
+"consultado_em": "2026-11-10",
+"codigo": "534726",
+"nome": "Decreto-Lei nº 9.686 de 30/08/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-08-31", "descricao": "Publicação Original [Diário Oficial da União de 31/08/1946] (p. 12302, col. 2)"}
+],
+"alteracoes": [
+{"data": "1946-09-06", "nome": "Decreto-Lei nº 9.762 de 06/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9762-1946-09-06"},
+{"data": "1946-12-19", "nome": "Lei nº 7 de 19/12/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1946/lei-7-1946-12-19"},
+{"data": "1946-12-19", "nome": "Lei nº 8 de 19/12/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1946/lei-8-1946-12-19"},
+{"data": "1948-01-02", "nome": "Lei nº 209 de 02/01/1948", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1948/lei-209-1948-01-02"}
+],
+"controle": []
+}

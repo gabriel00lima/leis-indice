@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8895-1946-01-24",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-24;8895",
+"consultado_em": "2026-11-10",
+"codigo": "533931",
+"nome": "Decreto-Lei nº 8.895 de 24/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-30", "descricao": "Publicação Original [Diário Oficial da União de 30/01/1946] (p. 1510, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-09-11", "nome": "Decreto-Lei nº 9.839 de 11/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9839-1946-09-11"}
+],
+"controle": []
+}

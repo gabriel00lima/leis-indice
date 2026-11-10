@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1977/del-1577-1977-10-10",
+"urn": "urn:lex:br:federal:decreto.lei:1977-10-10;1577",
+"consultado_em": "2026-11-10",
+"codigo": "525775",
+"nome": "Decreto-Lei nº 1.577 de 10/10/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-10-11", "descricao": "Publicação Original [Diário Oficial da União de 11/10/1977] (p. 13641, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-11-30", "nome": "Decreto Legislativo nº 112 de 30/11/1977", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1979-01-10", "nome": "Decreto-Lei nº 1.656 de 10/01/1979", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "prorrogação de prazo"}], "id": "federal/decretos-lei/1979/del-1656-1979-01-10"},
+{"data": "1979-05-11", "nome": "Decreto Legislativo nº 16 de 11/05/1979", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

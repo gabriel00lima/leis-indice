@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1939/del-1766-1939-11-10",
+"urn": "urn:lex:br:federal:decreto.lei:1939-11-10;1766",
+"consultado_em": "2026-11-10",
+"codigo": "526141",
+"nome": "Decreto-Lei nº 1.766 de 10/11/1939",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1939-11-13", "descricao": "Publicação Original [Diário Oficial da União de 13/11/1939] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "1956-06-18", "nome": "Lei nº 2.801 de 18/06/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2801-1956-06-18"}
+],
+"controle": []
+}

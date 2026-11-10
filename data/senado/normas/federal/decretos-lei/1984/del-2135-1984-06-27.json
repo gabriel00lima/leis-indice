@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1984/del-2135-1984-06-27",
+"urn": "urn:lex:br:federal:decreto.lei:1984-06-27;2135",
+"consultado_em": "2026-11-10",
+"codigo": "526883",
+"nome": "Decreto-Lei nº 2.135 de 27/06/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-06-28", "descricao": "Publicação Original [Diário Oficial da União de 28/06/1984] (p. 9241, col. 2)"}
+],
+"alteracoes": [
+{"data": "1984-12-28", "nome": "Decreto-Lei nº 2.209 de 28/12/1984", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2209-1984-12-28"}
+],
+"controle": []
+}

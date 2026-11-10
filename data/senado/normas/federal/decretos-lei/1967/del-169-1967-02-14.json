@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1967/del-169-1967-02-14",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-14;169",
+"consultado_em": "2026-11-10",
+"codigo": "522979",
+"nome": "Decreto-Lei nº 169 de 14/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-15", "descricao": "Publicação Original [Diário Oficial da União de 15/02/1967] (p. 1846, col. 3)"}
+],
+"alteracoes": [
+{"data": "1969-01-17", "nome": "Decreto nº 64.002 de 17/01/1969", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-1063-1969-10-21",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-21;1063",
+"consultado_em": "2026-11-10",
+"codigo": "524749",
+"nome": "Decreto-Lei nº 1.063 de 21/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-21", "descricao": "Publicação Original [Diário Oficial da União de 21/10/1969] (p. 8959, col. 2)"}
+],
+"alteracoes": [
+{"data": "1969-11-04", "nome": "Decreto-Lei nº 1.069 de 04/11/1969", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 18", "art": "18", "acao": "revogou"}], "id": "federal/decretos-lei/1969/del-1069-1969-11-04"}
+],
+"controle": []
+}

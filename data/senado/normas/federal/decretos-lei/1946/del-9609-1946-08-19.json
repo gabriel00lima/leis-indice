@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9609-1946-08-19",
+"urn": "urn:lex:br:federal:decreto.lei:1946-08-19;9609",
+"consultado_em": "2026-11-10",
+"codigo": "534649",
+"nome": "Decreto-Lei nº 9.609 de 19/08/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-08-21", "descricao": "Publicação Original [Diário Oficial da União de 21/08/1946] (p. 11939, col. 2)"}
+],
+"alteracoes": [
+{"data": "1949-09-26", "nome": "Lei nº 837 de 26/09/1949", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1949/lei-837-1949-09-26"}
+],
+"controle": []
+}

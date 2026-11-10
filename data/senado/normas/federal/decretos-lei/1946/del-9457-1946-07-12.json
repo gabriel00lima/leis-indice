@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9457-1946-07-12",
+"urn": "urn:lex:br:federal:decreto.lei:1946-07-12;9457",
+"consultado_em": "2026-11-10",
+"codigo": "534496",
+"nome": "Decreto-Lei nº 9.457 de 12/07/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-07-13", "descricao": "Publicação Original [Diário Oficial da União de 13/07/1946] (p. 10259, col. 4)"}
+],
+"alteracoes": [
+{"data": "1946-07-18", "nome": "Decreto-Lei nº 9.479 de 18/07/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9479-1946-07-18"}
+],
+"controle": []
+}

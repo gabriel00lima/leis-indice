@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9083-1946-03-22",
+"urn": "urn:lex:br:federal:decreto.lei:1946-03-22;9083",
+"consultado_em": "2026-11-10",
+"codigo": "534121",
+"nome": "Decreto-Lei nº 9.083 de 22/03/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-03-25", "descricao": "Publicação Original [Diário Oficial da União de 25/03/1946] (p. 4317, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-04-15", "nome": "Decreto-Lei nº 9.182 de 15/04/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9182-1946-04-15"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1984/del-2104-1984-01-04",
+"urn": "urn:lex:br:federal:decreto.lei:1984-01-04;2104",
+"consultado_em": "2026-11-10",
+"codigo": "526817",
+"nome": "Decreto-Lei nº 2.104 de 04/01/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-01-05", "descricao": "Publicação Original [Diário Oficial da União de 05/01/1984] (p. 193, col. 2)"}
+],
+"alteracoes": [
+{"data": "1984-07-02", "nome": "Decreto-Lei nº 2.146 de 02/07/1984", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2146-1984-07-02"}
+],
+"controle": []
+}

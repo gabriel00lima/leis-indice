@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9107-1946-04-01",
+"urn": "urn:lex:br:federal:decreto.lei:1946-04-01;9107",
+"consultado_em": "2026-11-10",
+"codigo": "534145",
+"nome": "Decreto-Lei nº 9.107 de 01/04/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-04-03", "descricao": "Publicação Original [Diário Oficial da União de 03/04/1946] (p. 4893, col. 1)"}
+],
+"alteracoes": [
+{"data": "1955-08-03", "nome": "Lei nº 2.552 de 03/08/1955", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1955/lei-2552-1955-08-03"}
+],
+"controle": []
+}

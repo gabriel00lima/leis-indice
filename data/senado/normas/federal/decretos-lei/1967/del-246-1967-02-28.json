@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1967/del-246-1967-02-28",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-28;246",
+"consultado_em": "2026-11-10",
+"codigo": "523132",
+"nome": "Decreto-Lei nº 246 de 28/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-28", "descricao": "Publicação Original [Diário Oficial da União de 28/02/1967] (p. 2441, col. 4)"}
+],
+"alteracoes": [
+{"data": "1980-07-08", "nome": "Lei nº 6.811 de 08/07/1980", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1980/lei-6811-1980-07-08"}
+],
+"controle": []
+}

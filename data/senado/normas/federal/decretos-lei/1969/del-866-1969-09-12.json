@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-866-1969-09-12",
+"urn": "urn:lex:br:federal:decreto.lei:1969-09-12;866",
+"consultado_em": "2026-11-10",
+"codigo": "524357",
+"nome": "Decreto-Lei nº 866 de 12/09/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-09-12", "descricao": "Publicação Original [Diário Oficial da União de 12/09/1969] (p. 7732, col. 2)"}
+],
+"alteracoes": [
+{"data": "1984-12-19", "nome": "Decreto-Lei nº 2.183 de 19/12/1984", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "perda de eficácia de parte do texto"}], "id": "federal/decretos-lei/1984/del-2183-1984-12-19"}
+],
+"controle": []
+}

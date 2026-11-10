@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1939/del-1908-1939-12-26",
+"urn": "urn:lex:br:federal:decreto.lei:1939-12-26;1908",
+"consultado_em": "2026-11-10",
+"codigo": "526424",
+"nome": "Decreto-Lei nº 1.908 de 26/12/1939",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1939-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1939 - vol. 001] (p. 449, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-11-30", "nome": "Decreto-Lei nº 1.972 de 30/11/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1972-1982-11-30"}
+],
+"controle": []
+}

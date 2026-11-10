@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1983/del-2023-1983-05-18",
+"urn": "urn:lex:br:federal:decreto.lei:1983-05-18;2023",
+"consultado_em": "2026-11-10",
+"codigo": "526655",
+"nome": "Decreto-Lei nº 2.023 de 18/05/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-05-19", "descricao": "Publicação Original [Diário Oficial da União de 19/05/1983] (p. 8446, col. 2)"}
+],
+"alteracoes": [
+{"data": "1983-08-23", "nome": "Decreto Legislativo nº 57 de 23/08/1983", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

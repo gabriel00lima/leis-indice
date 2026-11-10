@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1978/del-1629-1978-07-06",
+"urn": "urn:lex:br:federal:decreto.lei:1978-07-06;1629",
+"consultado_em": "2026-11-10",
+"codigo": "525879",
+"nome": "Decreto-Lei nº 1.629 de 06/07/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-07-07", "descricao": "Publicação Original [Diário Oficial da União de 07/07/1978] (p. 10471, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-09-15", "nome": "Decreto Legislativo nº 60 de 15/09/1978", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

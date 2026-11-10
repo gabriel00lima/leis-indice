@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-480-1969-02-28",
+"urn": "urn:lex:br:federal:decreto.lei:1969-02-28;480",
+"consultado_em": "2026-11-10",
+"codigo": "523596",
+"nome": "Decreto-Lei nº 480 de 28/02/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-03-03", "descricao": "Publicação Original [Diário Oficial da União de 03/03/1969] (p. 1829, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-12-13", "nome": "Decreto-Lei nº 1.293 de 13/12/1973", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1973/del-1293-1973-12-13"}
+],
+"controle": []
+}

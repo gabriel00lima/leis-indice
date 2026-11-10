@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-8764-1946-01-21",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-21;8764",
+"consultado_em": "2026-11-10",
+"codigo": "533800",
+"nome": "Decreto-Lei nº 8.764 de 21/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-22", "descricao": "Publicação Original [Diário Oficial da União de 22/01/1946] (p. 1079, col. 2)"}
+],
+"alteracoes": [
+{"data": "1946-09-06", "nome": "Decreto-Lei nº 9.776 de 06/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9776-1946-09-06"},
+{"data": "1950-01-19", "nome": "Decreto nº 27.703 de 19/01/1950", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

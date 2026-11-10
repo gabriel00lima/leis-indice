@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1988/del-2435-1988-05-19",
+"urn": "urn:lex:br:federal:decreto.lei:1988-05-19;2435",
+"consultado_em": "2026-11-10",
+"codigo": "527483",
+"nome": "Decreto-Lei nº 2.435 de 19/05/1988",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1988-05-20", "descricao": "Publicação Original [Diário Oficial da União de 20/05/1988] (p. 8853, col. 2)"}
+],
+"alteracoes": [
+{"data": "1989-06-06", "nome": "Decreto Legislativo nº 13 de 06/06/1989", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1989-08-15", "nome": "Medida Provisória nº 79 de 15/08/1989", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "alterou"}]},
+{"data": "1989-09-14", "nome": "Lei nº 7.817 de 14/09/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1989/lei-7817-1989-09-14"}
+],
+"controle": []
+}

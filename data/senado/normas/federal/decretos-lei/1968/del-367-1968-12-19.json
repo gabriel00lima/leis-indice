@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1968/del-367-1968-12-19",
+"urn": "urn:lex:br:federal:decreto.lei:1968-12-19;367",
+"consultado_em": "2026-11-10",
+"codigo": "523370",
+"nome": "Decreto-Lei nº 367 de 19/12/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/1968] (p. 11019, col. 1)"}
+],
+"alteracoes": [
+{"data": "1975-07-14", "nome": "Lei nº 6.226 de 14/07/1975", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1975/lei-6226-1975-07-14"}
+],
+"controle": []
+}

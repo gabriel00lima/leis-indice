@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8973-1946-02-13",
+"urn": "urn:lex:br:federal:decreto.lei:1946-02-13;8973",
+"consultado_em": "2026-11-10",
+"codigo": "534010",
+"nome": "Decreto-Lei nº 8.973 de 13/02/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-02-16", "descricao": "Publicação Original [Diário Oficial da União de 16/02/1946] (p. 2433, col. 2)"}
+],
+"alteracoes": [
+{"data": "1946-06-21", "nome": "Decreto-Lei nº 9.391 de 21/06/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9391-1946-06-21"}
+],
+"controle": []
+}

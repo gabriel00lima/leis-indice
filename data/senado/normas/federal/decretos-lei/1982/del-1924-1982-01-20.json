@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1982/del-1924-1982-01-20",
+"urn": "urn:lex:br:federal:decreto.lei:1982-01-20;1924",
+"consultado_em": "2026-11-10",
+"codigo": "526457",
+"nome": "Decreto-Lei nº 1.924 de 20/01/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-01-21", "descricao": "Publicação Original [Diário Oficial da União de 21/01/1982] (p. 1225, col. 2)"}
+],
+"alteracoes": [
+{"data": "1982-08-11", "nome": "Decreto Legislativo nº 77 de 11/08/1982", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1985-03-04", "nome": "Decreto-Lei nº 2.252 de 04/03/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}], "id": "federal/decretos-lei/1985/del-2252-1985-03-04"},
+{"data": "1993-07-06", "nome": "Lei nº 8.672 de 06/07/1993", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1993/lei-8672-1993-07-06"}
+],
+"controle": []
+}

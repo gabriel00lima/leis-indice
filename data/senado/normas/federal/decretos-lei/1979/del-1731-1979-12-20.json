@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1979/del-1731-1979-12-20",
+"urn": "urn:lex:br:federal:decreto.lei:1979-12-20;1731",
+"consultado_em": "2026-11-10",
+"codigo": "526072",
+"nome": "Decreto-Lei nº 1.731 de 20/12/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/1979] (p. 19469, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-12-28", "nome": "Decreto-Lei nº 1.747 de 28/12/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1747-1979-12-28"},
+{"data": "1980-06-12", "nome": "Decreto Legislativo nº 44 de 12/06/1980", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

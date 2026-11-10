@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1983/del-2011-1983-01-18",
+"urn": "urn:lex:br:federal:decreto.lei:1983-01-18;2011",
+"consultado_em": "2026-11-10",
+"codigo": "526631",
+"nome": "Decreto-Lei nº 2.011 de 18/01/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-01-19", "descricao": "Publicação Original [Diário Oficial da União de 19/01/1983] (p. 1089, col. 1)"}
+],
+"alteracoes": [
+{"data": "1983-06-13", "nome": "Decreto Legislativo nº 40 de 13/06/1983", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1988-02-12", "nome": "Decreto-Lei nº 2.415 de 12/02/1988", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "prorrogação de prazo"}], "id": "federal/decretos-lei/1988/del-2415-1988-02-12"}
+],
+"controle": []
+}

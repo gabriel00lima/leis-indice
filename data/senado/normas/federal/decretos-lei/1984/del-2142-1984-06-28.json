@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1984/del-2142-1984-06-28",
+"urn": "urn:lex:br:federal:decreto.lei:1984-06-28;2142",
+"consultado_em": "2026-11-10",
+"codigo": "526897",
+"nome": "Decreto-Lei nº 2.142 de 28/06/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-06-29", "descricao": "Publicação Original [Diário Oficial da União de 29/06/1984] (p. 9356, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-01-07", "nome": "Decreto-Lei nº 2.223 de 07/01/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1985/del-2223-1985-01-07"}
+],
+"controle": []
+}

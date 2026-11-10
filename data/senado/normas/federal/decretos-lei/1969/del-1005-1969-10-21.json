@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1969/del-1005-1969-10-21",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-21;1005",
+"consultado_em": "2026-11-10",
+"codigo": "524632",
+"nome": "Decreto-Lei nº 1.005 de 21/10/1969",
+"apelidos": [
+"Código de Propriedade Industrial (1969) (CPI)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-21", "descricao": "Publicação Original [Diário Oficial da União - Suplemento de 21/10/1969-D] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "1971-03-09", "nome": "Decreto-Lei nº 1.156 de 09/03/1971", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1971/del-1156-1971-03-09"},
+{"data": "1971-12-21", "nome": "Lei nº 5.772 de 21/12/1971", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5772-1971-12-21"}
+],
+"controle": []
+}

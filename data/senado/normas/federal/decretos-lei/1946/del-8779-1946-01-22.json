@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-8779-1946-01-22",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-22;8779",
+"consultado_em": "2026-11-10",
+"codigo": "533815",
+"nome": "Decreto-Lei nº 8.779 de 22/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-24", "descricao": "Publicação Original [Diário Oficial da União de 24/01/1946] (p. 1208, col. 2)"}
+],
+"alteracoes": [
+{"data": "1946-07-15", "nome": "Decreto nº 21.429 de 15/07/1946", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1946-07-15", "nome": "Decreto-Lei nº 9.476 de 15/07/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9476-1946-07-15"}
+],
+"controle": []
+}

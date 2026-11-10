@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1985/del-2244-1985-02-14",
+"urn": "urn:lex:br:federal:decreto.lei:1985-02-14;2244",
+"consultado_em": "2026-11-10",
+"codigo": "527101",
+"nome": "Decreto-Lei nº 2.244 de 14/02/1985",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1985-02-15", "descricao": "Publicação Original [Diário Oficial da União de 15/02/1985] (p. 2701, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-07-02", "nome": "Lei nº 7.334 de 02/07/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7334-1985-07-02"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1966/del-64-1966-11-21",
+"urn": "urn:lex:br:federal:decreto.lei:1966-11-21;64",
+"consultado_em": "2026-11-10",
+"codigo": "522770",
+"nome": "Decreto-Lei nº 64 de 21/11/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-22", "descricao": "Publicação Original [Diário Oficial da União de 22/11/1966] (p. 13505, col. 2)"}
+],
+"alteracoes": [
+{"data": "1968-06-06", "nome": "Decreto nº 62.838 de 06/06/1968", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1969-01-10", "nome": "Decreto-Lei nº 418 de 10/01/1969", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1969/del-418-1969-01-10"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8801-1946-01-23",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-23;8801",
+"consultado_em": "2026-11-10",
+"codigo": "533837",
+"nome": "Decreto-Lei nº 8.801 de 23/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-24", "descricao": "Publicação Original [Diário Oficial da União de 24/01/1946] (p. 1211, col. 1)"}
+],
+"alteracoes": [
+{"data": "1949-12-19", "nome": "Lei nº 985 de 19/12/1949", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1949/lei-985-1949-12-19"}
+],
+"controle": []
+}

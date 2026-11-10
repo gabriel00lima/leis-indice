@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1982/del-1969-1982-11-25",
+"urn": "urn:lex:br:federal:decreto.lei:1982-11-25;1969",
+"consultado_em": "2026-11-10",
+"codigo": "526547",
+"nome": "Decreto-Lei nº 1.969 de 25/11/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-11-26", "descricao": "Publicação Original [Diário Oficial da União de 26/11/1982] (p. 22121, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-12-28", "nome": "Decreto-Lei nº 1.984 de 28/12/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1984-1982-12-28"},
+{"data": "1983-05-04", "nome": "Decreto Legislativo nº 17 de 04/05/1983", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

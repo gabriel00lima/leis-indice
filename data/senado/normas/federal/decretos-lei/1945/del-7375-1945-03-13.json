@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1945/del-7375-1945-03-13",
+"urn": "urn:lex:br:federal:decreto.lei:1945-03-13;7375",
+"consultado_em": "2026-11-10",
+"codigo": "532478",
+"nome": "Decreto-Lei nº 7.375 de 13/03/1945",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1945-03-15", "descricao": "Publicação Original [Diário Oficial da União de 15/03/1945] (p. 4387, col. 1)"},
+{"tipo": "REP", "data": "1945-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1945 - vol. 001] (p. 152, col. 1)"}
+],
+"alteracoes": [
+{"data": "1945-11-07", "nome": "Decreto-Lei nº 8.163 de 07/11/1945", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1945/del-8163-1945-11-07"}
+],
+"controle": []
+}

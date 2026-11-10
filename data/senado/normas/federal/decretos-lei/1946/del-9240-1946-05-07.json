@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9240-1946-05-07",
+"urn": "urn:lex:br:federal:decreto.lei:1946-05-07;9240",
+"consultado_em": "2026-11-10",
+"codigo": "534278",
+"nome": "Decreto-Lei nº 9.240 de 07/05/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-05-10", "descricao": "Publicação Original [Diário Oficial da União de 10/05/1946] (p. 6927, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-07-09", "nome": "Decreto-Lei nº 9.439 de 09/07/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9439-1946-07-09"}
+],
+"controle": []
+}

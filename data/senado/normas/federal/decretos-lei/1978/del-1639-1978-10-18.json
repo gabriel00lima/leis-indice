@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1978/del-1639-1978-10-18",
+"urn": "urn:lex:br:federal:decreto.lei:1978-10-18;1639",
+"consultado_em": "2026-11-10",
+"codigo": "525899",
+"nome": "Decreto-Lei nº 1.639 de 18/10/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-10-19", "descricao": "Publicação Original [Diário Oficial da União de 19/10/1978] (p. 16859, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-12-05", "nome": "Decreto Legislativo nº 78 de 05/12/1978", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

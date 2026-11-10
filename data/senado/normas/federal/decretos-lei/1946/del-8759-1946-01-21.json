@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8759-1946-01-21",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-21;8759",
+"consultado_em": "2026-11-10",
+"codigo": "533795",
+"nome": "Decreto-Lei nº 8.759 de 21/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-24", "descricao": "Publicação Original [Diário Oficial da União de 24/01/1946] (p. 1203, col. 4)"}
+],
+"alteracoes": [
+{"data": "1946-04-23", "nome": "Decreto-Lei nº 9.191 de 23/04/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9191-1946-04-23"}
+],
+"controle": []
+}

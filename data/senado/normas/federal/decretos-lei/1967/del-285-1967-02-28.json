@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1967/del-285-1967-02-28",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-28;285",
+"consultado_em": "2026-11-10",
+"codigo": "523208",
+"nome": "Decreto-Lei nº 285 de 28/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-28", "descricao": "Publicação Original [Diário Oficial da União de 28/02/1967] (p. 2463, col. 3)"}
+],
+"alteracoes": [
+{"data": "1971-07-16", "nome": "Decreto-Lei nº 1.182 de 16/07/1971", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1971/del-1182-1971-07-16"}
+],
+"controle": []
+}

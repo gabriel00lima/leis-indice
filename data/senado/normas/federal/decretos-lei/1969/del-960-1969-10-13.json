@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1969/del-960-1969-10-13",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-13;960",
+"consultado_em": "2026-11-10",
+"codigo": "524545",
+"nome": "Decreto-Lei nº 960 de 13/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-17", "descricao": "Publicação Original [Diário Oficial da União de 17/10/1969] (p. 8804, col. 2)"}
+],
+"alteracoes": [
+{"data": "1968-12-06", "nome": "Lei nº 5.554 de 06/12/1968", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1968/lei-5554-1968-12-06"},
+{"data": "1969-02-19", "nome": "Decreto-Lei nº 474 de 19/02/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-474-1969-02-19"}
+],
+"controle": []
+}

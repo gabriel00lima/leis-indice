@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1977/del-1534-1977-04-13",
+"urn": "urn:lex:br:federal:decreto.lei:1977-04-13;1534",
+"consultado_em": "2026-11-10",
+"codigo": "525689",
+"nome": "Decreto-Lei nº 1.534 de 13/04/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-04-13", "descricao": "Publicação Original [Diário Oficial da União de 13/04/1977] (p. 4150, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-05-16", "nome": "Lei nº 6.649 de 16/05/1979", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6649-1979-05-16"}
+],
+"controle": []
+}

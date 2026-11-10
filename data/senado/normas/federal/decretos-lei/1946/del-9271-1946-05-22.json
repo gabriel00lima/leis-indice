@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9271-1946-05-22",
+"urn": "urn:lex:br:federal:decreto.lei:1946-05-22;9271",
+"consultado_em": "2026-11-10",
+"codigo": "534310",
+"nome": "Decreto-Lei nº 9.271 de 22/05/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-05-24", "descricao": "Publicação Original [Diário Oficial da União de 24/05/1946] (p. 7679, col. 2)"}
+],
+"alteracoes": [
+{"data": "1946-09-03", "nome": "Decreto-Lei nº 9.728 de 03/09/1946", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9728-1946-09-03"}
+],
+"controle": []
+}

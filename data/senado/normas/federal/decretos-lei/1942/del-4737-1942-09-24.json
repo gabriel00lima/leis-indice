@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1942/del-4737-1942-09-24",
+"urn": "urn:lex:br:federal:decreto.lei:1942-09-24;4737",
+"consultado_em": "2026-11-10",
+"codigo": "529828",
+"nome": "Decreto-Lei nº 4.737 de 24/09/1942",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1942-09-26", "descricao": "Publicação Original [Diário Oficial da União de 26/09/1942] (p. 14435, col. 1)"}
+],
+"alteracoes": [
+{"data": "1949-10-21", "nome": "Lei nº 883 de 21/10/1949", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1949/lei-883-1949-10-21"}
+],
+"controle": []
+}

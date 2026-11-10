@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1973/del-1269-1973-04-18",
+"urn": "urn:lex:br:federal:decreto.lei:1973-04-18;1269",
+"consultado_em": "2026-11-10",
+"codigo": "525158",
+"nome": "Decreto-Lei nº 1.269 de 18/04/1973",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-04-18", "descricao": "Publicação Original [Diário Oficial da União de 18/04/1973] (p. 3865, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-06-14", "nome": "Decreto Legislativo nº 27 de 14/06/1973", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1990-12-14", "nome": "Medida Provisória nº 287 de 14/12/1990", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}]}
+],
+"controle": []
+}

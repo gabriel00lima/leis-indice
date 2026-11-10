@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1979/del-1690-1979-08-01",
+"urn": "urn:lex:br:federal:decreto.lei:1979-08-01;1690",
+"consultado_em": "2026-11-10",
+"codigo": "526000",
+"nome": "Decreto-Lei nº 1.690 de 01/08/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-08-02", "descricao": "Publicação Original [Diário Oficial da União de 02/08/1979] (p. 10913, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-10-24", "nome": "Decreto Legislativo nº 63 de 24/10/1979", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1985-12-26", "nome": "Lei nº 7.451 de 26/12/1985", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7451-1985-12-26"}
+],
+"controle": []
+}

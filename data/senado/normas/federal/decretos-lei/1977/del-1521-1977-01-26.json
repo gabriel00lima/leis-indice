@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1977/del-1521-1977-01-26",
+"urn": "urn:lex:br:federal:decreto.lei:1977-01-26;1521",
+"consultado_em": "2026-11-10",
+"codigo": "525663",
+"nome": "Decreto-Lei nº 1.521 de 26/01/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-01-27", "descricao": "Publicação Original [Diário Oficial da União de 27/01/1977] (p. 1089, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-05-06", "nome": "Decreto Legislativo nº 33 de 06/05/1977", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1979-10-29", "nome": "Decreto nº 84.128 de 29/10/1979", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

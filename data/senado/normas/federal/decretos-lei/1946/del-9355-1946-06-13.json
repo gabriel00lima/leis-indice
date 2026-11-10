@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-9355-1946-06-13",
+"urn": "urn:lex:br:federal:decreto.lei:1946-06-13;9355",
+"consultado_em": "2026-11-10",
+"codigo": "534394",
+"nome": "Decreto-Lei nº 9.355 de 13/06/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-06-15", "descricao": "Publicação Original [Diário Oficial da União de 15/06/1946] (p. 8991, col. 3)"}
+],
+"alteracoes": [
+{"data": "1946-06-25", "nome": "Decreto nº 21.355 de 25/06/1946", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1955-12-09", "nome": "Decreto nº 38.283 de 09/12/1955", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

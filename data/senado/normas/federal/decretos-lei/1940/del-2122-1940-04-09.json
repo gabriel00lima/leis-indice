@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1940/del-2122-1940-04-09",
+"urn": "urn:lex:br:federal:decreto.lei:1940-04-09;2122",
+"consultado_em": "2026-11-10",
+"codigo": "526852",
+"nome": "Decreto-Lei nº 2.122 de 09/04/1940",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1940-04-12", "descricao": "Publicação Original [Diário Oficial da União de 12/04/1940] (p. 6333, col. 1)"},
+{"tipo": "REP", "data": "1940-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1940 - vol. 005] (p. 432, col. 1)"}
+],
+"alteracoes": [
+{"data": "1941-06-19", "nome": "Decreto-Lei nº 3.357 de 19/06/1941", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 40", "art": "40", "acao": "revogou"}], "id": "federal/decretos-lei/1941/del-3357-1941-06-19"}
+],
+"controle": []
+}

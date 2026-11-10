@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-8562-1946-01-05",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-05;8562",
+"consultado_em": "2026-11-10",
+"codigo": "533601",
+"nome": "Decreto-Lei nº 8.562 de 05/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-08", "descricao": "Publicação Original [Diário Oficial da União de 08/01/1946] (p. 269, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-05-27", "nome": "Decreto-Lei nº 9.291 de 27/05/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9291-1946-05-27"},
+{"data": "1947-01-29", "nome": "Resolução da Câmara dos Deputados nº 3 de 29/01/1947", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

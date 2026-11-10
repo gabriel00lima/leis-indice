@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1966/del-59-1966-11-21",
+"urn": "urn:lex:br:federal:decreto.lei:1966-11-21;59",
+"consultado_em": "2026-11-10",
+"codigo": "522760",
+"nome": "Decreto-Lei nº 59 de 21/11/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-22", "descricao": "Publicação Original [Diário Oficial da União de 22/11/1966] (p. 13499, col. 4)"}
+],
+"alteracoes": [
+{"data": "1967-04-19", "nome": "Decreto nº 60.597 de 19/04/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1971-12-16", "nome": "Lei nº 5.764 de 16/12/1971", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5764-1971-12-16"},
+{"data": "1990-12-18", "nome": "Decreto Legislativo nº 66 de 18/12/1990", "tipo": "Ratificação Permanente", "dispositivos": []}
+],
+"controle": []
+}

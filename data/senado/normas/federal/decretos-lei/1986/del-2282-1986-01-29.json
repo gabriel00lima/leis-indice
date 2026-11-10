@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1986/del-2282-1986-01-29",
+"urn": "urn:lex:br:federal:decreto.lei:1986-01-29;2282",
+"consultado_em": "2026-11-10",
+"codigo": "527177",
+"nome": "Decreto-Lei nº 2.282 de 29/01/1986",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-01-30", "descricao": "Publicação Original [Diário Oficial da União de 30/01/1986] (p. 1677, col. 1)"}
+],
+"alteracoes": [
+{"data": "1986-12-29", "nome": "Decreto-Lei nº 2.317 de 29/12/1986", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1986/del-2317-1986-12-29"}
+],
+"controle": []
+}

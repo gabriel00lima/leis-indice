@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9547-1946-08-05",
+"urn": "urn:lex:br:federal:decreto.lei:1946-08-05;9547",
+"consultado_em": "2026-11-10",
+"codigo": "534587",
+"nome": "Decreto-Lei nº 9.547 de 05/08/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-08-12", "descricao": "Publicação Original [Diário Oficial da União de 12/08/1946] (p. 11587, col. 4)"}
+],
+"alteracoes": [
+{"data": "1946-09-09", "nome": "Decreto-Lei nº 9.817 de 09/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9817-1946-09-09"}
+],
+"controle": []
+}

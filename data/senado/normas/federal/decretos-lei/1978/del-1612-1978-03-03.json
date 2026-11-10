@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1978/del-1612-1978-03-03",
+"urn": "urn:lex:br:federal:decreto.lei:1978-03-03;1612",
+"consultado_em": "2026-11-10",
+"codigo": "525845",
+"nome": "Decreto-Lei nº 1.612 de 03/03/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-03-06", "descricao": "Publicação Original [Diário Oficial da União de 06/03/1978] (p. 3185, col. 2)"}
+],
+"alteracoes": [
+{"data": "1978-05-04", "nome": "Decreto Legislativo nº 36 de 04/05/1978", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

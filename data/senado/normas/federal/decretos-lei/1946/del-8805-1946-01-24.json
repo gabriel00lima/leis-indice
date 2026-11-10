@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-8805-1946-01-24",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-24;8805",
+"consultado_em": "2026-11-10",
+"codigo": "533841",
+"nome": "Decreto-Lei nº 8.805 de 24/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-25", "descricao": "Publicação Original [Diário Oficial da União de 25/01/1946] (p. 1259, col. 3)"}
+],
+"alteracoes": [
+{"data": "1946-01-24", "nome": "Decreto-Lei nº 8.879 de 24/01/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-8879-1946-01-24"},
+{"data": "1949-02-10", "nome": "Lei nº 618 de 10/02/1949", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1949/lei-618-1949-02-10"}
+],
+"controle": []
+}

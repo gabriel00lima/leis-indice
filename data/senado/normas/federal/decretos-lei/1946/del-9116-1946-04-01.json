@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9116-1946-04-01",
+"urn": "urn:lex:br:federal:decreto.lei:1946-04-01;9116",
+"consultado_em": "2026-11-10",
+"codigo": "534154",
+"nome": "Decreto-Lei nº 9.116 de 01/04/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-04-02", "descricao": "Publicação Original [Diário Oficial da União de 02/04/1946] (p. 4829, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-04-15", "nome": "Decreto-Lei nº 9.187 de 15/04/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9187-1946-04-15"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1985/del-2227-1985-01-16",
+"urn": "urn:lex:br:federal:decreto.lei:1985-01-16;2227",
+"consultado_em": "2026-11-10",
+"codigo": "527067",
+"nome": "Decreto-Lei nº 2.227 de 16/01/1985",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1985-01-17", "descricao": "Publicação Original [Diário Oficial da União de 17/01/1985] (p. 1133, col. 2)"}
+],
+"alteracoes": [
+{"data": "1996-12-27", "nome": "Lei nº 9.430 de 27/12/1996", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1996/lei-9430-1996-12-27"}
+],
+"controle": []
+}

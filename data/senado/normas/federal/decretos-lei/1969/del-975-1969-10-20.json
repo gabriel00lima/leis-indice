@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-975-1969-10-20",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-20;975",
+"consultado_em": "2026-11-10",
+"codigo": "524575",
+"nome": "Decreto-Lei nº 975 de 20/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-21", "descricao": "Publicação Original [Diário Oficial da União de 21/10/1969] (p. 8933, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-12-17", "nome": "Lei nº 6.620 de 17/12/1978", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1978/lei-6620-1978-12-17"}
+],
+"controle": []
+}

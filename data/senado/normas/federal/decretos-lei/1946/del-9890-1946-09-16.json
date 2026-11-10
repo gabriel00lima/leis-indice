@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9890-1946-09-16",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-16;9890",
+"consultado_em": "2026-11-10",
+"codigo": "534927",
+"nome": "Decreto-Lei nº 9.890 de 16/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-17", "descricao": "Publicação Original [Diário Oficial da União de 17/09/1946] (p. 13006, col. 2)"}
+],
+"alteracoes": [
+{"data": "1966-06-10", "nome": "Lei nº 5.025 de 10/06/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5025-1966-06-10"}
+],
+"controle": []
+}

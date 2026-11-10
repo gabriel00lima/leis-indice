@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1982/del-1939-1982-05-20",
+"urn": "urn:lex:br:federal:decreto.lei:1982-05-20;1939",
+"consultado_em": "2026-11-10",
+"codigo": "526487",
+"nome": "Decreto-Lei nº 1.939 de 20/05/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-05-21", "descricao": "Publicação Original [Diário Oficial da União de 21/05/1982] (p. 9162, col. 2)"}
+],
+"alteracoes": [
+{"data": "1982-10-06", "nome": "Decreto Legislativo nº 98 de 06/10/1982", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

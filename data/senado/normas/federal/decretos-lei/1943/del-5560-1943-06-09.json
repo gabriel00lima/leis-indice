@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1943/del-5560-1943-06-09",
+"urn": "urn:lex:br:federal:decreto.lei:1943-06-09;5560",
+"consultado_em": "2026-11-10",
+"codigo": "530656",
+"nome": "Decreto-Lei nº 5.560 de 09/06/1943",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1943-06-09", "descricao": "Publicação Original [Diário Oficial da União de 09/06/1943] (p. 8961, col. 1)"},
+{"tipo": "REP", "data": "1943-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1943 - vol. 003] (p. 221, col. 1)"}
+],
+"alteracoes": [
+{"data": "1944-06-21", "nome": "Decreto-Lei nº 6.607 de 21/06/1944", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1944/del-6607-1944-06-21"}
+],
+"controle": []
+}

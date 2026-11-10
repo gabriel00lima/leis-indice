@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1967/del-162-1967-02-13",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-13;162",
+"consultado_em": "2026-11-10",
+"codigo": "522966",
+"nome": "Decreto-Lei nº 162 de 13/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-14", "descricao": "Publicação Original [Diário Oficial da União de 14/02/1967] (p. 1787, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-02-28", "nome": "Decreto-Lei nº 235 de 28/02/1967", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1967/del-235-1967-02-28"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1977/del-1576-1977-10-06",
+"urn": "urn:lex:br:federal:decreto.lei:1977-10-06;1576",
+"consultado_em": "2026-11-10",
+"codigo": "525773",
+"nome": "Decreto-Lei nº 1.576 de 06/10/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-10-07", "descricao": "Publicação Original [Diário Oficial da União de 07/10/1977] (p. 13474, col. 2)"}
+],
+"alteracoes": [
+{"data": "1977-11-30", "nome": "Decreto Legislativo nº 111 de 30/11/1977", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1984/del-2147-1984-07-02",
+"urn": "urn:lex:br:federal:decreto.lei:1984-07-02;2147",
+"consultado_em": "2026-11-10",
+"codigo": "526907",
+"nome": "Decreto-Lei nº 2.147 de 02/07/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-07-03", "descricao": "Publicação Original [Diário Oficial da União de 03/07/1984] (p. 9521, col. 2)"}
+],
+"alteracoes": [
+{"data": "1985-01-07", "nome": "Decreto-Lei nº 2.220 de 07/01/1985", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1985/del-2220-1985-01-07"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1974/del-1367-1974-12-02",
+"urn": "urn:lex:br:federal:decreto.lei:1974-12-02;1367",
+"consultado_em": "2026-11-10",
+"codigo": "525356",
+"nome": "Decreto-Lei nº 1.367 de 02/12/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-12-03", "descricao": "Publicação Original [Diário Oficial da União de 03/12/1974] (p. 13687, col. 1)"}
+],
+"alteracoes": [
+{"data": "1975-04-04", "nome": "Decreto Legislativo nº 12 de 04/04/1975", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

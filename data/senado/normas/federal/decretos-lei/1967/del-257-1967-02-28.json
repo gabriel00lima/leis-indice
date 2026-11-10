@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1967/del-257-1967-02-28",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-28;257",
+"consultado_em": "2026-11-10",
+"codigo": "523154",
+"nome": "Decreto-Lei nº 257 de 28/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-28", "descricao": "Publicação Original [Diário Oficial da União de 28/02/1967] (p. 2454, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-10-09", "nome": "Decreto nº 61.492 de 09/10/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1968-01-05", "nome": "Decreto nº 62.067 de 05/01/1968", "tipo": "Aprovação de Regimento", "dispositivos": []},
+{"data": "1986-11-21", "nome": "Decreto nº 93.614 de 21/11/1986", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}]}
+],
+"controle": []
+}

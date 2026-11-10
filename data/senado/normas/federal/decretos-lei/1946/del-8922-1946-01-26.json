@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8922-1946-01-26",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-26;8922",
+"consultado_em": "2026-11-10",
+"codigo": "533960",
+"nome": "Decreto-Lei nº 8.922 de 26/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-29", "descricao": "Publicação Original [Diário Oficial da União de 29/01/1946] (p. 1450, col. 2)"}
+],
+"alteracoes": [
+{"data": "1948-09-09", "nome": "Lei nº 369-A de 09/09/1948", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1948/lei-369-a-1948-09-09"}
+],
+"controle": []
+}

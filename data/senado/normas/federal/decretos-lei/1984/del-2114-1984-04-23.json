@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1984/del-2114-1984-04-23",
+"urn": "urn:lex:br:federal:decreto.lei:1984-04-23;2114",
+"consultado_em": "2026-11-10",
+"codigo": "526837",
+"nome": "Decreto-Lei nº 2.114 de 23/04/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-04-24", "descricao": "Publicação Original [Diário Oficial da União de 24/04/1984] (p. 5777, col. 1)"}
+],
+"alteracoes": [
+{"data": "1984-10-09", "nome": "Decreto Legislativo nº 44 de 09/10/1984", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1985-11-19", "nome": "Lei nº 7.407 de 19/11/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7407-1985-11-19"}
+],
+"controle": []
+}

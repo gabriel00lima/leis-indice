@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1984/del-2196-1984-12-26",
+"urn": "urn:lex:br:federal:decreto.lei:1984-12-26;2196",
+"consultado_em": "2026-11-10",
+"codigo": "527005",
+"nome": "Decreto-Lei nº 2.196 de 26/12/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-12-27", "descricao": "Publicação Original [Diário Oficial da União de 27/12/1984] (p. 19526, col. 2)"}
+],
+"alteracoes": [
+{"data": "1985-03-05", "nome": "Decreto-Lei nº 2.259 de 05/03/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1985/del-2259-1985-03-05"}
+],
+"controle": []
+}

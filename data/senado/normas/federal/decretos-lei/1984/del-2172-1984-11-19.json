@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1984/del-2172-1984-11-19",
+"urn": "urn:lex:br:federal:decreto.lei:1984-11-19;2172",
+"consultado_em": "2026-11-10",
+"codigo": "526957",
+"nome": "Decreto-Lei nº 2.172 de 19/11/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-11-20", "descricao": "Publicação Original [Diário Oficial da União de 20/11/1984] (p. 17041, col. 1)"}
+],
+"alteracoes": [
+{"data": "1984-12-27", "nome": "Decreto-Lei nº 2.205 de 27/12/1984", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1984/del-2205-1984-12-27"}
+],
+"controle": []
+}

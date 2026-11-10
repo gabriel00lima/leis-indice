@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1941/del-3150-1941-03-26",
+"urn": "urn:lex:br:federal:decreto.lei:1941-03-26;3150",
+"consultado_em": "2026-11-10",
+"codigo": "528244",
+"nome": "Decreto-Lei nº 3.150 de 26/03/1941",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1941-03-29", "descricao": "Publicação Original [Diário Oficial da União de 29/03/1941] (p. 6434, col. 1)"},
+{"tipo": "REP", "data": "1941-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1941 - vol. 001] (p. 348, col. 1)"}
+],
+"alteracoes": [
+{"data": "1941-04-26", "nome": "Decreto-Lei nº 3.214 de 26/04/1941", "tipo": "Suspensão Permanente da Norma No Todo", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3214-1941-04-26"},
+{"data": "1941-10-13", "nome": "Decreto-Lei nº 3.705 de 13/10/1941", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1941/del-3705-1941-10-13"}
+],
+"controle": []
+}

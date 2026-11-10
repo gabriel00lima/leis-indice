@@ -1,0 +1,19 @@
+{
+"id": "federal/decretos-lei/1979/del-1716-1979-11-21",
+"urn": "urn:lex:br:federal:decreto.lei:1979-11-21;1716",
+"consultado_em": "2026-11-10",
+"codigo": "526042",
+"nome": "Decreto-Lei nº 1.716 de 21/11/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-11-22", "descricao": "Publicação Original [Diário Oficial da União de 22/11/1979] (p. 17381, col. 1)"},
+{"tipo": "RET", "data": "1979-11-28", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 28/11/1979] (p. 17769, col. 2)"}
+],
+"alteracoes": [
+{"data": "1980-05-06", "nome": "Decreto Legislativo nº 21 de 06/05/1980", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1985-12-19", "nome": "Lei nº 7.435 de 19/12/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}], "id": "federal/leis-ordinarias/1985/lei-7435-1985-12-19"},
+{"data": "2001-09-05", "nome": "Medida Provisória nº 2.218 de 05/09/2001", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2002-07-04", "nome": "Lei nº 10.486 de 04/07/2002", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2002/lei-10486-2002-07-04"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-9070-1946-03-15",
+"urn": "urn:lex:br:federal:decreto.lei:1946-03-15;9070",
+"consultado_em": "2026-11-10",
+"codigo": "534108",
+"nome": "Decreto-Lei nº 9.070 de 15/03/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-03-16", "descricao": "Publicação Original [Diário Oficial da União de 16/03/1946] (p. 3829, col. 3)"}
+],
+"alteracoes": [
+{"data": "1959-12-24", "nome": "Decreto nº 47.492 de 24/12/1959", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1964-06-01", "nome": "Lei nº 4.330 de 01/06/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4330-1964-06-01"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9050-1946-03-11",
+"urn": "urn:lex:br:federal:decreto.lei:1946-03-11;9050",
+"consultado_em": "2026-11-10",
+"codigo": "534088",
+"nome": "Decreto-Lei nº 9.050 de 11/03/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-03-13", "descricao": "Publicação Original [Diário Oficial da União de 13/03/1946] (p. 3646, col. 1)"}
+],
+"alteracoes": [
+{"data": "1949-05-31", "nome": "Lei nº 721 de 31/05/1949", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1949/lei-721-1949-05-31"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1975/del-1434-1975-12-11",
+"urn": "urn:lex:br:federal:decreto.lei:1975-12-11;1434",
+"consultado_em": "2026-11-10",
+"codigo": "525490",
+"nome": "Decreto-Lei nº 1.434 de 11/12/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-12-12", "descricao": "Publicação Original [Diário Oficial da União de 12/12/1975] (p. 16468, col. 1)"}
+],
+"alteracoes": [
+{"data": "1976-04-28", "nome": "Decreto Legislativo nº 20 de 28/04/1976", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1979-12-06", "nome": "Decreto-Lei nº 1.723 de 06/12/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1723-1979-12-06"}
+],
+"controle": []
+}

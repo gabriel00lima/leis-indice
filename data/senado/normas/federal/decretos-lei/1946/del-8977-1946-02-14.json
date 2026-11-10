@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-8977-1946-02-14",
+"urn": "urn:lex:br:federal:decreto.lei:1946-02-14;8977",
+"consultado_em": "2026-11-10",
+"codigo": "534014",
+"nome": "Decreto-Lei nº 8.977 de 14/02/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-02-16", "descricao": "Publicação Original [Diário Oficial da União de 16/02/1946] (p. 2434, col. 3)"}
+],
+"alteracoes": [
+{"data": "1946-02-28", "nome": "Decreto-Lei nº 9.027 de 28/02/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9027-1946-02-28"},
+{"data": "1946-07-31", "nome": "Decreto-Lei nº 9.535 de 31/07/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9535-1946-07-31"}
+],
+"controle": []
+}

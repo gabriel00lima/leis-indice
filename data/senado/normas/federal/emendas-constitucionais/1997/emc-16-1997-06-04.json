@@ -1,0 +1,15 @@
+{
+"id": "federal/emendas-constitucionais/1997/emc-16-1997-06-04",
+"urn": "urn:lex:br:federal:emenda.constitucional:1997-06-04;16",
+"consultado_em": "2026-11-10",
+"codigo": "540603",
+"nome": "Emenda Constitucional nº 16 de 04/06/1997",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1997-06-05", "descricao": "Publicação Original [Diário Oficial da União de 05/06/1997] (p. 11553, col. 2)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2020-11-20", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 1.805 de 20/11/2020", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "constitucional", "texto": "Dispositivo com Parte de Texto Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "1805"}}
+]
+}

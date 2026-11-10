@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9788-1946-09-06",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-06;9788",
+"consultado_em": "2026-11-10",
+"codigo": "534828",
+"nome": "Decreto-Lei nº 9.788 de 06/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-10", "descricao": "Publicação Original [Diário Oficial da União de 10/09/1946] (p. 12586, col. 3)"}
+],
+"alteracoes": [
+{"data": "1946-09-11", "nome": "Decreto-Lei nº 9.837 de 11/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9837-1946-09-11"}
+],
+"controle": []
+}

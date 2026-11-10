@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1987/del-2352-1987-08-07",
+"urn": "urn:lex:br:federal:decreto.lei:1987-08-07;2352",
+"consultado_em": "2026-11-10",
+"codigo": "527317",
+"nome": "Decreto-Lei nº 2.352 de 07/08/1987",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1987-08-10", "descricao": "Publicação Original [Diário Oficial da União de 10/08/1987] (p. 12582, col. 1)"}
+],
+"alteracoes": [
+{"data": "1987-09-24", "nome": "Decreto-Lei nº 2.361 de 24/09/1987", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [], "id": "federal/decretos-lei/1987/del-2361-1987-09-24"},
+{"data": "1988-08-25", "nome": "Decreto Legislativo nº 18 de 25/08/1988", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

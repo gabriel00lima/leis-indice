@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1967/del-175-1967-02-15",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-15;175",
+"consultado_em": "2026-11-10",
+"codigo": "522991",
+"nome": "Decreto-Lei nº 175 de 15/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-02-16", "descricao": "Publicação Original [Diário Oficial da União de 16/02/1967] (p. 1906, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-02-24", "nome": "Decreto nº 60.274 de 24/02/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

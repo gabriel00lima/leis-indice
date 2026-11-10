@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-8904-1946-01-24",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-24;8904",
+"consultado_em": "2026-11-10",
+"codigo": "533940",
+"nome": "Decreto-Lei nº 8.904 de 24/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-02-01", "descricao": "Publicação Original [Diário Oficial da União de 01/02/1946] (p. 1592, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-05-27", "nome": "Decreto-Lei nº 9.294 de 27/05/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9294-1946-05-27"},
+{"data": "1948-09-10", "nome": "Lei nº 378 de 10/09/1948", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1948/lei-378-1948-09-10"}
+],
+"controle": []
+}

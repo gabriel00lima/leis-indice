@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9455-1946-07-12",
+"urn": "urn:lex:br:federal:decreto.lei:1946-07-12;9455",
+"consultado_em": "2026-11-10",
+"codigo": "534494",
+"nome": "Decreto-Lei nº 9.455 de 12/07/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-07-15", "descricao": "Publicação Original [Diário Oficial da União de 15/07/1946] (p. 10301, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-07-22", "nome": "Decreto-Lei nº 9.498 de 22/07/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9498-1946-07-22"}
+],
+"controle": []
+}

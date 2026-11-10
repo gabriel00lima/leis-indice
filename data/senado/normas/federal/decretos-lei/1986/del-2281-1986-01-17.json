@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1986/del-2281-1986-01-17",
+"urn": "urn:lex:br:federal:decreto.lei:1986-01-17;2281",
+"consultado_em": "2026-11-10",
+"codigo": "527175",
+"nome": "Decreto-Lei nº 2.281 de 17/01/1986",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-01-20", "descricao": "Publicação Original [Diário Oficial da União de 20/01/1986] (p. 1045, col. 1)"}
+],
+"alteracoes": [
+{"data": "1986-12-22", "nome": "Decreto-Lei nº 2.310 de 22/12/1986", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1986/del-2310-1986-12-22"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1966/del-49-1966-11-18",
+"urn": "urn:lex:br:federal:decreto.lei:1966-11-18;49",
+"consultado_em": "2026-11-10",
+"codigo": "522740",
+"nome": "Decreto-Lei nº 49 de 18/11/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-21", "descricao": "Publicação Original [Diário Oficial da União de 21/11/1966] (p. 13414, col. 4)"}
+],
+"alteracoes": [
+{"data": "1966-12-30", "nome": "Decreto nº 59.916 de 30/12/1966", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1967-01-31", "nome": "Decreto-Lei nº 117 de 31/01/1967", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1967/del-117-1967-01-31"}
+],
+"controle": []
+}

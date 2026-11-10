@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1967/del-344-1967-12-28",
+"urn": "urn:lex:br:federal:decreto.lei:1967-12-28;344",
+"consultado_em": "2026-11-10",
+"codigo": "523324",
+"nome": "Decreto-Lei nº 344 de 28/12/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-12-29", "descricao": "Publicação Original [Diário Oficial da União de 29/12/1967] (p. 13127, col. 4)"}
+],
+"alteracoes": [
+{"data": "1968-03-22", "nome": "Decreto Legislativo nº 19 de 22/03/1968", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

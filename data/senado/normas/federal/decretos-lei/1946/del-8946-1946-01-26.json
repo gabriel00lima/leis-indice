@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-8946-1946-01-26",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-26;8946",
+"consultado_em": "2026-11-10",
+"codigo": "533984",
+"nome": "Decreto-Lei nº 8.946 de 26/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-29", "descricao": "Publicação Original [Diário Oficial da União de 29/01/1946] (p. 1451, col. 2)"}
+],
+"alteracoes": [
+{"data": "1948-02-09", "nome": "Lei nº 232 de 09/02/1948", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}], "id": "federal/leis-ordinarias/1948/lei-232-1948-02-09"},
+{"data": "1956-07-10", "nome": "Lei nº 2.820 de 10/07/1956", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}], "id": "federal/leis-ordinarias/1956/lei-2820-1956-07-10"}
+],
+"controle": []
+}

@@ -1,0 +1,21 @@
+{
+"id": "federal/decretos-lei/1946/del-8740-1946-01-19",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-19;8740",
+"consultado_em": "2026-11-10",
+"codigo": "533776",
+"nome": "Decreto-Lei nº 8.740 de 19/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-21", "descricao": "Publicação Original [Diário Oficial da União de 21/01/1946] (p. 1001, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-02-15", "nome": "Decreto-Lei nº 8.987-A de 15/02/1946", "tipo": "Suspensão Permanente da Norma No Todo", "dispositivos": [], "id": "federal/decretos-lei/1946/del-8987-a-1946-02-15"},
+{"data": "1946-03-18", "nome": "Decreto-Lei nº 9.076 de 18/03/1946", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revigorou"}], "id": "federal/decretos-lei/1946/del-9076-1946-03-18"},
+{"data": "1946-04-12", "nome": "Decreto-Lei nº 9.168 de 12/04/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9168-1946-04-12"},
+{"data": "1946-06-21", "nome": "Decreto-Lei nº 9.398 de 21/06/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9398-1946-06-21"},
+{"data": "1946-07-15", "nome": "Decreto-Lei nº 9.462 de 15/07/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9462-1946-07-15"},
+{"data": "1946-07-23", "nome": "Decreto-Lei nº 9.502 de 23/07/1946", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}], "id": "federal/decretos-lei/1946/del-9502-1946-07-23"},
+{"data": "1946-08-29", "nome": "Decreto-Lei nº 9.675 de 29/08/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9675-1946-08-29"}
+],
+"controle": []
+}
