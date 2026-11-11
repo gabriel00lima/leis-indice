@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-complementares/2025/lcp-215-2025-03-21",
+"urn": "urn:lex:br:federal:lei.complementar:2025-03-21;215",
+"consultado_em": "2026-11-11",
+"codigo": "40474849",
+"nome": "Lei Complementar nº 215 de 21/03/2025",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2025-03-21", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 21/03/2025] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2025-12-26", "nome": "Lei Complementar nº 224 de 26/12/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "vetado"}, {"dispositivo": "Art. 1, § 1, apenas o Caput", "art": "1", "acao": "vetado"}, {"dispositivo": "Art. 1, § 1, Inciso 1", "art": "1", "acao": "vetado"}, {"dispositivo": "Art. 1, § 1, Inciso 2", "art": "1", "acao": "vetado"}, {"dispositivo": "Art. 1, § 1-A", "art": "1", "acao": "vetado"}], "id": "federal/leis-complementares/2025/lcp-224-2025-12-26"}
+],
+"controle": []
+}

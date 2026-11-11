@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-complementares/2021/lcp-188-2021-12-31",
+"urn": "urn:lex:br:federal:lei.complementar:2021-12-31;188",
+"consultado_em": "2026-11-11",
+"codigo": "35395166",
+"nome": "Lei Complementar nº 188 de 31/12/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-12-31", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 31/12/2021 - nº 247-G] (p. 1, col. 1)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2025-06-06", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 7.096 de 06/06/2025", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "7096"}}
+]
+}

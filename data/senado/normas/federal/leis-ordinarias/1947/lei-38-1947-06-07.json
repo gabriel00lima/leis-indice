@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1947/lei-38-1947-06-07",
+"urn": "urn:lex:br:federal:lei:1947-06-07;38",
+"consultado_em": "2026-11-11",
+"codigo": "540896",
+"nome": "Lei nº 38 de 07/06/1947",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1947-06-21", "descricao": "Publicação Original [Diário Oficial da União de 21/06/1947] (p. 8371, col. 2)"}
+],
+"alteracoes": [
+{"data": "1953-11-12", "nome": "Lei nº 2.083 de 12/11/1953", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1953/lei-2083-1953-11-12"}
+],
+"controle": []
+}

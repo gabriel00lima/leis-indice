@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1947/lei-81-1947-08-29",
+"urn": "urn:lex:br:federal:lei:1947-08-29;81",
+"consultado_em": "2026-11-11",
+"codigo": "541010",
+"nome": "Lei nº 81 de 29/08/1947",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1947-09-02", "descricao": "Publicação Original [Diário Oficial da União de 02/09/1947] (p. 11715, col. 2)"}
+],
+"alteracoes": [
+{"data": "1956-09-04", "nome": "Lei nº 2.862 de 04/09/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2862-1956-09-04"}
+],
+"controle": []
+}

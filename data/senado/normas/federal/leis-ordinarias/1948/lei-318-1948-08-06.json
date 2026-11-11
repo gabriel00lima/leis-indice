@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-318-1948-08-06",
+"urn": "urn:lex:br:federal:lei:1948-08-06;318",
+"consultado_em": "2026-11-11",
+"codigo": "541518",
+"nome": "Lei nº 318 de 06/08/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-08-12", "descricao": "Publicação Original [Diário Oficial da União de 12/08/1948] (p. 11637, col. 1)"}
+],
+"alteracoes": [
+{"data": "1948-12-31", "nome": "Decreto nº 26.133 de 31/12/1948", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1936/lei-202-1936-03-02",
+"urn": "urn:lex:br:federal:lei:1936-03-02;202",
+"consultado_em": "2026-11-11",
+"codigo": "541279",
+"nome": "Lei nº 202 de 02/03/1936",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1936-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1936 - vol. 001] (p. 90, col. 1)"}
+],
+"alteracoes": [
+{"data": "1942-09-03", "nome": "Decreto-Lei nº 4.655 de 03/09/1942", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4655-1942-09-03"}
+],
+"controle": []
+}

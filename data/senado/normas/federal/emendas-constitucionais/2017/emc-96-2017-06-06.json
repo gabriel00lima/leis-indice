@@ -1,0 +1,15 @@
+{
+"id": "federal/emendas-constitucionais/2017/emc-96-2017-06-06",
+"urn": "urn:lex:br:federal:emenda.constitucional:2017-06-06;96",
+"consultado_em": "2026-11-11",
+"codigo": "17703519",
+"nome": "Emenda Constitucional nº 96 de 06/06/2017",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2017-06-07", "descricao": "Publicação Original [Diário Oficial da União de 07/06/2017] (p. 1, col. 1)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2025-03-14", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.728 de 14/03/2025", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "5728"}}
+]
+}

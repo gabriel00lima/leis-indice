@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-211-1948-01-07",
+"urn": "urn:lex:br:federal:lei:1948-01-07;211",
+"consultado_em": "2026-11-11",
+"codigo": "541298",
+"nome": "Lei nº 211 de 07/01/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-01-08", "descricao": "Publicação Original [Diário Oficial da União de 08/01/1948] (p. 225, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-02-27", "nome": "Decreto-Lei nº 201 de 27/02/1967", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1967/del-201-1967-02-27"}
+],
+"controle": []
+}

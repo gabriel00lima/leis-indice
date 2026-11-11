@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1942/del-4754-1942-09-29",
+"urn": "urn:lex:br:federal:decreto.lei:1942-09-29;4754",
+"consultado_em": "2026-11-11",
+"codigo": "529845",
+"nome": "Decreto-Lei nº 4.754 de 29/09/1942",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1942-10-01", "descricao": "Publicação Original [Diário Oficial da União de 01/10/1942] (p. 14641, col. 1)"},
+{"tipo": "REP", "data": "1942-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1942 - vol. 005] (p. 316, col. 1)"}
+],
+"alteracoes": [
+{"data": "1943-06-14", "nome": "Decreto-Lei nº 5.574 de 14/06/1943", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1943/del-5574-1943-06-14"}
+],
+"controle": []
+}

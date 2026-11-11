@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-316-1948-07-31",
+"urn": "urn:lex:br:federal:lei:1948-07-31;316",
+"consultado_em": "2026-11-11",
+"codigo": "541513",
+"nome": "Lei nº 316 de 31/07/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-08-05", "descricao": "Publicação Original [Diário Oficial da União de 05/08/1948] (p. 11301, col. 2)"}
+],
+"alteracoes": [
+{"data": "1948-11-10", "nome": "Decreto nº 25.809 de 10/11/1948", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1949-05-10", "nome": "Decreto nº 26.641 de 10/05/1949", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1949-06-01", "nome": "Decreto nº 26.731 de 01/06/1949", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1949-07-06", "nome": "Decreto nº 26.853 de 06/07/1949", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1949-09-29", "nome": "Decreto nº 27.265 de 29/09/1949", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1949-10-27", "nome": "Decreto nº 27.371 de 27/10/1949", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

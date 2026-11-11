@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1947/lei-37-1947-06-02",
+"urn": "urn:lex:br:federal:lei:1947-06-02;37",
+"consultado_em": "2026-11-11",
+"codigo": "540893",
+"nome": "Lei nº 37 de 02/06/1947",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1947-06-09", "descricao": "Publicação Original [Diário Oficial da União de 09/06/1947] (p. 7683, col. 1)"}
+],
+"alteracoes": [
+{"data": "1949-05-21", "nome": "Lei nº 708 de 21/05/1949", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1949/lei-708-1949-05-21"},
+{"data": "1981-02-10", "nome": "Decreto-Lei nº 1.856 de 10/02/1981", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1981/del-1856-1981-02-10"}
+],
+"controle": []
+}

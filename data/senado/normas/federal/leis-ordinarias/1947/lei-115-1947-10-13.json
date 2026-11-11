@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1947/lei-115-1947-10-13",
+"urn": "urn:lex:br:federal:lei:1947-10-13;115",
+"consultado_em": "2026-11-11",
+"codigo": "541091",
+"nome": "Lei nº 115 de 13/10/1947",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1947-10-16", "descricao": "Publicação Original [Diário Oficial da União de 16/10/1947] (p. 13397, col. 1)"}
+],
+"alteracoes": [
+{"data": "1952-10-02", "nome": "Lei nº 1.689 de 02/10/1952", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1952/lei-1689-1952-10-02"}
+],
+"controle": []
+}

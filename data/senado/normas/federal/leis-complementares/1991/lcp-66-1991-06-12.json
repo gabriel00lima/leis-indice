@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-complementares/1991/lcp-66-1991-06-12",
+"urn": "urn:lex:br:federal:lei.complementar:1991-06-12;66",
+"consultado_em": "2026-11-11",
+"codigo": "540771",
+"nome": "Lei Complementar nº 66 de 12/06/1991",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1991-06-13", "descricao": "Publicação Original [Diário Oficial da União de 13/06/1991] (p. 11309, col. 1)"}
+],
+"alteracoes": [
+{"data": "2007-01-03", "nome": "Lei Complementar nº 125 de 03/01/2007", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-complementares/2007/lcp-125-2007-01-03"}
+],
+"controle": []
+}

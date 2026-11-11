@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1830/lei-sn-1830-12-16-s0",
+"urn": "urn:lex:br:federal:lei:1830-12-16;seq-sf-0",
+"consultado_em": "2026-11-11",
+"codigo": "572982",
+"nome": "Lei de 16/12/1830",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1830-12-31", "descricao": "Publicação Original [Coleção de Leis do Império do Brasil de 31/12/1830 - vol. 001] (p. 142, col. 1)"}
+],
+"alteracoes": [
+{"data": "1886-10-15", "nome": "Lei nº 3.310 de 15/10/1886", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 60", "art": "60", "acao": "revogou"}], "id": "federal/leis-ordinarias/1886/lei-3310-1886-10-15"},
+{"data": "1886-10-15", "nome": "Lei nº 3.311 de 15/10/1886", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 266", "art": "266", "acao": "revogou"}, {"dispositivo": "Art. 267", "art": "267", "acao": "revogou"}], "id": "federal/leis-ordinarias/1886/lei-3311-1886-10-15"}
+],
+"controle": []
+}

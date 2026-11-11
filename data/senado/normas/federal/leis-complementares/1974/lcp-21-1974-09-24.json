@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-complementares/1974/lcp-21-1974-09-24",
+"urn": "urn:lex:br:federal:lei.complementar:1974-09-24;21",
+"consultado_em": "2026-11-11",
+"codigo": "540726",
+"nome": "Lei Complementar nº 21 de 24/09/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-09-25", "descricao": "Publicação Original [Diário Oficial da União de 25/09/1974] (p. 11013, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-09-12", "nome": "Lei Complementar nº 34 de 12/09/1978", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-complementares/1978/lcp-34-1978-09-12"}
+],
+"controle": []
+}

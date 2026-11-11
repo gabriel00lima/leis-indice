@@ -1,0 +1,17 @@
+{
+"id": "federal/emendas-constitucionais/2016/emc-94-2016-12-15",
+"urn": "urn:lex:br:federal:emenda.constitucional:2016-12-15;94",
+"consultado_em": "2026-11-11",
+"codigo": "540697",
+"nome": "Emenda Constitucional nº 94 de 15/12/2016",
+"apelidos": [
+"PEC DOS PRECATÓRIOS"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2016-12-16", "descricao": "Publicação Original [Diário Oficial da União de 16/12/2016] (p. 1, col. 2)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2023-09-29", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.679 de 29/09/2023", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "efeito": "constitucional", "texto": "Dispositivo com Parte de Texto Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "5679"}}
+]
+}

@@ -1,0 +1,27 @@
+{
+"id": "federal/leis-complementares/2016/lcp-157-2016-12-29",
+"urn": "urn:lex:br:federal:lei.complementar:2016-12-29;157",
+"consultado_em": "2026-11-11",
+"codigo": "572912",
+"nome": "Lei Complementar nº 157 de 29/12/2016",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "ANX", "data": "2016-12-30", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União de 30/12/2016] (p. 2, col. 1)"},
+{"tipo": "PUB", "data": "2016-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/2016] (p. 1, col. 1)"},
+{"tipo": "VEP", "data": "2017-06-01", "descricao": "Publicação de Veto Parcialmente Rejeitado (Seq. 1) [Diário Oficial da União de 01/06/2017] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2016-12-20", "nome": "Mensagem de Veto Parcial nº 720 de 20/12/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-12-20", "nome": "Mensagem de Veto Parcial nº 720 de 20/12/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-12-20", "nome": "Mensagem de Veto Parcial nº 720 de 20/12/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-12-20", "nome": "Mensagem de Veto Parcial nº 720 de 20/12/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-12-20", "nome": "Mensagem de Veto Parcial nº 720 de 20/12/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-12-20", "nome": "Mensagem de Veto Parcial nº 720 de 20/12/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-12-20", "nome": "Mensagem de Veto Parcial nº 720 de 20/12/2016", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": [
+{"data": "2023-06-02", "nome": "Acórdão da Arguição de Descumprimento de Preceito Fundamental nº 499 de 02/06/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}], "decisao": {"classe": "ADPF", "numero": "499"}},
+{"data": "2023-06-02", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.835 de 02/06/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}], "decisao": {"classe": "ADI", "numero": "5835"}},
+{"data": "2023-06-02", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.862 de 02/06/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}], "decisao": {"classe": "ADI", "numero": "5862"}}
+]
+}

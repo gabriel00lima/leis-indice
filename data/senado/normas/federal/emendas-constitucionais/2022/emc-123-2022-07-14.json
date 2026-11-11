@@ -1,0 +1,15 @@
+{
+"id": "federal/emendas-constitucionais/2022/emc-123-2022-07-14",
+"urn": "urn:lex:br:federal:emenda.constitucional:2022-07-14;123",
+"consultado_em": "2026-11-11",
+"codigo": "36089312",
+"nome": "Emenda Constitucional nº 123 de 14/07/2022",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2022-07-15", "descricao": "Publicação Original [Diário Oficial da União de 15/07/2022] (p. 1, col. 1)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2024-08-01", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 7.212 de 01/08/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade de Parte do Texto"}, {"dispositivo": "Art. 3", "art": "3", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}, {"dispositivo": "Art. 5", "art": "5", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}, {"dispositivo": "Art. 6, caput", "art": "6", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}], "decisao": {"classe": "ADI", "numero": "7212"}}
+]
+}

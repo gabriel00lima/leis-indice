@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-268-1948-02-28",
+"urn": "urn:lex:br:federal:lei:1948-02-28;268",
+"consultado_em": "2026-11-11",
+"codigo": "541410",
+"nome": "Lei nº 268 de 28/02/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-03-05", "descricao": "Publicação Original [Diário Oficial da União de 05/03/1948] (p. 3361, col. 2)"}
+],
+"alteracoes": [
+{"data": "1967-02-25", "nome": "Decreto-Lei nº 200 de 25/02/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1967/del-200-1967-02-25"}
+],
+"controle": []
+}

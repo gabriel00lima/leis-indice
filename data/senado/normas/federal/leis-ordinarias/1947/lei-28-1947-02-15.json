@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1947/lei-28-1947-02-15",
+"urn": "urn:lex:br:federal:lei:1947-02-15;28",
+"consultado_em": "2026-11-11",
+"codigo": "540869",
+"nome": "Lei nº 28 de 15/02/1947",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1947-02-25", "descricao": "Publicação Original [Diário Oficial da União de 25/02/1947] (p. 2433, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-03-31", "nome": "Decreto nº 58.130 de 31/03/1966", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1969-07-25", "nome": "Decreto-Lei nº 705 de 25/07/1969", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1969/del-705-1969-07-25"}
+],
+"controle": []
+}

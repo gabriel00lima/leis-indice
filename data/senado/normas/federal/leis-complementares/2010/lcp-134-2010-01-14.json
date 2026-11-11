@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-complementares/2010/lcp-134-2010-01-14",
+"urn": "urn:lex:br:federal:lei.complementar:2010-01-14;134",
+"consultado_em": "2026-11-11",
+"codigo": "572889",
+"nome": "Lei Complementar nº 134 de 14/01/2010",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2010-01-15", "descricao": "Publicação Original [Diário Oficial da União de 15/01/2010] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2010-03-29", "nome": "Decreto nº 7.138 de 29/03/2010", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 1", "art": "2", "acao": "regulamentou"}]},
+{"data": "2023-03-10", "nome": "Decreto nº 11.435 de 10/03/2023", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

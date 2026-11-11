@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-381-1948-09-14",
+"urn": "urn:lex:br:federal:lei:1948-09-14;381",
+"consultado_em": "2026-11-11",
+"codigo": "541656",
+"nome": "Lei nº 381 de 14/09/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-09-18", "descricao": "Publicação Original [Diário Oficial da União de 18/09/1948] (p. 13629, col. 2)"}
+],
+"alteracoes": [
+{"data": "1948-12-14", "nome": "Decreto nº 26.025 de 14/12/1948", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

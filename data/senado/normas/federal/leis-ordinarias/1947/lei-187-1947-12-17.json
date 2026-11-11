@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1947/lei-187-1947-12-17",
+"urn": "urn:lex:br:federal:lei:1947-12-17;187",
+"consultado_em": "2026-11-11",
+"codigo": "541245",
+"nome": "Lei nº 187 de 17/12/1947",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1947-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/1947] (p. 16054, col. 3)"}
+],
+"alteracoes": [
+{"data": "1968-07-18", "nome": "Lei nº 5.474 de 18/07/1968", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1968/lei-5474-1968-07-18"}
+],
+"controle": []
+}

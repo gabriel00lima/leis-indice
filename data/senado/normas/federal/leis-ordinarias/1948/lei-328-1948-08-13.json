@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-328-1948-08-13",
+"urn": "urn:lex:br:federal:lei:1948-08-13;328",
+"consultado_em": "2026-11-11",
+"codigo": "541539",
+"nome": "Lei nº 328 de 13/08/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-08-19", "descricao": "Publicação Original [Diário Oficial da União de 19/08/1948] (p. 11973, col. 1)"}
+],
+"alteracoes": [
+{"data": "1949-02-09", "nome": "Decreto nº 26.333 de 09/02/1949", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

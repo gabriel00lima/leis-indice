@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-388-1948-09-18",
+"urn": "urn:lex:br:federal:lei:1948-09-18;388",
+"consultado_em": "2026-11-11",
+"codigo": "541672",
+"nome": "Lei nº 388 de 18/09/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-09-25", "descricao": "Publicação Original [Diário Oficial da União de 25/09/1948] (p. 14013, col. 1)"}
+],
+"alteracoes": [
+{"data": "1950-06-07", "nome": "Lei nº 1.125 de 07/06/1950", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1950/lei-1125-1950-06-07"},
+{"data": "1963-01-21", "nome": "Decreto do Conselho de MInistros nº 2.097 de 21/01/1963", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Alínea d", "art": "1", "acao": "suspensão"}]},
+{"data": "1964-08-17", "nome": "Lei nº 4.378 de 17/08/1964", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4378-1964-08-17"}
+],
+"controle": []
+}

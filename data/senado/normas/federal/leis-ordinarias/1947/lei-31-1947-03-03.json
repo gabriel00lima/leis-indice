@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1947/lei-31-1947-03-03",
+"urn": "urn:lex:br:federal:lei:1947-03-03;31",
+"consultado_em": "2026-11-11",
+"codigo": "540877",
+"nome": "Lei nº 31 de 03/03/1947",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1947-03-12", "descricao": "Publicação Original [Diário Oficial da União de 12/03/1947] (p. 3273, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-04-25", "nome": "Decreto nº 81.601 de 25/04/1978", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

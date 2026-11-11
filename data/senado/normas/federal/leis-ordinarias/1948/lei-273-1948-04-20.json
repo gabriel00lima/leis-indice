@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-273-1948-04-20",
+"urn": "urn:lex:br:federal:lei:1948-04-20;273",
+"consultado_em": "2026-11-11",
+"codigo": "541420",
+"nome": "Lei nº 273 de 20/04/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-04-26", "descricao": "Publicação Original [Diário Oficial da União de 26/04/1948] (p. 6501, col. 2)"}
+],
+"alteracoes": [
+{"data": "1965-11-13", "nome": "Decreto-Lei nº 1 de 13/11/1965", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1965/del-1-1965-11-13"}
+],
+"controle": []
+}

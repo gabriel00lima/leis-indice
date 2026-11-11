@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-complementares/1999/lcp-100-1999-12-22",
+"urn": "urn:lex:br:federal:lei.complementar:1999-12-22;100",
+"consultado_em": "2026-11-11",
+"codigo": "572855",
+"nome": "Lei Complementar nº 100 de 22/12/1999",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1999-12-23", "descricao": "Publicação Original [Diário Oficial da União de 23/12/1999] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2003-07-31", "nome": "Lei Complementar nº 116 de 31/07/2003", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-complementares/2003/lcp-116-2003-07-31"}
+],
+"controle": []
+}

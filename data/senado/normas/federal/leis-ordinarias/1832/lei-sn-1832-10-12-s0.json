@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1832/lei-sn-1832-10-12-s0",
+"urn": "urn:lex:br:federal:lei:1832-10-12;seq-sf-0",
+"consultado_em": "2026-11-11",
+"codigo": "573006",
+"nome": "Lei de 12/10/1832",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1832-12-31", "descricao": "Publicação Original [Coleção de Leis do Império do Brasil de 31/12/1832 - vol. 001] (p. 106, col. 1)"}
+],
+"alteracoes": [
+{"data": "1834-08-12", "nome": "Lei nº 16 de 12/08/1834", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1834/lei-16-1834-08-12"}
+],
+"controle": []
+}

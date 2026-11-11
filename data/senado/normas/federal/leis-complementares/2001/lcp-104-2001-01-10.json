@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-complementares/2001/lcp-104-2001-01-10",
+"urn": "urn:lex:br:federal:lei.complementar:2001-01-10;104",
+"consultado_em": "2026-11-11",
+"codigo": "572859",
+"nome": "Lei Complementar nº 104 de 10/01/2001",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2001-01-11", "descricao": "Publicação Original [Diário Oficial da União de 11/01/2001] (p. 1, col. 1)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2022-04-08", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.446 de 08/04/2022", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "constitucional", "texto": "Dispositivo com Parte de Texto Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "2446"}}
+]
+}

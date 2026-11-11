@@ -1,0 +1,29 @@
+{
+"id": "federal/leis-complementares/2023/lcp-199-2023-08-01",
+"urn": "urn:lex:br:federal:lei.complementar:2023-08-01;199",
+"consultado_em": "2026-11-11",
+"codigo": "37441052",
+"nome": "Lei Complementar nº 199 de 01/08/2023",
+"apelidos": [
+"Estatuto Nacional de Simplificação de Obrigações Tributárias Acessórias"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2023-08-02", "descricao": "Publicação Original [Diário Oficial da União de 02/08/2023] (p. 1, col. 1)"},
+{"tipo": "VEP", "data": "2023-12-22", "descricao": "Publicação de Veto Parcialmente Rejeitado (Seq. 1) [Diário Oficial da União - Edição Extra de 22/12/2023 - nº 243-C] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2023-08-01", "nome": "Mensagem de Veto Parcial nº 373 de 01/08/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-08-01", "nome": "Mensagem de Veto Parcial nº 373 de 01/08/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-08-01", "nome": "Mensagem de Veto Parcial nº 373 de 01/08/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-08-01", "nome": "Mensagem de Veto Parcial nº 373 de 01/08/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-08-01", "nome": "Mensagem de Veto Parcial nº 373 de 01/08/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-08-01", "nome": "Mensagem de Veto Parcial nº 373 de 01/08/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-08-01", "nome": "Mensagem de Veto Parcial nº 373 de 01/08/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-08-01", "nome": "Mensagem de Veto Parcial nº 373 de 01/08/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-08-01", "nome": "Mensagem de Veto Parcial nº 373 de 01/08/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-08-01", "nome": "Mensagem de Veto Parcial nº 373 de 01/08/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-08-01", "nome": "Mensagem de Veto Parcial nº 373 de 01/08/2023", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2023-08-01", "nome": "Mensagem de Veto Parcial nº 373 de 01/08/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 2", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 1, caput, Inciso 3", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 1, caput, Inciso 7", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 1, § 4", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 3, § 1, Inciso 2", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, § 4, Inciso 5", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 6, caput", "art": "6", "acao": "veto"}, {"dispositivo": "Art. 8, caput", "art": "8", "acao": "veto"}, {"dispositivo": "Art. 10, caput", "art": "10", "acao": "veto"}]}
+],
+"controle": []
+}

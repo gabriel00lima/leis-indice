@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-378-1948-09-10",
+"urn": "urn:lex:br:federal:lei:1948-09-10;378",
+"consultado_em": "2026-11-11",
+"codigo": "541650",
+"nome": "Lei nº 378 de 10/09/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-09-15", "descricao": "Publicação Original [Diário Oficial da União de 15/09/1948] (p. 13397, col. 3)"}
+],
+"alteracoes": [
+{"data": "1972-11-20", "nome": "Decreto nº 71.407 de 20/11/1972", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1978-03-17", "nome": "Decreto nº 81.454 de 17/03/1978", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

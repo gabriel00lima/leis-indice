@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-387-1948-09-17",
+"urn": "urn:lex:br:federal:lei:1948-09-17;387",
+"consultado_em": "2026-11-11",
+"codigo": "541670",
+"nome": "Lei nº 387 de 17/09/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-09-20", "descricao": "Publicação Original [Diário Oficial da União de 20/09/1948] (p. 13677, col. 2)"}
+],
+"alteracoes": [
+{"data": "1949-01-10", "nome": "Decreto nº 26.164 de 10/01/1949", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}
