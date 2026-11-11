@@ -1,0 +1,69 @@
+name: Localidades do IBGE
+
+on:
+  schedule:
+    - cron: "0 7 1 * *"   # dia 1 de cada mês, 04:00 em Brasília (municípios mudam raramente)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "ibge/**"
+      - ".github/workflows/ibge.yml"
+  pull_request:
+    paths:
+      - "ibge/**"
+      - "site/js/localidades.js"
+      - ".github/workflows/ibge.yml"
+
+permissions:
+  contents: write   # commitar data/ibge/
+  actions: write    # disparar o deploy do site
+
+concurrency:
+  group: ibge-${{ github.event_name == 'pull_request' && github.ref || 'main' }}
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Testes
+        run: python -m unittest discover -s ibge/tests -v
+
+      - name: Checar sintaxe do utilitário do site
+        run: node --check site/js/localidades.js
+
+      # Em PRs só confere que a API responde e os dados passam na validação.
+      - name: Coletar da API do IBGE
+        run: python ibge/coletar.py --saida data/ibge
+
+      - name: Commitar
+        id: commit
+        if: github.event_name != 'pull_request'
+        run: |
+          git add data/ibge/
+          if git diff --cached --quiet; then
+            echo "Nada mudou."; echo "commitou=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "ibge: atualiza estados e municípios"
+          for i in 1 2 3 4; do
+            git pull --rebase -q origin "${GITHUB_REF_NAME}" && git push -q && break
+            sleep $((i * 5))
+          done
+          echo "commitou=true" >> "$GITHUB_OUTPUT"
+
+      # Commits com o GITHUB_TOKEN não disparam outros workflows por push.
+      - name: Disparar deploy do site
+        if: steps.commit.outputs.commitou == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-site.yml --ref "${GITHUB_REF_NAME}" || echo "deploy-site.yml não disparado"
