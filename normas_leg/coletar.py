@@ -278,7 +278,7 @@ def sem_texto_no_acervo(fonte: Path, ids: set[str]) -> set[str]:
     if not pequenos:
         return set()
     conteudo = subprocess.run(["git", "-C", str(fonte), "cat-file", "--batch"],
-                              input="\n".join(pequenos) + "\n", capture_output=True, check=True).stdout
+                              input=("\n".join(pequenos) + "\n").encode(), capture_output=True, check=True).stdout
     out, i = set(), 0
     while i < len(conteudo):
         fim = conteudo.index(b"\n", i)
