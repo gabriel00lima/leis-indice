@@ -1,0 +1,6096 @@
+{
+"constituicao": {
+"v": 1,
+"em": "2026-11-12T18:15:44+00:00",
+"r": "estruturado",
+"n": 276
+},
+"federal/decretos-lei/1940/del-2848-1940-12-07": {
+"v": 1,
+"em": "2026-11-12T18:15:48+00:00",
+"r": "sem_estrutura"
+},
+"federal/decretos-lei/1941/del-3689-1941-10-03": {
+"v": 1,
+"em": "2026-11-12T18:15:55+00:00",
+"r": "sem_estrutura"
+},
+"federal/decretos-lei/1941/del-6730-1941-01-17": {
+"v": 1,
+"em": "2026-11-12T18:16:11+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/decretos-lei/1942/del-4657-1942-09-04": {
+"v": 1,
+"em": "2026-11-12T18:16:09+00:00",
+"r": "sem_estrutura"
+},
+"federal/decretos-lei/1943/del-5389-1943-04-12": {
+"v": 1,
+"em": "2026-11-12T18:16:12+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/decretos-lei/1943/del-5452-1943-05-01": {
+"v": 1,
+"em": "2026-11-12T18:15:50+00:00",
+"r": "sem_estrutura"
+},
+"federal/decretos-lei/1943/del-6075-1943-12-08": {
+"v": 1,
+"em": "2026-11-12T18:16:13+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/decretos-lei/1944/del-6378-1944-03-28": {
+"v": 1,
+"em": "2026-11-12T18:16:15+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/decretos-lei/1946/del-9410-1946-06-28": {
+"v": 1,
+"em": "2026-11-12T18:16:16+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/decretos-lei/1979/del-1659-1979-01-24": {
+"v": 1,
+"em": "2026-11-12T18:16:17+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/decretos-lei/1979/del-1700-1979-10-18": {
+"v": 1,
+"em": "2026-11-12T18:16:18+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/decretos-lei/1979/del-1716-1979-11-21": {
+"v": 1,
+"em": "2026-11-12T18:16:19+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/decretos-lei/1981/del-1854-1981-02-10": {
+"v": 1,
+"em": "2026-11-12T18:16:21+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/decretos-lei/1982/del-1944-1982-06-15": {
+"v": 1,
+"em": "2026-11-12T18:16:22+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/decretos-lei/1982/del-1973-1982-11-30": {
+"v": 1,
+"em": "2026-11-12T18:16:23+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/decretos-lei/1983/del-2018-1983-03-22": {
+"v": 1,
+"em": "2026-11-12T18:16:25+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/decretos-lei/1985/del-2273-1985-03-15": {
+"v": 1,
+"em": "2026-11-12T18:16:26+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/decretos-lei/1985/del-2274-1985-03-15": {
+"v": 1,
+"em": "2026-11-12T18:16:27+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/decretos-lei/1985/del-2275-1985-03-15": {
+"v": 1,
+"em": "2026-11-12T18:16:28+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/decretos-lei/1985/del-2276-1985-03-18": {
+"v": 1,
+"em": "2026-11-12T18:16:30+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/decretos-lei/1988/del-2451-1988-07-29": {
+"v": 1,
+"em": "2026-11-12T18:16:31+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/emendas-constitucionais/1969/emc-1-1969-10-17": {
+"v": 1,
+"em": "2026-11-12T18:20:36+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1972/emc-2-1972-05-09": {
+"v": 1,
+"em": "2026-11-12T18:20:37+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1972/emc-3-1972-06-15": {
+"v": 1,
+"em": "2026-11-12T18:20:38+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1975/emc-4-1975-04-23": {
+"v": 1,
+"em": "2026-11-12T18:20:39+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1975/emc-5-1975-06-28": {
+"v": 1,
+"em": "2026-11-12T18:20:41+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1976/emc-6-1976-06-04": {
+"v": 1,
+"em": "2026-11-12T18:20:42+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1977/emc-10-1977-11-14": {
+"v": 1,
+"em": "2026-11-12T18:20:43+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1977/emc-7-1977-04-13": {
+"v": 1,
+"em": "2026-11-12T18:20:44+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1977/emc-8-1977-04-14": {
+"v": 1,
+"em": "2026-11-12T18:20:45+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1977/emc-9-1977-06-28": {
+"v": 1,
+"em": "2026-11-12T18:20:47+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1978/emc-11-1978-10-13": {
+"v": 1,
+"em": "2026-11-12T18:20:48+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1978/emc-12-1978-10-17": {
+"v": 1,
+"em": "2026-11-12T18:20:49+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1979/emc-13-1979-10-10": {
+"v": 1,
+"em": "2026-11-12T18:20:50+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1980/emc-14-1980-09-09": {
+"v": 1,
+"em": "2026-11-12T18:20:52+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1980/emc-15-1980-11-19": {
+"v": 1,
+"em": "2026-11-12T18:20:53+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1980/emc-16-1980-11-27": {
+"v": 1,
+"em": "2026-11-12T18:20:54+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1980/emc-17-1980-12-02": {
+"v": 1,
+"em": "2026-11-12T18:20:55+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1981/emc-18-1981-06-30": {
+"v": 1,
+"em": "2026-11-12T18:20:56+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1981/emc-19-1981-08-06": {
+"v": 1,
+"em": "2026-11-12T18:20:58+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1981/emc-20-1981-10-20": {
+"v": 1,
+"em": "2026-11-12T18:20:59+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1981/emc-21-1981-10-27": {
+"v": 1,
+"em": "2026-11-12T18:21:00+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1982/emc-22-1982-06-29": {
+"v": 1,
+"em": "2026-11-12T18:21:01+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1983/emc-23-1983-12-01": {
+"v": 1,
+"em": "2026-11-12T18:21:03+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1983/emc-24-1983-12-01": {
+"v": 1,
+"em": "2026-11-12T18:21:04+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1985/emc-25-1985-05-15": {
+"v": 1,
+"em": "2026-11-12T18:21:05+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1985/emc-26-1985-11-27": {
+"v": 1,
+"em": "2026-11-12T18:21:06+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1985/emc-27-1985-11-28": {
+"v": 1,
+"em": "2026-11-12T18:21:07+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1992/emc-1-1992-03-31": {
+"v": 1,
+"em": "2026-11-12T18:21:09+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1992/emc-2-1992-08-25": {
+"v": 1,
+"em": "2026-11-12T18:21:10+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1993/emc-3-1993-03-17": {
+"v": 1,
+"em": "2026-11-12T18:21:11+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1993/emc-4-1993-09-14": {
+"v": 1,
+"em": "2026-11-12T18:21:12+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1994/emr-1-1994-03-01": {
+"v": 1,
+"em": "2026-11-12T18:21:14+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1994/emr-2-1994-06-07": {
+"v": 1,
+"em": "2026-11-12T18:21:15+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1994/emr-3-1994-06-07": {
+"v": 1,
+"em": "2026-11-12T18:21:16+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1994/emr-4-1994-06-07": {
+"v": 1,
+"em": "2026-11-12T18:21:17+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1994/emr-5-1994-06-07": {
+"v": 1,
+"em": "2026-11-12T18:21:19+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1994/emr-6-1994-06-07": {
+"v": 1,
+"em": "2026-11-12T18:21:20+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1995/emc-5-1995-08-15": {
+"v": 1,
+"em": "2026-11-12T18:21:21+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1995/emc-6-1995-08-15": {
+"v": 1,
+"em": "2026-11-12T18:21:22+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1995/emc-7-1995-08-15": {
+"v": 1,
+"em": "2026-11-12T18:21:24+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1995/emc-8-1995-08-15": {
+"v": 1,
+"em": "2026-11-12T18:21:25+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1995/emc-9-1995-11-09": {
+"v": 1,
+"em": "2026-11-12T18:21:26+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1996/emc-10-1996-03-04": {
+"v": 1,
+"em": "2026-11-12T18:21:27+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1996/emc-11-1996-04-30": {
+"v": 1,
+"em": "2026-11-12T18:21:28+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1996/emc-12-1996-08-15": {
+"v": 1,
+"em": "2026-11-12T18:21:30+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1996/emc-13-1996-08-21": {
+"v": 1,
+"em": "2026-11-12T18:21:31+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1996/emc-14-1996-09-12": {
+"v": 1,
+"em": "2026-11-12T18:21:32+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1996/emc-15-1996-09-12": {
+"v": 1,
+"em": "2026-11-12T18:21:33+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1997/emc-16-1997-06-04": {
+"v": 1,
+"em": "2026-11-12T18:21:35+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1997/emc-17-1997-11-22": {
+"v": 1,
+"em": "2026-11-12T18:21:36+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1998/emc-18-1998-02-05": {
+"v": 1,
+"em": "2026-11-12T18:21:37+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1998/emc-19-1998-06-04": {
+"v": 1,
+"em": "2026-11-12T18:21:42+00:00",
+"r": "estruturado",
+"n": 34
+},
+"federal/emendas-constitucionais/1998/emc-20-1998-12-15": {
+"v": 1,
+"em": "2026-11-12T18:21:43+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1999/emc-21-1999-03-18": {
+"v": 1,
+"em": "2026-11-12T18:21:45+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1999/emc-22-1999-03-18": {
+"v": 1,
+"em": "2026-11-12T18:21:46+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1999/emc-23-1999-09-02": {
+"v": 1,
+"em": "2026-11-12T18:21:47+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/1999/emc-24-1999-12-09": {
+"v": 1,
+"em": "2026-11-12T18:21:48+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2000/emc-25-2000-02-14": {
+"v": 1,
+"em": "2026-11-12T18:21:50+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2000/emc-26-2000-02-14": {
+"v": 1,
+"em": "2026-11-12T18:21:51+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2000/emc-27-2000-03-21": {
+"v": 1,
+"em": "2026-11-12T18:21:52+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2000/emc-28-2000-05-25": {
+"v": 1,
+"em": "2026-11-12T18:21:53+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2000/emc-29-2000-09-13": {
+"v": 1,
+"em": "2026-11-12T18:21:55+00:00",
+"r": "estruturado",
+"n": 8
+},
+"federal/emendas-constitucionais/2000/emc-30-2000-09-13": {
+"v": 1,
+"em": "2026-11-12T18:21:56+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2000/emc-31-2000-12-14": {
+"v": 1,
+"em": "2026-11-12T18:21:57+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2001/emc-32-2001-09-11": {
+"v": 1,
+"em": "2026-11-12T18:21:58+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2001/emc-33-2001-12-11": {
+"v": 1,
+"em": "2026-11-12T18:21:59+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2001/emc-34-2001-12-13": {
+"v": 1,
+"em": "2026-11-12T18:22:01+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2001/emc-35-2001-12-20": {
+"v": 1,
+"em": "2026-11-12T18:22:02+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2002/emc-36-2002-05-28": {
+"v": 1,
+"em": "2026-11-12T18:22:03+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2002/emc-37-2002-06-12": {
+"v": 1,
+"em": "2026-11-12T18:22:04+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2002/emc-38-2002-06-12": {
+"v": 1,
+"em": "2026-11-12T18:22:06+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2002/emc-39-2002-12-19": {
+"v": 1,
+"em": "2026-11-12T18:22:07+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2003/emc-40-2003-05-29": {
+"v": 1,
+"em": "2026-11-12T18:22:08+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2003/emc-41-2003-12-19": {
+"v": 1,
+"em": "2026-11-12T18:22:09+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2003/emc-42-2003-12-19": {
+"v": 1,
+"em": "2026-11-12T18:22:11+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2004/emc-43-2004-04-15": {
+"v": 1,
+"em": "2026-11-12T18:22:12+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2004/emc-44-2004-06-30": {
+"v": 1,
+"em": "2026-11-12T18:22:13+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2004/emc-45-2004-12-08": {
+"v": 1,
+"em": "2026-11-12T18:22:18+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2005/emc-46-2005-05-05": {
+"v": 1,
+"em": "2026-11-12T18:22:19+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2005/emc-47-2005-07-05": {
+"v": 1,
+"em": "2026-11-12T18:22:21+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2005/emc-48-2005-08-10": {
+"v": 1,
+"em": "2026-11-12T18:22:22+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2006/emc-49-2006-02-08": {
+"v": 1,
+"em": "2026-11-12T18:22:24+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2006/emc-50-2006-02-14": {
+"v": 1,
+"em": "2026-11-12T18:22:25+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2006/emc-51-2006-02-14": {
+"v": 1,
+"em": "2026-11-12T18:22:27+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2006/emc-52-2006-03-08": {
+"v": 1,
+"em": "2026-11-12T18:22:29+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2006/emc-53-2006-12-19": {
+"v": 1,
+"em": "2026-11-12T18:22:30+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2007/emc-54-2007-09-20": {
+"v": 1,
+"em": "2026-11-12T18:22:32+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2007/emc-55-2007-09-20": {
+"v": 1,
+"em": "2026-11-12T18:22:33+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2007/emc-56-2007-12-20": {
+"v": 1,
+"em": "2026-11-12T18:22:34+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2008/emc-57-2008-12-18": {
+"v": 1,
+"em": "2026-11-12T18:22:35+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2009/emc-58-2009-09-23": {
+"v": 1,
+"em": "2026-11-12T18:22:37+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2009/emc-59-2009-11-11": {
+"v": 1,
+"em": "2026-11-12T18:22:38+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2009/emc-60-2009-11-11": {
+"v": 1,
+"em": "2026-11-12T18:22:39+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2009/emc-61-2009-11-11": {
+"v": 1,
+"em": "2026-11-12T18:22:41+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2009/emc-62-2009-12-09": {
+"v": 1,
+"em": "2026-11-12T18:22:42+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2010/emc-63-2010-02-04": {
+"v": 1,
+"em": "2026-11-12T18:22:43+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2010/emc-64-2010-02-04": {
+"v": 1,
+"em": "2026-11-12T18:22:45+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2010/emc-65-2010-07-13": {
+"v": 1,
+"em": "2026-11-12T18:22:46+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2010/emc-66-2010-07-13": {
+"v": 1,
+"em": "2026-11-12T18:22:48+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2010/emc-67-2010-12-22": {
+"v": 1,
+"em": "2026-11-12T18:22:49+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2011/emc-68-2011-12-21": {
+"v": 1,
+"em": "2026-11-12T18:22:50+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2012/emc-69-2012-03-29": {
+"v": 1,
+"em": "2026-11-12T18:22:51+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2012/emc-70-2012-03-29": {
+"v": 1,
+"em": "2026-11-12T18:22:53+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2012/emc-71-2012-11-29": {
+"v": 1,
+"em": "2026-11-12T18:22:54+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2013/emc-72-2013-04-02": {
+"v": 1,
+"em": "2026-11-12T18:22:56+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2013/emc-73-2013-06-06": {
+"v": 1,
+"em": "2026-11-12T18:22:57+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2013/emc-74-2013-08-06": {
+"v": 1,
+"em": "2026-11-12T18:22:59+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2013/emc-75-2013-10-15": {
+"v": 1,
+"em": "2026-11-12T18:23:00+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2013/emc-76-2013-11-28": {
+"v": 1,
+"em": "2026-11-12T18:23:02+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2014/emc-77-2014-02-11": {
+"v": 1,
+"em": "2026-11-12T18:23:03+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2014/emc-78-2014-05-14": {
+"v": 1,
+"em": "2026-11-12T18:23:04+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2014/emc-79-2014-05-27": {
+"v": 1,
+"em": "2026-11-12T18:23:05+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2014/emc-80-2014-06-04": {
+"v": 1,
+"em": "2026-11-12T18:23:07+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2014/emc-81-2014-06-05": {
+"v": 1,
+"em": "2026-11-12T18:23:08+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2014/emc-82-2014-07-16": {
+"v": 1,
+"em": "2026-11-12T18:23:09+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2014/emc-83-2014-08-05": {
+"v": 1,
+"em": "2026-11-12T18:23:10+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2014/emc-84-2014-12-02": {
+"v": 1,
+"em": "2026-11-12T18:23:11+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2015/emc-85-2015-02-26": {
+"v": 1,
+"em": "2026-11-12T18:23:13+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2015/emc-86-2015-03-17": {
+"v": 1,
+"em": "2026-11-12T18:23:14+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2015/emc-87-2015-04-16": {
+"v": 1,
+"em": "2026-11-12T18:23:15+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2015/emc-88-2015-05-07": {
+"v": 1,
+"em": "2026-11-12T18:23:17+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2015/emc-89-2015-09-15": {
+"v": 1,
+"em": "2026-11-12T18:23:18+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2015/emc-90-2015-09-15": {
+"v": 1,
+"em": "2026-11-12T18:23:19+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2016/emc-91-2016-02-18": {
+"v": 1,
+"em": "2026-11-12T18:23:21+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2016/emc-92-2016-07-12": {
+"v": 1,
+"em": "2026-11-12T18:23:22+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2016/emc-93-2016-09-08": {
+"v": 1,
+"em": "2026-11-12T18:23:23+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2016/emc-94-2016-12-15": {
+"v": 1,
+"em": "2026-11-12T18:23:25+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2016/emc-95-2016-12-15": {
+"v": 1,
+"em": "2026-11-12T18:23:26+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2017/emc-96-2017-06-06": {
+"v": 1,
+"em": "2026-11-12T18:23:27+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2017/emc-97-2017-10-04": {
+"v": 1,
+"em": "2026-11-12T18:23:28+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2017/emc-98-2017-12-06": {
+"v": 1,
+"em": "2026-11-12T18:23:30+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2017/emc-99-2017-12-14": {
+"v": 1,
+"em": "2026-11-12T18:23:31+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2019/emc-100-2019-06-26": {
+"v": 1,
+"em": "2026-11-12T18:23:32+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2019/emc-101-2019-07-03": {
+"v": 1,
+"em": "2026-11-12T18:23:34+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2019/emc-102-2019-09-26": {
+"v": 1,
+"em": "2026-11-12T18:23:35+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2019/emc-103-2019-11-12": {
+"v": 1,
+"em": "2026-11-12T18:23:36+00:00",
+"r": "estruturado",
+"n": 36
+},
+"federal/emendas-constitucionais/2019/emc-104-2019-12-04": {
+"v": 1,
+"em": "2026-11-12T18:23:37+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2019/emc-105-2019-12-12": {
+"v": 1,
+"em": "2026-11-12T18:23:39+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2020/emc-106-2020-05-07": {
+"v": 1,
+"em": "2026-11-12T18:23:40+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2020/emc-107-2020-07-02": {
+"v": 1,
+"em": "2026-11-12T18:23:41+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2020/emc-108-2020-08-26": {
+"v": 1,
+"em": "2026-11-12T18:23:42+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2021/emc-109-2021-03-15": {
+"v": 1,
+"em": "2026-11-12T18:23:44+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2021/emc-110-2021-07-12": {
+"v": 1,
+"em": "2026-11-12T18:23:45+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2021/emc-111-2021-09-28": {
+"v": 1,
+"em": "2026-11-12T18:23:46+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2021/emc-112-2021-10-27": {
+"v": 1,
+"em": "2026-11-12T18:23:47+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2021/emc-113-2021-12-08": {
+"v": 1,
+"em": "2026-11-12T18:23:49+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2021/emc-114-2021-12-16": {
+"v": 1,
+"em": "2026-11-12T18:23:50+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2022/emc-115-2022-02-10": {
+"v": 1,
+"em": "2026-11-12T18:23:51+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2022/emc-116-2022-02-17": {
+"v": 1,
+"em": "2026-11-12T18:23:52+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2022/emc-117-2022-04-05": {
+"v": 1,
+"em": "2026-11-12T18:23:53+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2022/emc-118-2022-04-26": {
+"v": 1,
+"em": "2026-11-12T18:23:55+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2022/emc-119-2022-04-27": {
+"v": 1,
+"em": "2026-11-12T18:23:56+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2022/emc-120-2022-05-05": {
+"v": 1,
+"em": "2026-11-12T18:23:57+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2022/emc-121-2022-05-10": {
+"v": 1,
+"em": "2026-11-12T18:23:58+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2022/emc-122-2022-05-17": {
+"v": 1,
+"em": "2026-11-12T18:24:00+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2022/emc-123-2022-07-14": {
+"v": 1,
+"em": "2026-11-12T18:24:01+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2022/emc-124-2022-07-14": {
+"v": 1,
+"em": "2026-11-12T18:24:02+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2022/emc-125-2022-07-14": {
+"v": 1,
+"em": "2026-11-12T18:24:03+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2022/emc-126-2022-12-21": {
+"v": 1,
+"em": "2026-11-12T18:24:04+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2022/emc-127-2022-12-22": {
+"v": 1,
+"em": "2026-11-12T18:24:06+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2022/emc-128-2022-12-22": {
+"v": 1,
+"em": "2026-11-12T18:24:07+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2023/emc-129-2023-07-05": {
+"v": 1,
+"em": "2026-11-12T18:24:08+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2023/emc-130-2023-10-03": {
+"v": 1,
+"em": "2026-11-12T18:24:09+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2023/emc-131-2023-10-03": {
+"v": 1,
+"em": "2026-11-12T18:24:11+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2023/emc-132-2023-12-20": {
+"v": 1,
+"em": "2026-11-12T18:24:16+00:00",
+"r": "estruturado",
+"n": 23
+},
+"federal/emendas-constitucionais/2024/emc-133-2024-08-22": {
+"v": 1,
+"em": "2026-11-12T18:24:17+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2024/emc-134-2024-09-24": {
+"v": 1,
+"em": "2026-11-12T18:24:19+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2024/emc-135-2024-12-20": {
+"v": 1,
+"em": "2026-11-12T18:24:20+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2025/emc-136-2025-09-09": {
+"v": 1,
+"em": "2026-11-12T18:24:21+00:00",
+"r": "sem_estrutura"
+},
+"federal/emendas-constitucionais/2025/emc-137-2025-12-09": {
+"v": 1,
+"em": "2026-11-12T18:24:22+00:00",
+"r": "estruturado",
+"n": 2
+},
+"federal/emendas-constitucionais/2025/emc-138-2025-12-19": {
+"v": 1,
+"em": "2026-11-12T18:24:23+00:00",
+"r": "estruturado",
+"n": 2
+},
+"federal/emendas-constitucionais/2026/emc-139-2026-05-05": {
+"v": 1,
+"em": "2026-11-12T18:24:25+00:00",
+"r": "estruturado",
+"n": 2
+},
+"federal/leis-complementares/1962/lcp-1-1962-07-17": {
+"v": 1,
+"em": "2026-11-12T18:24:26+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1962/lcp-2-1962-09-16": {
+"v": 1,
+"em": "2026-11-12T18:24:27+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1967/lcp-1-1967-11-09": {
+"v": 1,
+"em": "2026-11-12T18:24:28+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1967/lcp-2-1967-11-29": {
+"v": 1,
+"em": "2026-11-12T18:24:30+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1967/lcp-3-1967-12-07": {
+"v": 1,
+"em": "2026-11-12T18:24:31+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1969/lcp-4-1969-12-02": {
+"v": 1,
+"em": "2026-11-12T18:24:32+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1970/lcp-5-1970-04-29": {
+"v": 1,
+"em": "2026-11-12T18:24:33+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1970/lcp-6-1970-06-30": {
+"v": 1,
+"em": "2026-11-12T18:24:34+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1970/lcp-7-1970-09-07": {
+"v": 1,
+"em": "2026-11-12T18:24:36+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1970/lcp-8-1970-12-03": {
+"v": 1,
+"em": "2026-11-12T18:24:37+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1970/lcp-9-1970-12-11": {
+"v": 1,
+"em": "2026-11-12T18:24:38+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1971/lcp-10-1971-05-06": {
+"v": 1,
+"em": "2026-11-12T18:24:39+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1971/lcp-11-1971-05-25": {
+"v": 1,
+"em": "2026-11-12T18:24:41+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1971/lcp-12-1971-11-08": {
+"v": 1,
+"em": "2026-11-12T18:24:42+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1972/lcp-13-1972-10-11": {
+"v": 1,
+"em": "2026-11-12T18:24:43+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1973/lcp-14-1973-06-08": {
+"v": 1,
+"em": "2026-11-12T18:24:44+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1973/lcp-15-1973-08-13": {
+"v": 1,
+"em": "2026-11-12T18:24:46+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1973/lcp-16-1973-10-30": {
+"v": 1,
+"em": "2026-11-12T18:24:47+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1973/lcp-17-1973-12-12": {
+"v": 1,
+"em": "2026-11-12T18:24:48+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1974/lcp-18-1974-05-10": {
+"v": 1,
+"em": "2026-11-12T18:24:49+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1974/lcp-19-1974-06-25": {
+"v": 1,
+"em": "2026-11-12T18:24:50+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1974/lcp-20-1974-07-01": {
+"v": 1,
+"em": "2026-11-12T18:24:52+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1974/lcp-21-1974-09-24": {
+"v": 1,
+"em": "2026-11-12T18:24:53+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1974/lcp-22-1974-12-09": {
+"v": 1,
+"em": "2026-11-12T18:24:54+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1974/lcp-23-1974-12-19": {
+"v": 1,
+"em": "2026-11-12T18:24:55+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1975/lcp-24-1975-01-07": {
+"v": 1,
+"em": "2026-11-12T18:24:57+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1975/lcp-25-1975-07-02": {
+"v": 1,
+"em": "2026-11-12T18:24:58+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1975/lcp-26-1975-09-11": {
+"v": 1,
+"em": "2026-11-12T18:24:59+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1975/lcp-27-1975-11-03": {
+"v": 1,
+"em": "2026-11-12T18:25:00+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1975/lcp-28-1975-11-18": {
+"v": 1,
+"em": "2026-11-12T18:25:02+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1976/lcp-29-1976-07-05": {
+"v": 1,
+"em": "2026-11-12T18:25:03+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1977/lcp-30-1977-06-27": {
+"v": 1,
+"em": "2026-11-12T18:25:04+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1977/lcp-31-1977-10-11": {
+"v": 1,
+"em": "2026-11-12T18:25:05+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1977/lcp-32-1977-12-26": {
+"v": 1,
+"em": "2026-11-12T18:25:06+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1978/lcp-33-1978-05-16": {
+"v": 1,
+"em": "2026-11-12T18:25:08+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1978/lcp-34-1978-09-12": {
+"v": 1,
+"em": "2026-11-12T18:25:09+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1979/lcp-35-1979-03-14": {
+"v": 1,
+"em": "2026-11-12T18:25:10+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1979/lcp-36-1979-10-31": {
+"v": 1,
+"em": "2026-11-12T18:25:11+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1979/lcp-37-1979-11-13": {
+"v": 1,
+"em": "2026-11-12T18:25:12+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1979/lcp-38-1979-11-13": {
+"v": 1,
+"em": "2026-11-12T18:25:14+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1980/lcp-39-1980-12-10": {
+"v": 1,
+"em": "2026-11-12T18:25:15+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1981/lcp-40-1981-12-14": {
+"v": 1,
+"em": "2026-11-12T18:25:16+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1981/lcp-41-1981-12-22": {
+"v": 1,
+"em": "2026-11-12T18:25:17+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1982/lcp-42-1982-02-01": {
+"v": 1,
+"em": "2026-11-12T18:25:19+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1982/lcp-43-1982-03-31": {
+"v": 1,
+"em": "2026-11-12T18:25:20+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1983/lcp-44-1983-12-07": {
+"v": 1,
+"em": "2026-11-12T18:25:21+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1983/lcp-45-1983-12-14": {
+"v": 1,
+"em": "2026-11-12T18:25:22+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1984/lcp-46-1984-08-21": {
+"v": 1,
+"em": "2026-11-12T18:25:23+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1984/lcp-47-1984-10-22": {
+"v": 1,
+"em": "2026-11-12T18:25:25+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1984/lcp-48-1984-12-10": {
+"v": 1,
+"em": "2026-11-12T18:25:26+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1985/lcp-49-1985-06-27": {
+"v": 1,
+"em": "2026-11-12T18:25:27+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1985/lcp-50-1985-12-19": {
+"v": 1,
+"em": "2026-11-12T18:25:28+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1985/lcp-51-1985-12-20": {
+"v": 1,
+"em": "2026-11-12T18:25:30+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1986/lcp-52-1986-04-16": {
+"v": 1,
+"em": "2026-11-12T18:25:31+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1986/lcp-53-1986-12-19": {
+"v": 1,
+"em": "2026-11-12T18:25:32+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1986/lcp-54-1986-12-22": {
+"v": 1,
+"em": "2026-11-12T18:25:33+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1987/lcp-55-1987-07-10": {
+"v": 1,
+"em": "2026-11-12T18:25:34+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1987/lcp-56-1987-12-15": {
+"v": 1,
+"em": "2026-11-12T18:25:36+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1987/lcp-57-1987-12-18": {
+"v": 1,
+"em": "2026-11-12T18:25:37+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1988/lcp-58-1988-01-21": {
+"v": 1,
+"em": "2026-11-12T18:25:38+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1988/lcp-59-1988-12-22": {
+"v": 1,
+"em": "2026-11-12T18:25:39+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1989/lcp-60-1989-10-06": {
+"v": 1,
+"em": "2026-11-12T18:25:41+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1989/lcp-61-1989-12-26": {
+"v": 1,
+"em": "2026-11-12T18:25:42+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1989/lcp-62-1989-12-28": {
+"v": 1,
+"em": "2026-11-12T18:25:43+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1990/lcp-63-1990-01-11": {
+"v": 1,
+"em": "2026-11-12T18:25:44+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1990/lcp-64-1990-05-18": {
+"v": 1,
+"em": "2026-11-12T18:25:45+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1991/lcp-65-1991-04-15": {
+"v": 1,
+"em": "2026-11-12T18:25:47+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1991/lcp-66-1991-06-12": {
+"v": 1,
+"em": "2026-11-12T18:25:48+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1991/lcp-67-1991-06-13": {
+"v": 1,
+"em": "2026-11-12T18:25:49+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1991/lcp-68-1991-06-13": {
+"v": 1,
+"em": "2026-11-12T18:25:50+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1991/lcp-69-1991-07-23": {
+"v": 1,
+"em": "2026-11-12T18:25:52+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1991/lcp-70-1991-12-30": {
+"v": 1,
+"em": "2026-11-12T18:25:53+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1992/lcp-71-1992-09-03": {
+"v": 1,
+"em": "2026-11-12T18:25:54+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1993/lcp-72-1993-01-29": {
+"v": 1,
+"em": "2026-11-12T18:25:55+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1993/lcp-73-1993-02-10": {
+"v": 1,
+"em": "2026-11-12T18:25:57+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1993/lcp-74-1993-04-30": {
+"v": 1,
+"em": "2026-11-12T18:25:58+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1993/lcp-75-1993-05-20": {
+"v": 1,
+"em": "2026-11-12T18:25:59+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1993/lcp-76-1993-07-06": {
+"v": 1,
+"em": "2026-11-12T18:26:00+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1993/lcp-77-1993-07-13": {
+"v": 1,
+"em": "2026-11-12T18:26:01+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1993/lcp-78-1993-12-30": {
+"v": 1,
+"em": "2026-11-12T18:26:03+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1994/lcp-79-1994-01-07": {
+"v": 1,
+"em": "2026-11-12T18:26:04+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1994/lcp-80-1994-01-12": {
+"v": 1,
+"em": "2026-11-12T18:26:05+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1994/lcp-81-1994-04-13": {
+"v": 1,
+"em": "2026-11-12T18:26:06+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1995/lcp-82-1995-03-27": {
+"v": 1,
+"em": "2026-11-12T18:26:08+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1995/lcp-83-1995-09-12": {
+"v": 1,
+"em": "2026-11-12T18:26:09+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1996/lcp-84-1996-01-18": {
+"v": 1,
+"em": "2026-11-12T18:26:10+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1996/lcp-85-1996-02-15": {
+"v": 1,
+"em": "2026-11-12T18:26:11+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1996/lcp-86-1996-05-14": {
+"v": 1,
+"em": "2026-11-12T18:26:12+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1996/lcp-87-1996-09-13": {
+"v": 1,
+"em": "2026-11-12T18:26:14+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1996/lcp-88-1996-12-23": {
+"v": 1,
+"em": "2026-11-12T18:26:15+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1997/lcp-89-1997-02-18": {
+"v": 1,
+"em": "2026-11-12T18:26:16+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1997/lcp-90-1997-10-01": {
+"v": 1,
+"em": "2026-11-12T18:26:17+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1997/lcp-91-1997-12-22": {
+"v": 1,
+"em": "2026-11-12T18:26:18+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1997/lcp-92-1997-12-23": {
+"v": 1,
+"em": "2026-11-12T18:26:20+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1998/lcp-93-1998-02-04": {
+"v": 1,
+"em": "2026-11-12T18:26:21+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1998/lcp-94-1998-02-19": {
+"v": 1,
+"em": "2026-11-12T18:26:22+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1998/lcp-95-1998-02-26": {
+"v": 1,
+"em": "2026-11-12T18:26:24+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1999/lcp-100-1999-12-22": {
+"v": 1,
+"em": "2026-11-12T18:26:25+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1999/lcp-96-1999-05-31": {
+"v": 1,
+"em": "2026-11-12T18:26:27+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1999/lcp-97-1999-06-09": {
+"v": 1,
+"em": "2026-11-12T18:26:28+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1999/lcp-98-1999-12-03": {
+"v": 1,
+"em": "2026-11-12T18:26:29+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/1999/lcp-99-1999-12-20": {
+"v": 1,
+"em": "2026-11-12T18:26:31+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2000/lcp-101-2000-05-04": {
+"v": 1,
+"em": "2026-11-12T18:16:07+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2000/lcp-102-2000-07-11": {
+"v": 1,
+"em": "2026-11-12T18:26:32+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2000/lcp-103-2000-07-14": {
+"v": 1,
+"em": "2026-11-12T18:26:33+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2001/lcp-104-2001-01-10": {
+"v": 1,
+"em": "2026-11-12T18:26:35+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2001/lcp-105-2001-01-10": {
+"v": 1,
+"em": "2026-11-12T18:26:36+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2001/lcp-106-2001-03-23": {
+"v": 1,
+"em": "2026-11-12T18:26:37+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2001/lcp-107-2001-04-26": {
+"v": 1,
+"em": "2026-11-12T18:26:39+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2001/lcp-108-2001-05-29": {
+"v": 1,
+"em": "2026-11-12T18:26:41+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2001/lcp-109-2001-05-29": {
+"v": 1,
+"em": "2026-11-12T18:26:42+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2001/lcp-110-2001-06-29": {
+"v": 1,
+"em": "2026-11-12T18:26:43+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2001/lcp-111-2001-07-06": {
+"v": 1,
+"em": "2026-11-12T18:26:44+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2001/lcp-112-2001-09-19": {
+"v": 1,
+"em": "2026-11-12T18:26:46+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2001/lcp-113-2001-09-19": {
+"v": 1,
+"em": "2026-11-12T18:26:47+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2002/lcp-114-2002-12-16": {
+"v": 1,
+"em": "2026-11-12T18:26:48+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2002/lcp-115-2002-12-26": {
+"v": 1,
+"em": "2026-11-12T18:26:50+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2003/lcp-116-2003-07-31": {
+"v": 1,
+"em": "2026-11-12T18:26:51+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2004/lcp-117-2004-09-02": {
+"v": 1,
+"em": "2026-11-12T18:26:52+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2005/lcp-118-2005-02-09": {
+"v": 1,
+"em": "2026-11-12T18:26:53+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2005/lcp-119-2005-10-19": {
+"v": 1,
+"em": "2026-11-12T18:26:54+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2005/lcp-120-2005-12-29": {
+"v": 1,
+"em": "2026-11-12T18:16:32+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-complementares/2006/lcp-121-2006-02-09": {
+"v": 1,
+"em": "2026-11-12T18:26:56+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2006/lcp-122-2006-12-12": {
+"v": 1,
+"em": "2026-11-12T18:26:57+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2006/lcp-123-2006-12-14": {
+"v": 1,
+"em": "2026-11-12T18:26:58+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2007/lcp-124-2007-01-03": {
+"v": 1,
+"em": "2026-11-12T18:27:00+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2007/lcp-125-2007-01-03": {
+"v": 1,
+"em": "2026-11-12T18:27:01+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2007/lcp-126-2007-01-15": {
+"v": 1,
+"em": "2026-11-12T18:27:02+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2007/lcp-127-2007-08-14": {
+"v": 1,
+"em": "2026-11-12T18:27:03+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2008/lcp-128-2008-12-19": {
+"v": 1,
+"em": "2026-11-12T18:27:05+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2009/lcp-129-2009-01-08": {
+"v": 1,
+"em": "2026-11-12T18:27:06+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2009/lcp-130-2009-04-17": {
+"v": 1,
+"em": "2026-11-12T18:27:07+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2009/lcp-131-2009-05-27": {
+"v": 1,
+"em": "2026-11-12T18:27:08+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2009/lcp-132-2009-10-07": {
+"v": 1,
+"em": "2026-11-12T18:27:09+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2009/lcp-133-2009-12-28": {
+"v": 1,
+"em": "2026-11-12T18:27:11+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2010/lcp-134-2010-01-14": {
+"v": 1,
+"em": "2026-11-12T18:27:12+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2010/lcp-135-2010-06-04": {
+"v": 1,
+"em": "2026-11-12T18:27:13+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2010/lcp-136-2010-08-25": {
+"v": 1,
+"em": "2026-11-12T18:27:14+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2010/lcp-137-2010-08-26": {
+"v": 1,
+"em": "2026-11-12T18:27:16+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2010/lcp-138-2010-12-29": {
+"v": 1,
+"em": "2026-11-12T18:27:17+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2011/lcp-139-2011-11-10": {
+"v": 1,
+"em": "2026-11-12T18:27:18+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2011/lcp-140-2011-12-08": {
+"v": 1,
+"em": "2026-11-12T18:16:33+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-complementares/2012/lcp-141-2012-01-13": {
+"v": 1,
+"em": "2026-11-12T18:27:19+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2013/lcp-142-2013-05-08": {
+"v": 1,
+"em": "2026-11-12T18:27:20+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2013/lcp-143-2013-07-17": {
+"v": 1,
+"em": "2026-11-12T18:27:22+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2014/lcp-144-2014-05-15": {
+"v": 1,
+"em": "2026-11-12T18:27:23+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2014/lcp-145-2014-05-15": {
+"v": 1,
+"em": "2026-11-12T18:27:24+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2014/lcp-146-2014-06-25": {
+"v": 1,
+"em": "2026-11-12T18:27:25+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2014/lcp-147-2014-08-07": {
+"v": 1,
+"em": "2026-11-12T18:27:27+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2014/lcp-148-2014-11-25": {
+"v": 1,
+"em": "2026-11-12T18:27:28+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2015/lcp-149-2015-01-12": {
+"v": 1,
+"em": "2026-11-12T18:16:35+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-complementares/2015/lcp-150-2015-06-01": {
+"v": 1,
+"em": "2026-11-12T18:27:29+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2015/lcp-151-2015-08-05": {
+"v": 1,
+"em": "2026-11-12T18:27:30+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2015/lcp-152-2015-12-03": {
+"v": 1,
+"em": "2026-11-12T18:27:31+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2015/lcp-153-2015-12-09": {
+"v": 1,
+"em": "2026-11-12T18:27:33+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2016/lcp-154-2016-04-18": {
+"v": 1,
+"em": "2026-11-12T18:27:34+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2016/lcp-155-2016-10-27": {
+"v": 1,
+"em": "2026-11-12T18:27:35+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2016/lcp-156-2016-12-28": {
+"v": 1,
+"em": "2026-11-12T18:27:36+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2016/lcp-157-2016-12-29": {
+"v": 1,
+"em": "2026-11-12T18:27:38+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2017/lcp-158-2017-02-23": {
+"v": 1,
+"em": "2026-11-12T18:27:39+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2017/lcp-159-2017-05-19": {
+"v": 1,
+"em": "2026-11-12T18:27:44+00:00",
+"r": "estruturado",
+"n": 29
+},
+"federal/leis-complementares/2017/lcp-160-2017-08-07": {
+"v": 1,
+"em": "2026-11-12T18:27:46+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2018/lcp-161-2018-01-04": {
+"v": 1,
+"em": "2026-11-12T18:27:47+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2018/lcp-162-2018-04-06": {
+"v": 1,
+"em": "2026-11-12T18:27:48+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2018/lcp-163-2018-06-14": {
+"v": 1,
+"em": "2026-11-12T18:27:49+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2018/lcp-164-2018-12-18": {
+"v": 1,
+"em": "2026-11-12T18:27:51+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2019/lcp-165-2019-01-03": {
+"v": 1,
+"em": "2026-11-12T18:27:52+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2019/lcp-166-2019-04-08": {
+"v": 1,
+"em": "2026-11-12T18:27:53+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2019/lcp-167-2019-04-24": {
+"v": 1,
+"em": "2026-11-12T18:27:54+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2019/lcp-168-2019-06-12": {
+"v": 1,
+"em": "2026-11-12T18:27:56+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2019/lcp-169-2019-12-02": {
+"v": 1,
+"em": "2026-11-12T18:27:57+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2019/lcp-170-2019-12-19": {
+"v": 1,
+"em": "2026-11-12T18:27:58+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2019/lcp-171-2019-12-27": {
+"v": 1,
+"em": "2026-11-12T18:27:59+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2020/lcp-172-2020-04-15": {
+"v": 1,
+"em": "2026-11-12T18:28:00+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2020/lcp-173-2020-05-27": {
+"v": 1,
+"em": "2026-11-12T18:28:02+00:00",
+"r": "estruturado",
+"n": 12
+},
+"federal/leis-complementares/2020/lcp-174-2020-08-05": {
+"v": 1,
+"em": "2026-11-12T18:28:03+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2020/lcp-175-2020-09-23": {
+"v": 1,
+"em": "2026-11-12T18:28:04+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2020/lcp-176-2020-12-29": {
+"v": 1,
+"em": "2026-11-12T18:28:05+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2021/lcp-177-2021-01-12": {
+"v": 1,
+"em": "2026-11-12T18:28:07+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2021/lcp-178-2021-01-13": {
+"v": 1,
+"em": "2026-11-12T18:28:08+00:00",
+"r": "estruturado",
+"n": 32
+},
+"federal/leis-complementares/2021/lcp-179-2021-02-24": {
+"v": 1,
+"em": "2026-11-12T18:28:09+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2021/lcp-180-2021-04-14": {
+"v": 1,
+"em": "2026-11-12T18:28:10+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2021/lcp-181-2021-05-06": {
+"v": 1,
+"em": "2026-11-12T18:28:12+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2021/lcp-182-2021-06-01": {
+"v": 1,
+"em": "2026-11-12T18:16:36+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-complementares/2021/lcp-183-2021-09-22": {
+"v": 1,
+"em": "2026-11-12T18:28:13+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2021/lcp-184-2021-09-29": {
+"v": 1,
+"em": "2026-11-12T18:28:14+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2021/lcp-185-2021-10-06": {
+"v": 1,
+"em": "2026-11-12T18:28:15+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2021/lcp-186-2021-10-27": {
+"v": 1,
+"em": "2026-11-12T18:28:17+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2021/lcp-187-2021-12-16": {
+"v": 1,
+"em": "2026-11-12T18:28:22+00:00",
+"r": "estruturado",
+"n": 48
+},
+"federal/leis-complementares/2021/lcp-188-2021-12-31": {
+"v": 1,
+"em": "2026-11-12T18:28:23+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2022/lcp-189-2022-01-04": {
+"v": 1,
+"em": "2026-11-12T18:28:25+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2022/lcp-190-2022-01-04": {
+"v": 1,
+"em": "2026-11-12T18:28:26+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2022/lcp-191-2022-03-08": {
+"v": 1,
+"em": "2026-11-12T18:28:27+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2022/lcp-192-2022-03-11": {
+"v": 1,
+"em": "2026-11-12T18:28:28+00:00",
+"r": "estruturado",
+"n": 12
+},
+"federal/leis-complementares/2022/lcp-193-2022-03-17": {
+"v": 1,
+"em": "2026-11-12T18:28:30+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2022/lcp-194-2022-06-23": {
+"v": 1,
+"em": "2026-11-12T18:28:31+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2022/lcp-195-2022-07-08": {
+"v": 1,
+"em": "2026-11-12T18:28:32+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2022/lcp-196-2022-08-24": {
+"v": 1,
+"em": "2026-11-12T18:28:33+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2022/lcp-197-2022-12-06": {
+"v": 1,
+"em": "2026-11-12T18:28:34+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2023/lcp-198-2023-06-28": {
+"v": 1,
+"em": "2026-11-12T18:28:36+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2023/lcp-199-2023-08-01": {
+"v": 1,
+"em": "2026-11-12T18:28:37+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2023/lcp-200-2023-08-30": {
+"v": 1,
+"em": "2026-11-12T18:28:38+00:00",
+"r": "estruturado",
+"n": 19
+},
+"federal/leis-complementares/2023/lcp-201-2023-10-24": {
+"v": 1,
+"em": "2026-11-12T18:28:39+00:00",
+"r": "estruturado",
+"n": 19
+},
+"federal/leis-complementares/2023/lcp-202-2023-12-15": {
+"v": 1,
+"em": "2026-11-12T18:28:41+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2023/lcp-203-2023-12-15": {
+"v": 1,
+"em": "2026-11-12T18:28:42+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2023/lcp-204-2023-12-28": {
+"v": 1,
+"em": "2026-11-12T18:28:43+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2024/lcp-205-2024-05-09": {
+"v": 1,
+"em": "2026-11-12T18:28:45+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2024/lcp-206-2024-05-16": {
+"v": 1,
+"em": "2026-11-12T18:28:46+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2024/lcp-207-2024-05-16": {
+"v": 1,
+"em": "2026-11-12T18:28:47+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2024/lcp-208-2024-07-02": {
+"v": 1,
+"em": "2026-11-12T18:28:48+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2024/lcp-209-2024-10-03": {
+"v": 1,
+"em": "2026-11-12T18:28:49+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2024/lcp-210-2024-11-25": {
+"v": 1,
+"em": "2026-11-12T18:28:51+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2024/lcp-211-2024-12-30": {
+"v": 1,
+"em": "2026-11-12T18:28:52+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2025/lcp-212-2025-01-13": {
+"v": 1,
+"em": "2026-11-12T18:28:53+00:00",
+"r": "estruturado",
+"n": 18
+},
+"federal/leis-complementares/2025/lcp-213-2025-01-15": {
+"v": 1,
+"em": "2026-11-12T18:28:55+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2025/lcp-214-2025-01-16": {
+"v": 1,
+"em": "2026-11-12T18:28:57+00:00",
+"r": "estruturado",
+"n": 580
+},
+"federal/leis-complementares/2025/lcp-215-2025-03-21": {
+"v": 1,
+"em": "2026-11-12T18:28:58+00:00",
+"r": "estruturado",
+"n": 2
+},
+"federal/leis-complementares/2025/lcp-216-2025-07-28": {
+"v": 1,
+"em": "2026-11-12T18:28:59+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2025/lcp-217-2025-09-18": {
+"v": 1,
+"em": "2026-11-12T18:29:00+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2025/lcp-218-2025-09-24": {
+"v": 1,
+"em": "2026-11-12T18:29:02+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2025/lcp-219-2025-09-29": {
+"v": 1,
+"em": "2026-11-12T18:29:03+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-complementares/2025/lcp-220-2025-10-31": {
+"v": 1,
+"em": "2026-11-12T18:29:04+00:00",
+"r": "estruturado",
+"n": 64
+},
+"federal/leis-complementares/2025/lcp-221-2025-11-18": {
+"v": 1,
+"em": "2026-11-12T18:29:05+00:00",
+"r": "estruturado",
+"n": 5
+},
+"federal/leis-complementares/2025/lcp-222-2025-11-26": {
+"v": 1,
+"em": "2026-11-12T18:29:07+00:00",
+"r": "estruturado",
+"n": 26
+},
+"federal/leis-complementares/2025/lcp-223-2025-12-19": {
+"v": 1,
+"em": "2026-11-12T18:29:08+00:00",
+"r": "estruturado",
+"n": 2
+},
+"federal/leis-complementares/2025/lcp-224-2025-12-26": {
+"v": 1,
+"em": "2026-11-12T18:29:09+00:00",
+"r": "estruturado",
+"n": 14
+},
+"federal/leis-complementares/2026/lcp-225-2026-01-08": {
+"v": 1,
+"em": "2026-11-12T18:29:11+00:00",
+"r": "estruturado",
+"n": 58
+},
+"federal/leis-complementares/2026/lcp-226-2026-01-12": {
+"v": 1,
+"em": "2026-11-12T18:29:12+00:00",
+"r": "estruturado",
+"n": 4
+},
+"federal/leis-complementares/2026/lcp-227-2026-01-13": {
+"v": 1,
+"em": "2026-11-12T18:29:14+00:00",
+"r": "estruturado",
+"n": 182
+},
+"federal/leis-complementares/2026/lcp-228-2026-03-19": {
+"v": 1,
+"em": "2026-11-12T18:29:15+00:00",
+"r": "estruturado",
+"n": 5
+},
+"federal/leis-complementares/2026/lcp-229-2026-03-30": {
+"v": 1,
+"em": "2026-11-12T18:29:16+00:00",
+"r": "estruturado",
+"n": 4
+},
+"federal/leis-complementares/2026/lcp-230-2026-04-15": {
+"v": 1,
+"em": "2026-11-12T18:29:17+00:00",
+"r": "estruturado",
+"n": 8
+},
+"federal/leis-complementares/2026/lcp-231-2026-06-16": {
+"v": 1,
+"em": "2026-11-12T18:29:18+00:00",
+"r": "estruturado",
+"n": 4
+},
+"federal/leis-complementares/2026/lcp-232-2026-06-26": {
+"v": 1,
+"em": "2026-11-12T18:29:20+00:00",
+"r": "estruturado",
+"n": 3
+},
+"federal/leis-complementares/2026/lcp-233-2026-07-01": {
+"v": 1,
+"em": "2026-11-12T18:29:21+00:00",
+"r": "estruturado",
+"n": 3
+},
+"federal/leis-complementares/2026/lcp-234-2026-08-06": {
+"v": 1,
+"em": "2026-11-12T18:29:22+00:00",
+"r": "estruturado",
+"n": 3
+},
+"federal/leis-complementares/2026/lcp-235-2026-08-27": {
+"v": 1,
+"em": "2026-11-12T18:29:23+00:00",
+"r": "estruturado",
+"n": 17
+},
+"federal/leis-complementares/2026/lcp-236-2026-09-04": {
+"v": 1,
+"em": "2026-11-12T18:29:25+00:00",
+"r": "estruturado",
+"n": 3
+},
+"federal/leis-complementares/2026/lcp-237-2026-09-15": {
+"v": 1,
+"em": "2026-11-12T18:29:26+00:00",
+"r": "estruturado",
+"n": 4
+},
+"federal/leis-ordinarias/1822/lei-sn-1822-10-14-s2": {
+"v": 1,
+"em": "2026-11-12T18:29:27+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1823/lei-sn-1823-10-20-s0": {
+"v": 1,
+"em": "2026-11-12T18:29:28+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1823/lei-sn-1823-10-20-s1": {
+"v": 1,
+"em": "2026-11-12T18:29:30+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1823/lei-sn-1823-10-20-s2": {
+"v": 1,
+"em": "2026-11-12T18:29:31+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1823/lei-sn-1823-10-20-s3": {
+"v": 1,
+"em": "2026-11-12T18:29:32+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1823/lei-sn-1823-10-20-s4": {
+"v": 1,
+"em": "2026-11-12T18:29:33+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1823/lei-sn-1823-10-20-s5": {
+"v": 1,
+"em": "2026-11-12T18:29:34+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1827/lei-sn-1827-10-15-s27": {
+"v": 1,
+"em": "2026-11-12T18:29:36+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1828/lei-sn-1828-08-26-s0": {
+"v": 1,
+"em": "2026-11-12T18:29:37+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1828/lei-sn-1828-08-27-s0": {
+"v": 1,
+"em": "2026-11-12T18:29:38+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1828/lei-sn-1828-08-29-s0": {
+"v": 1,
+"em": "2026-11-12T18:29:39+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1828/lei-sn-1828-08-30-s0": {
+"v": 1,
+"em": "2026-11-12T18:29:41+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1828/lei-sn-1828-08-30-s1": {
+"v": 1,
+"em": "2026-11-12T18:29:42+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1828/lei-sn-1828-08-30-s2": {
+"v": 1,
+"em": "2026-11-12T18:29:43+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1828/lei-sn-1828-09-06-s0": {
+"v": 1,
+"em": "2026-11-12T18:29:44+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1828/lei-sn-1828-09-18-s0": {
+"v": 1,
+"em": "2026-11-12T18:29:45+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1828/lei-sn-1828-09-20-s0": {
+"v": 1,
+"em": "2026-11-12T18:29:47+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1828/lei-sn-1828-09-22-s0": {
+"v": 1,
+"em": "2026-11-12T18:29:48+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1828/lei-sn-1828-09-23-s0": {
+"v": 1,
+"em": "2026-11-12T18:29:49+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1828/lei-sn-1828-09-24-s0": {
+"v": 1,
+"em": "2026-11-12T18:29:50+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1828/lei-sn-1828-09-24-s1": {
+"v": 1,
+"em": "2026-11-12T18:29:52+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1828/lei-sn-1828-09-25-s0": {
+"v": 1,
+"em": "2026-11-12T18:29:53+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1828/lei-sn-1828-09-25-s1": {
+"v": 1,
+"em": "2026-11-12T18:29:54+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1828/lei-sn-1828-09-25-s2": {
+"v": 1,
+"em": "2026-11-12T18:29:55+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1828/lei-sn-1828-10-01-s0": {
+"v": 1,
+"em": "2026-11-12T18:29:56+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1828/lei-sn-1828-10-01-s1": {
+"v": 1,
+"em": "2026-11-12T18:29:58+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1828/lei-sn-1828-10-06-s0": {
+"v": 1,
+"em": "2026-11-12T18:29:59+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1828/lei-sn-1828-10-08-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:00+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1829/lei-sn-1829-09-22-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:01+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1829/lei-sn-1829-09-23-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:03+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1829/lei-sn-1829-09-24-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:04+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1829/lei-sn-1829-09-24-s1": {
+"v": 1,
+"em": "2026-11-12T18:30:05+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1829/lei-sn-1829-09-24-s2": {
+"v": 1,
+"em": "2026-11-12T18:30:06+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1829/lei-sn-1829-09-25-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:08+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1829/lei-sn-1829-09-26-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:09+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1829/lei-sn-1829-09-26-s1": {
+"v": 1,
+"em": "2026-11-12T18:30:10+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-08-26-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:11+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-08-27-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:12+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-08-27-s1": {
+"v": 1,
+"em": "2026-11-12T18:30:14+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-08-27-s2": {
+"v": 1,
+"em": "2026-11-12T18:30:15+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-08-28-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:16+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-09-10-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:17+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-09-11-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:19+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-09-13-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:20+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-09-20-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:21+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-10-30-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:22+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-11-03-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:24+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-11-24-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:25+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-11-24-s1": {
+"v": 1,
+"em": "2026-11-12T18:30:27+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-11-25-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:28+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-12-04-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:30+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-12-04-s1": {
+"v": 1,
+"em": "2026-11-12T18:30:31+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-12-04-s2": {
+"v": 1,
+"em": "2026-11-12T18:30:33+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-12-07-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:34+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-12-09-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:36+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-12-09-s1": {
+"v": 1,
+"em": "2026-11-12T18:30:37+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-12-15-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:39+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1830/lei-sn-1830-12-16-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:40+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-06-06-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:41+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-06-06-s1": {
+"v": 1,
+"em": "2026-11-12T18:30:43+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-06-07-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:44+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-06-08-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:45+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-06-14-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:47+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-07-17-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:48+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-07-26-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:49+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-08-12-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:51+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-08-18-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:52+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-08-22-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:54+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-08-25-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:55+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-08-30-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:56+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-08-31-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:57+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-10-04-s0": {
+"v": 1,
+"em": "2026-11-12T18:30:58+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-10-10-s0": {
+"v": 1,
+"em": "2026-11-12T18:31:00+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-10-26-s0": {
+"v": 1,
+"em": "2026-11-12T18:31:01+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-10-27-s0": {
+"v": 1,
+"em": "2026-11-12T18:31:03+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-10-27-s1": {
+"v": 1,
+"em": "2026-11-12T18:31:04+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-10-31-s0": {
+"v": 1,
+"em": "2026-11-12T18:31:05+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-10-31-s1": {
+"v": 1,
+"em": "2026-11-12T18:31:06+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-10-31-s2": {
+"v": 1,
+"em": "2026-11-12T18:31:08+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-11-07-s0": {
+"v": 1,
+"em": "2026-11-12T18:31:09+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1831/lei-sn-1831-11-15-s0": {
+"v": 1,
+"em": "2026-11-12T18:31:10+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1832/lei-sn-1832-08-25-s0": {
+"v": 1,
+"em": "2026-11-12T18:31:12+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1832/lei-sn-1832-08-29-s0": {
+"v": 1,
+"em": "2026-11-12T18:31:13+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1832/lei-sn-1832-08-31-s0": {
+"v": 1,
+"em": "2026-11-12T18:31:14+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1832/lei-sn-1832-10-03-s0": {
+"v": 1,
+"em": "2026-11-12T18:31:15+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1832/lei-sn-1832-10-12-s0": {
+"v": 1,
+"em": "2026-11-12T18:31:16+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1832/lei-sn-1832-10-23-s0": {
+"v": 1,
+"em": "2026-11-12T18:31:18+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1832/lei-sn-1832-10-24-s0": {
+"v": 1,
+"em": "2026-11-12T18:31:19+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1832/lei-sn-1832-10-24-s1": {
+"v": 1,
+"em": "2026-11-12T18:31:20+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1832/lei-sn-1832-11-29-s0": {
+"v": 1,
+"em": "2026-11-12T18:31:21+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1833/lei-23-1833-08-12": {
+"v": 1,
+"em": "2026-11-12T18:31:23+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1833/lei-24-1833-08-12": {
+"v": 1,
+"em": "2026-11-12T18:31:24+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1833/lei-31-1833-08-26": {
+"v": 1,
+"em": "2026-11-12T18:31:25+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1833/lei-46-1833-08-30": {
+"v": 1,
+"em": "2026-11-12T18:31:27+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1833/lei-48-1833-09-03": {
+"v": 1,
+"em": "2026-11-12T18:31:28+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1833/lei-52-1833-10-03": {
+"v": 1,
+"em": "2026-11-12T18:31:29+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1833/lei-53-1833-10-07": {
+"v": 1,
+"em": "2026-11-12T18:31:30+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1833/lei-57-1833-10-08": {
+"v": 1,
+"em": "2026-11-12T18:31:32+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1833/lei-58-1833-10-08": {
+"v": 1,
+"em": "2026-11-12T18:31:33+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1833/lei-59-1833-10-08": {
+"v": 1,
+"em": "2026-11-12T18:31:34+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1833/lei-62-1833-10-10": {
+"v": 1,
+"em": "2026-11-12T18:31:35+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1833/lei-66-1833-10-12": {
+"v": 1,
+"em": "2026-11-12T18:31:37+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1834/lei-16-1834-08-12": {
+"v": 1,
+"em": "2026-11-12T18:31:38+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1834/lei-21-1834-08-22": {
+"v": 1,
+"em": "2026-11-12T18:31:39+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1834/lei-22-1834-08-22": {
+"v": 1,
+"em": "2026-11-12T18:31:40+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1834/lei-37-1834-10-01": {
+"v": 1,
+"em": "2026-11-12T18:31:41+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1834/lei-38-1834-10-03": {
+"v": 1,
+"em": "2026-11-12T18:31:43+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1834/lei-40-1834-10-03": {
+"v": 1,
+"em": "2026-11-12T18:31:44+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1835/lei-16-1835-08-27": {
+"v": 1,
+"em": "2026-11-12T18:31:45+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1835/lei-26-1835-09-22": {
+"v": 1,
+"em": "2026-11-12T18:31:46+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1835/lei-32-1835-10-03": {
+"v": 1,
+"em": "2026-11-12T18:31:48+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1835/lei-4-1835-06-10": {
+"v": 1,
+"em": "2026-11-12T18:31:49+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1835/lei-54-1835-10-06": {
+"v": 1,
+"em": "2026-11-12T18:31:50+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1835/lei-57-1835-10-06": {
+"v": 1,
+"em": "2026-11-12T18:31:51+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1835/lei-90-1835-10-29": {
+"v": 1,
+"em": "2026-11-12T18:31:53+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1835/lei-91-1835-10-30": {
+"v": 1,
+"em": "2026-11-12T18:31:54+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1835/lei-99-1835-10-31": {
+"v": 1,
+"em": "2026-11-12T18:31:55+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1836/lei-39-1836-10-10": {
+"v": 1,
+"em": "2026-11-12T18:31:56+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1836/lei-40-1836-10-11": {
+"v": 1,
+"em": "2026-11-12T18:31:57+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1836/lei-41-1836-10-14": {
+"v": 1,
+"em": "2026-11-12T18:31:59+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1836/lei-70-1836-10-22": {
+"v": 1,
+"em": "2026-11-12T18:32:00+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1837/lei-106-1837-10-11": {
+"v": 1,
+"em": "2026-11-12T18:32:01+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1837/lei-108-1837-10-11": {
+"v": 1,
+"em": "2026-11-12T18:32:02+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1837/lei-109-1837-10-11": {
+"v": 1,
+"em": "2026-11-12T18:32:04+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1837/lei-143-1837-10-20": {
+"v": 1,
+"em": "2026-11-12T18:32:05+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1837/lei-45-1837-08-29": {
+"v": 1,
+"em": "2026-11-12T18:32:06+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1837/lei-67-1837-09-28": {
+"v": 1,
+"em": "2026-11-12T18:32:07+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1837/lei-68-1837-09-28": {
+"v": 1,
+"em": "2026-11-12T18:32:08+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1837/lei-69-1837-09-30": {
+"v": 1,
+"em": "2026-11-12T18:32:10+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1837/lei-83-1837-10-10": {
+"v": 1,
+"em": "2026-11-12T18:32:11+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1838/lei-41-1838-09-20": {
+"v": 1,
+"em": "2026-11-12T18:32:12+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1838/lei-42-1838-09-20": {
+"v": 1,
+"em": "2026-11-12T18:32:13+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1838/lei-49-1838-09-20": {
+"v": 1,
+"em": "2026-11-12T18:32:15+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1838/lei-60-1838-10-20": {
+"v": 1,
+"em": "2026-11-12T18:32:16+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1839/lei-83-1839-09-17": {
+"v": 1,
+"em": "2026-11-12T18:32:17+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1839/lei-85-1839-09-26": {
+"v": 1,
+"em": "2026-11-12T18:32:18+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1839/lei-86-1839-09-26": {
+"v": 1,
+"em": "2026-11-12T18:32:19+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1840/lei-105-1840-05-12": {
+"v": 1,
+"em": "2026-11-12T18:32:21+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1840/lei-108-1840-05-26": {
+"v": 1,
+"em": "2026-11-12T18:32:22+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1840/lei-148-1840-08-27": {
+"v": 1,
+"em": "2026-11-12T18:32:23+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1840/lei-149-1840-08-27": {
+"v": 1,
+"em": "2026-11-12T18:32:24+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1840/lei-164-1840-09-26": {
+"v": 1,
+"em": "2026-11-12T18:32:26+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1840/lei-166-1840-09-29": {
+"v": 1,
+"em": "2026-11-12T18:32:27+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1841/lei-184-1841-07-05": {
+"v": 1,
+"em": "2026-11-12T18:32:28+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1841/lei-190-1841-08-24": {
+"v": 1,
+"em": "2026-11-12T18:32:29+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1841/lei-192-1841-08-30": {
+"v": 1,
+"em": "2026-11-12T18:32:31+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1841/lei-234-1841-11-23": {
+"v": 1,
+"em": "2026-11-12T18:32:32+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1841/lei-241-1841-11-29": {
+"v": 1,
+"em": "2026-11-12T18:32:33+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1841/lei-242-1841-11-29": {
+"v": 1,
+"em": "2026-11-12T18:32:34+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1841/lei-243-1841-11-30": {
+"v": 1,
+"em": "2026-11-12T18:32:35+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1841/lei-261-1841-12-03": {
+"v": 1,
+"em": "2026-11-12T18:32:37+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1843/lei-281-1843-05-06": {
+"v": 1,
+"em": "2026-11-12T18:32:38+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1843/lei-282-1843-05-24": {
+"v": 1,
+"em": "2026-11-12T18:32:39+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1843/lei-317-1843-10-21": {
+"v": 1,
+"em": "2026-11-12T18:32:40+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1845/lei-341-1845-03-06": {
+"v": 1,
+"em": "2026-11-12T18:32:42+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1845/lei-342-1845-03-06": {
+"v": 1,
+"em": "2026-11-12T18:32:43+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1845/lei-350-1845-06-17": {
+"v": 1,
+"em": "2026-11-12T18:32:44+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1845/lei-369-1845-09-18": {
+"v": 1,
+"em": "2026-11-12T18:32:45+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1846/lei-387-1846-08-19": {
+"v": 1,
+"em": "2026-11-12T18:32:46+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1846/lei-396-1846-09-02": {
+"v": 1,
+"em": "2026-11-12T18:32:48+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1846/lei-401-1846-09-11": {
+"v": 1,
+"em": "2026-11-12T18:32:49+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1848/lei-514-1848-10-28": {
+"v": 1,
+"em": "2026-11-12T18:32:50+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1850/lei-534-1850-05-03": {
+"v": 1,
+"em": "2026-11-12T18:32:51+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1850/lei-552-1850-05-31": {
+"v": 1,
+"em": "2026-11-12T18:32:53+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1850/lei-555-1850-06-15": {
+"v": 1,
+"em": "2026-11-12T18:32:54+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1850/lei-556-1850-06-25": {
+"v": 1,
+"em": "2026-11-12T18:32:55+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1850/lei-567-1850-07-22": {
+"v": 1,
+"em": "2026-11-12T18:32:56+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1850/lei-581-1850-09-04": {
+"v": 1,
+"em": "2026-11-12T18:32:58+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1850/lei-582-1850-09-05": {
+"v": 1,
+"em": "2026-11-12T18:32:59+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1850/lei-585-1850-09-06": {
+"v": 1,
+"em": "2026-11-12T18:33:00+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1850/lei-586-1850-09-06": {
+"v": 1,
+"em": "2026-11-12T18:33:01+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1850/lei-589-1850-09-09": {
+"v": 1,
+"em": "2026-11-12T18:33:02+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1850/lei-599-1850-09-16": {
+"v": 1,
+"em": "2026-11-12T18:33:04+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1850/lei-601-1850-09-18": {
+"v": 1,
+"em": "2026-11-12T18:33:05+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1850/lei-602-1850-09-19": {
+"v": 1,
+"em": "2026-11-12T18:33:06+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1851/lei-609-1851-08-18": {
+"v": 1,
+"em": "2026-11-12T18:33:07+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1851/lei-613-1851-08-21": {
+"v": 1,
+"em": "2026-11-12T18:33:09+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1851/lei-614-1851-08-22": {
+"v": 1,
+"em": "2026-11-12T18:33:10+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1851/lei-615-1851-08-23": {
+"v": 1,
+"em": "2026-11-12T18:33:11+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1851/lei-620-1851-09-02": {
+"v": 1,
+"em": "2026-11-12T18:33:12+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1851/lei-627-1851-09-16": {
+"v": 1,
+"em": "2026-11-12T18:33:14+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1851/lei-628-1851-09-17": {
+"v": 1,
+"em": "2026-11-12T18:33:15+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1851/lei-631-1851-09-18": {
+"v": 1,
+"em": "2026-11-12T18:33:16+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1852/lei-646-1852-07-31": {
+"v": 1,
+"em": "2026-11-12T18:33:17+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1852/lei-647-1852-08-07": {
+"v": 1,
+"em": "2026-11-12T18:33:18+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1852/lei-648-1852-08-18": {
+"v": 1,
+"em": "2026-11-12T18:33:20+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1852/lei-656-1852-08-18": {
+"v": 1,
+"em": "2026-11-12T18:33:21+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1852/lei-668-1852-09-11": {
+"v": 1,
+"em": "2026-11-12T18:33:22+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1853/lei-679-1853-06-25": {
+"v": 1,
+"em": "2026-11-12T18:33:23+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1853/lei-683-1853-07-05": {
+"v": 1,
+"em": "2026-11-12T18:33:25+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1853/lei-693-1853-08-10": {
+"v": 1,
+"em": "2026-11-12T18:33:26+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1853/lei-694-1853-08-10": {
+"v": 1,
+"em": "2026-11-12T18:33:27+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1853/lei-704-1853-08-29": {
+"v": 1,
+"em": "2026-11-12T18:33:28+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1853/lei-715-1853-09-19": {
+"v": 1,
+"em": "2026-11-12T18:33:30+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1853/lei-719-1853-09-28": {
+"v": 1,
+"em": "2026-11-12T18:33:31+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1853/lei-723-1853-09-30": {
+"v": 1,
+"em": "2026-11-12T18:33:32+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1854/lei-752-1854-07-15": {
+"v": 1,
+"em": "2026-11-12T18:33:33+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1854/lei-753-1854-07-15": {
+"v": 1,
+"em": "2026-11-12T18:33:35+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1854/lei-779-1854-09-06": {
+"v": 1,
+"em": "2026-11-12T18:33:36+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1854/lei-799-1854-09-16": {
+"v": 1,
+"em": "2026-11-12T18:33:37+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1855/lei-820-1855-07-14": {
+"v": 1,
+"em": "2026-11-12T18:33:38+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1855/lei-821-1855-07-14": {
+"v": 1,
+"em": "2026-11-12T18:33:39+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1855/lei-834-1855-08-16": {
+"v": 1,
+"em": "2026-11-12T18:33:41+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1855/lei-840-1855-09-15": {
+"v": 1,
+"em": "2026-11-12T18:33:42+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1856/lei-862-1856-07-30": {
+"v": 1,
+"em": "2026-11-12T18:33:43+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1856/lei-863-1856-07-30": {
+"v": 1,
+"em": "2026-11-12T18:33:44+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1856/lei-874-1856-08-23": {
+"v": 1,
+"em": "2026-11-12T18:33:46+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1856/lei-884-1856-10-01": {
+"v": 1,
+"em": "2026-11-12T18:33:47+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1857/lei-903-1857-08-05": {
+"v": 1,
+"em": "2026-11-12T18:33:48+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1857/lei-904-1857-08-08": {
+"v": 1,
+"em": "2026-11-12T18:33:49+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1857/lei-906-1857-08-10": {
+"v": 1,
+"em": "2026-11-12T18:33:50+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1857/lei-939-1857-09-26": {
+"v": 1,
+"em": "2026-11-12T18:33:52+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1858/lei-960-1858-07-22": {
+"v": 1,
+"em": "2026-11-12T18:33:53+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1858/lei-981-1858-09-15": {
+"v": 1,
+"em": "2026-11-12T18:33:54+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1859/lei-1040-1859-09-14": {
+"v": 1,
+"em": "2026-11-12T18:33:55+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1859/lei-1041-1859-09-14": {
+"v": 1,
+"em": "2026-11-12T18:33:57+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1859/lei-1042-1859-09-14": {
+"v": 1,
+"em": "2026-11-12T18:33:58+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1859/lei-1043-1859-09-15": {
+"v": 1,
+"em": "2026-11-12T18:33:59+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1860/lei-1083-1860-08-22": {
+"v": 1,
+"em": "2026-11-12T18:34:00+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1860/lei-1099-1860-09-18": {
+"v": 1,
+"em": "2026-11-12T18:34:01+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1860/lei-1100-1860-09-18": {
+"v": 1,
+"em": "2026-11-12T18:34:03+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1860/lei-1101-1860-09-20": {
+"v": 1,
+"em": "2026-11-12T18:34:04+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1860/lei-1114-1860-09-27": {
+"v": 1,
+"em": "2026-11-12T18:34:05+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1861/lei-1142-1861-09-04": {
+"v": 1,
+"em": "2026-11-12T18:34:06+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1861/lei-1143-1861-09-11": {
+"v": 1,
+"em": "2026-11-12T18:34:08+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1862/lei-1157-1862-06-26": {
+"v": 1,
+"em": "2026-11-12T18:34:09+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1862/lei-1163-1862-07-31": {
+"v": 1,
+"em": "2026-11-12T18:34:10+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1862/lei-1164-1862-08-01": {
+"v": 1,
+"em": "2026-11-12T18:34:11+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1862/lei-1177-1862-09-09": {
+"v": 1,
+"em": "2026-11-12T18:34:12+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1862/lei-1178-1862-09-09": {
+"v": 1,
+"em": "2026-11-12T18:34:14+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1862/lei-1179-1862-09-15": {
+"v": 1,
+"em": "2026-11-12T18:34:15+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1864/lei-1204-1864-05-13": {
+"v": 1,
+"em": "2026-11-12T18:34:16+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1864/lei-1207-1864-05-25": {
+"v": 1,
+"em": "2026-11-12T18:34:17+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1864/lei-1208-1864-05-27": {
+"v": 1,
+"em": "2026-11-12T18:34:19+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1864/lei-1217-1864-07-07": {
+"v": 1,
+"em": "2026-11-12T18:34:20+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1864/lei-1220-1864-07-20": {
+"v": 1,
+"em": "2026-11-12T18:34:21+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1864/lei-1237-1864-09-24": {
+"v": 1,
+"em": "2026-11-12T18:34:22+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1865/lei-1243-1865-06-26": {
+"v": 1,
+"em": "2026-11-12T18:34:23+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1865/lei-1244-1865-06-26": {
+"v": 1,
+"em": "2026-11-12T18:34:25+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1865/lei-1245-1865-06-28": {
+"v": 1,
+"em": "2026-11-12T18:34:27+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1865/lei-1246-1865-06-28": {
+"v": 1,
+"em": "2026-11-12T18:34:28+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1865/lei-1250-1865-07-08": {
+"v": 1,
+"em": "2026-11-12T18:34:30+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1865/lei-1252-1865-07-08": {
+"v": 1,
+"em": "2026-11-12T18:34:31+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1865/lei-1253-1865-07-08": {
+"v": 1,
+"em": "2026-11-12T18:34:33+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1866/lei-1330-1866-08-24": {
+"v": 1,
+"em": "2026-11-12T18:34:34+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1866/lei-1331-1866-08-24": {
+"v": 1,
+"em": "2026-11-12T18:34:35+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1866/lei-1349-1866-09-12": {
+"v": 1,
+"em": "2026-11-12T18:34:36+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1866/lei-1350-1866-09-14": {
+"v": 1,
+"em": "2026-11-12T18:34:38+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1866/lei-1352-1866-09-19": {
+"v": 1,
+"em": "2026-11-12T18:34:39+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1866/lei-1355-1866-09-19": {
+"v": 1,
+"em": "2026-11-12T18:34:40+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1867/lei-1471-1867-09-25": {
+"v": 1,
+"em": "2026-11-12T18:34:42+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1867/lei-1472-1867-09-25": {
+"v": 1,
+"em": "2026-11-12T18:34:43+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1867/lei-1505-1867-09-25": {
+"v": 1,
+"em": "2026-11-12T18:34:45+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1867/lei-1507-1867-09-26": {
+"v": 1,
+"em": "2026-11-12T18:34:46+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1867/lei-1508-1867-09-28": {
+"v": 1,
+"em": "2026-11-12T18:34:48+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1867/lei-1523-1867-09-28": {
+"v": 1,
+"em": "2026-11-12T18:34:49+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1869/lei-1587-1869-06-28": {
+"v": 1,
+"em": "2026-11-12T18:34:51+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1869/lei-1588-1869-06-30": {
+"v": 1,
+"em": "2026-11-12T18:34:52+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1869/lei-1590-1869-06-30": {
+"v": 1,
+"em": "2026-11-12T18:34:53+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1869/lei-1655-1869-08-04": {
+"v": 1,
+"em": "2026-11-12T18:34:55+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1869/lei-1689-1869-08-28": {
+"v": 1,
+"em": "2026-11-12T18:34:56+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1869/lei-1726-1869-09-29": {
+"v": 1,
+"em": "2026-11-12T18:34:57+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1869/lei-1735-1869-10-09": {
+"v": 1,
+"em": "2026-11-12T18:34:58+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1869/lei-1736-1869-10-09": {
+"v": 1,
+"em": "2026-11-12T18:35:00+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1870/lei-1764-1870-06-28": {
+"v": 1,
+"em": "2026-11-12T18:35:01+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1870/lei-1765-1870-06-28": {
+"v": 1,
+"em": "2026-11-12T18:35:02+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1870/lei-1766-1870-07-08": {
+"v": 1,
+"em": "2026-11-12T18:35:03+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1870/lei-1805-1870-08-12": {
+"v": 1,
+"em": "2026-11-12T18:35:05+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1870/lei-1818-1870-09-06": {
+"v": 1,
+"em": "2026-11-12T18:35:06+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1870/lei-1829-1870-09-09": {
+"v": 1,
+"em": "2026-11-12T18:35:07+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1870/lei-1832-1870-09-09": {
+"v": 1,
+"em": "2026-11-12T18:35:09+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1870/lei-1836-1870-09-27": {
+"v": 1,
+"em": "2026-11-12T18:35:10+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1870/lei-1837-1870-09-27": {
+"v": 1,
+"em": "2026-11-12T18:35:11+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1870/lei-1843-1870-10-06": {
+"v": 1,
+"em": "2026-11-12T18:35:12+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1870/lei-1904-1870-10-17": {
+"v": 1,
+"em": "2026-11-12T18:35:14+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1870/lei-1905-1870-10-17": {
+"v": 1,
+"em": "2026-11-12T18:35:15+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1871/lei-1913-1871-05-17": {
+"v": 1,
+"em": "2026-11-12T18:35:16+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1871/lei-1953-1871-07-17": {
+"v": 1,
+"em": "2026-11-12T18:35:17+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1871/lei-1973-1871-08-09": {
+"v": 1,
+"em": "2026-11-12T18:35:19+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1871/lei-1996-1871-08-16": {
+"v": 1,
+"em": "2026-11-12T18:35:20+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1871/lei-1997-1871-08-19": {
+"v": 1,
+"em": "2026-11-12T18:35:21+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1871/lei-2033-1871-09-20": {
+"v": 1,
+"em": "2026-11-12T18:35:22+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1871/lei-2040-1871-09-28": {
+"v": 1,
+"em": "2026-11-12T18:35:24+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1873/lei-2225-1873-04-26": {
+"v": 1,
+"em": "2026-11-12T18:35:25+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1873/lei-2236-1873-04-26": {
+"v": 1,
+"em": "2026-11-12T18:35:26+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1873/lei-2261-1873-05-24": {
+"v": 1,
+"em": "2026-11-12T18:35:27+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1873/lei-2296-1873-06-18": {
+"v": 1,
+"em": "2026-11-12T18:35:29+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1873/lei-2321-1873-07-23": {
+"v": 1,
+"em": "2026-11-12T18:35:30+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1873/lei-2333-1873-08-02": {
+"v": 1,
+"em": "2026-11-12T18:35:31+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1873/lei-2395-1873-09-10": {
+"v": 1,
+"em": "2026-11-12T18:35:32+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1873/lei-2400-1873-09-17": {
+"v": 1,
+"em": "2026-11-12T18:35:33+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1874/lei-2530-1874-09-09": {
+"v": 1,
+"em": "2026-11-12T18:35:35+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1874/lei-2534-1874-09-09": {
+"v": 1,
+"em": "2026-11-12T18:35:36+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1874/lei-2556-1874-09-26": {
+"v": 1,
+"em": "2026-11-12T18:35:37+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1875/lei-2565-1875-05-29": {
+"v": 1,
+"em": "2026-11-12T18:35:38+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1875/lei-2583-1875-06-12": {
+"v": 1,
+"em": "2026-11-12T18:35:39+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1875/lei-2615-1875-08-04": {
+"v": 1,
+"em": "2026-11-12T18:35:41+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1875/lei-2623-1875-09-13": {
+"v": 1,
+"em": "2026-11-12T18:35:42+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1875/lei-2632-1875-09-13": {
+"v": 1,
+"em": "2026-11-12T18:35:43+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1875/lei-2640-1875-09-22": {
+"v": 1,
+"em": "2026-11-12T18:35:44+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1875/lei-2667-1875-10-09": {
+"v": 1,
+"em": "2026-11-12T18:35:46+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1875/lei-2669-1875-10-20": {
+"v": 1,
+"em": "2026-11-12T18:35:47+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1875/lei-2670-1875-10-20": {
+"v": 1,
+"em": "2026-11-12T18:35:48+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1875/lei-2677-1875-10-20": {
+"v": 1,
+"em": "2026-11-12T18:35:49+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1875/lei-2685-1875-10-23": {
+"v": 1,
+"em": "2026-11-12T18:35:50+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1877/lei-2706-1877-05-31": {
+"v": 1,
+"em": "2026-11-12T18:35:52+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1877/lei-2718-1877-06-27": {
+"v": 1,
+"em": "2026-11-12T18:35:53+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1877/lei-2792-1877-10-20": {
+"v": 1,
+"em": "2026-11-12T18:35:54+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1879/lei-2823-1879-02-15": {
+"v": 1,
+"em": "2026-11-12T18:35:56+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1879/lei-2852-1879-05-03": {
+"v": 1,
+"em": "2026-11-12T18:35:57+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1879/lei-2879-1879-06-30": {
+"v": 1,
+"em": "2026-11-12T18:35:58+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1879/lei-2880-1879-06-30": {
+"v": 1,
+"em": "2026-11-12T18:35:59+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1879/lei-2897-1879-08-09": {
+"v": 1,
+"em": "2026-11-12T18:36:00+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1879/lei-2909-1879-08-30": {
+"v": 1,
+"em": "2026-11-12T18:36:02+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1879/lei-2913-1879-08-30": {
+"v": 1,
+"em": "2026-11-12T18:36:03+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1879/lei-2914-1879-08-30": {
+"v": 1,
+"em": "2026-11-12T18:36:04+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1879/lei-2915-1879-08-30": {
+"v": 1,
+"em": "2026-11-12T18:36:05+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1879/lei-2924-1879-09-27": {
+"v": 1,
+"em": "2026-11-12T18:36:07+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1879/lei-2927-1879-10-18": {
+"v": 1,
+"em": "2026-11-12T18:36:08+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1879/lei-2934-1879-10-25": {
+"v": 1,
+"em": "2026-11-12T18:36:09+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1879/lei-2940-1879-10-31": {
+"v": 1,
+"em": "2026-11-12T18:36:10+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1879/lei-2941-1879-11-08": {
+"v": 1,
+"em": "2026-11-12T18:36:11+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1879/lei-2942-1879-11-08": {
+"v": 1,
+"em": "2026-11-12T18:36:13+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1880/lei-2991-1880-09-21": {
+"v": 1,
+"em": "2026-11-12T18:36:14+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1880/lei-2994-1880-09-28": {
+"v": 1,
+"em": "2026-11-12T18:36:15+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1880/lei-3005-1880-10-12": {
+"v": 1,
+"em": "2026-11-12T18:36:16+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1880/lei-3017-1880-11-05": {
+"v": 1,
+"em": "2026-11-12T18:36:18+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1880/lei-3018-1880-11-05": {
+"v": 1,
+"em": "2026-11-12T18:36:19+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1880/lei-3020-1880-11-10": {
+"v": 1,
+"em": "2026-11-12T18:36:20+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1880/lei-3023-1880-11-23": {
+"v": 1,
+"em": "2026-11-12T18:36:21+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1880/lei-3028-1880-12-29": {
+"v": 1,
+"em": "2026-11-12T18:36:22+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1881/lei-3030-1881-01-09": {
+"v": 1,
+"em": "2026-11-12T18:36:24+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1882/lei-3047-1882-03-24": {
+"v": 1,
+"em": "2026-11-12T18:36:25+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1882/lei-3063-1882-04-08": {
+"v": 1,
+"em": "2026-11-12T18:36:26+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1882/lei-3069-1882-05-20": {
+"v": 1,
+"em": "2026-11-12T18:36:27+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1882/lei-3073-1882-06-17": {
+"v": 1,
+"em": "2026-11-12T18:36:29+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1882/lei-3074-1882-06-17": {
+"v": 1,
+"em": "2026-11-12T18:36:30+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1882/lei-3076-1882-06-21": {
+"v": 1,
+"em": "2026-11-12T18:36:31+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1882/lei-3081-1882-06-23": {
+"v": 1,
+"em": "2026-11-12T18:36:32+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1882/lei-3083-1882-06-23": {
+"v": 1,
+"em": "2026-11-12T18:36:33+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1882/lei-3084-1882-07-01": {
+"v": 1,
+"em": "2026-11-12T18:36:35+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1882/lei-3085-1882-07-01": {
+"v": 1,
+"em": "2026-11-12T18:36:36+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1882/lei-3102-1882-08-12": {
+"v": 1,
+"em": "2026-11-12T18:36:37+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1882/lei-3111-1882-09-23": {
+"v": 1,
+"em": "2026-11-12T18:36:38+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1882/lei-3129-1882-10-14": {
+"v": 1,
+"em": "2026-11-12T18:36:40+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1882/lei-3140-1882-10-30": {
+"v": 1,
+"em": "2026-11-12T18:36:41+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1882/lei-3141-1882-10-30": {
+"v": 1,
+"em": "2026-11-12T18:36:42+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1882/lei-3142-1882-10-30": {
+"v": 1,
+"em": "2026-11-12T18:36:43+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1882/lei-3144-1882-10-30": {
+"v": 1,
+"em": "2026-11-12T18:36:44+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1882/lei-3150-1882-11-04": {
+"v": 1,
+"em": "2026-11-12T18:36:46+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1883/lei-3159-1883-06-30": {
+"v": 1,
+"em": "2026-11-12T18:36:47+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1883/lei-3161-1883-06-30": {
+"v": 1,
+"em": "2026-11-12T18:36:48+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1883/lei-3162-1883-06-30": {
+"v": 1,
+"em": "2026-11-12T18:36:49+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1883/lei-3169-1883-07-14": {
+"v": 1,
+"em": "2026-11-12T18:36:51+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1883/lei-3185-1883-08-18": {
+"v": 1,
+"em": "2026-11-12T18:36:52+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1883/lei-3188-1883-08-25": {
+"v": 1,
+"em": "2026-11-12T18:36:53+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1883/lei-3189-1883-08-25": {
+"v": 1,
+"em": "2026-11-12T18:36:54+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1883/lei-3190-1883-08-25": {
+"v": 1,
+"em": "2026-11-12T18:36:56+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1883/lei-3191-1883-08-25": {
+"v": 1,
+"em": "2026-11-12T18:36:57+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1883/lei-3197-1883-09-01": {
+"v": 1,
+"em": "2026-11-12T18:36:58+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1883/lei-3198-1883-09-01": {
+"v": 1,
+"em": "2026-11-12T18:36:59+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1883/lei-3199-1883-09-01": {
+"v": 1,
+"em": "2026-11-12T18:37:00+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1883/lei-3212-1883-09-22": {
+"v": 1,
+"em": "2026-11-12T18:37:02+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1883/lei-3213-1883-09-22": {
+"v": 1,
+"em": "2026-11-12T18:37:03+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1883/lei-3214-1883-09-22": {
+"v": 1,
+"em": "2026-11-12T18:37:04+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1884/lei-3228-1884-09-03": {
+"v": 1,
+"em": "2026-11-12T18:37:05+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1884/lei-3229-1884-09-03": {
+"v": 1,
+"em": "2026-11-12T18:37:07+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1884/lei-3230-1884-09-03": {
+"v": 1,
+"em": "2026-11-12T18:37:08+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1884/lei-3231-1884-09-03": {
+"v": 1,
+"em": "2026-11-12T18:37:09+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1885/lei-3261-1885-06-30": {
+"v": 1,
+"em": "2026-11-12T18:37:10+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1885/lei-3263-1885-07-18": {
+"v": 1,
+"em": "2026-11-12T18:37:11+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1885/lei-3270-1885-09-28": {
+"v": 1,
+"em": "2026-11-12T18:37:13+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1886/lei-3275-1886-06-23": {
+"v": 1,
+"em": "2026-11-12T18:37:14+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1886/lei-3276-1886-06-23": {
+"v": 1,
+"em": "2026-11-12T18:37:15+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1886/lei-3285-1886-08-07": {
+"v": 1,
+"em": "2026-11-12T18:37:16+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1886/lei-3286-1886-08-07": {
+"v": 1,
+"em": "2026-11-12T18:37:18+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1886/lei-3287-1886-08-14": {
+"v": 1,
+"em": "2026-11-12T18:37:19+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1886/lei-3288-1886-08-14": {
+"v": 1,
+"em": "2026-11-12T18:37:20+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1886/lei-3291-1886-08-14": {
+"v": 1,
+"em": "2026-11-12T18:37:21+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1886/lei-3294-1886-08-21": {
+"v": 1,
+"em": "2026-11-12T18:37:22+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1886/lei-3302-1886-10-02": {
+"v": 1,
+"em": "2026-11-12T18:37:24+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1886/lei-3303-1886-10-08": {
+"v": 1,
+"em": "2026-11-12T18:37:25+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1886/lei-3304-1886-10-08": {
+"v": 1,
+"em": "2026-11-12T18:37:26+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1886/lei-3308-1886-10-09": {
+"v": 1,
+"em": "2026-11-12T18:37:27+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1886/lei-3310-1886-10-15": {
+"v": 1,
+"em": "2026-11-12T18:37:29+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1886/lei-3311-1886-10-15": {
+"v": 1,
+"em": "2026-11-12T18:37:30+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1886/lei-3312-1886-10-15": {
+"v": 1,
+"em": "2026-11-12T18:37:31+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1886/lei-3313-1886-10-16": {
+"v": 1,
+"em": "2026-11-12T18:37:32+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1886/lei-3314-1886-10-16": {
+"v": 1,
+"em": "2026-11-12T18:37:34+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1887/lei-3317-1887-06-20": {
+"v": 1,
+"em": "2026-11-12T18:37:35+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1887/lei-3318-1887-06-28": {
+"v": 1,
+"em": "2026-11-12T18:37:36+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1887/lei-3319-1887-06-28": {
+"v": 1,
+"em": "2026-11-12T18:37:37+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1887/lei-3326-1887-08-04": {
+"v": 1,
+"em": "2026-11-12T18:37:38+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1887/lei-3348-1887-10-20": {
+"v": 1,
+"em": "2026-11-12T18:37:40+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1887/lei-3349-1887-10-20": {
+"v": 1,
+"em": "2026-11-12T18:37:41+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1887/lei-3351-1887-10-20": {
+"v": 1,
+"em": "2026-11-12T18:37:42+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1888/lei-3353-1888-05-13": {
+"v": 1,
+"em": "2026-11-12T18:37:43+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1888/lei-3366-1888-08-21": {
+"v": 1,
+"em": "2026-11-12T18:37:45+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1888/lei-3367-1888-08-21": {
+"v": 1,
+"em": "2026-11-12T18:37:46+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1888/lei-3376-1888-10-06": {
+"v": 1,
+"em": "2026-11-12T18:37:47+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1888/lei-3377-1888-10-06": {
+"v": 1,
+"em": "2026-11-12T18:37:48+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1888/lei-3393-1888-11-17": {
+"v": 1,
+"em": "2026-11-12T18:37:50+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1888/lei-3394-1888-11-24": {
+"v": 1,
+"em": "2026-11-12T18:37:51+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1888/lei-3396-1888-11-24": {
+"v": 1,
+"em": "2026-11-12T18:37:52+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1888/lei-3397-1888-11-24": {
+"v": 1,
+"em": "2026-11-12T18:37:53+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1889/lei-3409-1889-06-22": {
+"v": 1,
+"em": "2026-11-12T18:37:54+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1891/lei-14-a-1891-10-16": {
+"v": 1,
+"em": "2026-11-12T18:37:56+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1891/lei-2-1891-08-08": {
+"v": 1,
+"em": "2026-11-12T18:37:57+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1891/lei-20-1891-10-22": {
+"v": 1,
+"em": "2026-11-12T18:37:58+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1891/lei-21-1891-10-24": {
+"v": 1,
+"em": "2026-11-12T18:37:59+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1891/lei-23-1891-10-30": {
+"v": 1,
+"em": "2026-11-12T18:38:01+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1891/lei-25-1891-12-30": {
+"v": 1,
+"em": "2026-11-12T18:38:02+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1891/lei-26-1891-12-30": {
+"v": 1,
+"em": "2026-11-12T18:38:03+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1891/lei-9-1891-09-12": {
+"v": 1,
+"em": "2026-11-12T18:38:04+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1892/lei-112-1892-10-20": {
+"v": 1,
+"em": "2026-11-12T18:38:05+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1892/lei-126-a-1892-11-21": {
+"v": 1,
+"em": "2026-11-12T18:38:07+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1892/lei-126-b-1892-11-21": {
+"v": 1,
+"em": "2026-11-12T18:38:08+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1892/lei-28-1892-01-08": {
+"v": 1,
+"em": "2026-11-12T18:38:09+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1892/lei-35-1892-01-26": {
+"v": 1,
+"em": "2026-11-12T18:38:10+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1892/lei-39-a-1892-01-30": {
+"v": 1,
+"em": "2026-11-12T18:38:12+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1892/lei-42-1892-06-02": {
+"v": 1,
+"em": "2026-11-12T18:38:13+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1892/lei-48-1892-06-07": {
+"v": 1,
+"em": "2026-11-12T18:38:14+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1892/lei-54-1892-06-13": {
+"v": 1,
+"em": "2026-11-12T18:38:15+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1892/lei-69-1892-08-01": {
+"v": 1,
+"em": "2026-11-12T18:38:16+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1892/lei-76-1892-08-16": {
+"v": 1,
+"em": "2026-11-12T18:38:18+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1892/lei-80-1892-08-27": {
+"v": 1,
+"em": "2026-11-12T18:38:19+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1892/lei-85-1892-09-20": {
+"v": 1,
+"em": "2026-11-12T18:38:20+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1892/lei-97-1892-10-05": {
+"v": 1,
+"em": "2026-11-12T18:38:21+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1893/lei-161-1893-08-17": {
+"v": 1,
+"em": "2026-11-12T18:38:23+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1893/lei-173-1893-09-10": {
+"v": 1,
+"em": "2026-11-12T18:38:24+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1893/lei-191-a-1893-09-30": {
+"v": 1,
+"em": "2026-11-12T18:38:25+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1893/lei-191-b-1893-09-30": {
+"v": 1,
+"em": "2026-11-12T18:38:26+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1894/lei-198-1894-07-18": {
+"v": 1,
+"em": "2026-11-12T18:38:28+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1894/lei-221-1894-11-20": {
+"v": 1,
+"em": "2026-11-12T18:38:29+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1894/lei-222-a-1894-11-23": {
+"v": 1,
+"em": "2026-11-12T18:38:31+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1894/lei-247-1894-12-15": {
+"v": 1,
+"em": "2026-11-12T18:38:32+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1894/lei-248-1894-12-15": {
+"v": 1,
+"em": "2026-11-12T18:38:34+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1894/lei-261-1894-12-20": {
+"v": 1,
+"em": "2026-11-12T18:38:36+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1894/lei-264-1894-12-20": {
+"v": 1,
+"em": "2026-11-12T18:38:37+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1894/lei-265-1894-12-24": {
+"v": 1,
+"em": "2026-11-12T18:38:39+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1894/lei-266-1894-12-24": {
+"v": 1,
+"em": "2026-11-12T18:38:41+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1895/lei-282-1895-07-29": {
+"v": 1,
+"em": "2026-11-12T18:38:42+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1895/lei-284-1895-07-30": {
+"v": 1,
+"em": "2026-11-12T18:38:43+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1895/lei-285-1895-08-01": {
+"v": 1,
+"em": "2026-11-12T18:38:45+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1895/lei-288-1895-08-06": {
+"v": 1,
+"em": "2026-11-12T18:38:46+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1895/lei-304-1895-10-10": {
+"v": 1,
+"em": "2026-11-12T18:38:48+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1895/lei-314-1895-10-30": {
+"v": 1,
+"em": "2026-11-12T18:38:49+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1895/lei-322-1895-11-08": {
+"v": 1,
+"em": "2026-11-12T18:38:50+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1895/lei-342-1895-12-02": {
+"v": 1,
+"em": "2026-11-12T18:38:51+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1895/lei-347-1895-12-07": {
+"v": 1,
+"em": "2026-11-12T18:38:52+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1895/lei-350-1895-12-09": {
+"v": 1,
+"em": "2026-11-12T18:38:54+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1895/lei-352-1895-12-12": {
+"v": 1,
+"em": "2026-11-12T18:38:55+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1895/lei-359-1895-12-30": {
+"v": 1,
+"em": "2026-11-12T18:38:56+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1895/lei-360-1895-12-30": {
+"v": 1,
+"em": "2026-11-12T18:38:57+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1896/lei-376-1896-07-30": {
+"v": 1,
+"em": "2026-11-12T18:38:58+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1896/lei-382-1896-08-27": {
+"v": 1,
+"em": "2026-11-12T18:39:00+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1896/lei-391-1896-10-07": {
+"v": 1,
+"em": "2026-11-12T18:39:01+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1896/lei-394-1896-10-09": {
+"v": 1,
+"em": "2026-11-12T18:39:02+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1896/lei-403-1896-10-24": {
+"v": 1,
+"em": "2026-11-12T18:39:03+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1896/lei-410-1896-11-12": {
+"v": 1,
+"em": "2026-11-12T18:39:05+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1896/lei-419-1896-11-27": {
+"v": 1,
+"em": "2026-11-12T18:39:06+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1896/lei-425-1896-12-05": {
+"v": 1,
+"em": "2026-11-12T18:39:07+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1896/lei-426-1896-12-07": {
+"v": 1,
+"em": "2026-11-12T18:39:08+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1896/lei-427-1896-12-09": {
+"v": 1,
+"em": "2026-11-12T18:39:10+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1896/lei-428-1896-12-10": {
+"v": 1,
+"em": "2026-11-12T18:39:11+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1896/lei-429-1896-12-10": {
+"v": 1,
+"em": "2026-11-12T18:39:12+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1897/lei-433-1897-06-12": {
+"v": 1,
+"em": "2026-11-12T18:39:13+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1897/lei-448-1897-10-06": {
+"v": 1,
+"em": "2026-11-12T18:39:14+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1897/lei-449-1897-10-11": {
+"v": 1,
+"em": "2026-11-12T18:39:16+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1897/lei-463-1897-11-25": {
+"v": 1,
+"em": "2026-11-12T18:39:17+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1897/lei-479-1897-12-09": {
+"v": 1,
+"em": "2026-11-12T18:39:18+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1897/lei-489-1897-12-15": {
+"v": 1,
+"em": "2026-11-12T18:39:20+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1897/lei-490-1897-12-16": {
+"v": 1,
+"em": "2026-11-12T18:39:21+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1898/lei-493-1898-07-19": {
+"v": 1,
+"em": "2026-11-12T18:39:22+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1898/lei-496-1898-08-01": {
+"v": 1,
+"em": "2026-11-12T18:39:23+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1898/lei-512-1898-10-31": {
+"v": 1,
+"em": "2026-11-12T18:39:24+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1898/lei-515-1898-11-03": {
+"v": 1,
+"em": "2026-11-12T18:39:26+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1898/lei-523-1898-11-25": {
+"v": 1,
+"em": "2026-11-12T18:39:27+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1898/lei-530-1898-12-02": {
+"v": 1,
+"em": "2026-11-12T18:39:28+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1898/lei-533-1898-12-07": {
+"v": 1,
+"em": "2026-11-12T18:39:29+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1898/lei-559-1898-12-31": {
+"v": 1,
+"em": "2026-11-12T18:39:31+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1898/lei-560-1898-12-31": {
+"v": 1,
+"em": "2026-11-12T18:39:32+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1899/lei-587-1899-08-05": {
+"v": 1,
+"em": "2026-11-12T18:39:33+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1899/lei-593-1899-08-21": {
+"v": 1,
+"em": "2026-11-12T18:39:34+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1899/lei-606-1899-09-20": {
+"v": 1,
+"em": "2026-11-12T18:39:36+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1899/lei-612-1899-09-29": {
+"v": 1,
+"em": "2026-11-12T18:39:37+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1899/lei-628-1899-10-28": {
+"v": 1,
+"em": "2026-11-12T18:39:38+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1899/lei-632-1899-11-06": {
+"v": 1,
+"em": "2026-11-12T18:39:39+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1899/lei-640-1899-11-14": {
+"v": 1,
+"em": "2026-11-12T18:39:40+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1899/lei-641-1899-11-14": {
+"v": 1,
+"em": "2026-11-12T18:39:42+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1899/lei-651-1899-11-22": {
+"v": 1,
+"em": "2026-11-12T18:39:43+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1899/lei-652-1899-11-23": {
+"v": 1,
+"em": "2026-11-12T18:39:44+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1899/lei-654-1899-11-24": {
+"v": 1,
+"em": "2026-11-12T18:39:45+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1900/lei-678-1900-08-21": {
+"v": 1,
+"em": "2026-11-12T18:39:47+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1900/lei-687-1900-09-14": {
+"v": 1,
+"em": "2026-11-12T18:39:48+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1900/lei-689-1900-09-20": {
+"v": 1,
+"em": "2026-11-12T18:39:49+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1900/lei-732-1900-12-20": {
+"v": 1,
+"em": "2026-11-12T18:39:50+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1900/lei-741-1900-12-26": {
+"v": 1,
+"em": "2026-11-12T18:39:51+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1900/lei-746-1900-12-29": {
+"v": 1,
+"em": "2026-11-12T18:39:53+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1901/lei-768-1901-06-20": {
+"v": 1,
+"em": "2026-11-12T18:39:54+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1901/lei-795-1901-10-16": {
+"v": 1,
+"em": "2026-11-12T18:39:55+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1901/lei-796-1901-10-25": {
+"v": 1,
+"em": "2026-11-12T18:39:56+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1901/lei-813-1901-12-23": {
+"v": 1,
+"em": "2026-11-12T18:39:58+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1901/lei-834-1901-12-30": {
+"v": 1,
+"em": "2026-11-12T18:39:59+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1902/lei-859-1902-08-16": {
+"v": 1,
+"em": "2026-11-12T18:40:00+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1902/lei-900-1902-11-07": {
+"v": 1,
+"em": "2026-11-12T18:40:01+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1902/lei-927-1902-12-22": {
+"v": 1,
+"em": "2026-11-12T18:40:03+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1902/lei-939-1902-12-29": {
+"v": 1,
+"em": "2026-11-12T18:40:04+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1902/lei-947-1902-12-29": {
+"v": 1,
+"em": "2026-11-12T18:40:05+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1902/lei-953-1902-12-29": {
+"v": 1,
+"em": "2026-11-12T18:40:06+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1902/lei-957-1902-12-30": {
+"v": 1,
+"em": "2026-11-12T18:40:07+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1903/lei-1030-1903-09-02": {
+"v": 1,
+"em": "2026-11-12T18:40:09+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1903/lei-1101-1903-11-19": {
+"v": 1,
+"em": "2026-11-12T18:40:10+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1903/lei-1144-1903-12-30": {
+"v": 1,
+"em": "2026-11-12T18:40:11+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1903/lei-1145-1903-12-31": {
+"v": 1,
+"em": "2026-11-12T18:40:12+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1903/lei-973-1903-01-02": {
+"v": 1,
+"em": "2026-11-12T18:40:14+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1904/lei-1195-1904-07-06": {
+"v": 1,
+"em": "2026-11-12T18:40:15+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1904/lei-1215-1904-08-11": {
+"v": 1,
+"em": "2026-11-12T18:40:16+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1904/lei-1220-1904-08-24": {
+"v": 1,
+"em": "2026-11-12T18:40:17+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1904/lei-1261-1904-10-31": {
+"v": 1,
+"em": "2026-11-12T18:40:18+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1904/lei-1269-1904-11-15": {
+"v": 1,
+"em": "2026-11-12T18:40:20+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1904/lei-1313-1904-12-30": {
+"v": 1,
+"em": "2026-11-12T18:40:21+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1904/lei-1316-1904-12-31": {
+"v": 1,
+"em": "2026-11-12T18:40:22+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1905/lei-1338-1905-01-09": {
+"v": 1,
+"em": "2026-11-12T18:40:23+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1905/lei-1426-1905-11-29": {
+"v": 1,
+"em": "2026-11-12T18:40:25+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1905/lei-1427-1905-11-29": {
+"v": 1,
+"em": "2026-11-12T18:40:26+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1905/lei-1452-1905-12-30": {
+"v": 1,
+"em": "2026-11-12T18:40:27+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1905/lei-1453-1905-12-30": {
+"v": 1,
+"em": "2026-11-12T18:40:28+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1906/lei-1473-1906-01-09": {
+"v": 1,
+"em": "2026-11-12T18:40:29+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1906/lei-1587-1906-12-18": {
+"v": 1,
+"em": "2026-11-12T18:40:31+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1906/lei-1588-1906-12-19": {
+"v": 1,
+"em": "2026-11-12T18:40:32+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1906/lei-1616-1906-12-30": {
+"v": 1,
+"em": "2026-11-12T18:40:33+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1906/lei-1617-1906-12-30": {
+"v": 1,
+"em": "2026-11-12T18:40:34+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1906/lei-1618-1906-12-31": {
+"v": 1,
+"em": "2026-11-12T18:40:36+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1907/lei-1767-1907-10-31": {
+"v": 1,
+"em": "2026-11-12T18:40:37+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1907/lei-1785-1907-11-28": {
+"v": 1,
+"em": "2026-11-12T18:40:38+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1907/lei-1837-1907-12-31": {
+"v": 1,
+"em": "2026-11-12T18:40:39+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1907/lei-1841-1907-12-31": {
+"v": 1,
+"em": "2026-11-12T18:40:40+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1908/lei-1860-1908-01-04": {
+"v": 1,
+"em": "2026-11-12T18:40:42+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1908/lei-1919-1908-08-08": {
+"v": 1,
+"em": "2026-11-12T18:40:43+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1937/lei-394-1937-02-15": {
+"v": 1,
+"em": "2026-11-12T18:16:37+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1947/lei-188-1947-12-17": {
+"v": 1,
+"em": "2026-11-12T18:16:39+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1966/lei-5172-1966-10-25": {
+"v": 1,
+"em": "2026-11-12T18:15:57+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1972/lei-5847-1972-12-06": {
+"v": 1,
+"em": "2026-11-12T18:16:40+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1974/lei-6126-1974-11-06": {
+"v": 1,
+"em": "2026-11-12T18:16:41+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1974/lei-6197-1974-12-23": {
+"v": 1,
+"em": "2026-11-12T18:16:42+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1978/lei-6547-1978-07-04": {
+"v": 1,
+"em": "2026-11-12T18:16:44+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1979/lei-6730-1979-12-03": {
+"v": 1,
+"em": "2026-11-12T18:16:45+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1981/lei-6907-1981-05-21": {
+"v": 1,
+"em": "2026-11-12T18:16:46+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1985/lei-7426-1985-12-17": {
+"v": 1,
+"em": "2026-11-12T18:16:47+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1985/lei-7448-1985-12-20": {
+"v": 1,
+"em": "2026-11-12T18:16:49+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1986/lei-7462-1986-04-17": {
+"v": 1,
+"em": "2026-11-12T18:16:50+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1989/lei-7715-1989-01-03": {
+"v": 1,
+"em": "2026-11-12T18:16:51+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1989/lei-7746-1989-03-30": {
+"v": 1,
+"em": "2026-11-12T18:16:53+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1989/lei-7752-1989-04-14": {
+"v": 1,
+"em": "2026-11-12T18:16:54+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1989/lei-7753-1989-04-14": {
+"v": 1,
+"em": "2026-11-12T18:16:55+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1989/lei-7755-1989-04-20": {
+"v": 1,
+"em": "2026-11-12T18:16:56+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1989/lei-7829-1989-09-28": {
+"v": 1,
+"em": "2026-11-12T18:16:58+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1989/lei-7830-1989-09-28": {
+"v": 1,
+"em": "2026-11-12T18:16:59+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1989/lei-7866-1989-11-07": {
+"v": 1,
+"em": "2026-11-12T18:17:00+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1989/lei-7888-1989-11-20": {
+"v": 1,
+"em": "2026-11-12T18:17:01+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1989/lei-7964-1989-12-22": {
+"v": 1,
+"em": "2026-11-12T18:17:02+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1989/lei-7984-1989-12-27": {
+"v": 1,
+"em": "2026-11-12T18:17:04+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1990/lei-8069-1990-07-13": {
+"v": 1,
+"em": "2026-11-12T18:15:58+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1990/lei-8078-1990-09-11": {
+"v": 1,
+"em": "2026-11-12T18:15:51+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1990/lei-8115-1990-12-12": {
+"v": 1,
+"em": "2026-11-12T18:17:05+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1991/lei-8282-1991-12-20": {
+"v": 1,
+"em": "2026-11-12T18:17:06+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1991/lei-8283-1991-12-20": {
+"v": 1,
+"em": "2026-11-12T18:17:07+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1991/lei-8311-1991-12-20": {
+"v": 1,
+"em": "2026-11-12T18:17:09+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1991/lei-8323-1991-12-26": {
+"v": 1,
+"em": "2026-11-12T18:17:10+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1991/lei-8369-1991-12-30": {
+"v": 1,
+"em": "2026-11-12T18:17:11+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1991/lei-8382-1991-12-30": {
+"v": 1,
+"em": "2026-11-12T18:17:12+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1992/lei-8442-1992-07-14": {
+"v": 1,
+"em": "2026-11-12T18:17:13+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1992/lei-8497-1992-11-26": {
+"v": 1,
+"em": "2026-11-12T18:17:15+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1992/lei-8558-1992-12-28": {
+"v": 1,
+"em": "2026-11-12T18:17:16+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1992/lei-8559-1992-12-28": {
+"v": 1,
+"em": "2026-11-12T18:17:17+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1992/lei-8564-1992-12-29": {
+"v": 1,
+"em": "2026-11-12T18:17:18+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1992/lei-8570-1992-12-29": {
+"v": 1,
+"em": "2026-11-12T18:17:20+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1992/lei-8611-1992-12-30": {
+"v": 1,
+"em": "2026-11-12T18:17:21+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1993/lei-8679-1993-07-13": {
+"v": 1,
+"em": "2026-11-12T18:17:22+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1993/lei-8763-1993-12-14": {
+"v": 1,
+"em": "2026-11-12T18:17:23+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1993/lei-8813-1993-12-22": {
+"v": 1,
+"em": "2026-11-12T18:17:24+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1995/lei-8983-1995-02-02": {
+"v": 1,
+"em": "2026-11-12T18:17:26+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1995/lei-9121-1995-10-30": {
+"v": 1,
+"em": "2026-11-12T18:17:27+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1996/lei-9275-1996-05-09": {
+"v": 1,
+"em": "2026-11-12T18:17:28+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1996/lei-9281-1996-06-04": {
+"v": 1,
+"em": "2026-11-12T18:17:29+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1996/lei-9391-1996-12-19": {
+"v": 1,
+"em": "2026-11-12T18:17:31+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1997/lei-9479-1997-08-12": {
+"v": 1,
+"em": "2026-11-12T18:17:32+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1997/lei-9503-1997-09-23": {
+"v": 1,
+"em": "2026-11-12T18:16:00+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/1997/lei-9552-1997-12-17": {
+"v": 1,
+"em": "2026-11-12T18:17:33+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1997/lei-9596-1997-12-26": {
+"v": 1,
+"em": "2026-11-12T18:17:34+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1997/lei-9598-1997-12-30": {
+"v": 1,
+"em": "2026-11-12T18:17:36+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1998/lei-9609-1998-02-19": {
+"v": 1,
+"em": "2026-11-12T18:17:37+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1998/lei-9663-1998-06-19": {
+"v": 1,
+"em": "2026-11-12T18:17:38+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1998/lei-9691-1998-07-22": {
+"v": 1,
+"em": "2026-11-12T18:17:39+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1998/lei-9694-1998-08-10": {
+"v": 1,
+"em": "2026-11-12T18:17:40+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1998/lei-9723-1998-11-30": {
+"v": 1,
+"em": "2026-11-12T18:17:42+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1998/lei-9763-1998-12-17": {
+"v": 1,
+"em": "2026-11-12T18:17:43+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1999/lei-9785-1999-01-29": {
+"v": 1,
+"em": "2026-11-12T18:17:44+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1999/lei-9809-1999-07-21": {
+"v": 1,
+"em": "2026-11-12T18:17:45+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1999/lei-9810-1999-07-21": {
+"v": 1,
+"em": "2026-11-12T18:17:46+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/1999/lei-9834-1999-09-22": {
+"v": 1,
+"em": "2026-11-12T18:17:48+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2000/lei-10086-2000-12-18": {
+"v": 1,
+"em": "2026-11-12T18:17:49+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2000/lei-10094-2000-12-19": {
+"v": 1,
+"em": "2026-11-12T18:17:50+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2000/lei-10161-2000-12-22": {
+"v": 1,
+"em": "2026-11-12T18:17:51+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2000/lei-10165-2000-12-27": {
+"v": 1,
+"em": "2026-11-12T18:17:53+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2000/lei-9963-2000-03-23": {
+"v": 1,
+"em": "2026-11-12T18:17:54+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2000/lei-9992-2000-07-24": {
+"v": 1,
+"em": "2026-11-12T18:17:55+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2001/lei-10171-2001-01-05": {
+"v": 1,
+"em": "2026-11-12T18:17:56+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2001/lei-10237-2001-06-11": {
+"v": 1,
+"em": "2026-11-12T18:17:58+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2001/lei-10268-2001-08-28": {
+"v": 1,
+"em": "2026-11-12T18:17:59+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2002/lei-10406-2002-01-10": {
+"v": 1,
+"em": "2026-11-12T18:15:47+00:00",
+"r": "estruturado",
+"n": 2094
+},
+"federal/leis-ordinarias/2002/lei-10421-2002-04-15": {
+"v": 1,
+"em": "2026-11-12T18:18:00+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2002/lei-10458-2002-05-14": {
+"v": 1,
+"em": "2026-11-12T18:18:01+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2002/lei-10595-2002-12-11": {
+"v": 1,
+"em": "2026-11-12T18:18:02+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2002/lei-10600-2002-12-11": {
+"v": 1,
+"em": "2026-11-12T18:18:04+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2003/lei-10640-2003-01-14": {
+"v": 1,
+"em": "2026-11-12T18:18:05+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2003/lei-10650-2003-04-16": {
+"v": 1,
+"em": "2026-11-12T18:18:06+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2003/lei-10694-2003-06-26": {
+"v": 1,
+"em": "2026-11-12T18:18:07+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2003/lei-10747-2003-10-15": {
+"v": 1,
+"em": "2026-11-12T18:18:09+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2003/lei-10748-2003-10-22": {
+"v": 1,
+"em": "2026-11-12T18:18:10+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2003/lei-10816-2003-12-16": {
+"v": 1,
+"em": "2026-11-12T18:18:11+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2004/lei-10837-2004-01-16": {
+"v": 1,
+"em": "2026-11-12T18:18:12+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2004/lei-10927-2004-07-30": {
+"v": 1,
+"em": "2026-11-12T18:18:13+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2004/lei-10955-2004-10-06": {
+"v": 1,
+"em": "2026-11-12T18:18:15+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2004/lei-11004-2004-12-16": {
+"v": 1,
+"em": "2026-11-12T18:18:16+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2004/lei-11006-2004-12-16": {
+"v": 1,
+"em": "2026-11-12T18:18:17+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2004/lei-11010-2004-12-17": {
+"v": 1,
+"em": "2026-11-12T18:18:18+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2004/lei-11037-2004-12-22": {
+"v": 1,
+"em": "2026-11-12T18:18:20+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2004/lei-11044-2004-12-24": {
+"v": 1,
+"em": "2026-11-12T18:18:22+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2004/lei-11047-2004-12-28": {
+"v": 1,
+"em": "2026-11-12T18:18:23+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2004/lei-11055-2004-12-30": {
+"v": 1,
+"em": "2026-11-12T18:18:25+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2004/lei-11084-2004-12-31": {
+"v": 1,
+"em": "2026-11-12T18:18:27+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2004/lei-11085-2004-12-31": {
+"v": 1,
+"em": "2026-11-12T18:18:28+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2005/lei-11087-2005-01-04": {
+"v": 1,
+"em": "2026-11-12T18:18:30+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2005/lei-11100-2005-01-25": {
+"v": 1,
+"em": "2026-11-12T18:18:31+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2005/lei-11246-2005-12-23": {
+"v": 1,
+"em": "2026-11-12T18:18:33+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2005/lei-11255-2005-12-27": {
+"v": 1,
+"em": "2026-11-12T18:18:35+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2005/lei-11256-2005-12-27": {
+"v": 1,
+"em": "2026-11-12T18:18:36+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2006/lei-11268-2006-01-19": {
+"v": 1,
+"em": "2026-11-12T18:18:37+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2006/lei-11288-2006-03-30": {
+"v": 1,
+"em": "2026-11-12T18:18:39+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2006/lei-11340-2006-08-07": {
+"v": 1,
+"em": "2026-11-12T18:16:04+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/2007/lei-11532-2007-10-25": {
+"v": 1,
+"em": "2026-11-12T18:18:40+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2007/lei-11609-2007-12-11": {
+"v": 1,
+"em": "2026-11-12T18:18:41+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2007/lei-11617-2007-12-19": {
+"v": 1,
+"em": "2026-11-12T18:18:42+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2007/lei-11618-2007-12-19": {
+"v": 1,
+"em": "2026-11-12T18:18:44+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2008/lei-11645-2008-03-10": {
+"v": 1,
+"em": "2026-11-12T18:18:45+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2008/lei-11647-2008-03-24": {
+"v": 1,
+"em": "2026-11-12T18:18:47+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2008/lei-11761-2008-07-31": {
+"v": 1,
+"em": "2026-11-12T18:18:48+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2008/lei-11785-2008-09-22": {
+"v": 1,
+"em": "2026-11-12T18:18:49+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2008/lei-11855-2008-12-10": {
+"v": 1,
+"em": "2026-11-12T18:18:51+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2008/lei-11870-2008-12-19": {
+"v": 1,
+"em": "2026-11-12T18:18:52+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2008/lei-11897-2008-12-30": {
+"v": 1,
+"em": "2026-11-12T18:18:53+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2009/lei-11951-2009-06-24": {
+"v": 1,
+"em": "2026-11-12T18:18:54+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2009/lei-11959-2009-06-29": {
+"v": 1,
+"em": "2026-11-12T18:18:56+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2009/lei-11985-2009-07-27": {
+"v": 1,
+"em": "2026-11-12T18:18:57+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2009/lei-12140-2009-12-21": {
+"v": 1,
+"em": "2026-11-12T18:18:58+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2009/lei-12183-2009-12-29": {
+"v": 1,
+"em": "2026-11-12T18:18:59+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2010/lei-12297-2010-07-20": {
+"v": 1,
+"em": "2026-11-12T18:19:01+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2010/lei-12320-2010-09-06": {
+"v": 1,
+"em": "2026-11-12T18:19:02+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2011/lei-12396-2011-03-21": {
+"v": 1,
+"em": "2026-11-12T18:19:03+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2011/lei-12411-2011-05-27": {
+"v": 1,
+"em": "2026-11-12T18:19:05+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2011/lei-12465-2011-08-12": {
+"v": 1,
+"em": "2026-11-12T18:19:06+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2011/lei-12483-2011-09-08": {
+"v": 1,
+"em": "2026-11-12T18:19:07+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2011/lei-12493-2011-09-20": {
+"v": 1,
+"em": "2026-11-12T18:19:09+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2011/lei-12498-2011-09-20": {
+"v": 1,
+"em": "2026-11-12T18:19:11+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2011/lei-12518-2011-11-10": {
+"v": 1,
+"em": "2026-11-12T18:19:12+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2011/lei-12562-2011-12-23": {
+"v": 1,
+"em": "2026-11-12T18:19:13+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2012/lei-12591-2012-01-18": {
+"v": 1,
+"em": "2026-11-12T18:19:14+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2012/lei-12593-2012-01-18": {
+"v": 1,
+"em": "2026-11-12T18:19:15+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2012/lei-12594-2012-01-18": {
+"v": 1,
+"em": "2026-11-12T18:19:17+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2012/lei-12595-2012-01-19": {
+"v": 1,
+"em": "2026-11-12T18:19:18+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2012/lei-12615-2012-04-30": {
+"v": 1,
+"em": "2026-11-12T18:19:19+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2012/lei-12678-2012-06-25": {
+"v": 1,
+"em": "2026-11-12T18:19:20+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2012/lei-12692-2012-07-24": {
+"v": 1,
+"em": "2026-11-12T18:19:22+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2012/lei-12701-2012-08-06": {
+"v": 1,
+"em": "2026-11-12T18:19:23+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2012/lei-12773-2012-12-28": {
+"v": 1,
+"em": "2026-11-12T18:19:24+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2013/lei-12801-2013-04-24": {
+"v": 1,
+"em": "2026-11-12T18:19:25+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2013/lei-12812-2013-05-16": {
+"v": 1,
+"em": "2026-11-12T18:19:26+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2013/lei-12888-2013-11-29": {
+"v": 1,
+"em": "2026-11-12T18:19:28+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2013/lei-12901-2013-12-18": {
+"v": 1,
+"em": "2026-11-12T18:19:29+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2013/lei-12903-2013-12-18": {
+"v": 1,
+"em": "2026-11-12T18:19:30+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2014/lei-12960-2014-03-27": {
+"v": 1,
+"em": "2026-11-12T18:19:31+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2014/lei-12965-2014-04-23": {
+"v": 1,
+"em": "2026-11-12T18:16:03+00:00",
+"r": "sem_estrutura"
+},
+"federal/leis-ordinarias/2014/lei-13079-2014-12-30": {
+"v": 1,
+"em": "2026-11-12T18:19:33+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2015/lei-13105-2015-03-16": {
+"v": 1,
+"em": "2026-11-12T18:15:54+00:00",
+"r": "estruturado",
+"n": 1073
+},
+"federal/leis-ordinarias/2016/lei-13297-2016-06-16": {
+"v": 1,
+"em": "2026-11-12T18:19:34+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2016/lei-13317-2016-07-20": {
+"v": 1,
+"em": "2026-11-12T18:19:35+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2016/lei-13400-2016-12-21": {
+"v": 1,
+"em": "2026-11-12T18:19:36+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2018/lei-13709-2018-08-14": {
+"v": 1,
+"em": "2026-11-12T18:16:02+00:00",
+"r": "estruturado",
+"n": 80
+},
+"federal/leis-ordinarias/2018/lei-13740-2018-11-22": {
+"v": 1,
+"em": "2026-11-12T18:19:37+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2018/lei-13742-2018-11-22": {
+"v": 1,
+"em": "2026-11-12T18:19:39+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2019/lei-13839-2019-06-04": {
+"v": 1,
+"em": "2026-11-12T18:19:40+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2020/lei-14016-2020-06-23": {
+"v": 1,
+"em": "2026-11-12T18:19:41+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2020/lei-14109-2020-12-16": {
+"v": 1,
+"em": "2026-11-12T18:19:42+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2021/lei-14119-2021-01-13": {
+"v": 1,
+"em": "2026-11-12T18:19:44+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2021/lei-14133-2021-04-01": {
+"v": 1,
+"em": "2026-11-12T18:16:06+00:00",
+"r": "estruturado",
+"n": 195
+},
+"federal/leis-ordinarias/2021/lei-14139-2021-04-16": {
+"v": 1,
+"em": "2026-11-12T18:19:45+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2022/lei-14316-2022-03-29": {
+"v": 1,
+"em": "2026-11-12T18:19:46+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2022/lei-14323-2022-04-12": {
+"v": 1,
+"em": "2026-11-12T18:19:47+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2022/lei-14366-2022-06-08": {
+"v": 1,
+"em": "2026-11-12T18:19:49+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2022/lei-14466-2022-11-16": {
+"v": 1,
+"em": "2026-11-12T18:19:50+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2023/lei-14531-2023-01-10": {
+"v": 1,
+"em": "2026-11-12T18:19:51+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2023/lei-14567-2023-05-04": {
+"v": 1,
+"em": "2026-11-12T18:19:52+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2023/lei-14583-2023-05-16": {
+"v": 1,
+"em": "2026-11-12T18:19:53+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2023/lei-14639-2023-07-25": {
+"v": 1,
+"em": "2026-11-12T18:19:55+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2023/lei-14651-2023-08-23": {
+"v": 1,
+"em": "2026-11-12T18:19:56+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2023/lei-14652-2023-08-23": {
+"v": 1,
+"em": "2026-11-12T18:19:57+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2023/lei-14688-2023-09-20": {
+"v": 1,
+"em": "2026-11-12T18:20:03+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2023/lei-14691-2023-10-03": {
+"v": 1,
+"em": "2026-11-12T18:20:04+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2023/lei-14740-2023-11-29": {
+"v": 1,
+"em": "2026-11-12T18:20:05+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2023/lei-14744-2023-11-30": {
+"v": 1,
+"em": "2026-11-12T18:20:06+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2023/lei-14759-2023-12-21": {
+"v": 1,
+"em": "2026-11-12T18:20:07+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2023/lei-14786-2023-12-28": {
+"v": 1,
+"em": "2026-11-12T18:20:09+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2023/lei-14787-2023-12-28": {
+"v": 1,
+"em": "2026-11-12T18:20:10+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2024/lei-14859-2024-05-22": {
+"v": 1,
+"em": "2026-11-12T18:20:11+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2024/lei-14877-2024-06-04": {
+"v": 1,
+"em": "2026-11-12T18:20:12+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2024/lei-14878-2024-06-04": {
+"v": 1,
+"em": "2026-11-12T18:20:14+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2024/lei-14924-2024-07-12": {
+"v": 1,
+"em": "2026-11-12T18:20:15+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2024/lei-14935-2024-07-26": {
+"v": 1,
+"em": "2026-11-12T18:20:16+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2024/lei-14940-2024-07-30": {
+"v": 1,
+"em": "2026-11-12T18:20:17+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2024/lei-14947-2024-08-02": {
+"v": 1,
+"em": "2026-11-12T18:20:19+00:00",
+"r": "estruturado",
+"n": 13,
+"sem_texto": true
+},
+"federal/leis-ordinarias/2024/lei-14974-2024-09-16": {
+"v": 1,
+"em": "2026-11-12T18:20:20+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2024/lei-14980-2024-09-18": {
+"v": 1,
+"em": "2026-11-12T18:20:21+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2025/lei-15097-2025-01-10": {
+"v": 1,
+"em": "2026-11-12T18:20:22+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2025/lei-15103-2025-01-22": {
+"v": 1,
+"em": "2026-11-12T18:20:23+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2025/lei-15178-2025-07-23": {
+"v": 1,
+"em": "2026-11-12T18:20:25+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2025/lei-15183-2025-07-30": {
+"v": 1,
+"em": "2026-11-12T18:20:26+00:00",
+"r": "sem_estrutura",
+"sem_texto": true
+},
+"federal/leis-ordinarias/2025/lei-15235-2025-10-08": {
+"v": 1,
+"em": "2026-11-12T18:20:27+00:00",
+"r": "estruturado",
+"n": 6,
+"sem_texto": true
+},
+"federal/leis-ordinarias/2025/lei-15249-2025-11-03": {
+"v": 1,
+"em": "2026-11-12T18:20:28+00:00",
+"r": "estruturado",
+"n": 5,
+"sem_texto": true
+},
+"federal/leis-ordinarias/2025/lei-15251-2025-11-03": {
+"v": 1,
+"em": "2026-11-12T18:20:30+00:00",
+"r": "estruturado",
+"n": 5,
+"sem_texto": true
+},
+"federal/leis-ordinarias/2025/lei-15252-2025-11-04": {
+"v": 1,
+"em": "2026-11-12T18:20:31+00:00",
+"r": "estruturado",
+"n": 18,
+"sem_texto": true
+},
+"federal/leis-ordinarias/2025/lei-15253-2025-11-05": {
+"v": 1,
+"em": "2026-11-12T18:20:32+00:00",
+"r": "estruturado",
+"n": 5,
+"sem_texto": true
+},
+"federal/leis-ordinarias/2025/lei-15254-2025-11-06": {
+"v": 1,
+"em": "2026-11-12T18:20:33+00:00",
+"r": "estruturado",
+"n": 2,
+"sem_texto": true
+},
+"federal/leis-ordinarias/2025/lei-15299-2025-12-22": {
+"v": 1,
+"em": "2026-11-12T18:20:34+00:00",
+"r": "estruturado",
+"n": 4,
+"sem_texto": true
+}
+}
