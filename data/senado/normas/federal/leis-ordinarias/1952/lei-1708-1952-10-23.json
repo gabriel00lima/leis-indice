@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1952/lei-1708-1952-10-23",
+"urn": "urn:lex:br:federal:lei:1952-10-23;1708",
+"consultado_em": "2026-11-12",
+"codigo": "543427",
+"nome": "Lei nº 1.708 de 23/10/1952",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1952-10-27", "descricao": "Publicação Original [Diário Oficial da União de 27/10/1952] (p. 16633, col. 4)"}
+],
+"alteracoes": [
+{"data": "1954-11-01", "nome": "Lei nº 2.328 de 01/11/1954", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2328-1954-11-01"},
+{"data": "1964-11-25", "nome": "Lei nº 4.494 de 25/11/1964", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4494-1964-11-25"}
+],
+"controle": []
+}

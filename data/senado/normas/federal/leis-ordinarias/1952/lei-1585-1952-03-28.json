@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1952/lei-1585-1952-03-28",
+"urn": "urn:lex:br:federal:lei:1952-03-28;1585",
+"consultado_em": "2026-11-12",
+"codigo": "543281",
+"nome": "Lei nº 1.585 de 28/03/1952",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1952-03-31", "descricao": "Publicação Original [Diário Oficial da União de 31/03/1952] (p. 5217, col. 1)"}
+],
+"alteracoes": [
+{"data": "1964-08-17", "nome": "Lei nº 4.375 de 17/08/1964", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4375-1964-08-17"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-406-1948-09-24",
+"urn": "urn:lex:br:federal:lei:1948-09-24;406",
+"consultado_em": "2026-11-12",
+"codigo": "541713",
+"nome": "Lei nº 406 de 24/09/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-09-29", "descricao": "Publicação Original [Diário Oficial da União de 29/09/1948] (p. 14173, col. 4)"}
+],
+"alteracoes": [
+{"data": "1966-11-18", "nome": "Decreto-Lei nº 37 de 18/11/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1966/del-37-1966-11-18"}
+],
+"controle": []
+}

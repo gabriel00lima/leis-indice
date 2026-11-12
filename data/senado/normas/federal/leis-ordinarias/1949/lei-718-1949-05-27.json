@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-718-1949-05-27",
+"urn": "urn:lex:br:federal:lei:1949-05-27;718",
+"consultado_em": "2026-11-12",
+"codigo": "542279",
+"nome": "Lei nº 718 de 27/05/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-06-01", "descricao": "Publicação Original [Diário Oficial da União de 01/06/1949] (p. 8121, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-01-17", "nome": "Decreto nº 71.727 de 17/01/1973", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

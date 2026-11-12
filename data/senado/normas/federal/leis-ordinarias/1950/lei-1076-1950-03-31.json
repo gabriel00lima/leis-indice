@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1076-1950-03-31",
+"urn": "urn:lex:br:federal:lei:1950-03-31;1076",
+"consultado_em": "2026-11-12",
+"codigo": "542683",
+"nome": "Lei nº 1.076 de 31/03/1950",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-04-12", "descricao": "Publicação Original [Diário Oficial da União de 12/04/1950] (p. 5425, col. 1)"}
+],
+"alteracoes": [
+{"data": "1953-03-12", "nome": "Lei nº 1.821 de 12/03/1953", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1953/lei-1821-1953-03-12"}
+],
+"controle": []
+}

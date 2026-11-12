@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1952/lei-1565-1952-03-03",
+"urn": "urn:lex:br:federal:lei:1952-03-03;1565",
+"consultado_em": "2026-11-12",
+"codigo": "543261",
+"nome": "Lei nº 1.565 de 03/03/1952",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1952-03-05", "descricao": "Publicação Original [Diário Oficial da União de 05/03/1952] (p. 3393, col. 2)"}
+],
+"alteracoes": [
+{"data": "1956-06-19", "nome": "Decreto nº 39.423 de 19/06/1956", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

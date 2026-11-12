@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-922-1949-11-17",
+"urn": "urn:lex:br:federal:lei:1949-11-17;922",
+"consultado_em": "2026-11-12",
+"codigo": "542511",
+"nome": "Lei nº 922 de 17/11/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-11-22", "descricao": "Publicação Original [Diário Oficial da União de 22/11/1949] (p. 16313, col. 2)"}
+],
+"alteracoes": [
+{"data": "1950-05-05", "nome": "Decreto nº 28.076 de 05/05/1950", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

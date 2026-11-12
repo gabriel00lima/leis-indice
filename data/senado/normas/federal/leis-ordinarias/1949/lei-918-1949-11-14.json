@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-918-1949-11-14",
+"urn": "urn:lex:br:federal:lei:1949-11-14;918",
+"consultado_em": "2026-11-12",
+"codigo": "542507",
+"nome": "Lei nº 918 de 14/11/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-11-22", "descricao": "Publicação Original [Diário Oficial da União de 22/11/1949] (p. 16313, col. 1)"}
+],
+"alteracoes": [
+{"data": "1958-05-16", "nome": "Lei nº 3.386 de 16/05/1958", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1958/lei-3386-1958-05-16"}
+],
+"controle": []
+}

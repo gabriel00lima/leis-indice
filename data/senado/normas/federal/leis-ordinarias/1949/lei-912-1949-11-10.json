@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-912-1949-11-10",
+"urn": "urn:lex:br:federal:lei:1949-11-10;912",
+"consultado_em": "2026-11-12",
+"codigo": "542501",
+"nome": "Lei nº 912 de 10/11/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-11-17", "descricao": "Publicação Original [Diário Oficial da União de 17/11/1949] (p. 16081, col. 2)"}
+],
+"alteracoes": [
+{"data": "1950-03-23", "nome": "Decreto nº 27.905 de 23/03/1950", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

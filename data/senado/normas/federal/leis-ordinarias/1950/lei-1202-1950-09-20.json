@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1202-1950-09-20",
+"urn": "urn:lex:br:federal:lei:1950-09-20;1202",
+"consultado_em": "2026-11-12",
+"codigo": "542829",
+"nome": "Lei nº 1.202 de 20/09/1950",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-09-23", "descricao": "Publicação Original [Diário Oficial da União de 23/09/1950] (p. 13953, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-02-09", "nome": "Lei nº 5.250 de 09/02/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1967/lei-5250-1967-02-09"}
+],
+"controle": []
+}

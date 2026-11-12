@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1239-a-1950-11-20",
+"urn": "urn:lex:br:federal:lei:1950-11-20;1239-a",
+"consultado_em": "2026-11-12",
+"codigo": "542874",
+"nome": "Lei nº 1.239-A de 20/11/1950",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-11-27", "descricao": "Publicação Original [Diário Oficial da União de 27/11/1950] (p. 17025, col. 1)"}
+],
+"alteracoes": [
+{"data": "1957-12-05", "nome": "Lei nº 3.330 de 05/12/1957", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1957/lei-3330-1957-12-05"},
+{"data": "1979-05-29", "nome": "Decreto-Lei nº 1.683 de 29/05/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1979/del-1683-1979-05-29"}
+],
+"controle": []
+}

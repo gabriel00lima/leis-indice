@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-859-1949-10-12",
+"urn": "urn:lex:br:federal:lei:1949-10-12;859",
+"consultado_em": "2026-11-12",
+"codigo": "542440",
+"nome": "Lei nº 859 de 12/10/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-10-15", "descricao": "Publicação Original [Diário Oficial da União de 15/10/1949] (p. 14699, col. 2)"}
+],
+"alteracoes": [
+{"data": "1950-02-03", "nome": "Decreto nº 27.760 de 03/02/1950", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

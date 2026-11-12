@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1953/lei-1825-1953-03-19",
+"urn": "urn:lex:br:federal:lei:1953-03-19;1825",
+"consultado_em": "2026-11-12",
+"codigo": "543578",
+"nome": "Lei nº 1.825 de 19/03/1953",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1953-03-24", "descricao": "Publicação Original [Diário Oficial da União de 24/03/1953] (p. 5089, col. 1)"}
+],
+"alteracoes": [
+{"data": "1960-12-31", "nome": "Decreto nº 49.643 de 31/12/1960", "tipo": "Revigoração Permanente da Norma no Todo", "dispositivos": []}
+],
+"controle": []
+}

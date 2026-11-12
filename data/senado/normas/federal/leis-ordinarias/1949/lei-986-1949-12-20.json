@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-986-1949-12-20",
+"urn": "urn:lex:br:federal:lei:1949-12-20;986",
+"consultado_em": "2026-11-12",
+"codigo": "542586",
+"nome": "Lei nº 986 de 20/12/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/1949] (p. 17659, col. 3)"}
+],
+"alteracoes": [
+{"data": "1954-11-29", "nome": "Lei nº 2.354 de 29/11/1954", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2354-1954-11-29"}
+],
+"controle": []
+}

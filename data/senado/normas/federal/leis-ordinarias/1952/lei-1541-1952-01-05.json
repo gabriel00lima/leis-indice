@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1952/lei-1541-1952-01-05",
+"urn": "urn:lex:br:federal:lei:1952-01-05;1541",
+"consultado_em": "2026-11-12",
+"codigo": "543236",
+"nome": "Lei nº 1.541 de 05/01/1952",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1952-01-12", "descricao": "Publicação Original [Diário Oficial da União de 12/01/1952] (p. 497, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-01-19", "nome": "Lei nº 6.978 de 19/01/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-6978-1982-01-19"}
+],
+"controle": []
+}

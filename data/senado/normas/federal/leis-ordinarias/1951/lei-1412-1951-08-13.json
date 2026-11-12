@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1951/lei-1412-1951-08-13",
+"urn": "urn:lex:br:federal:lei:1951-08-13;1412",
+"consultado_em": "2026-11-12",
+"codigo": "543078",
+"nome": "Lei nº 1.412 de 13/08/1951",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1951-08-21", "descricao": "Publicação Original [Diário Oficial da União de 21/08/1951] (p. 12329, col. 1)"}
+],
+"alteracoes": [
+{"data": "1962-10-11", "nome": "Lei Delegada nº 11 de 11/10/1962", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

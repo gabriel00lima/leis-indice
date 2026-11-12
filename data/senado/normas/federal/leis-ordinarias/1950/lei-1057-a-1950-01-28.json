@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1057-a-1950-01-28",
+"urn": "urn:lex:br:federal:lei:1950-01-28;1057-a",
+"consultado_em": "2026-11-12",
+"codigo": "542664",
+"nome": "Lei nº 1.057-A de 28/01/1950",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-03-01", "descricao": "Publicação Original [Diário Oficial da União de 01/03/1950] (p. 2849, col. 1)"}
+],
+"alteracoes": [
+{"data": "1980-12-09", "nome": "Lei nº 6.880 de 09/12/1980", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1980/lei-6880-1980-12-09"}
+],
+"controle": []
+}

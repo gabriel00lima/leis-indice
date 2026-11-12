@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-599-a-1948-12-26",
+"urn": "urn:lex:br:federal:lei:1948-12-26;599-a",
+"consultado_em": "2026-11-12",
+"codigo": "542125",
+"nome": "Lei nº 599-A de 26/12/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-01-05", "descricao": "Publicação Original [Diário Oficial da União de 05/01/1949] (p. 137, col. 1)"}
+],
+"alteracoes": [
+{"data": "1954-06-26", "nome": "Lei nº 2.249 de 26/06/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2249-1954-06-26"},
+{"data": "1957-08-19", "nome": "Lei nº 3.245 de 19/08/1957", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1957/lei-3245-1957-08-19"},
+{"data": "1976-10-19", "nome": "Lei nº 6.367 de 19/10/1976", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1976/lei-6367-1976-10-19"}
+],
+"controle": []
+}

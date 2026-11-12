@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1255-1950-12-04",
+"urn": "urn:lex:br:federal:lei:1950-12-04;1255",
+"consultado_em": "2026-11-12",
+"codigo": "542898",
+"nome": "Lei nº 1.255 de 04/12/1950",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-12-08", "descricao": "Publicação Original [Diário Oficial da União de 08/12/1950] (p. 17541, col. 1)"}
+],
+"alteracoes": [
+{"data": "1957-11-11", "nome": "Lei nº 3.312 de 11/11/1957", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1957/lei-3312-1957-11-11"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1952/lei-1603-1952-05-16",
+"urn": "urn:lex:br:federal:lei:1952-05-16;1603",
+"consultado_em": "2026-11-12",
+"codigo": "543306",
+"nome": "Lei nº 1.603 de 16/05/1952",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1952-05-19", "descricao": "Publicação Original [Diário Oficial da União de 19/05/1952] (p. 8305, col. 1)"}
+],
+"alteracoes": [
+{"data": "1991-09-30", "nome": "Lei nº 8.237 de 30/09/1991", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8237-1991-09-30"}
+],
+"controle": []
+}

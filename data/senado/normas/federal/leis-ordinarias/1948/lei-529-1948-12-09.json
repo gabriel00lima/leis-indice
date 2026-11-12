@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-529-1948-12-09",
+"urn": "urn:lex:br:federal:lei:1948-12-09;529",
+"consultado_em": "2026-11-12",
+"codigo": "541978",
+"nome": "Lei nº 529 de 09/12/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-12-15", "descricao": "Publicação Original [Diário Oficial da União de 15/12/1948] (p. 17880, col. 1)"}
+],
+"alteracoes": [
+{"data": "1993-02-12", "nome": "Lei nº 8.625 de 12/02/1993", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1993/lei-8625-1993-02-12"},
+{"data": "1993-05-20", "nome": "Lei Complementar nº 75 de 20/05/1993", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-complementares/1993/lcp-75-1993-05-20"}
+],
+"controle": []
+}

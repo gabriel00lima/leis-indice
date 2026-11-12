@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-420-1948-10-03",
+"urn": "urn:lex:br:federal:lei:1948-10-03;420",
+"consultado_em": "2026-11-12",
+"codigo": "541742",
+"nome": "Lei nº 420 de 03/10/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-10-09", "descricao": "Publicação Original [Diário Oficial da União de 09/10/1948] (p. 14749, col. 2)"}
+],
+"alteracoes": [
+{"data": "1955-07-02", "nome": "Lei nº 2.523 de 02/07/1955", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 20", "art": "20", "acao": "revogou"}], "id": "federal/leis-ordinarias/1955/lei-2523-1955-07-02"}
+],
+"controle": []
+}

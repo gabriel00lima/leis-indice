@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1951/lei-1509-1951-12-19",
+"urn": "urn:lex:br:federal:lei:1951-12-19;1509",
+"consultado_em": "2026-11-12",
+"codigo": "543201",
+"nome": "Lei nº 1.509 de 19/12/1951",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1951-12-20", "descricao": "Publicação Original [Diário Oficial da União de 20/12/1951] (p. 18526, col. 1)"}
+],
+"alteracoes": [
+{"data": "1955-02-14", "nome": "Decreto nº 36.902 de 14/02/1955", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

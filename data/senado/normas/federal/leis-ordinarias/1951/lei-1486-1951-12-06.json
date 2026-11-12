@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1951/lei-1486-1951-12-06",
+"urn": "urn:lex:br:federal:lei:1951-12-06;1486",
+"consultado_em": "2026-11-12",
+"codigo": "543172",
+"nome": "Lei nº 1.486 de 06/12/1951",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1951-12-12", "descricao": "Publicação Original [Diário Oficial da União de 12/12/1951] (p. 18169, col. 2)"}
+],
+"alteracoes": [
+{"data": "1953-10-31", "nome": "Lei nº 2.054 de 31/10/1953", "tipo": "Revigoração Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1953/lei-2054-1953-10-31"}
+],
+"controle": []
+}

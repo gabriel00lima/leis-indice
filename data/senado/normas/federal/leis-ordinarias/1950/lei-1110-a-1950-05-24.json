@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1110-a-1950-05-24",
+"urn": "urn:lex:br:federal:lei:1950-05-24;1110-a",
+"consultado_em": "2026-11-12",
+"codigo": "542724",
+"nome": "Lei nº 1.110-A de 24/05/1950",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-05-30", "descricao": "Publicação Original [Diário Oficial da União de 30/05/1950] (p. 8217, col. 1)"}
+],
+"alteracoes": [
+{"data": "1950-07-27", "nome": "Decreto nº 28.424 de 27/07/1950", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-861-1949-10-13",
+"urn": "urn:lex:br:federal:lei:1949-10-13;861",
+"consultado_em": "2026-11-12",
+"codigo": "542442",
+"nome": "Lei nº 861 de 13/10/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-10-21", "descricao": "Publicação Original [Diário Oficial da União de 21/10/1949] (p. 14994, col. 1)"}
+],
+"alteracoes": [
+{"data": "1970-06-26", "nome": "Lei nº 5.584 de 26/06/1970", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1970/lei-5584-1970-06-26"},
+{"data": "1982-10-05", "nome": "Lei nº 7.033 de 05/10/1982", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7033-1982-10-05"}
+],
+"controle": []
+}

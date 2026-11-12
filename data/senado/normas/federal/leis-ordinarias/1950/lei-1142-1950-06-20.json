@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1142-1950-06-20",
+"urn": "urn:lex:br:federal:lei:1950-06-20;1142",
+"consultado_em": "2026-11-12",
+"codigo": "542759",
+"nome": "Lei nº 1.142 de 20/06/1950",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-06-24", "descricao": "Publicação Original [Diário Oficial da União de 24/06/1950] (p. 9546, col. 1)"}
+],
+"alteracoes": [
+{"data": "1956-11-30", "nome": "Lei nº 2.983 de 30/11/1956", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2983-1956-11-30"}
+],
+"controle": []
+}

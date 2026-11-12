@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1953/lei-1859-1953-05-19",
+"urn": "urn:lex:br:federal:lei:1953-05-19;1859",
+"consultado_em": "2026-11-12",
+"codigo": "543619",
+"nome": "Lei nº 1.859 de 19/05/1953",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1953-05-26", "descricao": "Publicação Original [Diário Oficial da União de 26/05/1953] (p. 9529, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-09-21", "nome": "Lei nº 5.108 de 21/09/1966", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5108-1966-09-21"}
+],
+"controle": []
+}

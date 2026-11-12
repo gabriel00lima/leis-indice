@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1241-1950-11-21",
+"urn": "urn:lex:br:federal:lei:1950-11-21;1241",
+"consultado_em": "2026-11-12",
+"codigo": "542877",
+"nome": "Lei nº 1.241 de 21/11/1950",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-11-24", "descricao": "Publicação Original [Diário Oficial da União de 24/11/1950] (p. 16913, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-06-01", "nome": "Lei nº 5.013 de 01/06/1966", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5013-1966-06-01"}
+],
+"controle": []
+}

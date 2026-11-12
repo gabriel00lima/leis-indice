@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1951/lei-1473-b-1951-11-24",
+"urn": "urn:lex:br:federal:lei:1951-11-24;1473-b",
+"consultado_em": "2026-11-12",
+"codigo": "543155",
+"nome": "Lei nº 1.473-B de 24/11/1951",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1951-11-30", "descricao": "Publicação Original [Diário Oficial da União de 30/11/1951] (p. 17545, col. 1)"}
+],
+"alteracoes": [
+{"data": "1964-12-10", "nome": "Lei nº 4.548 de 10/12/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4548-1964-12-10"}
+],
+"controle": []
+}

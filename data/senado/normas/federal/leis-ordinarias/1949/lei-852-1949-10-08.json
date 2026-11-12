@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-852-1949-10-08",
+"urn": "urn:lex:br:federal:lei:1949-10-08;852",
+"consultado_em": "2026-11-12",
+"codigo": "542432",
+"nome": "Lei nº 852 de 08/10/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-10-13", "descricao": "Publicação Original [Diário Oficial da União de 13/10/1949] (p. 14577, col. 2)"}
+],
+"alteracoes": [
+{"data": "1949-11-29", "nome": "Decreto nº 27.518 de 29/11/1949", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

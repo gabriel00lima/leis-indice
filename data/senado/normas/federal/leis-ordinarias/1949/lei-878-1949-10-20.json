@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-878-1949-10-20",
+"urn": "urn:lex:br:federal:lei:1949-10-20;878",
+"consultado_em": "2026-11-12",
+"codigo": "542462",
+"nome": "Lei nº 878 de 20/10/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-10-24", "descricao": "Publicação Original [Diário Oficial da União de 24/10/1949] (p. 15081, col. 2)"}
+],
+"alteracoes": [
+{"data": "1949-12-30", "nome": "Decreto nº 27.659 de 30/12/1949", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

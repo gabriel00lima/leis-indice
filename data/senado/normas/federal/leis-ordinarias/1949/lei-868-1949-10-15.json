@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-868-1949-10-15",
+"urn": "urn:lex:br:federal:lei:1949-10-15;868",
+"consultado_em": "2026-11-12",
+"codigo": "542451",
+"nome": "Lei nº 868 de 15/10/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-10-20", "descricao": "Publicação Original [Diário Oficial da União de 20/10/1949] (p. 14929, col. 3)"}
+],
+"alteracoes": [
+{"data": "1949-12-03", "nome": "Decreto nº 27.540 de 03/12/1949", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

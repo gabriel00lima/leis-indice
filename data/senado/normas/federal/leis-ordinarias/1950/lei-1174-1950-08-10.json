@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1950/lei-1174-1950-08-10",
+"urn": "urn:lex:br:federal:lei:1950-08-10;1174",
+"consultado_em": "2026-11-12",
+"codigo": "542798",
+"nome": "Lei nº 1.174 de 10/08/1950",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1950-08-17", "descricao": "Publicação Original [Diário Oficial da União de 17/08/1950] (p. 12129, col. 1)"}
+],
+"alteracoes": [
+{"data": "1980-12-09", "nome": "Lei nº 6.880 de 09/12/1980", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1980/lei-6880-1980-12-09"}
+],
+"controle": []
+}

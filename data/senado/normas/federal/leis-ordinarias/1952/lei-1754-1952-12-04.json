@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1952/lei-1754-1952-12-04",
+"urn": "urn:lex:br:federal:lei:1952-12-04;1754",
+"consultado_em": "2026-11-12",
+"codigo": "543484",
+"nome": "Lei nº 1.754 de 04/12/1952",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1952-12-10", "descricao": "Publicação Original [Diário Oficial da União de 10/12/1952] (p. 18745, col. 2)"}
+],
+"alteracoes": [
+{"data": "1999-06-02", "nome": "Medida Provisória nº 1.754-18 de 02/06/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 11", "art": "11", "acao": "alterou"}, {"dispositivo": "Art. 12, caput, Inciso 2", "art": "12", "acao": "alterou"}, {"dispositivo": "Art. 37, caput, Inciso 2", "art": "37", "acao": "alterou"}]}
+],
+"controle": []
+}

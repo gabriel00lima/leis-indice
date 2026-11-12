@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1953/lei-1937-1953-08-10",
+"urn": "urn:lex:br:federal:lei:1953-08-10;1937",
+"consultado_em": "2026-11-12",
+"codigo": "543702",
+"nome": "Lei nº 1.937 de 10/08/1953",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1953-08-12", "descricao": "Publicação Original [Diário Oficial da União de 12/08/1953] (p. 13937, col. 1)"}
+],
+"alteracoes": [
+{"data": "1954-07-30", "nome": "Lei nº 2.276 de 30/07/1954", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "revogou"}], "id": "federal/leis-ordinarias/1954/lei-2276-1954-07-30"}
+],
+"controle": []
+}

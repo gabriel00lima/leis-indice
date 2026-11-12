@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1949/lei-647-1949-03-06",
+"urn": "urn:lex:br:federal:lei:1949-03-06;647",
+"consultado_em": "2026-11-12",
+"codigo": "542192",
+"nome": "Lei nº 647 de 06/03/1949",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1949-03-12", "descricao": "Publicação Original [Diário Oficial da União de 12/03/1949] (p. 3545, col. 1)"}
+],
+"alteracoes": [
+{"data": "1950-12-28", "nome": "Lei nº 1.301 de 28/12/1950", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1950/lei-1301-1950-12-28"},
+{"data": "1960-04-14", "nome": "Lei nº 3.754 de 14/04/1960", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1960/lei-3754-1960-04-14"},
+{"data": "1967-01-25", "nome": "Decreto-Lei nº 113 de 25/01/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1967/del-113-1967-01-25"},
+{"data": "1979-12-10", "nome": "Lei nº 6.750 de 10/12/1979", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1979/lei-6750-1979-12-10"},
+{"data": "1991-05-14", "nome": "Lei nº 8.185 de 14/05/1991", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8185-1991-05-14"},
+{"data": "1992-01-10", "nome": "Lei nº 8.407 de 10/01/1992", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1992/lei-8407-1992-01-10"}
+],
+"controle": []
+}

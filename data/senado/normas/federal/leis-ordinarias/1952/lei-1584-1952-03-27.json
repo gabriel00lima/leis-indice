@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1952/lei-1584-1952-03-27",
+"urn": "urn:lex:br:federal:lei:1952-03-27;1584",
+"consultado_em": "2026-11-12",
+"codigo": "543280",
+"nome": "Lei nº 1.584 de 27/03/1952",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1952-03-31", "descricao": "Publicação Original [Diário Oficial da União de 31/03/1952] (p. 5217, col. 1)"}
+],
+"alteracoes": [
+{"data": "1952-09-18", "nome": "Decreto nº 31.477 de 18/09/1952", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

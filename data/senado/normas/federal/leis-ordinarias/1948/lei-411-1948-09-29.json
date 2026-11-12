@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1948/lei-411-1948-09-29",
+"urn": "urn:lex:br:federal:lei:1948-09-29;411",
+"consultado_em": "2026-11-12",
+"codigo": "541724",
+"nome": "Lei nº 411 de 29/09/1948",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1948-10-02", "descricao": "Publicação Original [Diário Oficial da União de 02/10/1948] (p. 14405, col. 1)"}
+],
+"alteracoes": [
+{"data": "1948-10-02", "nome": "Lei nº 414 de 02/10/1948", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1948/lei-414-1948-10-02"},
+{"data": "1953-05-19", "nome": "Lei nº 1.860 de 19/05/1953", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1953/lei-1860-1953-05-19"},
+{"data": "1954-12-06", "nome": "Lei nº 2.362 de 06/12/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2362-1954-12-06"},
+{"data": "1958-12-19", "nome": "Lei nº 3.493 de 19/12/1958", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1958/lei-3493-1958-12-19"},
+{"data": "1959-12-09", "nome": "Lei nº 3.683 de 09/12/1959", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 26", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/1959/lei-3683-1959-12-09"}
+],
+"controle": []
+}
