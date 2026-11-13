@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1958/lei-3397-1958-06-03",
+"urn": "urn:lex:br:federal:lei:1958-06-03;3397",
+"consultado_em": "2026-11-13",
+"codigo": "545210",
+"nome": "Lei nº 3.397 de 03/06/1958",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1958-06-06", "descricao": "Publicação Original [Diário Oficial da União de 06/06/1958] (p. 12841, col. 1)"}
+],
+"alteracoes": [
+{"data": "1959-06-18", "nome": "Decreto nº 46.239 de 18/06/1959", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

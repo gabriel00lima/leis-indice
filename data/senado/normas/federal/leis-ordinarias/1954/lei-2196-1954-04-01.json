@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1954/lei-2196-1954-04-01",
+"urn": "urn:lex:br:federal:lei:1954-04-01;2196",
+"consultado_em": "2026-11-13",
+"codigo": "543974",
+"nome": "Lei nº 2.196 de 01/04/1954",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1954-04-06", "descricao": "Publicação Original [Diário Oficial da União de 06/04/1954] (p. 5809, col. 1)"}
+],
+"alteracoes": [
+{"data": "1954-08-12", "nome": "Decreto nº 36.025 de 12/08/1954", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1967-01-31", "nome": "Decreto-Lei nº 127 de 31/01/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1967/del-127-1967-01-31"}
+],
+"controle": []
+}

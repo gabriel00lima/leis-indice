@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1955/lei-2419-1955-02-10",
+"urn": "urn:lex:br:federal:lei:1955-02-10;2419",
+"consultado_em": "2026-11-13",
+"codigo": "544216",
+"nome": "Lei nº 2.419 de 10/02/1955",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1955-02-17", "descricao": "Publicação Original [Diário Oficial da União de 17/02/1955] (p. 2553, col. 2)"}
+],
+"alteracoes": [
+{"data": "1969-02-05", "nome": "Decreto nº 64.063 de 05/02/1969", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2004-07-06", "nome": "Decreto nº 5.129 de 06/07/2004", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

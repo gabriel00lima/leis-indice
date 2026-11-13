@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1953/lei-2152-1953-12-30",
+"urn": "urn:lex:br:federal:lei:1953-12-30;2152",
+"consultado_em": "2026-11-13",
+"codigo": "543929",
+"nome": "Lei nº 2.152 de 30/12/1953",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1953-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/1953] (p. 22065, col. 3)"}
+],
+"alteracoes": [
+{"data": "1960-12-23", "nome": "Lei nº 3.858 de 23/12/1960", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1960/lei-3858-1960-12-23"}
+],
+"controle": []
+}

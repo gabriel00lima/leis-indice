@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1956/lei-3057-1956-12-22",
+"urn": "urn:lex:br:federal:lei:1956-12-22;3057",
+"consultado_em": "2026-11-13",
+"codigo": "544911",
+"nome": "Lei nº 3.057 de 22/12/1956",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1956-12-26", "descricao": "Publicação Original [Diário Oficial da União de 26/12/1956] (p. 24549, col. 1)"}
+],
+"alteracoes": [
+{"data": "1958-12-30", "nome": "Lei nº 3.512 de 30/12/1958", "tipo": "Revigoração Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1958/lei-3512-1958-12-30"},
+{"data": "1961-12-15", "nome": "Lei nº 4.004 de 15/12/1961", "tipo": "Revigoração Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1961/lei-4004-1961-12-15"}
+],
+"controle": []
+}

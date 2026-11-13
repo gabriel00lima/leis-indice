@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1957/lei-3278-1957-10-07",
+"urn": "urn:lex:br:federal:lei:1957-10-07;3278",
+"consultado_em": "2026-11-13",
+"codigo": "545057",
+"nome": "Lei nº 3.278 de 07/10/1957",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1957-10-09", "descricao": "Publicação Original [Diário Oficial da União de 09/10/1957] (p. 23453, col. 1)"}
+],
+"alteracoes": [
+{"data": "1959-08-12", "nome": "Lei nº 3.614 de 12/08/1959", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1959/lei-3614-1959-08-12"}
+],
+"controle": []
+}

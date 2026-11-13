@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1957/lei-3343-1957-12-14",
+"urn": "urn:lex:br:federal:lei:1957-12-14;3343",
+"consultado_em": "2026-11-13",
+"codigo": "545142",
+"nome": "Lei nº 3.343 de 14/12/1957",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1957-12-19", "descricao": "Publicação Original [Diário Oficial da União de 19/12/1957] (p. 28397, col. 3)"}
+],
+"alteracoes": [
+{"data": "1958-07-23", "nome": "Decreto nº 44.082 de 23/07/1958", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

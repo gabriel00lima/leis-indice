@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1957/lei-3293-1957-10-29",
+"urn": "urn:lex:br:federal:lei:1957-10-29;3293",
+"consultado_em": "2026-11-13",
+"codigo": "545077",
+"nome": "Lei nº 3.293 de 29/10/1957",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1957-10-29", "descricao": "Publicação Original [Diário Oficial da União de 29/10/1957] (p. 24709, col. 1)"}
+],
+"alteracoes": [
+{"data": "1958-01-14", "nome": "Decreto nº 43.033 de 14/01/1958", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

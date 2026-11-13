@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1956/lei-2904-1956-10-08",
+"urn": "urn:lex:br:federal:lei:1956-10-08;2904",
+"consultado_em": "2026-11-13",
+"codigo": "544734",
+"nome": "Lei nº 2.904 de 08/10/1956",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1956-10-08", "descricao": "Publicação Original [Diário Oficial da União de 08/10/1956] (p. 19131, col. 2)"}
+],
+"alteracoes": [
+{"data": "1957-10-07", "nome": "Decreto nº 42.411 de 07/10/1957", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

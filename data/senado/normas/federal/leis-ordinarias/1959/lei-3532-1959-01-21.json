@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1959/lei-3532-1959-01-21",
+"urn": "urn:lex:br:federal:lei:1959-01-21;3532",
+"consultado_em": "2026-11-13",
+"codigo": "545348",
+"nome": "Lei nº 3.532 de 21/01/1959",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1959-01-22", "descricao": "Publicação Original [Diário Oficial da União de 22/01/1959] (p. 1273, col. 1)"}
+],
+"alteracoes": [
+{"data": "1959-04-25", "nome": "Decreto nº 45.871 de 25/04/1959", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1957/lei-3178-1957-06-11",
+"urn": "urn:lex:br:federal:lei:1957-06-11;3178",
+"consultado_em": "2026-11-13",
+"codigo": "544935",
+"nome": "Lei nº 3.178 de 11/06/1957",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1957-06-13", "descricao": "Publicação Original [Diário Oficial da União de 13/06/1957] (p. 15349, col. 2)"}
+],
+"alteracoes": [
+{"data": "1960-02-03", "nome": "Decreto nº 47.757 de 03/02/1960", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

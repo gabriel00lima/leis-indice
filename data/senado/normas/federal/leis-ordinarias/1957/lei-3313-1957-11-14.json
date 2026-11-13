@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1957/lei-3313-1957-11-14",
+"urn": "urn:lex:br:federal:lei:1957-11-14;3313",
+"consultado_em": "2026-11-13",
+"codigo": "545106",
+"nome": "Lei nº 3.313 de 14/11/1957",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1957-11-16", "descricao": "Publicação Original [Diário Oficial da União de 16/11/1957] (p. 25853, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-12-20", "nome": "Lei Complementar nº 51 de 20/12/1985", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-complementares/1985/lcp-51-1985-12-20"}
+],
+"controle": []
+}

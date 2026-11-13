@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1956/lei-2706-1956-01-10",
+"urn": "urn:lex:br:federal:lei:1956-01-10;2706",
+"consultado_em": "2026-11-13",
+"codigo": "544524",
+"nome": "Lei nº 2.706 de 10/01/1956",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1956-01-10", "descricao": "Publicação Original [Diário Oficial da União de 10/01/1956] (p. 465, col. 1)"}
+],
+"alteracoes": [
+{"data": "1956-01-21", "nome": "Lei nº 2.713 de 21/01/1956", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2713-1956-01-21"}
+],
+"controle": []
+}

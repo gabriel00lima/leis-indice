@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1955/lei-2626-1955-10-22",
+"urn": "urn:lex:br:federal:lei:1955-10-22;2626",
+"consultado_em": "2026-11-13",
+"codigo": "544435",
+"nome": "Lei nº 2.626 de 22/10/1955",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1955-10-31", "descricao": "Publicação Original [Diário Oficial da União de 31/10/1955] (p. 20201, col. 1)"}
+],
+"alteracoes": [
+{"data": "1958-12-30", "nome": "Lei nº 3.516 de 30/12/1958", "tipo": "Revigoração Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1958/lei-3516-1958-12-30"}
+],
+"controle": []
+}

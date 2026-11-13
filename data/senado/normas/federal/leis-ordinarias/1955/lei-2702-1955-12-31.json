@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1955/lei-2702-1955-12-31",
+"urn": "urn:lex:br:federal:lei:1955-12-31;2702",
+"consultado_em": "2026-11-13",
+"codigo": "544518",
+"nome": "Lei nº 2.702 de 31/12/1955",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1956-01-02", "descricao": "Publicação Original [Diário Oficial da União de 02/01/1956] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "1964-07-06", "nome": "Lei nº 4.349 de 06/07/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4349-1964-07-06"}
+],
+"controle": []
+}

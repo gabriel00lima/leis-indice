@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1957/lei-3295-1957-10-30",
+"urn": "urn:lex:br:federal:lei:1957-10-30;3295",
+"consultado_em": "2026-11-13",
+"codigo": "545080",
+"nome": "Lei nº 3.295 de 30/10/1957",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1957-10-31", "descricao": "Publicação Original [Diário Oficial da União de 31/10/1957] (p. 24885, col. 1)"}
+],
+"alteracoes": [
+{"data": "1975-01-10", "nome": "Decreto nº 75.208 de 10/01/1975", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

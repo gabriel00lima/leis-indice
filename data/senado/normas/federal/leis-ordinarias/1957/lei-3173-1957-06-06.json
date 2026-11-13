@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1957/lei-3173-1957-06-06",
+"urn": "urn:lex:br:federal:lei:1957-06-06;3173",
+"consultado_em": "2026-11-13",
+"codigo": "544930",
+"nome": "Lei nº 3.173 de 06/06/1957",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1957-06-12", "descricao": "Publicação Original [Diário Oficial da União de 12/06/1957] (p. 15285, col. 1)"}
+],
+"alteracoes": [
+{"data": "1958-05-22", "nome": "Decreto nº 43.798 de 22/05/1958", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1960-02-03", "nome": "Decreto nº 47.757 de 03/02/1960", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1967-02-28", "nome": "Decreto-Lei nº 288 de 28/02/1967", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1967/del-288-1967-02-28"}
+],
+"controle": []
+}

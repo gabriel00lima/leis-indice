@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1955/lei-2413-1955-02-05",
+"urn": "urn:lex:br:federal:lei:1955-02-05;2413",
+"consultado_em": "2026-11-13",
+"codigo": "544209",
+"nome": "Lei nº 2.413 de 05/02/1955",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1955-02-09", "descricao": "Publicação Original [Diário Oficial da União de 09/02/1955] (p. 2041, col. 1)"}
+],
+"alteracoes": [
+{"data": "1959-07-20", "nome": "Decreto nº 46.466 de 20/07/1959", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

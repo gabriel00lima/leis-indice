@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1958/lei-3494-1958-12-19",
+"urn": "urn:lex:br:federal:lei:1958-12-19;3494",
+"consultado_em": "2026-11-13",
+"codigo": "545310",
+"nome": "Lei nº 3.494 de 19/12/1958",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1958-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/1958] (p. 26945, col. 2)"}
+],
+"alteracoes": [
+{"data": "1964-11-25", "nome": "Lei nº 4.494 de 25/11/1964", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4494-1964-11-25"}
+],
+"controle": []
+}

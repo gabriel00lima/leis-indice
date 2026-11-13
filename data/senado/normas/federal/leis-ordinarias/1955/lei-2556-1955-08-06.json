@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1955/lei-2556-1955-08-06",
+"urn": "urn:lex:br:federal:lei:1955-08-06;2556",
+"consultado_em": "2026-11-13",
+"codigo": "544360",
+"nome": "Lei nº 2.556 de 06/08/1955",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1955-08-12", "descricao": "Publicação Original [Diário Oficial da União de 12/08/1955] (p. 15537, col. 1)"}
+],
+"alteracoes": [
+{"data": "1956-07-13", "nome": "Decreto nº 39.573 de 13/07/1956", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

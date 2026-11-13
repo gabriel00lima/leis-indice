@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1956/lei-3071-1956-12-22",
+"urn": "urn:lex:br:federal:lei:1956-12-22;3071",
+"consultado_em": "2026-11-13",
+"codigo": "573284",
+"nome": "Lei nº 3.071 de 22/12/1956",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1956-12-26", "descricao": "Publicação Original [Diário Oficial da União de 26/12/1956] (p. 24550, col. 3)"}
+],
+"alteracoes": [
+{"data": "1958-02-05", "nome": "Decreto nº 43.183 de 05/02/1958", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1981-12-10", "nome": "Lei nº 6.969 de 10/12/1981", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1981/lei-6969-1981-12-10"}
+],
+"controle": []
+}

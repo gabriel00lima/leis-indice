@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1954/lei-2158-1954-01-02",
+"urn": "urn:lex:br:federal:lei:1954-01-02;2158",
+"consultado_em": "2026-11-13",
+"codigo": "543935",
+"nome": "Lei nº 2.158 de 02/01/1954",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1954-01-06", "descricao": "Publicação Original [Diário Oficial da União de 06/01/1954] (p. 193, col. 2)"}
+],
+"alteracoes": [
+{"data": "1965-11-29", "nome": "Lei nº 4.863 de 29/11/1965", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1965/lei-4863-1965-11-29"}
+],
+"controle": []
+}

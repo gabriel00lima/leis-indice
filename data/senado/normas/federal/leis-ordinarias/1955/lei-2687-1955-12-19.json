@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1955/lei-2687-1955-12-19",
+"urn": "urn:lex:br:federal:lei:1955-12-19;2687",
+"consultado_em": "2026-11-13",
+"codigo": "544503",
+"nome": "Lei nº 2.687 de 19/12/1955",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1955-12-19", "descricao": "Publicação Original [Diário Oficial da União de 19/12/1955] (p. 23065, col. 1)"}
+],
+"alteracoes": [
+{"data": "1955-12-20", "nome": "Decreto nº 38.342 de 20/12/1955", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1955-12-20", "nome": "Decreto nº 38.343 de 20/12/1955", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

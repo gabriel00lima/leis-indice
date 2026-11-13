@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1956/lei-2795-1956-06-12",
+"urn": "urn:lex:br:federal:lei:1956-06-12;2795",
+"consultado_em": "2026-11-13",
+"codigo": "544618",
+"nome": "Lei nº 2.795 de 12/06/1956",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1956-06-14", "descricao": "Publicação Original [Diário Oficial da União de 14/06/1956] (p. 11697, col. 1)"}
+],
+"alteracoes": [
+{"data": "1988-11-08", "nome": "Lei nº 7.678 de 08/11/1988", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1988/lei-7678-1988-11-08"}
+],
+"controle": []
+}

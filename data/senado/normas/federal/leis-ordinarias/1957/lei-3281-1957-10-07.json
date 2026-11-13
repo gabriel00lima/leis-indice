@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1957/lei-3281-1957-10-07",
+"urn": "urn:lex:br:federal:lei:1957-10-07;3281",
+"consultado_em": "2026-11-13",
+"codigo": "545060",
+"nome": "Lei nº 3.281 de 07/10/1957",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1957-10-08", "descricao": "Publicação Original [Diário Oficial da União de 08/10/1957] (p. 23397, col. 1)"}
+],
+"alteracoes": [
+{"data": "1961-04-03", "nome": "Decreto nº 50.406 de 03/04/1961", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1958/lei-3496-1958-12-21",
+"urn": "urn:lex:br:federal:lei:1958-12-21;3496",
+"consultado_em": "2026-11-13",
+"codigo": "545312",
+"nome": "Lei nº 3.496 de 21/12/1958",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1958-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/1958] (p. 26945, col. 3)"}
+],
+"alteracoes": [
+{"data": "1961-07-31", "nome": "Decreto nº 51.086 de 31/07/1961", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1962-03-30", "nome": "Decreto do Conselho de MInistros nº 809 de 30/03/1962", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

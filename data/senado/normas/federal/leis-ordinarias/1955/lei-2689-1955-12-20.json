@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1955/lei-2689-1955-12-20",
+"urn": "urn:lex:br:federal:lei:1955-12-20;2689",
+"consultado_em": "2026-11-13",
+"codigo": "544505",
+"nome": "Lei nº 2.689 de 20/12/1955",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1955-12-21", "descricao": "Publicação Original [Diário Oficial da União de 21/12/1955] (p. 23225, col. 3)"}
+],
+"alteracoes": [
+{"data": "1998-06-16", "nome": "Lei nº 9.661 de 16/06/1998", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1998/lei-9661-1998-06-16"}
+],
+"controle": []
+}

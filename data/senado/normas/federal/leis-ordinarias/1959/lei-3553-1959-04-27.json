@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1959/lei-3553-1959-04-27",
+"urn": "urn:lex:br:federal:lei:1959-04-27;3553",
+"consultado_em": "2026-11-13",
+"codigo": "545369",
+"nome": "Lei nº 3.553 de 27/04/1959",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1959-04-27", "descricao": "Publicação Original [Diário Oficial da União de 27/04/1959] (p. 9801, col. 1)"}
+],
+"alteracoes": [
+{"data": "1961-05-19", "nome": "Lei nº 3.898 de 19/05/1961", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1961/lei-3898-1961-05-19"}
+],
+"controle": []
+}

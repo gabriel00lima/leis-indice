@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1958/lei-3513-1958-12-30",
+"urn": "urn:lex:br:federal:lei:1958-12-30;3513",
+"consultado_em": "2026-11-13",
+"codigo": "545329",
+"nome": "Lei nº 3.513 de 30/12/1958",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1958-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/1958] (p. 27489, col. 3)"}
+],
+"alteracoes": [
+{"data": "1959-12-31", "nome": "Decreto nº 47.583 de 31/12/1959", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

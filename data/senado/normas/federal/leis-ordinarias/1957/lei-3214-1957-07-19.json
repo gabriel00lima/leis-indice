@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1957/lei-3214-1957-07-19",
+"urn": "urn:lex:br:federal:lei:1957-07-19;3214",
+"consultado_em": "2026-11-13",
+"codigo": "544984",
+"nome": "Lei nº 3.214 de 19/07/1957",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1957-07-23", "descricao": "Publicação Original [Diário Oficial da União de 23/07/1957] (p. 18197, col. 1)"}
+],
+"alteracoes": [
+{"data": "1957-12-03", "nome": "Decreto nº 42.730 de 03/12/1957", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

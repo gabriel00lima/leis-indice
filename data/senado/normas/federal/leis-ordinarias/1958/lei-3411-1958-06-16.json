@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1958/lei-3411-1958-06-16",
+"urn": "urn:lex:br:federal:lei:1958-06-16;3411",
+"consultado_em": "2026-11-13",
+"codigo": "545225",
+"nome": "Lei nº 3.411 de 16/06/1958",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1958-06-17", "descricao": "Publicação Original [Diário Oficial da União de 17/06/1958] (p. 13769, col. 4)"}
+],
+"alteracoes": [
+{"data": "1958-09-30", "nome": "Decreto nº 44.603 de 30/09/1958", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}
