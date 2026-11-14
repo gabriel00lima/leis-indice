@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1962/lei-4174-1962-12-05",
+"urn": "urn:lex:br:federal:lei:1962-12-05;4174",
+"consultado_em": "2026-11-14",
+"codigo": "546016",
+"nome": "Lei nº 4.174 de 05/12/1962",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-12-24", "descricao": "Publicação Original [Diário Oficial da União de 24/12/1962] (p. 13157, col. 3)"}
+],
+"alteracoes": [
+{"data": "1986-11-21", "nome": "Decreto-Lei nº 2.303 de 21/11/1986", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, Parágrafo Único", "art": "7", "acao": "revogou"}], "id": "federal/decretos-lei/1986/del-2303-1986-11-21"}
+],
+"controle": []
+}

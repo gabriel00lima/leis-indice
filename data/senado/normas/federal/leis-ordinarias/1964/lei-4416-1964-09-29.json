@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4416-1964-09-29",
+"urn": "urn:lex:br:federal:lei:1964-09-29;4416",
+"consultado_em": "2026-11-14",
+"codigo": "546266",
+"nome": "Lei nº 4.416 de 29/09/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-09-30", "descricao": "Publicação Original [Diário Oficial da União de 30/09/1964] (p. 8785, col. 3)"}
+],
+"alteracoes": [
+{"data": "1964-11-25", "nome": "Lei nº 4.494 de 25/11/1964", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4494-1964-11-25"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4518-1964-12-02",
+"urn": "urn:lex:br:federal:lei:1964-12-02;4518",
+"consultado_em": "2026-11-14",
+"codigo": "546370",
+"nome": "Lei nº 4.518 de 02/12/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-12-07", "descricao": "Publicação Original [Diário Oficial da União de 07/12/1964] (p. 11129, col. 2)"}
+],
+"alteracoes": [
+{"data": "1969-09-04", "nome": "Decreto-Lei nº 809 de 04/09/1969", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}], "id": "federal/decretos-lei/1969/del-809-1969-09-04"}
+],
+"controle": []
+}

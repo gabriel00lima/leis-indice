@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5452-1968-06-12",
+"urn": "urn:lex:br:federal:lei:1968-06-12;5452",
+"consultado_em": "2026-11-14",
+"codigo": "547320",
+"nome": "Lei nº 5.452 de 12/06/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-06-14", "descricao": "Publicação Original [Diário Oficial da União de 14/06/1968] (p. 4857, col. 3)"}
+],
+"alteracoes": [
+{"data": "1969-10-17", "nome": "Decreto-Lei nº 972 de 17/10/1969", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 310", "art": "310", "acao": "revogou"}, {"dispositivo": "Art. 314", "art": "314", "acao": "revogou"}], "id": "federal/decretos-lei/1969/del-972-1969-10-17"},
+{"data": "1976-04-29", "nome": "Decreto nº 77.510 de 29/04/1976", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1984-06-04", "nome": "Lei nº 7.189 de 04/06/1984", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1984/lei-7189-1984-06-04"},
+{"data": "1985-12-17", "nome": "Lei nº 7.430 de 17/12/1985", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 224", "art": "224", "acao": "alterou"}], "id": "federal/leis-ordinarias/1985/lei-7430-1985-12-17"},
+{"data": "1999-06-29", "nome": "Medida Provisória nº 1.879-12 de 29/06/1999", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 58", "art": "58", "acao": "acrescentou"}, {"dispositivo": "Art. 59, § 2", "art": "59", "acao": "alterou"}, {"dispositivo": "Art. 59, § 4", "art": "59", "acao": "alterou"}, {"dispositivo": "Art. 130", "art": "130", "acao": "acrescentou"}, {"dispositivo": "Art. 143, § 3", "art": "143", "acao": "alterou"}, {"dispositivo": "Art. 476", "art": "476", "acao": "acrescentou"}]}
+],
+"controle": []
+}

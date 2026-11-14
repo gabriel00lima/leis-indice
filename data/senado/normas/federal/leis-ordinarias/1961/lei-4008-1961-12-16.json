@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1961/lei-4008-1961-12-16",
+"urn": "urn:lex:br:federal:lei:1961-12-16;4008",
+"consultado_em": "2026-11-14",
+"codigo": "545840",
+"nome": "Lei nº 4.008 de 16/12/1961",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-01-02", "descricao": "Publicação Original [Diário Oficial da União de 02/01/1962] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "1964-11-25", "nome": "Lei nº 4.494 de 25/11/1964", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4494-1964-11-25"}
+],
+"controle": []
+}

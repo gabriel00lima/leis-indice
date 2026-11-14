@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1959/lei-3725-1959-12-28",
+"urn": "urn:lex:br:federal:lei:1959-12-28;3725",
+"consultado_em": "2026-11-14",
+"codigo": "545543",
+"nome": "Lei nº 3.725 de 28/12/1959",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1959-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/1959] (p. 27161, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-06-29", "nome": "Lei nº 5.058 de 29/06/1966", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1966/lei-5058-1966-06-29"}
+],
+"controle": []
+}

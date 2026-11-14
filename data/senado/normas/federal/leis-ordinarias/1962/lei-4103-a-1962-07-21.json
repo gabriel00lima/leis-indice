@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1962/lei-4103-a-1962-07-21",
+"urn": "urn:lex:br:federal:lei:1962-07-21;4103-a",
+"consultado_em": "2026-11-14",
+"codigo": "545943",
+"nome": "Lei nº 4.103-A de 21/07/1962",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-08-02", "descricao": "Publicação Original [Diário Oficial da União de 02/08/1962] (p. 8173, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-11-21", "nome": "Decreto-Lei nº 72 de 21/11/1966", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1966/del-72-1966-11-21"}
+],
+"controle": []
+}

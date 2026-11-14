@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6445-1977-10-04",
+"urn": "urn:lex:br:federal:lei:1977-10-04;6445",
+"consultado_em": "2026-11-14",
+"codigo": "548321",
+"nome": "Lei nº 6.445 de 04/10/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-10-05", "descricao": "Publicação Original [Diário Oficial da União de 05/10/1977] (p. 13345, col. 1)"}
+],
+"alteracoes": [
+{"data": "1981-11-17", "nome": "Decreto nº 86.600 de 17/11/1981", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1984-12-10", "nome": "Decreto nº 90.641 de 10/12/1984", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

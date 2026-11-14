@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1960/lei-3780-a-1960-07-12",
+"urn": "urn:lex:br:federal:lei:1960-07-12;3780-a",
+"consultado_em": "2026-11-14",
+"codigo": "545599",
+"nome": "Lei nº 3.780-A de 12/07/1960",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1960-07-19", "descricao": "Publicação Original [Diário Oficial da União de 19/07/1960] (p. 10365, col. 1)"}
+],
+"alteracoes": [
+{"data": "1961-07-06", "nome": "Decreto nº 50.921 de 06/07/1961", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

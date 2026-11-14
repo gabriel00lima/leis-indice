@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4540-1964-12-10",
+"urn": "urn:lex:br:federal:lei:1964-12-10;4540",
+"consultado_em": "2026-11-14",
+"codigo": "546393",
+"nome": "Lei nº 4.540 de 10/12/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-12-11", "descricao": "Publicação Original [Diário Oficial da União de 11/12/1964] (p. 11329, col. 2)"}
+],
+"alteracoes": [
+{"data": "1973-09-10", "nome": "Lei nº 5.917 de 10/09/1973", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-5917-1973-09-10"}
+],
+"controle": []
+}

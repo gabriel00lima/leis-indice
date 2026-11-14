@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1962/lei-4130-1962-08-28",
+"urn": "urn:lex:br:federal:lei:1962-08-28;4130",
+"consultado_em": "2026-11-14",
+"codigo": "545972",
+"nome": "Lei nº 4.130 de 28/08/1962",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-09-03", "descricao": "Publicação Original [Diário Oficial da União de 03/09/1962] (p. 9130, col. 1)"}
+],
+"alteracoes": [
+{"data": "1968-05-23", "nome": "Lei nº 5.440-A de 23/05/1968", "tipo": "Revogação Permanente das Disposições em Contrário da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1968/lei-5440-a-1968-05-23"}
+],
+"controle": []
+}

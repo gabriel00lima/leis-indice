@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4529-1964-12-08",
+"urn": "urn:lex:br:federal:lei:1964-12-08;4529",
+"consultado_em": "2026-11-14",
+"codigo": "546381",
+"nome": "Lei nº 4.529 de 08/12/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-12-10", "descricao": "Publicação Original [Diário Oficial da União de 10/12/1964] (p. 11274, col. 2)"}
+],
+"alteracoes": [
+{"data": "1961-05-19", "nome": "Decreto nº 50.629 de 19/05/1961", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

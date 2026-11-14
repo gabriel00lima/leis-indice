@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1975/lei-6295-1975-12-15",
+"urn": "urn:lex:br:federal:lei:1975-12-15;6295",
+"consultado_em": "2026-11-14",
+"codigo": "548171",
+"nome": "Lei nº 6.295 de 15/12/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-12-16", "descricao": "Publicação Original [Diário Oficial da União de 16/12/1975] (p. 16677, col. 2)"}
+],
+"alteracoes": [
+{"data": "1976-11-26", "nome": "Lei nº 6.375 de 26/11/1976", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1976/lei-6375-1976-11-26"}
+],
+"controle": []
+}

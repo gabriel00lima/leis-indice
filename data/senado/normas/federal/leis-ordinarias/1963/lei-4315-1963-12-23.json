@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1963/lei-4315-1963-12-23",
+"urn": "urn:lex:br:federal:lei:1963-12-23;4315",
+"consultado_em": "2026-11-14",
+"codigo": "546164",
+"nome": "Lei nº 4.315 de 23/12/1963",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-01-10", "descricao": "Publicação Original [Diário Oficial da União de 10/01/1964] (p. 234, col. 2)"}
+],
+"alteracoes": [
+{"data": "1965-05-03", "nome": "Lei nº 4.622 de 03/05/1965", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}], "id": "federal/leis-ordinarias/1965/lei-4622-1965-05-03"}
+],
+"controle": []
+}

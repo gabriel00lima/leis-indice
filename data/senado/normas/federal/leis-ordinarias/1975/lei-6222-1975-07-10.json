@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1975/lei-6222-1975-07-10",
+"urn": "urn:lex:br:federal:lei:1975-07-10;6222",
+"consultado_em": "2026-11-14",
+"codigo": "548098",
+"nome": "Lei nº 6.222 de 10/07/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-07-11", "descricao": "Publicação Original [Diário Oficial da União de 11/07/1975] (p. 8537, col. 1)"},
+{"tipo": "RET", "data": "1975-07-18", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 18/07/1975] (p. 8922, col. 4)"}
+],
+"alteracoes": [
+{"data": "1975-12-29", "nome": "Decreto nº 76.925 de 29/12/1975", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "alterou"}]},
+{"data": "1978-09-18", "nome": "Decreto nº 82.278 de 18/09/1978", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1982-09-09", "nome": "Decreto nº 87.560 de 09/09/1982", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1993-02-25", "nome": "Lei nº 8.630 de 25/02/1993", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1993/lei-8630-1993-02-25"}
+],
+"controle": []
+}

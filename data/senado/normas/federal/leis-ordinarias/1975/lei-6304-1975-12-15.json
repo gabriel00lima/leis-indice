@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1975/lei-6304-1975-12-15",
+"urn": "urn:lex:br:federal:lei:1975-12-15;6304",
+"consultado_em": "2026-11-14",
+"codigo": "548180",
+"nome": "Lei nº 6.304 de 15/12/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-12-16", "descricao": "Publicação Original [Diário Oficial da União de 16/12/1975] (p. 16683, col. 2)"}
+],
+"alteracoes": [
+{"data": "1986-04-18", "nome": "Lei nº 7.464 de 18/04/1986", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7464-1986-04-18"}
+],
+"controle": []
+}

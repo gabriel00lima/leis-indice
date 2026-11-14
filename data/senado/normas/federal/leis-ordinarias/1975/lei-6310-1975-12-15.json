@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1975/lei-6310-1975-12-15",
+"urn": "urn:lex:br:federal:lei:1975-12-15;6310",
+"consultado_em": "2026-11-14",
+"codigo": "548186",
+"nome": "Lei nº 6.310 de 15/12/1975",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1975-12-16", "descricao": "Publicação Original [Diário Oficial da União de 16/12/1975] (p. 16684, col. 3)"}
+],
+"alteracoes": [
+{"data": "1979-05-03", "nome": "Decreto nº 83.400 de 03/05/1979", "tipo": "Aprovação de Estatuto", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1971/lei-5742-1971-12-01",
+"urn": "urn:lex:br:federal:lei:1971-12-01;5742",
+"consultado_em": "2026-11-14",
+"codigo": "547616",
+"nome": "Lei nº 5.742 de 01/12/1971",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1971-12-02", "descricao": "Publicação Original [Diário Oficial da União de 02/12/1971] (p. 9826, col. 4)"}
+],
+"alteracoes": [
+{"data": "1988-02-03", "nome": "Lei nº 7.652 de 03/02/1988", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1988/lei-7652-1988-02-03"}
+],
+"controle": []
+}

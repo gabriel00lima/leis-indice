@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4657-1965-06-02",
+"urn": "urn:lex:br:federal:lei:1965-06-02;4657",
+"consultado_em": "2026-11-14",
+"codigo": "546510",
+"nome": "Lei nº 4.657 de 02/06/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-06-08", "descricao": "Publicação Original [Diário Oficial da União de 08/06/1965] (p. 5401, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-12-26", "nome": "Lei nº 6.515 de 26/12/1977", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1977/lei-6515-1977-12-26"}
+],
+"controle": []
+}

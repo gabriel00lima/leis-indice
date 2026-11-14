@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1963/lei-4292-1963-12-12",
+"urn": "urn:lex:br:federal:lei:1963-12-12;4292",
+"consultado_em": "2026-11-14",
+"codigo": "546141",
+"nome": "Lei nº 4.292 de 12/12/1963",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1963-12-27", "descricao": "Publicação Original [Diário Oficial da União de 27/12/1963] (p. 10956, col. 3)"}
+],
+"alteracoes": [
+{"data": "1964-11-25", "nome": "Lei nº 4.494 de 25/11/1964", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4494-1964-11-25"}
+],
+"controle": []
+}

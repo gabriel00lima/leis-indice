@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4473-1964-11-12",
+"urn": "urn:lex:br:federal:lei:1964-11-12;4473",
+"consultado_em": "2026-11-14",
+"codigo": "546324",
+"nome": "Lei nº 4.473 de 12/11/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-11-17", "descricao": "Publicação Original [Diário Oficial da União de 17/11/1964] (p. 10393, col. 2)"}
+],
+"alteracoes": [
+{"data": "1969-10-13", "nome": "Decreto-Lei nº 941 de 13/10/1969", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1969/del-941-1969-10-13"}
+],
+"controle": []
+}

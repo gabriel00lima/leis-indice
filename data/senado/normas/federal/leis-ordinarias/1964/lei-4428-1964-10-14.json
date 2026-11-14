@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4428-1964-10-14",
+"urn": "urn:lex:br:federal:lei:1964-10-14;4428",
+"consultado_em": "2026-11-14",
+"codigo": "546278",
+"nome": "Lei nº 4.428 de 14/10/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-10-16", "descricao": "Publicação Original [Diário Oficial da União de 16/10/1964] (p. 9441, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-08-12", "nome": "Decreto nº 59.079 de 12/08/1966", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

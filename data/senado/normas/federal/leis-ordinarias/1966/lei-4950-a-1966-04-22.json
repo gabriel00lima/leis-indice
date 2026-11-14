@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1966/lei-4950-a-1966-04-22",
+"urn": "urn:lex:br:federal:lei:1966-04-22;4950-a",
+"consultado_em": "2026-11-14",
+"codigo": "546808",
+"nome": "Lei nº 4.950-A de 22/04/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-04-29", "descricao": "Publicação Original [Diário Oficial da União de 29/04/1966] (p. 4547, col. 1)"}
+],
+"alteracoes": [
+{"data": "2024-11-18", "nome": "Lei nº 15.026 de 18/11/2024", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2024/lei-15026-2024-11-18"}
+],
+"controle": [
+{"data": "1971-06-07", "nome": "Resolução do Senado Federal nº 12 de 07/06/1971", "tipo": "Suspensão de Execução por Inconstitucionalidade da Norma No Todo", "dispositivos": [], "efeito": "inconstitucional"},
+{"data": "2022-02-18", "nome": "Acórdão da Arguição de Descumprimento de Preceito Fundamental nº 171 de 18/02/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, caput", "art": "5", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}], "decisao": {"classe": "ADPF", "numero": "171"}}
+]
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1960/lei-3812-1960-09-10",
+"urn": "urn:lex:br:federal:lei:1960-09-10;3812",
+"consultado_em": "2026-11-14",
+"codigo": "545634",
+"nome": "Lei nº 3.812 de 10/09/1960",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1960-09-21", "descricao": "Publicação Original [Diário Oficial da União de 21/09/1960] (p. 12701, col. 3)"}
+],
+"alteracoes": [
+{"data": "1961-07-31", "nome": "Decreto nº 51.076 de 31/07/1961", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

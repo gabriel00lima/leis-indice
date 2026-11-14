@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4490-1964-11-20",
+"urn": "urn:lex:br:federal:lei:1964-11-20;4490",
+"consultado_em": "2026-11-14",
+"codigo": "546341",
+"nome": "Lei nº 4.490 de 20/11/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-11-25", "descricao": "Publicação Original [Diário Oficial da União de 25/11/1964] (p. 10753, col. 1)"}
+],
+"alteracoes": [
+{"data": "1965-02-04", "nome": "Decreto nº 55.736 de 04/02/1965", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

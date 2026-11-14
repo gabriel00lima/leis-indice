@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1963/lei-4203-1963-02-07",
+"urn": "urn:lex:br:federal:lei:1963-02-07;4203",
+"consultado_em": "2026-11-14",
+"codigo": "546045",
+"nome": "Lei nº 4.203 de 07/02/1963",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1963-02-08", "descricao": "Publicação Original [Diário Oficial da União de 08/02/1963] (p. 1393, col. 1)"}
+],
+"alteracoes": [
+{"data": "1964-06-26", "nome": "Lei nº 4.345 de 26/06/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4345-1964-06-26"},
+{"data": "1967-03-14", "nome": "Decreto nº 60.477 de 14/03/1967", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1969-12-31", "nome": "Decreto nº 66.030 de 31/12/1969", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1976-04-14", "nome": "Decreto nº 77.442 de 14/04/1976", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

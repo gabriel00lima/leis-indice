@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1962/lei-4055-1962-04-13",
+"urn": "urn:lex:br:federal:lei:1962-04-13;4055",
+"consultado_em": "2026-11-14",
+"codigo": "545888",
+"nome": "Lei nº 4.055 de 13/04/1962",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-04-16", "descricao": "Publicação Original [Diário Oficial da União de 16/04/1962] (p. 4309, col. 1)"}
+],
+"alteracoes": [
+{"data": "1962-11-28", "nome": "Lei nº 4.156 de 28/11/1962", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1962/lei-4156-1962-11-28"}
+],
+"controle": []
+}

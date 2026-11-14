@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4670-1965-06-12",
+"urn": "urn:lex:br:federal:lei:1965-06-12;4670",
+"consultado_em": "2026-11-14",
+"codigo": "546523",
+"nome": "Lei nº 4.670 de 12/06/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-06-15", "descricao": "Publicação Original [Diário Oficial da União de 15/06/1965] (p. 5617, col. 3)"}
+],
+"alteracoes": [
+{"data": "1965-11-10", "nome": "Decreto nº 57.209 de 10/11/1965", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

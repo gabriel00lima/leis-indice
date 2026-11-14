@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1962/lei-4160-1962-12-04",
+"urn": "urn:lex:br:federal:lei:1962-12-04;4160",
+"consultado_em": "2026-11-14",
+"codigo": "546002",
+"nome": "Lei nº 4.160 de 04/12/1962",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-12-10", "descricao": "Publicação Original [Diário Oficial da União de 10/12/1962] (p. 12605, col. 1)"}
+],
+"alteracoes": [
+{"data": "1964-11-25", "nome": "Lei nº 4.494 de 25/11/1964", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4494-1964-11-25"}
+],
+"controle": []
+}

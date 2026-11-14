@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5518-1968-10-29",
+"urn": "urn:lex:br:federal:lei:1968-10-29;5518",
+"consultado_em": "2026-11-14",
+"codigo": "547387",
+"nome": "Lei nº 5.518 de 29/10/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-11-01", "descricao": "Publicação Original [Diário Oficial da União de 01/11/1968] (p. 9561, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-08-30", "nome": "Lei nº 7.018 de 30/08/1982", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7018-1982-08-30"}
+],
+"controle": []
+}

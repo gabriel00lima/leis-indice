@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4400-1964-08-31",
+"urn": "urn:lex:br:federal:lei:1964-08-31;4400",
+"consultado_em": "2026-11-14",
+"codigo": "546250",
+"nome": "Lei nº 4.400 de 31/08/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-09-09", "descricao": "Publicação Original [Diário Oficial da União de 09/09/1964] (p. 8009, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-06-25", "nome": "Decreto nº 72.397 de 25/06/1973", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

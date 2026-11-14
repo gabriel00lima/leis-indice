@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1978/lei-6528-1978-05-11",
+"urn": "urn:lex:br:federal:lei:1978-05-11;6528",
+"consultado_em": "2026-11-14",
+"codigo": "548404",
+"nome": "Lei nº 6.528 de 11/05/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-05-12", "descricao": "Publicação Original [Diário Oficial da União de 12/05/1978] (p. 6951, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-11-06", "nome": "Decreto nº 82.587 de 06/11/1978", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2007-01-05", "nome": "Lei nº 11.445 de 05/01/2007", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2007/lei-11445-2007-01-05"}
+],
+"controle": []
+}

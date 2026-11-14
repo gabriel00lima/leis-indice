@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4702-1965-06-28",
+"urn": "urn:lex:br:federal:lei:1965-06-28;4702",
+"consultado_em": "2026-11-14",
+"codigo": "546555",
+"nome": "Lei nº 4.702 de 28/06/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-07-01", "descricao": "Publicação Original [Diário Oficial da União de 01/07/1965] (p. 6114, col. 1)"}
+],
+"alteracoes": [
+{"data": "1965-11-25", "nome": "Decreto nº 57.347 de 25/11/1965", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4322-1964-04-07",
+"urn": "urn:lex:br:federal:lei:1964-04-07;4322",
+"consultado_em": "2026-11-14",
+"codigo": "546171",
+"nome": "Lei nº 4.322 de 07/04/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-04-09", "descricao": "Publicação Original [Diário Oficial da União de 09/04/1964] (p. 3194, col. 2)"}
+],
+"alteracoes": [
+{"data": "1964-11-12", "nome": "Lei nº 4.473 de 12/11/1964", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4473-1964-11-12"}
+],
+"controle": []
+}

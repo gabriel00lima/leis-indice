@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6477-1977-12-01",
+"urn": "urn:lex:br:federal:lei:1977-12-01;6477",
+"consultado_em": "2026-11-14",
+"codigo": "548353",
+"nome": "Lei nº 6.477 de 01/12/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-12-05", "descricao": "Publicação Original [Diário Oficial da União de 05/12/1977] (p. 16617, col. 2)"}
+],
+"alteracoes": [
+{"data": "1984-12-18", "nome": "Lei nº 7.289 de 18/12/1984", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1984/lei-7289-1984-12-18"},
+{"data": "1986-06-02", "nome": "Lei nº 7.479 de 02/06/1986", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7479-1986-06-02"}
+],
+"controle": []
+}

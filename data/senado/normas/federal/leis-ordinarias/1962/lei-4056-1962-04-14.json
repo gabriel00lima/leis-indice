@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1962/lei-4056-1962-04-14",
+"urn": "urn:lex:br:federal:lei:1962-04-14;4056",
+"consultado_em": "2026-11-14",
+"codigo": "545889",
+"nome": "Lei nº 4.056 de 14/04/1962",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-05-04", "descricao": "Publicação Original [Diário Oficial da União de 04/05/1962] (p. 4925, col. 1)"}
+],
+"alteracoes": [
+{"data": "1963-05-24", "nome": "Decreto nº 52.057 de 24/05/1963", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4881-a-1965-12-06",
+"urn": "urn:lex:br:federal:lei:1965-12-06;4881-a",
+"consultado_em": "2026-11-14",
+"codigo": "546737",
+"nome": "Lei nº 4.881-A de 06/12/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-12-10", "descricao": "Publicação Original [Diário Oficial da União de 10/12/1965] (p. 12689, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-12-06", "nome": "Decreto nº 59.676 de 06/12/1966", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1967-02-28", "nome": "Decreto-Lei nº 252 de 28/02/1967", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1967/del-252-1967-02-28"},
+{"data": "1968-03-01", "nome": "Decreto nº 62.329 de 01/03/1968", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1968-10-08", "nome": "Decreto nº 63.374 de 08/10/1968", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1968-11-27", "nome": "Lei nº 5.539 de 27/11/1968", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}, {"dispositivo": "Art. 7", "art": "7", "acao": "revogou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "revogou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "revogou"}, {"dispositivo": "Art. 10", "art": "10", "acao": "revogou"}, {"dispositivo": "Art. 11", "art": "11", "acao": "revogou"}, {"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "revogou"}, {"dispositivo": "Art. 14", "art": "14", "acao": "revogou"}, {"dispositivo": "Art. 15", "art": "15", "acao": "revogou"}, {"dispositivo": "Art. 16", "art": "16", "acao": "revogou"}, {"dispositivo": "Art. 17", "art": "17", "acao": "revogou"}, {"dispositivo": "Art. 18", "art": "18", "acao": "revogou"}, {"dispositivo": "Art. 19", "art": "19", "acao": "revogou"}, {"dispositivo": "Art. 20", "art": "20", "acao": "revogou"}, {"dispositivo": "Art. 21", "art": "21", "acao": "revogou"}, {"dispositivo": "Art. 22", "art": "22", "acao": "revogou"}, {"dispositivo": "Art. 23", "art": "23", "acao": "revogou"}, {"dispositivo": "Art. 24", "art": "24", "acao": "revogou"}, {"dispositivo": "Art. 34", "art": "34", "acao": "revogou"}, {"dispositivo": "Art. 36", "art": "36", "acao": "revogou"}, {"dispositivo": "Art. 37", "art": "37", "acao": "revogou"}, {"dispositivo": "Art. 38", "art": "38", "acao": "revogou"}, {"dispositivo": "Art. 39", "art": "39", "acao": "revogou"}, {"dispositivo": "Art. 40", "art": "40", "acao": "revogou"}, {"dispositivo": "Art. 41", "art": "41", "acao": "revogou"}, {"dispositivo": "Art. 42", "art": "42", "acao": "revogou"}, {"dispositivo": "Art. 43", "art": "43", "acao": "revogou"}, {"dispositivo": "Art. 44", "art": "44", "acao": "revogou"}, {"dispositivo": "Art. 45", "art": "45", "acao": "revogou"}, {"dispositivo": "Art. 46", "art": "46", "acao": "revogou"}, {"dispositivo": "Art. 48", "art": "48", "acao": "revogou"}, {"dispositivo": "Art. 50", "art": "50", "acao": "revogou"}, {"dispositivo": "Art. 52", "art": "52", "acao": "revogou"}, {"dispositivo": "Art. 55", "art": "55", "acao": "revogou"}, {"dispositivo": "Art. 60", "art": "60", "acao": "revogou"}, {"dispositivo": "Art. 61", "art": "61", "acao": "revogou"}, {"dispositivo": "Art. 62", "art": "62", "acao": "revogou"}, {"dispositivo": "Art. 66", "art": "66", "acao": "revogou"}, {"dispositivo": "Art. 67", "art": "67", "acao": "revogou"}, {"dispositivo": "Art. 68", "art": "68", "acao": "revogou"}, {"dispositivo": "Art. 69", "art": "69", "acao": "revogou"}, {"dispositivo": "Art. 70", "art": "70", "acao": "revogou"}], "id": "federal/leis-ordinarias/1968/lei-5539-1968-11-27"},
+{"data": "1978-04-19", "nome": "Decreto nº 81.589 de 19/04/1978", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

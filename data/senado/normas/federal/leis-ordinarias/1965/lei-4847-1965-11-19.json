@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4847-1965-11-19",
+"urn": "urn:lex:br:federal:lei:1965-11-19;4847",
+"consultado_em": "2026-11-14",
+"codigo": "546701",
+"nome": "Lei nº 4.847 de 19/11/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-11-24", "descricao": "Publicação Original [Diário Oficial da União de 24/11/1965] (p. 11977, col. 2)"}
+],
+"alteracoes": [
+{"data": "1965-12-27", "nome": "Decreto nº 57.488 de 27/12/1965", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

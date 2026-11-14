@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1977/lei-6462-1977-11-09",
+"urn": "urn:lex:br:federal:lei:1977-11-09;6462",
+"consultado_em": "2026-11-14",
+"codigo": "548338",
+"nome": "Lei nº 6.462 de 09/11/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-11-10", "descricao": "Publicação Original [Diário Oficial da União de 10/11/1977] (p. 15153, col. 1)"}
+],
+"alteracoes": [
+{"data": "2001-05-29", "nome": "Lei Complementar nº 109 de 29/05/2001", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-complementares/2001/lcp-109-2001-05-29"}
+],
+"controle": []
+}

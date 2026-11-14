@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4723-1965-07-09",
+"urn": "urn:lex:br:federal:lei:1965-07-09;4723",
+"consultado_em": "2026-11-14",
+"codigo": "546576",
+"nome": "Lei nº 4.723 de 09/07/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-07-14", "descricao": "Publicação Original [Diário Oficial da União de 14/07/1965] (p. 6609, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-12-05", "nome": "Decreto nº 59.664 de 05/12/1966", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1969-03-05", "nome": "Decreto nº 64.160 de 05/03/1969", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

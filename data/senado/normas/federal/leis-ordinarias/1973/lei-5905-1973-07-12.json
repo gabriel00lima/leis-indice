@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1973/lei-5905-1973-07-12",
+"urn": "urn:lex:br:federal:lei:1973-07-12;5905",
+"consultado_em": "2026-11-14",
+"codigo": "547781",
+"nome": "Lei nº 5.905 de 12/07/1973",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-07-13", "descricao": "Publicação Original [Diário Oficial da União de 13/07/1973] (p. 6825, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-01-18", "nome": "Decreto nº 79.137 de 18/01/1977", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

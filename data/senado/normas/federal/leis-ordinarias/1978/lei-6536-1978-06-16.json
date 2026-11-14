@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1978/lei-6536-1978-06-16",
+"urn": "urn:lex:br:federal:lei:1978-06-16;6536",
+"consultado_em": "2026-11-14",
+"codigo": "548412",
+"nome": "Lei nº 6.536 de 16/06/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-06-20", "descricao": "Publicação Original [Diário Oficial da União de 20/06/1978] (p. 9191, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-06-07", "nome": "Decreto nº 83.556 de 07/06/1979", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

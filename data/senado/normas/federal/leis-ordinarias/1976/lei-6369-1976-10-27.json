@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1976/lei-6369-1976-10-27",
+"urn": "urn:lex:br:federal:lei:1976-10-27;6369",
+"consultado_em": "2026-11-14",
+"codigo": "548245",
+"nome": "Lei nº 6.369 de 27/10/1976",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1976-10-29", "descricao": "Publicação Original [Diário Oficial da União de 29/10/1976] (p. 14359, col. 1)"}
+],
+"alteracoes": [
+{"data": "1997-09-23", "nome": "Lei nº 9.503 de 23/09/1997", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9503-1997-09-23"}
+],
+"controle": []
+}

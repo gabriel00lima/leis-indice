@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4469-1964-11-12",
+"urn": "urn:lex:br:federal:lei:1964-11-12;4469",
+"consultado_em": "2026-11-14",
+"codigo": "546320",
+"nome": "Lei nº 4.469 de 12/11/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-11-16", "descricao": "Publicação Original [Diário Oficial da União de 16/11/1964] (p. 10337, col. 3)"}
+],
+"alteracoes": [
+{"data": "1976-12-09", "nome": "Lei nº 6.391 de 09/12/1976", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1976/lei-6391-1976-12-09"}
+],
+"controle": []
+}

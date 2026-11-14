@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1965/lei-4797-1965-10-20",
+"urn": "urn:lex:br:federal:lei:1965-10-20;4797",
+"consultado_em": "2026-11-14",
+"codigo": "546651",
+"nome": "Lei nº 4.797 de 20/10/1965",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1965-10-22", "descricao": "Publicação Original [Diário Oficial da União de 22/10/1965] (p. 10825, col. 2)"}
+],
+"alteracoes": [
+{"data": "1966-03-18", "nome": "Decreto nº 58.016 de 18/03/1966", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

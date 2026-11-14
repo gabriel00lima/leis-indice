@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1962/lei-4178-1962-12-11",
+"urn": "urn:lex:br:federal:lei:1962-12-11;4178",
+"consultado_em": "2026-11-14",
+"codigo": "546020",
+"nome": "Lei nº 4.178 de 11/12/1962",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-12-24", "descricao": "Publicação Original [Diário Oficial da União de 24/12/1962] (p. 13157, col. 4)"}
+],
+"alteracoes": [
+{"data": "2019-11-11", "nome": "Medida Provisória nº 905 de 11/11/2019", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []}
+],
+"controle": []
+}

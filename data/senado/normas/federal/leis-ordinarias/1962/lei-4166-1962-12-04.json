@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1962/lei-4166-1962-12-04",
+"urn": "urn:lex:br:federal:lei:1962-12-04;4166",
+"consultado_em": "2026-11-14",
+"codigo": "546008",
+"nome": "Lei nº 4.166 de 04/12/1962",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-12-10", "descricao": "Publicação Original [Diário Oficial da União de 10/12/1962] (p. 12605, col. 4)"}
+],
+"alteracoes": [
+{"data": "2009-08-07", "nome": "Lei nº 12.016 de 07/08/2009", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2009/lei-12016-2009-08-07"}
+],
+"controle": []
+}

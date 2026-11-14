@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4325-1964-04-16",
+"urn": "urn:lex:br:federal:lei:1964-04-16;4325",
+"consultado_em": "2026-11-14",
+"codigo": "546174",
+"nome": "Lei nº 4.325 de 16/04/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-04-20", "descricao": "Publicação Original [Diário Oficial da União de 20/04/1964] (p. 3521, col. 1)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "1972-04-18", "nome": "Resolução do Senado Federal nº 1 de 18/04/1972", "tipo": "Suspensão de Execução por Inconstitucionalidade da Norma No Todo", "dispositivos": [], "efeito": "inconstitucional"}
+]
+}

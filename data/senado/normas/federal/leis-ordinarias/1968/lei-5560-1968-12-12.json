@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1968/lei-5560-1968-12-12",
+"urn": "urn:lex:br:federal:lei:1968-12-12;5560",
+"consultado_em": "2026-11-14",
+"codigo": "547430",
+"nome": "Lei nº 5.560 de 12/12/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-12-16", "descricao": "Publicação Original [Diário Oficial da União de 16/12/1968] (p. 10841, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-02-28", "nome": "Decreto-Lei nº 480 de 28/02/1969", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1969/del-480-1969-02-28"}
+],
+"controle": []
+}

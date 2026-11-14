@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1962/lei-4085-1962-07-03",
+"urn": "urn:lex:br:federal:lei:1962-07-03;4085",
+"consultado_em": "2026-11-14",
+"codigo": "545923",
+"nome": "Lei nº 4.085 de 03/07/1962",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1962-07-03", "descricao": "Publicação Original [Diário Oficial da União de 03/07/1962] (p. 7189, col. 1)"}
+],
+"alteracoes": [
+{"data": "1964-02-05", "nome": "Decreto nº 53.530 de 05/02/1964", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

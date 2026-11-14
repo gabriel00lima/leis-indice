@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1963/lei-4204-1963-02-07",
+"urn": "urn:lex:br:federal:lei:1963-02-07;4204",
+"consultado_em": "2026-11-14",
+"codigo": "546046",
+"nome": "Lei nº 4.204 de 07/02/1963",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1963-03-04", "descricao": "Publicação Original [Diário Oficial da União de 04/03/1963] (p. 2209, col. 1)"}
+],
+"alteracoes": [
+{"data": "1963-04-25", "nome": "Decreto nº 51.914 de 25/04/1963", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

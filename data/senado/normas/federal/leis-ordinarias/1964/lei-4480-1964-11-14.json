@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1964/lei-4480-1964-11-14",
+"urn": "urn:lex:br:federal:lei:1964-11-14;4480",
+"consultado_em": "2026-11-14",
+"codigo": "546331",
+"nome": "Lei nº 4.480 de 14/11/1964",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1964-11-17", "descricao": "Publicação Original [Diário Oficial da União de 17/11/1964] (p. 10395, col. 2)"}
+],
+"alteracoes": [
+{"data": "1966-11-21", "nome": "Decreto-Lei nº 62 de 21/11/1966", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "revogou"}], "id": "federal/decretos-lei/1966/del-62-1966-11-21"}
+],
+"controle": []
+}

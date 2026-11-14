@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1970/lei-5610-1970-09-22",
+"urn": "urn:lex:br:federal:lei:1970-09-22;5610",
+"consultado_em": "2026-11-14",
+"codigo": "547482",
+"nome": "Lei nº 5.610 de 22/09/1970",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1970-09-24", "descricao": "Publicação Original [Diário Oficial da União de 24/09/1970] (p. 8297, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-06-08", "nome": "Lei nº 5.890 de 08/06/1973", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1973/lei-5890-1973-06-08"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1963/lei-4263-1963-09-12",
+"urn": "urn:lex:br:federal:lei:1963-09-12;4263",
+"consultado_em": "2026-11-14",
+"codigo": "546111",
+"nome": "Lei nº 4.263 de 12/09/1963",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1963-10-10", "descricao": "Publicação Original [Diário Oficial da União de 10/10/1963] (p. 8553, col. 2)"}
+],
+"alteracoes": [
+{"data": "1967-02-10", "nome": "Decreto-Lei nº 158 de 10/02/1967", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1967/del-158-1967-02-10"}
+],
+"controle": []
+}
