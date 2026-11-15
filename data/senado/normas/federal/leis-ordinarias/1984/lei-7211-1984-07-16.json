@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1984/lei-7211-1984-07-16",
+"urn": "urn:lex:br:federal:lei:1984-07-16;7211",
+"consultado_em": "2026-11-15",
+"codigo": "549087",
+"nome": "Lei nº 7.211 de 16/07/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-07-17", "descricao": "Publicação Original [Diário Oficial da União de 17/07/1984] (p. 10385, col. 1)"}
+],
+"alteracoes": [
+{"data": "1984-11-12", "nome": "Decreto nº 90.476 de 12/11/1984", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

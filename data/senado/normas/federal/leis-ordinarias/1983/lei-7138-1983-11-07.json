@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1983/lei-7138-1983-11-07",
+"urn": "urn:lex:br:federal:lei:1983-11-07;7138",
+"consultado_em": "2026-11-15",
+"codigo": "549014",
+"nome": "Lei nº 7.138 de 07/11/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-11-08", "descricao": "Publicação Original [Diário Oficial da União de 08/11/1983] (p. 18793, col. 2)"}
+],
+"alteracoes": [
+{"data": "1985-09-18", "nome": "Lei nº 7.366 de 18/09/1985", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1985/lei-7366-1985-09-18"}
+],
+"controle": []
+}

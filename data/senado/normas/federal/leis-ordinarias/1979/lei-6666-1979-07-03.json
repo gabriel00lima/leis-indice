@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1979/lei-6666-1979-07-03",
+"urn": "urn:lex:br:federal:lei:1979-07-03;6666",
+"consultado_em": "2026-11-15",
+"codigo": "548542",
+"nome": "Lei nº 6.666 de 03/07/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-07-04", "descricao": "Publicação Original [Diário Oficial da União de 04/07/1979] (p. 9330, col. 2)"}
+],
+"alteracoes": [
+{"data": "1979-11-19", "nome": "Decreto nº 84.221 de 19/11/1979", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1978/lei-6571-1978-09-30",
+"urn": "urn:lex:br:federal:lei:1978-09-30;6571",
+"consultado_em": "2026-11-15",
+"codigo": "548447",
+"nome": "Lei nº 6.571 de 30/09/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-10-03", "descricao": "Publicação Original [Diário Oficial da União de 03/10/1978] (p. 16033, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-12-11", "nome": "Decreto nº 82.829 de 11/12/1978", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

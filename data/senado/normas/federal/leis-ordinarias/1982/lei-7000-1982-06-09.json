@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1982/lei-7000-1982-06-09",
+"urn": "urn:lex:br:federal:lei:1982-06-09;7000",
+"consultado_em": "2026-11-15",
+"codigo": "548876",
+"nome": "Lei nº 7.000 de 09/06/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-06-11", "descricao": "Publicação Original [Diário Oficial da União de 11/06/1982] (p. 10601, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-06-28", "nome": "Decreto nº 87.336 de 28/06/1982", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

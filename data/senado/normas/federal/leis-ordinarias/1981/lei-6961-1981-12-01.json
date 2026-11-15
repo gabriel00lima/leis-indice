@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1981/lei-6961-1981-12-01",
+"urn": "urn:lex:br:federal:lei:1981-12-01;6961",
+"consultado_em": "2026-11-15",
+"codigo": "548837",
+"nome": "Lei nº 6.961 de 01/12/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-12-04", "descricao": "Publicação Original [Diário Oficial da União de 04/12/1981] (p. 22949, col. 1)"}
+],
+"alteracoes": [
+{"data": "1986-06-17", "nome": "Lei nº 7.493 de 17/06/1986", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7493-1986-06-17"}
+],
+"controle": []
+}

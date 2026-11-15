@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1984/lei-7264-1984-12-04",
+"urn": "urn:lex:br:federal:lei:1984-12-04;7264",
+"consultado_em": "2026-11-15",
+"codigo": "549140",
+"nome": "Lei nº 7.264 de 04/12/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-12-05", "descricao": "Publicação Original [Diário Oficial da União de 05/12/1984] (p. 17993, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-04-29", "nome": "Decreto nº 91.206 de 29/04/1985", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

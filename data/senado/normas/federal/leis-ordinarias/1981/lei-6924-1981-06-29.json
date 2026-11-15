@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1981/lei-6924-1981-06-29",
+"urn": "urn:lex:br:federal:lei:1981-06-29;6924",
+"consultado_em": "2026-11-15",
+"codigo": "548800",
+"nome": "Lei nº 6.924 de 29/06/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-06-30", "descricao": "Publicação Original [Diário Oficial da União de 30/06/1981] (p. 12144, col. 1)"}
+],
+"alteracoes": [
+{"data": "1981-09-01", "nome": "Decreto nº 86.325 de 01/09/1981", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1988-09-13", "nome": "Decreto nº 96.683 de 13/09/1988", "tipo": "Alteração Permanente", "dispositivos": []},
+{"data": "1993-07-23", "nome": "Decreto nº 881 de 23/07/1993", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1982/lei-6987-1982-04-13",
+"urn": "urn:lex:br:federal:lei:1982-04-13;6987",
+"consultado_em": "2026-11-15",
+"codigo": "548863",
+"nome": "Lei nº 6.987 de 13/04/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-04-14", "descricao": "Publicação Original [Diário Oficial da União de 14/04/1982] (p. 6445, col. 1)"}
+],
+"alteracoes": [
+{"data": "1986-01-29", "nome": "Decreto nº 92.349 de 29/01/1986", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

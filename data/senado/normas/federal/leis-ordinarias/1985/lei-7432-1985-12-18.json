@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1985/lei-7432-1985-12-18",
+"urn": "urn:lex:br:federal:lei:1985-12-18;7432",
+"consultado_em": "2026-11-15",
+"codigo": "549308",
+"nome": "Lei nº 7.432 de 18/12/1985",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1985-12-19", "descricao": "Publicação Original [Diário Oficial da União de 19/12/1985] (p. 18625, col. 1)"}
+],
+"alteracoes": [
+{"data": "1994-04-13", "nome": "Resolução do Senado Federal nº 31 de 13/04/1994", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

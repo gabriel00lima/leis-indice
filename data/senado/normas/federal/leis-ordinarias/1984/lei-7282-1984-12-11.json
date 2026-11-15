@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1984/lei-7282-1984-12-11",
+"urn": "urn:lex:br:federal:lei:1984-12-11;7282",
+"consultado_em": "2026-11-15",
+"codigo": "549158",
+"nome": "Lei nº 7.282 de 11/12/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-12-12", "descricao": "Publicação Original [Diário Oficial da União de 12/12/1984] (p. 18547, col. 1)"}
+],
+"alteracoes": [
+{"data": "1985-03-05", "nome": "Decreto nº 91.038 de 05/03/1985", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

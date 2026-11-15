@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1988/lei-7679-1988-11-23",
+"urn": "urn:lex:br:federal:lei:1988-11-23;7679",
+"consultado_em": "2026-11-15",
+"codigo": "549555",
+"nome": "Lei nº 7.679 de 23/11/1988",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1988-11-24", "descricao": "Publicação Original [Diário Oficial da União de 24/11/1988] (p. 22753, col. 1)"},
+{"tipo": "REP", "data": "1988-12-05", "descricao": "Republicação Integral (Seq. 1) [Diário Oficial da União de 05/12/1988] (p. 23561, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-06-29", "nome": "Lei nº 11.959 de 29/06/2009", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2009/lei-11959-2009-06-29"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1991/lei-8201-1991-06-29",
+"urn": "urn:lex:br:federal:lei:1991-06-29;8201",
+"consultado_em": "2026-11-15",
+"codigo": "550077",
+"nome": "Lei nº 8.201 de 29/06/1991",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1991-07-01", "descricao": "Publicação Original [Diário Oficial da União de 01/07/1991] (p. 12670, col. 2)"}
+],
+"alteracoes": [
+{"data": "1991-12-30", "nome": "Lei nº 8.392 de 30/12/1991", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "prorrogação de prazo"}], "id": "federal/leis-ordinarias/1991/lei-8392-1991-12-30"}
+],
+"controle": []
+}

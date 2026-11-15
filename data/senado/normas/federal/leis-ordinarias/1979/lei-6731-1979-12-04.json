@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1979/lei-6731-1979-12-04",
+"urn": "urn:lex:br:federal:lei:1979-12-04;6731",
+"consultado_em": "2026-11-15",
+"codigo": "548607",
+"nome": "Lei nº 6.731 de 04/12/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-12-05", "descricao": "Publicação Original [Diário Oficial da União de 05/12/1979] (p. 18233, col. 1)"}
+],
+"alteracoes": [
+{"data": "1997-09-23", "nome": "Lei nº 9.503 de 23/09/1997", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9503-1997-09-23"}
+],
+"controle": []
+}

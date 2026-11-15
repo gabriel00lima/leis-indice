@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1986/lei-7468-1986-04-28",
+"urn": "urn:lex:br:federal:lei:1986-04-28;7468",
+"consultado_em": "2026-11-15",
+"codigo": "549344",
+"nome": "Lei nº 7.468 de 28/04/1986",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-04-30", "descricao": "Publicação Original [Diário Oficial da União de 30/04/1986] (p. 6165, col. 1)"}
+],
+"alteracoes": [
+{"data": "1986-08-07", "nome": "Decreto nº 93.084 de 07/08/1986", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

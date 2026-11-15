@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1978/lei-6562-1978-09-18",
+"urn": "urn:lex:br:federal:lei:1978-09-18;6562",
+"consultado_em": "2026-11-15",
+"codigo": "548438",
+"nome": "Lei nº 6.562 de 18/09/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-09-20", "descricao": "Publicação Original [Diário Oficial da União de 20/09/1978] (p. 15218, col. 2)"}
+],
+"alteracoes": [
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

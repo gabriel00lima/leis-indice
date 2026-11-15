@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1987/lei-7584-1987-01-06",
+"urn": "urn:lex:br:federal:lei:1987-01-06;7584",
+"consultado_em": "2026-11-15",
+"codigo": "549460",
+"nome": "Lei nº 7.584 de 06/01/1987",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1987-01-07", "descricao": "Publicação Original [Diário Oficial da União de 07/01/1987] (p. 131, col. 1)"}
+],
+"alteracoes": [
+{"data": "1989-12-28", "nome": "Lei nº 7.988 de 28/12/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "alterou"}], "id": "federal/leis-ordinarias/1989/lei-7988-1989-12-28"}
+],
+"controle": []
+}

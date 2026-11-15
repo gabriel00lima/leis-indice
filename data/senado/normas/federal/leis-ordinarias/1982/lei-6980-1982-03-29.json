@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1982/lei-6980-1982-03-29",
+"urn": "urn:lex:br:federal:lei:1982-03-29;6980",
+"consultado_em": "2026-11-15",
+"codigo": "548856",
+"nome": "Lei nº 6.980 de 29/03/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-03-30", "descricao": "Publicação Original [Diário Oficial da União de 30/03/1982] (p. 5385, col. 1)"}
+],
+"alteracoes": [
+{"data": "1984-07-09", "nome": "Decreto nº 89.928 de 09/07/1984", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1986-06-27", "nome": "Lei nº 7.501 de 27/06/1986", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7501-1986-06-27"}
+],
+"controle": []
+}

@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1979/lei-6665-1979-07-03",
+"urn": "urn:lex:br:federal:lei:1979-07-03;6665",
+"consultado_em": "2026-11-15",
+"codigo": "548541",
+"nome": "Lei nº 6.665 de 03/07/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-07-04", "descricao": "Publicação Original [Diário Oficial da União de 04/07/1979] (p. 9329, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-09-24", "nome": "Decreto nº 84.021 de 24/09/1979", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1979-10-31", "nome": "Decreto nº 84.139 de 31/10/1979", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1980-12-17", "nome": "Decreto nº 85.549 de 17/12/1980", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1981-10-01", "nome": "Decreto nº 86.417 de 01/10/1981", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

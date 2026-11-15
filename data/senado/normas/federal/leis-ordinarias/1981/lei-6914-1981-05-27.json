@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1981/lei-6914-1981-05-27",
+"urn": "urn:lex:br:federal:lei:1981-05-27;6914",
+"consultado_em": "2026-11-15",
+"codigo": "548790",
+"nome": "Lei nº 6.914 de 27/05/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-05-29", "descricao": "Publicação Original [Diário Oficial da União de 29/05/1981] (p. 9901, col. 1)"}
+],
+"alteracoes": [
+{"data": "1993-02-25", "nome": "Lei nº 8.630 de 25/02/1993", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1993/lei-8630-1993-02-25"}
+],
+"controle": []
+}

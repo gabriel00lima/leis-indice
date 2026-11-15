@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1978/lei-6612-1978-12-07",
+"urn": "urn:lex:br:federal:lei:1978-12-07;6612",
+"consultado_em": "2026-11-15",
+"codigo": "548488",
+"nome": "Lei nº 6.612 de 07/12/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-12-12", "descricao": "Publicação Original [Diário Oficial da União de 12/12/1978] (p. 19912, col. 2)"}
+],
+"alteracoes": [
+{"data": "1979-03-13", "nome": "Decreto nº 83.284 de 13/03/1979", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

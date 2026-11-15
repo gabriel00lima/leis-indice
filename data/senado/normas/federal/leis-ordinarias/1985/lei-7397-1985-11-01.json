@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1985/lei-7397-1985-11-01",
+"urn": "urn:lex:br:federal:lei:1985-11-01;7397",
+"consultado_em": "2026-11-15",
+"codigo": "549273",
+"nome": "Lei nº 7.397 de 01/11/1985",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1985-11-04", "descricao": "Publicação Original [Diário Oficial da União de 04/11/1985] (p. 16066, col. 2)"}
+],
+"alteracoes": [
+{"data": "1986-11-04", "nome": "Decreto nº 93.512 de 04/11/1986", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

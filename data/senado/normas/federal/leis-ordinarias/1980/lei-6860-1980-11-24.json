@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1980/lei-6860-1980-11-24",
+"urn": "urn:lex:br:federal:lei:1980-11-24;6860",
+"consultado_em": "2026-11-15",
+"codigo": "548736",
+"nome": "Lei nº 6.860 de 24/11/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-11-25", "descricao": "Publicação Original [Diário Oficial da União de 25/11/1980] (p. 23538, col. 2)"}
+],
+"alteracoes": [
+{"data": "1989-02-14", "nome": "Lei nº 7.732 de 14/02/1989", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7732-1989-02-14"}
+],
+"controle": []
+}

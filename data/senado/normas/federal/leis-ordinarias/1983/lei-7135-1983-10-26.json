@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1983/lei-7135-1983-10-26",
+"urn": "urn:lex:br:federal:lei:1983-10-26;7135",
+"consultado_em": "2026-11-15",
+"codigo": "549011",
+"nome": "Lei nº 7.135 de 26/10/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-10-27", "descricao": "Publicação Original [Diário Oficial da União de 27/10/1983] (p. 18212, col. 2)"}
+],
+"alteracoes": [
+{"data": "1986-06-24", "nome": "Resolução do Senado Federal nº 86 de 24/06/1986", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

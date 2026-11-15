@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1984/lei-7200-1984-06-19",
+"urn": "urn:lex:br:federal:lei:1984-06-19;7200",
+"consultado_em": "2026-11-15",
+"codigo": "549076",
+"nome": "Lei nº 7.200 de 19/06/1984",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1984-06-20", "descricao": "Publicação Original [Diário Oficial da União de 20/06/1984] (p. 8819, col. 1)"}
+],
+"alteracoes": [
+{"data": "2006-07-06", "nome": "Lei nº 11.320 de 06/07/2006", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2006/lei-11320-2006-07-06"}
+],
+"controle": []
+}

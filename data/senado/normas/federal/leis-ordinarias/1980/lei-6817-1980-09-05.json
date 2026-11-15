@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1980/lei-6817-1980-09-05",
+"urn": "urn:lex:br:federal:lei:1980-09-05;6817",
+"consultado_em": "2026-11-15",
+"codigo": "548693",
+"nome": "Lei nº 6.817 de 05/09/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-09-08", "descricao": "Publicação Original [Diário Oficial da União de 08/09/1980] (p. 17737, col. 1)"}
+],
+"alteracoes": [
+{"data": "1995-09-19", "nome": "Lei nº 9.096 de 19/09/1995", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1995/lei-9096-1995-09-19"}
+],
+"controle": []
+}

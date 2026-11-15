@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1987/lei-7613-1987-07-13",
+"urn": "urn:lex:br:federal:lei:1987-07-13;7613",
+"consultado_em": "2026-11-15",
+"codigo": "549489",
+"nome": "Lei nº 7.613 de 13/07/1987",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1987-07-14", "descricao": "Publicação Original [Diário Oficial da União de 14/07/1987] (p. 11045, col. 1)"}
+],
+"alteracoes": [
+{"data": "1988-06-29", "nome": "Decreto nº 96.234 de 29/06/1988", "tipo": "Permanente de Prorrogação de Prazo da Norma no Todo", "dispositivos": []},
+{"data": "1988-08-15", "nome": "Decreto nº 96.514 de 15/08/1988", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 1, caput, Item 4", "art": "1", "acao": "regulamentou"}]},
+{"data": "1991-06-28", "nome": "Lei nº 8.199 de 28/06/1991", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8199-1991-06-28"}
+],
+"controle": []
+}

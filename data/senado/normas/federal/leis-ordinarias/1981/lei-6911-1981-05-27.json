@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1981/lei-6911-1981-05-27",
+"urn": "urn:lex:br:federal:lei:1981-05-27;6911",
+"consultado_em": "2026-11-15",
+"codigo": "548787",
+"nome": "Lei nº 6.911 de 27/05/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-05-28", "descricao": "Publicação Original [Diário Oficial da União de 28/05/1981] (p. 9807, col. 1)"}
+],
+"alteracoes": [
+{"data": "1989-10-12", "nome": "Lei nº 7.839 de 12/10/1989", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7839-1989-10-12"}
+],
+"controle": []
+}

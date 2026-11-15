@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1986/lei-7500-1986-06-25",
+"urn": "urn:lex:br:federal:lei:1986-06-25;7500",
+"consultado_em": "2026-11-15",
+"codigo": "549376",
+"nome": "Lei nº 7.500 de 25/06/1986",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1986-06-26", "descricao": "Publicação Original [Diário Oficial da União de 26/06/1986] (p. 9289, col. 1)"}
+],
+"alteracoes": [
+{"data": "1991-06-28", "nome": "Lei nº 8.199 de 28/06/1991", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1991/lei-8199-1991-06-28"}
+],
+"controle": []
+}

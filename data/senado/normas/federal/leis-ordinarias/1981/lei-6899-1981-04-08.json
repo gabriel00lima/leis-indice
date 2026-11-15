@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1981/lei-6899-1981-04-08",
+"urn": "urn:lex:br:federal:lei:1981-04-08;6899",
+"consultado_em": "2026-11-15",
+"codigo": "548775",
+"nome": "Lei nº 6.899 de 08/04/1981",
+"apelidos": [
+"Lei da Correção Monetária em Juízo (1981)",
+"Lei da Correção Monetária de Débitos Judiciais (1981)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-04-09", "descricao": "Publicação Original [Diário Oficial da União de 09/04/1981] (p. 6629, col. 1)"}
+],
+"alteracoes": [
+{"data": "1981-11-25", "nome": "Decreto nº 86.649 de 25/11/1981", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "regulamentou"}]}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1981/lei-6958-1981-11-23",
+"urn": "urn:lex:br:federal:lei:1981-11-23;6958",
+"consultado_em": "2026-11-15",
+"codigo": "548834",
+"nome": "Lei nº 6.958 de 23/11/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-11-24", "descricao": "Publicação Original [Diário Oficial da União de 24/11/1981] (p. 22173, col. 2)"}
+],
+"alteracoes": [
+{"data": "1982-03-15", "nome": "Decreto nº 87.033 de 15/03/1982", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

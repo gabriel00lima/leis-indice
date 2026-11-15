@@ -1,0 +1,33 @@
+{
+"id": "federal/leis-ordinarias/1983/lei-7091-1983-04-18",
+"urn": "urn:lex:br:federal:lei:1983-04-18;7091",
+"consultado_em": "2026-11-15",
+"codigo": "548967",
+"nome": "Lei nº 7.091 de 18/04/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-04-19", "descricao": "Publicação Original [Diário Oficial da União de 19/04/1983] (p. 6273, col. 1)"}
+],
+"alteracoes": [
+{"data": "1983-05-10", "nome": "Decreto nº 88.295 de 10/05/1983", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1997-02-14", "nome": "Medida Provisória nº 1.549-27 de 14/02/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-03-14", "nome": "Medida Provisória nº 1.549-28 de 14/03/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-04-15", "nome": "Medida Provisória nº 1.549-29 de 15/04/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-05-15", "nome": "Medida Provisória nº 1.549-30 de 15/05/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-06-13", "nome": "Medida Provisória nº 1.549-31 de 13/06/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-07-11", "nome": "Medida Provisória nº 1.549-32 de 11/07/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-08-12", "nome": "Medida Provisória nº 1.549-33 de 12/08/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-09-11", "nome": "Medida Provisória nº 1.549-34 de 11/09/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-10-09", "nome": "Medida Provisória nº 1.549-35 de 09/10/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-11-06", "nome": "Medida Provisória nº 1.549-36 de 06/11/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-12-04", "nome": "Medida Provisória nº 1.549-37 de 04/12/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-12-31", "nome": "Medida Provisória nº 1.549-38 de 31/12/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1998-01-29", "nome": "Medida Provisória nº 1.549-39 de 29/01/1998", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1998-02-26", "nome": "Medida Provisória nº 1.549-40 de 26/02/1998", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1998-03-13", "nome": "Medida Provisória nº 1.642-41 de 13/03/1998", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1998-04-07", "nome": "Medida Provisória nº 1.651-42 de 07/04/1998", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1998-05-05", "nome": "Medida Provisória nº 1.651-43 de 05/05/1998", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1998-05-27", "nome": "Lei nº 9.649 de 27/05/1998", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1998/lei-9649-1998-05-27"}
+],
+"controle": []
+}

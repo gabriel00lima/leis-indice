@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1988/lei-7688-1988-12-15",
+"urn": "urn:lex:br:federal:lei:1988-12-15;7688",
+"consultado_em": "2026-11-15",
+"codigo": "549564",
+"nome": "Lei nº 7.688 de 15/12/1988",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1988-12-16", "descricao": "Publicação Original [Diário Oficial da União de 16/12/1988] (p. 24537, col. 1)"}
+],
+"alteracoes": [
+{"data": "1989-02-28", "nome": "Decreto nº 97.544 de 28/02/1989", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}
