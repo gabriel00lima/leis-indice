@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1993/lei-8623-1993-01-28",
+"urn": "urn:lex:br:federal:lei:1993-01-28;8623",
+"consultado_em": "2026-11-16",
+"codigo": "550499",
+"nome": "Lei nº 8.623 de 28/01/1993",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-01-29", "descricao": "Publicação Original [Diário Oficial da União de 29/01/1993] (p. 1229, col. 1)"}
+],
+"alteracoes": [
+{"data": "1993-10-01", "nome": "Decreto nº 946 de 01/10/1993", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

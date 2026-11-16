@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1999/lei-9817-1999-08-23",
+"urn": "urn:lex:br:federal:lei:1999-08-23;9817",
+"consultado_em": "2026-11-16",
+"codigo": "551693",
+"nome": "Lei nº 9.817 de 23/08/1999",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1999-08-24", "descricao": "Publicação Original [Diário Oficial da União de 24/08/1999] (p. 3, col. 1)"}
+],
+"alteracoes": [
+{"data": "2003-11-03", "nome": "Lei nº 10.755 de 03/11/2003", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2003/lei-10755-2003-11-03"}
+],
+"controle": []
+}

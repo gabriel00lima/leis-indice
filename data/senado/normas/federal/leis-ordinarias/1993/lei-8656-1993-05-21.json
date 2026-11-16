@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1993/lei-8656-1993-05-21",
+"urn": "urn:lex:br:federal:lei:1993-05-21;8656",
+"consultado_em": "2026-11-16",
+"codigo": "550532",
+"nome": "Lei nº 8.656 de 21/05/1993",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-05-22", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 22/05/1993 - nº 95-A] (p. 6950, col. 2)"}
+],
+"alteracoes": [
+{"data": "1993-07-06", "nome": "Medida Provisória nº 333 de 06/07/1993", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}]},
+{"data": "1993-07-09", "nome": "Decreto nº 861 de 09/07/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-08-06", "nome": "Medida Provisória nº 341 de 06/08/1993", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}]},
+{"data": "1993-09-06", "nome": "Lei nº 8.703 de 06/09/1993", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}], "id": "federal/leis-ordinarias/1993/lei-8703-1993-09-06"}
+],
+"controle": []
+}

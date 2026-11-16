@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1993/lei-8632-1993-03-04",
+"urn": "urn:lex:br:federal:lei:1993-03-04;8632",
+"consultado_em": "2026-11-16",
+"codigo": "550508",
+"nome": "Lei nº 8.632 de 04/03/1993",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-03-05", "descricao": "Publicação Original [Diário Oficial da União de 05/03/1993] (p. 2598, col. 2)"}
+],
+"alteracoes": [
+{"data": "1995-05-24", "nome": "Decreto nº 1.500 de 24/05/1995", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

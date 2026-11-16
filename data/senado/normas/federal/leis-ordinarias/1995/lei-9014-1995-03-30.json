@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9014-1995-03-30",
+"urn": "urn:lex:br:federal:lei:1995-03-30;9014",
+"consultado_em": "2026-11-16",
+"codigo": "550890",
+"nome": "Lei nº 9.014 de 30/03/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-03-31", "descricao": "Publicação Original [Diário Oficial da União de 31/03/1995] (p. 4574, col. 1)"}
+],
+"alteracoes": [
+{"data": "1996-03-15", "nome": "Lei nº 9.266 de 15/03/1996", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1996/lei-9266-1996-03-15"}
+],
+"controle": []
+}

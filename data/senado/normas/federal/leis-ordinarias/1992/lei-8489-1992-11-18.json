@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1992/lei-8489-1992-11-18",
+"urn": "urn:lex:br:federal:lei:1992-11-18;8489",
+"consultado_em": "2026-11-16",
+"codigo": "550365",
+"nome": "Lei nº 8.489 de 18/11/1992",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1992-11-20", "descricao": "Publicação Original [Diário Oficial da União de 20/11/1992] (p. 16065, col. 1)"}
+],
+"alteracoes": [
+{"data": "1993-07-22", "nome": "Decreto nº 879 de 22/07/1993", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1997-02-04", "nome": "Lei nº 9.434 de 04/02/1997", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9434-1997-02-04"}
+],
+"controle": []
+}

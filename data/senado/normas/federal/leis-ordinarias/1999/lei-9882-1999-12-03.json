@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1999/lei-9882-1999-12-03",
+"urn": "urn:lex:br:federal:lei:1999-12-03;9882",
+"consultado_em": "2026-11-16",
+"codigo": "551758",
+"nome": "Lei nº 9.882 de 03/12/1999",
+"apelidos": [
+"Lei da Arguição de Descumprimento de Preceito Fundamental (ADPF) (1999)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1999-12-06", "descricao": "Publicação Original [Diário Oficial da União de 06/12/1999] (p. 2, col. 2)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2023-05-19", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 2.231 de 19/05/2023", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "2231"}}
+]
+}

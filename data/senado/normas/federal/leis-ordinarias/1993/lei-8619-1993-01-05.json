@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1993/lei-8619-1993-01-05",
+"urn": "urn:lex:br:federal:lei:1993-01-05;8619",
+"consultado_em": "2026-11-16",
+"codigo": "550495",
+"nome": "Lei nº 8.619 de 05/01/1993",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-01-06", "descricao": "Publicação Original [Diário Oficial da União de 06/01/1993] (p. 105, col. 1)"}
+],
+"alteracoes": [
+{"data": "1994-12-29", "nome": "Medida Provisória nº 793 de 29/12/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}]}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9231-1995-12-22",
+"urn": "urn:lex:br:federal:lei:1995-12-22;9231",
+"consultado_em": "2026-11-16",
+"codigo": "551107",
+"nome": "Lei nº 9.231 de 22/12/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-12-23", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 23/12/1995 - nº 245-A] (p. 22080, col. 1)"}
+],
+"alteracoes": [
+{"data": "1996-06-21", "nome": "Decreto de 21/06/1996", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

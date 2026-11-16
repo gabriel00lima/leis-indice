@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1996/lei-9272-1996-05-03",
+"urn": "urn:lex:br:federal:lei:1996-05-03;9272",
+"consultado_em": "2026-11-16",
+"codigo": "551148",
+"nome": "Lei nº 9.272 de 03/05/1996",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1996-05-06", "descricao": "Publicação Original [Diário Oficial da União de 06/05/1996] (p. 7625, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

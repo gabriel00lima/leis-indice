@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1994/lei-8866-1994-04-11",
+"urn": "urn:lex:br:federal:lei:1994-04-11;8866",
+"consultado_em": "2026-11-16",
+"codigo": "550742",
+"nome": "Lei nº 8.866 de 11/04/1994",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1994-04-13", "descricao": "Publicação Original [Diário Oficial da União de 13/04/1994] (p. 5305, col. 1)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2016-12-15", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 1.055 de 15/12/2016", "tipo": "Inconstitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "1055"}}
+]
+}

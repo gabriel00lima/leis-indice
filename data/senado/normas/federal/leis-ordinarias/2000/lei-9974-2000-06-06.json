@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2000/lei-9974-2000-06-06",
+"urn": "urn:lex:br:federal:lei:2000-06-06;9974",
+"consultado_em": "2026-11-16",
+"codigo": "551850",
+"nome": "Lei nº 9.974 de 06/06/2000",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2000-06-07", "descricao": "Publicação Original [Diário Oficial da União de 07/06/2000] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2023-12-27", "nome": "Lei nº 14.785 de 27/12/2023", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14785-2023-12-27"}
+],
+"controle": []
+}

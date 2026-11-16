@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1993/lei-8690-1993-07-27",
+"urn": "urn:lex:br:federal:lei:1993-07-27;8690",
+"consultado_em": "2026-11-16",
+"codigo": "550566",
+"nome": "Lei nº 8.690 de 27/07/1993",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-07-28", "descricao": "Publicação Original [Diário Oficial da União de 28/07/1993] (p. 10574, col. 2)"}
+],
+"alteracoes": [
+{"data": "1993-08-12", "nome": "Decreto de 12/08/1993", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

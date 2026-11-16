@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1996/lei-9340-1996-12-12",
+"urn": "urn:lex:br:federal:lei:1996-12-12;9340",
+"consultado_em": "2026-11-16",
+"codigo": "551216",
+"nome": "Lei nº 9.340 de 12/12/1996",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1996-12-13", "descricao": "Publicação Original [Diário Oficial da União de 13/12/1996] (p. 26871, col. 1)"}
+],
+"alteracoes": [
+{"data": "2011-09-29", "nome": "Decreto nº 7.574 de 29/09/2011", "tipo": "Novo Tratamento Permanente da Matéria", "dispositivos": [{"dispositivo": "Art. 83", "art": "83", "acao": "com novo tratamento da matéria"}]}
+],
+"controle": []
+}

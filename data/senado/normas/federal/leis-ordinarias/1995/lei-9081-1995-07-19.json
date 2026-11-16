@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9081-1995-07-19",
+"urn": "urn:lex:br:federal:lei:1995-07-19;9081",
+"consultado_em": "2026-11-16",
+"codigo": "550957",
+"nome": "Lei nº 9.081 de 19/07/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-07-20", "descricao": "Publicação Original [Diário Oficial da União de 20/07/1995] (p. 10713, col. 2)"}
+],
+"alteracoes": [
+{"data": "1996-12-19", "nome": "Medida Provisória nº 1.561 de 19/12/1996", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-01-17", "nome": "Medida Provisória nº 1.561-1 de 17/01/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-02-14", "nome": "Medida Provisória nº 1.561-2 de 14/02/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-03-14", "nome": "Medida Provisória nº 1.561-3 de 14/03/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-04-15", "nome": "Medida Provisória nº 1.561-4 de 15/04/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-05-15", "nome": "Medida Provisória nº 1.561-5 de 15/05/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-06-12", "nome": "Medida Provisória nº 1.561-6 de 12/06/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-07-10", "nome": "Lei nº 9.469 de 10/07/1997", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9469-1997-07-10"}
+],
+"controle": []
+}

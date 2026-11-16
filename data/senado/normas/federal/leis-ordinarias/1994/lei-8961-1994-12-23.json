@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1994/lei-8961-1994-12-23",
+"urn": "urn:lex:br:federal:lei:1994-12-23;8961",
+"consultado_em": "2026-11-16",
+"codigo": "550837",
+"nome": "Lei nº 8.961 de 23/12/1994",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1994-12-24", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 24/12/1994 - nº 243-A] (p. 20459, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

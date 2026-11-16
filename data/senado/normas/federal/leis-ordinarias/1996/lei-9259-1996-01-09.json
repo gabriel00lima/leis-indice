@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1996/lei-9259-1996-01-09",
+"urn": "urn:lex:br:federal:lei:1996-01-09;9259",
+"consultado_em": "2026-11-16",
+"codigo": "551135",
+"nome": "Lei nº 9.259 de 09/01/1996",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1996-01-10", "descricao": "Publicação Original [Diário Oficial da União de 10/01/1996] (p. 338, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-08-07", "nome": "Lei nº 12.016 de 07/08/2009", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/2009/lei-12016-2009-08-07"}
+],
+"controle": []
+}

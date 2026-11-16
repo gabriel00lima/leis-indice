@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1993/lei-8730-1993-11-10",
+"urn": "urn:lex:br:federal:lei:1993-11-10;8730",
+"consultado_em": "2026-11-16",
+"codigo": "550606",
+"nome": "Lei nº 8.730 de 10/11/1993",
+"apelidos": [
+"Lei dos Agentes Públicos (1993)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-11-11", "descricao": "Publicação Original [Diário Oficial da União de 11/11/1993] (p. 16929, col. 2)"}
+],
+"alteracoes": [
+{"data": "1993-11-10", "nome": "Decreto nº 978 de 10/11/1993", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

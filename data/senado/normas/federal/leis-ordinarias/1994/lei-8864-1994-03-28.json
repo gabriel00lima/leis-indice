@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1994/lei-8864-1994-03-28",
+"urn": "urn:lex:br:federal:lei:1994-03-28;8864",
+"consultado_em": "2026-11-16",
+"codigo": "550740",
+"nome": "Lei nº 8.864 de 28/03/1994",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1994-03-29", "descricao": "Publicação Original [Diário Oficial da União de 29/03/1994] (p. 4554, col. 1)"}
+],
+"alteracoes": [
+{"data": "1996-02-28", "nome": "Decreto nº 1.821 de 28/02/1996", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 2", "art": "2", "acao": "correlato"}]},
+{"data": "1996-10-17", "nome": "Medida Provisória nº 1.508-10 de 17/10/1996", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "correlato"}]},
+{"data": "1996-12-05", "nome": "Lei nº 9.317 de 05/12/1996", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 12", "art": "12", "acao": "revogou"}, {"dispositivo": "Art. 13", "art": "13", "acao": "revogou"}, {"dispositivo": "Art. 14", "art": "14", "acao": "revogou"}], "id": "federal/leis-ordinarias/1996/lei-9317-1996-12-05"},
+{"data": "1999-10-05", "nome": "Lei nº 9.841 de 05/10/1999", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1999/lei-9841-1999-10-05"}
+],
+"controle": []
+}

@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9000-1995-03-16",
+"urn": "urn:lex:br:federal:lei:1995-03-16;9000",
+"consultado_em": "2026-11-16",
+"codigo": "550876",
+"nome": "Lei nº 9.000 de 16/03/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-03-17", "descricao": "Publicação Original [Diário Oficial da União de 17/03/1995] (p. 3589, col. 1)"}
+],
+"alteracoes": [
+{"data": "1995-06-13", "nome": "Medida Provisória nº 1.024 de 13/06/1995", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1995-06-29", "nome": "Medida Provisória nº 1.047 de 29/06/1995", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1995-08-25", "nome": "Medida Provisória nº 1.100 de 25/08/1995", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "correlato"}]},
+{"data": "1995-09-26", "nome": "Medida Provisória nº 1.132 de 26/09/1995", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "correlato"}]},
+{"data": "1995-10-26", "nome": "Medida Provisória nº 1.165 de 26/10/1995", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "correlato"}]}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1998/lei-9643-1998-05-26",
+"urn": "urn:lex:br:federal:lei:1998-05-26;9643",
+"consultado_em": "2026-11-16",
+"codigo": "551519",
+"nome": "Lei nº 9.643 de 26/05/1998",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1998-05-27", "descricao": "Publicação Original [Diário Oficial da União de 27/05/1998] (p. 3, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-02-05", "nome": "Decreto nº 6.759 de 05/02/2009", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

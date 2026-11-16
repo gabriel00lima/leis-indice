@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9049-1995-05-18",
+"urn": "urn:lex:br:federal:lei:1995-05-18;9049",
+"consultado_em": "2026-11-16",
+"codigo": "550925",
+"nome": "Lei nº 9.049 de 18/05/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-05-19", "descricao": "Publicação Original [Diário Oficial da União de 19/05/1995] (p. 7126, col. 1)"}
+],
+"alteracoes": [
+{"data": "2018-02-05", "nome": "Decreto nº 9.278 de 05/02/2018", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "acao": "regulamentou"}]},
+{"data": "2022-02-23", "nome": "Decreto nº 10.977 de 23/02/2022", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2023-11-27", "nome": "Decreto nº 11.797 de 27/11/2023", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

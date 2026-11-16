@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1993/lei-8650-1993-04-22",
+"urn": "urn:lex:br:federal:lei:1993-04-22;8650",
+"consultado_em": "2026-11-16",
+"codigo": "550526",
+"nome": "Lei nº 8.650 de 22/04/1993",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-04-23", "descricao": "Publicação Original [Diário Oficial da União de 23/04/1993] (p. 5265, col. 1)"}
+],
+"alteracoes": [
+{"data": "2023-06-14", "nome": "Lei nº 14.597 de 14/06/2023", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2023/lei-14597-2023-06-14"}
+],
+"controle": []
+}

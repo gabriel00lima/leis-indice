@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/1995/lei-9092-1995-09-12",
+"urn": "urn:lex:br:federal:lei:1995-09-12;9092",
+"consultado_em": "2026-11-16",
+"codigo": "550968",
+"nome": "Lei nº 9.092 de 12/09/1995",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1995-09-13", "descricao": "Publicação Original [Diário Oficial da União de 13/09/1995] (p. 14117, col. 1)"}
+],
+"alteracoes": [
+{"data": "1998-11-16", "nome": "Decreto nº 2.843 de 16/11/1998", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2018-06-11", "nome": "Medida Provisória nº 841 de 11/06/2018", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2018-12-12", "nome": "Lei nº 13.756 de 12/12/2018", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2018/lei-13756-2018-12-12"}
+],
+"controle": []
+}

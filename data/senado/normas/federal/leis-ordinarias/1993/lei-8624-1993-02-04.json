@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/1993/lei-8624-1993-02-04",
+"urn": "urn:lex:br:federal:lei:1993-02-04;8624",
+"consultado_em": "2026-11-16",
+"codigo": "550500",
+"nome": "Lei nº 8.624 de 04/02/1993",
+"apelidos": [
+"Lei Federal do Plebiscito (1993)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-02-05", "descricao": "Publicação Original [Diário Oficial da União de 05/02/1993] (p. 1605, col. 1)"}
+],
+"alteracoes": [
+{"data": "1993-02-18", "nome": "Ato da Mesa Diretora do Congresso Nacional de 18/02/1993", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1993-02-19", "nome": "Decreto nº 756 de 19/02/1993", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "regulamentou"}]},
+{"data": "1993-03-01", "nome": "Ato da Mesa Diretora do Congresso Nacional de 01/03/1993", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

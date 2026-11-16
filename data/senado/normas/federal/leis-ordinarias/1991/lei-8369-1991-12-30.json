@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1991/lei-8369-1991-12-30",
+"urn": "urn:lex:br:federal:lei:1991-12-30;8369",
+"consultado_em": "2026-11-16",
+"codigo": "550245",
+"nome": "Lei nº 8.369 de 30/12/1991",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1991-12-31", "descricao": "Publicação Original [Diário Oficial da União de 31/12/1991] (p. 31104, col. 2)"},
+{"tipo": "RET", "data": "1992-01-30", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 30/01/1992] (p. 1157, col. 1)"},
+{"tipo": "RAN", "data": "1992-04-06", "descricao": "Republicação de Anexo (Seq. 1)(004 - Anexo IV) [Diário Oficial da União de 06/04/1992] (p. 4289, col. 1)"}
+],
+"alteracoes": [
+{"data": "1994-11-18", "nome": "Medida Provisória nº 721 de 18/11/1994", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1994-12-20", "nome": "Medida Provisória nº 775 de 20/12/1994", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

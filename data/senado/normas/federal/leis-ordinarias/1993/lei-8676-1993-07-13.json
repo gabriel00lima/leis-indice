@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/1993/lei-8676-1993-07-13",
+"urn": "urn:lex:br:federal:lei:1993-07-13;8676",
+"consultado_em": "2026-11-16",
+"codigo": "550552",
+"nome": "Lei nº 8.676 de 13/07/1993",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1993-07-14", "descricao": "Publicação Original [Diário Oficial da União de 14/07/1993] (p. 9695, col. 1)"}
+],
+"alteracoes": [
+{"data": "1994-02-27", "nome": "Medida Provisória nº 434 de 27/02/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}]},
+{"data": "1994-03-29", "nome": "Medida Provisória nº 457 de 29/03/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}]},
+{"data": "1994-04-28", "nome": "Medida Provisória nº 482 de 28/04/1994", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}]},
+{"data": "1994-05-27", "nome": "Lei nº 8.880 de 27/05/1994", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/1994/lei-8880-1994-05-27"}
+],
+"controle": []
+}

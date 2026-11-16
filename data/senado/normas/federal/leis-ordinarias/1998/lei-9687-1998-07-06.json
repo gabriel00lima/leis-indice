@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/1998/lei-9687-1998-07-06",
+"urn": "urn:lex:br:federal:lei:1998-07-06;9687",
+"consultado_em": "2026-11-16",
+"codigo": "551563",
+"nome": "Lei nº 9.687 de 06/07/1998",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1998-07-07", "descricao": "Publicação Original [Diário Oficial da União de 07/07/1998] (p. 8, col. 1)"}
+],
+"alteracoes": [
+{"data": "2001-09-05", "nome": "Medida Provisória nº 2.218 de 05/09/2001", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2002-07-04", "nome": "Lei nº 10.486 de 04/07/2002", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2002/lei-10486-2002-07-04"}
+],
+"controle": []
+}

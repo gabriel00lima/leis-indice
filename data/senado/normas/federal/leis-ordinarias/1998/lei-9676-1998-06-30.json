@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/1998/lei-9676-1998-06-30",
+"urn": "urn:lex:br:federal:lei:1998-06-30;9676",
+"consultado_em": "2026-11-16",
+"codigo": "551552",
+"nome": "Lei nº 9.676 de 30/06/1998",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1998-07-01", "descricao": "Publicação Original [Diário Oficial da União de 01/07/1998] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "1998-07-10", "nome": "Decreto nº 2.664 de 10/07/1998", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}
