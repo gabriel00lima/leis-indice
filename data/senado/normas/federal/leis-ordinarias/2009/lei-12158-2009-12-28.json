@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2009/lei-12158-2009-12-28",
+"urn": "urn:lex:br:federal:lei:2009-12-28;12158",
+"consultado_em": "2026-11-17",
+"codigo": "580850",
+"nome": "Lei nº 12.158 de 28/12/2009",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2009-12-29", "descricao": "Publicação Original [Diário Oficial da União de 29/12/2009] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2010-05-27", "nome": "Decreto nº 7.188 de 27/05/2010", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

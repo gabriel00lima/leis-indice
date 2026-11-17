@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2009/lei-11898-2009-01-08",
+"urn": "urn:lex:br:federal:lei:2009-01-08;11898",
+"consultado_em": "2026-11-17",
+"codigo": "583523",
+"nome": "Lei nº 11.898 de 08/01/2009",
+"apelidos": [
+"Regime de Tributação Unificada (2009) (RTU)",
+"Lei dos Sacoleiros (2009)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2009-01-09", "descricao": "Publicação Original [Diário Oficial da União de 09/01/2009] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2009-09-09", "nome": "Decreto nº 6.956 de 09/09/2009", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2015-12-18", "nome": "Decreto nº 8.597 de 18/12/2015", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 26", "art": "26", "acao": "regulamentou"}, {"dispositivo": "Art. 27", "art": "27", "acao": "regulamentou"}]}
+],
+"controle": []
+}

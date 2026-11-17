@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10409-2002-01-11",
+"urn": "urn:lex:br:federal:lei:2002-01-11;10409",
+"consultado_em": "2026-11-17",
+"codigo": "552285",
+"nome": "Lei nº 10.409 de 11/01/2002",
+"apelidos": [
+"Lei dos Tóxicos (2002)",
+"Lei Antidrogas (2002)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-01-14", "descricao": "Publicação Original [Diário Oficial da União de 14/01/2002] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2006-08-23", "nome": "Lei nº 11.343 de 23/08/2006", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2006/lei-11343-2006-08-23"}
+],
+"controle": []
+}

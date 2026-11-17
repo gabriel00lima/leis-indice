@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2003/lei-10795-2003-12-05",
+"urn": "urn:lex:br:federal:lei:2003-12-05;10795",
+"consultado_em": "2026-11-17",
+"codigo": "552671",
+"nome": "Lei nº 10.795 de 05/12/2003",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2003-12-08", "descricao": "Publicação Original [Diário Oficial da União de 08/12/2003] (p. 1, col. 1)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2019-10-03", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.174 de 03/10/2019", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "constitucional", "texto": "Dispositivo com Parte de Texto Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "4174"}}
+]
+}

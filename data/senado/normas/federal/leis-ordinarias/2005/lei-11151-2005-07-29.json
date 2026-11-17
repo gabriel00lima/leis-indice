@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2005/lei-11151-2005-07-29",
+"urn": "urn:lex:br:federal:lei:2005-07-29;11151",
+"consultado_em": "2026-11-17",
+"codigo": "570600",
+"nome": "Lei nº 11.151 de 29/07/2005",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2005-08-01", "descricao": "Publicação Original [Diário Oficial da União de 01/08/2005] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2005-12-27", "nome": "Decreto nº 5.642 de 27/12/2005", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

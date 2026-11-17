@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2010/lei-12227-2010-04-12",
+"urn": "urn:lex:br:federal:lei:2010-04-12;12227",
+"consultado_em": "2026-11-17",
+"codigo": "575869",
+"nome": "Lei nº 12.227 de 12/04/2010",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2010-04-13", "descricao": "Publicação Original [Diário Oficial da União de 13/04/2010] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2013-10-24", "nome": "Decreto nº 8.131 de 24/10/2013", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

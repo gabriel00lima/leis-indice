@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2005/lei-11201-2005-11-24",
+"urn": "urn:lex:br:federal:lei:2005-11-24;11201",
+"consultado_em": "2026-11-17",
+"codigo": "572740",
+"nome": "Lei nº 11.201 de 24/11/2005",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2005-11-25", "descricao": "Publicação Original [Diário Oficial da União de 25/11/2005] (p. 5, col. 1)"}
+],
+"alteracoes": [
+{"data": "2006-06-29", "nome": "Medida Provisória nº 306 de 29/06/2006", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2006-10-19", "nome": "Lei nº 11.359 de 19/10/2006", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2006/lei-11359-2006-10-19"}
+],
+"controle": []
+}

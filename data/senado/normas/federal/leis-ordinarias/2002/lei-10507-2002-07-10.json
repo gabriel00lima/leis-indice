@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10507-2002-07-10",
+"urn": "urn:lex:br:federal:lei:2002-07-10;10507",
+"consultado_em": "2026-11-17",
+"codigo": "552383",
+"nome": "Lei nº 10.507 de 10/07/2002",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-07-11", "descricao": "Publicação Original [Diário Oficial da União de 11/07/2002] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2006-06-09", "nome": "Medida Provisória nº 297 de 09/06/2006", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2006-10-05", "nome": "Lei nº 11.350 de 05/10/2006", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2006/lei-11350-2006-10-05"}
+],
+"controle": []
+}

@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2009/lei-12009-2009-07-29",
+"urn": "urn:lex:br:federal:lei:2009-07-29;12009",
+"consultado_em": "2026-11-17",
+"codigo": "580232",
+"nome": "Lei nº 12.009 de 29/07/2009",
+"apelidos": [
+"Lei do Mototáxi e Motoboy (2009)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2009-07-30", "descricao": "Publicação Original [Diário Oficial da União de 30/07/2009] (p. 4, col. 3)"}
+],
+"alteracoes": [
+{"data": "2026-05-19", "nome": "Medida Provisória nº 1.360 de 19/05/2026", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, caput, Inciso 1", "art": "2", "acao": "revogou"}, {"dispositivo": "Art. 2, caput, Inciso 2", "art": "2", "acao": "alterou"}, {"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "acao": "revogou"}]}
+],
+"controle": [
+{"data": "2020-03-26", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 4.530 de 26/03/2020", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "efeito": "constitucional", "texto": "Dispositivo com Parte de Texto Declarado Constitucional"}, {"dispositivo": "Art. 3, caput, Inciso 2", "art": "3", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 5", "art": "5", "efeito": "constitucional", "texto": "Dispositivo com Parte de Texto Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "4530"}}
+]
+}

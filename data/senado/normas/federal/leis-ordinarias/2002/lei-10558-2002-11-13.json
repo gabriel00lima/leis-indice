@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2002/lei-10558-2002-11-13",
+"urn": "urn:lex:br:federal:lei:2002-11-13;10558",
+"consultado_em": "2026-11-17",
+"codigo": "552434",
+"nome": "Lei nº 10.558 de 13/11/2002",
+"apelidos": [
+"Lei de Cotas (2002)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2002-11-14", "descricao": "Publicação Original [Diário Oficial da União de 14/11/2002] (p. 6, col. 1)"}
+],
+"alteracoes": [
+{"data": "2003-11-12", "nome": "Decreto nº 4.876 de 12/11/2003", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2007-07-20", "nome": "Lei nº 11.507 de 20/07/2007", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}], "id": "federal/leis-ordinarias/2007/lei-11507-2007-07-20"},
+{"data": "2025-03-13", "nome": "Decreto nº 12.410 de 13/03/2025", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "regulamentou"}]}
+],
+"controle": []
+}

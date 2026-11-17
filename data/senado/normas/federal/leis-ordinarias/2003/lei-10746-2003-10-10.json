@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2003/lei-10746-2003-10-10",
+"urn": "urn:lex:br:federal:lei:2003-10-10;10746",
+"consultado_em": "2026-11-17",
+"codigo": "552622",
+"nome": "Lei nº 10.746 de 10/10/2003",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2003-10-13", "descricao": "Publicação Original [Diário Oficial da União de 13/10/2003] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2018-06-11", "nome": "Medida Provisória nº 841 de 11/06/2018", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2018-12-12", "nome": "Lei nº 13.756 de 12/12/2018", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2018/lei-13756-2018-12-12"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2003/lei-10646-2003-03-28",
+"urn": "urn:lex:br:federal:lei:2003-03-28;10646",
+"consultado_em": "2026-11-17",
+"codigo": "552522",
+"nome": "Lei nº 10.646 de 28/03/2003",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2003-03-31", "descricao": "Publicação Original [Diário Oficial da União de 31/03/2003] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2003-03-31", "nome": "Medida Provisória nº 114 de 31/03/2003", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2003-07-02", "nome": "Lei nº 10.696 de 02/07/2003", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2003/lei-10696-2003-07-02"}
+],
+"controle": []
+}

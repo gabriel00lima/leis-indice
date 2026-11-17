@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2003/lei-10819-2003-12-16",
+"urn": "urn:lex:br:federal:lei:2003-12-16;10819",
+"consultado_em": "2026-11-17",
+"codigo": "552695",
+"nome": "Lei nº 10.819 de 16/12/2003",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2003-12-17", "descricao": "Publicação Original [Diário Oficial da União de 17/12/2003] (p. 19, col. 1)"}
+],
+"alteracoes": [
+{"data": "2015-08-05", "nome": "Lei Complementar nº 151 de 05/08/2015", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-complementares/2015/lcp-151-2015-08-05"}
+],
+"controle": []
+}

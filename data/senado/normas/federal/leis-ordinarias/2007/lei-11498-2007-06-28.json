@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2007/lei-11498-2007-06-28",
+"urn": "urn:lex:br:federal:lei:2007-06-28;11498",
+"consultado_em": "2026-11-17",
+"codigo": "572650",
+"nome": "Lei nº 11.498 de 28/06/2007",
+"apelidos": [
+"Lei do Salário Mínimo (2007)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2007-06-29", "descricao": "Publicação Original [Diário Oficial da União de 29/06/2007] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2008-02-29", "nome": "Medida Provisória nº 421 de 29/02/2008", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []}
+],
+"controle": []
+}

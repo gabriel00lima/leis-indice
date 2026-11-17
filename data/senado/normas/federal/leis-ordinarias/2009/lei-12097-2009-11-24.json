@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2009/lei-12097-2009-11-24",
+"urn": "urn:lex:br:federal:lei:2009-11-24;12097",
+"consultado_em": "2026-11-17",
+"codigo": "580789",
+"nome": "Lei nº 12.097 de 24/11/2009",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2009-11-25", "descricao": "Publicação Original [Diário Oficial da União de 25/11/2009] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2011-11-22", "nome": "Decreto nº 7.623 de 22/11/2011", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

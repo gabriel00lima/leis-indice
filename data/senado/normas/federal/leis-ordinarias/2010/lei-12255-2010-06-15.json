@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2010/lei-12255-2010-06-15",
+"urn": "urn:lex:br:federal:lei:2010-06-15;12255",
+"consultado_em": "2026-11-17",
+"codigo": "575897",
+"nome": "Lei nº 12.255 de 15/06/2010",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2010-06-16", "descricao": "Publicação Original [Diário Oficial da União de 16/06/2010] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2010-12-30", "nome": "Medida Provisória nº 516 de 30/12/2010", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]},
+{"data": "2011-02-25", "nome": "Lei nº 12.382 de 25/02/2011", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2011/lei-12382-2011-02-25"}
+],
+"controle": []
+}
