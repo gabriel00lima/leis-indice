@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2015/lei-13170-2015-10-16",
+"urn": "urn:lex:br:federal:lei:2015-10-16;13170",
+"consultado_em": "2026-11-18",
+"codigo": "584982",
+"nome": "Lei nº 13.170 de 16/10/2015",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2015-10-19", "descricao": "Publicação Original [Diário Oficial da União de 19/10/2015] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2019-03-08", "nome": "Lei nº 13.810 de 08/03/2019", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2019/lei-13810-2019-03-08"}
+],
+"controle": []
+}

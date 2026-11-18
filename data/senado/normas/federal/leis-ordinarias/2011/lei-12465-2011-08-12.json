@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2011/lei-12465-2011-08-12",
+"urn": "urn:lex:br:federal:lei:2011-08-12;12465",
+"consultado_em": "2026-11-18",
+"codigo": "584321",
+"nome": "Lei nº 12.465 de 12/08/2011",
+"apelidos": [
+"Lei de Diretrizes Orçamentárias (LDO) (2012)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2011-08-15", "descricao": "Publicação Original [Diário Oficial da União de 15/08/2011] (p. 2, col. 2)"},
+{"tipo": "REP", "data": "2011-08-16", "descricao": "Republicação Integral (Seq. 1) [Diário Oficial da União de 16/08/2011] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2012-03-29", "nome": "Decreto nº 7.707 de 29/03/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 4", "art": null, "acao": "alterou"}]},
+{"data": "2012-05-30", "nome": "Decreto nº 7.740 de 30/05/2012", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 4", "art": null, "acao": "alterou"}]}
+],
+"controle": []
+}

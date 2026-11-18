@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2018/lei-13639-2018-03-26",
+"urn": "urn:lex:br:federal:lei:2018-03-26;13639",
+"consultado_em": "2026-11-18",
+"codigo": "26382128",
+"nome": "Lei nº 13.639 de 26/03/2018",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2018-03-27", "descricao": "Publicação Original [Diário Oficial da União de 27/03/2018] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2018-08-08", "nome": "Decreto nº 9.461 de 08/08/2018", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 34, caput", "art": "34", "acao": "regulamentou"}]}
+],
+"controle": []
+}

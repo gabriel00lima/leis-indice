@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2019/lei-13810-2019-03-08",
+"urn": "urn:lex:br:federal:lei:2019-03-08;13810",
+"consultado_em": "2026-11-18",
+"codigo": "30838404",
+"nome": "Lei nº 13.810 de 08/03/2019",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2019-03-08", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 08/03/2019 - nº 46-A] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2019-03-08", "nome": "Mensagem de Veto Parcial nº 74 de 08/03/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6, Parágrafo Único", "art": "6", "acao": "veto"}]},
+{"data": "2019-03-08", "nome": "Mensagem de Veto Parcial nº 74 de 08/03/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-06-05", "nome": "Decreto nº 9.825 de 05/06/2019", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 34, caput", "art": "34", "acao": "regulamentou"}]}
+],
+"controle": []
+}

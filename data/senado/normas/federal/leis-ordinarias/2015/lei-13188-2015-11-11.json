@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2015/lei-13188-2015-11-11",
+"urn": "urn:lex:br:federal:lei:2015-11-11;13188",
+"consultado_em": "2026-11-18",
+"codigo": "585000",
+"nome": "Lei nº 13.188 de 11/11/2015",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2015-11-12", "descricao": "Publicação Original [Diário Oficial da União de 12/11/2015] (p. 1, col. 3)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2021-03-11", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.415 de 11/03/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, caput", "art": "10", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}, {"dispositivo": "Art. 10, caput", "art": "10", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade de Parte do Texto"}], "decisao": {"classe": "ADI", "numero": "5415"}},
+{"data": "2021-03-11", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.418 de 11/03/2021", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 2, § 3", "art": "2", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 4", "art": "4", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 5, § 1", "art": "5", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 6, caput, Inciso 1", "art": "6", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 6, caput, Inciso 2", "art": "6", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "5418"}},
+{"data": "2021-03-11", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.418 de 11/03/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, caput", "art": "10", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}, {"dispositivo": "Art. 10, caput", "art": "10", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade de Parte do Texto"}], "decisao": {"classe": "ADI", "numero": "5418"}},
+{"data": "2021-03-11", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.436 de 11/03/2021", "tipo": "Constitucionalidade", "dispositivos": [{"dispositivo": "Art. 2, § 3", "art": "2", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 5, § 1", "art": "5", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 5, § 2", "art": "5", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 6", "art": "6", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}, {"dispositivo": "Art. 7", "art": "7", "efeito": "constitucional", "texto": "Dispositivo Declarado Constitucional"}], "decisao": {"classe": "ADI", "numero": "5436"}},
+{"data": "2021-03-11", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.436 de 11/03/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 10, caput", "art": "10", "efeito": "interpretacao-conforme", "texto": "Declaração de Interpretação conforme a Constituição"}, {"dispositivo": "Art. 10, caput", "art": "10", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade de Parte do Texto"}], "decisao": {"classe": "ADI", "numero": "5436"}}
+]
+}

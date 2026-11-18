@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2020/lei-13993-2020-04-23",
+"urn": "urn:lex:br:federal:lei:2020-04-23;13993",
+"consultado_em": "2026-11-18",
+"codigo": "32128504",
+"nome": "Lei nº 13.993 de 23/04/2020",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2020-04-24", "descricao": "Publicação Original [Diário Oficial da União de 24/04/2020] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2020-06-29", "nome": "Decreto nº 10.407 de 29/06/2020", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2010/lei-12369-2010-12-29",
+"urn": "urn:lex:br:federal:lei:2010-12-29;12369",
+"consultado_em": "2026-11-18",
+"codigo": "585366",
+"nome": "Lei nº 12.369 de 29/12/2010",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2010-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/2010] (p. 32, col. 2)"}
+],
+"alteracoes": [
+{"data": "2011-01-28", "nome": "Decreto de 28/01/2011 ( seq-sf: 2 )", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

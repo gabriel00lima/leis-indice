@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2019/lei-13895-2019-10-30",
+"urn": "urn:lex:br:federal:lei:2019-10-30;13895",
+"consultado_em": "2026-11-18",
+"codigo": "31629971",
+"nome": "Lei nº 13.895 de 30/10/2019",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2019-10-31", "descricao": "Publicação Original [Diário Oficial da União de 31/10/2019] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2019-10-30", "nome": "Mensagem de Veto Parcial nº 548 de 30/10/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 6", "art": "2", "acao": "veto"}]},
+{"data": "2019-10-30", "nome": "Mensagem de Veto Parcial nº 548 de 30/10/2019", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": []
+}

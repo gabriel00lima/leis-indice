@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2013/lei-12883-2013-11-21",
+"urn": "urn:lex:br:federal:lei:2013-11-21;12883",
+"consultado_em": "2026-11-18",
+"codigo": "591331",
+"nome": "Lei nº 12.883 de 21/11/2013",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2013-11-22", "descricao": "Publicação Original [Diário Oficial da União de 22/11/2013] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2016-07-20", "nome": "Lei nº 13.316 de 20/07/2016", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/2016/lei-13316-2016-07-20"}
+],
+"controle": []
+}

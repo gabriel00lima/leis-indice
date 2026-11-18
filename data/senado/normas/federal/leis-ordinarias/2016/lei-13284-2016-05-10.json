@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2016/lei-13284-2016-05-10",
+"urn": "urn:lex:br:federal:lei:2016-05-10;13284",
+"consultado_em": "2026-11-18",
+"codigo": "602509",
+"nome": "Lei nº 13.284 de 10/05/2016",
+"apelidos": [
+"Lei Geral das Olimpíadas (2016)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2016-05-11", "descricao": "Publicação Original [Diário Oficial da União de 11/05/2016] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2016-07-20", "nome": "Decreto nº 8.816 de 20/07/2016", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 24", "art": "24", "acao": "regulamentou"}]}
+],
+"controle": []
+}

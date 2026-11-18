@@ -1,0 +1,22 @@
+{
+"id": "federal/leis-ordinarias/2020/lei-14045-2020-08-20",
+"urn": "urn:lex:br:federal:lei:2020-08-20;14045",
+"consultado_em": "2026-11-18",
+"codigo": "32581251",
+"nome": "Lei nº 14.045 de 20/08/2020",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2020-08-21", "descricao": "Publicação Original [Diário Oficial da União de 21/08/2020] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2020-08-20", "nome": "Mensagem de Veto Parcial nº 471 de 20/08/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "veto"}]},
+{"data": "2020-08-20", "nome": "Mensagem de Veto Parcial nº 471 de 20/08/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-08-20", "nome": "Mensagem de Veto Parcial nº 471 de 20/08/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-08-20", "nome": "Mensagem de Veto Parcial nº 471 de 20/08/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-08-20", "nome": "Mensagem de Veto Parcial nº 471 de 20/08/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-08-20", "nome": "Mensagem de Veto Parcial nº 471 de 20/08/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-08-20", "nome": "Mensagem de Veto Parcial nº 471 de 20/08/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-08-20", "nome": "Mensagem de Veto Parcial nº 471 de 20/08/2020", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": []
+}

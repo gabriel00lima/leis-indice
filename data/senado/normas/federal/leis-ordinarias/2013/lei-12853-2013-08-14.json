@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2013/lei-12853-2013-08-14",
+"urn": "urn:lex:br:federal:lei:2013-08-14;12853",
+"consultado_em": "2026-11-18",
+"codigo": "591301",
+"nome": "Lei nº 12.853 de 14/08/2013",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2013-08-15", "descricao": "Publicação Original [Diário Oficial da União de 15/08/2013] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2015-06-22", "nome": "Decreto nº 8.469 de 22/06/2015", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "2018-11-22", "nome": "Decreto nº 9.574 de 22/11/2018", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "regulamentou"}]},
+{"data": "2019-06-27", "nome": "Decreto nº 9.879 de 27/06/2019", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 7, caput", "art": "7", "acao": "regulamentou"}]}
+],
+"controle": [
+{"data": "2016-10-27", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 5.062 de 27/10/2016", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "5062"}}
+]
+}

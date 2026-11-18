@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2019/lei-13897-2019-11-07",
+"urn": "urn:lex:br:federal:lei:2019-11-07;13897",
+"consultado_em": "2026-11-18",
+"codigo": "31663595",
+"nome": "Lei nº 13.897 de 07/11/2019",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2019-11-08", "descricao": "Publicação Original [Diário Oficial da União de 08/11/2019] (p. 1, col. 2)"},
+{"tipo": "VEP", "data": "2019-12-11", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União de 11/12/2019] (p. 3, col. 2)"}
+],
+"alteracoes": [
+{"data": "2019-11-07", "nome": "Mensagem de Veto Parcial nº 559 de 07/11/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "veto"}]},
+{"data": "2019-11-07", "nome": "Mensagem de Veto Parcial nº 559 de 07/11/2019", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": []
+}

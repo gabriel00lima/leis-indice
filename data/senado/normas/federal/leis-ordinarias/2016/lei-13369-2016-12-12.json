@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2016/lei-13369-2016-12-12",
+"urn": "urn:lex:br:federal:lei:2016-12-12;13369",
+"consultado_em": "2026-11-18",
+"codigo": "602594",
+"nome": "Lei nº 13.369 de 12/12/2016",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2016-12-13", "descricao": "Publicação Original [Diário Oficial da União de 13/12/2016] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2016-12-12", "nome": "Mensagem de Veto Parcial nº 640 de 12/12/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-12-12", "nome": "Mensagem de Veto Parcial nº 640 de 12/12/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-12-12", "nome": "Mensagem de Veto Parcial nº 640 de 12/12/2016", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2016-12-12", "nome": "Mensagem de Veto Parcial nº 640 de 12/12/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, caput, Inciso 1", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, caput, Inciso 2", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, caput, Inciso 3", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, caput, Inciso 4", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 6, caput", "art": "6", "acao": "veto"}, {"dispositivo": "Art. 7, caput", "art": "7", "acao": "veto"}, {"dispositivo": "Art. 7, caput, Inciso 1", "art": "7", "acao": "veto"}, {"dispositivo": "Art. 7, caput, Inciso 2", "art": "7", "acao": "veto"}, {"dispositivo": "Art. 8, caput", "art": "8", "acao": "veto"}]},
+{"data": "2016-12-12", "nome": "Mensagem de Veto Parcial nº 640 de 12/12/2016", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": []
+}

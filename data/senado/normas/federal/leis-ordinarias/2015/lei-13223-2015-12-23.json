@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2015/lei-13223-2015-12-23",
+"urn": "urn:lex:br:federal:lei:2015-12-23;13223",
+"consultado_em": "2026-11-18",
+"codigo": "602448",
+"nome": "Lei nº 13.223 de 23/12/2015",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2015-12-24", "descricao": "Publicação Original [Diário Oficial da União de 24/12/2015] (p. 7, col. 1)"}
+],
+"alteracoes": [
+{"data": "2016-01-11", "nome": "Decreto de 11/01/2016", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2016-02-03", "nome": "Decreto de 03/02/2016", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

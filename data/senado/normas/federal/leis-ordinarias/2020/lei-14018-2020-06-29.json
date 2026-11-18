@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2020/lei-14018-2020-06-29",
+"urn": "urn:lex:br:federal:lei:2020-06-29;14018",
+"consultado_em": "2026-11-18",
+"codigo": "32297647",
+"nome": "Lei nº 14.018 de 29/06/2020",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2020-06-30", "descricao": "Publicação Original [Diário Oficial da União de 30/06/2020] (p. 3, col. 1)"}
+],
+"alteracoes": [
+{"data": "2020-06-29", "nome": "Mensagem de Veto Parcial nº 365 de 29/06/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-06-29", "nome": "Mensagem de Veto Parcial nº 365 de 29/06/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-06-29", "nome": "Mensagem de Veto Parcial nº 365 de 29/06/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-06-29", "nome": "Mensagem de Veto Parcial nº 365 de 29/06/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2020-06-29", "nome": "Mensagem de Veto Parcial nº 365 de 29/06/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 2, caput", "art": "2", "acao": "veto"}, {"dispositivo": "Art. 3, § 1", "art": "3", "acao": "veto"}]}
+],
+"controle": []
+}

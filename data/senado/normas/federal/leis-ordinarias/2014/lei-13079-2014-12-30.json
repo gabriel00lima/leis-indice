@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2014/lei-13079-2014-12-30",
+"urn": "urn:lex:br:federal:lei:2014-12-30;13079",
+"consultado_em": "2026-11-18",
+"codigo": "584891",
+"nome": "Lei nº 13.079 de 30/12/2014",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2014-12-31", "descricao": "Publicação Original [Diário Oficial da União de 31/12/2014] (p. 23, col. 2)"},
+{"tipo": "RET", "data": "2015-02-18", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 18/02/2015] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2015-02-12", "nome": "Decreto de 12/02/2015", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

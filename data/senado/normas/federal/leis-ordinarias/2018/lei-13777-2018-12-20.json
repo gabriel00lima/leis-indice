@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2018/lei-13777-2018-12-20",
+"urn": "urn:lex:br:federal:lei:2018-12-20;13777",
+"consultado_em": "2026-11-18",
+"codigo": "30757244",
+"nome": "Lei nº 13.777 de 20/12/2018",
+"apelidos": [
+"Lei da Multipropriedade Imobiliária (2018)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2018-12-21", "descricao": "Publicação Original [Diário Oficial da União de 21/12/2018] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2018-12-20", "nome": "Mensagem de Veto Parcial nº 763 de 20/12/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-12-20", "nome": "Mensagem de Veto Parcial nº 763 de 20/12/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "acao": "veto"}]}
+],
+"controle": []
+}

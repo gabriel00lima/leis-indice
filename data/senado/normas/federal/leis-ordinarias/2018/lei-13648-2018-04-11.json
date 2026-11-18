@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2018/lei-13648-2018-04-11",
+"urn": "urn:lex:br:federal:lei:2018-04-11;13648",
+"consultado_em": "2026-11-18",
+"codigo": "26535714",
+"nome": "Lei nº 13.648 de 11/04/2018",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2018-04-12", "descricao": "Publicação Original [Diário Oficial da União de 12/04/2018] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2018-04-11", "nome": "Mensagem de Veto Parcial nº 179 de 11/04/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 3, caput", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, § 1", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, § 2", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, § 3", "art": "3", "acao": "veto"}]},
+{"data": "2018-04-11", "nome": "Mensagem de Veto Parcial nº 179 de 11/04/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-04-11", "nome": "Mensagem de Veto Parcial nº 179 de 11/04/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-09-25", "nome": "Decreto nº 10.026 de 25/09/2019", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

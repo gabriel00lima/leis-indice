@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2018/lei-13701-2018-08-06",
+"urn": "urn:lex:br:federal:lei:2018-08-06;13701",
+"consultado_em": "2026-11-18",
+"codigo": "27445746",
+"nome": "Lei nº 13.701 de 06/08/2018",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "ANX", "data": "2018-08-07", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União de 07/08/2018] (p. 3, col. 1)"},
+{"tipo": "PUB", "data": "2018-08-07", "descricao": "Publicação Original [Diário Oficial da União de 07/08/2018] (p. 2, col. 3)"}
+],
+"alteracoes": [
+{"data": "2018-08-06", "nome": "Mensagem de Veto Parcial nº 419 de 06/08/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "acao": "veto"}]},
+{"data": "2018-08-06", "nome": "Mensagem de Veto Parcial nº 419 de 06/08/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-04-30", "nome": "Decreto nº 9.773 de 30/04/2019", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 1, § 3", "art": "1", "acao": "correlato"}]},
+{"data": "2019-06-27", "nome": "Decreto nº 9.870 de 27/06/2019", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

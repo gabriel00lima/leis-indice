@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2018/lei-13691-2018-07-10",
+"urn": "urn:lex:br:federal:lei:2018-07-10;13691",
+"consultado_em": "2026-11-18",
+"codigo": "27435265",
+"nome": "Lei nº 13.691 de 10/07/2018",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2018-07-11", "descricao": "Publicação Original [Diário Oficial da União de 11/07/2018] (p. 2, col. 3)"}
+],
+"alteracoes": [
+{"data": "2018-07-10", "nome": "Mensagem de Veto Parcial nº 380 de 10/07/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-07-10", "nome": "Mensagem de Veto Parcial nº 380 de 10/07/2018", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2018-07-10", "nome": "Mensagem de Veto Parcial nº 380 de 10/07/2018", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput, Inciso 4", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 2, caput, Inciso 9", "art": "2", "acao": "veto"}]}
+],
+"controle": []
+}

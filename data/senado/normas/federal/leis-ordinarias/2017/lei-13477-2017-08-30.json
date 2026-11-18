@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2017/lei-13477-2017-08-30",
+"urn": "urn:lex:br:federal:lei:2017-08-30;13477",
+"consultado_em": "2026-11-18",
+"codigo": "17760504",
+"nome": "Lei nº 13.477 de 30/08/2017",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2017-08-31", "descricao": "Publicação Original [Diário Oficial da União de 31/08/2017] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2017-08-30", "nome": "Mensagem de Veto Parcial nº 322 de 30/08/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 1", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, § 2", "art": "3", "acao": "veto"}]},
+{"data": "2017-08-30", "nome": "Mensagem de Veto Parcial nº 322 de 30/08/2017", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2017-08-30", "nome": "Mensagem de Veto Parcial nº 322 de 30/08/2017", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": []
+}

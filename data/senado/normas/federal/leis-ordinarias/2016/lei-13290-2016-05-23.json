@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2016/lei-13290-2016-05-23",
+"urn": "urn:lex:br:federal:lei:2016-05-23;13290",
+"consultado_em": "2026-11-18",
+"codigo": "602515",
+"nome": "Lei nº 13.290 de 23/05/2016",
+"apelidos": [
+"Lei do Farol Baixo (2016)"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2016-05-24", "descricao": "Publicação Original [Diário Oficial da União de 24/05/2016] (p. 2, col. 3)"}
+],
+"alteracoes": [
+{"data": "2016-05-23", "nome": "Mensagem de Veto Parcial nº 287 de 23/05/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "veto"}]},
+{"data": "2016-05-23", "nome": "Mensagem de Veto Parcial nº 287 de 23/05/2016", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": []
+}

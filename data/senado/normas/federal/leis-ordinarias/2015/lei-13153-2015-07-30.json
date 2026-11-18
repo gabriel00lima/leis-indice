@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2015/lei-13153-2015-07-30",
+"urn": "urn:lex:br:federal:lei:2015-07-30;13153",
+"consultado_em": "2026-11-18",
+"codigo": "584965",
+"nome": "Lei nº 13.153 de 30/07/2015",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2015-07-31", "descricao": "Publicação Original [Diário Oficial da União de 31/07/2015] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2023-12-05", "nome": "Decreto nº 11.815 de 05/12/2023", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2024-02-27", "nome": "Decreto nº 11.932 de 27/02/2024", "tipo": "Regulamentação Permanente de Norma", "dispositivos": [{"dispositivo": "Art. 7", "art": "7", "acao": "regulamentou"}, {"dispositivo": "Art. 8", "art": "8", "acao": "regulamentou"}, {"dispositivo": "Art. 9", "art": "9", "acao": "regulamentou"}]}
+],
+"controle": []
+}

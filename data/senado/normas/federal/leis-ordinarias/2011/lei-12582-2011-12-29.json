@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2011/lei-12582-2011-12-29",
+"urn": "urn:lex:br:federal:lei:2011-12-29;12582",
+"consultado_em": "2026-11-18",
+"codigo": "589505",
+"nome": "Lei nº 12.582 de 29/12/2011",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2011-12-29", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 29/12/2011] (p. 53, col. 2)"}
+],
+"alteracoes": [
+{"data": "2023-07-25", "nome": "Decreto nº 11.619 de 25/07/2023", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 41, caput, Inciso 5", "art": "41", "acao": "correlato"}]}
+],
+"controle": []
+}

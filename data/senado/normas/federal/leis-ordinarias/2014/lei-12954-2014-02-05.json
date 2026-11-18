@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2014/lei-12954-2014-02-05",
+"urn": "urn:lex:br:federal:lei:2014-02-05;12954",
+"consultado_em": "2026-11-18",
+"codigo": "591402",
+"nome": "Lei nº 12.954 de 05/02/2014",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2014-02-06", "descricao": "Publicação Original [Diário Oficial da União de 06/02/2014] (p. 41, col. 1)"}
+],
+"alteracoes": [
+{"data": "2018-11-23", "nome": "Decreto nº 9.581 de 23/11/2018", "tipo": "Legislação Correlata", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "correlato"}]}
+],
+"controle": []
+}

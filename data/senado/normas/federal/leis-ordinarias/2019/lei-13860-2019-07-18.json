@@ -1,0 +1,26 @@
+{
+"id": "federal/leis-ordinarias/2019/lei-13860-2019-07-18",
+"urn": "urn:lex:br:federal:lei:2019-07-18;13860",
+"consultado_em": "2026-11-18",
+"codigo": "31208954",
+"nome": "Lei nº 13.860 de 18/07/2019",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2019-07-19", "descricao": "Publicação Original [Diário Oficial da União de 19/07/2019] (p. 1, col. 1)"},
+{"tipo": "VEP", "data": "2019-09-27", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União - Edição Extra de 27/09/2019 - nº 188-A] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2019-07-18", "nome": "Mensagem de Veto Parcial nº 304 de 18/07/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-07-18", "nome": "Mensagem de Veto Parcial nº 304 de 18/07/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-07-18", "nome": "Mensagem de Veto Parcial nº 304 de 18/07/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-07-18", "nome": "Mensagem de Veto Parcial nº 304 de 18/07/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-07-18", "nome": "Mensagem de Veto Parcial nº 304 de 18/07/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-07-18", "nome": "Mensagem de Veto Parcial nº 304 de 18/07/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-07-18", "nome": "Mensagem de Veto Parcial nº 304 de 18/07/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-07-18", "nome": "Mensagem de Veto Parcial nº 304 de 18/07/2019", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 1", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 1, § 2", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 1, § 3", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 3, caput", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 4", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 9, caput", "art": "9", "acao": "veto"}, {"dispositivo": "Art. 9, Parágrafo Único", "art": "9", "acao": "veto"}, {"dispositivo": "Art. 10", "art": "10", "acao": "veto"}]},
+{"data": "2019-07-18", "nome": "Mensagem de Veto Parcial nº 304 de 18/07/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2019-07-18", "nome": "Mensagem de Veto Parcial nº 304 de 18/07/2019", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-06-21", "nome": "Decreto nº 11.099 de 21/06/2022", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

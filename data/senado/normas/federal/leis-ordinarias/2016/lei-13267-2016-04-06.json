@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2016/lei-13267-2016-04-06",
+"urn": "urn:lex:br:federal:lei:2016-04-06;13267",
+"consultado_em": "2026-11-18",
+"codigo": "602492",
+"nome": "Lei nº 13.267 de 06/04/2016",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2016-04-07", "descricao": "Publicação Original [Diário Oficial da União de 07/04/2016] (p. 1, col. 3)"}
+],
+"alteracoes": [
+{"data": "2016-04-06", "nome": "Mensagem de Veto Parcial nº 126 de 06/04/2016", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, § 1", "art": "3", "acao": "veto"}]},
+{"data": "2016-04-06", "nome": "Mensagem de Veto Parcial nº 126 de 06/04/2016", "tipo": "Veto Original", "dispositivos": []}
+],
+"controle": []
+}

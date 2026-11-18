@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2020/lei-13996-2020-05-05",
+"urn": "urn:lex:br:federal:lei:2020-05-05;13996",
+"consultado_em": "2026-11-18",
+"codigo": "32145903",
+"nome": "Lei nº 13.996 de 05/05/2020",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2020-05-06", "descricao": "Publicação Original [Diário Oficial da União de 06/05/2020] (p. 4, col. 1)"}
+],
+"alteracoes": [
+{"data": "2020-05-05", "nome": "Mensagem de Veto Parcial nº 248 de 05/05/2020", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "veto"}]},
+{"data": "2020-05-05", "nome": "Mensagem de Veto Parcial nº 248 de 05/05/2020", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2022-12-29", "nome": "Lei nº 14.515 de 29/12/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "alterou"}, {"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "renumerou"}, {"dispositivo": "Art. 1, § 2", "art": "1", "acao": "acrescentou"}], "id": "federal/leis-ordinarias/2022/lei-14515-2022-12-29"},
+{"data": "2022-12-29", "nome": "Lei nº 14.515 de 29/12/2022", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/2022/lei-14515-2022-12-29"}
+],
+"controle": []
+}

@@ -1,0 +1,19 @@
+{
+"id": "federal/leis-ordinarias/2017/lei-13452-2017-06-19",
+"urn": "urn:lex:br:federal:lei:2017-06-19;13452",
+"consultado_em": "2026-11-18",
+"codigo": "17708893",
+"nome": "Lei nº 13.452 de 19/06/2017",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2017-06-20", "descricao": "Publicação Original [Diário Oficial da União de 20/06/2017] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2017-06-19", "nome": "Mensagem de Veto Parcial nº 199 de 19/06/2017", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2017-06-19", "nome": "Mensagem de Veto Parcial nº 199 de 19/06/2017", "tipo": "Veto Original", "dispositivos": []},
+{"data": "2017-06-19", "nome": "Mensagem de Veto Parcial nº 199 de 19/06/2017", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 4, caput", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 4, Parágrafo Único", "art": "4", "acao": "veto"}]}
+],
+"controle": [
+{"data": "2026-05-21", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.553 de 21/05/2026", "tipo": "Constitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "6553"}}
+]
+}

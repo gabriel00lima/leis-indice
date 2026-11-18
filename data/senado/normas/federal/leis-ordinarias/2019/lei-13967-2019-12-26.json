@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2019/lei-13967-2019-12-26",
+"urn": "urn:lex:br:federal:lei:2019-12-26;13967",
+"consultado_em": "2026-11-18",
+"codigo": "31881954",
+"nome": "Lei nº 13.967 de 26/12/2019",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2019-12-27", "descricao": "Publicação Original [Diário Oficial da União de 27/12/2019] (p. 2, col. 2)"}
+],
+"alteracoes": [],
+"controle": [
+{"data": "2022-05-20", "nome": "Acórdão da Ação Direta de Inconstitucionalidade nº 6.595 de 20/05/2022", "tipo": "Inconstitucionalidade", "dispositivos": [], "decisao": {"classe": "ADI", "numero": "6595"}}
+]
+}

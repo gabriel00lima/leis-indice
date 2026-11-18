@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2020/lei-14016-2020-06-23",
+"urn": "urn:lex:br:federal:lei:2020-06-23;14016",
+"consultado_em": "2026-11-18",
+"codigo": "32285364",
+"nome": "Lei nº 14.016 de 23/06/2020",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2020-06-24", "descricao": "Publicação Original [Diário Oficial da União de 24/06/2020] (p. 2, col. 1)"},
+{"tipo": "RET", "data": "2020-09-18", "descricao": "Retificação (Seq. 0) [Diário Oficial da União de 18/09/2020] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2025-06-12", "nome": "Decreto nº 12.512 de 12/06/2025", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "2025-09-30", "nome": "Lei nº 15.224 de 30/09/2025", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2025/lei-15224-2025-09-30"}
+],
+"controle": []
+}
