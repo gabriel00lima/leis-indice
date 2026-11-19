@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2023/lei-14726-2023-11-17",
+"urn": "urn:lex:br:federal:lei:2023-11-17;14726",
+"consultado_em": "2026-11-19",
+"codigo": "37836044",
+"nome": "Lei nº 14.726 de 17/11/2023",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "VEP", "data": "2024-05-22", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União de 22/05/2024] (p. 4, col. 2)"},
+{"tipo": "PUB", "data": "2023-11-20", "descricao": "Publicação Original [Diário Oficial da União de 20/11/2023] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2023-11-17", "nome": "Mensagem de Veto Parcial nº 590 de 17/11/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 2", "art": "2", "acao": "veto"}, {"dispositivo": "Art. 4, caput", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "veto"}]}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2021/lei-14156-2021-06-01",
+"urn": "urn:lex:br:federal:lei:2021-06-01;14156",
+"consultado_em": "2026-11-19",
+"codigo": "34124513",
+"nome": "Lei nº 14.156 de 01/06/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "VEP", "data": "2021-12-30", "descricao": "Publicação de Veto Parcialmente Rejeitado [Diário Oficial da União de 30/12/2021] (p. 1, col. 1)"},
+{"tipo": "PUB", "data": "2021-06-02", "descricao": "Publicação Original [Diário Oficial da União de 02/06/2021] (p. 4, col. 1)"}
+],
+"alteracoes": [
+{"data": "2022-07-07", "nome": "Medida Provisória nº 1.129 de 07/07/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}]},
+{"data": "2022-11-16", "nome": "Lei nº 14.468 de 16/11/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/leis-ordinarias/2022/lei-14468-2022-11-16"}
+],
+"controle": []
+}

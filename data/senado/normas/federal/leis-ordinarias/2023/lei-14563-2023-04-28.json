@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2023/lei-14563-2023-04-28",
+"urn": "urn:lex:br:federal:lei:2023-04-28;14563",
+"consultado_em": "2026-11-19",
+"codigo": "37005141",
+"nome": "Lei nº 14.563 de 28/04/2023",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "2023-04-28", "descricao": "Republicação Integral (Seq. 1) [Diário Oficial da União - Edição Extra de 28/04/2023 - nº 81-C] (p. 1, col. 1)"},
+{"tipo": "ANX", "data": "2023-04-28", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União - Edição Extra de 28/04/2023 - nº 81-C] (p. 1, col. 1)"},
+{"tipo": "PUB", "data": "2023-04-28", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 28/04/2023 - nº 81-A] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2023-04-28", "nome": "Mensagem de Veto Parcial nº 171 de 28/04/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Anexo 1", "art": null, "acao": "veto de parte do texto"}]}
+],
+"controle": []
+}

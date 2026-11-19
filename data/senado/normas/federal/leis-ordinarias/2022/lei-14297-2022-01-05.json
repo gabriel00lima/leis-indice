@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2022/lei-14297-2022-01-05",
+"urn": "urn:lex:br:federal:lei:2022-01-05;14297",
+"consultado_em": "2026-11-19",
+"codigo": "35416576",
+"nome": "Lei nº 14.297 de 05/01/2022",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2022-01-06", "descricao": "Publicação Original [Diário Oficial da União de 06/01/2022] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2022-01-05", "nome": "Mensagem de Veto Parcial nº 13 de 05/01/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, § 3", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 6, caput, Inciso 1", "art": "6", "acao": "veto"}, {"dispositivo": "Art. 7, Parágrafo Único", "art": "7", "acao": "veto"}]}
+],
+"controle": []
+}

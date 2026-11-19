@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2023/lei-14740-2023-11-29",
+"urn": "urn:lex:br:federal:lei:2023-11-29;14740",
+"consultado_em": "2026-11-19",
+"codigo": "37882624",
+"nome": "Lei nº 14.740 de 29/11/2023",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "RET", "data": "2023-12-01", "descricao": "Retificação (Seq. 0) [Diário Oficial da União de 01/12/2023] (p. 10, col. 2)"},
+{"tipo": "PUB", "data": "2023-11-30", "descricao": "Publicação Original [Diário Oficial da União de 30/11/2023] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2024-05-22", "nome": "Lei nº 14.859 de 22/05/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "ressalvou"}], "id": "federal/leis-ordinarias/2024/lei-14859-2024-05-22"}
+],
+"controle": []
+}

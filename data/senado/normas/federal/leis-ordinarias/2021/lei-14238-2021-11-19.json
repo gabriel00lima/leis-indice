@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2021/lei-14238-2021-11-19",
+"urn": "urn:lex:br:federal:lei:2021-11-19;14238",
+"consultado_em": "2026-11-19",
+"codigo": "35187061",
+"nome": "Lei nº 14.238 de 19/11/2021",
+"apelidos": [
+"Estatuto da Pessoa com Câncer"
+],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-11-22", "descricao": "Publicação Original [Diário Oficial da União de 22/11/2021] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2021-11-19", "nome": "Mensagem de Veto Parcial nº 594 de 19/11/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 7, caput, Inciso 3", "art": "7", "acao": "veto"}]}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2021/lei-14213-2021-10-05",
+"urn": "urn:lex:br:federal:lei:2021-10-05;14213",
+"consultado_em": "2026-11-19",
+"codigo": "35009641",
+"nome": "Lei nº 14.213 de 05/10/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-10-05", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 05/10/2021 - nº 189-A] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2021-10-05", "nome": "Mensagem de Veto Parcial nº 497 de 05/10/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "veto"}]}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2025/lei-15228-2025-09-30",
+"urn": "urn:lex:br:federal:lei:2025-09-30;15228",
+"consultado_em": "2026-11-19",
+"codigo": "41512499",
+"nome": "Lei nº 15.228 de 30/09/2025",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2025-10-01", "descricao": "Publicação Original [Diário Oficial da União de 01/10/2025] (p. 3, col. 2)"}
+],
+"alteracoes": [
+{"data": "2025-09-30", "nome": "Mensagem de Veto Parcial nº 1.407 de 30/09/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, caput, Inciso 11", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 7", "art": "7", "acao": "veto"}, {"dispositivo": "Art. 8", "art": "8", "acao": "veto"}, {"dispositivo": "Art. 9, caput", "art": "9", "acao": "veto"}, {"dispositivo": "Art. 9, Parágrafo Único", "art": "9", "acao": "veto"}, {"dispositivo": "Art. 10", "art": "10", "acao": "veto"}, {"dispositivo": "Art. 11, caput", "art": "11", "acao": "veto"}, {"dispositivo": "Art. 11, Parágrafo Único", "art": "11", "acao": "veto"}, {"dispositivo": "Art. 12", "art": "12", "acao": "veto"}, {"dispositivo": "Art. 16, caput", "art": "16", "acao": "veto"}, {"dispositivo": "Art. 19, caput", "art": "19", "acao": "veto"}, {"dispositivo": "Art. 21, caput, Inciso 2", "art": "21", "acao": "veto"}]}
+],
+"controle": []
+}

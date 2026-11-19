@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2022/lei-14390-2022-07-04",
+"urn": "urn:lex:br:federal:lei:2022-07-04;14390",
+"consultado_em": "2026-11-19",
+"codigo": "36043716",
+"nome": "Lei nº 14.390 de 04/07/2022",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2022-07-05", "descricao": "Publicação Original [Diário Oficial da União de 05/07/2022] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2022-07-04", "nome": "Mensagem de Veto Parcial nº 344 de 04/07/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, caput", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 3", "art": "3", "acao": "veto"}]}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2024/lei-15074-2024-12-26",
+"urn": "urn:lex:br:federal:lei:2024-12-26;15074",
+"consultado_em": "2026-11-19",
+"codigo": "40012116",
+"nome": "Lei nº 15.074 de 26/12/2024",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2024-12-27", "descricao": "Publicação Original [Diário Oficial da União de 27/12/2024] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2024-12-26", "nome": "Mensagem de Veto Parcial nº 1.696 de 26/12/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 2", "art": "2", "acao": "veto"}, {"dispositivo": "Art. 2, caput, Inciso 3", "art": "2", "acao": "veto"}, {"dispositivo": "Art. 3, caput", "art": "3", "acao": "veto"}]}
+],
+"controle": []
+}

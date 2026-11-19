@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2025/lei-15138-2025-05-21",
+"urn": "urn:lex:br:federal:lei:2025-05-21;15138",
+"consultado_em": "2026-11-19",
+"codigo": "40864435",
+"nome": "Lei nº 15.138 de 21/05/2025",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2025-05-22", "descricao": "Publicação Original [Diário Oficial da União de 22/05/2025] (p. 2, col. 2)"}
+],
+"alteracoes": [
+{"data": "2025-05-21", "nome": "Mensagem de Veto Parcial nº 595 de 21/05/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput, Inciso 6", "art": "2", "acao": "veto"}]}
+],
+"controle": []
+}

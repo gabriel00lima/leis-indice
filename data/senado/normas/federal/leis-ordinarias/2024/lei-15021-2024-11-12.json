@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2024/lei-15021-2024-11-12",
+"urn": "urn:lex:br:federal:lei:2024-11-12;15021",
+"consultado_em": "2026-11-19",
+"codigo": "39817736",
+"nome": "Lei nº 15.021 de 12/11/2024",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2024-11-13", "descricao": "Publicação Original [Diário Oficial da União de 13/11/2024] (p. 9, col. 1)"}
+],
+"alteracoes": [
+{"data": "2024-11-12", "nome": "Mensagem de Veto Parcial nº 1.440 de 12/11/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 14, § 1, Inciso 8", "art": "14", "acao": "veto"}]}
+],
+"controle": []
+}

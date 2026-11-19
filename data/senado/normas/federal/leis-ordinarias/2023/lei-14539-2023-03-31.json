@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2023/lei-14539-2023-03-31",
+"urn": "urn:lex:br:federal:lei:2023-03-31;14539",
+"consultado_em": "2026-11-19",
+"codigo": "36936857",
+"nome": "Lei nº 14.539 de 31/03/2023",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2023-04-03", "descricao": "Publicação Original [Diário Oficial da União de 03/04/2023] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2023-03-31", "nome": "Mensagem de Veto Parcial nº 115 de 31/03/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 2", "art": "1", "acao": "veto"}]}
+],
+"controle": []
+}

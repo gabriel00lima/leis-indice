@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2024/lei-14946-2024-07-31",
+"urn": "urn:lex:br:federal:lei:2024-07-31;14946",
+"consultado_em": "2026-11-19",
+"codigo": "39388672",
+"nome": "Lei nº 14.946 de 31/07/2024",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "VET", "data": "2025-07-02", "descricao": "Publicação de Veto Rejeitado [Diário Oficial da União de 02/07/2025] (p. 2, col. 1)"},
+{"tipo": "PUB", "data": "2024-08-01", "descricao": "Publicação Original [Diário Oficial da União de 01/08/2024] (p. 6, col. 1)"}
+],
+"alteracoes": [
+{"data": "2024-07-31", "nome": "Mensagem de Veto Parcial nº 737 de 31/07/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 34, Parágrafo Único", "art": "34", "acao": "veto"}]}
+],
+"controle": []
+}

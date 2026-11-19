@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2026/lei-15409-2026-05-20",
+"urn": "urn:lex:br:federal:lei:2026-05-20;15409",
+"consultado_em": "2026-11-19",
+"codigo": "43306678",
+"nome": "Lei nº 15.409 de 20/05/2026",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2026-05-21", "descricao": "Publicação Original [Diário Oficial da União de 21/05/2026 - nº 94] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2026-05-20", "nome": "Mensagem de Veto Parcial nº 426 de 20/05/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5, caput", "art": "5", "acao": "veto"}]}
+],
+"controle": []
+}

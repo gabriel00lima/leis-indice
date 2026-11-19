@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2025/lei-15224-2025-09-30",
+"urn": "urn:lex:br:federal:lei:2025-09-30;15224",
+"consultado_em": "2026-11-19",
+"codigo": "41512391",
+"nome": "Lei nº 15.224 de 30/09/2025",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2025-10-01", "descricao": "Publicação Original [Diário Oficial da União de 01/10/2025] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2025-09-30", "nome": "Mensagem de Veto Parcial nº 1.403 de 30/09/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 18", "art": "18", "acao": "veto"}]}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2026/lei-15348-2026-02-13",
+"urn": "urn:lex:br:federal:lei:2026-02-13;15348",
+"consultado_em": "2026-11-19",
+"codigo": "42770407",
+"nome": "Lei nº 15.348 de 13/02/2026",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2026-02-13", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 13/02/2026 - nº 31-B] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2026-02-13", "nome": "Mensagem de Veto Parcial nº 122 de 13/02/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 6", "art": "6", "acao": "veto"}, {"dispositivo": "Art. 9, caput, Inciso 2", "art": "9", "acao": "veto"}]}
+],
+"controle": []
+}

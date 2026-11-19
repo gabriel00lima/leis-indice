@@ -1,0 +1,18 @@
+{
+"id": "federal/leis-ordinarias/2023/lei-14701-2023-10-20",
+"urn": "urn:lex:br:federal:lei:2023-10-20;14701",
+"consultado_em": "2026-11-19",
+"codigo": "37732914",
+"nome": "Lei nº 14.701 de 20/10/2023",
+"apelidos": [
+"LEI DO MARCO TEMPORAL DAS TERRAS INDÍGENAS"
+],
+"publicacoes": [
+{"tipo": "VEP", "data": "2023-12-28", "descricao": "Publicação de Veto Parcialmente Rejeitado (Seq. 1) [Diário Oficial da União de 28/12/2023] (p. 27, col. 1)"},
+{"tipo": "PUB", "data": "2023-10-20", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 20/10/2023] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2023-10-20", "nome": "Mensagem de Veto Parcial nº 536 de 20/10/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "veto"}, {"dispositivo": "Art. 6, caput", "art": "6", "acao": "veto"}, {"dispositivo": "Art. 9, caput", "art": "9", "acao": "veto"}, {"dispositivo": "Art. 9, § 1", "art": "9", "acao": "veto"}, {"dispositivo": "Art. 9, § 2", "art": "9", "acao": "veto"}, {"dispositivo": "Art. 10, caput", "art": "10", "acao": "veto"}, {"dispositivo": "Art. 11, caput", "art": "11", "acao": "veto"}, {"dispositivo": "Art. 11, Parágrafo Único", "art": "11", "acao": "veto"}, {"dispositivo": "Art. 13, caput", "art": "13", "acao": "veto"}, {"dispositivo": "Art. 14, caput", "art": "14", "acao": "veto"}, {"dispositivo": "Art. 15, caput", "art": "15", "acao": "veto"}, {"dispositivo": "Art. 16, § 4, apenas o Caput", "art": "16", "acao": "veto"}, {"dispositivo": "Art. 16, § 4, Inciso 1", "art": "16", "acao": "veto"}, {"dispositivo": "Art. 16, § 4, Inciso 2", "art": "16", "acao": "veto"}, {"dispositivo": "Art. 18, caput", "art": "18", "acao": "veto"}, {"dispositivo": "Art. 18, § 1", "art": "18", "acao": "veto"}, {"dispositivo": "Art. 18, § 2", "art": "18", "acao": "veto"}, {"dispositivo": "Art. 20, Parágrafo Único", "art": "20", "acao": "veto"}, {"dispositivo": "Art. 21, caput", "art": "21", "acao": "veto"}, {"dispositivo": "Art. 22, caput", "art": "22", "acao": "veto"}, {"dispositivo": "Art. 23, caput", "art": "23", "acao": "veto"}, {"dispositivo": "Art. 23, § 1", "art": "23", "acao": "veto"}, {"dispositivo": "Art. 23, § 2", "art": "23", "acao": "veto"}, {"dispositivo": "Art. 24, § 3", "art": "24", "acao": "veto"}, {"dispositivo": "Art. 25, caput", "art": "25", "acao": "veto"}, {"dispositivo": "Art. 26, § 1", "art": "26", "acao": "veto"}, {"dispositivo": "Art. 26, § 2", "art": "26", "acao": "veto"}, {"dispositivo": "Art. 27, caput", "art": "27", "acao": "veto"}, {"dispositivo": "Art. 27, Parágrafo Único", "art": "27", "acao": "veto"}, {"dispositivo": "Art. 28, caput", "art": "28", "acao": "veto"}, {"dispositivo": "Art. 28, § 1", "art": "28", "acao": "veto"}, {"dispositivo": "Art. 28, § 2", "art": "28", "acao": "veto"}, {"dispositivo": "Art. 29, caput", "art": "29", "acao": "veto"}, {"dispositivo": "Art. 30", "art": "30", "acao": "veto"}, {"dispositivo": "Art. 31", "art": "31", "acao": "veto"}, {"dispositivo": "Art. 32", "art": "32", "acao": "veto"}]}
+],
+"controle": []
+}

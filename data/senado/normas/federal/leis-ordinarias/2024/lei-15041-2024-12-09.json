@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2024/lei-15041-2024-12-09",
+"urn": "urn:lex:br:federal:lei:2024-12-09;15041",
+"consultado_em": "2026-11-19",
+"codigo": "39893674",
+"nome": "Lei nº 15.041 de 09/12/2024",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2024-12-10", "descricao": "Publicação Original [Diário Oficial da União de 10/12/2024] (p. 7, col. 2)"}
+],
+"alteracoes": [
+{"data": "2024-12-09", "nome": "Mensagem de Veto Parcial nº 1.590 de 09/12/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "veto"}]}
+],
+"controle": []
+}

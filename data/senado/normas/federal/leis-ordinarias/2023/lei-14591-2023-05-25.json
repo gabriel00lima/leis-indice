@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2023/lei-14591-2023-05-25",
+"urn": "urn:lex:br:federal:lei:2023-05-25;14591",
+"consultado_em": "2026-11-19",
+"codigo": "37091046",
+"nome": "Lei nº 14.591 de 25/05/2023",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "VET", "data": "2023-12-26", "descricao": "Publicação de Veto Rejeitado [Diário Oficial da União - Edição Extra de 26/12/2023 - nº 244-A] (p. 1, col. 1)"},
+{"tipo": "PUB", "data": "2023-05-26", "descricao": "Publicação Original [Diário Oficial da União de 26/05/2023] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2023-05-25", "nome": "Mensagem de Veto Parcial nº 242 de 25/05/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "veto"}, {"dispositivo": "Art. 3", "art": "3", "acao": "veto"}]}
+],
+"controle": []
+}

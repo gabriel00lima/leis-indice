@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2026/lei-15459-2026-07-07",
+"urn": "urn:lex:br:federal:lei:2026-07-07;15459",
+"consultado_em": "2026-11-19",
+"codigo": "43502628",
+"nome": "Lei nº 15.459 de 07/07/2026",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "ANX", "data": "2026-07-08", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União de 08/07/2026] (p. 1, col. 1)"},
+{"tipo": "PUB", "data": "2026-07-08", "descricao": "Publicação Original [Diário Oficial da União de 08/07/2026] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2026-07-07", "nome": "Mensagem de Veto Parcial nº 586 de 07/07/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 4, caput", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "veto"}, {"dispositivo": "Anexo 1", "art": null, "acao": "veto"}]}
+],
+"controle": []
+}

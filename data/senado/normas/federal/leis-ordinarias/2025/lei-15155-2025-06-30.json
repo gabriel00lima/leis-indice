@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2025/lei-15155-2025-06-30",
+"urn": "urn:lex:br:federal:lei:2025-06-30;15155",
+"consultado_em": "2026-11-19",
+"codigo": "41091192",
+"nome": "Lei nº 15.155 de 30/06/2025",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2025-07-01", "descricao": "Publicação Original [Diário Oficial da União de 01/07/2025] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2025-06-30", "nome": "Mensagem de Veto Parcial nº 814 de 30/06/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "veto"}]}
+],
+"controle": []
+}

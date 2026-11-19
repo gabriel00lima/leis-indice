@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2026/lei-15474-2026-07-23",
+"urn": "urn:lex:br:federal:lei:2026-07-23;15474",
+"consultado_em": "2026-11-19",
+"codigo": "43596108",
+"nome": "Lei nº 15.474 de 23/07/2026",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2026-07-24", "descricao": "Publicação Original [Diário Oficial da União de 24/07/2026] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2026-07-23", "nome": "Mensagem de Veto Parcial nº 619 de 23/07/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 1, Inciso 2", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 1, § 5", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 2, caput, Inciso 2", "art": "2", "acao": "veto"}, {"dispositivo": "Art. 7", "art": "7", "acao": "veto"}, {"dispositivo": "Art. 8, caput", "art": "8", "acao": "veto"}, {"dispositivo": "Art. 8, Parágrafo Único", "art": "8", "acao": "veto"}, {"dispositivo": "Art. 9", "art": "9", "acao": "veto"}, {"dispositivo": "Art. 10, § 1, Inciso 1", "art": "10", "acao": "veto"}]}
+],
+"controle": []
+}

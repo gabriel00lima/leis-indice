@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2026/lei-15434-2026-06-16",
+"urn": "urn:lex:br:federal:lei:2026-06-16;15434",
+"consultado_em": "2026-11-19",
+"codigo": "43413044",
+"nome": "Lei nº 15.434 de 16/06/2026",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2026-06-16", "descricao": "Publicação Original [Diário Oficial da União de 16/06/2026] (p. 3, col. 2)"}
+],
+"alteracoes": [
+{"data": "2026-06-16", "nome": "Mensagem de Veto Parcial nº 536 de 16/06/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, § 1, Inciso 4", "art": "1", "acao": "veto"}]}
+],
+"controle": []
+}

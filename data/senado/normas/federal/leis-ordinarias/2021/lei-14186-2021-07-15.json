@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2021/lei-14186-2021-07-15",
+"urn": "urn:lex:br:federal:lei:2021-07-15;14186",
+"consultado_em": "2026-11-19",
+"codigo": "34296138",
+"nome": "Lei nº 14.186 de 15/07/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-07-16", "descricao": "Publicação Original [Diário Oficial da União de 16/07/2021] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2022-02-21", "nome": "Medida Provisória nº 1.101 de 21/02/2022", "tipo": "Alteração Provisória", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}]},
+{"data": "2022-07-04", "nome": "Lei nº 14.390 de 04/07/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}], "id": "federal/leis-ordinarias/2022/lei-14390-2022-07-04"}
+],
+"controle": []
+}

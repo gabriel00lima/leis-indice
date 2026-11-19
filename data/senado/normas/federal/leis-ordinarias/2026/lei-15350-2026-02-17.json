@@ -1,0 +1,20 @@
+{
+"id": "federal/leis-ordinarias/2026/lei-15350-2026-02-17",
+"urn": "urn:lex:br:federal:lei:2026-02-17;15350",
+"consultado_em": "2026-11-19",
+"codigo": "42770591",
+"nome": "Lei nº 15.350 de 17/02/2026",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "RET", "data": "2026-02-19", "descricao": "Retificação (Seq. 1) [Diário Oficial da União - Edição Extra de 19/02/2026 - nº 33-A] (p. 1, col. 1)"},
+{"tipo": "ANX", "data": "2026-02-18", "descricao": "Publicação Original de Anexo (004 - Anexo IV) [Diário Oficial da União - Edição Extra de 18/02/2026 - nº 32-A] (p. 4, col. 1)"},
+{"tipo": "ANX", "data": "2026-02-18", "descricao": "Publicação Original de Anexo (003 - Anexo III) [Diário Oficial da União - Edição Extra de 18/02/2026 - nº 32-A] (p. 4, col. 1)"},
+{"tipo": "ANX", "data": "2026-02-18", "descricao": "Publicação Original de Anexo (002 - Anexo II) [Diário Oficial da União - Edição Extra de 18/02/2026 - nº 32-A] (p. 4, col. 1)"},
+{"tipo": "ANX", "data": "2026-02-18", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União - Edição Extra de 18/02/2026 - nº 32-A] (p. 3, col. 1)"},
+{"tipo": "PUB", "data": "2026-02-18", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 18/02/2026 - nº 32-A] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2026-02-17", "nome": "Mensagem de Veto Parcial nº 124 de 17/02/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 1", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, caput, Inciso 2", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 9, caput", "art": "9", "acao": "veto"}, {"dispositivo": "Art. 9, caput, Inciso 1", "art": "9", "acao": "veto"}, {"dispositivo": "Art. 9, caput, Inciso 2", "art": "9", "acao": "veto"}, {"dispositivo": "Anexo 1", "art": null, "acao": "veto de parte do texto"}, {"dispositivo": "Anexo 2", "art": null, "acao": "veto de parte do texto"}, {"dispositivo": "Anexo 3", "art": null, "acao": "veto de parte do texto"}, {"dispositivo": "Anexo 4", "art": null, "acao": "veto de parte do texto"}]}
+],
+"controle": []
+}

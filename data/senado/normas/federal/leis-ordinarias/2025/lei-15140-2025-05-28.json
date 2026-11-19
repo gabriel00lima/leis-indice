@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2025/lei-15140-2025-05-28",
+"urn": "urn:lex:br:federal:lei:2025-05-28;15140",
+"consultado_em": "2026-11-19",
+"codigo": "40933673",
+"nome": "Lei nº 15.140 de 28/05/2025",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2025-05-29", "descricao": "Publicação Original [Diário Oficial da União de 29/05/2025] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2025-05-28", "nome": "Mensagem de Veto Parcial nº 664 de 28/05/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput, Inciso 1", "art": "3", "acao": "veto"}]}
+],
+"controle": []
+}

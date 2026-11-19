@@ -1,0 +1,17 @@
+{
+"id": "federal/leis-ordinarias/2024/lei-14810-2024-01-12",
+"urn": "urn:lex:br:federal:lei:2024-01-12;14810",
+"consultado_em": "2026-11-19",
+"codigo": "38157356",
+"nome": "Lei nº 14.810 de 12/01/2024",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "RET", "data": "2024-01-18", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 18/01/2024] (p. 1, col. 1)"},
+{"tipo": "ANX", "data": "2024-01-18", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União de 18/01/2024] (p. 1, col. 1)"},
+{"tipo": "PUB", "data": "2024-01-15", "descricao": "Publicação Original [Diário Oficial da União de 15/01/2024] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2024-01-12", "nome": "Mensagem de Veto Parcial nº 22 de 12/01/2024", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "veto"}]}
+],
+"controle": []
+}

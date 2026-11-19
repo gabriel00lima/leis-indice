@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2021/lei-14147-2021-04-26",
+"urn": "urn:lex:br:federal:lei:2021-04-26;14147",
+"consultado_em": "2026-11-19",
+"codigo": "33660547",
+"nome": "Lei nº 14.147 de 26/04/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-04-27", "descricao": "Publicação Original [Diário Oficial da União de 27/04/2021] (p. 3, col. 1)"}
+],
+"alteracoes": [
+{"data": "2021-04-26", "nome": "Mensagem de Veto Parcial nº 164 de 26/04/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, § 1", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, § 2", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 4, caput", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 4, Parágrafo Único", "art": "4", "acao": "veto"}, {"dispositivo": "Art. 5, caput", "art": "5", "acao": "veto"}]}
+],
+"controle": []
+}

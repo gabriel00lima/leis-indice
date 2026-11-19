@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2022/lei-14341-2022-05-18",
+"urn": "urn:lex:br:federal:lei:2022-05-18;14341",
+"consultado_em": "2026-11-19",
+"codigo": "35862944",
+"nome": "Lei nº 14.341 de 18/05/2022",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2022-05-19", "descricao": "Publicação Original [Diário Oficial da União de 19/05/2022] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2022-05-18", "nome": "Mensagem de Veto Parcial nº 237 de 18/05/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1, Parágrafo Único", "art": "1", "acao": "veto"}, {"dispositivo": "Art. 2, caput, Inciso 1, Alínea b", "art": "2", "acao": "veto"}, {"dispositivo": "Art. 2, Parágrafo Único", "art": "2", "acao": "veto"}, {"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 7, § 3", "art": "7", "acao": "veto"}]}
+],
+"controle": []
+}

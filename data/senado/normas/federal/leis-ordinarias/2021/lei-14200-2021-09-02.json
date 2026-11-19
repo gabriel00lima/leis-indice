@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2021/lei-14200-2021-09-02",
+"urn": "urn:lex:br:federal:lei:2021-09-02;14200",
+"consultado_em": "2026-11-19",
+"codigo": "34810390",
+"nome": "Lei nº 14.200 de 02/09/2021",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2021-09-03", "descricao": "Publicação Original [Diário Oficial da União de 03/09/2021] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2021-09-02", "nome": "Mensagem de Veto Parcial nº 432 de 02/09/2021", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "acao": "veto"}, {"dispositivo": "Art. 3, Parágrafo Único", "art": "3", "acao": "veto"}]}
+],
+"controle": []
+}

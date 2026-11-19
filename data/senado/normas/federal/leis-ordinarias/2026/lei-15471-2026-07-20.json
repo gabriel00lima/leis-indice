@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2026/lei-15471-2026-07-20",
+"urn": "urn:lex:br:federal:lei:2026-07-20;15471",
+"consultado_em": "2026-11-19",
+"codigo": "43573921",
+"nome": "Lei nº 15.471 de 20/07/2026",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2026-07-21", "descricao": "Publicação Original [Diário Oficial da União de 21/07/2026] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2026-07-20", "nome": "Mensagem de Veto Parcial nº 611 de 20/07/2026", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 28, caput", "art": "28", "acao": "veto"}, {"dispositivo": "Art. 35, caput", "art": "35", "acao": "veto"}, {"dispositivo": "Art. 35, Parágrafo Único", "art": "35", "acao": "veto"}]}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2025/lei-15202-2025-09-11",
+"urn": "urn:lex:br:federal:lei:2025-09-11;15202",
+"consultado_em": "2026-11-19",
+"codigo": "41432082",
+"nome": "Lei nº 15.202 de 11/09/2025",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2025-09-12", "descricao": "Publicação Original [Diário Oficial da União de 12/09/2025] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "2025-10-15", "nome": "Decreto nº 12.672 de 15/10/2025", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

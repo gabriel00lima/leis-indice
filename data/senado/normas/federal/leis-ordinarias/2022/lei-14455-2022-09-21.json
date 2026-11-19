@@ -1,0 +1,15 @@
+{
+"id": "federal/leis-ordinarias/2022/lei-14455-2022-09-21",
+"urn": "urn:lex:br:federal:lei:2022-09-21;14455",
+"consultado_em": "2026-11-19",
+"codigo": "36360309",
+"nome": "Lei nº 14.455 de 21/09/2022",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "2022-09-22", "descricao": "Publicação Original [Diário Oficial da União de 22/09/2022] (p. 9, col. 2)"}
+],
+"alteracoes": [
+{"data": "2022-09-21", "nome": "Mensagem de Veto Parcial nº 533 de 21/09/2022", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3, caput", "art": "3", "acao": "veto"}]}
+],
+"controle": []
+}

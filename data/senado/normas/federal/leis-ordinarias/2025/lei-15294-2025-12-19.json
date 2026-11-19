@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2025/lei-15294-2025-12-19",
+"urn": "urn:lex:br:federal:lei:2025-12-19;15294",
+"consultado_em": "2026-11-19",
+"codigo": "41853726",
+"nome": "Lei nº 15.294 de 19/12/2025",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "ANX", "data": "2025-12-22", "descricao": "Publicação Original de Anexo (001 - Anexo I) [Diário Oficial da União de 22/12/2025] (p. 3, col. 1)"},
+{"tipo": "PUB", "data": "2025-12-22", "descricao": "Publicação Original [Diário Oficial da União de 22/12/2025] (p. 2, col. 1)"}
+],
+"alteracoes": [
+{"data": "2025-12-19", "nome": "Mensagem de Veto Parcial nº 1.878 de 19/12/2025", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, § 3", "art": "2", "acao": "veto"}, {"dispositivo": "Art. 6", "art": "6", "acao": "veto"}, {"dispositivo": "Art. 7", "art": "7", "acao": "veto"}, {"dispositivo": "Art. 8, caput", "art": "8", "acao": "veto"}, {"dispositivo": "Art. 8, Parágrafo Único", "art": "8", "acao": "veto"}, {"dispositivo": "Art. 9", "art": "9", "acao": "veto"}, {"dispositivo": "Art. 10, Parágrafo Único", "art": "10", "acao": "veto"}, {"dispositivo": "Art. 11, caput", "art": "11", "acao": "veto"}, {"dispositivo": "Art. 12, caput, Inciso 2", "art": "12", "acao": "veto"}, {"dispositivo": "Art. 12, caput, Inciso 3", "art": "12", "acao": "veto"}]}
+],
+"controle": []
+}

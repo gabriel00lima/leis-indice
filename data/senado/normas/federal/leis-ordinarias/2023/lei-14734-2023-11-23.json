@@ -1,0 +1,16 @@
+{
+"id": "federal/leis-ordinarias/2023/lei-14734-2023-11-23",
+"urn": "urn:lex:br:federal:lei:2023-11-23;14734",
+"consultado_em": "2026-11-19",
+"codigo": "37854260",
+"nome": "Lei nº 14.734 de 23/11/2023",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "VET", "data": "2024-05-22", "descricao": "Publicação de Veto Rejeitado [Diário Oficial da União de 22/05/2024] (p. 4, col. 1)"},
+{"tipo": "PUB", "data": "2023-11-23", "descricao": "Publicação Original [Diário Oficial da União - Edição Extra de 23/11/2023 - nº 222-B] (p. 1, col. 2)"}
+],
+"alteracoes": [
+{"data": "2023-11-23", "nome": "Mensagem de Veto Parcial nº 618 de 23/11/2023", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2, caput", "art": "2", "acao": "veto"}]}
+],
+"controle": []
+}
