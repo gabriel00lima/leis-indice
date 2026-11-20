@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1939/del-1490-1939-08-04",
+"urn": "urn:lex:br:federal:decreto.lei:1939-08-04;1490",
+"consultado_em": "2026-11-20",
+"codigo": "525601",
+"nome": "Decreto-Lei nº 1.490 de 04/08/1939",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1939-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1939 - vol. 006] (p. 218, col. 1)"}
+],
+"alteracoes": [
+{"data": "1980-05-13", "nome": "Decreto-Lei nº 1.785 de 13/05/1980", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1980/del-1785-1980-05-13"}
+],
+"controle": []
+}
