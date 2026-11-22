@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1943/del-5244-1943-02-11",
+"urn": "urn:lex:br:federal:decreto.lei:1943-02-11;5244",
+"consultado_em": "2026-11-22",
+"codigo": "530339",
+"nome": "Decreto-Lei nº 5.244 de 11/02/1943",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1943-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1943 - vol. 001] (p. 77, col. 1)"},
+{"tipo": "PUB", "data": "1943-02-13", "descricao": "Publicação Original [Diário Oficial da União de 13/02/1943] (p. 2073, col. 1)"}
+],
+"alteracoes": [
+{"data": "1943-04-29", "nome": "Decreto-Lei nº 5.435 de 29/04/1943", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1943/del-5435-1943-04-29"}
+],
+"controle": []
+}

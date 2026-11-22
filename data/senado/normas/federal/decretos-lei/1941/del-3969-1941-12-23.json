@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1941/del-3969-1941-12-23",
+"urn": "urn:lex:br:federal:decreto.lei:1941-12-23;3969",
+"consultado_em": "2026-11-22",
+"codigo": "529056",
+"nome": "Decreto-Lei nº 3.969 de 23/12/1941",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1941-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1941 - vol. 007] (p. 676, col. 1)"},
+{"tipo": "PUB", "data": "1941-12-24", "descricao": "Publicação Original [Diário Oficial da União de 24/12/1941] (p. 23732, col. 1)"}
+],
+"alteracoes": [
+{"data": "1945-11-27", "nome": "Decreto-Lei nº 8.239 de 27/11/1945", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}, {"dispositivo": "Art. 6", "art": "6", "acao": "revogou"}], "id": "federal/decretos-lei/1945/del-8239-1945-11-27"}
+],
+"controle": []
+}

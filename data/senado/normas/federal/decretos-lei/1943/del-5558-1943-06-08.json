@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1943/del-5558-1943-06-08",
+"urn": "urn:lex:br:federal:decreto.lei:1943-06-08;5558",
+"consultado_em": "2026-11-22",
+"codigo": "530654",
+"nome": "Decreto-Lei nº 5.558 de 08/06/1943",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1943-06-09", "descricao": "Publicação Original [Diário Oficial da União de 09/06/1943] (p. 1, col. 1)"}
+],
+"alteracoes": [
+{"data": "1943-09-02", "nome": "Decreto nº 13.315 de 02/09/1943", "tipo": "Aprovação de Regulamento", "dispositivos": []},
+{"data": "1953-02-18", "nome": "Decreto nº 32.273 de 18/02/1953", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

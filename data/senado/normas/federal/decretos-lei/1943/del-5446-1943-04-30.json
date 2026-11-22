@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1943/del-5446-1943-04-30",
+"urn": "urn:lex:br:federal:decreto.lei:1943-04-30;5446",
+"consultado_em": "2026-11-22",
+"codigo": "530541",
+"nome": "Decreto-Lei nº 5.446 de 30/04/1943",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1943-05-04", "descricao": "Publicação Original [Diário Oficial da União de 04/05/1943] (p. 6576, col. 1)"}
+],
+"alteracoes": [
+{"data": "1944-10-27", "nome": "Decreto-Lei nº 6.997 de 27/10/1944", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1944/del-6997-1944-10-27"},
+{"data": "1971-09-24", "nome": "Decreto nº 69.287 de 24/09/1971", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

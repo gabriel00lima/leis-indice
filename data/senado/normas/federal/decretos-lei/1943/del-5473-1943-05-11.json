@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1943/del-5473-1943-05-11",
+"urn": "urn:lex:br:federal:decreto.lei:1943-05-11;5473",
+"consultado_em": "2026-11-22",
+"codigo": "530568",
+"nome": "Decreto-Lei nº 5.473 de 11/05/1943",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "RET", "data": "1943-12-31", "descricao": "Retificação [Coleção de Leis do Brasil de 31/12/1943 - vol. 005] (p. 398, col. 1)"}
+],
+"alteracoes": [
+{"data": "1943-11-10", "nome": "Decreto-Lei nº 5.978 de 10/11/1943", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1943/del-5978-1943-11-10"},
+{"data": "1944-02-01", "nome": "Decreto-Lei nº 6.232 de 01/02/1944", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1944/del-6232-1944-02-01"}
+],
+"controle": []
+}

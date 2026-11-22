@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1942/del-4320-1942-05-21",
+"urn": "urn:lex:br:federal:decreto.lei:1942-05-21;4320",
+"consultado_em": "2026-11-22",
+"codigo": "529406",
+"nome": "Decreto-Lei nº 4.320 de 21/05/1942",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1942-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1942 - vol. 003] (p. 139, col. 1)"},
+{"tipo": "PUB", "data": "1942-05-23", "descricao": "Publicação Original [Diário Oficial da União de 23/05/1942] (p. 8403, col. 1)"}
+],
+"alteracoes": [
+{"data": "1943-03-25", "nome": "Decreto-Lei nº 5.344 de 25/03/1943", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1943/del-5344-1943-03-25"}
+],
+"controle": []
+}

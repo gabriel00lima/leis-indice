@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1942/del-4512-1942-07-23",
+"urn": "urn:lex:br:federal:decreto.lei:1942-07-23;4512",
+"consultado_em": "2026-11-22",
+"codigo": "529599",
+"nome": "Decreto-Lei nº 4.512 de 23/07/1942",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1942-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1942 - vol. 005] (p. 74, col. 1)"},
+{"tipo": "PUB", "data": "1942-07-25", "descricao": "Publicação Original [Diário Oficial da União de 25/07/1942] (p. 11657, col. 1)"}
+],
+"alteracoes": [
+{"data": "1943-12-03", "nome": "Decreto-Lei nº 6.065 de 03/12/1943", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1943/del-6065-1943-12-03"}
+],
+"controle": []
+}

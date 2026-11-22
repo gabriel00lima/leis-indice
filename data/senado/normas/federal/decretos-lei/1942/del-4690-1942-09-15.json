@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1942/del-4690-1942-09-15",
+"urn": "urn:lex:br:federal:decreto.lei:1942-09-15;4690",
+"consultado_em": "2026-11-22",
+"codigo": "529777",
+"nome": "Decreto-Lei nº 4.690 de 15/09/1942",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1942-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1942 - vol. 005] (p. 270, col. 1)"},
+{"tipo": "PUB", "data": "1942-09-17", "descricao": "Publicação Original [Diário Oficial da União de 17/09/1942] (p. 14033, col. 1)"}
+],
+"alteracoes": [
+{"data": "1942-09-23", "nome": "Decreto-Lei nº 4.734 de 23/09/1942", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1942/del-4734-1942-09-23"}
+],
+"controle": []
+}
