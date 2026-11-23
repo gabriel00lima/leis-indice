@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1944/del-6898-1944-09-25",
+"urn": "urn:lex:br:federal:decreto.lei:1944-09-25;6898",
+"consultado_em": "2026-11-23",
+"codigo": "531998",
+"nome": "Decreto-Lei nº 6.898 de 25/09/1944",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1944-09-27", "descricao": "Publicação Original [Diário Oficial da União de 27/09/1944] (p. 16713, col. 2)"}
+],
+"alteracoes": [
+{"data": "1944-09-25", "nome": "Decreto nº 16.646 de 25/09/1944", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

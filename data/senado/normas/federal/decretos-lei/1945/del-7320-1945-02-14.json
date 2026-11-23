@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1945/del-7320-1945-02-14",
+"urn": "urn:lex:br:federal:decreto.lei:1945-02-14;7320",
+"consultado_em": "2026-11-23",
+"codigo": "532423",
+"nome": "Decreto-Lei nº 7.320 de 14/02/1945",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1945-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1945 - vol. 001] (p. 93, col. 1)"},
+{"tipo": "PUB", "data": "1945-02-16", "descricao": "Publicação Original [Diário Oficial da União de 16/02/1945] (p. 2497, col. 1)"}
+],
+"alteracoes": [
+{"data": "1945-04-09", "nome": "Decreto-Lei nº 7.450 de 09/04/1945", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "acao": "revogou"}], "id": "federal/decretos-lei/1945/del-7450-1945-04-09"}
+],
+"controle": []
+}

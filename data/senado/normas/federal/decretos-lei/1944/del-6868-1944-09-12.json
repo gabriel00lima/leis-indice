@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1944/del-6868-1944-09-12",
+"urn": "urn:lex:br:federal:decreto.lei:1944-09-12;6868",
+"consultado_em": "2026-11-23",
+"codigo": "531968",
+"nome": "Decreto-Lei nº 6.868 de 12/09/1944",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1944-09-14", "descricao": "Publicação Original [Diário Oficial da União de 14/09/1944] (p. 15945, col. 1)"}
+],
+"alteracoes": [
+{"data": "1944-09-12", "nome": "Decreto nº 16.577 de 12/09/1944", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}
