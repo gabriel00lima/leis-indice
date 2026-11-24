@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8804-1946-01-24",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-24;8804",
+"consultado_em": "2026-11-24",
+"codigo": "533840",
+"nome": "Decreto-Lei nº 8.804 de 24/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-24", "descricao": "Publicação Original [Diário Oficial da União de 24/01/1946] (p. 1211, col. 4)"}
+],
+"alteracoes": [
+{"data": "1946-01-24", "nome": "Decreto-Lei nº 8.879 de 24/01/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-8879-1946-01-24"}
+],
+"controle": []
+}

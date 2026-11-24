@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8983-1946-02-14",
+"urn": "urn:lex:br:federal:decreto.lei:1946-02-14;8983",
+"consultado_em": "2026-11-24",
+"codigo": "534020",
+"nome": "Decreto-Lei nº 8.983 de 14/02/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-02-16", "descricao": "Publicação Original [Diário Oficial da União de 16/02/1946] (p. 2435, col. 3)"}
+],
+"alteracoes": [
+{"data": "1946-09-05", "nome": "Decreto nº 21.826 de 05/09/1946", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

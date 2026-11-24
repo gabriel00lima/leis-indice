@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-8566-1946-01-07",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-07;8566",
+"consultado_em": "2026-11-24",
+"codigo": "533605",
+"nome": "Decreto-Lei nº 8.566 de 07/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1946-01-09", "descricao": "Republicação Integral [Diário Oficial da União de 09/01/1946] (p. 329, col. 1)"},
+{"tipo": "PUB", "data": "1946-01-08", "descricao": "Publicação Original [Diário Oficial da União de 08/01/1946] (p. 266, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-05-14", "nome": "Decreto-Lei nº 9.258 de 14/05/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9258-1946-05-14"}
+],
+"controle": []
+}

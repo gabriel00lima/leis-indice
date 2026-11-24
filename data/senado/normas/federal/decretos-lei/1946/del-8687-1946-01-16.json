@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8687-1946-01-16",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-16;8687",
+"consultado_em": "2026-11-24",
+"codigo": "533723",
+"nome": "Decreto-Lei nº 8.687 de 16/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-18", "descricao": "Publicação Original [Diário Oficial da União de 18/01/1946] (p. 833, col. 1)"}
+],
+"alteracoes": [
+{"data": "1945-10-15", "nome": "Decreto-Lei nº 8.089 de 15/10/1945", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1945/del-8089-1945-10-15"}
+],
+"controle": []
+}

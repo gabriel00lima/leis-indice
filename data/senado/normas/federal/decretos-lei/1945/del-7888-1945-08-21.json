@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1945/del-7888-1945-08-21",
+"urn": "urn:lex:br:federal:decreto.lei:1945-08-21;7888",
+"consultado_em": "2026-11-24",
+"codigo": "532935",
+"nome": "Decreto-Lei nº 7.888 de 21/08/1945",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1945-12-31", "descricao": "Republicação Integral [Coleção de Leis do Brasil de 31/12/1945 - vol. 005] (p. 173, col. 1)"},
+{"tipo": "PUB", "data": "1945-08-24", "descricao": "Publicação Original [Diário Oficial da União de 24/08/1945] (p. 13906, col. 1)"}
+],
+"alteracoes": [
+{"data": "1945-10-04", "nome": "Decreto-Lei nº 8.033 de 04/10/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-8033-1945-10-04"},
+{"data": "1945-12-04", "nome": "Decreto-Lei nº 8.282 de 04/12/1945", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1945/del-8282-1945-12-04"},
+{"data": "1949-06-14", "nome": "Lei nº 739 de 14/06/1949", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1949/lei-739-1949-06-14"}
+],
+"controle": []
+}

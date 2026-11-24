@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8589-1946-01-08",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-08;8589",
+"consultado_em": "2026-11-24",
+"codigo": "533628",
+"nome": "Decreto-Lei nº 8.589 de 08/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-10", "descricao": "Publicação Original [Diário Oficial da União de 10/01/1946] (p. 396, col. 4)"}
+],
+"alteracoes": [
+{"data": "1955-08-05", "nome": "Decreto nº 37.694 de 05/08/1955", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

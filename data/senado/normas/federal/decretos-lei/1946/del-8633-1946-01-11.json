@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8633-1946-01-11",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-11;8633",
+"consultado_em": "2026-11-24",
+"codigo": "533670",
+"nome": "Decreto-Lei nº 8.633 de 11/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-11", "descricao": "Publicação Original [Diário Oficial da União de 11/01/1946] (p. 467, col. 3)"}
+],
+"alteracoes": [
+{"data": "1946-09-17", "nome": "Decreto-Lei nº 9.905 de 17/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9905-1946-09-17"}
+],
+"controle": []
+}

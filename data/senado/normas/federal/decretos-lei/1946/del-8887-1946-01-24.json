@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8887-1946-01-24",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-24;8887",
+"consultado_em": "2026-11-24",
+"codigo": "533923",
+"nome": "Decreto-Lei nº 8.887 de 24/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-30", "descricao": "Publicação Original [Diário Oficial da União de 30/01/1946] (p. 1509, col. 4)"}
+],
+"alteracoes": [
+{"data": "1956-11-24", "nome": "Lei nº 2.972 de 24/11/1956", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1956/lei-2972-1956-11-24"}
+],
+"controle": []
+}

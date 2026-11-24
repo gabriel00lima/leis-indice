@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-8817-1946-01-24",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-24;8817",
+"consultado_em": "2026-11-24",
+"codigo": "533853",
+"nome": "Decreto-Lei nº 8.817 de 24/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "RET", "data": "1946-01-28", "descricao": "Retificação [Diário Oficial da União de 28/01/1946] (p. 1385, col. 1)"},
+{"tipo": "PUB", "data": "1946-01-26", "descricao": "Publicação Original [Diário Oficial da União de 26/01/1946] (p. 1331, col. 2)"}
+],
+"alteracoes": [
+{"data": "1946-01-30", "nome": "Decreto-Lei nº 8.963 de 30/01/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-8963-1946-01-30"}
+],
+"controle": []
+}

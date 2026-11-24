@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8702-1946-01-17",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-17;8702",
+"consultado_em": "2026-11-24",
+"codigo": "533738",
+"nome": "Decreto-Lei nº 8.702 de 17/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-19", "descricao": "Publicação Original [Diário Oficial da União de 19/01/1946] (p. 913, col. 1)"}
+],
+"alteracoes": [
+{"data": "1951-01-17", "nome": "Decreto nº 29.154 de 17/01/1951", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

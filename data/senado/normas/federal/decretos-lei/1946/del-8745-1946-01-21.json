@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8745-1946-01-21",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-21;8745",
+"consultado_em": "2026-11-24",
+"codigo": "533781",
+"nome": "Decreto-Lei nº 8.745 de 21/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-22", "descricao": "Publicação Original [Diário Oficial da União de 22/01/1946] (p. 1076, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-05-23", "nome": "Decreto-Lei nº 9.273 de 23/05/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9273-1946-05-23"}
+],
+"controle": []
+}

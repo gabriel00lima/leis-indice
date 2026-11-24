@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1946/del-9027-1946-02-28",
+"urn": "urn:lex:br:federal:decreto.lei:1946-02-28;9027",
+"consultado_em": "2026-11-24",
+"codigo": "534065",
+"nome": "Decreto-Lei nº 9.027 de 28/02/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1946-03-09", "descricao": "Republicação Integral [Diário Oficial da União de 09/03/1946] (p. 3429, col. 4)"},
+{"tipo": "PUB", "data": "1946-03-02", "descricao": "Publicação Original [Diário Oficial da União de 02/03/1946] (p. 3217, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-02-14", "nome": "Decreto-Lei nº 8.977 de 14/02/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-8977-1946-02-14"},
+{"data": "1946-06-10", "nome": "Decreto-Lei nº 9.335 de 10/06/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9335-1946-06-10"}
+],
+"controle": []
+}

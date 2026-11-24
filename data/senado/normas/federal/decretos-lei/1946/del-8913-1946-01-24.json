@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-8913-1946-01-24",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-24;8913",
+"consultado_em": "2026-11-24",
+"codigo": "533949",
+"nome": "Decreto-Lei nº 8.913 de 24/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-30", "descricao": "Publicação Original [Diário Oficial da União de 30/01/1946] (p. 1511, col. 3)"}
+],
+"alteracoes": [
+{"data": "1946-01-21", "nome": "Decreto-Lei nº 8.758 de 21/01/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-8758-1946-01-21"},
+{"data": "1954-04-05", "nome": "Lei nº 2.197 de 05/04/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2197-1954-04-05"}
+],
+"controle": []
+}

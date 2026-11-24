@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8558-1946-01-04",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-04;8558",
+"consultado_em": "2026-11-24",
+"codigo": "533597",
+"nome": "Decreto-Lei nº 8.558 de 04/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-07", "descricao": "Publicação Original [Diário Oficial da União de 07/01/1946] (p. 221, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-01-24", "nome": "Decreto-Lei nº 8.893 de 24/01/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-8893-1946-01-24"}
+],
+"controle": []
+}

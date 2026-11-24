@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-8595-1946-01-08",
+"urn": "urn:lex:br:federal:decreto.lei:1946-01-08;8595",
+"consultado_em": "2026-11-24",
+"codigo": "533634",
+"nome": "Decreto-Lei nº 8.595 de 08/01/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-01-10", "descricao": "Publicação Original [Diário Oficial da União de 10/01/1946] (p. 397, col. 4)"}
+],
+"alteracoes": [
+{"data": "1946-04-15", "nome": "Decreto-Lei nº 9.179 de 15/04/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9179-1946-04-15"}
+],
+"controle": []
+}

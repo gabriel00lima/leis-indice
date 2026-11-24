@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9006-1946-02-20",
+"urn": "urn:lex:br:federal:decreto.lei:1946-02-20;9006",
+"consultado_em": "2026-11-24",
+"codigo": "534044",
+"nome": "Decreto-Lei nº 9.006 de 20/02/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-02-21", "descricao": "Publicação Original [Diário Oficial da União de 21/02/1946] (p. 2660, col. 2)"}
+],
+"alteracoes": [
+{"data": "1946-03-13", "nome": "Decreto-Lei nº 9.061 de 13/03/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9061-1946-03-13"}
+],
+"controle": []
+}

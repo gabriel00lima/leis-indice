@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-9032-1946-03-06",
+"urn": "urn:lex:br:federal:decreto.lei:1946-03-06;9032",
+"consultado_em": "2026-11-24",
+"codigo": "534070",
+"nome": "Decreto-Lei nº 9.032 de 06/03/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-03-08", "descricao": "Publicação Original [Diário Oficial da União de 08/03/1946] (p. 3349, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-04-26", "nome": "Decreto-Lei nº 9.202 de 26/04/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9202-1946-04-26"},
+{"data": "1954-01-18", "nome": "Lei nº 2.171 de 18/01/1954", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1954/lei-2171-1954-01-18"}
+],
+"controle": []
+}
