@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-9408-1946-06-27",
+"urn": "urn:lex:br:federal:decreto.lei:1946-06-27;9408",
+"consultado_em": "2026-11-25",
+"codigo": "534447",
+"nome": "Decreto-Lei nº 9.408 de 27/06/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1946-08-08", "descricao": "Republicação Integral [Diário Oficial da União de 08/08/1946] (p. 11451, col. 3)"},
+{"tipo": "PUB", "data": "1946-06-29", "descricao": "Publicação Original [Diário Oficial da União de 29/06/1946] (p. 9663, col. 2)"}
+],
+"alteracoes": [
+{"data": "1946-07-26", "nome": "Decreto-Lei nº 9.525 de 26/07/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9525-1946-07-26"}
+],
+"controle": []
+}

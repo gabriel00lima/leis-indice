@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9336-1946-06-10",
+"urn": "urn:lex:br:federal:decreto.lei:1946-06-10;9336",
+"consultado_em": "2026-11-25",
+"codigo": "534375",
+"nome": "Decreto-Lei nº 9.336 de 10/06/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-06-12", "descricao": "Publicação Original [Diário Oficial da União de 12/06/1946] (p. 8767, col. 4)"}
+],
+"alteracoes": [
+{"data": "1946-06-10", "nome": "Decreto nº 21.249 de 10/06/1946", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-512-a-1969-03-28",
+"urn": "urn:lex:br:federal:decreto.lei:1969-03-28;512-a",
+"consultado_em": "2026-11-25",
+"codigo": "523661",
+"nome": "Decreto-Lei nº 512-A de 28/03/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-04-01", "descricao": "Publicação Original [Diário Oficial da União de 01/04/1969] (p. 2809, col. 1)"}
+],
+"alteracoes": [
+{"data": "1972-11-10", "nome": "Lei nº 5.821 de 10/11/1972", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5821-1972-11-10"}
+],
+"controle": []
+}

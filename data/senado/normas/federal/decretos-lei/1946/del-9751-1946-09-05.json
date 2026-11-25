@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9751-1946-09-05",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-05;9751",
+"consultado_em": "2026-11-25",
+"codigo": "534791",
+"nome": "Decreto-Lei nº 9.751 de 05/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-06", "descricao": "Publicação Original [Diário Oficial da União de 06/09/1946] (p. 12499, col. 3)"}
+],
+"alteracoes": [
+{"data": "1946-10-25", "nome": "Decreto nº 21.984 de 25/10/1946", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

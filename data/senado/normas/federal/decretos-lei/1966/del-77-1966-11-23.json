@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1966/del-77-1966-11-23",
+"urn": "urn:lex:br:federal:decreto.lei:1966-11-23;77",
+"consultado_em": "2026-11-25",
+"codigo": "522795",
+"nome": "Decreto-Lei nº 77 de 23/11/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-30", "descricao": "Publicação Original [Diário Oficial da União de 30/11/1966] (p. 13899, col. 3)"}
+],
+"alteracoes": [
+{"data": "1969-04-23", "nome": "Decreto-Lei nº 548 de 23/04/1969", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1969/del-548-1969-04-23"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-724-1969-07-31",
+"urn": "urn:lex:br:federal:decreto.lei:1969-07-31;724",
+"consultado_em": "2026-11-25",
+"codigo": "524075",
+"nome": "Decreto-Lei nº 724 de 31/07/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-08-01", "descricao": "Publicação Original [Diário Oficial da União de 01/08/1969] (p. 6585, col. 3)"}
+],
+"alteracoes": [
+{"data": "1969-07-31", "nome": "Decreto nº 64.921 de 31/07/1969", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

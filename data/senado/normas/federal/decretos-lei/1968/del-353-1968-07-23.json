@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1968/del-353-1968-07-23",
+"urn": "urn:lex:br:federal:decreto.lei:1968-07-23;353",
+"consultado_em": "2026-11-25",
+"codigo": "523343",
+"nome": "Decreto-Lei nº 353 de 23/07/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "RET", "data": "1968-07-26", "descricao": "Retificação [Diário Oficial da União de 26/07/1968] (p. 6403, col. 1)"},
+{"tipo": "PUB", "data": "1968-07-23", "descricao": "Publicação Original [Diário Oficial da União de 23/07/1968] (p. 6241, col. 1)"}
+],
+"alteracoes": [
+{"data": "1968-09-24", "nome": "Decreto Legislativo nº 37 de 24/09/1968", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-809-1969-09-04",
+"urn": "urn:lex:br:federal:decreto.lei:1969-09-04;809",
+"consultado_em": "2026-11-25",
+"codigo": "524244",
+"nome": "Decreto-Lei nº 809 de 04/09/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-09-05", "descricao": "Publicação Original [Diário Oficial da União de 05/09/1969] (p. 7522, col. 2)"}
+],
+"alteracoes": [
+{"data": "1977-07-07", "nome": "Lei nº 6.430 de 07/07/1977", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1977/lei-6430-1977-07-07"}
+],
+"controle": []
+}

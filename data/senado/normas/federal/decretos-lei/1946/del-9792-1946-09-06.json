@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9792-1946-09-06",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-06;9792",
+"consultado_em": "2026-11-25",
+"codigo": "534832",
+"nome": "Decreto-Lei nº 9.792 de 06/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-10", "descricao": "Publicação Original [Diário Oficial da União de 10/09/1946] (p. 12587, col. 2)"}
+],
+"alteracoes": [
+{"data": "1967-02-28", "nome": "Decreto-Lei nº 271 de 28/02/1967", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1967/del-271-1967-02-28"}
+],
+"controle": []
+}

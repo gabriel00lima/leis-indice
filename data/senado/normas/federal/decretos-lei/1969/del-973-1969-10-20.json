@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-973-1969-10-20",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-20;973",
+"consultado_em": "2026-11-25",
+"codigo": "524571",
+"nome": "Decreto-Lei nº 973 de 20/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-21", "descricao": "Publicação Original [Diário Oficial da União de 21/10/1969] (p. 8932, col. 2)"}
+],
+"alteracoes": [
+{"data": "1978-09-18", "nome": "Decreto nº 82.279 de 18/09/1978", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

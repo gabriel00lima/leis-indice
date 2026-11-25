@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1966/del-92-1966-12-30",
+"urn": "urn:lex:br:federal:decreto.lei:1966-12-30;92",
+"consultado_em": "2026-11-25",
+"codigo": "522825",
+"nome": "Decreto-Lei nº 92 de 30/12/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/1966] (p. 15078, col. 1)"}
+],
+"alteracoes": [
+{"data": "1976-01-06", "nome": "Decreto nº 76.988 de 06/01/1976", "tipo": "Promulgação de Ato Internacional", "dispositivos": []},
+{"data": "1978-03-17", "nome": "Decreto nº 81.454 de 17/03/1978", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

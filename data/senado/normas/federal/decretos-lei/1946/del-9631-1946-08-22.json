@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9631-1946-08-22",
+"urn": "urn:lex:br:federal:decreto.lei:1946-08-22;9631",
+"consultado_em": "2026-11-25",
+"codigo": "534671",
+"nome": "Decreto-Lei nº 9.631 de 22/08/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-08-24", "descricao": "Publicação Original [Diário Oficial da União de 24/08/1946] (p. 12070, col. 2)"}
+],
+"alteracoes": [
+{"data": "1951-01-10", "nome": "Lei nº 1.307 de 10/01/1951", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1951/lei-1307-1951-01-10"}
+],
+"controle": []
+}

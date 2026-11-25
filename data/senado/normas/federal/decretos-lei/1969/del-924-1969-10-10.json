@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-924-1969-10-10",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-10;924",
+"consultado_em": "2026-11-25",
+"codigo": "524473",
+"nome": "Decreto-Lei nº 924 de 10/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-13", "descricao": "Publicação Original [Diário Oficial da União de 13/10/1969] (p. 8601, col. 1)"}
+],
+"alteracoes": [
+{"data": "1971-10-07", "nome": "Lei nº 5.709 de 07/10/1971", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5709-1971-10-07"}
+],
+"controle": []
+}

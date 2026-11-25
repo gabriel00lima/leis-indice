@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-833-1969-09-08",
+"urn": "urn:lex:br:federal:decreto.lei:1969-09-08;833",
+"consultado_em": "2026-11-25",
+"codigo": "524292",
+"nome": "Decreto-Lei nº 833 de 08/09/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-09-09", "descricao": "Publicação Original [Diário Oficial da União de 09/09/1969] (p. 7610, col. 3)"}
+],
+"alteracoes": [
+{"data": "1988-05-19", "nome": "Decreto-Lei nº 2.433 de 19/05/1988", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1988/del-2433-1988-05-19"}
+],
+"controle": []
+}

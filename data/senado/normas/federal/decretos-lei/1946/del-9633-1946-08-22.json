@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9633-1946-08-22",
+"urn": "urn:lex:br:federal:decreto.lei:1946-08-22;9633",
+"consultado_em": "2026-11-25",
+"codigo": "534673",
+"nome": "Decreto-Lei nº 9.633 de 22/08/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-08-24", "descricao": "Publicação Original [Diário Oficial da União de 24/08/1946] (p. 12071, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-09-10", "nome": "Decreto-Lei nº 9.824 de 10/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9824-1946-09-10"}
+],
+"controle": []
+}

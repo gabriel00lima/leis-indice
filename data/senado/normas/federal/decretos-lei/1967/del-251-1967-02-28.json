@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1967/del-251-1967-02-28",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-28;251",
+"consultado_em": "2026-11-25",
+"codigo": "523142",
+"nome": "Decreto-Lei nº 251 de 28/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "RET", "data": "1967-03-09", "descricao": "Retificação [Diário Oficial da União de 09/03/1967] (p. 2883, col. 2)"},
+{"tipo": "PUB", "data": "1967-02-28", "descricao": "Publicação Original [Diário Oficial da União de 28/02/1967] (p. 2442, col. 4)"}
+],
+"alteracoes": [
+{"data": "1986-07-11", "nome": "Lei nº 7.516 de 11/07/1986", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1986/lei-7516-1986-07-11"}
+],
+"controle": []
+}

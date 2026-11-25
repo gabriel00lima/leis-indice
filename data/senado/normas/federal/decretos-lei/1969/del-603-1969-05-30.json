@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-603-1969-05-30",
+"urn": "urn:lex:br:federal:decreto.lei:1969-05-30;603",
+"consultado_em": "2026-11-25",
+"codigo": "523838",
+"nome": "Decreto-Lei nº 603 de 30/05/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-06-02", "descricao": "Publicação Original [Diário Oficial da União de 02/06/1969] (p. 4657, col. 1)"}
+],
+"alteracoes": [
+{"data": "1972-12-07", "nome": "Lei nº 5.848 de 07/12/1972", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5848-1972-12-07"}
+],
+"controle": []
+}

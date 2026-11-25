@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-744-1969-08-06",
+"urn": "urn:lex:br:federal:decreto.lei:1969-08-06;744",
+"consultado_em": "2026-11-25",
+"codigo": "524114",
+"nome": "Decreto-Lei nº 744 de 06/08/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-08-07", "descricao": "Publicação Original [Diário Oficial da União de 07/08/1969] (p. 6753, col. 3)"}
+],
+"alteracoes": [
+{"data": "1971-07-06", "nome": "Lei nº 5.673 de 06/07/1971", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1971/lei-5673-1971-07-06"}
+],
+"controle": []
+}

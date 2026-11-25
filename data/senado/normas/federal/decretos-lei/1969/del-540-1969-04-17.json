@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1969/del-540-1969-04-17",
+"urn": "urn:lex:br:federal:decreto.lei:1969-04-17;540",
+"consultado_em": "2026-11-25",
+"codigo": "523714",
+"nome": "Decreto-Lei nº 540 de 17/04/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-04-18", "descricao": "Publicação Original [Diário Oficial da União de 18/04/1969] (p. 3314, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-07-29", "nome": "Decreto-Lei nº 712 de 29/07/1969", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1969/del-712-1969-07-29"},
+{"data": "1969-10-21", "nome": "Decreto-Lei nº 1.047 de 21/10/1969", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1969/del-1047-1969-10-21"}
+],
+"controle": []
+}

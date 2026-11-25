@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-9244-1946-05-09",
+"urn": "urn:lex:br:federal:decreto.lei:1946-05-09;9244",
+"consultado_em": "2026-11-25",
+"codigo": "534282",
+"nome": "Decreto-Lei nº 9.244 de 09/05/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-05-10", "descricao": "Publicação Original [Diário Oficial da União de 10/05/1946] (p. 6928, col. 4)"}
+],
+"alteracoes": [
+{"data": "1946-09-10", "nome": "Decreto-Lei nº 9.826 de 10/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9826-1946-09-10"},
+{"data": "1946-09-17", "nome": "Decreto-Lei nº 9.907 de 17/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9907-1946-09-17"}
+],
+"controle": []
+}

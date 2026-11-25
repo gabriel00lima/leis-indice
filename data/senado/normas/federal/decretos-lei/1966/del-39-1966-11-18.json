@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1966/del-39-1966-11-18",
+"urn": "urn:lex:br:federal:decreto.lei:1966-11-18;39",
+"consultado_em": "2026-11-25",
+"codigo": "522720",
+"nome": "Decreto-Lei nº 39 de 18/11/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-21", "descricao": "Publicação Original [Diário Oficial da União de 21/11/1966] (p. 13411, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-01-06", "nome": "Decreto nº 59.937 de 06/01/1967", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

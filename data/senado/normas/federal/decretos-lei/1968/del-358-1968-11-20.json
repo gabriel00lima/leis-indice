@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1968/del-358-1968-11-20",
+"urn": "urn:lex:br:federal:decreto.lei:1968-11-20;358",
+"consultado_em": "2026-11-25",
+"codigo": "523352",
+"nome": "Decreto-Lei nº 358 de 20/11/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-11-21", "descricao": "Publicação Original [Diário Oficial da União de 21/11/1968] (p. 10129, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-11-25", "nome": "Decreto Legislativo nº 3 de 25/11/1969", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

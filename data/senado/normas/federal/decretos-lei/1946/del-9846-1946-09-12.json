@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-9846-1946-09-12",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-12;9846",
+"consultado_em": "2026-11-25",
+"codigo": "534883",
+"nome": "Decreto-Lei nº 9.846 de 12/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-14", "descricao": "Publicação Original [Diário Oficial da União de 14/09/1946] (p. 12891, col. 3)"}
+],
+"alteracoes": [
+{"data": "1946-11-18", "nome": "Decreto nº 22.099 de 18/11/1946", "tipo": "Legislação Correlata", "dispositivos": []},
+{"data": "1964-11-30", "nome": "Lei nº 4.502 de 30/11/1964", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1964/lei-4502-1964-11-30"}
+],
+"controle": []
+}

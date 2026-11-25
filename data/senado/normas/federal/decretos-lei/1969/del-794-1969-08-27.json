@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1969/del-794-1969-08-27",
+"urn": "urn:lex:br:federal:decreto.lei:1969-08-27;794",
+"consultado_em": "2026-11-25",
+"codigo": "524214",
+"nome": "Decreto-Lei nº 794 de 27/08/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "RET", "data": "1969-09-01", "descricao": "Retificação [Diário Oficial da União de 01/09/1969] (p. 7370, col. 1)"},
+{"tipo": "PUB", "data": "1969-08-28", "descricao": "Publicação Original [Diário Oficial da União de 28/08/1969] (p. 7306, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-10-13", "nome": "Decreto-Lei nº 939 de 13/10/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-939-1969-10-13"},
+{"data": "1969-10-21", "nome": "Decreto-Lei nº 1.021 de 21/10/1969", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1969/del-1021-1969-10-21"},
+{"data": "1974-03-04", "nome": "Decreto nº 73.725 de 04/03/1974", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

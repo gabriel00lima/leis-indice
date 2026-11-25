@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1966/del-24-1966-10-19",
+"urn": "urn:lex:br:federal:decreto.lei:1966-10-19;24",
+"consultado_em": "2026-11-25",
+"codigo": "522690",
+"nome": "Decreto-Lei nº 24 de 19/10/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-03", "descricao": "Publicação Original [Diário Oficial da União de 03/11/1966] (p. 12667, col. 1)"}
+],
+"alteracoes": [
+{"data": "1966-11-28", "nome": "Decreto nº 59.607 de 28/11/1966", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1969-03-03", "nome": "Decreto-Lei nº 487 de 03/03/1969", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 5", "art": "5", "acao": "revogou"}], "id": "federal/decretos-lei/1969/del-487-1969-03-03"},
+{"data": "1984-05-11", "nome": "Decreto nº 89.650 de 11/05/1984", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

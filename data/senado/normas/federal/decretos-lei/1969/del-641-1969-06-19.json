@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1969/del-641-1969-06-19",
+"urn": "urn:lex:br:federal:decreto.lei:1969-06-19;641",
+"consultado_em": "2026-11-25",
+"codigo": "523913",
+"nome": "Decreto-Lei nº 641 de 19/06/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "RET", "data": "1969-06-26", "descricao": "Retificação [Diário Oficial da União de 26/06/1969] (p. 5398, col. 1)"},
+{"tipo": "PUB", "data": "1969-06-20", "descricao": "Publicação Original [Diário Oficial da União de 20/06/1969] (p. 5233, col. 4)"}
+],
+"alteracoes": [
+{"data": "1970-10-05", "nome": "Decreto nº 67.340 de 05/10/1970", "tipo": "Promulgação de Ato Internacional", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-743-1969-08-06",
+"urn": "urn:lex:br:federal:decreto.lei:1969-08-06;743",
+"consultado_em": "2026-11-25",
+"codigo": "524112",
+"nome": "Decreto-Lei nº 743 de 06/08/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-08-07", "descricao": "Publicação Original [Diário Oficial da União de 07/08/1969] (p. 6753, col. 2)"}
+],
+"alteracoes": [
+{"data": "1970-02-04", "nome": "Decreto nº 66.168 de 04/02/1970", "tipo": "Promulgação de Ato Internacional", "dispositivos": []}
+],
+"controle": []
+}

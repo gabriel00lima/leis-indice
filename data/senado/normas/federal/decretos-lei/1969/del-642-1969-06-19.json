@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1969/del-642-1969-06-19",
+"urn": "urn:lex:br:federal:decreto.lei:1969-06-19;642",
+"consultado_em": "2026-11-25",
+"codigo": "523915",
+"nome": "Decreto-Lei nº 642 de 19/06/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "RET", "data": "1969-06-26", "descricao": "Retificação [Diário Oficial da União de 26/06/1969] (p. 5398, col. 1)"},
+{"tipo": "PUB", "data": "1969-06-20", "descricao": "Publicação Original [Diário Oficial da União de 20/06/1969] (p. 5234, col. 4)"}
+],
+"alteracoes": [
+{"data": "1970-07-15", "nome": "Decreto nº 66.872 de 15/07/1970", "tipo": "Promulgação de Ato Internacional", "dispositivos": []}
+],
+"controle": []
+}

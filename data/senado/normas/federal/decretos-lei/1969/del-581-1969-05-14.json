@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1969/del-581-1969-05-14",
+"urn": "urn:lex:br:federal:decreto.lei:1969-05-14;581",
+"consultado_em": "2026-11-25",
+"codigo": "523795",
+"nome": "Decreto-Lei nº 581 de 14/05/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "RET", "data": "1969-05-30", "descricao": "Retificação [Diário Oficial da União de 30/05/1969] (p. 4604, col. 2)"},
+{"tipo": "PUB", "data": "1969-05-21", "descricao": "Publicação Original [Diário Oficial da União de 21/05/1969] (p. 4306, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-09-18", "nome": "Decreto nº 65.188 de 18/09/1969", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1967/del-107-1967-01-16",
+"urn": "urn:lex:br:federal:decreto.lei:1967-01-16;107",
+"consultado_em": "2026-11-25",
+"codigo": "522855",
+"nome": "Decreto-Lei nº 107 de 16/01/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1967-01-17", "descricao": "Publicação Original [Diário Oficial da União de 17/01/1967] (p. 673, col. 4)"}
+],
+"alteracoes": [
+{"data": "1969-10-17", "nome": "Decreto nº 65.451 de 17/10/1969", "tipo": "Aprovação de Estatuto", "dispositivos": []}
+],
+"controle": []
+}

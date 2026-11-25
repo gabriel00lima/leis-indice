@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1968/del-362-1968-12-18",
+"urn": "urn:lex:br:federal:decreto.lei:1968-12-18;362",
+"consultado_em": "2026-11-25",
+"codigo": "523360",
+"nome": "Decreto-Lei nº 362 de 18/12/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-12-19", "descricao": "Publicação Original [Diário Oficial da União de 19/12/1968] (p. 10954, col. 1)"}
+],
+"alteracoes": [
+{"data": "1970-12-30", "nome": "Decreto-Lei nº 1.142 de 30/12/1970", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1970/del-1142-1970-12-30"}
+],
+"controle": []
+}

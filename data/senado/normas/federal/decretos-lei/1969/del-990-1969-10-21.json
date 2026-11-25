@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-990-1969-10-21",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-21;990",
+"consultado_em": "2026-11-25",
+"codigo": "524603",
+"nome": "Decreto-Lei nº 990 de 21/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-21", "descricao": "Publicação Original [Diário Oficial da União de 21/10/1969] (p. 8938, col. 4)"}
+],
+"alteracoes": [
+{"data": "1972-01-24", "nome": "Decreto nº 70.042 de 24/01/1972", "tipo": "Promulgação de Ato Internacional", "dispositivos": []}
+],
+"controle": []
+}

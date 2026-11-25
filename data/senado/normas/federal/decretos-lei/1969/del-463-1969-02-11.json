@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-463-1969-02-11",
+"urn": "urn:lex:br:federal:decreto.lei:1969-02-11;463",
+"consultado_em": "2026-11-25",
+"codigo": "523563",
+"nome": "Decreto-Lei nº 463 de 11/02/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-02-12", "descricao": "Publicação Original [Diário Oficial da União de 12/02/1969] (p. 1409, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-04-29", "nome": "Decreto-Lei nº 558 de 29/04/1969", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1969/del-558-1969-04-29"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1966/del-65-1966-11-21",
+"urn": "urn:lex:br:federal:decreto.lei:1966-11-21;65",
+"consultado_em": "2026-11-25",
+"codigo": "522772",
+"nome": "Decreto-Lei nº 65 de 21/11/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-22", "descricao": "Publicação Original [Diário Oficial da União de 22/11/1966] (p. 13505, col. 3)"}
+],
+"alteracoes": [
+{"data": "1967-12-28", "nome": "Decreto nº 61.980 de 28/12/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

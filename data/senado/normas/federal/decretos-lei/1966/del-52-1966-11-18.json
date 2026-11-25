@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1966/del-52-1966-11-18",
+"urn": "urn:lex:br:federal:decreto.lei:1966-11-18;52",
+"consultado_em": "2026-11-25",
+"codigo": "522746",
+"nome": "Decreto-Lei nº 52 de 18/11/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-11-21", "descricao": "Publicação Original [Diário Oficial da União de 21/11/1966] (p. 13415, col. 3)"}
+],
+"alteracoes": [
+{"data": "1967-03-14", "nome": "Decreto nº 60.504 de 14/03/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1967-08-16", "nome": "Decreto nº 61.160 de 16/08/1967", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

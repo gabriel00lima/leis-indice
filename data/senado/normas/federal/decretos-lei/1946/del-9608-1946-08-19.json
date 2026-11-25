@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-9608-1946-08-19",
+"urn": "urn:lex:br:federal:decreto.lei:1946-08-19;9608",
+"consultado_em": "2026-11-25",
+"codigo": "534648",
+"nome": "Decreto-Lei nº 9.608 de 19/08/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-08-24", "descricao": "Publicação Original [Diário Oficial da União de 24/08/1946] (p. 12067, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-09-16", "nome": "Decreto-Lei nº 9.894 de 16/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9894-1946-09-16"},
+{"data": "1951-01-30", "nome": "Lei nº 1.341 de 30/01/1951", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1951/lei-1341-1951-01-30"}
+],
+"controle": []
+}

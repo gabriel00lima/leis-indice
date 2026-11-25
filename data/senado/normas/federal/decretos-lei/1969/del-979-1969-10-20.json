@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-979-1969-10-20",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-20;979",
+"consultado_em": "2026-11-25",
+"codigo": "524583",
+"nome": "Decreto-Lei nº 979 de 20/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-21", "descricao": "Publicação Original [Diário Oficial da União de 21/10/1969] (p. 8934, col. 3)"}
+],
+"alteracoes": [
+{"data": "1983-04-18", "nome": "Lei nº 7.091 de 18/04/1983", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1983/lei-7091-1983-04-18"}
+],
+"controle": []
+}

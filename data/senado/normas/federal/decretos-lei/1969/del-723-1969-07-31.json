@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-723-1969-07-31",
+"urn": "urn:lex:br:federal:decreto.lei:1969-07-31;723",
+"consultado_em": "2026-11-25",
+"codigo": "524073",
+"nome": "Decreto-Lei nº 723 de 31/07/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-08-04", "descricao": "Publicação Original [Diário Oficial da União de 04/08/1969] (p. 6617, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-12-21", "nome": "Lei nº 7.085 de 21/12/1982", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1982/lei-7085-1982-12-21"}
+],
+"controle": []
+}

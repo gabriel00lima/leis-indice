@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1969/del-1066-1969-10-29",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-29;1066",
+"consultado_em": "2026-11-25",
+"codigo": "524755",
+"nome": "Decreto-Lei nº 1.066 de 29/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-30", "descricao": "Publicação Original [Diário Oficial da União de 30/10/1969] (p. 9357, col. 2)"}
+],
+"alteracoes": [
+{"data": "1969-10-31", "nome": "Decreto nº 65.683 de 31/10/1969", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1979-03-15", "nome": "Decreto nº 83.292 de 15/03/1979", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

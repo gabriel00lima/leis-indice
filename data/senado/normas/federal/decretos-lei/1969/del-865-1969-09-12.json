@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-865-1969-09-12",
+"urn": "urn:lex:br:federal:decreto.lei:1969-09-12;865",
+"consultado_em": "2026-11-25",
+"codigo": "524355",
+"nome": "Decreto-Lei nº 865 de 12/09/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-09-12", "descricao": "Publicação Original [Diário Oficial da União de 12/09/1969] (p. 7732, col. 2)"}
+],
+"alteracoes": [
+{"data": "1983-08-02", "nome": "Decreto-Lei nº 2.050 de 02/08/1983", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1983/del-2050-1983-08-02"}
+],
+"controle": []
+}

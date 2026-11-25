@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-916-1969-10-07",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-07;916",
+"consultado_em": "2026-11-25",
+"codigo": "524457",
+"nome": "Decreto-Lei nº 916 de 07/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-08", "descricao": "Publicação Original [Diário Oficial da União de 08/10/1969] (p. 8489, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-02-24", "nome": "Decreto nº 79.296 de 24/02/1977", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "revogou"}]}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-9827-1946-09-10",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-10;9827",
+"consultado_em": "2026-11-25",
+"codigo": "534864",
+"nome": "Decreto-Lei nº 9.827 de 10/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "RET", "data": "1946-09-26", "descricao": "Retificação [Diário Oficial da União de 26/09/1946] (p. 13404, col. 1)"},
+{"tipo": "PUB", "data": "1946-09-12", "descricao": "Publicação Original [Diário Oficial da União de 12/09/1946] (p. 12711, col. 1)"}
+],
+"alteracoes": [
+{"data": "1965-12-01", "nome": "Lei nº 4.870 de 01/12/1965", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 8", "art": "8", "acao": "revogou"}], "id": "federal/leis-ordinarias/1965/lei-4870-1965-12-01"}
+],
+"controle": []
+}

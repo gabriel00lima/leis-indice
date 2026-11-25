@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1946/del-9164-1946-04-11",
+"urn": "urn:lex:br:federal:decreto.lei:1946-04-11;9164",
+"consultado_em": "2026-11-25",
+"codigo": "534202",
+"nome": "Decreto-Lei nº 9.164 de 11/04/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-04-23", "descricao": "Publicação Original [Diário Oficial da União de 23/04/1946] (p. 5841, col. 3)"}
+],
+"alteracoes": [
+{"data": "1946-07-08", "nome": "Decreto-Lei nº 9.437 de 08/07/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9437-1946-07-08"},
+{"data": "1946-09-06", "nome": "Decreto-Lei nº 9.770 de 06/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9770-1946-09-06"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-711-1969-07-29",
+"urn": "urn:lex:br:federal:decreto.lei:1969-07-29;711",
+"consultado_em": "2026-11-25",
+"codigo": "524049",
+"nome": "Decreto-Lei nº 711 de 29/07/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-07-30", "descricao": "Publicação Original [Diário Oficial da União de 30/07/1969] (p. 6481, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-12-16", "nome": "Lei nº 6.619 de 16/12/1978", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 2", "art": "2", "acao": "revogou"}], "id": "federal/leis-ordinarias/1978/lei-6619-1978-12-16"}
+],
+"controle": []
+}

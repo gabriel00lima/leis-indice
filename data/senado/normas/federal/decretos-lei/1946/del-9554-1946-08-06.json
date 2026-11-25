@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9554-1946-08-06",
+"urn": "urn:lex:br:federal:decreto.lei:1946-08-06;9554",
+"consultado_em": "2026-11-25",
+"codigo": "534594",
+"nome": "Decreto-Lei nº 9.554 de 06/08/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-08-13", "descricao": "Publicação Original [Diário Oficial da União de 13/08/1946] (p. 11643, col. 1)"}
+],
+"alteracoes": [
+{"data": "1946-08-06", "nome": "Decreto nº 21.588 de 06/08/1946", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

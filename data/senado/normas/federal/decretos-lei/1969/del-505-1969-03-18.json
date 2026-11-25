@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-505-1969-03-18",
+"urn": "urn:lex:br:federal:decreto.lei:1969-03-18;505",
+"consultado_em": "2026-11-25",
+"codigo": "523646",
+"nome": "Decreto-Lei nº 505 de 18/03/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-03-19", "descricao": "Publicação Original [Diário Oficial da União de 19/03/1969] (p. 2337, col. 3)"}
+],
+"alteracoes": [
+{"data": "1994-07-04", "nome": "Lei nº 8.906 de 04/07/1994", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1994/lei-8906-1994-07-04"}
+],
+"controle": []
+}

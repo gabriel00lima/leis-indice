@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1969/del-620-1969-06-10",
+"urn": "urn:lex:br:federal:decreto.lei:1969-06-10;620",
+"consultado_em": "2026-11-25",
+"codigo": "523872",
+"nome": "Decreto-Lei nº 620 de 10/06/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "RET", "data": "1969-06-13", "descricao": "Retificação [Diário Oficial da União de 13/06/1969] (p. 5062, col. 1)"},
+{"tipo": "PUB", "data": "1969-06-11", "descricao": "Publicação Original [Diário Oficial da União de 11/06/1969] (p. 4946, col. 1)"}
+],
+"alteracoes": [
+{"data": "1969-07-29", "nome": "Decreto-Lei nº 711 de 29/07/1969", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1969/del-711-1969-07-29"}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1969/del-778-1969-08-21",
+"urn": "urn:lex:br:federal:decreto.lei:1969-08-21;778",
+"consultado_em": "2026-11-25",
+"codigo": "524182",
+"nome": "Decreto-Lei nº 778 de 21/08/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-08-22", "descricao": "Publicação Original [Diário Oficial da União de 22/08/1969] (p. 7129, col. 3)"}
+],
+"alteracoes": [
+{"data": "1969-10-21", "nome": "Decreto nº 65.559 de 21/10/1969", "tipo": "Aprovação de Estatuto", "dispositivos": []},
+{"data": "1970-11-27", "nome": "Decreto nº 67.671 de 27/11/1970", "tipo": "Alteração Permanente", "dispositivos": []}
+],
+"controle": []
+}

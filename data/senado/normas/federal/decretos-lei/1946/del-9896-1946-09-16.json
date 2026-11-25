@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9896-1946-09-16",
+"urn": "urn:lex:br:federal:decreto.lei:1946-09-16;9896",
+"consultado_em": "2026-11-25",
+"codigo": "534933",
+"nome": "Decreto-Lei nº 9.896 de 16/09/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-09-17", "descricao": "Publicação Original [Diário Oficial da União de 17/09/1946] (p. 13007, col. 2)"}
+],
+"alteracoes": [
+{"data": "1946-09-05", "nome": "Decreto-Lei nº 9.742 de 05/09/1946", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1946/del-9742-1946-09-05"}
+],
+"controle": []
+}

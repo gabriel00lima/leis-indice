@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1967/del-142-1967-02-02",
+"urn": "urn:lex:br:federal:decreto.lei:1967-02-02;142",
+"consultado_em": "2026-11-25",
+"codigo": "522926",
+"nome": "Decreto-Lei nº 142 de 02/02/1967",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "RET", "data": "1967-02-15", "descricao": "Retificação [Diário Oficial da União de 15/02/1967] (p. 1848, col. 2)"},
+{"tipo": "RET", "data": "1967-03-08", "descricao": "Retificação [Diário Oficial da União de 08/03/1967] (p. 2812, col. 1)"},
+{"tipo": "REP", "data": "1967-02-28", "descricao": "Republicação Integral [Diário Oficial da União de 28/02/1967] (p. 2411, col. 1)"},
+{"tipo": "PUB", "data": "1967-02-03", "descricao": "Publicação Original [Diário Oficial da União de 03/02/1967] (p. 1500, col. 3)"}
+],
+"alteracoes": [
+{"data": "1967-11-17", "nome": "Lei nº 5.356 de 17/11/1967", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1967/lei-5356-1967-11-17"}
+],
+"controle": []
+}

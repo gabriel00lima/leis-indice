@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1968/del-395-1968-12-30",
+"urn": "urn:lex:br:federal:decreto.lei:1968-12-30;395",
+"consultado_em": "2026-11-25",
+"codigo": "523426",
+"nome": "Decreto-Lei nº 395 de 30/12/1968",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1968-12-30", "descricao": "Publicação Original [Diário Oficial da União de 30/12/1968] (p. 11259, col. 1)"}
+],
+"alteracoes": [
+{"data": "1972-06-23", "nome": "Decreto nº 70.750 de 23/06/1972", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1976-10-27", "nome": "Decreto nº 78.650 de 27/10/1976", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

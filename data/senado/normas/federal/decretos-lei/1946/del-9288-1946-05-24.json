@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9288-1946-05-24",
+"urn": "urn:lex:br:federal:decreto.lei:1946-05-24;9288",
+"consultado_em": "2026-11-25",
+"codigo": "534327",
+"nome": "Decreto-Lei nº 9.288 de 24/05/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-05-27", "descricao": "Publicação Original [Diário Oficial da União de 27/05/1946] (p. 7823, col. 3)"}
+],
+"alteracoes": [
+{"data": "1953-01-07", "nome": "Lei nº 1.808 de 07/01/1953", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/leis-ordinarias/1953/lei-1808-1953-01-07"}
+],
+"controle": []
+}

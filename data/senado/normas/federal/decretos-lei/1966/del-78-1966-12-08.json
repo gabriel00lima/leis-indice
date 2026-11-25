@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1966/del-78-1966-12-08",
+"urn": "urn:lex:br:federal:decreto.lei:1966-12-08;78",
+"consultado_em": "2026-11-25",
+"codigo": "522797",
+"nome": "Decreto-Lei nº 78 de 08/12/1966",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1966-12-09", "descricao": "Publicação Original [Diário Oficial da União de 09/12/1966] (p. 14285, col. 1)"}
+],
+"alteracoes": [
+{"data": "1967-01-16", "nome": "Decreto nº 60.076 de 16/01/1967", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []}
+],
+"controle": []
+}

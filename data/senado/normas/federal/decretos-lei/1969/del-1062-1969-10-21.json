@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-1062-1969-10-21",
+"urn": "urn:lex:br:federal:decreto.lei:1969-10-21;1062",
+"consultado_em": "2026-11-25",
+"codigo": "524747",
+"nome": "Decreto-Lei nº 1.062 de 21/10/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-10-21", "descricao": "Publicação Original [Diário Oficial da União de 21/10/1969] (p. 8959, col. 1)"}
+],
+"alteracoes": [
+{"data": "1972-06-27", "nome": "Lei nº 5.787 de 27/06/1972", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1972/lei-5787-1972-06-27"}
+],
+"controle": []
+}

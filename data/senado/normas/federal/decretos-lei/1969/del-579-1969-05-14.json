@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1969/del-579-1969-05-14",
+"urn": "urn:lex:br:federal:decreto.lei:1969-05-14;579",
+"consultado_em": "2026-11-25",
+"codigo": "523791",
+"nome": "Decreto-Lei nº 579 de 14/05/1969",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1969-05-15", "descricao": "Publicação Original [Diário Oficial da União de 15/05/1969] (p. 4105, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-12-20", "nome": "Decreto-Lei nº 1.976 de 20/12/1982", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1976-1982-12-20"}
+],
+"controle": []
+}

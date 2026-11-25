@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1946/del-9148-1946-04-08",
+"urn": "urn:lex:br:federal:decreto.lei:1946-04-08;9148",
+"consultado_em": "2026-11-25",
+"codigo": "534186",
+"nome": "Decreto-Lei nº 9.148 de 08/04/1946",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1946-04-10", "descricao": "Publicação Original [Diário Oficial da União de 10/04/1946] (p. 5228, col. 1)"}
+],
+"alteracoes": [
+{"data": "1948-11-26", "nome": "Lei nº 494 de 26/11/1948", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/leis-ordinarias/1948/lei-494-1948-11-26"}
+],
+"controle": []
+}
