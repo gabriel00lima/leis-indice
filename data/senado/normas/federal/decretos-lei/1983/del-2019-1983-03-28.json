@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1983/del-2019-1983-03-28",
+"urn": "urn:lex:br:federal:decreto.lei:1983-03-28;2019",
+"consultado_em": "2026-11-26",
+"codigo": "526647",
+"nome": "Decreto-Lei nº 2.019 de 28/03/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-03-29", "descricao": "Publicação Original [Diário Oficial da União de 29/03/1983] (p. 5065, col. 1)"}
+],
+"alteracoes": [
+{"data": "1989-01-06", "nome": "Lei nº 7.721 de 06/01/1989", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7721-1989-01-06"},
+{"data": "1989-01-09", "nome": "Lei nº 7.728 de 09/01/1989", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1989/lei-7728-1989-01-09"}
+],
+"controle": []
+}

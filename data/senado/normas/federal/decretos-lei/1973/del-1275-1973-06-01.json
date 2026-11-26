@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1973/del-1275-1973-06-01",
+"urn": "urn:lex:br:federal:decreto.lei:1973-06-01;1275",
+"consultado_em": "2026-11-26",
+"codigo": "525170",
+"nome": "Decreto-Lei nº 1.275 de 01/06/1973",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1973-06-08", "descricao": "Publicação Original [Diário Oficial da União de 08/06/1973] (p. 5537, col. 1)"}
+],
+"alteracoes": [
+{"data": "1973-08-24", "nome": "Decreto Legislativo nº 46 de 24/08/1973", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1978-05-24", "nome": "Lei nº 6.532 de 24/05/1978", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1978/lei-6532-1978-05-24"}
+],
+"controle": []
+}

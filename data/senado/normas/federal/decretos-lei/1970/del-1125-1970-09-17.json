@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1970/del-1125-1970-09-17",
+"urn": "urn:lex:br:federal:decreto.lei:1970-09-17;1125",
+"consultado_em": "2026-11-26",
+"codigo": "524872",
+"nome": "Decreto-Lei nº 1.125 de 17/09/1970",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1970-09-18", "descricao": "Publicação Original [Diário Oficial da União de 18/09/1970] (p. 8137, col. 1)"}
+],
+"alteracoes": [
+{"data": "1970-10-02", "nome": "Decreto Legislativo nº 66 de 02/10/1970", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

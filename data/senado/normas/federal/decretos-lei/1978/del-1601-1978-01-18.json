@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1978/del-1601-1978-01-18",
+"urn": "urn:lex:br:federal:decreto.lei:1978-01-18;1601",
+"consultado_em": "2026-11-26",
+"codigo": "525823",
+"nome": "Decreto-Lei nº 1.601 de 18/01/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-01-19", "descricao": "Publicação Original [Diário Oficial da União de 19/01/1978] (p. 969, col. 1)"}
+],
+"alteracoes": [
+{"data": "1978-04-25", "nome": "Decreto Legislativo nº 17 de 25/04/1978", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

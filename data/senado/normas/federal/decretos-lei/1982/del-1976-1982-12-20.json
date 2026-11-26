@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1982/del-1976-1982-12-20",
+"urn": "urn:lex:br:federal:decreto.lei:1982-12-20;1976",
+"consultado_em": "2026-11-26",
+"codigo": "526561",
+"nome": "Decreto-Lei nº 1.976 de 20/12/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-12-21", "descricao": "Publicação Original [Diário Oficial da União de 21/12/1982] (p. 23867, col. 1)"}
+],
+"alteracoes": [
+{"data": "1983-05-05", "nome": "Decreto Legislativo nº 24 de 05/05/1983", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

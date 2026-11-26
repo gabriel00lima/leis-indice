@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1980/del-1802-1980-08-29",
+"urn": "urn:lex:br:federal:decreto.lei:1980-08-29;1802",
+"consultado_em": "2026-11-26",
+"codigo": "526214",
+"nome": "Decreto-Lei nº 1.802 de 29/08/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-09-01", "descricao": "Publicação Original [Diário Oficial da União de 01/09/1980] (p. 17218, col. 2)"}
+],
+"alteracoes": [
+{"data": "1980-11-27", "nome": "Decreto Legislativo nº 125 de 27/11/1980", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

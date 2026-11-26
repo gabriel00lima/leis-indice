@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1988/del-2437-1988-05-24",
+"urn": "urn:lex:br:federal:decreto.lei:1988-05-24;2437",
+"consultado_em": "2026-11-26",
+"codigo": "527487",
+"nome": "Decreto-Lei nº 2.437 de 24/05/1988",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1988-05-25", "descricao": "Publicação Original [Diário Oficial da União de 25/05/1988] (p. 9305, col. 2)"}
+],
+"alteracoes": [
+{"data": "1988-05-24", "nome": "Decreto nº 96.086 de 24/05/1988", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1989-08-15", "nome": "Decreto nº 98.054 de 15/08/1989", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 3", "art": "3", "acao": "alterou"}]}
+],
+"controle": []
+}

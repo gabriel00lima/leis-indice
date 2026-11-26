@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1979/del-1724-1979-12-07",
+"urn": "urn:lex:br:federal:decreto.lei:1979-12-07;1724",
+"consultado_em": "2026-11-26",
+"codigo": "526058",
+"nome": "Decreto-Lei nº 1.724 de 07/12/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-12-07", "descricao": "Publicação Original [Diário Oficial da União de 07/12/1979] (p. 18477, col. 1)"},
+{"tipo": "ATMVACD", "data": null, "descricao": "Compilação Monovigente na CD"}
+],
+"alteracoes": [
+{"data": "1980-05-13", "nome": "Decreto Legislativo nº 31 de 13/05/1980", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": [
+{"data": "2005-12-26", "nome": "Resolução do Senado Federal nº 71 de 26/12/2005", "tipo": "Alteração Permanente", "dispositivos": [{"dispositivo": "Art. 1", "art": "1", "efeito": "inconstitucional", "texto": "Declaração de Inconstitucionalidade"}]}
+]
+}

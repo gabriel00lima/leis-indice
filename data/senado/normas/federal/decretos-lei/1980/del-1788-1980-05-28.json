@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1980/del-1788-1980-05-28",
+"urn": "urn:lex:br:federal:decreto.lei:1980-05-28;1788",
+"consultado_em": "2026-11-26",
+"codigo": "526186",
+"nome": "Decreto-Lei nº 1.788 de 28/05/1980",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1980-05-29", "descricao": "Publicação Original [Diário Oficial da União de 29/05/1980] (p. 10648, col. 1)"},
+{"tipo": "ATMVACD", "data": null, "descricao": "Compilação Monovigente na CD"}
+],
+"alteracoes": [
+{"data": "1980-10-22", "nome": "Decreto Legislativo nº 104 de 22/10/1980", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1980-12-11", "nome": "Decreto-Lei nº 1.821 de 11/12/1980", "tipo": "Alteração Permanente", "dispositivos": [], "id": "federal/decretos-lei/1980/del-1821-1980-12-11"}
+],
+"controle": []
+}

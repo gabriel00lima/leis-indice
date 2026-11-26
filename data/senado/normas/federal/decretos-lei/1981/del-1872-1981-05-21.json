@@ -1,0 +1,24 @@
+{
+"id": "federal/decretos-lei/1981/del-1872-1981-05-21",
+"urn": "urn:lex:br:federal:decreto.lei:1981-05-21;1872",
+"consultado_em": "2026-11-26",
+"codigo": "526353",
+"nome": "Decreto-Lei nº 1.872 de 21/05/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-05-22", "descricao": "Publicação Original [Diário Oficial da União de 22/05/1981] (p. 9372, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-03-09", "nome": "Decreto Legislativo nº 1 de 09/03/1982", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1997-10-17", "nome": "Medida Provisória nº 1.531-11 de 17/10/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-11-13", "nome": "Medida Provisória nº 1.531-12 de 13/11/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1997-12-11", "nome": "Medida Provisória nº 1.531-13 de 11/12/1997", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1998-01-08", "nome": "Medida Provisória nº 1.531-14 de 08/01/1998", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1998-02-05", "nome": "Medida Provisória nº 1.531-15 de 05/02/1998", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1998-03-05", "nome": "Medida Provisória nº 1.531-16 de 05/03/1998", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1998-04-02", "nome": "Medida Provisória nº 1.531-17 de 02/04/1998", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1998-04-29", "nome": "Medida Provisória nº 1.531-18 de 29/04/1998", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "1998-05-27", "nome": "Lei nº 9.648 de 27/05/1998", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1998/lei-9648-1998-05-27"}
+],
+"controle": []
+}

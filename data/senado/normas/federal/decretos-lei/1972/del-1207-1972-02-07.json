@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1972/del-1207-1972-02-07",
+"urn": "urn:lex:br:federal:decreto.lei:1972-02-07;1207",
+"consultado_em": "2026-11-26",
+"codigo": "525035",
+"nome": "Decreto-Lei nº 1.207 de 07/02/1972",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "REP", "data": "1972-03-03", "descricao": "Republicação Integral [Boletim do Ministério do Exército de 03/03/1972] (p. 0, col. 3)"},
+{"tipo": "PUB", "data": "1972-02-07", "descricao": "Publicação Original [Diário Oficial da União de 07/02/1972] (p. 1129, col. 1)"}
+],
+"alteracoes": [
+{"data": "1972-05-25", "nome": "Decreto Legislativo nº 27 de 25/05/1972", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

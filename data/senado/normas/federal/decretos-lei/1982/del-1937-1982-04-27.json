@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1982/del-1937-1982-04-27",
+"urn": "urn:lex:br:federal:decreto.lei:1982-04-27;1937",
+"consultado_em": "2026-11-26",
+"codigo": "526483",
+"nome": "Decreto-Lei nº 1.937 de 27/04/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-04-28", "descricao": "Publicação Original [Diário Oficial da União de 28/04/1982] (p. 7473, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-10-05", "nome": "Decreto Legislativo nº 97 de 05/10/1982", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

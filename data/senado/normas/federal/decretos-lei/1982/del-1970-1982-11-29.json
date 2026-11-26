@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1982/del-1970-1982-11-29",
+"urn": "urn:lex:br:federal:decreto.lei:1982-11-29;1970",
+"consultado_em": "2026-11-26",
+"codigo": "526549",
+"nome": "Decreto-Lei nº 1.970 de 29/11/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-11-30", "descricao": "Publicação Original [Diário Oficial da União de 30/11/1982] (p. 22321, col. 2)"}
+],
+"alteracoes": [
+{"data": "1983-05-04", "nome": "Decreto Legislativo nº 18 de 04/05/1983", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1983/del-2039-1983-06-29",
+"urn": "urn:lex:br:federal:decreto.lei:1983-06-29;2039",
+"consultado_em": "2026-11-26",
+"codigo": "526686",
+"nome": "Decreto-Lei nº 2.039 de 29/06/1983",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1983-06-30", "descricao": "Publicação Original [Diário Oficial da União de 30/06/1983] (p. 11429, col. 2)"}
+],
+"alteracoes": [
+{"data": "1983-10-20", "nome": "Resolução do Congresso Nacional nº 3 de 20/10/1983", "tipo": "Rejeição", "dispositivos": []}
+],
+"controle": []
+}

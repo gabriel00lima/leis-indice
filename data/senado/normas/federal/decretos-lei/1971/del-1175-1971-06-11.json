@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1971/del-1175-1971-06-11",
+"urn": "urn:lex:br:federal:decreto.lei:1971-06-11;1175",
+"consultado_em": "2026-11-26",
+"codigo": "524971",
+"nome": "Decreto-Lei nº 1.175 de 11/06/1971",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1971-06-14", "descricao": "Publicação Original [Diário Oficial da União de 14/06/1971] (p. 4513, col. 1)"}
+],
+"alteracoes": [
+{"data": "1971-07-01", "nome": "Decreto Legislativo nº 46 de 01/07/1971", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

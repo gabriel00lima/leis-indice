@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1987/del-2340-1987-06-26",
+"urn": "urn:lex:br:federal:decreto.lei:1987-06-26;2340",
+"consultado_em": "2026-11-26",
+"codigo": "527293",
+"nome": "Decreto-Lei nº 2.340 de 26/06/1987",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1987-06-29", "descricao": "Publicação Original [Diário Oficial da União de 29/06/1987] (p. 10061, col. 2)"}
+],
+"alteracoes": [
+{"data": "1988-08-24", "nome": "Decreto Legislativo nº 8 de 24/08/1988", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

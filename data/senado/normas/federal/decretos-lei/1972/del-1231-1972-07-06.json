@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1972/del-1231-1972-07-06",
+"urn": "urn:lex:br:federal:decreto.lei:1972-07-06;1231",
+"consultado_em": "2026-11-26",
+"codigo": "525083",
+"nome": "Decreto-Lei nº 1.231 de 06/07/1972",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1972-07-07", "descricao": "Publicação Original [Diário Oficial da União de 07/07/1972] (p. 5961, col. 1)"}
+],
+"alteracoes": [
+{"data": "1972-08-25", "nome": "Decreto Legislativo nº 47 de 25/08/1972", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1982/del-1948-1982-06-29",
+"urn": "urn:lex:br:federal:decreto.lei:1982-06-29;1948",
+"consultado_em": "2026-11-26",
+"codigo": "526505",
+"nome": "Decreto-Lei nº 1.948 de 29/06/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1982-06-30", "descricao": "Publicação Original [Diário Oficial da União de 30/06/1982] (p. 12028, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-11-26", "nome": "Decreto Legislativo nº 107 de 26/11/1982", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

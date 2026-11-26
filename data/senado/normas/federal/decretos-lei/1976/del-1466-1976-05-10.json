@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1976/del-1466-1976-05-10",
+"urn": "urn:lex:br:federal:decreto.lei:1976-05-10;1466",
+"consultado_em": "2026-11-26",
+"codigo": "525554",
+"nome": "Decreto-Lei nº 1.466 de 10/05/1976",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "RET", "data": "1976-06-29", "descricao": "Retificação [Diário Oficial da União de 29/06/1976] (p. 8929, col. 4)"},
+{"tipo": "PUB", "data": "1976-05-10", "descricao": "Publicação Original [Diário Oficial da União de 10/05/1976] (p. 5743, col. 1)"}
+],
+"alteracoes": [
+{"data": "1976-06-14", "nome": "Decreto Legislativo nº 58 de 14/06/1976", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1979-06-07", "nome": "Decreto nº 83.556 de 07/06/1979", "tipo": "Legislação Correlata", "dispositivos": []}
+],
+"controle": []
+}

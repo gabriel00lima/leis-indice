@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1970/del-1120-1970-08-14",
+"urn": "urn:lex:br:federal:decreto.lei:1970-08-14;1120",
+"consultado_em": "2026-11-26",
+"codigo": "524862",
+"nome": "Decreto-Lei nº 1.120 de 14/08/1970",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1970-08-14", "descricao": "Publicação Original [Diário Oficial da União de 14/08/1970] (p. 7145, col. 1)"}
+],
+"alteracoes": [
+{"data": "1970-10-01", "nome": "Decreto Legislativo nº 62 de 01/10/1970", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

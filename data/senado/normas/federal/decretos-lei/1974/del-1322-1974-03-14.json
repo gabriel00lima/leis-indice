@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1974/del-1322-1974-03-14",
+"urn": "urn:lex:br:federal:decreto.lei:1974-03-14;1322",
+"consultado_em": "2026-11-26",
+"codigo": "525265",
+"nome": "Decreto-Lei nº 1.322 de 14/03/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-03-14", "descricao": "Publicação Original [Diário Oficial da União de 14/03/1974] (p. 2868, col. 3)"}
+],
+"alteracoes": [
+{"data": "1974-05-09", "nome": "Decreto Legislativo nº 36 de 09/05/1974", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

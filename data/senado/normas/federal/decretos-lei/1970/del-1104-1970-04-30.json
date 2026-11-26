@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1970/del-1104-1970-04-30",
+"urn": "urn:lex:br:federal:decreto.lei:1970-04-30;1104",
+"consultado_em": "2026-11-26",
+"codigo": "524830",
+"nome": "Decreto-Lei nº 1.104 de 30/04/1970",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1970-04-30", "descricao": "Publicação Original [Diário Oficial da União de 30/04/1970] (p. 3153, col. 1)"}
+],
+"alteracoes": [
+{"data": "1970-06-30", "nome": "Decreto Legislativo nº 37 de 30/06/1970", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1978/del-1621-1978-04-13",
+"urn": "urn:lex:br:federal:decreto.lei:1978-04-13;1621",
+"consultado_em": "2026-11-26",
+"codigo": "525863",
+"nome": "Decreto-Lei nº 1.621 de 13/04/1978",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1978-04-17", "descricao": "Publicação Original [Diário Oficial da União de 17/04/1978] (p. 5392, col. 2)"}
+],
+"alteracoes": [
+{"data": "1978-06-02", "nome": "Decreto Legislativo nº 44 de 02/06/1978", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1982-06-29", "nome": "Decreto-Lei nº 1.948 de 29/06/1982", "tipo": "Legislação Correlata", "dispositivos": [], "id": "federal/decretos-lei/1982/del-1948-1982-06-29"}
+],
+"controle": []
+}

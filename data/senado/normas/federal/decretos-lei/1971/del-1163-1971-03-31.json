@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1971/del-1163-1971-03-31",
+"urn": "urn:lex:br:federal:decreto.lei:1971-03-31;1163",
+"consultado_em": "2026-11-26",
+"codigo": "524947",
+"nome": "Decreto-Lei nº 1.163 de 31/03/1971",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1971-03-31", "descricao": "Publicação Original [Diário Oficial da União de 31/03/1971] (p. 2505, col. 1)"}
+],
+"alteracoes": [
+{"data": "1971-05-25", "nome": "Decreto Legislativo nº 34 de 25/05/1971", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,18 @@
+{
+"id": "federal/decretos-lei/1981/del-1896-1981-12-17",
+"urn": "urn:lex:br:federal:decreto.lei:1981-12-17;1896",
+"consultado_em": "2026-11-26",
+"codigo": "526401",
+"nome": "Decreto-Lei nº 1.896 de 17/12/1981",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1981-12-18", "descricao": "Publicação Original [Diário Oficial da União de 18/12/1981] (p. 24173, col. 1)"}
+],
+"alteracoes": [
+{"data": "1982-01-21", "nome": "Decreto nº 86.864 de 21/01/1982", "tipo": "Regulamentação Permanente de Norma", "dispositivos": []},
+{"data": "1982-06-01", "nome": "Decreto Legislativo nº 43 de 01/06/1982", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "2011-11-22", "nome": "Medida Provisória nº 551 de 22/11/2011", "tipo": "Revogação Provisória da Norma no Todo", "dispositivos": []},
+{"data": "2012-05-17", "nome": "Lei nº 12.648 de 17/05/2012", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2012/lei-12648-2012-05-17"}
+],
+"controle": []
+}

@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1988/del-2448-1988-07-21",
+"urn": "urn:lex:br:federal:decreto.lei:1988-07-21;2448",
+"consultado_em": "2026-11-26",
+"codigo": "527509",
+"nome": "Decreto-Lei nº 2.448 de 21/07/1988",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1988-07-22", "descricao": "Publicação Original [Diário Oficial da União de 22/07/1988] (p. 13761, col. 1)"}
+],
+"alteracoes": [
+{"data": "1997-09-23", "nome": "Lei nº 9.503 de 23/09/1997", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1997/lei-9503-1997-09-23"}
+],
+"controle": []
+}

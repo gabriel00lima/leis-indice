@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1979/del-1655-1979-01-09",
+"urn": "urn:lex:br:federal:decreto.lei:1979-01-09;1655",
+"consultado_em": "2026-11-26",
+"codigo": "525931",
+"nome": "Decreto-Lei nº 1.655 de 09/01/1979",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1979-01-10", "descricao": "Publicação Original [Diário Oficial da União de 10/01/1979] (p. 377, col. 1)"}
+],
+"alteracoes": [
+{"data": "1979-05-10", "nome": "Decreto Legislativo nº 14 de 10/05/1979", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

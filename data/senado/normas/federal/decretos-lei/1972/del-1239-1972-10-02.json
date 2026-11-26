@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1972/del-1239-1972-10-02",
+"urn": "urn:lex:br:federal:decreto.lei:1972-10-02;1239",
+"consultado_em": "2026-11-26",
+"codigo": "525099",
+"nome": "Decreto-Lei nº 1.239 de 02/10/1972",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "RET", "data": "1972-10-05", "descricao": "Retificação [Diário Oficial da União de 05/10/1972] (p. 8884, col. 1)"},
+{"tipo": "PUB", "data": "1972-10-03", "descricao": "Publicação Original [Diário Oficial da União de 03/10/1972] (p. 8801, col. 1)"}
+],
+"alteracoes": [
+{"data": "1972-11-09", "nome": "Decreto Legislativo nº 66 de 09/11/1972", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1972-11-23", "nome": "Decreto Legislativo nº 67 de 23/11/1972", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

@@ -1,0 +1,17 @@
+{
+"id": "federal/decretos-lei/1982/del-1957-1982-08-31",
+"urn": "urn:lex:br:federal:decreto.lei:1982-08-31;1957",
+"consultado_em": "2026-11-26",
+"codigo": "526523",
+"nome": "Decreto-Lei nº 1.957 de 31/08/1982",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "RET", "data": "1982-09-02", "descricao": "Retificação (Seq. 1) [Diário Oficial da União de 02/09/1982] (p. 16417, col. 1)"},
+{"tipo": "PUB", "data": "1982-09-01", "descricao": "Publicação Original [Diário Oficial da União de 01/09/1982] (p. 16267, col. 1)"}
+],
+"alteracoes": [
+{"data": "2002-06-28", "nome": "Medida Provisória nº 49 de 28/06/2002", "tipo": "Alteração Provisória", "dispositivos": []},
+{"data": "2002-11-13", "nome": "Lei nº 10.552 de 13/11/2002", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/2002/lei-10552-2002-11-13"}
+],
+"controle": []
+}

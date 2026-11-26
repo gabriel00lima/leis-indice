@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1977/del-1528-1977-03-14",
+"urn": "urn:lex:br:federal:decreto.lei:1977-03-14;1528",
+"consultado_em": "2026-11-26",
+"codigo": "525677",
+"nome": "Decreto-Lei nº 1.528 de 14/03/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-03-15", "descricao": "Publicação Original [Diário Oficial da União de 15/03/1977] (p. 2931, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-05-23", "nome": "Decreto Legislativo nº 44 de 23/05/1977", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

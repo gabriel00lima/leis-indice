@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1974/del-1336-1974-07-18",
+"urn": "urn:lex:br:federal:decreto.lei:1974-07-18;1336",
+"consultado_em": "2026-11-26",
+"codigo": "525293",
+"nome": "Decreto-Lei nº 1.336 de 18/07/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-07-19", "descricao": "Publicação Original [Diário Oficial da União de 19/07/1974] (p. 8133, col. 1)"}
+],
+"alteracoes": [
+{"data": "1974-09-19", "nome": "Decreto Legislativo nº 64 de 19/09/1974", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}

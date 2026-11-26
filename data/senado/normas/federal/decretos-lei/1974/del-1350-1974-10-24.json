@@ -1,0 +1,16 @@
+{
+"id": "federal/decretos-lei/1974/del-1350-1974-10-24",
+"urn": "urn:lex:br:federal:decreto.lei:1974-10-24;1350",
+"consultado_em": "2026-11-26",
+"codigo": "525321",
+"nome": "Decreto-Lei nº 1.350 de 24/10/1974",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1974-10-25", "descricao": "Publicação Original [Diário Oficial da União de 25/10/1974] (p. 12201, col. 1)"}
+],
+"alteracoes": [
+{"data": "1975-03-14", "nome": "Decreto Legislativo nº 3 de 14/03/1975", "tipo": "Aprovação de Texto", "dispositivos": []},
+{"data": "1977-11-14", "nome": "Lei nº 6.468 de 14/11/1977", "tipo": "Revogação Permanente da Norma no Todo", "dispositivos": [], "id": "federal/leis-ordinarias/1977/lei-6468-1977-11-14"}
+],
+"controle": []
+}

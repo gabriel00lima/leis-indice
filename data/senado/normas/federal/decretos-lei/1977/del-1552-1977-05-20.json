@@ -1,0 +1,15 @@
+{
+"id": "federal/decretos-lei/1977/del-1552-1977-05-20",
+"urn": "urn:lex:br:federal:decreto.lei:1977-05-20;1552",
+"consultado_em": "2026-11-26",
+"codigo": "525725",
+"nome": "Decreto-Lei nº 1.552 de 20/05/1977",
+"apelidos": [],
+"publicacoes": [
+{"tipo": "PUB", "data": "1977-05-23", "descricao": "Publicação Original [Diário Oficial da União de 23/05/1977] (p. 6173, col. 1)"}
+],
+"alteracoes": [
+{"data": "1977-06-30", "nome": "Decreto Legislativo nº 75 de 30/06/1977", "tipo": "Aprovação de Texto", "dispositivos": []}
+],
+"controle": []
+}
